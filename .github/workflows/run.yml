@@ -2,7 +2,7 @@ name: offer-bot
 
 on:
   schedule:
-    - cron: "0 * * * *"   # every hour at :00
+    - cron: "*/10 * * * *"   # every 10 minutes
   workflow_dispatch:
 
 permissions:
