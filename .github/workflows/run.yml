@@ -1,8 +1,10 @@
 name: offer-bot
 
 on:
-  schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes
+  # GitHub's own `schedule:` cron is unreliable below ~1h (silently
+  # delayed/coalesced under platform load). Triggered externally instead
+  # by a free cron-job.org job calling the workflow_dispatch API every
+  # 10 minutes — see docs/AUTOMATION.md.
   workflow_dispatch:
 
 permissions:
