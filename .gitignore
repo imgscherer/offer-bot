@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Local secrets
+.env
+.env.local
+
+# Runtime artifacts
+data/generated/
+*.log
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Don't ignore these — they ARE the deploy artifact
+!pages/
+!data/history.json

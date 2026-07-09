@@ -1,0 +1,86 @@
+{
+  "posted": {
+    "7ca6288cf0023f05": {
+      "title": "Chinelo Infantil Personagens Antiderrapante unissex (Tam. 26 ao 33, Diversas cores)",
+      "posted_at": "2026-07-09T00:06:55.138041"
+    },
+    "369000dced0be1a5": {
+      "title": "Fralda Turma da Mônica Baby M 28 unidades",
+      "posted_at": "2026-07-09T00:07:06.675826"
+    },
+    "21db3091b1a468b8": {
+      "title": "Tenis Fila Infantil",
+      "posted_at": "2026-07-09T00:15:48.176275"
+    },
+    "293cccca8459f524": {
+      "title": "Fralda Pampers Supersec M 30 Unidades",
+      "posted_at": "2026-07-09T00:15:55.862578"
+    }
+  },
+  "results": [
+    {
+      "offer_id": "7ca6288cf0023f05",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "8",
+      "error": null,
+      "at": "2026-07-09T00:06:55.137291"
+    },
+    {
+      "offer_id": "21db3091b1a468b8",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "",
+      "at": "2026-07-09T00:06:58.752564"
+    },
+    {
+      "offer_id": "369000dced0be1a5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "9",
+      "error": null,
+      "at": "2026-07-09T00:07:06.675182"
+    },
+    {
+      "offer_id": "56f4ee4f6d87550c",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "",
+      "at": "2026-07-09T00:07:10.493466"
+    },
+    {
+      "offer_id": "293cccca8459f524",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "",
+      "at": "2026-07-09T00:07:14.968865"
+    },
+    {
+      "offer_id": "21db3091b1a468b8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "10",
+      "error": null,
+      "at": "2026-07-09T00:15:48.175384"
+    },
+    {
+      "offer_id": "56f4ee4f6d87550c",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "",
+      "at": "2026-07-09T00:15:49.323297"
+    },
+    {
+      "offer_id": "293cccca8459f524",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "11",
+      "error": null,
+      "at": "2026-07-09T00:15:55.861590"
+    }
+  ]
+}

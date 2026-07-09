@@ -1,0 +1,98 @@
+[
+  {
+    "id": "293cccca8459f524",
+    "title": "Fralda Pampers Supersec M 30 Unidades",
+    "price_now": 24.27,
+    "price_was": 34.55,
+    "discount_pct": 30,
+    "url": "https://meli.la/1MjsYXc",
+    "image": "https://i.promobit.com.br/1200/370356285217835419098759869691.png",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-09T00:15:55.862030"
+  },
+  {
+    "id": "21db3091b1a468b8",
+    "title": "Tenis Fila Infantil",
+    "price_now": 135.9,
+    "price_was": 299.9,
+    "discount_pct": 55,
+    "url": "https://meli.la/2tjDv7A",
+    "image": "https://i.promobit.com.br/1200/785679600717835453736628262932.png",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-09T00:15:48.175870"
+  },
+  {
+    "id": "369000dced0be1a5",
+    "title": "Fralda Turma da Mônica Baby M 28 unidades",
+    "price_now": 18.9,
+    "price_was": 28.68,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KXW911?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/939400676917835411726136995331.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-09T00:07:06.675517"
+  },
+  {
+    "id": "7ca6288cf0023f05",
+    "title": "Chinelo Infantil Personagens Antiderrapante unissex (Tam. 26 ao 33, Diversas cores)",
+    "price_now": 22.9,
+    "price_was": 60.26,
+    "discount_pct": 62,
+    "url": "https://s.shopee.com.br/AKYq0Hsprv?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/393148266517835443578984796321.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-09T00:06:55.137707"
+  },
+  {
+    "id": "prev003abc",
+    "title": "Carrinho de Bebe Travel System Galzerano",
+    "price_now": 999.0,
+    "price_was": 1599.0,
+    "discount_pct": 38,
+    "url": "https://example.com/p/3?tag=seu-id",
+    "image": "placeholder://3",
+    "source": "amazon",
+    "niche": "motherhood",
+    "added_at": "2026-07-03T01:46:17.507428"
+  },
+  {
+    "id": "prev002abc",
+    "title": "Kit 3 Bodies Manga Curta Algodao Bebe",
+    "price_now": 39.99,
+    "price_was": 79.99,
+    "discount_pct": 50,
+    "url": "https://example.com/p/2?tag=seu-id",
+    "image": "placeholder://2",
+    "source": "magalu",
+    "niche": "motherhood",
+    "added_at": "2026-07-03T01:46:17.506994"
+  },
+  {
+    "id": "prev001abc",
+    "title": "Mamadeira Anticolica Philips Avent 260ml",
+    "price_now": 49.9,
+    "price_was": 89.9,
+    "discount_pct": 44,
+    "url": "https://example.com/p/1?tag=seu-id",
+    "image": "placeholder://1",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-07-03T01:46:17.506596"
+  },
+  {
+    "id": "prev000abc",
+    "title": "Fralda Pampers Confort Sec XXG 148 Unidades",
+    "price_now": 167.25,
+    "price_was": 239.9,
+    "discount_pct": 30,
+    "url": "https://example.com/p/0?tag=seu-id",
+    "image": "placeholder://0",
+    "source": "amazon",
+    "niche": "motherhood",
+    "added_at": "2026-07-03T01:46:17.506046"
+  }
+]
