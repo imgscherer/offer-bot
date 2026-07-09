@@ -15,6 +15,10 @@
     "293cccca8459f524": {
       "title": "Fralda Pampers Supersec M 30 Unidades",
       "posted_at": "2026-07-09T00:15:55.862578"
+    },
+    "56f4ee4f6d87550c": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe Mega P 54 Unidades",
+      "posted_at": "2026-07-09T00:37:48.789649"
     }
   },
   "results": [
@@ -81,6 +85,38 @@
       "post_id": "11",
       "error": null,
       "at": "2026-07-09T00:15:55.861590"
+    },
+    {
+      "offer_id": "56f4ee4f6d87550c",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "",
+      "at": "2026-07-09T00:35:37.811914"
+    },
+    {
+      "offer_id": "56f4ee4f6d87550c",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "",
+      "at": "2026-07-09T00:35:54.237495"
+    },
+    {
+      "offer_id": "56f4ee4f6d87550c",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "",
+      "at": "2026-07-09T00:36:46.272260"
+    },
+    {
+      "offer_id": "56f4ee4f6d87550c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "12",
+      "error": null,
+      "at": "2026-07-09T00:37:48.788845"
     }
   ]
 }

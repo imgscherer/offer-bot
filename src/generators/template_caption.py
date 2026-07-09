@@ -23,10 +23,22 @@ def _price_block(offer: Offer) -> str:
     return f"{was}R$ {format_price(offer.price_now)}{pct}"
 
 
+def _price_block_html(offer: Offer) -> str:
+    # TelegramPublisher sends with parse_mode="HTML", so <s> renders as a
+    # real strikethrough instead of the literal tildes/tags.
+    lines = []
+    if offer.price_was:
+        lines.append(f"❌ De: <s>R$ {format_price(offer.price_was)}</s>")
+    lines.append(f"✅ Por apenas: R$ {format_price(offer.price_now)}")
+    if offer.discount_pct:
+        lines.append(f"📉 Desconto: {offer.discount_pct}% OFF")
+    return "\n".join(lines)
+
+
 class TemplateCaptionGenerator:
     async def generate(self, offer: Offer, format: str) -> str:
         if format in ("telegram_post", "wa_post"):
-            return f"🔥 {offer.title}\n\n{_price_block(offer)}\n\n#publi"
+            return f"🔥 {offer.title}\n\n{_price_block_html(offer)}\n\n#publi"
 
         if format == "feed":
             label = _NICHE_LABEL.get(offer.niche.value, offer.niche.value)
