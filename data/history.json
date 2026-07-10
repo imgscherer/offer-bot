@@ -23,6 +23,10 @@
     "7e60a2d21c82607d": {
       "title": "Creme Assaduras Bebê Dermocalmante Granado",
       "posted_at": "2026-07-10T03:50:50.991161"
+    },
+    "fd0443daf06e7040": {
+      "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
+      "posted_at": "2026-07-10T17:20:48.668896"
     }
   },
   "results": [
@@ -137,6 +141,14 @@
       "post_id": "13",
       "error": null,
       "at": "2026-07-10T03:50:50.990525"
+    },
+    {
+      "offer_id": "fd0443daf06e7040",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "14",
+      "error": null,
+      "at": "2026-07-10T17:20:48.668254"
     }
   ]
 }
