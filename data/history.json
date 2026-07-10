@@ -27,6 +27,10 @@
     "fd0443daf06e7040": {
       "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
       "posted_at": "2026-07-10T17:20:48.668896"
+    },
+    "aa5685aedb4dd5c9": {
+      "title": "Condicionador Infantil Johnson's Baby Regular 400 ml, Amarelo",
+      "posted_at": "2026-07-10T19:00:58.615781"
     }
   },
   "results": [
@@ -149,6 +153,14 @@
       "post_id": "14",
       "error": null,
       "at": "2026-07-10T17:20:48.668254"
+    },
+    {
+      "offer_id": "aa5685aedb4dd5c9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "15",
+      "error": null,
+      "at": "2026-07-10T19:00:58.615048"
     }
   ]
 }
