@@ -19,6 +19,10 @@
     "56f4ee4f6d87550c": {
       "title": "Fralda Pom Pom Protek Proteção De Mãe Mega P 54 Unidades",
       "posted_at": "2026-07-09T00:37:48.789649"
+    },
+    "7e60a2d21c82607d": {
+      "title": "Creme Assaduras Bebê Dermocalmante Granado",
+      "posted_at": "2026-07-10T03:50:50.991161"
     }
   },
   "results": [
@@ -125,6 +129,14 @@
       "post_id": null,
       "error": "Client error '404 Not Found' for url 'https://api.telegram.org/bot%EF%BB%BF8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
       "at": "2026-07-09T11:16:37.233788"
+    },
+    {
+      "offer_id": "7e60a2d21c82607d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "13",
+      "error": null,
+      "at": "2026-07-10T03:50:50.990525"
     }
   ]
 }
