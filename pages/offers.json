@@ -1,5 +1,53 @@
 [
   {
+    "id": "fea7828fa800a8bf",
+    "title": "Fralda Turma da Mônica Baby XG 42 unidades",
+    "price_now": 33.15,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KV2733?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/993991009617837122331740876725.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-10T19:51:19.184325"
+  },
+  {
+    "id": "1705eaba06f13d94",
+    "title": "Fralda Turma da Mônica Baby XXG 36 unidades",
+    "price_now": 33.15,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KPQQWF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/664441179917837122379994050498.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-10T19:51:10.659660"
+  },
+  {
+    "id": "cc16dc367bbe91f7",
+    "title": "Fralda Turma da Mônica Baby G 44 unidades",
+    "price_now": 33.15,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/837730387017837122401248773660.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-10T19:51:02.267036"
+  },
+  {
+    "id": "63f6b89aa9ac24b4",
+    "title": "Fralda Turma da Mônica Baby M 50 unidades",
+    "price_now": 33.15,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/824273279817837122514546112395.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-10T19:50:53.560818"
+  },
+  {
     "id": "aa5685aedb4dd5c9",
     "title": "Condicionador Infantil Johnson's Baby Regular 400 ml, Amarelo",
     "price_now": 22.39,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-09T00:06:55.137707"
-  },
-  {
-    "id": "prev003abc",
-    "title": "Carrinho de Bebe Travel System Galzerano",
-    "price_now": 999.0,
-    "price_was": 1599.0,
-    "discount_pct": 38,
-    "url": "https://example.com/p/3?tag=seu-id",
-    "image": "placeholder://3",
-    "source": "amazon",
-    "niche": "motherhood",
-    "added_at": "2026-07-03T01:46:17.507428"
-  },
-  {
-    "id": "prev002abc",
-    "title": "Kit 3 Bodies Manga Curta Algodao Bebe",
-    "price_now": 39.99,
-    "price_was": 79.99,
-    "discount_pct": 50,
-    "url": "https://example.com/p/2?tag=seu-id",
-    "image": "placeholder://2",
-    "source": "magalu",
-    "niche": "motherhood",
-    "added_at": "2026-07-03T01:46:17.506994"
-  },
-  {
-    "id": "prev001abc",
-    "title": "Mamadeira Anticolica Philips Avent 260ml",
-    "price_now": 49.9,
-    "price_was": 89.9,
-    "discount_pct": 44,
-    "url": "https://example.com/p/1?tag=seu-id",
-    "image": "placeholder://1",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-07-03T01:46:17.506596"
-  },
-  {
-    "id": "prev000abc",
-    "title": "Fralda Pampers Confort Sec XXG 148 Unidades",
-    "price_now": 167.25,
-    "price_was": 239.9,
-    "discount_pct": 30,
-    "url": "https://example.com/p/0?tag=seu-id",
-    "image": "placeholder://0",
-    "source": "amazon",
-    "niche": "motherhood",
-    "added_at": "2026-07-03T01:46:17.506046"
   }
 ]

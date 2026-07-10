@@ -31,6 +31,22 @@
     "aa5685aedb4dd5c9": {
       "title": "Condicionador Infantil Johnson's Baby Regular 400 ml, Amarelo",
       "posted_at": "2026-07-10T19:00:58.615781"
+    },
+    "63f6b89aa9ac24b4": {
+      "title": "Fralda Turma da Mônica Baby M 50 unidades",
+      "posted_at": "2026-07-10T19:50:53.561156"
+    },
+    "cc16dc367bbe91f7": {
+      "title": "Fralda Turma da Mônica Baby G 44 unidades",
+      "posted_at": "2026-07-10T19:51:02.267385"
+    },
+    "1705eaba06f13d94": {
+      "title": "Fralda Turma da Mônica Baby XXG 36 unidades",
+      "posted_at": "2026-07-10T19:51:10.659984"
+    },
+    "fea7828fa800a8bf": {
+      "title": "Fralda Turma da Mônica Baby XG 42 unidades",
+      "posted_at": "2026-07-10T19:51:19.184676"
     }
   },
   "results": [
@@ -161,6 +177,38 @@
       "post_id": "15",
       "error": null,
       "at": "2026-07-10T19:00:58.615048"
+    },
+    {
+      "offer_id": "63f6b89aa9ac24b4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "16",
+      "error": null,
+      "at": "2026-07-10T19:50:53.560453"
+    },
+    {
+      "offer_id": "cc16dc367bbe91f7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "17",
+      "error": null,
+      "at": "2026-07-10T19:51:02.266701"
+    },
+    {
+      "offer_id": "1705eaba06f13d94",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "18",
+      "error": null,
+      "at": "2026-07-10T19:51:10.659338"
+    },
+    {
+      "offer_id": "fea7828fa800a8bf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "19",
+      "error": null,
+      "at": "2026-07-10T19:51:19.184003"
     }
   ]
 }
