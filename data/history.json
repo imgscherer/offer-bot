@@ -47,6 +47,10 @@
     "fea7828fa800a8bf": {
       "title": "Fralda Turma da Mônica Baby XG 42 unidades",
       "posted_at": "2026-07-10T19:51:19.184676"
+    },
+    "c7d39eb4fee2b7a6": {
+      "title": "Kit Chupeta Silicone Calming Brilha No Escuro Bico Simétrico 6+ Meses",
+      "posted_at": "2026-07-10T20:20:55.023734"
     }
   },
   "results": [
@@ -209,6 +213,14 @@
       "post_id": "19",
       "error": null,
       "at": "2026-07-10T19:51:19.184003"
+    },
+    {
+      "offer_id": "c7d39eb4fee2b7a6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "20",
+      "error": null,
+      "at": "2026-07-10T20:20:55.023076"
     }
   ]
 }
