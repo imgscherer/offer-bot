@@ -71,6 +71,10 @@
     "6ce7fb37cc96261c": {
       "title": "Kit com 3 Meia calça infantil (Tam. 1 a 12 anos)",
       "posted_at": "2026-07-11T12:51:00.776476"
+    },
+    "8d0bd4b1b8bc5e73": {
+      "title": "Fralda Pom Pom Protek XG 38 unidades",
+      "posted_at": "2026-07-11T14:31:04.398941"
     }
   },
   "results": [
@@ -281,6 +285,14 @@
       "post_id": "25",
       "error": null,
       "at": "2026-07-11T12:51:00.758382"
+    },
+    {
+      "offer_id": "8d0bd4b1b8bc5e73",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "26",
+      "error": null,
+      "at": "2026-07-11T14:31:04.398270"
     }
   ]
 }

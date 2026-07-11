@@ -1,5 +1,17 @@
 [
   {
+    "id": "8d0bd4b1b8bc5e73",
+    "title": "Fralda Pom Pom Protek XG 38 unidades",
+    "price_now": 30.39,
+    "price_was": 50.29,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/864868734517837797936990822195.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-11T14:31:04.398592"
+  },
+  {
     "id": "6ce7fb37cc96261c",
     "title": "Kit com 3 Meia calça infantil (Tam. 1 a 12 anos)",
     "price_now": 26.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-10T19:00:58.615432"
-  },
-  {
-    "id": "fd0443daf06e7040",
-    "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
-    "price_now": 407.0,
-    "price_was": 799.9,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B0CPN2L6MQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/227465875217837033518904253158.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-10T17:20:48.668594"
   }
 ]
