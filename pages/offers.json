@@ -1,5 +1,17 @@
 [
   {
+    "id": "8398aaebd9276bfc",
+    "title": "Fralda Huggies Natural Care RN 34 Unidades",
+    "price_now": 28.4,
+    "price_was": 43.59,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/838362509317837680927131366220.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-11T11:20:57.221733"
+  },
+  {
     "id": "fb07b77139a16c73",
     "title": "Livro Sensorial Bebê | Toque E Ouça Com Sons E Texturas | Coleção Premium Educativa",
     "price_now": 46.97,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-09T00:37:48.789254"
-  },
-  {
-    "id": "293cccca8459f524",
-    "title": "Fralda Pampers Supersec M 30 Unidades",
-    "price_now": 24.27,
-    "price_was": 34.55,
-    "discount_pct": 30,
-    "url": "https://meli.la/1MjsYXc",
-    "image": "https://i.promobit.com.br/1200/370356285217835419098759869691.png",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-09T00:15:55.862030"
   }
 ]

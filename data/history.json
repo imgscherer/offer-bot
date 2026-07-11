@@ -59,6 +59,10 @@
     "fb07b77139a16c73": {
       "title": "Livro Sensorial Bebê | Toque E Ouça Com Sons E Texturas | Coleção Premium Educativa",
       "posted_at": "2026-07-11T00:20:54.422407"
+    },
+    "8398aaebd9276bfc": {
+      "title": "Fralda Huggies Natural Care RN 34 Unidades",
+      "posted_at": "2026-07-11T11:20:57.221980"
     }
   },
   "results": [
@@ -245,6 +249,14 @@
       "post_id": "22",
       "error": null,
       "at": "2026-07-11T00:20:54.421752"
+    },
+    {
+      "offer_id": "8398aaebd9276bfc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "23",
+      "error": null,
+      "at": "2026-07-11T11:20:57.221437"
     }
   ]
 }
