@@ -55,6 +55,10 @@
     "421cda65df014a23": {
       "title": "Verden Bicicleta Infantil Hero Boy Aro 12 Com Rodinhas Laterais E Garrafinha",
       "posted_at": "2026-07-10T22:50:52.360868"
+    },
+    "fb07b77139a16c73": {
+      "title": "Livro Sensorial Bebê | Toque E Ouça Com Sons E Texturas | Coleção Premium Educativa",
+      "posted_at": "2026-07-11T00:20:54.422407"
     }
   },
   "results": [
@@ -233,6 +237,14 @@
       "post_id": "21",
       "error": null,
       "at": "2026-07-10T22:50:52.360226"
+    },
+    {
+      "offer_id": "fb07b77139a16c73",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "22",
+      "error": null,
+      "at": "2026-07-11T00:20:54.421752"
     }
   ]
 }
