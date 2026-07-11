@@ -1,5 +1,17 @@
 [
   {
+    "id": "799aaee05c13254e",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega XG 38 Unidades",
+    "price_now": 31.99,
+    "price_was": 50.29,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/382449405617837719894308166752.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-11T12:21:02.080701"
+  },
+  {
     "id": "8398aaebd9276bfc",
     "title": "Fralda Huggies Natural Care RN 34 Unidades",
     "price_now": 28.4,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-10T03:50:50.990870"
-  },
-  {
-    "id": "56f4ee4f6d87550c",
-    "title": "Fralda Pom Pom Protek Proteção De Mãe Mega P 54 Unidades",
-    "price_now": 34.31,
-    "price_was": 50.29,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B093GBK61Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/956751519417835489153200682457.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-09T00:37:48.789254"
   }
 ]
