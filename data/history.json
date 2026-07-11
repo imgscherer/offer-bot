@@ -67,6 +67,10 @@
     "799aaee05c13254e": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Mega XG 38 Unidades",
       "posted_at": "2026-07-11T12:21:02.081137"
+    },
+    "6ce7fb37cc96261c": {
+      "title": "Kit com 3 Meia calça infantil (Tam. 1 a 12 anos)",
+      "posted_at": "2026-07-11T12:51:00.776476"
     }
   },
   "results": [
@@ -269,6 +273,14 @@
       "post_id": "24",
       "error": null,
       "at": "2026-07-11T12:21:02.080218"
+    },
+    {
+      "offer_id": "6ce7fb37cc96261c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "25",
+      "error": null,
+      "at": "2026-07-11T12:51:00.758382"
     }
   ]
 }
