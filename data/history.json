@@ -75,6 +75,10 @@
     "8d0bd4b1b8bc5e73": {
       "title": "Fralda Pom Pom Protek XG 38 unidades",
       "posted_at": "2026-07-11T14:31:04.398941"
+    },
+    "563f48266387e7d5": {
+      "title": "Kit Lancheira Marmita Infantil com Garrafa e Talheres Organização 4 Peças",
+      "posted_at": "2026-07-12T12:51:05.073295"
     }
   },
   "results": [
@@ -293,6 +297,14 @@
       "post_id": "26",
       "error": null,
       "at": "2026-07-11T14:31:04.398270"
+    },
+    {
+      "offer_id": "563f48266387e7d5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "27",
+      "error": null,
+      "at": "2026-07-12T12:51:05.072656"
     }
   ]
 }

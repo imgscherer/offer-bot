@@ -1,5 +1,17 @@
 [
   {
+    "id": "563f48266387e7d5",
+    "title": "Kit Lancheira Marmita Infantil com Garrafa e Talheres Organização 4 Peças",
+    "price_now": 34.9,
+    "price_was": 99.71,
+    "discount_pct": 65,
+    "url": "https://s.shopee.com.br/6pz3f9HvQG?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/164782935017838600134877945520.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-12T12:51:05.072982"
+  },
+  {
     "id": "8d0bd4b1b8bc5e73",
     "title": "Fralda Pom Pom Protek XG 38 unidades",
     "price_now": 30.39,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-10T19:50:53.560818"
-  },
-  {
-    "id": "aa5685aedb4dd5c9",
-    "title": "Condicionador Infantil Johnson's Baby Regular 400 ml, Amarelo",
-    "price_now": 22.39,
-    "price_was": 39.99,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B07F1Z7ZM2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/848120849417837095329523639039.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-10T19:00:58.615432"
   }
 ]
