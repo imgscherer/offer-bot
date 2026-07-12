@@ -1,5 +1,17 @@
 [
   {
+    "id": "c53b565b5fd51ade",
+    "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
+    "price_now": 15.57,
+    "price_was": 28.68,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B099KXW911?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/373702927217838691897672935603.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-12T15:20:58.190871"
+  },
+  {
     "id": "563f48266387e7d5",
     "title": "Kit Lancheira Marmita Infantil com Garrafa e Talheres Organização 4 Peças",
     "price_now": 34.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-10T19:51:02.267036"
-  },
-  {
-    "id": "63f6b89aa9ac24b4",
-    "title": "Fralda Turma da Mônica Baby M 50 unidades",
-    "price_now": 33.15,
-    "price_was": 50.04,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/824273279817837122514546112395.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-10T19:50:53.560818"
   }
 ]

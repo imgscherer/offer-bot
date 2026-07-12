@@ -79,6 +79,10 @@
     "563f48266387e7d5": {
       "title": "Kit Lancheira Marmita Infantil com Garrafa e Talheres Organização 4 Peças",
       "posted_at": "2026-07-12T12:51:05.073295"
+    },
+    "c53b565b5fd51ade": {
+      "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
+      "posted_at": "2026-07-12T15:20:58.191202"
     }
   },
   "results": [
@@ -305,6 +309,14 @@
       "post_id": "27",
       "error": null,
       "at": "2026-07-12T12:51:05.072656"
+    },
+    {
+      "offer_id": "c53b565b5fd51ade",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "28",
+      "error": null,
+      "at": "2026-07-12T15:20:58.190555"
     }
   ]
 }
