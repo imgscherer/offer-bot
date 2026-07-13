@@ -1,5 +1,17 @@
 [
   {
+    "id": "c5b598b6687570fc",
+    "title": "Huggies Fralda Descartável Premium Natural Care Rn - 34 Un",
+    "price_now": 29.9,
+    "price_was": 43.59,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/548122866317839813926950463422.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-13T22:41:00.768375"
+  },
+  {
     "id": "72d2e33e5216aa88",
     "title": "Fralda Descartável Huggies Máxima Proteção Tamanho G 66 Unidades – Nova Fralda Supreme Care Aberta Com Tecnologia Xtra-flex, Canais Em X Que Se",
     "price_now": 69.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-13T10:51:05.200153"
-  },
-  {
-    "id": "43490b1b6165ce5c",
-    "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
-    "price_now": 15.97,
-    "price_was": 28.68,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/501829258717839396977420158093.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-13T10:50:57.162177"
   }
 ]

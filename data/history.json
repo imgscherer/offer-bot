@@ -139,6 +139,10 @@
     "72d2e33e5216aa88": {
       "title": "Fralda Descartável Huggies Máxima Proteção Tamanho G 66 Unidades – Nova Fralda Supreme Care Aberta Com Tecnologia Xtra-flex, Canais Em X Que Se",
       "posted_at": "2026-07-13T21:21:01.687151"
+    },
+    "c5b598b6687570fc": {
+      "title": "Huggies Fralda Descartável Premium Natural Care Rn - 34 Un",
+      "posted_at": "2026-07-13T22:41:00.768700"
     }
   },
   "results": [
@@ -485,6 +489,14 @@
       "post_id": "42",
       "error": null,
       "at": "2026-07-13T21:21:01.686448"
+    },
+    {
+      "offer_id": "c5b598b6687570fc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "43",
+      "error": null,
+      "at": "2026-07-13T22:41:00.768011"
     }
   ]
 }
