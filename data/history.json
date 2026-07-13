@@ -119,6 +119,14 @@
     "e0f00c0c6125e09a": {
       "title": "Kit Banho Bebê Orgânico (1 Shampoo 200ml, 1 Condicionador 200ml, 1 Colônia Sem Álcool 30ml)",
       "posted_at": "2026-07-13T18:31:12.903160"
+    },
+    "de9fda93b8e02baf": {
+      "title": "Fralda Personal Baby Premium Protection M 34 unidades",
+      "posted_at": "2026-07-13T18:50:58.457122"
+    },
+    "b823039940dba920": {
+      "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
+      "posted_at": "2026-07-13T18:51:07.493067"
     }
   },
   "results": [
@@ -425,6 +433,22 @@
       "post_id": "37",
       "error": null,
       "at": "2026-07-13T18:31:12.902421"
+    },
+    {
+      "offer_id": "de9fda93b8e02baf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "38",
+      "error": null,
+      "at": "2026-07-13T18:50:58.456468"
+    },
+    {
+      "offer_id": "b823039940dba920",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "39",
+      "error": null,
+      "at": "2026-07-13T18:51:07.492444"
     }
   ]
 }

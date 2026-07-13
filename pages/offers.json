@@ -1,5 +1,29 @@
 [
   {
+    "id": "b823039940dba920",
+    "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
+    "price_now": 31.52,
+    "price_was": 46.38,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/423841897217839680723574828240.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-13T18:51:07.492753"
+  },
+  {
+    "id": "de9fda93b8e02baf",
+    "title": "Fralda Personal Baby Premium Protection M 34 unidades",
+    "price_now": 31.52,
+    "price_was": 46.38,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/900984947717839680807264500905.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-13T18:50:58.456815"
+  },
+  {
     "id": "e0f00c0c6125e09a",
     "title": "Kit Banho Bebê Orgânico (1 Shampoo 200ml, 1 Condicionador 200ml, 1 Colônia Sem Álcool 30ml)",
     "price_now": 44.9,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-12T15:20:58.190871"
-  },
-  {
-    "id": "563f48266387e7d5",
-    "title": "Kit Lancheira Marmita Infantil com Garrafa e Talheres Organização 4 Peças",
-    "price_now": 34.9,
-    "price_was": 99.71,
-    "discount_pct": 65,
-    "url": "https://s.shopee.com.br/6pz3f9HvQG?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/164782935017838600134877945520.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-12T12:51:05.072982"
-  },
-  {
-    "id": "8d0bd4b1b8bc5e73",
-    "title": "Fralda Pom Pom Protek XG 38 unidades",
-    "price_now": 30.39,
-    "price_was": 50.29,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/864868734517837797936990822195.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-11T14:31:04.398592"
   }
 ]
