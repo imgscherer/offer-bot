@@ -131,6 +131,10 @@
     "00c9792c6a84995d": {
       "title": "Fralda Personal Baby Premium Pants G 4 pacotes 168 unidades",
       "posted_at": "2026-07-13T19:01:11.110034"
+    },
+    "ff75e61d3763482a": {
+      "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
+      "posted_at": "2026-07-13T19:31:12.575433"
     }
   },
   "results": [
@@ -461,6 +465,14 @@
       "post_id": "40",
       "error": null,
       "at": "2026-07-13T19:01:11.109331"
+    },
+    {
+      "offer_id": "ff75e61d3763482a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "41",
+      "error": null,
+      "at": "2026-07-13T19:31:12.574759"
     }
   ]
 }
