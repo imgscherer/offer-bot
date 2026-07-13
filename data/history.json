@@ -135,6 +135,10 @@
     "ff75e61d3763482a": {
       "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
       "posted_at": "2026-07-13T19:31:12.575433"
+    },
+    "72d2e33e5216aa88": {
+      "title": "Fralda Descartável Huggies Máxima Proteção Tamanho G 66 Unidades – Nova Fralda Supreme Care Aberta Com Tecnologia Xtra-flex, Canais Em X Que Se",
+      "posted_at": "2026-07-13T21:21:01.687151"
     }
   },
   "results": [
@@ -473,6 +477,14 @@
       "post_id": "41",
       "error": null,
       "at": "2026-07-13T19:31:12.574759"
+    },
+    {
+      "offer_id": "72d2e33e5216aa88",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "42",
+      "error": null,
+      "at": "2026-07-13T21:21:01.686448"
     }
   ]
 }
