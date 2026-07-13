@@ -1,5 +1,17 @@
 [
   {
+    "id": "d9fc2892c869a878",
+    "title": "Tênis Infantil Masculino Led (Tam. 23 ao 34)",
+    "price_now": 79.9,
+    "price_was": 199.75,
+    "discount_pct": 60,
+    "url": "https://s.shopee.com.br/6AjOScBNdw?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/485359078917839462461474419604.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-13T12:41:02.622177"
+  },
+  {
     "id": "c7cc0838763d6f6f",
     "title": "Fralda Turma da Mônica Baby Mega G 44 Unidades",
     "price_now": 34.95,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-11T12:21:02.080701"
-  },
-  {
-    "id": "8398aaebd9276bfc",
-    "title": "Fralda Huggies Natural Care RN 34 Unidades",
-    "price_now": 28.4,
-    "price_was": 43.59,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/838362509317837680927131366220.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-11T11:20:57.221733"
   }
 ]

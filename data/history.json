@@ -107,6 +107,10 @@
     "c7cc0838763d6f6f": {
       "title": "Fralda Turma da Mônica Baby Mega G 44 Unidades",
       "posted_at": "2026-07-13T10:51:24.674875"
+    },
+    "d9fc2892c869a878": {
+      "title": "Tênis Infantil Masculino Led (Tam. 23 ao 34)",
+      "posted_at": "2026-07-13T12:41:02.622507"
     }
   },
   "results": [
@@ -389,6 +393,14 @@
       "post_id": "34",
       "error": null,
       "at": "2026-07-13T10:51:24.674107"
+    },
+    {
+      "offer_id": "d9fc2892c869a878",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "35",
+      "error": null,
+      "at": "2026-07-13T12:41:02.621830"
     }
   ]
 }
