@@ -1,5 +1,17 @@
 [
   {
+    "id": "00c9792c6a84995d",
+    "title": "Fralda Personal Baby Premium Pants G 4 pacotes 168 unidades",
+    "price_now": 182.21,
+    "price_was": 297.71,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0DF9PBG3B?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/798789246917839689214349466265.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-13T19:01:11.109715"
+  },
+  {
     "id": "b823039940dba920",
     "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
     "price_now": 31.52,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-12T16:50:53.842922"
-  },
-  {
-    "id": "c53b565b5fd51ade",
-    "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
-    "price_now": 15.57,
-    "price_was": 28.68,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B099KXW911?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/373702927217838691897672935603.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-12T15:20:58.190871"
   }
 ]
