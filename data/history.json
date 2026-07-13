@@ -111,6 +111,10 @@
     "d9fc2892c869a878": {
       "title": "Tênis Infantil Masculino Led (Tam. 23 ao 34)",
       "posted_at": "2026-07-13T12:41:02.622507"
+    },
+    "c24044f1533529c5": {
+      "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
+      "posted_at": "2026-07-13T17:41:00.043169"
     }
   },
   "results": [
@@ -401,6 +405,14 @@
       "post_id": "35",
       "error": null,
       "at": "2026-07-13T12:41:02.621830"
+    },
+    {
+      "offer_id": "c24044f1533529c5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "36",
+      "error": null,
+      "at": "2026-07-13T17:41:00.042518"
     }
   ]
 }
