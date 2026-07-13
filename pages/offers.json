@@ -1,5 +1,53 @@
 [
   {
+    "id": "c7cc0838763d6f6f",
+    "title": "Fralda Turma da Mônica Baby Mega G 44 Unidades",
+    "price_now": 34.95,
+    "price_was": 50.04,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/188291858617839396952646754484.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-13T10:51:24.674461"
+  },
+  {
+    "id": "c2877ee0b55cc4a4",
+    "title": "Fralda Huggies Supreme Care XXXG 128 unidades",
+    "price_now": 161.38,
+    "price_was": 246.01,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/519284221517839393905109844330.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-13T10:51:15.936517"
+  },
+  {
+    "id": "f3d583734978a0de",
+    "title": "Fralda Turma da Mônica Baby Jumbo M 28 unidades",
+    "price_now": 15.97,
+    "price_was": 28.68,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B099KXW911?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/938612811117839396939903344066.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-13T10:51:05.200153"
+  },
+  {
+    "id": "43490b1b6165ce5c",
+    "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
+    "price_now": 15.97,
+    "price_was": 28.68,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/501829258717839396977420158093.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-13T10:50:57.162177"
+  },
+  {
     "id": "11694dec69195f64",
     "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
     "price_now": 16.81,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-11T11:20:57.221733"
-  },
-  {
-    "id": "fb07b77139a16c73",
-    "title": "Livro Sensorial Bebê | Toque E Ouça Com Sons E Texturas | Coleção Premium Educativa",
-    "price_now": 46.97,
-    "price_was": 79.61,
-    "discount_pct": 41,
-    "url": "https://s.shopee.com.br/18h6fiVCN?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/827084480417837290302925872118.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-11T00:20:54.422099"
-  },
-  {
-    "id": "421cda65df014a23",
-    "title": "Verden Bicicleta Infantil Hero Boy Aro 12 Com Rodinhas Laterais E Garrafinha",
-    "price_now": 189.05,
-    "price_was": 319.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0CXRH11GD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/147278318817837237516853563491.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-10T22:50:52.360558"
-  },
-  {
-    "id": "c7d39eb4fee2b7a6",
-    "title": "Kit Chupeta Silicone Calming Brilha No Escuro Bico Simétrico 6+ Meses",
-    "price_now": 34.07,
-    "price_was": 49.9,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B09YJ9BCRG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/401047428517837143928212682202.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-10T20:20:55.023427"
-  },
-  {
-    "id": "fea7828fa800a8bf",
-    "title": "Fralda Turma da Mônica Baby XG 42 unidades",
-    "price_now": 33.15,
-    "price_was": 50.04,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KV2733?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/993991009617837122331740876725.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-10T19:51:19.184325"
   }
 ]

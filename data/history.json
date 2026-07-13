@@ -91,6 +91,22 @@
     "11694dec69195f64": {
       "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
       "posted_at": "2026-07-12T19:50:59.617210"
+    },
+    "43490b1b6165ce5c": {
+      "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
+      "posted_at": "2026-07-13T10:50:57.162581"
+    },
+    "f3d583734978a0de": {
+      "title": "Fralda Turma da Mônica Baby Jumbo M 28 unidades",
+      "posted_at": "2026-07-13T10:51:05.200584"
+    },
+    "c2877ee0b55cc4a4": {
+      "title": "Fralda Huggies Supreme Care XXXG 128 unidades",
+      "posted_at": "2026-07-13T10:51:15.937028"
+    },
+    "c7cc0838763d6f6f": {
+      "title": "Fralda Turma da Mônica Baby Mega G 44 Unidades",
+      "posted_at": "2026-07-13T10:51:24.674875"
     }
   },
   "results": [
@@ -341,6 +357,38 @@
       "post_id": "30",
       "error": null,
       "at": "2026-07-12T19:50:59.616522"
+    },
+    {
+      "offer_id": "43490b1b6165ce5c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "31",
+      "error": null,
+      "at": "2026-07-13T10:50:57.161749"
+    },
+    {
+      "offer_id": "f3d583734978a0de",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "32",
+      "error": null,
+      "at": "2026-07-13T10:51:05.199752"
+    },
+    {
+      "offer_id": "c2877ee0b55cc4a4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "33",
+      "error": null,
+      "at": "2026-07-13T10:51:15.936072"
+    },
+    {
+      "offer_id": "c7cc0838763d6f6f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "34",
+      "error": null,
+      "at": "2026-07-13T10:51:24.674107"
     }
   ]
 }
