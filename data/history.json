@@ -115,6 +115,10 @@
     "c24044f1533529c5": {
       "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
       "posted_at": "2026-07-13T17:41:00.043169"
+    },
+    "e0f00c0c6125e09a": {
+      "title": "Kit Banho Bebê Orgânico (1 Shampoo 200ml, 1 Condicionador 200ml, 1 Colônia Sem Álcool 30ml)",
+      "posted_at": "2026-07-13T18:31:12.903160"
     }
   },
   "results": [
@@ -413,6 +417,14 @@
       "post_id": "36",
       "error": null,
       "at": "2026-07-13T17:41:00.042518"
+    },
+    {
+      "offer_id": "e0f00c0c6125e09a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "37",
+      "error": null,
+      "at": "2026-07-13T18:31:12.902421"
     }
   ]
 }

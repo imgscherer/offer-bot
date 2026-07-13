@@ -1,5 +1,17 @@
 [
   {
+    "id": "e0f00c0c6125e09a",
+    "title": "Kit Banho Bebê Orgânico (1 Shampoo 200ml, 1 Condicionador 200ml, 1 Colônia Sem Álcool 30ml)",
+    "price_now": 44.9,
+    "price_was": 70.16,
+    "discount_pct": 36,
+    "url": "https://s.shopee.com.br/9zw7PMBiat?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/554371698317839669485532261505.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-13T18:31:12.902803"
+  },
+  {
     "id": "c24044f1533529c5",
     "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
     "price_now": 9.8,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-11T14:31:04.398592"
-  },
-  {
-    "id": "6ce7fb37cc96261c",
-    "title": "Kit com 3 Meia calça infantil (Tam. 1 a 12 anos)",
-    "price_now": 26.99,
-    "price_was": 69.21,
-    "discount_pct": 61,
-    "url": "https://s.shopee.com.br/3g20IumckH?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/132694369717837740331737976982.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-11T12:51:00.758786"
   }
 ]
