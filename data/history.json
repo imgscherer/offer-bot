@@ -151,6 +151,10 @@
     "4b8bb878cc5a88f6": {
       "title": "Kit 2 Prendedores De Chupeta Coala Buba",
       "posted_at": "2026-07-14T18:01:09.888248"
+    },
+    "61ca7af745eca3ae": {
+      "title": "Carrinho Chicco Glee 0m+ Até 22kg Fechamento Automático Prático",
+      "posted_at": "2026-07-14T20:01:11.529855"
     }
   },
   "results": [
@@ -521,6 +525,14 @@
       "post_id": "45",
       "error": null,
       "at": "2026-07-14T18:01:09.887676"
+    },
+    {
+      "offer_id": "61ca7af745eca3ae",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "46",
+      "error": null,
+      "at": "2026-07-14T20:01:11.529196"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "61ca7af745eca3ae",
+    "title": "Carrinho Chicco Glee 0m+ Até 22kg Fechamento Automático Prático",
+    "price_now": 999.0,
+    "price_was": 1899.0,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B0C5S8NW3X?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/898513964317840588536803577781.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-14T20:01:11.529531"
+  },
+  {
     "id": "4b8bb878cc5a88f6",
     "title": "Kit 2 Prendedores De Chupeta Coala Buba",
     "price_now": 19.7,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-13T12:41:02.622177"
-  },
-  {
-    "id": "c7cc0838763d6f6f",
-    "title": "Fralda Turma da Mônica Baby Mega G 44 Unidades",
-    "price_now": 34.95,
-    "price_was": 50.04,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/188291858617839396952646754484.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-13T10:51:24.674461"
   }
 ]
