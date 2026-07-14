@@ -1,5 +1,17 @@
 [
   {
+    "id": "4b8bb878cc5a88f6",
+    "title": "Kit 2 Prendedores De Chupeta Coala Buba",
+    "price_now": 19.7,
+    "price_was": 29.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0B3F6BXLH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/953952670017840511275933564235.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-14T18:01:09.887975"
+  },
+  {
     "id": "7b29357850fafdb0",
     "title": "Casaco Teddy Infantil Capuz Touca com Zíper (Tam. 1 a 16 Anos, Diversas cores)",
     "price_now": 23.5,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-13T10:51:24.674461"
-  },
-  {
-    "id": "c2877ee0b55cc4a4",
-    "title": "Fralda Huggies Supreme Care XXXG 128 unidades",
-    "price_now": 161.38,
-    "price_was": 246.01,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/519284221517839393905109844330.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-13T10:51:15.936517"
   }
 ]

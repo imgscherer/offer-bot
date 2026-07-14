@@ -147,6 +147,10 @@
     "7b29357850fafdb0": {
       "title": "Casaco Teddy Infantil Capuz Touca com Zíper (Tam. 1 a 16 Anos, Diversas cores)",
       "posted_at": "2026-07-14T14:31:04.711848"
+    },
+    "4b8bb878cc5a88f6": {
+      "title": "Kit 2 Prendedores De Chupeta Coala Buba",
+      "posted_at": "2026-07-14T18:01:09.888248"
     }
   },
   "results": [
@@ -509,6 +513,14 @@
       "post_id": "44",
       "error": null,
       "at": "2026-07-14T14:31:04.711151"
+    },
+    {
+      "offer_id": "4b8bb878cc5a88f6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "45",
+      "error": null,
+      "at": "2026-07-14T18:01:09.887676"
     }
   ]
 }
