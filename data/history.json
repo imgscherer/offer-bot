@@ -143,6 +143,10 @@
     "c5b598b6687570fc": {
       "title": "Huggies Fralda Descartável Premium Natural Care Rn - 34 Un",
       "posted_at": "2026-07-13T22:41:00.768700"
+    },
+    "7b29357850fafdb0": {
+      "title": "Casaco Teddy Infantil Capuz Touca com Zíper (Tam. 1 a 16 Anos, Diversas cores)",
+      "posted_at": "2026-07-14T14:31:04.711848"
     }
   },
   "results": [
@@ -497,6 +501,14 @@
       "post_id": "43",
       "error": null,
       "at": "2026-07-13T22:41:00.768011"
+    },
+    {
+      "offer_id": "7b29357850fafdb0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "44",
+      "error": null,
+      "at": "2026-07-14T14:31:04.711151"
     }
   ]
 }
