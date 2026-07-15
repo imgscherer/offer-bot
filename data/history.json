@@ -203,6 +203,10 @@
     "fe5a0d28d581159a": {
       "title": "Fralda Cremer Magic Care XXG 80 unidades",
       "posted_at": "2026-07-15T13:01:56.562970"
+    },
+    "61116d5d24536454": {
+      "title": "Fralda Turma da Mônica Baby P 62 unidades",
+      "posted_at": "2026-07-15T17:21:05.375744"
     }
   },
   "results": [
@@ -677,6 +681,14 @@
       "post_id": "58",
       "error": null,
       "at": "2026-07-15T13:01:56.562312"
+    },
+    {
+      "offer_id": "61116d5d24536454",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "59",
+      "error": null,
+      "at": "2026-07-15T17:21:05.375083"
     }
   ]
 }

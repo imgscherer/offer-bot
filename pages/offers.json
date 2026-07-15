@@ -1,5 +1,17 @@
 [
   {
+    "id": "61116d5d24536454",
+    "title": "Fralda Turma da Mônica Baby P 62 unidades",
+    "price_now": 33.02,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/883874837817841356513026644146.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-15T17:21:05.375414"
+  },
+  {
     "id": "fe5a0d28d581159a",
     "title": "Fralda Cremer Magic Care XXG 80 unidades",
     "price_now": 69.75,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-15T10:51:09.303211"
-  },
-  {
-    "id": "cac2187ce7805e8e",
-    "title": "Bicicleta De Equilibrio Andador Infantil Sem Pedal Para Crianças (rosa)",
-    "price_now": 64.6,
-    "price_was": 169.9,
-    "discount_pct": 62,
-    "url": "https://www.amazon.com.br/dp/B0DLHYSGPG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/210141536517840647395857797413.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-14T21:51:04.323525"
   }
 ]
