@@ -1,5 +1,17 @@
 [
   {
+    "id": "34317e06b9efe012",
+    "title": "Fralda Pom Pom Protek Proteção Mãe Hiper G",
+    "price_now": 49.0,
+    "price_was": 77.37,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/182552059617841444802287158979.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-15T19:51:07.787668"
+  },
+  {
     "id": "2724412fb00bc2b1",
     "title": "Assento Redutor Infantil Vaso Sanitário Privada Com Escada Trono Troninho (Cinza)",
     "price_now": 56.36,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-15T12:21:03.307709"
-  },
-  {
-    "id": "f2b01f52d079b6bc",
-    "title": "Fralda Personal Baby Xg Premium Protection - 26 Unidades",
-    "price_now": 28.49,
-    "price_was": 46.38,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/626769902517841133335964037144.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-15T11:21:11.095959"
   }
 ]

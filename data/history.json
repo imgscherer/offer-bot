@@ -211,6 +211,10 @@
     "2724412fb00bc2b1": {
       "title": "Assento Redutor Infantil Vaso Sanitário Privada Com Escada Trono Troninho (Cinza)",
       "posted_at": "2026-07-15T18:31:07.723505"
+    },
+    "34317e06b9efe012": {
+      "title": "Fralda Pom Pom Protek Proteção Mãe Hiper G",
+      "posted_at": "2026-07-15T19:51:07.788011"
     }
   },
   "results": [
@@ -701,6 +705,14 @@
       "post_id": "60",
       "error": null,
       "at": "2026-07-15T18:31:07.722747"
+    },
+    {
+      "offer_id": "34317e06b9efe012",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "61",
+      "error": null,
+      "at": "2026-07-15T19:51:07.787321"
     }
   ]
 }
