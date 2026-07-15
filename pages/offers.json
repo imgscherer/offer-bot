@@ -1,5 +1,17 @@
 [
   {
+    "id": "972620ff7d8980cd",
+    "title": "Assento Redutor Infantil, Cinza | Com Escada, Vaso Sanitário",
+    "price_now": 56.36,
+    "price_was": 95.57,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0CH3ZLGZK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/362526317817841450746024349358.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-15T20:01:08.846649"
+  },
+  {
     "id": "34317e06b9efe012",
     "title": "Fralda Pom Pom Protek Proteção Mãe Hiper G",
     "price_now": 49.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-15T12:51:04.006740"
-  },
-  {
-    "id": "64ad6caf9494a6ae",
-    "title": "Cadeirinha Infantil com Bandeja para Alimentação",
-    "price_now": 79.99,
-    "price_was": 140.33,
-    "discount_pct": 43,
-    "url": "https://s.shopee.com.br/6pz8P4hqWh?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/209733006817841168179635086133.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-15T12:21:03.307709"
   }
 ]
