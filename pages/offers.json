@@ -1,5 +1,53 @@
 [
   {
+    "id": "fe5a0d28d581159a",
+    "title": "Fralda Cremer Magic Care XXG 80 unidades",
+    "price_now": 69.75,
+    "price_was": 129.15,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/gOV7nUQLJ?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/835397245817841203607510817050.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-15T13:01:56.562614"
+  },
+  {
+    "id": "033b113fd3568c93",
+    "title": "Fralda Cremer Magic Care M 136 Unidades",
+    "price_now": 69.75,
+    "price_was": 129.15,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/1Vxc7LnoBt?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/713482163017841203815268681997.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-15T13:01:44.237945"
+  },
+  {
+    "id": "cb186e907b3e114d",
+    "title": "Fralda Cremer Magic Care G 120 Unidades",
+    "price_now": 69.75,
+    "price_was": 129.15,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/4AyNIGdOEf?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/223898645817841203934844358794.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-15T13:01:33.654377"
+  },
+  {
+    "id": "5de1128b68c48d27",
+    "title": "Fralda Turma da Mônica Baby M 120 unidades",
+    "price_now": 67.5,
+    "price_was": 130.42,
+    "discount_pct": 48,
+    "url": "https://s.shopee.com.br/2Vq9J9tkIv?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/274777176517841203534692815973.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-15T13:01:19.759261"
+  },
+  {
     "id": "db1102f59f147de9",
     "title": "Personal fralda baby premium protection xg com 26 unidades",
     "price_now": 29.99,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-14T21:51:04.323525"
-  },
-  {
-    "id": "61ca7af745eca3ae",
-    "title": "Carrinho Chicco Glee 0m+ Até 22kg Fechamento Automático Prático",
-    "price_now": 999.0,
-    "price_was": 1899.0,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B0C5S8NW3X?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/898513964317840588536803577781.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-14T20:01:11.529531"
-  },
-  {
-    "id": "4b8bb878cc5a88f6",
-    "title": "Kit 2 Prendedores De Chupeta Coala Buba",
-    "price_now": 19.7,
-    "price_was": 29.9,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0B3F6BXLH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/953952670017840511275933564235.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-14T18:01:09.887975"
-  },
-  {
-    "id": "7b29357850fafdb0",
-    "title": "Casaco Teddy Infantil Capuz Touca com Zíper (Tam. 1 a 16 Anos, Diversas cores)",
-    "price_now": 23.5,
-    "price_was": 69.12,
-    "discount_pct": 66,
-    "url": "https://s.shopee.com.br/80B4Ljnuwi?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/922762923517840386413272355614.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-14T14:31:04.711526"
-  },
-  {
-    "id": "c5b598b6687570fc",
-    "title": "Huggies Fralda Descartável Premium Natural Care Rn - 34 Un",
-    "price_now": 29.9,
-    "price_was": 43.59,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/548122866317839813926950463422.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-13T22:41:00.768375"
   }
 ]

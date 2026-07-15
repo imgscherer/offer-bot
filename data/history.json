@@ -187,6 +187,22 @@
     "db1102f59f147de9": {
       "title": "Personal fralda baby premium protection xg com 26 unidades",
       "posted_at": "2026-07-15T12:51:32.212365"
+    },
+    "5de1128b68c48d27": {
+      "title": "Fralda Turma da Mônica Baby M 120 unidades",
+      "posted_at": "2026-07-15T13:01:19.759585"
+    },
+    "cb186e907b3e114d": {
+      "title": "Fralda Cremer Magic Care G 120 Unidades",
+      "posted_at": "2026-07-15T13:01:33.654688"
+    },
+    "033b113fd3568c93": {
+      "title": "Fralda Cremer Magic Care M 136 Unidades",
+      "posted_at": "2026-07-15T13:01:44.238256"
+    },
+    "fe5a0d28d581159a": {
+      "title": "Fralda Cremer Magic Care XXG 80 unidades",
+      "posted_at": "2026-07-15T13:01:56.562970"
     }
   },
   "results": [
@@ -629,6 +645,38 @@
       "post_id": "54",
       "error": null,
       "at": "2026-07-15T12:51:32.211837"
+    },
+    {
+      "offer_id": "5de1128b68c48d27",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "55",
+      "error": null,
+      "at": "2026-07-15T13:01:19.758890"
+    },
+    {
+      "offer_id": "cb186e907b3e114d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "56",
+      "error": null,
+      "at": "2026-07-15T13:01:33.654055"
+    },
+    {
+      "offer_id": "033b113fd3568c93",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "57",
+      "error": null,
+      "at": "2026-07-15T13:01:44.237585"
+    },
+    {
+      "offer_id": "fe5a0d28d581159a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "58",
+      "error": null,
+      "at": "2026-07-15T13:01:56.562312"
     }
   ]
 }
