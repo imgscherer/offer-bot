@@ -171,6 +171,22 @@
     "64ad6caf9494a6ae": {
       "title": "Cadeirinha Infantil com Bandeja para Alimentação",
       "posted_at": "2026-07-15T12:21:03.307982"
+    },
+    "c296bfe6bac88c73": {
+      "title": "Fralda Babysec Ultrasec G 60 Unidades",
+      "posted_at": "2026-07-15T12:51:04.007029"
+    },
+    "0f3e00c5558b38cc": {
+      "title": "Fralda Babysec Ultrasec XXG 48 unidades",
+      "posted_at": "2026-07-15T12:51:13.944171"
+    },
+    "40d3bf783f489a75": {
+      "title": "Fralda Babysec Ultrasec M 68 unidades",
+      "posted_at": "2026-07-15T12:51:22.592265"
+    },
+    "db1102f59f147de9": {
+      "title": "Personal fralda baby premium protection xg com 26 unidades",
+      "posted_at": "2026-07-15T12:51:32.212365"
     }
   },
   "results": [
@@ -581,6 +597,38 @@
       "post_id": "50",
       "error": null,
       "at": "2026-07-15T12:21:03.307383"
+    },
+    {
+      "offer_id": "c296bfe6bac88c73",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "51",
+      "error": null,
+      "at": "2026-07-15T12:51:04.006433"
+    },
+    {
+      "offer_id": "0f3e00c5558b38cc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "52",
+      "error": null,
+      "at": "2026-07-15T12:51:13.943596"
+    },
+    {
+      "offer_id": "40d3bf783f489a75",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "53",
+      "error": null,
+      "at": "2026-07-15T12:51:22.591695"
+    },
+    {
+      "offer_id": "db1102f59f147de9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "54",
+      "error": null,
+      "at": "2026-07-15T12:51:32.211837"
     }
   ]
 }

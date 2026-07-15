@@ -1,5 +1,53 @@
 [
   {
+    "id": "db1102f59f147de9",
+    "title": "Personal fralda baby premium protection xg com 26 unidades",
+    "price_now": 29.99,
+    "price_was": 46.38,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/549190872217841195795869375008.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-15T12:51:32.212120"
+  },
+  {
+    "id": "40d3bf783f489a75",
+    "title": "Fralda Babysec Ultrasec M 68 unidades",
+    "price_now": 51.99,
+    "price_was": 87.82,
+    "discount_pct": 41,
+    "url": "https://s.shopee.com.br/2LWj6BJ2x7?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/673750924817841197682192459712.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-15T12:51:22.591982"
+  },
+  {
+    "id": "0f3e00c5558b38cc",
+    "title": "Fralda Babysec Ultrasec XXG 48 unidades",
+    "price_now": 51.99,
+    "price_was": 87.82,
+    "discount_pct": 41,
+    "url": "https://s.shopee.com.br/AKZ0cttks5?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/111127448017841197824106916164.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-15T12:51:13.943882"
+  },
+  {
+    "id": "c296bfe6bac88c73",
+    "title": "Fralda Babysec Ultrasec G 60 Unidades",
+    "price_now": 51.99,
+    "price_was": 87.82,
+    "discount_pct": 41,
+    "url": "https://s.shopee.com.br/8V7MRXMfHy?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/257641189217841197876806492916.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-15T12:51:04.006740"
+  },
+  {
     "id": "64ad6caf9494a6ae",
     "title": "Cadeirinha Infantil com Bandeja para Alimentação",
     "price_now": 79.99,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-13T22:41:00.768375"
-  },
-  {
-    "id": "72d2e33e5216aa88",
-    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho G 66 Unidades – Nova Fralda Supreme Care Aberta Com Tecnologia Xtra-flex, Canais Em X Que Se",
-    "price_now": 69.99,
-    "price_was": 116.9,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0BQ42779Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/498482988217839771914219828394.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-13T21:21:01.686819"
-  },
-  {
-    "id": "ff75e61d3763482a",
-    "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
-    "price_now": 28.49,
-    "price_was": 46.38,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/405409484417839708315278317971.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-13T19:31:12.575119"
-  },
-  {
-    "id": "00c9792c6a84995d",
-    "title": "Fralda Personal Baby Premium Pants G 4 pacotes 168 unidades",
-    "price_now": 182.21,
-    "price_was": 297.71,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0DF9PBG3B?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/798789246917839689214349466265.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-13T19:01:11.109715"
-  },
-  {
-    "id": "b823039940dba920",
-    "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
-    "price_now": 31.52,
-    "price_was": 46.38,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/423841897217839680723574828240.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-13T18:51:07.492753"
   }
 ]
