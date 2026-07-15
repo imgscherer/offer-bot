@@ -207,6 +207,10 @@
     "61116d5d24536454": {
       "title": "Fralda Turma da Mônica Baby P 62 unidades",
       "posted_at": "2026-07-15T17:21:05.375744"
+    },
+    "2724412fb00bc2b1": {
+      "title": "Assento Redutor Infantil Vaso Sanitário Privada Com Escada Trono Troninho (Cinza)",
+      "posted_at": "2026-07-15T18:31:07.723505"
     }
   },
   "results": [
@@ -689,6 +693,14 @@
       "post_id": "59",
       "error": null,
       "at": "2026-07-15T17:21:05.375083"
+    },
+    {
+      "offer_id": "2724412fb00bc2b1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "60",
+      "error": null,
+      "at": "2026-07-15T18:31:07.722747"
     }
   ]
 }
