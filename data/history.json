@@ -219,6 +219,10 @@
     "972620ff7d8980cd": {
       "title": "Assento Redutor Infantil, Cinza | Com Escada, Vaso Sanitário",
       "posted_at": "2026-07-15T20:01:08.846975"
+    },
+    "030b749a27793f85": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper M 86 Unidades",
+      "posted_at": "2026-07-15T20:11:05.978897"
     }
   },
   "results": [
@@ -725,6 +729,14 @@
       "post_id": "62",
       "error": null,
       "at": "2026-07-15T20:01:08.846279"
+    },
+    {
+      "offer_id": "030b749a27793f85",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "63",
+      "error": null,
+      "at": "2026-07-15T20:11:05.978211"
     }
   ]
 }
