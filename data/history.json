@@ -167,6 +167,10 @@
     "f2b01f52d079b6bc": {
       "title": "Fralda Personal Baby Xg Premium Protection - 26 Unidades",
       "posted_at": "2026-07-15T11:21:11.096295"
+    },
+    "64ad6caf9494a6ae": {
+      "title": "Cadeirinha Infantil com Bandeja para Alimentação",
+      "posted_at": "2026-07-15T12:21:03.307982"
     }
   },
   "results": [
@@ -569,6 +573,14 @@
       "post_id": "49",
       "error": null,
       "at": "2026-07-15T11:21:11.095600"
+    },
+    {
+      "offer_id": "64ad6caf9494a6ae",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "50",
+      "error": null,
+      "at": "2026-07-15T12:21:03.307383"
     }
   ]
 }

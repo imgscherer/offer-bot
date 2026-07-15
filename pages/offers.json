@@ -1,5 +1,17 @@
 [
   {
+    "id": "64ad6caf9494a6ae",
+    "title": "Cadeirinha Infantil com Bandeja para Alimentação",
+    "price_now": 79.99,
+    "price_was": 140.33,
+    "discount_pct": 43,
+    "url": "https://s.shopee.com.br/6pz8P4hqWh?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/209733006817841168179635086133.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-15T12:21:03.307709"
+  },
+  {
     "id": "f2b01f52d079b6bc",
     "title": "Fralda Personal Baby Xg Premium Protection - 26 Unidades",
     "price_now": 28.49,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-13T18:51:07.492753"
-  },
-  {
-    "id": "de9fda93b8e02baf",
-    "title": "Fralda Personal Baby Premium Protection M 34 unidades",
-    "price_now": 31.52,
-    "price_was": 46.38,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/900984947717839680807264500905.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-13T18:50:58.456815"
   }
 ]
