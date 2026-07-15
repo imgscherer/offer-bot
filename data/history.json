@@ -223,6 +223,10 @@
     "030b749a27793f85": {
       "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper M 86 Unidades",
       "posted_at": "2026-07-15T20:11:05.978897"
+    },
+    "bd5d2ef6e512b5d7": {
+      "title": "Berço Next2Me Magic Evo Co-Sleeping Com Balanço 0–9kg Chicco",
+      "posted_at": "2026-07-15T20:51:05.376226"
     }
   },
   "results": [
@@ -737,6 +741,14 @@
       "post_id": "63",
       "error": null,
       "at": "2026-07-15T20:11:05.978211"
+    },
+    {
+      "offer_id": "bd5d2ef6e512b5d7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "64",
+      "error": null,
+      "at": "2026-07-15T20:51:05.375610"
     }
   ]
 }
