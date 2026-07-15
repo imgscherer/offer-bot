@@ -227,6 +227,10 @@
     "bd5d2ef6e512b5d7": {
       "title": "Berço Next2Me Magic Evo Co-Sleeping Com Balanço 0–9kg Chicco",
       "posted_at": "2026-07-15T20:51:05.376226"
+    },
+    "ed5aa20f66e9497f": {
+      "title": "Penico Infantil OHANA BABY Troninho Privadinha Azul - Desfralde Divertido, Assento Ergonômico, Resistente até 50kg (Azul)",
+      "posted_at": "2026-07-15T21:01:07.252664"
     }
   },
   "results": [
@@ -749,6 +753,14 @@
       "post_id": "64",
       "error": null,
       "at": "2026-07-15T20:51:05.375610"
+    },
+    {
+      "offer_id": "ed5aa20f66e9497f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "65",
+      "error": null,
+      "at": "2026-07-15T21:01:07.252082"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "ed5aa20f66e9497f",
+    "title": "Penico Infantil OHANA BABY Troninho Privadinha Azul - Desfralde Divertido, Assento Ergonômico, Resistente até 50kg (Azul)",
+    "price_now": 69.99,
+    "price_was": 109.99,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0F3XT967C?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/413135269117841491108338478707.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-15T21:01:07.252407"
+  },
+  {
     "id": "bd5d2ef6e512b5d7",
     "title": "Berço Next2Me Magic Evo Co-Sleeping Com Balanço 0–9kg Chicco",
     "price_now": 1198.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-15T12:51:32.212120"
-  },
-  {
-    "id": "40d3bf783f489a75",
-    "title": "Fralda Babysec Ultrasec M 68 unidades",
-    "price_now": 51.99,
-    "price_was": 87.82,
-    "discount_pct": 41,
-    "url": "https://s.shopee.com.br/2LWj6BJ2x7?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/673750924817841197682192459712.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-15T12:51:22.591982"
   }
 ]
