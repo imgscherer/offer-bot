@@ -163,6 +163,10 @@
     "4502ae17116dc69c": {
       "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos mo",
       "posted_at": "2026-07-15T10:51:09.303570"
+    },
+    "f2b01f52d079b6bc": {
+      "title": "Fralda Personal Baby Xg Premium Protection - 26 Unidades",
+      "posted_at": "2026-07-15T11:21:11.096295"
     }
   },
   "results": [
@@ -557,6 +561,14 @@
       "post_id": "48",
       "error": null,
       "at": "2026-07-15T10:51:09.302876"
+    },
+    {
+      "offer_id": "f2b01f52d079b6bc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "49",
+      "error": null,
+      "at": "2026-07-15T11:21:11.095600"
     }
   ]
 }

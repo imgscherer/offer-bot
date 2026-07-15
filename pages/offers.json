@@ -1,5 +1,17 @@
 [
   {
+    "id": "f2b01f52d079b6bc",
+    "title": "Fralda Personal Baby Xg Premium Protection - 26 Unidades",
+    "price_now": 28.49,
+    "price_was": 46.38,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/626769902517841133335964037144.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-15T11:21:11.095959"
+  },
+  {
     "id": "4502ae17116dc69c",
     "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos mo",
     "price_now": 169.87,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-13T18:50:58.456815"
-  },
-  {
-    "id": "e0f00c0c6125e09a",
-    "title": "Kit Banho Bebê Orgânico (1 Shampoo 200ml, 1 Condicionador 200ml, 1 Colônia Sem Álcool 30ml)",
-    "price_now": 44.9,
-    "price_was": 70.16,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/9zw7PMBiat?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/554371698317839669485532261505.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-13T18:31:12.902803"
   }
 ]
