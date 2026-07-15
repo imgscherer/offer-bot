@@ -159,6 +159,10 @@
     "cac2187ce7805e8e": {
       "title": "Bicicleta De Equilibrio Andador Infantil Sem Pedal Para Crianças (rosa)",
       "posted_at": "2026-07-14T21:51:04.323900"
+    },
+    "4502ae17116dc69c": {
+      "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos mo",
+      "posted_at": "2026-07-15T10:51:09.303570"
     }
   },
   "results": [
@@ -545,6 +549,14 @@
       "post_id": "47",
       "error": null,
       "at": "2026-07-14T21:51:04.323183"
+    },
+    {
+      "offer_id": "4502ae17116dc69c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "48",
+      "error": null,
+      "at": "2026-07-15T10:51:09.302876"
     }
   ]
 }
