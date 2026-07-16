@@ -255,6 +255,10 @@
     "786445a0ef78d989": {
       "title": "Fralda Pom Pom Protek Proteção De Mãe M 86 unidades",
       "posted_at": "2026-07-16T10:51:13.270861"
+    },
+    "24a3ca39efe1bc67": {
+      "title": "Bicicleta de Equilibrio Andador Infantil sem Pedal para Crianças (Rosa)",
+      "posted_at": "2026-07-16T13:01:13.638198"
     }
   },
   "results": [
@@ -833,6 +837,14 @@
       "post_id": "71",
       "error": null,
       "at": "2026-07-16T10:51:13.270272"
+    },
+    {
+      "offer_id": "24a3ca39efe1bc67",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "72",
+      "error": null,
+      "at": "2026-07-16T13:01:13.637459"
     }
   ]
 }

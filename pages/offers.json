@@ -1,5 +1,17 @@
 [
   {
+    "id": "24a3ca39efe1bc67",
+    "title": "Bicicleta de Equilibrio Andador Infantil sem Pedal para Crianças (Rosa)",
+    "price_now": 65.38,
+    "price_was": 169.9,
+    "discount_pct": 62,
+    "url": "https://www.amazon.com.br/dp/B0DLHYSGPG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/525262792417842059144223305593.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-16T13:01:13.637817"
+  },
+  {
     "id": "786445a0ef78d989",
     "title": "Fralda Pom Pom Protek Proteção De Mãe M 86 unidades",
     "price_now": 51.77,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-15T19:51:07.787668"
-  },
-  {
-    "id": "2724412fb00bc2b1",
-    "title": "Assento Redutor Infantil Vaso Sanitário Privada Com Escada Trono Troninho (Cinza)",
-    "price_now": 56.36,
-    "price_was": 95.57,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0CH3ZLGZK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/158341287217841399734743545949.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-15T18:31:07.723116"
   }
 ]
