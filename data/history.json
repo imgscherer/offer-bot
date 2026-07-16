@@ -231,6 +231,10 @@
     "ed5aa20f66e9497f": {
       "title": "Penico Infantil OHANA BABY Troninho Privadinha Azul - Desfralde Divertido, Assento Ergonômico, Resistente até 50kg (Azul)",
       "posted_at": "2026-07-15T21:01:07.252664"
+    },
+    "b5e7f8800e6461bf": {
+      "title": "Cadeirinha Infantil com Bandeja para Alimentação Bebê Portátil Segura Leve Fácil de Limpar",
+      "posted_at": "2026-07-16T00:51:09.981602"
     }
   },
   "results": [
@@ -761,6 +765,14 @@
       "post_id": "65",
       "error": null,
       "at": "2026-07-15T21:01:07.252082"
+    },
+    {
+      "offer_id": "b5e7f8800e6461bf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "66",
+      "error": null,
+      "at": "2026-07-16T00:51:09.981052"
     }
   ]
 }
