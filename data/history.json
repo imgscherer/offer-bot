@@ -239,6 +239,10 @@
     "ee8f1015d045db40": {
       "title": "Kababy Standard Babador, Azul (Carrinhos), 6+ Meses",
       "posted_at": "2026-07-16T02:01:13.558104"
+    },
+    "3706ad4f072d35d5": {
+      "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
+      "posted_at": "2026-07-16T04:20:57.882987"
     }
   },
   "results": [
@@ -785,6 +789,14 @@
       "post_id": "67",
       "error": null,
       "at": "2026-07-16T02:01:13.557424"
+    },
+    {
+      "offer_id": "3706ad4f072d35d5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "68",
+      "error": null,
+      "at": "2026-07-16T04:20:57.882301"
     }
   ]
 }

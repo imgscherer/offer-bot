@@ -1,5 +1,17 @@
 [
   {
+    "id": "3706ad4f072d35d5",
+    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
+    "price_now": 27.32,
+    "price_was": 53.99,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/969178658617841750178041002135.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-16T04:20:57.882663"
+  },
+  {
     "id": "ee8f1015d045db40",
     "title": "Kababy Standard Babador, Azul (Carrinhos), 6+ Meses",
     "price_now": 16.73,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-15T13:01:44.237945"
-  },
-  {
-    "id": "cb186e907b3e114d",
-    "title": "Fralda Cremer Magic Care G 120 Unidades",
-    "price_now": 69.75,
-    "price_was": 129.15,
-    "discount_pct": 46,
-    "url": "https://s.shopee.com.br/4AyNIGdOEf?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/223898645817841203934844358794.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-15T13:01:33.654377"
   }
 ]
