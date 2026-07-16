@@ -1,5 +1,29 @@
 [
   {
+    "id": "db3370f6db94f7cb",
+    "title": "Fralda Huggies Máxima Proteção XG 58 unidades",
+    "price_now": 71.15,
+    "price_was": 116.9,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0BQ3YXSQD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/775177100117842258349188268245.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-16T18:31:19.773139"
+  },
+  {
+    "id": "3262c7647f4fc3f8",
+    "title": "Fralda Huggies Máxima Proteção M 72 unidades",
+    "price_now": 71.15,
+    "price_was": 116.9,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0BQ3Y3VD3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/461627832417842258578236611320.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-16T18:31:07.675055"
+  },
+  {
     "id": "51af47918fa45a1a",
     "title": "Fralda Huggies Supreme Care Roupinha M 72 unidades",
     "price_now": 71.15,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-16T00:51:09.981362"
-  },
-  {
-    "id": "ed5aa20f66e9497f",
-    "title": "Penico Infantil OHANA BABY Troninho Privadinha Azul - Desfralde Divertido, Assento Ergonômico, Resistente até 50kg (Azul)",
-    "price_now": 69.99,
-    "price_was": 109.99,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0F3XT967C?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/413135269117841491108338478707.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-15T21:01:07.252407"
-  },
-  {
-    "id": "bd5d2ef6e512b5d7",
-    "title": "Berço Next2Me Magic Evo Co-Sleeping Com Balanço 0–9kg Chicco",
-    "price_now": 1198.0,
-    "price_was": 2199.0,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B0BR87Q5BW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/483378650117841479513782690954.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-15T20:51:05.375926"
   }
 ]

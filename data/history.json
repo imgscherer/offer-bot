@@ -271,6 +271,14 @@
     "51af47918fa45a1a": {
       "title": "Fralda Huggies Supreme Care Roupinha M 72 unidades",
       "posted_at": "2026-07-16T16:50:52.184334"
+    },
+    "3262c7647f4fc3f8": {
+      "title": "Fralda Huggies Máxima Proteção M 72 unidades",
+      "posted_at": "2026-07-16T18:31:07.675350"
+    },
+    "db3370f6db94f7cb": {
+      "title": "Fralda Huggies Máxima Proteção XG 58 unidades",
+      "posted_at": "2026-07-16T18:31:19.773437"
     }
   },
   "results": [
@@ -881,6 +889,22 @@
       "post_id": "75",
       "error": null,
       "at": "2026-07-16T16:50:52.183770"
+    },
+    {
+      "offer_id": "3262c7647f4fc3f8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "76",
+      "error": null,
+      "at": "2026-07-16T18:31:07.674760"
+    },
+    {
+      "offer_id": "db3370f6db94f7cb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "77",
+      "error": null,
+      "at": "2026-07-16T18:31:19.772857"
     }
   ]
 }
