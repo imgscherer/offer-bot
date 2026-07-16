@@ -283,6 +283,10 @@
     "c695d866a8603c50": {
       "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 50g",
       "posted_at": "2026-07-16T20:10:53.555271"
+    },
+    "b6084f8cb61aac24": {
+      "title": "Johnson's Baby Shampoo Infantil Para Cabelos Cacheados Cachos Dos Sonhos, 400ml",
+      "posted_at": "2026-07-16T22:50:43.138733"
     }
   },
   "results": [
@@ -917,6 +921,14 @@
       "post_id": "78",
       "error": null,
       "at": "2026-07-16T20:10:53.554496"
+    },
+    {
+      "offer_id": "b6084f8cb61aac24",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "79",
+      "error": null,
+      "at": "2026-07-16T22:50:43.138285"
     }
   ]
 }

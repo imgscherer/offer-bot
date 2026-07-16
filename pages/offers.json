@@ -1,5 +1,17 @@
 [
   {
+    "id": "b6084f8cb61aac24",
+    "title": "Johnson's Baby Shampoo Infantil Para Cabelos Cacheados Cachos Dos Sonhos, 400ml",
+    "price_now": 17.43,
+    "price_was": 26.59,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B07DHRLBBH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/707536149817842419147655015354.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-16T22:50:43.138538"
+  },
+  {
     "id": "c695d866a8603c50",
     "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 50g",
     "price_now": 22.39,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-16T04:20:57.882663"
-  },
-  {
-    "id": "ee8f1015d045db40",
-    "title": "Kababy Standard Babador, Azul (Carrinhos), 6+ Meses",
-    "price_now": 16.73,
-    "price_was": 23.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B07W5QKXYV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/973344129217841666733726871017.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-16T02:01:13.557790"
   }
 ]
