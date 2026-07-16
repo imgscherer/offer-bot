@@ -279,6 +279,10 @@
     "db3370f6db94f7cb": {
       "title": "Fralda Huggies Máxima Proteção XG 58 unidades",
       "posted_at": "2026-07-16T18:31:19.773437"
+    },
+    "c695d866a8603c50": {
+      "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 50g",
+      "posted_at": "2026-07-16T20:10:53.555271"
     }
   },
   "results": [
@@ -905,6 +909,14 @@
       "post_id": "77",
       "error": null,
       "at": "2026-07-16T18:31:19.772857"
+    },
+    {
+      "offer_id": "c695d866a8603c50",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "78",
+      "error": null,
+      "at": "2026-07-16T20:10:53.554496"
     }
   ]
 }
