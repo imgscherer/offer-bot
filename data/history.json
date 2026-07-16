@@ -259,6 +259,10 @@
     "24a3ca39efe1bc67": {
       "title": "Bicicleta de Equilibrio Andador Infantil sem Pedal para Crianças (Rosa)",
       "posted_at": "2026-07-16T13:01:13.638198"
+    },
+    "c3af98d7648e4733": {
+      "title": "Cadeira de Descanso Para bebê Nap Time 0-11kgs Rosa Cinto de 3 pontos Com Acessórios Interativos Multikids Baby BB291",
+      "posted_at": "2026-07-16T13:51:03.812902"
     }
   },
   "results": [
@@ -845,6 +849,14 @@
       "post_id": "72",
       "error": null,
       "at": "2026-07-16T13:01:13.637459"
+    },
+    {
+      "offer_id": "c3af98d7648e4733",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "73",
+      "error": null,
+      "at": "2026-07-16T13:51:03.812144"
     }
   ]
 }
