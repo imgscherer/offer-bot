@@ -247,6 +247,14 @@
     "fba715cd813343e6": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
       "posted_at": "2026-07-16T10:40:59.641036"
+    },
+    "6b43ac50e6aea361": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe XG 60 unidades",
+      "posted_at": "2026-07-16T10:51:03.297548"
+    },
+    "786445a0ef78d989": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe M 86 unidades",
+      "posted_at": "2026-07-16T10:51:13.270861"
     }
   },
   "results": [
@@ -809,6 +817,22 @@
       "post_id": "69",
       "error": null,
       "at": "2026-07-16T10:40:59.640298"
+    },
+    {
+      "offer_id": "6b43ac50e6aea361",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "70",
+      "error": null,
+      "at": "2026-07-16T10:51:03.296913"
+    },
+    {
+      "offer_id": "786445a0ef78d989",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "71",
+      "error": null,
+      "at": "2026-07-16T10:51:13.270272"
     }
   ]
 }

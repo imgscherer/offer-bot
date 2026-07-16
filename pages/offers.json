@@ -1,5 +1,29 @@
 [
   {
+    "id": "786445a0ef78d989",
+    "title": "Fralda Pom Pom Protek Proteção De Mãe M 86 unidades",
+    "price_now": 51.77,
+    "price_was": 77.37,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B097RYMQZ5?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/828047260617841984153503771708.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-16T10:51:13.270532"
+  },
+  {
+    "id": "6b43ac50e6aea361",
+    "title": "Fralda Pom Pom Protek Proteção De Mãe XG 60 unidades",
+    "price_now": 51.77,
+    "price_was": 77.37,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/836460533317841984125581551654.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-16T10:51:03.297254"
+  },
+  {
     "id": "fba715cd813343e6",
     "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
     "price_now": 51.76,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-15T18:31:07.723116"
-  },
-  {
-    "id": "61116d5d24536454",
-    "title": "Fralda Turma da Mônica Baby P 62 unidades",
-    "price_now": 33.02,
-    "price_was": 50.04,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/883874837817841356513026644146.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-15T17:21:05.375414"
-  },
-  {
-    "id": "fe5a0d28d581159a",
-    "title": "Fralda Cremer Magic Care XXG 80 unidades",
-    "price_now": 69.75,
-    "price_was": 129.15,
-    "discount_pct": 46,
-    "url": "https://s.shopee.com.br/gOV7nUQLJ?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/835397245817841203607510817050.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-15T13:01:56.562614"
   }
 ]
