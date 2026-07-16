@@ -1,5 +1,17 @@
 [
   {
+    "id": "fba715cd813343e6",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
+    "price_now": 51.76,
+    "price_was": 77.37,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/362236183317841981717069746073.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-16T10:40:59.640661"
+  },
+  {
     "id": "3706ad4f072d35d5",
     "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
     "price_now": 27.32,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-15T13:01:56.562614"
-  },
-  {
-    "id": "033b113fd3568c93",
-    "title": "Fralda Cremer Magic Care M 136 Unidades",
-    "price_now": 69.75,
-    "price_was": 129.15,
-    "discount_pct": 46,
-    "url": "https://s.shopee.com.br/1Vxc7LnoBt?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/713482163017841203815268681997.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-15T13:01:44.237945"
   }
 ]

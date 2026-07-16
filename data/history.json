@@ -243,6 +243,10 @@
     "3706ad4f072d35d5": {
       "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
       "posted_at": "2026-07-16T04:20:57.882987"
+    },
+    "fba715cd813343e6": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
+      "posted_at": "2026-07-16T10:40:59.641036"
     }
   },
   "results": [
@@ -797,6 +801,14 @@
       "post_id": "68",
       "error": null,
       "at": "2026-07-16T04:20:57.882301"
+    },
+    {
+      "offer_id": "fba715cd813343e6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "69",
+      "error": null,
+      "at": "2026-07-16T10:40:59.640298"
     }
   ]
 }
