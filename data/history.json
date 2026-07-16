@@ -263,6 +263,10 @@
     "c3af98d7648e4733": {
       "title": "Cadeira de Descanso Para bebê Nap Time 0-11kgs Rosa Cinto de 3 pontos Com Acessórios Interativos Multikids Baby BB291",
       "posted_at": "2026-07-16T13:51:03.812902"
+    },
+    "f620aa8d7d65ab28": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper M 86 Unidades",
+      "posted_at": "2026-07-16T14:31:07.080410"
     }
   },
   "results": [
@@ -857,6 +861,14 @@
       "post_id": "73",
       "error": null,
       "at": "2026-07-16T13:51:03.812144"
+    },
+    {
+      "offer_id": "f620aa8d7d65ab28",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "74",
+      "error": null,
+      "at": "2026-07-16T14:31:07.079648"
     }
   ]
 }

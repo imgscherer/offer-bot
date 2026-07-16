@@ -1,5 +1,17 @@
 [
   {
+    "id": "f620aa8d7d65ab28",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper M 86 Unidades",
+    "price_now": 51.0,
+    "price_was": 77.37,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B097RYMQZ5?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/857445107117842116773566013099.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-16T14:31:07.080033"
+  },
+  {
     "id": "c3af98d7648e4733",
     "title": "Cadeira de Descanso Para bebê Nap Time 0-11kgs Rosa Cinto de 3 pontos Com Acessórios Interativos Multikids Baby BB291",
     "price_now": 169.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-15T20:11:05.978589"
-  },
-  {
-    "id": "972620ff7d8980cd",
-    "title": "Assento Redutor Infantil, Cinza | Com Escada, Vaso Sanitário",
-    "price_now": 56.36,
-    "price_was": 95.57,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0CH3ZLGZK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/362526317817841450746024349358.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-15T20:01:08.846649"
   }
 ]
