@@ -1,5 +1,17 @@
 [
   {
+    "id": "ee8f1015d045db40",
+    "title": "Kababy Standard Babador, Azul (Carrinhos), 6+ Meses",
+    "price_now": 16.73,
+    "price_was": 23.9,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B07W5QKXYV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/973344129217841666733726871017.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-16T02:01:13.557790"
+  },
+  {
     "id": "b5e7f8800e6461bf",
     "title": "Cadeirinha Infantil com Bandeja para Alimentação Bebê Portátil Segura Leve Fácil de Limpar",
     "price_now": 79.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-15T13:01:33.654377"
-  },
-  {
-    "id": "5de1128b68c48d27",
-    "title": "Fralda Turma da Mônica Baby M 120 unidades",
-    "price_now": 67.5,
-    "price_was": 130.42,
-    "discount_pct": 48,
-    "url": "https://s.shopee.com.br/2Vq9J9tkIv?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/274777176517841203534692815973.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-15T13:01:19.759261"
   }
 ]

@@ -235,6 +235,10 @@
     "b5e7f8800e6461bf": {
       "title": "Cadeirinha Infantil com Bandeja para Alimentação Bebê Portátil Segura Leve Fácil de Limpar",
       "posted_at": "2026-07-16T00:51:09.981602"
+    },
+    "ee8f1015d045db40": {
+      "title": "Kababy Standard Babador, Azul (Carrinhos), 6+ Meses",
+      "posted_at": "2026-07-16T02:01:13.558104"
     }
   },
   "results": [
@@ -773,6 +777,14 @@
       "post_id": "66",
       "error": null,
       "at": "2026-07-16T00:51:09.981052"
+    },
+    {
+      "offer_id": "ee8f1015d045db40",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "67",
+      "error": null,
+      "at": "2026-07-16T02:01:13.557424"
     }
   ]
 }
