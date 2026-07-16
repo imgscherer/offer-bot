@@ -112,6 +112,31 @@ arquivo novo. Não altere o orchestrator.**
 - Métricas: parsing dos painéis de afiliado pra fechar o loop e ranquear
   ofertas que historicamente convertem.
 
+## Mercado Livre — investigado e descartado por ora (2026-07-09)
+
+Usuário se afiliou ao Mercado Livre e pediu pra integrar. Duas rotas
+testadas, ambas bloqueadas por motivos fora do nosso controle — **não
+retentar sem checar se algo mudou do lado do ML**:
+
+1. **Via Promobit** (`meli.la` short links que o `PromobitFetcher` já
+   descarta): o redirect não leva a uma URL de produto limpa — vai pra
+   `mercadolivre.com.br/social/promobit?matt_word=promobit&matt_tool=76706625&...`,
+   ou seja, **já creditado à conta de afiliado do próprio Promobit**
+   (`matt_tool=76706625` é o ID deles). Resolver via HTTP simples (sem JS)
+   cai numa página de recomendações genérica, não no produto — o redirect
+   real depende de JS client-side.
+2. **API pública do ML** (`api.mercadolibre.com/sites/MLB/search`) pra
+   descobrir produtos direto, sem depender do Promobit: retorna 403
+   mesmo com token OAuth válido — problema generalizado reportado por
+   vários devs em 2026 (parece exigir aprovação num "Developer Partner
+   Program" não documentado publicamente).
+
+Programa de afiliados do ML não tem API própria pra gerar link (confirmado
+via busca) — só o portal web (`mercadolivre.com.br/afiliados`), igual ao
+caso do `amzn.to` (ver `_retag` em `src/fetchers/promobit.py`). Diferença:
+pro Amazon a URL de saída do Promobit é limpa (dá pra extrair o ASIN e
+remontar); pro ML não é.
+
 ## Como rodar localmente
 
 ```bash
