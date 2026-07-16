@@ -5,7 +5,7 @@ the orchestrator can swap between them freely. Default for now per user
 request: fixed copy, zero dependency on Claude for the core pipeline.
 """
 
-from ..formatting import format_price
+from ..formatting import extract_unit_count, format_price
 from ..models import Offer
 
 _NICHE_LABEL = {
@@ -17,10 +17,18 @@ _NICHE_LABEL = {
 }
 
 
+def _unit_price_suffix(offer: Offer) -> str:
+    qty = extract_unit_count(offer.title)
+    if not qty:
+        return ""
+    unit_price = offer.price_now / qty
+    return f" ({qty}x R$ {format_price(unit_price)} cada)"
+
+
 def _price_block(offer: Offer) -> str:
     was = f"De R$ {format_price(offer.price_was)} por " if offer.price_was else ""
     pct = f" (-{offer.discount_pct}% OFF)" if offer.discount_pct else ""
-    return f"{was}R$ {format_price(offer.price_now)}{pct}"
+    return f"{was}R$ {format_price(offer.price_now)}{pct}{_unit_price_suffix(offer)}"
 
 
 def _price_block_html(offer: Offer) -> str:
@@ -32,6 +40,10 @@ def _price_block_html(offer: Offer) -> str:
     lines.append(f"✅ Por apenas: R$ {format_price(offer.price_now)}")
     if offer.discount_pct:
         lines.append(f"📉 Desconto: {offer.discount_pct}% OFF")
+    qty = extract_unit_count(offer.title)
+    if qty:
+        unit_price = offer.price_now / qty
+        lines.append(f"💰 Preço unitário: R$ {format_price(unit_price)} (kit com {qty})")
     return "\n".join(lines)
 
 

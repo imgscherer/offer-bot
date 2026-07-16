@@ -8,7 +8,7 @@ import logging
 
 from anthropic import AsyncAnthropic
 
-from ..formatting import format_price
+from ..formatting import extract_unit_count, format_price
 from ..models import Offer
 
 log = logging.getLogger(__name__)
@@ -19,16 +19,19 @@ Escreva uma legenda curta (até 280 caracteres) para a oferta abaixo.
 Estilo: direto, sem hashtags, sem emojis exagerados (1-2 no máximo).
 Estrutura: gancho (1 linha) + benefício (1 linha) + CTA discreto.
 Não invente atributos do produto. Só use o que está no título.
+{unit_price_note}
 
 Produto: {title}
 De: R$ {price_was} por R$ {price_now} ({discount}% OFF)""",
 
     "story": """Texto curto para Instagram Story de oferta de {niche}.
 Máximo 60 caracteres. Tom: urgência leve, sem caps-lock.
+{unit_price_note}
 Produto: {title} | {discount}% OFF""",
 
     "feed": """Caption para post de feed do Instagram (até 400 caracteres),
 nicho {niche}. Inclua 3-5 hashtags relevantes no final.
+{unit_price_note}
 Produto: {title} | De R$ {price_was} por R$ {price_now} ({discount}% OFF)""",
 }
 
@@ -43,12 +46,20 @@ class CaptionGenerator:
         if not template:
             raise ValueError(f"Unknown format: {format}")
 
+        qty = extract_unit_count(offer.title)
+        unit_price_note = (
+            f"O produto vem em kit/pacote com {qty} unidades — "
+            f"inclua o preço por unidade (R$ {format_price(offer.price_now / qty)} cada) na legenda."
+            if qty else ""
+        )
+
         prompt = template.format(
             niche=offer.niche.value,
             title=offer.title,
             price_now=format_price(offer.price_now),
             price_was=format_price(offer.price_was) if offer.price_was else "—",
             discount=offer.discount_pct,
+            unit_price_note=unit_price_note,
         )
 
         resp = await self.client.messages.create(
