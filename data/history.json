@@ -267,6 +267,10 @@
     "f620aa8d7d65ab28": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper M 86 Unidades",
       "posted_at": "2026-07-16T14:31:07.080410"
+    },
+    "51af47918fa45a1a": {
+      "title": "Fralda Huggies Supreme Care Roupinha M 72 unidades",
+      "posted_at": "2026-07-16T16:50:52.184334"
     }
   },
   "results": [
@@ -869,6 +873,14 @@
       "post_id": "74",
       "error": null,
       "at": "2026-07-16T14:31:07.079648"
+    },
+    {
+      "offer_id": "51af47918fa45a1a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "75",
+      "error": null,
+      "at": "2026-07-16T16:50:52.183770"
     }
   ]
 }

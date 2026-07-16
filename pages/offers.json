@@ -1,5 +1,17 @@
 [
   {
+    "id": "51af47918fa45a1a",
+    "title": "Fralda Huggies Supreme Care Roupinha M 72 unidades",
+    "price_now": 71.15,
+    "price_was": 113.25,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B08GZNWJ17?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/971025361917842201904208481877.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-16T16:50:52.184070"
+  },
+  {
     "id": "f620aa8d7d65ab28",
     "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper M 86 Unidades",
     "price_now": 51.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-15T20:51:05.375926"
-  },
-  {
-    "id": "030b749a27793f85",
-    "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper M 86 Unidades",
-    "price_now": 54.49,
-    "price_was": 77.37,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B097RYMQZ5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/243741650317841460905666458729.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-15T20:11:05.978589"
   }
 ]
