@@ -343,6 +343,10 @@
     "3191cd7e4dc53545": {
       "title": "10 Pacotes Fralda Turma da Mônica Baby Mega P - Total 620 Unidades",
       "posted_at": "2026-07-17T18:11:01.106487"
+    },
+    "9de8fce4da13b278": {
+      "title": "10 Pacotes Fralda Turma da Mônica Baby Mega P - Total 620 Unidades",
+      "posted_at": "2026-07-17T19:30:49.328676"
     }
   },
   "results": [
@@ -1097,6 +1101,14 @@
       "post_id": "93",
       "error": null,
       "at": "2026-07-17T18:11:01.105907"
+    },
+    {
+      "offer_id": "9de8fce4da13b278",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "94",
+      "error": null,
+      "at": "2026-07-17T19:30:49.327989"
     }
   ]
 }
