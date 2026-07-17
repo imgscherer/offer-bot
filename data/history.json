@@ -303,6 +303,10 @@
     "364564c22deeee95": {
       "title": "Fralda turma da monica baby mega p 62 unidades",
       "posted_at": "2026-07-17T13:20:47.091844"
+    },
+    "e677f3f45608d38c": {
+      "title": "Talheres Infantil Aço Inox 304 Colher Garfo Kit Com Estojo (3 Cores)",
+      "posted_at": "2026-07-17T14:30:55.623147"
     }
   },
   "results": [
@@ -977,6 +981,14 @@
       "post_id": "83",
       "error": null,
       "at": "2026-07-17T13:20:47.091238"
+    },
+    {
+      "offer_id": "e677f3f45608d38c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "84",
+      "error": null,
+      "at": "2026-07-17T14:30:55.622425"
     }
   ]
 }
