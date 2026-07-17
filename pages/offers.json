@@ -1,5 +1,17 @@
 [
   {
+    "id": "2dabdacbb224af84",
+    "title": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi baby (Grafite)",
+    "price_now": 379.9,
+    "price_was": 629.9,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0FXH6Y9G8?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/703155128917842839749037441194.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-17T10:30:50.923702"
+  },
+  {
     "id": "c605c73989dcb259",
     "title": "Kit 2 Travas com Chave Multiuso Adesiva Sem Furos Proteção Infantil",
     "price_now": 33.15,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-16T10:51:03.297254"
-  },
-  {
-    "id": "fba715cd813343e6",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
-    "price_now": 51.76,
-    "price_was": 77.37,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/362236183317841981717069746073.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-16T10:40:59.640661"
   }
 ]

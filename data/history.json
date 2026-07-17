@@ -291,6 +291,10 @@
     "c605c73989dcb259": {
       "title": "Kit 2 Travas com Chave Multiuso Adesiva Sem Furos Proteção Infantil",
       "posted_at": "2026-07-17T00:01:05.564871"
+    },
+    "2dabdacbb224af84": {
+      "title": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi baby (Grafite)",
+      "posted_at": "2026-07-17T10:30:50.924041"
     }
   },
   "results": [
@@ -941,6 +945,14 @@
       "post_id": "80",
       "error": null,
       "at": "2026-07-17T00:01:05.564236"
+    },
+    {
+      "offer_id": "2dabdacbb224af84",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "81",
+      "error": null,
+      "at": "2026-07-17T10:30:50.923322"
     }
   ]
 }
