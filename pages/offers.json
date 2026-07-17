@@ -1,5 +1,17 @@
 [
   {
+    "id": "18a669140fc6a7ba",
+    "title": "Fralda Turma da Mônica XG 42 unidades",
+    "price_now": 32.77,
+    "price_was": 50.04,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B099KV2733?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/183267336017843098339754607598.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-17T17:50:45.200083"
+  },
+  {
     "id": "c070749a2d08ff29",
     "title": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi Baby (Grafite) Até 9kg",
     "price_now": 379.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-17T10:30:50.923702"
-  },
-  {
-    "id": "c605c73989dcb259",
-    "title": "Kit 2 Travas com Chave Multiuso Adesiva Sem Furos Proteção Infantil",
-    "price_now": 33.15,
-    "price_was": 69.9,
-    "discount_pct": 53,
-    "url": "https://www.amazon.com.br/dp/B0FVBHJ1K3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/945256696917842455135492083991.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-17T00:01:05.564563"
   }
 ]

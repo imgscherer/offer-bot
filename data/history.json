@@ -335,6 +335,10 @@
     "c070749a2d08ff29": {
       "title": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi Baby (Grafite) Até 9kg",
       "posted_at": "2026-07-17T17:40:49.304045"
+    },
+    "18a669140fc6a7ba": {
+      "title": "Fralda Turma da Mônica XG 42 unidades",
+      "posted_at": "2026-07-17T17:50:45.200392"
     }
   },
   "results": [
@@ -1073,6 +1077,14 @@
       "post_id": "91",
       "error": null,
       "at": "2026-07-17T17:40:49.303390"
+    },
+    {
+      "offer_id": "18a669140fc6a7ba",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "92",
+      "error": null,
+      "at": "2026-07-17T17:50:45.199726"
     }
   ]
 }
