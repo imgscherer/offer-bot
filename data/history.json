@@ -339,6 +339,10 @@
     "18a669140fc6a7ba": {
       "title": "Fralda Turma da Mônica XG 42 unidades",
       "posted_at": "2026-07-17T17:50:45.200392"
+    },
+    "3191cd7e4dc53545": {
+      "title": "10 Pacotes Fralda Turma da Mônica Baby Mega P - Total 620 Unidades",
+      "posted_at": "2026-07-17T18:11:01.106487"
     }
   },
   "results": [
@@ -1085,6 +1089,14 @@
       "post_id": "92",
       "error": null,
       "at": "2026-07-17T17:50:45.199726"
+    },
+    {
+      "offer_id": "3191cd7e4dc53545",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "93",
+      "error": null,
+      "at": "2026-07-17T18:11:01.105907"
     }
   ]
 }
