@@ -323,6 +323,10 @@
     "cbb73b6ea1ad70a2": {
       "title": "Fralda Huggies Máxima Proteção G 160 unidades",
       "posted_at": "2026-07-17T14:41:20.675495"
+    },
+    "653067279f739edf": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe P com 30 Unidades",
+      "posted_at": "2026-07-17T15:30:55.479040"
     }
   },
   "results": [
@@ -1037,6 +1041,14 @@
       "post_id": "88",
       "error": null,
       "at": "2026-07-17T14:41:20.674855"
+    },
+    {
+      "offer_id": "653067279f739edf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "89",
+      "error": null,
+      "at": "2026-07-17T15:30:55.478354"
     }
   ]
 }
