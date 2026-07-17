@@ -327,6 +327,10 @@
     "653067279f739edf": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe P com 30 Unidades",
       "posted_at": "2026-07-17T15:30:55.479040"
+    },
+    "d4501790f13c9194": {
+      "title": "Fralda Personal Baby Premium Pants G 62 unidades",
+      "posted_at": "2026-07-17T17:30:48.993312"
     }
   },
   "results": [
@@ -1049,6 +1053,14 @@
       "post_id": "89",
       "error": null,
       "at": "2026-07-17T15:30:55.478354"
+    },
+    {
+      "offer_id": "d4501790f13c9194",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "90",
+      "error": null,
+      "at": "2026-07-17T17:30:48.992613"
     }
   ]
 }

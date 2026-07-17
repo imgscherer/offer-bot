@@ -1,5 +1,17 @@
 [
   {
+    "id": "d4501790f13c9194",
+    "title": "Fralda Personal Baby Premium Pants G 62 unidades",
+    "price_now": 77.88,
+    "price_was": 116.89,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/880552750317843086357587424088.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-17T17:30:48.992938"
+  },
+  {
     "id": "653067279f739edf",
     "title": "Fralda Pom Pom Protek Proteção de Mãe P com 30 Unidades",
     "price_now": 20.78,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-16T22:50:43.138538"
-  },
-  {
-    "id": "c695d866a8603c50",
-    "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 50g",
-    "price_now": 22.39,
-    "price_was": 40.88,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B07NPYD9KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/979191927217842321983531100360.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-16T20:10:53.554862"
   }
 ]
