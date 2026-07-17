@@ -1,5 +1,53 @@
 [
   {
+    "id": "cbb73b6ea1ad70a2",
+    "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+    "price_now": 161.38,
+    "price_was": 229.9,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/141532477817842981405318920225.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-17T14:41:20.675183"
+  },
+  {
+    "id": "00f3282b225c4d6f",
+    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+    "price_now": 161.38,
+    "price_was": 229.9,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/389647128317842981694454635962.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-17T14:41:09.418983"
+  },
+  {
+    "id": "9f839c2f963ad6c3",
+    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+    "price_now": 161.38,
+    "price_was": 229.9,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/481816606217842981649236557577.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-17T14:40:58.960721"
+  },
+  {
+    "id": "4b4e958ae794284e",
+    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+    "price_now": 161.38,
+    "price_was": 229.9,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/795855337617842981721476845285.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-17T14:40:46.853720"
+  },
+  {
     "id": "e677f3f45608d38c",
     "title": "Talheres Infantil Aço Inox 304 Colher Garfo Kit Com Estojo (3 Cores)",
     "price_now": 14.9,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-16T18:31:19.773139"
-  },
-  {
-    "id": "3262c7647f4fc3f8",
-    "title": "Fralda Huggies Máxima Proteção M 72 unidades",
-    "price_now": 71.15,
-    "price_was": 116.9,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0BQ3Y3VD3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/461627832417842258578236611320.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-16T18:31:07.675055"
-  },
-  {
-    "id": "51af47918fa45a1a",
-    "title": "Fralda Huggies Supreme Care Roupinha M 72 unidades",
-    "price_now": 71.15,
-    "price_was": 113.25,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B08GZNWJ17?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/971025361917842201904208481877.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-16T16:50:52.184070"
-  },
-  {
-    "id": "f620aa8d7d65ab28",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper M 86 Unidades",
-    "price_now": 51.0,
-    "price_was": 77.37,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B097RYMQZ5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/857445107117842116773566013099.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-16T14:31:07.080033"
-  },
-  {
-    "id": "c3af98d7648e4733",
-    "title": "Cadeira de Descanso Para bebê Nap Time 0-11kgs Rosa Cinto de 3 pontos Com Acessórios Interativos Multikids Baby BB291",
-    "price_now": 169.9,
-    "price_was": 299.9,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B0B2X2P3G5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/535878100917842095114523900083.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-16T13:51:03.812556"
   }
 ]

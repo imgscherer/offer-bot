@@ -307,6 +307,22 @@
     "e677f3f45608d38c": {
       "title": "Talheres Infantil Aço Inox 304 Colher Garfo Kit Com Estojo (3 Cores)",
       "posted_at": "2026-07-17T14:30:55.623147"
+    },
+    "4b4e958ae794284e": {
+      "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+      "posted_at": "2026-07-17T14:40:46.854084"
+    },
+    "9f839c2f963ad6c3": {
+      "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+      "posted_at": "2026-07-17T14:40:58.961072"
+    },
+    "00f3282b225c4d6f": {
+      "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+      "posted_at": "2026-07-17T14:41:09.419306"
+    },
+    "cbb73b6ea1ad70a2": {
+      "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+      "posted_at": "2026-07-17T14:41:20.675495"
     }
   },
   "results": [
@@ -989,6 +1005,38 @@
       "post_id": "84",
       "error": null,
       "at": "2026-07-17T14:30:55.622425"
+    },
+    {
+      "offer_id": "4b4e958ae794284e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "85",
+      "error": null,
+      "at": "2026-07-17T14:40:46.853351"
+    },
+    {
+      "offer_id": "9f839c2f963ad6c3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "86",
+      "error": null,
+      "at": "2026-07-17T14:40:58.960403"
+    },
+    {
+      "offer_id": "00f3282b225c4d6f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "87",
+      "error": null,
+      "at": "2026-07-17T14:41:09.418661"
+    },
+    {
+      "offer_id": "cbb73b6ea1ad70a2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "88",
+      "error": null,
+      "at": "2026-07-17T14:41:20.674855"
     }
   ]
 }
