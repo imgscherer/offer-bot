@@ -287,6 +287,10 @@
     "b6084f8cb61aac24": {
       "title": "Johnson's Baby Shampoo Infantil Para Cabelos Cacheados Cachos Dos Sonhos, 400ml",
       "posted_at": "2026-07-16T22:50:43.138733"
+    },
+    "c605c73989dcb259": {
+      "title": "Kit 2 Travas com Chave Multiuso Adesiva Sem Furos Proteção Infantil",
+      "posted_at": "2026-07-17T00:01:05.564871"
     }
   },
   "results": [
@@ -929,6 +933,14 @@
       "post_id": "79",
       "error": null,
       "at": "2026-07-16T22:50:43.138285"
+    },
+    {
+      "offer_id": "c605c73989dcb259",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "80",
+      "error": null,
+      "at": "2026-07-17T00:01:05.564236"
     }
   ]
 }

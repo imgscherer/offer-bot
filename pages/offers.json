@@ -1,5 +1,17 @@
 [
   {
+    "id": "c605c73989dcb259",
+    "title": "Kit 2 Travas com Chave Multiuso Adesiva Sem Furos Proteção Infantil",
+    "price_now": 33.15,
+    "price_was": 69.9,
+    "discount_pct": 53,
+    "url": "https://www.amazon.com.br/dp/B0FVBHJ1K3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/945256696917842455135492083991.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-17T00:01:05.564563"
+  },
+  {
     "id": "b6084f8cb61aac24",
     "title": "Johnson's Baby Shampoo Infantil Para Cabelos Cacheados Cachos Dos Sonhos, 400ml",
     "price_now": 17.43,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-16T10:40:59.640661"
-  },
-  {
-    "id": "3706ad4f072d35d5",
-    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
-    "price_now": 27.32,
-    "price_was": 53.99,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/969178658617841750178041002135.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-16T04:20:57.882663"
   }
 ]
