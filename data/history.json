@@ -347,6 +347,14 @@
     "9de8fce4da13b278": {
       "title": "10 Pacotes Fralda Turma da Mônica Baby Mega P - Total 620 Unidades",
       "posted_at": "2026-07-17T19:30:49.328676"
+    },
+    "e72d7bb2a9b2c167": {
+      "title": "Fralda Pom Pom Protek Hiper M 86 Unidades",
+      "posted_at": "2026-07-18T00:40:39.657968"
+    },
+    "620ab9fbe9510990": {
+      "title": "Fralda Pom Pom Protek Proteção Mãe XG",
+      "posted_at": "2026-07-18T00:40:49.878151"
     }
   },
   "results": [
@@ -1109,6 +1117,22 @@
       "post_id": "94",
       "error": null,
       "at": "2026-07-17T19:30:49.327989"
+    },
+    {
+      "offer_id": "e72d7bb2a9b2c167",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "95",
+      "error": null,
+      "at": "2026-07-18T00:40:39.657379"
+    },
+    {
+      "offer_id": "620ab9fbe9510990",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "96",
+      "error": null,
+      "at": "2026-07-18T00:40:49.796148"
     }
   ]
 }

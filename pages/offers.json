@@ -1,5 +1,29 @@
 [
   {
+    "id": "620ab9fbe9510990",
+    "title": "Fralda Pom Pom Protek Proteção Mãe XG",
+    "price_now": 53.61,
+    "price_was": 77.37,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/384757589817843347934953560800.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-18T00:40:49.796406"
+  },
+  {
+    "id": "e72d7bb2a9b2c167",
+    "title": "Fralda Pom Pom Protek Hiper M 86 Unidades",
+    "price_now": 51.77,
+    "price_was": 77.37,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B097RYMQZ5?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/591006946317843340142359069816.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-18T00:40:39.657696"
+  },
+  {
     "id": "9de8fce4da13b278",
     "title": "10 Pacotes Fralda Turma da Mônica Baby Mega P - Total 620 Unidades",
     "price_now": 295.46,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-17T14:40:46.853720"
-  },
-  {
-    "id": "e677f3f45608d38c",
-    "title": "Talheres Infantil Aço Inox 304 Colher Garfo Kit Com Estojo (3 Cores)",
-    "price_now": 14.9,
-    "price_was": 29.8,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/6fflXosw8q?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/274513000017842977167330113094.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-17T14:30:55.622768"
-  },
-  {
-    "id": "364564c22deeee95",
-    "title": "Fralda turma da monica baby mega p 62 unidades",
-    "price_now": 34.76,
-    "price_was": 50.04,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/912786934417842938697512696839.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-17T13:20:47.091549"
   }
 ]
