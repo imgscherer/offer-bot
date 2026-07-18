@@ -359,6 +359,14 @@
     "8745117438f34cfc": {
       "title": "Hidratante e Calmante sem Fragrância para Pele Muito Sensível. Mustela Bebê, Rosa-200 ml",
       "posted_at": "2026-07-18T11:00:47.915295"
+    },
+    "1372ed1dea913536": {
+      "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
+      "posted_at": "2026-07-18T11:20:42.464351"
+    },
+    "c78e791ea2836be1": {
+      "title": "Fralda Personal Baby Premium Protection M 34 unidades",
+      "posted_at": "2026-07-18T11:20:50.048553"
     }
   },
   "results": [
@@ -1145,6 +1153,22 @@
       "post_id": "97",
       "error": null,
       "at": "2026-07-18T11:00:47.914594"
+    },
+    {
+      "offer_id": "1372ed1dea913536",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "98",
+      "error": null,
+      "at": "2026-07-18T11:20:42.463649"
+    },
+    {
+      "offer_id": "c78e791ea2836be1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "99",
+      "error": null,
+      "at": "2026-07-18T11:20:50.047892"
     }
   ]
 }

@@ -1,5 +1,29 @@
 [
   {
+    "id": "c78e791ea2836be1",
+    "title": "Fralda Personal Baby Premium Protection M 34 unidades",
+    "price_now": 31.52,
+    "price_was": 46.38,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/835176970117843725322521143011.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-18T11:20:50.048202"
+  },
+  {
+    "id": "1372ed1dea913536",
+    "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
+    "price_now": 31.52,
+    "price_was": 46.38,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/920442045117843725396654357378.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-18T11:20:42.464000"
+  },
+  {
     "id": "8745117438f34cfc",
     "title": "Hidratante e Calmante sem Fragrância para Pele Muito Sensível. Mustela Bebê, Rosa-200 ml",
     "price_now": 64.07,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-17T14:41:20.675183"
-  },
-  {
-    "id": "00f3282b225c4d6f",
-    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
-    "price_now": 161.38,
-    "price_was": 229.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/389647128317842981694454635962.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-17T14:41:09.418983"
-  },
-  {
-    "id": "9f839c2f963ad6c3",
-    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
-    "price_now": 161.38,
-    "price_was": 229.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/481816606217842981649236557577.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-17T14:40:58.960721"
   }
 ]
