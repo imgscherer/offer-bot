@@ -1,5 +1,17 @@
 [
   {
+    "id": "94e5d6ef670ba97d",
+    "title": "Degrau Infantil Step Dots, Clingo",
+    "price_now": 30.0,
+    "price_was": 49.9,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B084HDSB5N?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/812186807717843757284362992163.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-18T12:00:53.304669"
+  },
+  {
     "id": "e77b76fced7bb800",
     "title": "Fralda Pom Pom Protek Proteção de Mãe M 28 Unidades",
     "price_now": 20.68,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-17T17:40:49.303715"
-  },
-  {
-    "id": "d4501790f13c9194",
-    "title": "Fralda Personal Baby Premium Pants G 62 unidades",
-    "price_now": 77.88,
-    "price_was": 116.89,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/880552750317843086357587424088.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-17T17:30:48.992938"
   }
 ]

@@ -375,6 +375,10 @@
     "e77b76fced7bb800": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe M 28 Unidades",
       "posted_at": "2026-07-18T11:50:54.700377"
+    },
+    "94e5d6ef670ba97d": {
+      "title": "Degrau Infantil Step Dots, Clingo",
+      "posted_at": "2026-07-18T12:00:53.305015"
     }
   },
   "results": [
@@ -1193,6 +1197,14 @@
       "post_id": "101",
       "error": null,
       "at": "2026-07-18T11:50:54.699721"
+    },
+    {
+      "offer_id": "94e5d6ef670ba97d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "102",
+      "error": null,
+      "at": "2026-07-18T12:00:53.304286"
     }
   ]
 }
