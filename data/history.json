@@ -355,6 +355,10 @@
     "620ab9fbe9510990": {
       "title": "Fralda Pom Pom Protek Proteção Mãe XG",
       "posted_at": "2026-07-18T00:40:49.878151"
+    },
+    "8745117438f34cfc": {
+      "title": "Hidratante e Calmante sem Fragrância para Pele Muito Sensível. Mustela Bebê, Rosa-200 ml",
+      "posted_at": "2026-07-18T11:00:47.915295"
     }
   },
   "results": [
@@ -1133,6 +1137,14 @@
       "post_id": "96",
       "error": null,
       "at": "2026-07-18T00:40:49.796148"
+    },
+    {
+      "offer_id": "8745117438f34cfc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "97",
+      "error": null,
+      "at": "2026-07-18T11:00:47.914594"
     }
   ]
 }
