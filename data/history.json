@@ -379,6 +379,10 @@
     "94e5d6ef670ba97d": {
       "title": "Degrau Infantil Step Dots, Clingo",
       "posted_at": "2026-07-18T12:00:53.305015"
+    },
+    "5ea3ca2072fa29bd": {
+      "title": "Fralda Turma Da Mônica Baby Mega Xg 42 Unidades",
+      "posted_at": "2026-07-19T17:00:45.001154"
     }
   },
   "results": [
@@ -1205,6 +1209,14 @@
       "post_id": "102",
       "error": null,
       "at": "2026-07-18T12:00:53.304286"
+    },
+    {
+      "offer_id": "5ea3ca2072fa29bd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "103",
+      "error": null,
+      "at": "2026-07-19T17:00:45.000490"
     }
   ]
 }
