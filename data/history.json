@@ -383,6 +383,10 @@
     "5ea3ca2072fa29bd": {
       "title": "Fralda Turma Da Mônica Baby Mega Xg 42 Unidades",
       "posted_at": "2026-07-19T17:00:45.001154"
+    },
+    "33967696aca18d93": {
+      "title": "Fralda Pampers Premium Care Pants XG 64 unidades",
+      "posted_at": "2026-07-20T12:10:41.823651"
     }
   },
   "results": [
@@ -1217,6 +1221,14 @@
       "post_id": "103",
       "error": null,
       "at": "2026-07-19T17:00:45.000490"
+    },
+    {
+      "offer_id": "33967696aca18d93",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "104",
+      "error": null,
+      "at": "2026-07-20T12:10:41.822911"
     }
   ]
 }
