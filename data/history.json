@@ -391,6 +391,10 @@
     "a80fca8cc8c658fe": {
       "title": "Escova para Mamadeiras e bico Philips Avent",
       "posted_at": "2026-07-20T17:10:41.893156"
+    },
+    "a91fd47ef56d15d6": {
+      "title": "Sapatilha Infantil Blogueirinha (Tam. 20 ao 34, 4 Cores)",
+      "posted_at": "2026-07-20T18:10:48.420023"
     }
   },
   "results": [
@@ -1241,6 +1245,14 @@
       "post_id": "105",
       "error": null,
       "at": "2026-07-20T17:10:41.892545"
+    },
+    {
+      "offer_id": "a91fd47ef56d15d6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "106",
+      "error": null,
+      "at": "2026-07-20T18:10:48.419284"
     }
   ]
 }

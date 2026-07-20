@@ -1,5 +1,17 @@
 [
   {
+    "id": "a91fd47ef56d15d6",
+    "title": "Sapatilha Infantil Blogueirinha (Tam. 20 ao 34, 4 Cores)",
+    "price_now": 39.6,
+    "price_was": 70.0,
+    "discount_pct": 43,
+    "url": "https://s.shopee.com.br/8AUeNFS4eU?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/316992064817845708975891644896.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-20T18:10:48.419648"
+  },
+  {
     "id": "a80fca8cc8c658fe",
     "title": "Escova para Mamadeiras e bico Philips Avent",
     "price_now": 33.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-18T00:40:39.657696"
-  },
-  {
-    "id": "9de8fce4da13b278",
-    "title": "10 Pacotes Fralda Turma da Mônica Baby Mega P - Total 620 Unidades",
-    "price_now": 295.46,
-    "price_was": 500.4,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/382838543117843115027184176428.png",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-17T19:30:49.328354"
   }
 ]
