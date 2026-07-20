@@ -1,5 +1,17 @@
 [
   {
+    "id": "a80fca8cc8c658fe",
+    "title": "Escova para Mamadeiras e bico Philips Avent",
+    "price_now": 33.9,
+    "price_was": 59.9,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B000MMOR46?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/400069716717845673224763619743.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-20T17:10:41.892864"
+  },
+  {
     "id": "33967696aca18d93",
     "title": "Fralda Pampers Premium Care Pants XG 64 unidades",
     "price_now": 89.29,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-17T19:30:49.328354"
-  },
-  {
-    "id": "3191cd7e4dc53545",
-    "title": "10 Pacotes Fralda Turma da Mônica Baby Mega P - Total 620 Unidades",
-    "price_now": 312.84,
-    "price_was": 500.4,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/382838543117843115027184176428.png",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-17T18:11:01.106240"
   }
 ]

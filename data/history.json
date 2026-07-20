@@ -387,6 +387,10 @@
     "33967696aca18d93": {
       "title": "Fralda Pampers Premium Care Pants XG 64 unidades",
       "posted_at": "2026-07-20T12:10:41.823651"
+    },
+    "a80fca8cc8c658fe": {
+      "title": "Escova para Mamadeiras e bico Philips Avent",
+      "posted_at": "2026-07-20T17:10:41.893156"
     }
   },
   "results": [
@@ -1229,6 +1233,14 @@
       "post_id": "104",
       "error": null,
       "at": "2026-07-20T12:10:41.822911"
+    },
+    {
+      "offer_id": "a80fca8cc8c658fe",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "105",
+      "error": null,
+      "at": "2026-07-20T17:10:41.892545"
     }
   ]
 }
