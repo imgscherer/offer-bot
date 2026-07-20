@@ -1,5 +1,17 @@
 [
   {
+    "id": "364ef31bfccd2fcb",
+    "title": "Fralda Mili Love&Care P 56 Unidades",
+    "price_now": 44.59,
+    "price_was": 85.6,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B07GG1YT1W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/791843484017845786355229893528.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-20T20:20:45.250816"
+  },
+  {
     "id": "a70d9cdfc72d93e9",
     "title": "Lenço Umedecido Piquitucho Premium 120 unidades",
     "price_now": 10.19,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-18T11:00:47.914939"
-  },
-  {
-    "id": "620ab9fbe9510990",
-    "title": "Fralda Pom Pom Protek Proteção Mãe XG",
-    "price_now": 53.61,
-    "price_was": 77.37,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/384757589817843347934953560800.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-18T00:40:49.796406"
   }
 ]

@@ -399,6 +399,10 @@
     "a70d9cdfc72d93e9": {
       "title": "Lenço Umedecido Piquitucho Premium 120 unidades",
       "posted_at": "2026-07-20T20:00:59.341968"
+    },
+    "364ef31bfccd2fcb": {
+      "title": "Fralda Mili Love&Care P 56 Unidades",
+      "posted_at": "2026-07-20T20:20:45.251151"
     }
   },
   "results": [
@@ -1265,6 +1269,14 @@
       "post_id": "107",
       "error": null,
       "at": "2026-07-20T20:00:59.341258"
+    },
+    {
+      "offer_id": "364ef31bfccd2fcb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "108",
+      "error": null,
+      "at": "2026-07-20T20:20:45.250437"
     }
   ]
 }
