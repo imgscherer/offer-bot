@@ -1,5 +1,17 @@
 [
   {
+    "id": "a70d9cdfc72d93e9",
+    "title": "Lenço Umedecido Piquitucho Premium 120 unidades",
+    "price_now": 10.19,
+    "price_was": 16.99,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0781CTJF6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/975828404617845775501294921638.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-20T20:00:59.341650"
+  },
+  {
     "id": "a91fd47ef56d15d6",
     "title": "Sapatilha Infantil Blogueirinha (Tam. 20 ao 34, 4 Cores)",
     "price_now": 39.6,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-18T00:40:49.796406"
-  },
-  {
-    "id": "e72d7bb2a9b2c167",
-    "title": "Fralda Pom Pom Protek Hiper M 86 Unidades",
-    "price_now": 51.77,
-    "price_was": 77.37,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B097RYMQZ5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/591006946317843340142359069816.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-18T00:40:39.657696"
   }
 ]

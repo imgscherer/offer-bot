@@ -395,6 +395,10 @@
     "a91fd47ef56d15d6": {
       "title": "Sapatilha Infantil Blogueirinha (Tam. 20 ao 34, 4 Cores)",
       "posted_at": "2026-07-20T18:10:48.420023"
+    },
+    "a70d9cdfc72d93e9": {
+      "title": "Lenço Umedecido Piquitucho Premium 120 unidades",
+      "posted_at": "2026-07-20T20:00:59.341968"
     }
   },
   "results": [
@@ -1253,6 +1257,14 @@
       "post_id": "106",
       "error": null,
       "at": "2026-07-20T18:10:48.419284"
+    },
+    {
+      "offer_id": "a70d9cdfc72d93e9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "107",
+      "error": null,
+      "at": "2026-07-20T20:00:59.341258"
     }
   ]
 }
