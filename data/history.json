@@ -403,6 +403,10 @@
     "364ef31bfccd2fcb": {
       "title": "Fralda Mili Love&Care P 56 Unidades",
       "posted_at": "2026-07-20T20:20:45.251151"
+    },
+    "a55f43e3277c9160": {
+      "title": "Kit Sortido 6 Peças de Roupas Infantil Menino (Tam. 6 m a 6 anos)",
+      "posted_at": "2026-07-20T20:40:50.287284"
     }
   },
   "results": [
@@ -1277,6 +1281,14 @@
       "post_id": "108",
       "error": null,
       "at": "2026-07-20T20:20:45.250437"
+    },
+    {
+      "offer_id": "a55f43e3277c9160",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "109",
+      "error": null,
+      "at": "2026-07-20T20:40:50.286596"
     }
   ]
 }
