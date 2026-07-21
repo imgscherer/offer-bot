@@ -419,6 +419,10 @@
     "ce1eac8c74705d32": {
       "title": "Sandália Babuche Infantil Antiderrapante (Tam. 19 ao 32, Diversas cores)",
       "posted_at": "2026-07-21T12:00:57.215488"
+    },
+    "801d29713055f9c8": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Unidades",
+      "posted_at": "2026-07-21T14:30:53.360932"
     }
   },
   "results": [
@@ -1325,6 +1329,14 @@
       "post_id": "112",
       "error": null,
       "at": "2026-07-21T12:00:57.214804"
+    },
+    {
+      "offer_id": "801d29713055f9c8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "113",
+      "error": null,
+      "at": "2026-07-21T14:30:52.883815"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "801d29713055f9c8",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Unidades",
+    "price_now": 19.88,
+    "price_was": 30.17,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B093G99QBH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/925781179417846439754782933654.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-21T14:30:52.884111"
+  },
+  {
     "id": "ce1eac8c74705d32",
     "title": "Sandália Babuche Infantil Antiderrapante (Tam. 19 ao 32, Diversas cores)",
     "price_now": 19.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-18T12:00:53.304669"
-  },
-  {
-    "id": "e77b76fced7bb800",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe M 28 Unidades",
-    "price_now": 20.68,
-    "price_was": 30.17,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B093G83Q3P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/549448220717843749309285879952.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-18T11:50:54.700055"
   }
 ]
