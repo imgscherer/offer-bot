@@ -1,5 +1,29 @@
 [
   {
+    "id": "55bae80af53885d7",
+    "title": "Fralda Turma da Mônica Baby RN 36 Unidades",
+    "price_now": 18.9,
+    "price_was": 28.68,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/815792007217846303584413770010.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-21T10:50:46.331480"
+  },
+  {
+    "id": "1da5fb7c42d6cfac",
+    "title": "Fralda Pampers Pants Premium Care G 68 unidades",
+    "price_now": 89.29,
+    "price_was": 151.59,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/481682170217846303516536114186.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-21T10:50:38.857711"
+  },
+  {
     "id": "a55f43e3277c9160",
     "title": "Kit Sortido 6 Peças de Roupas Infantil Menino (Tam. 6 m a 6 anos)",
     "price_now": 48.9,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-18T11:50:44.015262"
-  },
-  {
-    "id": "c78e791ea2836be1",
-    "title": "Fralda Personal Baby Premium Protection M 34 unidades",
-    "price_now": 31.52,
-    "price_was": 46.38,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/835176970117843725322521143011.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-18T11:20:50.048202"
-  },
-  {
-    "id": "1372ed1dea913536",
-    "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
-    "price_now": 31.52,
-    "price_was": 46.38,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/920442045117843725396654357378.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-18T11:20:42.464000"
   }
 ]

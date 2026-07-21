@@ -407,6 +407,14 @@
     "a55f43e3277c9160": {
       "title": "Kit Sortido 6 Peças de Roupas Infantil Menino (Tam. 6 m a 6 anos)",
       "posted_at": "2026-07-20T20:40:50.287284"
+    },
+    "1da5fb7c42d6cfac": {
+      "title": "Fralda Pampers Pants Premium Care G 68 unidades",
+      "posted_at": "2026-07-21T10:50:38.858081"
+    },
+    "55bae80af53885d7": {
+      "title": "Fralda Turma da Mônica Baby RN 36 Unidades",
+      "posted_at": "2026-07-21T10:50:46.331825"
     }
   },
   "results": [
@@ -1289,6 +1297,22 @@
       "post_id": "109",
       "error": null,
       "at": "2026-07-20T20:40:50.286596"
+    },
+    {
+      "offer_id": "1da5fb7c42d6cfac",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "110",
+      "error": null,
+      "at": "2026-07-21T10:50:38.857364"
+    },
+    {
+      "offer_id": "55bae80af53885d7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "111",
+      "error": null,
+      "at": "2026-07-21T10:50:46.331175"
     }
   ]
 }
