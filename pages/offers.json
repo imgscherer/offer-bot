@@ -1,5 +1,17 @@
 [
   {
+    "id": "ce1eac8c74705d32",
+    "title": "Sandália Babuche Infantil Antiderrapante (Tam. 19 ao 32, Diversas cores)",
+    "price_now": 19.9,
+    "price_was": 60.3,
+    "discount_pct": 67,
+    "url": "https://s.shopee.com.br/18xpNQbpP?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/626938873217846347941814103676.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-21T12:00:57.215161"
+  },
+  {
     "id": "55bae80af53885d7",
     "title": "Fralda Turma da Mônica Baby RN 36 Unidades",
     "price_now": 18.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-18T11:50:54.700055"
-  },
-  {
-    "id": "34b9111dbdee420e",
-    "title": "Jaqueta Infantil Parka Sarja Peluciada Capuz Impermeável (Tam. 6 a 16, Diversas cores)",
-    "price_now": 129.11,
-    "price_was": 301.98,
-    "discount_pct": 57,
-    "url": "https://s.shopee.com.br/5LAPNkOEyc?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/591743970717843749332799558650.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-18T11:50:44.015262"
   }
 ]

@@ -415,6 +415,10 @@
     "55bae80af53885d7": {
       "title": "Fralda Turma da Mônica Baby RN 36 Unidades",
       "posted_at": "2026-07-21T10:50:46.331825"
+    },
+    "ce1eac8c74705d32": {
+      "title": "Sandália Babuche Infantil Antiderrapante (Tam. 19 ao 32, Diversas cores)",
+      "posted_at": "2026-07-21T12:00:57.215488"
     }
   },
   "results": [
@@ -1313,6 +1317,14 @@
       "post_id": "111",
       "error": null,
       "at": "2026-07-21T10:50:46.331175"
+    },
+    {
+      "offer_id": "ce1eac8c74705d32",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "112",
+      "error": null,
+      "at": "2026-07-21T12:00:57.214804"
     }
   ]
 }
