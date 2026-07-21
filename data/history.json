@@ -423,6 +423,10 @@
     "801d29713055f9c8": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Unidades",
       "posted_at": "2026-07-21T14:30:53.360932"
+    },
+    "bec2be620d587b51": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe XG 20 Unidades",
+      "posted_at": "2026-07-21T15:01:02.754111"
     }
   },
   "results": [
@@ -1337,6 +1341,14 @@
       "post_id": "113",
       "error": null,
       "at": "2026-07-21T14:30:52.883815"
+    },
+    {
+      "offer_id": "bec2be620d587b51",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "114",
+      "error": null,
+      "at": "2026-07-21T15:01:02.753366"
     }
   ]
 }

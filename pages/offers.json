@@ -1,5 +1,17 @@
 [
   {
+    "id": "bec2be620d587b51",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe XG 20 Unidades",
+    "price_now": 18.89,
+    "price_was": 30.17,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B093G99QBH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/266794977317846458317589983645.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-21T15:01:02.753784"
+  },
+  {
     "id": "801d29713055f9c8",
     "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Unidades",
     "price_now": 19.88,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-19T17:00:45.000830"
-  },
-  {
-    "id": "94e5d6ef670ba97d",
-    "title": "Degrau Infantil Step Dots, Clingo",
-    "price_now": 30.0,
-    "price_was": 49.9,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B084HDSB5N?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/812186807717843757284362992163.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-18T12:00:53.304669"
   }
 ]
