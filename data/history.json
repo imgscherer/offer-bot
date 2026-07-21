@@ -427,6 +427,10 @@
     "bec2be620d587b51": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe XG 20 Unidades",
       "posted_at": "2026-07-21T15:01:02.754111"
+    },
+    "b4e642826d6a861e": {
+      "title": "Fralda Patrulha Canina Cremer - 5 Unidades",
+      "posted_at": "2026-07-21T21:00:53.207431"
     }
   },
   "results": [
@@ -1349,6 +1353,14 @@
       "post_id": "114",
       "error": null,
       "at": "2026-07-21T15:01:02.753366"
+    },
+    {
+      "offer_id": "b4e642826d6a861e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "115",
+      "error": null,
+      "at": "2026-07-21T21:00:53.206870"
     }
   ]
 }

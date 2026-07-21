@@ -1,5 +1,17 @@
 [
   {
+    "id": "b4e642826d6a861e",
+    "title": "Fralda Patrulha Canina Cremer - 5 Unidades",
+    "price_now": 26.69,
+    "price_was": 47.44,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B09KX6WYGB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/881149496617846671874865375472.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-21T21:00:53.207163"
+  },
+  {
     "id": "bec2be620d587b51",
     "title": "Fralda Pom Pom Protek Proteção de Mãe XG 20 Unidades",
     "price_now": 18.89,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-20T12:10:41.823307"
-  },
-  {
-    "id": "5ea3ca2072fa29bd",
-    "title": "Fralda Turma Da Mônica Baby Mega Xg 42 Unidades",
-    "price_now": 34.49,
-    "price_was": 50.04,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B099KV2733?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/904749349017844798125880383170.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-19T17:00:45.000830"
   }
 ]
