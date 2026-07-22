@@ -507,6 +507,18 @@
     "7e670e57890ffedf": {
       "title": "Fralda Turma da Mônica Baby XG 168 unidades",
       "posted_at": "2026-07-22T18:01:31.715979"
+    },
+    "ae14ce35b8e29d38": {
+      "title": "Fralda Baby Premium Protection M com 34 Unidades",
+      "posted_at": "2026-07-22T18:20:38.451646"
+    },
+    "93dd53256347ba29": {
+      "title": "Fralda Personal Baby Total Protect Pants G 44 unidades",
+      "posted_at": "2026-07-22T18:20:46.411699"
+    },
+    "7f971f9c7fb1f8e2": {
+      "title": "TakTark Babá Eletrônica Câmera, 4.3\" Monitor de Bebe, Sem Wi-Fi, 2 Way Audio, Visão Nocturna, Zoom Digital, Economia de energia VOX, Temperatura a",
+      "posted_at": "2026-07-22T18:20:53.937622"
     }
   },
   "results": [
@@ -1589,6 +1601,30 @@
       "post_id": "134",
       "error": null,
       "at": "2026-07-22T18:01:31.715465"
+    },
+    {
+      "offer_id": "ae14ce35b8e29d38",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "135",
+      "error": null,
+      "at": "2026-07-22T18:20:38.450909"
+    },
+    {
+      "offer_id": "93dd53256347ba29",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "136",
+      "error": null,
+      "at": "2026-07-22T18:20:46.410933"
+    },
+    {
+      "offer_id": "7f971f9c7fb1f8e2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "137",
+      "error": null,
+      "at": "2026-07-22T18:20:53.936892"
     }
   ]
 }

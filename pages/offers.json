@@ -1,5 +1,41 @@
 [
   {
+    "id": "7f971f9c7fb1f8e2",
+    "title": "TakTark Babá Eletrônica Câmera, 4.3\" Monitor de Bebe, Sem Wi-Fi, 2 Way Audio, Visão Nocturna, Zoom Digital, Economia de energia VOX, Temperatura a",
+    "price_now": 351.49,
+    "price_was": 499.99,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0C6X3DT56?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/917751696317847436916812992595.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T18:20:53.937220"
+  },
+  {
+    "id": "93dd53256347ba29",
+    "title": "Fralda Personal Baby Total Protect Pants G 44 unidades",
+    "price_now": 46.07,
+    "price_was": 71.99,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0BTTLYZN9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/718753291817847439288320312683.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T18:20:46.411353"
+  },
+  {
+    "id": "ae14ce35b8e29d38",
+    "title": "Fralda Baby Premium Protection M com 34 Unidades",
+    "price_now": 29.9,
+    "price_was": 46.38,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/857809593517847434445435120473.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T18:20:38.451293"
+  },
+  {
     "id": "7e670e57890ffedf",
     "title": "Fralda Turma da Mônica Baby XG 168 unidades",
     "price_now": 113.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-22T13:50:45.595817"
-  },
-  {
-    "id": "d4ca7e8f4039a69d",
-    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
-    "price_now": 29.14,
-    "price_was": 53.99,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/227639774917847261739250658259.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T13:20:50.485217"
-  },
-  {
-    "id": "5ecc8ee097f193f3",
-    "title": "Assento De Carro Infantil Elevação Fit Up 15-36kg Maxi Baby (2 cores)",
-    "price_now": 62.32,
-    "price_was": 118.03,
-    "discount_pct": 47,
-    "url": "https://s.shopee.com.br/9V04pLzMH0?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/897644932517847261116896514231.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T13:20:42.210585"
-  },
-  {
-    "id": "7ae24bea8c8dea2d",
-    "title": "Fralda Babysec Ultrasec XXG 48 unidades",
-    "price_now": 55.99,
-    "price_was": 87.49,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/60QCbgfM0S?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/697142387117847232858411122063.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T12:41:06.419780"
   }
 ]
