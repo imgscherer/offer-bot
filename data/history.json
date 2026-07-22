@@ -535,6 +535,10 @@
     "3974a91819d26f08": {
       "title": "10 Calcinhas Infantil com Forro de Algodão (Tam. P ao GG)",
       "posted_at": "2026-07-22T20:55:43.490131"
+    },
+    "c7f18ce55ee749e5": {
+      "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso, 400ml",
+      "posted_at": "2026-07-22T21:10:39.935999"
     }
   },
   "results": [
@@ -1673,6 +1677,14 @@
       "post_id": "141",
       "error": null,
       "at": "2026-07-22T20:55:43.489457"
+    },
+    {
+      "offer_id": "c7f18ce55ee749e5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "142",
+      "error": null,
+      "at": "2026-07-22T21:10:39.935241"
     }
   ]
 }
