@@ -531,6 +531,10 @@
     "da06e12e0c8b57c2": {
       "title": "Tênis Infantil Stitch Com Led (Tam. 20 ao 33)",
       "posted_at": "2026-07-22T20:00:58.136326"
+    },
+    "3974a91819d26f08": {
+      "title": "10 Calcinhas Infantil com Forro de Algodão (Tam. P ao GG)",
+      "posted_at": "2026-07-22T20:55:43.490131"
     }
   },
   "results": [
@@ -1661,6 +1665,14 @@
       "post_id": "140",
       "error": null,
       "at": "2026-07-22T20:00:58.135601"
+    },
+    {
+      "offer_id": "3974a91819d26f08",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "141",
+      "error": null,
+      "at": "2026-07-22T20:55:43.489457"
     }
   ]
 }
