@@ -451,6 +451,18 @@
     "ed487348d0ee3e48": {
       "title": "Fralda Huggies Natural Care RN 34 Unidades",
       "posted_at": "2026-07-22T12:10:44.261903"
+    },
+    "eab56d529f2eefb6": {
+      "title": "Fralda Babysec Ultrasec XG 56 unidades",
+      "posted_at": "2026-07-22T12:40:45.116890"
+    },
+    "e132e9ac09abed94": {
+      "title": "Fralda Babysec Ultrasec M 68 unidades",
+      "posted_at": "2026-07-22T12:40:56.037669"
+    },
+    "7ae24bea8c8dea2d": {
+      "title": "Fralda Babysec Ultrasec XXG 48 unidades",
+      "posted_at": "2026-07-22T12:41:06.420080"
     }
   },
   "results": [
@@ -1421,6 +1433,30 @@
       "post_id": "120",
       "error": null,
       "at": "2026-07-22T12:10:44.261150"
+    },
+    {
+      "offer_id": "eab56d529f2eefb6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "121",
+      "error": null,
+      "at": "2026-07-22T12:40:45.116141"
+    },
+    {
+      "offer_id": "e132e9ac09abed94",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "122",
+      "error": null,
+      "at": "2026-07-22T12:40:56.035690"
+    },
+    {
+      "offer_id": "7ae24bea8c8dea2d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "123",
+      "error": null,
+      "at": "2026-07-22T12:41:06.419489"
     }
   ]
 }
