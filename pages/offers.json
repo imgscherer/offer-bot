@@ -1,5 +1,29 @@
 [
   {
+    "id": "d4ca7e8f4039a69d",
+    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
+    "price_now": 29.14,
+    "price_was": 53.99,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/227639774917847261739250658259.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T13:20:50.485217"
+  },
+  {
+    "id": "5ecc8ee097f193f3",
+    "title": "Assento De Carro Infantil Elevação Fit Up 15-36kg Maxi Baby (2 cores)",
+    "price_now": 62.32,
+    "price_was": 118.03,
+    "discount_pct": 47,
+    "url": "https://s.shopee.com.br/9V04pLzMH0?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/897644932517847261116896514231.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T13:20:42.210585"
+  },
+  {
     "id": "7ae24bea8c8dea2d",
     "title": "Fralda Babysec Ultrasec XXG 48 unidades",
     "price_now": 55.99,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-21T15:01:02.753784"
-  },
-  {
-    "id": "801d29713055f9c8",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Unidades",
-    "price_now": 19.88,
-    "price_was": 30.17,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B093G99QBH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/925781179417846439754782933654.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-21T14:30:52.884111"
-  },
-  {
-    "id": "ce1eac8c74705d32",
-    "title": "Sandália Babuche Infantil Antiderrapante (Tam. 19 ao 32, Diversas cores)",
-    "price_now": 19.9,
-    "price_was": 60.3,
-    "discount_pct": 67,
-    "url": "https://s.shopee.com.br/18xpNQbpP?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/626938873217846347941814103676.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-21T12:00:57.215161"
   }
 ]

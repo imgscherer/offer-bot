@@ -463,6 +463,14 @@
     "7ae24bea8c8dea2d": {
       "title": "Fralda Babysec Ultrasec XXG 48 unidades",
       "posted_at": "2026-07-22T12:41:06.420080"
+    },
+    "5ecc8ee097f193f3": {
+      "title": "Assento De Carro Infantil Elevação Fit Up 15-36kg Maxi Baby (2 cores)",
+      "posted_at": "2026-07-22T13:20:42.210963"
+    },
+    "d4ca7e8f4039a69d": {
+      "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
+      "posted_at": "2026-07-22T13:20:50.485517"
     }
   },
   "results": [
@@ -1457,6 +1465,22 @@
       "post_id": "123",
       "error": null,
       "at": "2026-07-22T12:41:06.419489"
+    },
+    {
+      "offer_id": "5ecc8ee097f193f3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "124",
+      "error": null,
+      "at": "2026-07-22T13:20:42.210256"
+    },
+    {
+      "offer_id": "d4ca7e8f4039a69d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "125",
+      "error": null,
+      "at": "2026-07-22T13:20:50.484925"
     }
   ]
 }
