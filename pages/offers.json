@@ -1,5 +1,17 @@
 [
   {
+    "id": "40fd19806339e518",
+    "title": "Personal Fralda Baby Premium Protection P, 40 Unidades",
+    "price_now": 30.49,
+    "price_was": 46.38,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/524464297717847185477066115194.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T11:20:40.535412"
+  },
+  {
     "id": "0244a8ca4d494bf3",
     "title": "Fralda Personal Baby Premium Protection M 34 unidades",
     "price_now": 28.4,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-20T18:10:48.419648"
-  },
-  {
-    "id": "a80fca8cc8c658fe",
-    "title": "Escova para Mamadeiras e bico Philips Avent",
-    "price_now": 33.9,
-    "price_was": 59.9,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B000MMOR46?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/400069716717845673224763619743.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-20T17:10:41.892864"
   }
 ]

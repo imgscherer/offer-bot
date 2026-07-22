@@ -435,6 +435,10 @@
     "0244a8ca4d494bf3": {
       "title": "Fralda Personal Baby Premium Protection M 34 unidades",
       "posted_at": "2026-07-22T10:50:35.935974"
+    },
+    "40fd19806339e518": {
+      "title": "Personal Fralda Baby Premium Protection P, 40 Unidades",
+      "posted_at": "2026-07-22T11:20:40.535774"
     }
   },
   "results": [
@@ -1373,6 +1377,14 @@
       "post_id": "116",
       "error": null,
       "at": "2026-07-22T10:50:35.894018"
+    },
+    {
+      "offer_id": "40fd19806339e518",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "117",
+      "error": null,
+      "at": "2026-07-22T11:20:40.535044"
     }
   ]
 }
