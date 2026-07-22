@@ -447,6 +447,10 @@
     "8112ad0f34537afe": {
       "title": "Condicionador Natura Mamãe e Bebê 200ml",
       "posted_at": "2026-07-22T11:40:53.263403"
+    },
+    "ed487348d0ee3e48": {
+      "title": "Fralda Huggies Natural Care RN 34 Unidades",
+      "posted_at": "2026-07-22T12:10:44.261903"
     }
   },
   "results": [
@@ -1409,6 +1413,14 @@
       "post_id": "119",
       "error": null,
       "at": "2026-07-22T11:40:53.262694"
+    },
+    {
+      "offer_id": "ed487348d0ee3e48",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "120",
+      "error": null,
+      "at": "2026-07-22T12:10:44.261150"
     }
   ]
 }

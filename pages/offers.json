@@ -1,5 +1,17 @@
 [
   {
+    "id": "ed487348d0ee3e48",
+    "title": "Fralda Huggies Natural Care RN 34 Unidades",
+    "price_now": 28.4,
+    "price_was": 43.59,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/269535511717847213047595982933.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T12:10:44.261566"
+  },
+  {
     "id": "8112ad0f34537afe",
     "title": "Condicionador Natura Mamãe e Bebê 200ml",
     "price_now": 29.92,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-20T20:40:50.286938"
-  },
-  {
-    "id": "364ef31bfccd2fcb",
-    "title": "Fralda Mili Love&Care P 56 Unidades",
-    "price_now": 44.59,
-    "price_was": 85.6,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B07GG1YT1W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/791843484017845786355229893528.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-20T20:20:45.250816"
   }
 ]
