@@ -471,6 +471,18 @@
     "d4ca7e8f4039a69d": {
       "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
       "posted_at": "2026-07-22T13:20:50.485517"
+    },
+    "e06eb40d8cc4b5b5": {
+      "title": "Fralda Pampers Supersec G 80 unidades",
+      "posted_at": "2026-07-22T13:50:45.596126"
+    },
+    "6ba3d9785c8bf9ad": {
+      "title": "Fralda Pampers Supersec M 90 unidades",
+      "posted_at": "2026-07-22T13:50:51.284554"
+    },
+    "6385b8fc45e97acf": {
+      "title": "Fralda Pampers Supersec XXG 66 unidades",
+      "posted_at": "2026-07-22T13:50:56.751999"
     }
   },
   "results": [
@@ -1481,6 +1493,30 @@
       "post_id": "125",
       "error": null,
       "at": "2026-07-22T13:20:50.484925"
+    },
+    {
+      "offer_id": "e06eb40d8cc4b5b5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "126",
+      "error": null,
+      "at": "2026-07-22T13:50:45.595526"
+    },
+    {
+      "offer_id": "6ba3d9785c8bf9ad",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "127",
+      "error": null,
+      "at": "2026-07-22T13:50:51.283995"
+    },
+    {
+      "offer_id": "6385b8fc45e97acf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "128",
+      "error": null,
+      "at": "2026-07-22T13:50:56.696422"
     }
   ]
 }

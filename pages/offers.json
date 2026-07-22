@@ -1,5 +1,41 @@
 [
   {
+    "id": "6385b8fc45e97acf",
+    "title": "Fralda Pampers Supersec XXG 66 unidades",
+    "price_now": 74.25,
+    "price_was": 145.57,
+    "discount_pct": 49,
+    "url": "https://s.shopee.com.br/2LWuJtakz7?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/479704834117847276071682863463.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T13:50:56.696692"
+  },
+  {
+    "id": "6ba3d9785c8bf9ad",
+    "title": "Fralda Pampers Supersec M 90 unidades",
+    "price_now": 74.25,
+    "price_was": 145.57,
+    "discount_pct": 49,
+    "url": "https://s.shopee.com.br/6VMTHYKl2F?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/902318242717847276117090963891.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T13:50:51.284292"
+  },
+  {
+    "id": "e06eb40d8cc4b5b5",
+    "title": "Fralda Pampers Supersec G 80 unidades",
+    "price_now": 74.25,
+    "price_was": 145.57,
+    "discount_pct": 49,
+    "url": "https://s.shopee.com.br/2g9kiVe1bz?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/309407827417847276138514416276.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T13:50:45.595817"
+  },
+  {
     "id": "d4ca7e8f4039a69d",
     "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
     "price_now": 29.14,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-22T11:20:40.535412"
-  },
-  {
-    "id": "0244a8ca4d494bf3",
-    "title": "Fralda Personal Baby Premium Protection M 34 unidades",
-    "price_now": 28.4,
-    "price_was": 46.38,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/416033634617847171648273778098.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T10:50:35.894333"
-  },
-  {
-    "id": "b4e642826d6a861e",
-    "title": "Fralda Patrulha Canina Cremer - 5 Unidades",
-    "price_now": 26.69,
-    "price_was": 47.44,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B09KX6WYGB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/881149496617846671874865375472.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-21T21:00:53.207163"
-  },
-  {
-    "id": "bec2be620d587b51",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe XG 20 Unidades",
-    "price_now": 18.89,
-    "price_was": 30.17,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B093G99QBH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/266794977317846458317589983645.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-21T15:01:02.753784"
   }
 ]
