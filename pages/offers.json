@@ -1,5 +1,29 @@
 [
   {
+    "id": "8112ad0f34537afe",
+    "title": "Condicionador Natura Mamãe e Bebê 200ml",
+    "price_now": 29.92,
+    "price_was": 48.07,
+    "discount_pct": 38,
+    "url": "https://s.shopee.com.br/111WaAweZN?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/301025184817847195114322774509.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T11:40:53.263030"
+  },
+  {
+    "id": "c80026a4d9411095",
+    "title": "Livro Sensorial Educativo Infantil Montessori",
+    "price_now": 40.96,
+    "price_was": 151.72,
+    "discount_pct": 73,
+    "url": "https://s.shopee.com.br/3B61AZMIsd?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/205164014917847198693328187342.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T11:40:45.386848"
+  },
+  {
     "id": "40fd19806339e518",
     "title": "Personal Fralda Baby Premium Protection P, 40 Unidades",
     "price_now": 30.49,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-20T20:20:45.250816"
-  },
-  {
-    "id": "a70d9cdfc72d93e9",
-    "title": "Lenço Umedecido Piquitucho Premium 120 unidades",
-    "price_now": 10.19,
-    "price_was": 16.99,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0781CTJF6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/975828404617845775501294921638.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-20T20:00:59.341650"
-  },
-  {
-    "id": "a91fd47ef56d15d6",
-    "title": "Sapatilha Infantil Blogueirinha (Tam. 20 ao 34, 4 Cores)",
-    "price_now": 39.6,
-    "price_was": 70.0,
-    "discount_pct": 43,
-    "url": "https://s.shopee.com.br/8AUeNFS4eU?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/316992064817845708975891644896.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-20T18:10:48.419648"
   }
 ]

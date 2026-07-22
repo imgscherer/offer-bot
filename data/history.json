@@ -439,6 +439,14 @@
     "40fd19806339e518": {
       "title": "Personal Fralda Baby Premium Protection P, 40 Unidades",
       "posted_at": "2026-07-22T11:20:40.535774"
+    },
+    "c80026a4d9411095": {
+      "title": "Livro Sensorial Educativo Infantil Montessori",
+      "posted_at": "2026-07-22T11:40:45.387219"
+    },
+    "8112ad0f34537afe": {
+      "title": "Condicionador Natura Mamãe e Bebê 200ml",
+      "posted_at": "2026-07-22T11:40:53.263403"
     }
   },
   "results": [
@@ -1385,6 +1393,22 @@
       "post_id": "117",
       "error": null,
       "at": "2026-07-22T11:20:40.535044"
+    },
+    {
+      "offer_id": "c80026a4d9411095",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "118",
+      "error": null,
+      "at": "2026-07-22T11:40:45.386479"
+    },
+    {
+      "offer_id": "8112ad0f34537afe",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "119",
+      "error": null,
+      "at": "2026-07-22T11:40:53.262694"
     }
   ]
 }
