@@ -487,6 +487,10 @@
     "1b3a779623bbd1be": {
       "title": "Máquina de Ruído Branco Infantil - Aparelho de Som para Dormir Luz Noturna USB Ideal para Bebês e Relaxamento",
       "posted_at": "2026-07-22T14:50:47.498445"
+    },
+    "8aad082245f74225": {
+      "title": "Manta Cobertor 120x100 Ultra Soft Antialérgico de Algodão para Bebês - ColorBaby",
+      "posted_at": "2026-07-22T15:20:51.249919"
     }
   },
   "results": [
@@ -1529,6 +1533,14 @@
       "post_id": "129",
       "error": null,
       "at": "2026-07-22T14:50:47.497762"
+    },
+    {
+      "offer_id": "8aad082245f74225",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "130",
+      "error": null,
+      "at": "2026-07-22T15:20:51.249161"
     }
   ]
 }
