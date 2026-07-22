@@ -1,5 +1,17 @@
 [
   {
+    "id": "0244a8ca4d494bf3",
+    "title": "Fralda Personal Baby Premium Protection M 34 unidades",
+    "price_now": 28.4,
+    "price_was": 46.38,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/416033634617847171648273778098.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T10:50:35.894333"
+  },
+  {
     "id": "b4e642826d6a861e",
     "title": "Fralda Patrulha Canina Cremer - 5 Unidades",
     "price_now": 26.69,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-20T17:10:41.892864"
-  },
-  {
-    "id": "33967696aca18d93",
-    "title": "Fralda Pampers Premium Care Pants XG 64 unidades",
-    "price_now": 89.29,
-    "price_was": 151.59,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07X5KWJK9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/128096768817845492949698733558.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-20T12:10:41.823307"
   }
 ]
