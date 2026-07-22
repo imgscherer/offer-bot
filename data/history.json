@@ -523,6 +523,10 @@
     "08aa8700b5707510": {
       "title": "Babá Eletrônica com Monitor Visão Noturna Áudio Bidirecional Sensor de Temperatura Monitor Infantil Digital",
       "posted_at": "2026-07-22T18:40:36.007996"
+    },
+    "5bea75f361480130": {
+      "title": "Cobertor Manta de Bebê Soft Microfibra (2 Cores)",
+      "posted_at": "2026-07-22T18:50:51.275209"
     }
   },
   "results": [
@@ -1637,6 +1641,14 @@
       "post_id": "138",
       "error": null,
       "at": "2026-07-22T18:40:36.007445"
+    },
+    {
+      "offer_id": "5bea75f361480130",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "139",
+      "error": null,
+      "at": "2026-07-22T18:50:51.274495"
     }
   ]
 }
