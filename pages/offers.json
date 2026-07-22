@@ -1,5 +1,17 @@
 [
   {
+    "id": "dab79c10f5abfbad",
+    "title": "Fralda Huggies Premium Natural Care RN 34 Un",
+    "price_now": 25.0,
+    "price_was": 43.59,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/632654929217847579643509679993.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T22:20:39.982589"
+  },
+  {
     "id": "b02e75df9a9aa55a",
     "title": "Fralda Pants Huggies Proteção Acolchoada M",
     "price_now": 171.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-22T18:01:19.601832"
-  },
-  {
-    "id": "97177c2f8ae1ff88",
-    "title": "Fralda Turma da Mônica Baby XXG 144 unidades",
-    "price_now": 113.0,
-    "price_was": 171.94,
-    "discount_pct": 34,
-    "url": "https://s.shopee.com.br/7AcAMQpbi2?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/263035396017847430372784780420.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T18:01:09.297684"
   }
 ]
