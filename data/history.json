@@ -491,6 +491,22 @@
     "8aad082245f74225": {
       "title": "Manta Cobertor 120x100 Ultra Soft Antialérgico de Algodão para Bebês - ColorBaby",
       "posted_at": "2026-07-22T15:20:51.249919"
+    },
+    "73c591e5845d00ed": {
+      "title": "Babá Eletrônica com Monitor Visão Noturna Áudio Bidirecional Sensor de Temperatura Monitor Infantil Digital",
+      "posted_at": "2026-07-22T18:00:58.256436"
+    },
+    "97177c2f8ae1ff88": {
+      "title": "Fralda Turma da Mônica Baby XXG 144 unidades",
+      "posted_at": "2026-07-22T18:01:09.297941"
+    },
+    "fcc81de0909470c6": {
+      "title": "Fralda Turma da Mônica Baby M 200unidades",
+      "posted_at": "2026-07-22T18:01:19.602096"
+    },
+    "7e670e57890ffedf": {
+      "title": "Fralda Turma da Mônica Baby XG 168 unidades",
+      "posted_at": "2026-07-22T18:01:31.715979"
     }
   },
   "results": [
@@ -1541,6 +1557,38 @@
       "post_id": "130",
       "error": null,
       "at": "2026-07-22T15:20:51.249161"
+    },
+    {
+      "offer_id": "73c591e5845d00ed",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "131",
+      "error": null,
+      "at": "2026-07-22T18:00:58.214985"
+    },
+    {
+      "offer_id": "97177c2f8ae1ff88",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "132",
+      "error": null,
+      "at": "2026-07-22T18:01:09.297429"
+    },
+    {
+      "offer_id": "fcc81de0909470c6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "133",
+      "error": null,
+      "at": "2026-07-22T18:01:19.601563"
+    },
+    {
+      "offer_id": "7e670e57890ffedf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "134",
+      "error": null,
+      "at": "2026-07-22T18:01:31.715465"
     }
   ]
 }

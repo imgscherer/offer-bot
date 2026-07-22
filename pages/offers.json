@@ -1,5 +1,53 @@
 [
   {
+    "id": "7e670e57890ffedf",
+    "title": "Fralda Turma da Mônica Baby XG 168 unidades",
+    "price_now": 113.0,
+    "price_was": 170.72,
+    "discount_pct": 34,
+    "url": "https://s.shopee.com.br/LlqDOA8nc?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/437556912717847426078207988179.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T18:01:31.715720"
+  },
+  {
+    "id": "fcc81de0909470c6",
+    "title": "Fralda Turma da Mônica Baby M 200unidades",
+    "price_now": 113.0,
+    "price_was": 170.72,
+    "discount_pct": 34,
+    "url": "https://s.shopee.com.br/9pcvXKMkyN?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/418979132217847430295294721919.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T18:01:19.601832"
+  },
+  {
+    "id": "97177c2f8ae1ff88",
+    "title": "Fralda Turma da Mônica Baby XXG 144 unidades",
+    "price_now": 113.0,
+    "price_was": 171.94,
+    "discount_pct": 34,
+    "url": "https://s.shopee.com.br/7AcAMQpbi2?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/263035396017847430372784780420.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T18:01:09.297684"
+  },
+  {
+    "id": "73c591e5845d00ed",
+    "title": "Babá Eletrônica com Monitor Visão Noturna Áudio Bidirecional Sensor de Temperatura Monitor Infantil Digital",
+    "price_now": 228.9,
+    "price_was": 595.43,
+    "discount_pct": 62,
+    "url": "https://s.shopee.com.br/1VxnbX9xg2?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/444223816517847426734086263762.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T18:00:58.215286"
+  },
+  {
     "id": "8aad082245f74225",
     "title": "Manta Cobertor 120x100 Ultra Soft Antialérgico de Algodão para Bebês - ColorBaby",
     "price_now": 26.39,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-22T12:41:06.419780"
-  },
-  {
-    "id": "e132e9ac09abed94",
-    "title": "Fralda Babysec Ultrasec M 68 unidades",
-    "price_now": 55.99,
-    "price_was": 87.49,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/6AjcnziqQk?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/574259637517847232889921646162.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T12:40:56.035987"
-  },
-  {
-    "id": "eab56d529f2eefb6",
-    "title": "Fralda Babysec Ultrasec XG 56 unidades",
-    "price_now": 55.99,
-    "price_was": 87.49,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/111WeV1YEj?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/334349269517847232905212538590.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T12:40:45.116590"
-  },
-  {
-    "id": "ed487348d0ee3e48",
-    "title": "Fralda Huggies Natural Care RN 34 Unidades",
-    "price_now": 28.4,
-    "price_was": 43.59,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/269535511717847213047595982933.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T12:10:44.261566"
-  },
-  {
-    "id": "8112ad0f34537afe",
-    "title": "Condicionador Natura Mamãe e Bebê 200ml",
-    "price_now": 29.92,
-    "price_was": 48.07,
-    "discount_pct": 38,
-    "url": "https://s.shopee.com.br/111WaAweZN?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/301025184817847195114322774509.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T11:40:53.263030"
   }
 ]
