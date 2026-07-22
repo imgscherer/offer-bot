@@ -519,6 +519,10 @@
     "7f971f9c7fb1f8e2": {
       "title": "TakTark Babá Eletrônica Câmera, 4.3\" Monitor de Bebe, Sem Wi-Fi, 2 Way Audio, Visão Nocturna, Zoom Digital, Economia de energia VOX, Temperatura a",
       "posted_at": "2026-07-22T18:20:53.937622"
+    },
+    "08aa8700b5707510": {
+      "title": "Babá Eletrônica com Monitor Visão Noturna Áudio Bidirecional Sensor de Temperatura Monitor Infantil Digital",
+      "posted_at": "2026-07-22T18:40:36.007996"
     }
   },
   "results": [
@@ -1625,6 +1629,14 @@
       "post_id": "137",
       "error": null,
       "at": "2026-07-22T18:20:53.936892"
+    },
+    {
+      "offer_id": "08aa8700b5707510",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "138",
+      "error": null,
+      "at": "2026-07-22T18:40:36.007445"
     }
   ]
 }
