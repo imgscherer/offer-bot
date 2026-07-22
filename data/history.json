@@ -483,6 +483,10 @@
     "6385b8fc45e97acf": {
       "title": "Fralda Pampers Supersec XXG 66 unidades",
       "posted_at": "2026-07-22T13:50:56.751999"
+    },
+    "1b3a779623bbd1be": {
+      "title": "Máquina de Ruído Branco Infantil - Aparelho de Som para Dormir Luz Noturna USB Ideal para Bebês e Relaxamento",
+      "posted_at": "2026-07-22T14:50:47.498445"
     }
   },
   "results": [
@@ -1517,6 +1521,14 @@
       "post_id": "128",
       "error": null,
       "at": "2026-07-22T13:50:56.696422"
+    },
+    {
+      "offer_id": "1b3a779623bbd1be",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "129",
+      "error": null,
+      "at": "2026-07-22T14:50:47.497762"
     }
   ]
 }
