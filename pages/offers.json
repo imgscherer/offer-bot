@@ -1,5 +1,17 @@
 [
   {
+    "id": "b02e75df9a9aa55a",
+    "title": "Fralda Pants Huggies Proteção Acolchoada M",
+    "price_now": 171.0,
+    "price_was": 289.0,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/119688805117847570065125641258.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-22T21:52:46.039344"
+  },
+  {
     "id": "c7f18ce55ee749e5",
     "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso, 400ml",
     "price_now": 15.59,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-22T18:01:09.297684"
-  },
-  {
-    "id": "73c591e5845d00ed",
-    "title": "Babá Eletrônica com Monitor Visão Noturna Áudio Bidirecional Sensor de Temperatura Monitor Infantil Digital",
-    "price_now": 228.9,
-    "price_was": 595.43,
-    "discount_pct": 62,
-    "url": "https://s.shopee.com.br/1VxnbX9xg2?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/444223816517847426734086263762.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T18:00:58.215286"
   }
 ]

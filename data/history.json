@@ -539,6 +539,10 @@
     "c7f18ce55ee749e5": {
       "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso, 400ml",
       "posted_at": "2026-07-22T21:10:39.935999"
+    },
+    "b02e75df9a9aa55a": {
+      "title": "Fralda Pants Huggies Proteção Acolchoada M",
+      "posted_at": "2026-07-22T21:52:46.039714"
     }
   },
   "results": [
@@ -1685,6 +1689,14 @@
       "post_id": "142",
       "error": null,
       "at": "2026-07-22T21:10:39.935241"
+    },
+    {
+      "offer_id": "b02e75df9a9aa55a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "143",
+      "error": null,
+      "at": "2026-07-22T21:52:46.038847"
     }
   ]
 }
