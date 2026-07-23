@@ -603,6 +603,10 @@
     "a28d9e3d8c7e30c0": {
       "title": "Conjunto Infantil Estampa Alecrim (Tam. 1 a 12 anos)",
       "posted_at": "2026-07-23T19:10:51.363912"
+    },
+    "1d053a1b3b582377": {
+      "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
+      "posted_at": "2026-07-23T22:10:43.550147"
     }
   },
   "results": [
@@ -1877,6 +1881,14 @@
       "post_id": "158",
       "error": null,
       "at": "2026-07-23T19:10:51.363230"
+    },
+    {
+      "offer_id": "1d053a1b3b582377",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "159",
+      "error": null,
+      "at": "2026-07-23T22:10:43.549513"
     }
   ]
 }

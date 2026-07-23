@@ -1,5 +1,17 @@
 [
   {
+    "id": "1d053a1b3b582377",
+    "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
+    "price_now": 15.97,
+    "price_was": 33.22,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B07GB34N8Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/177570628917848441277645819012.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-23T22:10:43.549873"
+  },
+  {
     "id": "a28d9e3d8c7e30c0",
     "title": "Conjunto Infantil Estampa Alecrim (Tam. 1 a 12 anos)",
     "price_now": 27.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-23T11:01:08.694528"
-  },
-  {
-    "id": "18037ce61c19d28a",
-    "title": "Fralda Huggies Natural Care RN 34 Unidades",
-    "price_now": 25.41,
-    "price_was": 43.59,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/322714617417848033247701454378.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-23T11:00:56.084959"
   }
 ]
