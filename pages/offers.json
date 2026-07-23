@@ -1,5 +1,29 @@
 [
   {
+    "id": "aae3db311ece43ce",
+    "title": "Fralda Turma da Mônica Baby P 62 unidades",
+    "price_now": 31.36,
+    "price_was": 50.04,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/729552628117848075253480567943.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-23T12:01:09.823478"
+  },
+  {
+    "id": "c6a328b318d1b98f",
+    "title": "Fralda Turma da Mônica Baby G 44 unidades",
+    "price_now": 31.36,
+    "price_was": 50.04,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/985666004317848075295211612847.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-23T12:01:00.556927"
+  },
+  {
     "id": "5ff3bc6c1a1a7cf1",
     "title": "Fralda Huggies Supreme Care Roupinha XXG 144 unidades",
     "price_now": 171.12,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-22T22:20:39.982589"
-  },
-  {
-    "id": "b02e75df9a9aa55a",
-    "title": "Fralda Pants Huggies Proteção Acolchoada M",
-    "price_now": 171.0,
-    "price_was": 289.0,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/119688805117847570065125641258.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T21:52:46.039344"
-  },
-  {
-    "id": "c7f18ce55ee749e5",
-    "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso, 400ml",
-    "price_now": 15.59,
-    "price_was": 30.29,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B0BFJHYD5X?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/365480703417847540088981838521.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T21:10:39.935647"
   }
 ]

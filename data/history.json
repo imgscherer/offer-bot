@@ -583,6 +583,14 @@
     "5ff3bc6c1a1a7cf1": {
       "title": "Fralda Huggies Supreme Care Roupinha XXG 144 unidades",
       "posted_at": "2026-07-23T11:31:04.792369"
+    },
+    "c6a328b318d1b98f": {
+      "title": "Fralda Turma da Mônica Baby G 44 unidades",
+      "posted_at": "2026-07-23T12:01:00.557267"
+    },
+    "aae3db311ece43ce": {
+      "title": "Fralda Turma da Mônica Baby P 62 unidades",
+      "posted_at": "2026-07-23T12:01:09.823815"
     }
   },
   "results": [
@@ -1817,6 +1825,22 @@
       "post_id": "153",
       "error": null,
       "at": "2026-07-23T11:31:04.791754"
+    },
+    {
+      "offer_id": "c6a328b318d1b98f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "154",
+      "error": null,
+      "at": "2026-07-23T12:01:00.556535"
+    },
+    {
+      "offer_id": "aae3db311ece43ce",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "155",
+      "error": null,
+      "at": "2026-07-23T12:01:09.823174"
     }
   ]
 }
