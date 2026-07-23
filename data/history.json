@@ -571,6 +571,18 @@
     "048fdea6e080b973": {
       "title": "Huggies Fralda Descartável Premium Natural Care Rn - 34 Un",
       "posted_at": "2026-07-23T11:20:46.195562"
+    },
+    "fdd8deaf2ab31a72": {
+      "title": "Kit 02 Mantinhas Bebê Macia (Diversas cores)",
+      "posted_at": "2026-07-23T11:30:43.804791"
+    },
+    "f3b6611e68981ca6": {
+      "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades",
+      "posted_at": "2026-07-23T11:30:55.226246"
+    },
+    "5ff3bc6c1a1a7cf1": {
+      "title": "Fralda Huggies Supreme Care Roupinha XXG 144 unidades",
+      "posted_at": "2026-07-23T11:31:04.792369"
     }
   },
   "results": [
@@ -1781,6 +1793,30 @@
       "post_id": "150",
       "error": null,
       "at": "2026-07-23T11:20:46.194815"
+    },
+    {
+      "offer_id": "fdd8deaf2ab31a72",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "151",
+      "error": null,
+      "at": "2026-07-23T11:30:43.804059"
+    },
+    {
+      "offer_id": "f3b6611e68981ca6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "152",
+      "error": null,
+      "at": "2026-07-23T11:30:55.225577"
+    },
+    {
+      "offer_id": "5ff3bc6c1a1a7cf1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "153",
+      "error": null,
+      "at": "2026-07-23T11:31:04.791754"
     }
   ]
 }

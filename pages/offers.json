@@ -1,5 +1,41 @@
 [
   {
+    "id": "5ff3bc6c1a1a7cf1",
+    "title": "Fralda Huggies Supreme Care Roupinha XXG 144 unidades",
+    "price_now": 171.12,
+    "price_was": 289.0,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0FPSX9VDZ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/907364753617848056058415058327.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-23T11:31:04.792050"
+  },
+  {
+    "id": "f3b6611e68981ca6",
+    "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades",
+    "price_now": 171.12,
+    "price_was": 289.0,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/672364723417848056094396373747.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-23T11:30:55.225922"
+  },
+  {
+    "id": "fdd8deaf2ab31a72",
+    "title": "Kit 02 Mantinhas Bebê Macia (Diversas cores)",
+    "price_now": 31.99,
+    "price_was": 60.36,
+    "discount_pct": 47,
+    "url": "https://s.shopee.com.br/60QE8ON5NN?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/419188971817848060315707482248.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-23T11:30:43.804424"
+  },
+  {
     "id": "048fdea6e080b973",
     "title": "Huggies Fralda Descartável Premium Natural Care Rn - 34 Un",
     "price_now": 26.91,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-22T21:10:39.935647"
-  },
-  {
-    "id": "3974a91819d26f08",
-    "title": "10 Calcinhas Infantil com Forro de Algodão (Tam. P ao GG)",
-    "price_now": 26.9,
-    "price_was": 49.81,
-    "discount_pct": 46,
-    "url": "https://s.shopee.com.br/6L33YytwP8?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/639749080317847535861510523695.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T20:55:43.489813"
-  },
-  {
-    "id": "da06e12e0c8b57c2",
-    "title": "Tênis Infantil Stitch Com Led (Tam. 20 ao 33)",
-    "price_now": 58.7,
-    "price_was": 99.66,
-    "discount_pct": 41,
-    "url": "https://s.shopee.com.br/5q6mtwaQCl?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/491465330217847499893474753593.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T20:00:58.135989"
-  },
-  {
-    "id": "5bea75f361480130",
-    "title": "Cobertor Manta de Bebê Soft Microfibra (2 Cores)",
-    "price_now": 15.92,
-    "price_was": 43.26,
-    "discount_pct": 63,
-    "url": "https://s.shopee.com.br/8fQyCLF7Xi?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/794511122317847457885301898579.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T18:50:51.274847"
   }
 ]
