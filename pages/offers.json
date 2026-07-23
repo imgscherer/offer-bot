@@ -1,5 +1,17 @@
 [
   {
+    "id": "3bf77aa8b0744733",
+    "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
+    "price_now": 31.0,
+    "price_was": 50.04,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/187112444217848104165957796147.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-23T12:50:51.691990"
+  },
+  {
     "id": "aae3db311ece43ce",
     "title": "Fralda Turma da Mônica Baby P 62 unidades",
     "price_now": 31.36,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-23T10:30:53.915482"
-  },
-  {
-    "id": "dab79c10f5abfbad",
-    "title": "Fralda Huggies Premium Natural Care RN 34 Un",
-    "price_now": 25.0,
-    "price_was": 43.59,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/632654929217847579643509679993.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T22:20:39.982589"
   }
 ]

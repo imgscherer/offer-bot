@@ -591,6 +591,10 @@
     "aae3db311ece43ce": {
       "title": "Fralda Turma da Mônica Baby P 62 unidades",
       "posted_at": "2026-07-23T12:01:09.823815"
+    },
+    "3bf77aa8b0744733": {
+      "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
+      "posted_at": "2026-07-23T12:50:51.692360"
     }
   },
   "results": [
@@ -1841,6 +1845,14 @@
       "post_id": "155",
       "error": null,
       "at": "2026-07-23T12:01:09.823174"
+    },
+    {
+      "offer_id": "3bf77aa8b0744733",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "156",
+      "error": null,
+      "at": "2026-07-23T12:50:51.691651"
     }
   ]
 }
