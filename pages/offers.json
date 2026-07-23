@@ -1,5 +1,17 @@
 [
   {
+    "id": "048fdea6e080b973",
+    "title": "Huggies Fralda Descartável Premium Natural Care Rn - 34 Un",
+    "price_now": 26.91,
+    "price_was": 43.59,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/364253956317848051868851378596.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-23T11:20:46.195178"
+  },
+  {
     "id": "914da37f644bf79e",
     "title": "Fralda Pants Huggies Proteção Acolchoada, Tamanho M, 72 unidades, Estilo Roupinha, Cintura Macia, Fácil de Colocar",
     "price_now": 71.91,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-22T18:50:51.274847"
-  },
-  {
-    "id": "08aa8700b5707510",
-    "title": "Babá Eletrônica com Monitor Visão Noturna Áudio Bidirecional Sensor de Temperatura Monitor Infantil Digital",
-    "price_now": 211.0,
-    "price_was": 595.43,
-    "discount_pct": 65,
-    "url": "https://s.shopee.com.br/1VxnbX9xg2?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/444223816517847426734086263762.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T18:40:36.007751"
   }
 ]
