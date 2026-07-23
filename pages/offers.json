@@ -1,5 +1,17 @@
 [
   {
+    "id": "c5299994e81f5eff",
+    "title": "Kit 3 Potes Quadrado Infantil Conect Homem Aranha - Plasútil",
+    "price_now": 11.03,
+    "price_was": 26.99,
+    "discount_pct": 59,
+    "url": "https://www.amazon.com.br/dp/B0C1ZRFXYL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/292505188717848322453587580469.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-23T19:00:46.906615"
+  },
+  {
     "id": "3bf77aa8b0744733",
     "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
     "price_now": 31.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-23T10:50:40.508050"
-  },
-  {
-    "id": "78d48358c453e644",
-    "title": "Fralda Turma da Mônica Baby Mega G 44 Unidades",
-    "price_now": 33.19,
-    "price_was": 50.04,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/771354121017848022443093263324.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-23T10:30:53.915482"
   }
 ]

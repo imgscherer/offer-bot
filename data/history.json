@@ -595,6 +595,10 @@
     "3bf77aa8b0744733": {
       "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
       "posted_at": "2026-07-23T12:50:51.692360"
+    },
+    "c5299994e81f5eff": {
+      "title": "Kit 3 Potes Quadrado Infantil Conect Homem Aranha - Plasútil",
+      "posted_at": "2026-07-23T19:00:46.906940"
     }
   },
   "results": [
@@ -1853,6 +1857,14 @@
       "post_id": "156",
       "error": null,
       "at": "2026-07-23T12:50:51.691651"
+    },
+    {
+      "offer_id": "c5299994e81f5eff",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "157",
+      "error": null,
+      "at": "2026-07-23T19:00:46.906268"
     }
   ]
 }
