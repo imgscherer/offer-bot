@@ -563,6 +563,10 @@
     "7f7b3a01a4d9fd11": {
       "title": "Fralda Huggies Natural Care P 36 unidades",
       "posted_at": "2026-07-23T11:01:08.694834"
+    },
+    "914da37f644bf79e": {
+      "title": "Fralda Pants Huggies Proteção Acolchoada, Tamanho M, 72 unidades, Estilo Roupinha, Cintura Macia, Fácil de Colocar",
+      "posted_at": "2026-07-23T11:10:45.417341"
     }
   },
   "results": [
@@ -1757,6 +1761,14 @@
       "post_id": "148",
       "error": null,
       "at": "2026-07-23T11:01:08.694207"
+    },
+    {
+      "offer_id": "914da37f644bf79e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "149",
+      "error": null,
+      "at": "2026-07-23T11:10:45.416645"
     }
   ]
 }
