@@ -547,6 +547,10 @@
     "dab79c10f5abfbad": {
       "title": "Fralda Huggies Premium Natural Care RN 34 Un",
       "posted_at": "2026-07-22T22:20:39.982965"
+    },
+    "78d48358c453e644": {
+      "title": "Fralda Turma da Mônica Baby Mega G 44 Unidades",
+      "posted_at": "2026-07-23T10:30:53.915884"
     }
   },
   "results": [
@@ -1709,6 +1713,14 @@
       "post_id": "144",
       "error": null,
       "at": "2026-07-22T22:20:39.982251"
+    },
+    {
+      "offer_id": "78d48358c453e644",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "145",
+      "error": null,
+      "at": "2026-07-23T10:30:53.915119"
     }
   ]
 }
