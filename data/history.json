@@ -599,6 +599,10 @@
     "c5299994e81f5eff": {
       "title": "Kit 3 Potes Quadrado Infantil Conect Homem Aranha - Plasútil",
       "posted_at": "2026-07-23T19:00:46.906940"
+    },
+    "a28d9e3d8c7e30c0": {
+      "title": "Conjunto Infantil Estampa Alecrim (Tam. 1 a 12 anos)",
+      "posted_at": "2026-07-23T19:10:51.363912"
     }
   },
   "results": [
@@ -1865,6 +1869,14 @@
       "post_id": "157",
       "error": null,
       "at": "2026-07-23T19:00:46.906268"
+    },
+    {
+      "offer_id": "a28d9e3d8c7e30c0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "158",
+      "error": null,
+      "at": "2026-07-23T19:10:51.363230"
     }
   ]
 }
