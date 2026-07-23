@@ -1,5 +1,29 @@
 [
   {
+    "id": "7f7b3a01a4d9fd11",
+    "title": "Fralda Huggies Natural Care P 36 unidades",
+    "price_now": 34.84,
+    "price_was": 53.4,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/253855258117848036852123854385.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-23T11:01:08.694528"
+  },
+  {
+    "id": "18037ce61c19d28a",
+    "title": "Fralda Huggies Natural Care RN 34 Unidades",
+    "price_now": 25.41,
+    "price_was": 43.59,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/322714617417848033247701454378.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-23T11:00:56.084959"
+  },
+  {
     "id": "a5b621a8511854ab",
     "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
     "price_now": 33.01,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-22T18:20:53.937220"
-  },
-  {
-    "id": "93dd53256347ba29",
-    "title": "Fralda Personal Baby Total Protect Pants G 44 unidades",
-    "price_now": 46.07,
-    "price_was": 71.99,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0BTTLYZN9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/718753291817847439288320312683.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T18:20:46.411353"
-  },
-  {
-    "id": "ae14ce35b8e29d38",
-    "title": "Fralda Baby Premium Protection M com 34 Unidades",
-    "price_now": 29.9,
-    "price_was": 46.38,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/857809593517847434445435120473.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-22T18:20:38.451293"
   }
 ]
