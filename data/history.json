@@ -643,6 +643,18 @@
     "dfa31bf63ce30007": {
       "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
       "posted_at": "2026-07-24T12:01:52.934181"
+    },
+    "756bd9cf07c4305b": {
+      "title": "Fralda Huggies Natural Care Roupinha XXG 52 unidades",
+      "posted_at": "2026-07-24T12:10:51.887448"
+    },
+    "2c47a8a17c542060": {
+      "title": "Fralda Huggies Natural Care Roupinha G 60 unidades",
+      "posted_at": "2026-07-24T12:11:03.374273"
+    },
+    "ca9e9d5cfcb0fb81": {
+      "title": "Fralda Huggies Natural Care Roupinha XG 56 unidades",
+      "posted_at": "2026-07-24T12:11:15.480789"
     }
   },
   "results": [
@@ -1997,6 +2009,30 @@
       "post_id": "168",
       "error": null,
       "at": "2026-07-24T12:01:52.933472"
+    },
+    {
+      "offer_id": "756bd9cf07c4305b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "169",
+      "error": null,
+      "at": "2026-07-24T12:10:51.837979"
+    },
+    {
+      "offer_id": "2c47a8a17c542060",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "170",
+      "error": null,
+      "at": "2026-07-24T12:11:03.373609"
+    },
+    {
+      "offer_id": "ca9e9d5cfcb0fb81",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "171",
+      "error": null,
+      "at": "2026-07-24T12:11:15.480177"
     }
   ]
 }

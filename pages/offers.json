@@ -1,5 +1,41 @@
 [
   {
+    "id": "ca9e9d5cfcb0fb81",
+    "title": "Fralda Huggies Natural Care Roupinha XG 56 unidades",
+    "price_now": 66.68,
+    "price_was": 118.35,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/913821684917848944714518199502.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-24T12:11:15.480439"
+  },
+  {
+    "id": "2c47a8a17c542060",
+    "title": "Fralda Huggies Natural Care Roupinha G 60 unidades",
+    "price_now": 66.68,
+    "price_was": 118.35,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/221326311117848944745200886777.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-24T12:11:03.373888"
+  },
+  {
+    "id": "756bd9cf07c4305b",
+    "title": "Fralda Huggies Natural Care Roupinha XXG 52 unidades",
+    "price_now": 66.68,
+    "price_was": 118.35,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B0BKLM298N?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/775434931417848944764557704779.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-24T12:10:51.838385"
+  },
+  {
     "id": "dfa31bf63ce30007",
     "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
     "price_now": 149.49,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-24T11:30:53.640803"
-  },
-  {
-    "id": "1d053a1b3b582377",
-    "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
-    "price_now": 15.97,
-    "price_was": 33.22,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B07GB34N8Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/177570628917848441277645819012.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-23T22:10:43.549873"
-  },
-  {
-    "id": "a28d9e3d8c7e30c0",
-    "title": "Conjunto Infantil Estampa Alecrim (Tam. 1 a 12 anos)",
-    "price_now": 27.9,
-    "price_was": 71.54,
-    "discount_pct": 61,
-    "url": "https://s.shopee.com.br/1gHFU5gz1U?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/407757828317848336916641531524.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-23T19:10:51.363575"
-  },
-  {
-    "id": "c5299994e81f5eff",
-    "title": "Kit 3 Potes Quadrado Infantil Conect Homem Aranha - Plasútil",
-    "price_now": 11.03,
-    "price_was": 26.99,
-    "discount_pct": 59,
-    "url": "https://www.amazon.com.br/dp/B0C1ZRFXYL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/292505188717848322453587580469.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-23T19:00:46.906615"
   }
 ]
