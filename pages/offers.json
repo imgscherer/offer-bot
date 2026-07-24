@@ -1,5 +1,29 @@
 [
   {
+    "id": "6c1fcae5c3ddbcb4",
+    "title": "Fralda Huggies Natural Care M 78 unidades",
+    "price_now": 65.02,
+    "price_was": 125.24,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/349846009117848983711286126021.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-24T13:10:57.925031"
+  },
+  {
+    "id": "2bc962aba8de664f",
+    "title": "Bicicleta de Equilíbrio Infantil Sem Pedal Andador 4 Rodas",
+    "price_now": 85.41,
+    "price_was": 189.48,
+    "discount_pct": 55,
+    "url": "https://s.shopee.com.br/9KghoD6SUj?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/997120934917848983734263829497.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-24T13:10:46.320532"
+  },
+  {
     "id": "31dabb44d6aa0fa7",
     "title": "Carrinho Zap Metal Burigotto",
     "price_now": 549.87,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-24T11:51:10.009727"
-  },
-  {
-    "id": "f6783a32f413cbe1",
-    "title": "Fralda Huggies Supreme Care Roupinha M 216 unidades",
-    "price_now": 149.73,
-    "price_was": 289.0,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/542789256917848926729142269408.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-24T11:50:59.841663"
-  },
-  {
-    "id": "571855927f534132",
-    "title": "Fralda Huggies Supreme Care Roupinha XXG 144 unidades",
-    "price_now": 149.73,
-    "price_was": 289.0,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0FPSX9VDZ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/503778786417848926707591666449.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-24T11:50:48.284489"
   }
 ]

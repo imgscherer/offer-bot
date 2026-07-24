@@ -659,6 +659,14 @@
     "31dabb44d6aa0fa7": {
       "title": "Carrinho Zap Metal Burigotto",
       "posted_at": "2026-07-24T12:30:55.305477"
+    },
+    "2bc962aba8de664f": {
+      "title": "Bicicleta de Equilíbrio Infantil Sem Pedal Andador 4 Rodas",
+      "posted_at": "2026-07-24T13:10:46.320814"
+    },
+    "6c1fcae5c3ddbcb4": {
+      "title": "Fralda Huggies Natural Care M 78 unidades",
+      "posted_at": "2026-07-24T13:10:57.925353"
     }
   },
   "results": [
@@ -2045,6 +2053,22 @@
       "post_id": "172",
       "error": null,
       "at": "2026-07-24T12:30:55.304777"
+    },
+    {
+      "offer_id": "2bc962aba8de664f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "173",
+      "error": null,
+      "at": "2026-07-24T13:10:46.320191"
+    },
+    {
+      "offer_id": "6c1fcae5c3ddbcb4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "174",
+      "error": null,
+      "at": "2026-07-24T13:10:57.924686"
     }
   ]
 }
