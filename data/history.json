@@ -655,6 +655,10 @@
     "ca9e9d5cfcb0fb81": {
       "title": "Fralda Huggies Natural Care Roupinha XG 56 unidades",
       "posted_at": "2026-07-24T12:11:15.480789"
+    },
+    "31dabb44d6aa0fa7": {
+      "title": "Carrinho Zap Metal Burigotto",
+      "posted_at": "2026-07-24T12:30:55.305477"
     }
   },
   "results": [
@@ -2033,6 +2037,14 @@
       "post_id": "171",
       "error": null,
       "at": "2026-07-24T12:11:15.480177"
+    },
+    {
+      "offer_id": "31dabb44d6aa0fa7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "172",
+      "error": null,
+      "at": "2026-07-24T12:30:55.304777"
     }
   ]
 }

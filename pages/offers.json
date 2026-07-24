@@ -1,5 +1,17 @@
 [
   {
+    "id": "31dabb44d6aa0fa7",
+    "title": "Carrinho Zap Metal Burigotto",
+    "price_now": 549.87,
+    "price_was": 929.0,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0C5NQFRGB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/931747561917848953682401780741.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-24T12:30:55.305150"
+  },
+  {
     "id": "ca9e9d5cfcb0fb81",
     "title": "Fralda Huggies Natural Care Roupinha XG 56 unidades",
     "price_now": 66.68,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-24T11:50:48.284489"
-  },
-  {
-    "id": "5e09159e58476211",
-    "title": "Fralda Pampers Premium Care M 160 unidades",
-    "price_now": 155.72,
-    "price_was": 242.27,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0DDTYD6Q7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/700738439417848923043396269901.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-24T11:30:53.640803"
   }
 ]
