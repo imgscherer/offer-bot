@@ -607,6 +607,10 @@
     "1d053a1b3b582377": {
       "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
       "posted_at": "2026-07-23T22:10:43.550147"
+    },
+    "5e09159e58476211": {
+      "title": "Fralda Pampers Premium Care M 160 unidades",
+      "posted_at": "2026-07-24T11:30:53.641191"
     }
   },
   "results": [
@@ -1889,6 +1893,14 @@
       "post_id": "159",
       "error": null,
       "at": "2026-07-23T22:10:43.549513"
+    },
+    {
+      "offer_id": "5e09159e58476211",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "160",
+      "error": null,
+      "at": "2026-07-24T11:30:53.640439"
     }
   ]
 }

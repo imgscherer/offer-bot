@@ -1,5 +1,17 @@
 [
   {
+    "id": "5e09159e58476211",
+    "title": "Fralda Pampers Premium Care M 160 unidades",
+    "price_now": 155.72,
+    "price_was": 242.27,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0DDTYD6Q7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/700738439417848923043396269901.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-24T11:30:53.640803"
+  },
+  {
     "id": "1d053a1b3b582377",
     "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
     "price_now": 15.97,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-23T11:10:45.417013"
-  },
-  {
-    "id": "7f7b3a01a4d9fd11",
-    "title": "Fralda Huggies Natural Care P 36 unidades",
-    "price_now": 34.84,
-    "price_was": 53.4,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/253855258117848036852123854385.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-23T11:01:08.694528"
   }
 ]
