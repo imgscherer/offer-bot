@@ -667,6 +667,10 @@
     "6c1fcae5c3ddbcb4": {
       "title": "Fralda Huggies Natural Care M 78 unidades",
       "posted_at": "2026-07-24T13:10:57.925353"
+    },
+    "9c9e09adc3c91ea4": {
+      "title": "Paninho De Boca Soft Premium Papi Baby CPrendedor De Chupeta 32Cm X 32Cm 03 Un",
+      "posted_at": "2026-07-24T21:01:00.986337"
     }
   },
   "results": [
@@ -2069,6 +2073,14 @@
       "post_id": "174",
       "error": null,
       "at": "2026-07-24T13:10:57.924686"
+    },
+    {
+      "offer_id": "9c9e09adc3c91ea4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "175",
+      "error": null,
+      "at": "2026-07-24T21:01:00.985678"
     }
   ]
 }
