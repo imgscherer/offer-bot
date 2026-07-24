@@ -623,6 +623,26 @@
     "f6547696b8339394": {
       "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades",
       "posted_at": "2026-07-24T11:51:10.010111"
+    },
+    "1210a4e4e2eed283": {
+      "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+      "posted_at": "2026-07-24T12:01:04.364319"
+    },
+    "7a6cef8b9042b9cc": {
+      "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+      "posted_at": "2026-07-24T12:01:17.196634"
+    },
+    "d442a0f73d2e0a87": {
+      "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+      "posted_at": "2026-07-24T12:01:27.487510"
+    },
+    "3d505c7d1fdf49fc": {
+      "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+      "posted_at": "2026-07-24T12:01:41.458262"
+    },
+    "dfa31bf63ce30007": {
+      "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+      "posted_at": "2026-07-24T12:01:52.934181"
     }
   },
   "results": [
@@ -1937,6 +1957,46 @@
       "post_id": "163",
       "error": null,
       "at": "2026-07-24T11:51:10.009452"
+    },
+    {
+      "offer_id": "1210a4e4e2eed283",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "164",
+      "error": null,
+      "at": "2026-07-24T12:01:04.363663"
+    },
+    {
+      "offer_id": "7a6cef8b9042b9cc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "165",
+      "error": null,
+      "at": "2026-07-24T12:01:17.195827"
+    },
+    {
+      "offer_id": "d442a0f73d2e0a87",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "166",
+      "error": null,
+      "at": "2026-07-24T12:01:27.486890"
+    },
+    {
+      "offer_id": "3d505c7d1fdf49fc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "167",
+      "error": null,
+      "at": "2026-07-24T12:01:41.457626"
+    },
+    {
+      "offer_id": "dfa31bf63ce30007",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "168",
+      "error": null,
+      "at": "2026-07-24T12:01:52.933472"
     }
   ]
 }

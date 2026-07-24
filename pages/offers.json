@@ -1,5 +1,65 @@
 [
   {
+    "id": "dfa31bf63ce30007",
+    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+    "price_now": 149.49,
+    "price_was": 229.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/498372123217848937449645393038.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-24T12:01:52.933875"
+  },
+  {
+    "id": "3d505c7d1fdf49fc",
+    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+    "price_now": 149.49,
+    "price_was": 229.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/418029835317848937504870205943.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-24T12:01:41.457961"
+  },
+  {
+    "id": "d442a0f73d2e0a87",
+    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+    "price_now": 149.49,
+    "price_was": 229.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/793841333717848937527242919121.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-24T12:01:27.487203"
+  },
+  {
+    "id": "7a6cef8b9042b9cc",
+    "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+    "price_now": 149.49,
+    "price_was": 229.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/871219494817848937589771232285.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-24T12:01:17.196302"
+  },
+  {
+    "id": "1210a4e4e2eed283",
+    "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+    "price_now": 149.49,
+    "price_was": 246.01,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/704861047717848937482411779660.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-24T12:01:04.364023"
+  },
+  {
     "id": "f6547696b8339394",
     "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades",
     "price_now": 149.73,
@@ -82,65 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-23T19:00:46.906615"
-  },
-  {
-    "id": "3bf77aa8b0744733",
-    "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
-    "price_now": 31.0,
-    "price_was": 50.04,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/187112444217848104165957796147.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-23T12:50:51.691990"
-  },
-  {
-    "id": "aae3db311ece43ce",
-    "title": "Fralda Turma da Mônica Baby P 62 unidades",
-    "price_now": 31.36,
-    "price_was": 50.04,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/729552628117848075253480567943.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-23T12:01:09.823478"
-  },
-  {
-    "id": "c6a328b318d1b98f",
-    "title": "Fralda Turma da Mônica Baby G 44 unidades",
-    "price_now": 31.36,
-    "price_was": 50.04,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/985666004317848075295211612847.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-23T12:01:00.556927"
-  },
-  {
-    "id": "5ff3bc6c1a1a7cf1",
-    "title": "Fralda Huggies Supreme Care Roupinha XXG 144 unidades",
-    "price_now": 171.12,
-    "price_was": 289.0,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0FPSX9VDZ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/907364753617848056058415058327.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-23T11:31:04.792050"
-  },
-  {
-    "id": "f3b6611e68981ca6",
-    "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades",
-    "price_now": 171.12,
-    "price_was": 289.0,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/672364723417848056094396373747.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-23T11:30:55.225922"
   }
 ]
