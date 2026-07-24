@@ -611,6 +611,18 @@
     "5e09159e58476211": {
       "title": "Fralda Pampers Premium Care M 160 unidades",
       "posted_at": "2026-07-24T11:30:53.641191"
+    },
+    "571855927f534132": {
+      "title": "Fralda Huggies Supreme Care Roupinha XXG 144 unidades",
+      "posted_at": "2026-07-24T11:50:48.284840"
+    },
+    "f6783a32f413cbe1": {
+      "title": "Fralda Huggies Supreme Care Roupinha M 216 unidades",
+      "posted_at": "2026-07-24T11:50:59.842063"
+    },
+    "f6547696b8339394": {
+      "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades",
+      "posted_at": "2026-07-24T11:51:10.010111"
     }
   },
   "results": [
@@ -1901,6 +1913,30 @@
       "post_id": "160",
       "error": null,
       "at": "2026-07-24T11:30:53.640439"
+    },
+    {
+      "offer_id": "571855927f534132",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "161",
+      "error": null,
+      "at": "2026-07-24T11:50:48.284150"
+    },
+    {
+      "offer_id": "f6783a32f413cbe1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "162",
+      "error": null,
+      "at": "2026-07-24T11:50:59.841340"
+    },
+    {
+      "offer_id": "f6547696b8339394",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "163",
+      "error": null,
+      "at": "2026-07-24T11:51:10.009452"
     }
   ]
 }

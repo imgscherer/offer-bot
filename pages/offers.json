@@ -1,5 +1,41 @@
 [
   {
+    "id": "f6547696b8339394",
+    "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades",
+    "price_now": 149.73,
+    "price_was": 289.0,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/956059051617848926646446686983.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-24T11:51:10.009727"
+  },
+  {
+    "id": "f6783a32f413cbe1",
+    "title": "Fralda Huggies Supreme Care Roupinha M 216 unidades",
+    "price_now": 149.73,
+    "price_was": 289.0,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/542789256917848926729142269408.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-24T11:50:59.841663"
+  },
+  {
+    "id": "571855927f534132",
+    "title": "Fralda Huggies Supreme Care Roupinha XXG 144 unidades",
+    "price_now": 149.73,
+    "price_was": 289.0,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0FPSX9VDZ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/503778786417848926707591666449.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-24T11:50:48.284489"
+  },
+  {
     "id": "5e09159e58476211",
     "title": "Fralda Pampers Premium Care M 160 unidades",
     "price_now": 155.72,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-23T11:30:55.225922"
-  },
-  {
-    "id": "fdd8deaf2ab31a72",
-    "title": "Kit 02 Mantinhas Bebê Macia (Diversas cores)",
-    "price_now": 31.99,
-    "price_was": 60.36,
-    "discount_pct": 47,
-    "url": "https://s.shopee.com.br/60QE8ON5NN?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/419188971817848060315707482248.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-23T11:30:43.804424"
-  },
-  {
-    "id": "048fdea6e080b973",
-    "title": "Huggies Fralda Descartável Premium Natural Care Rn - 34 Un",
-    "price_now": 26.91,
-    "price_was": 43.59,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/364253956317848051868851378596.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-23T11:20:46.195178"
-  },
-  {
-    "id": "914da37f644bf79e",
-    "title": "Fralda Pants Huggies Proteção Acolchoada, Tamanho M, 72 unidades, Estilo Roupinha, Cintura Macia, Fácil de Colocar",
-    "price_now": 71.91,
-    "price_was": 113.25,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B08GZNWJ17?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/966150666317848047084140928257.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-23T11:10:45.417013"
   }
 ]
