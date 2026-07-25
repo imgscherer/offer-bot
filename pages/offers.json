@@ -1,5 +1,17 @@
 [
   {
+    "id": "6bc14b4fbf25052e",
+    "title": "Fralda Huggies Supreme Care Roupinha M 72 unidades",
+    "price_now": 67.91,
+    "price_was": 113.25,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B08GZNWJ17?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/708568858217849799057229293261.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-25T12:00:46.606978"
+  },
+  {
     "id": "741f64b818707a29",
     "title": "Lenço Umedecido Mamypoko Dia&Noite 200 unidades",
     "price_now": 21.75,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-24T12:01:27.487203"
-  },
-  {
-    "id": "7a6cef8b9042b9cc",
-    "title": "Fralda Huggies Máxima Proteção G 160 unidades",
-    "price_now": 149.49,
-    "price_was": 229.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/871219494817848937589771232285.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-24T12:01:17.196302"
   }
 ]

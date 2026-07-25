@@ -675,6 +675,10 @@
     "741f64b818707a29": {
       "title": "Lenço Umedecido Mamypoko Dia&Noite 200 unidades",
       "posted_at": "2026-07-25T10:40:50.362188"
+    },
+    "6bc14b4fbf25052e": {
+      "title": "Fralda Huggies Supreme Care Roupinha M 72 unidades",
+      "posted_at": "2026-07-25T12:00:46.631813"
     }
   },
   "results": [
@@ -2093,6 +2097,14 @@
       "post_id": "176",
       "error": null,
       "at": "2026-07-25T10:40:50.361481"
+    },
+    {
+      "offer_id": "6bc14b4fbf25052e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "177",
+      "error": null,
+      "at": "2026-07-25T12:00:46.606676"
     }
   ]
 }
