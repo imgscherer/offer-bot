@@ -679,6 +679,10 @@
     "6bc14b4fbf25052e": {
       "title": "Fralda Huggies Supreme Care Roupinha M 72 unidades",
       "posted_at": "2026-07-25T12:00:46.631813"
+    },
+    "dc6e700822972d69": {
+      "title": "Fralda-Calça Mamypoko RN 36 Unidades",
+      "posted_at": "2026-07-25T12:10:40.443616"
     }
   },
   "results": [
@@ -2105,6 +2109,14 @@
       "post_id": "177",
       "error": null,
       "at": "2026-07-25T12:00:46.606676"
+    },
+    {
+      "offer_id": "dc6e700822972d69",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "178",
+      "error": null,
+      "at": "2026-07-25T12:10:40.442826"
     }
   ]
 }

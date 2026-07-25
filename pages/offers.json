@@ -1,5 +1,17 @@
 [
   {
+    "id": "dc6e700822972d69",
+    "title": "Fralda-Calça Mamypoko RN 36 Unidades",
+    "price_now": 37.9,
+    "price_was": 57.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B09JZP3NJ2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/304235753617849809887743473339.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-25T12:10:40.443255"
+  },
+  {
     "id": "6bc14b4fbf25052e",
     "title": "Fralda Huggies Supreme Care Roupinha M 72 unidades",
     "price_now": 67.91,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-24T12:01:41.457961"
-  },
-  {
-    "id": "d442a0f73d2e0a87",
-    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
-    "price_now": 149.49,
-    "price_was": 229.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/793841333717848937527242919121.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-24T12:01:27.487203"
   }
 ]
