@@ -671,6 +671,10 @@
     "9c9e09adc3c91ea4": {
       "title": "Paninho De Boca Soft Premium Papi Baby CPrendedor De Chupeta 32Cm X 32Cm 03 Un",
       "posted_at": "2026-07-24T21:01:00.986337"
+    },
+    "741f64b818707a29": {
+      "title": "Lenço Umedecido Mamypoko Dia&Noite 200 unidades",
+      "posted_at": "2026-07-25T10:40:50.362188"
     }
   },
   "results": [
@@ -2081,6 +2085,14 @@
       "post_id": "175",
       "error": null,
       "at": "2026-07-24T21:01:00.985678"
+    },
+    {
+      "offer_id": "741f64b818707a29",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "176",
+      "error": null,
+      "at": "2026-07-25T10:40:50.361481"
     }
   ]
 }

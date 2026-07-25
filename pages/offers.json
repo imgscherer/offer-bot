@@ -1,5 +1,17 @@
 [
   {
+    "id": "741f64b818707a29",
+    "title": "Lenço Umedecido Mamypoko Dia&Noite 200 unidades",
+    "price_now": 21.75,
+    "price_was": 42.8,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B09BBDVPB1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/872557326317849758854390288332.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-25T10:40:50.361805"
+  },
+  {
     "id": "9c9e09adc3c91ea4",
     "title": "Paninho De Boca Soft Premium Papi Baby CPrendedor De Chupeta 32Cm X 32Cm 03 Un",
     "price_now": 11.64,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-24T12:01:17.196302"
-  },
-  {
-    "id": "1210a4e4e2eed283",
-    "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
-    "price_now": 149.49,
-    "price_was": 246.01,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/704861047717848937482411779660.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-24T12:01:04.364023"
   }
 ]
