@@ -1,5 +1,29 @@
 [
   {
+    "id": "f1b9d18fff8aff80",
+    "title": "Fralda-Calça MamyPoko Premium Seca M 68 Unidades",
+    "price_now": 72.16,
+    "price_was": 129.9,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B08DJSPFFX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/378275847717849856656148510325.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-25T13:41:01.474362"
+  },
+  {
+    "id": "e6b28b854d31a12f",
+    "title": "Fralda Babysec Ultra Sec G 60 Unidades",
+    "price_now": 53.66,
+    "price_was": 101.58,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/703878560717849860855949370913.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-25T13:40:49.966575"
+  },
+  {
     "id": "f5d1793d06b6df2a",
     "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
     "price_now": 43.6,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-24T12:11:03.373888"
-  },
-  {
-    "id": "756bd9cf07c4305b",
-    "title": "Fralda Huggies Natural Care Roupinha XXG 52 unidades",
-    "price_now": 66.68,
-    "price_was": 118.35,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B0BKLM298N?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/775434931417848944764557704779.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-24T12:10:51.838385"
-  },
-  {
-    "id": "dfa31bf63ce30007",
-    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
-    "price_now": 149.49,
-    "price_was": 229.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/498372123217848937449645393038.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-24T12:01:52.933875"
   }
 ]

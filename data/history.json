@@ -687,6 +687,14 @@
     "f5d1793d06b6df2a": {
       "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
       "posted_at": "2026-07-25T13:00:50.301077"
+    },
+    "e6b28b854d31a12f": {
+      "title": "Fralda Babysec Ultra Sec G 60 Unidades",
+      "posted_at": "2026-07-25T13:40:49.966925"
+    },
+    "f1b9d18fff8aff80": {
+      "title": "Fralda-Calça MamyPoko Premium Seca M 68 Unidades",
+      "posted_at": "2026-07-25T13:41:01.474653"
     }
   },
   "results": [
@@ -2129,6 +2137,22 @@
       "post_id": "179",
       "error": null,
       "at": "2026-07-25T13:00:50.300531"
+    },
+    {
+      "offer_id": "e6b28b854d31a12f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "180",
+      "error": null,
+      "at": "2026-07-25T13:40:49.966107"
+    },
+    {
+      "offer_id": "f1b9d18fff8aff80",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "181",
+      "error": null,
+      "at": "2026-07-25T13:41:01.474036"
     }
   ]
 }
