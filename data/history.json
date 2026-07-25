@@ -699,6 +699,10 @@
     "8a1722b12fc362c5": {
       "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
       "posted_at": "2026-07-25T13:50:51.803457"
+    },
+    "5780718d8478b784": {
+      "title": "Fralda-Calça MamyPoko Premium Seca G 60 Unidades",
+      "posted_at": "2026-07-25T15:00:47.893738"
     }
   },
   "results": [
@@ -2165,6 +2169,14 @@
       "post_id": "182",
       "error": null,
       "at": "2026-07-25T13:50:51.802785"
+    },
+    {
+      "offer_id": "5780718d8478b784",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "183",
+      "error": null,
+      "at": "2026-07-25T15:00:47.893028"
     }
   ]
 }
