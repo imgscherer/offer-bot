@@ -703,6 +703,14 @@
     "5780718d8478b784": {
       "title": "Fralda-Calça MamyPoko Premium Seca G 60 Unidades",
       "posted_at": "2026-07-25T15:00:47.893738"
+    },
+    "b5e2dd803dfd6e75": {
+      "title": "MamyPoko Fralda-Calça Superproteção XG 24 Unidades",
+      "posted_at": "2026-07-25T15:10:47.164209"
+    },
+    "58749bde6ed2614e": {
+      "title": "Personal Fralda Baby Premium Pants G, 62 Unidades",
+      "posted_at": "2026-07-25T15:10:58.936349"
     }
   },
   "results": [
@@ -2177,6 +2185,22 @@
       "post_id": "183",
       "error": null,
       "at": "2026-07-25T15:00:47.893028"
+    },
+    {
+      "offer_id": "b5e2dd803dfd6e75",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "184",
+      "error": null,
+      "at": "2026-07-25T15:10:47.163537"
+    },
+    {
+      "offer_id": "58749bde6ed2614e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "185",
+      "error": null,
+      "at": "2026-07-25T15:10:58.935680"
     }
   ]
 }

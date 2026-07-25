@@ -1,5 +1,29 @@
 [
   {
+    "id": "58749bde6ed2614e",
+    "title": "Personal Fralda Baby Premium Pants G, 62 Unidades",
+    "price_now": 75.9,
+    "price_was": 116.89,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/211080335817849915469242801537.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-25T15:10:58.936036"
+  },
+  {
+    "id": "b5e2dd803dfd6e75",
+    "title": "MamyPoko Fralda-Calça Superproteção XG 24 Unidades",
+    "price_now": 25.1,
+    "price_was": 42.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/969424163417849911247671773348.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-25T15:10:47.163897"
+  },
+  {
     "id": "5780718d8478b784",
     "title": "Fralda-Calça MamyPoko Premium Seca G 60 Unidades",
     "price_now": 76.41,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-24T13:10:57.925031"
-  },
-  {
-    "id": "2bc962aba8de664f",
-    "title": "Bicicleta de Equilíbrio Infantil Sem Pedal Andador 4 Rodas",
-    "price_now": 85.41,
-    "price_was": 189.48,
-    "discount_pct": 55,
-    "url": "https://s.shopee.com.br/9KghoD6SUj?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/997120934917848983734263829497.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-24T13:10:46.320532"
-  },
-  {
-    "id": "31dabb44d6aa0fa7",
-    "title": "Carrinho Zap Metal Burigotto",
-    "price_now": 549.87,
-    "price_was": 929.0,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0C5NQFRGB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/931747561917848953682401780741.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-24T12:30:55.305150"
   }
 ]
