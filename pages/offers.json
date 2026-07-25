@@ -1,5 +1,17 @@
 [
   {
+    "id": "f5d1793d06b6df2a",
+    "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
+    "price_now": 43.6,
+    "price_was": 62.9,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/945264773017849842842049874461.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-25T13:00:50.300826"
+  },
+  {
     "id": "dc6e700822972d69",
     "title": "Fralda-Calça Mamypoko RN 36 Unidades",
     "price_now": 37.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-24T12:01:52.933875"
-  },
-  {
-    "id": "3d505c7d1fdf49fc",
-    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
-    "price_now": 149.49,
-    "price_was": 229.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/418029835317848937504870205943.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-24T12:01:41.457961"
   }
 ]
