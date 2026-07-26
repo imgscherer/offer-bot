@@ -1,5 +1,17 @@
 [
   {
+    "id": "a39a010655367706",
+    "title": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
+    "price_now": 28.89,
+    "price_was": 46.9,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/492270234017850846658273192042.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-26T17:10:42.941280"
+  },
+  {
     "id": "9309fd38487d572c",
     "title": "Personal Fralda Baby Premium Protection P, 40 Unidades",
     "price_now": 28.97,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-25T12:10:40.443255"
-  },
-  {
-    "id": "6bc14b4fbf25052e",
-    "title": "Fralda Huggies Supreme Care Roupinha M 72 unidades",
-    "price_now": 67.91,
-    "price_was": 113.25,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B08GZNWJ17?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/708568858217849799057229293261.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-25T12:00:46.606978"
   }
 ]
