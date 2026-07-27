@@ -755,6 +755,10 @@
     "a422cd0ebc484c59": {
       "title": "Fralda Personal Baby Premium G 30 unidades",
       "posted_at": "2026-07-27T11:51:05.065180"
+    },
+    "463f69b909af4091": {
+      "title": "Fralda Pampers Confort Sec P 50 unidades",
+      "posted_at": "2026-07-27T12:01:03.272853"
     }
   },
   "results": [
@@ -2333,6 +2337,14 @@
       "post_id": "196",
       "error": null,
       "at": "2026-07-27T11:51:05.064583"
+    },
+    {
+      "offer_id": "463f69b909af4091",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "197",
+      "error": null,
+      "at": "2026-07-27T12:01:03.272128"
     }
   ]
 }
