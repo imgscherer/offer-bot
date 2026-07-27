@@ -1,5 +1,53 @@
 [
   {
+    "id": "cc04e18383169dde",
+    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+    "price_now": 149.49,
+    "price_was": 229.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/583838478017851770642484497386.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-27T18:41:28.249388"
+  },
+  {
+    "id": "a9214772c9481a86",
+    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+    "price_now": 149.49,
+    "price_was": 229.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/820738562217851770685037830540.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-27T18:41:16.178717"
+  },
+  {
+    "id": "e9af3a69028d3e1e",
+    "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+    "price_now": 149.49,
+    "price_was": 229.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/279753241017851770779193473195.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-27T18:41:04.475464"
+  },
+  {
+    "id": "52c589415fbab942",
+    "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+    "price_now": 149.49,
+    "price_was": 246.01,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/344008721417851770728039049963.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-27T18:40:52.403999"
+  },
+  {
     "id": "1be46c96a5002499",
     "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
     "price_now": 416.07,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-27T12:50:51.751288"
-  },
-  {
-    "id": "334d7a73a675d589",
-    "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
-    "price_now": 148.67,
-    "price_was": 246.01,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/522086782017851554728542492055.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T12:50:39.949678"
-  },
-  {
-    "id": "e25754ece769e14c",
-    "title": "Fralda Pampers Premium Care RN 36 unidades",
-    "price_now": 36.14,
-    "price_was": 52.83,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B07GQB93FT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/591430569617851541444744680677.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T12:20:50.557131"
-  },
-  {
-    "id": "463f69b909af4091",
-    "title": "Fralda Pampers Confort Sec P 50 unidades",
-    "price_now": 45.89,
-    "price_was": 77.27,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/361143041317851533681545913251.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T12:01:03.272510"
-  },
-  {
-    "id": "a422cd0ebc484c59",
-    "title": "Fralda Personal Baby Premium G 30 unidades",
-    "price_now": 27.99,
-    "price_was": 48.75,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/878337024417851526483563761042.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T11:51:05.064908"
   }
 ]

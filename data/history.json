@@ -799,6 +799,22 @@
     "1be46c96a5002499": {
       "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
       "posted_at": "2026-07-27T18:10:48.078631"
+    },
+    "52c589415fbab942": {
+      "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+      "posted_at": "2026-07-27T18:40:52.404239"
+    },
+    "e9af3a69028d3e1e": {
+      "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+      "posted_at": "2026-07-27T18:41:04.475693"
+    },
+    "a9214772c9481a86": {
+      "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+      "posted_at": "2026-07-27T18:41:16.178914"
+    },
+    "cc04e18383169dde": {
+      "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+      "posted_at": "2026-07-27T18:41:28.249727"
     }
   },
   "results": [
@@ -2465,6 +2481,38 @@
       "post_id": "207",
       "error": null,
       "at": "2026-07-27T18:10:48.077891"
+    },
+    {
+      "offer_id": "52c589415fbab942",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "208",
+      "error": null,
+      "at": "2026-07-27T18:40:52.403680"
+    },
+    {
+      "offer_id": "e9af3a69028d3e1e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "209",
+      "error": null,
+      "at": "2026-07-27T18:41:04.475112"
+    },
+    {
+      "offer_id": "a9214772c9481a86",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "210",
+      "error": null,
+      "at": "2026-07-27T18:41:16.178494"
+    },
+    {
+      "offer_id": "cc04e18383169dde",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "211",
+      "error": null,
+      "at": "2026-07-27T18:41:28.249090"
     }
   ]
 }
