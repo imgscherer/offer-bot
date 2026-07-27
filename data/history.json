@@ -763,6 +763,26 @@
     "e25754ece769e14c": {
       "title": "Fralda Pampers Premium Care RN 36 unidades",
       "posted_at": "2026-07-27T12:20:50.557494"
+    },
+    "334d7a73a675d589": {
+      "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+      "posted_at": "2026-07-27T12:50:39.950012"
+    },
+    "7daba8bced73c9c8": {
+      "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+      "posted_at": "2026-07-27T12:50:51.751640"
+    },
+    "5f5b422c875d7c89": {
+      "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+      "posted_at": "2026-07-27T12:51:04.230375"
+    },
+    "ff8348066cce89ff": {
+      "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+      "posted_at": "2026-07-27T12:51:15.383289"
+    },
+    "9913ebeccbeb6753": {
+      "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+      "posted_at": "2026-07-27T12:51:26.917000"
     }
   },
   "results": [
@@ -2357,6 +2377,46 @@
       "post_id": "198",
       "error": null,
       "at": "2026-07-27T12:20:50.556799"
+    },
+    {
+      "offer_id": "334d7a73a675d589",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "199",
+      "error": null,
+      "at": "2026-07-27T12:50:39.949278"
+    },
+    {
+      "offer_id": "7daba8bced73c9c8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "200",
+      "error": null,
+      "at": "2026-07-27T12:50:51.750958"
+    },
+    {
+      "offer_id": "5f5b422c875d7c89",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "201",
+      "error": null,
+      "at": "2026-07-27T12:51:04.229715"
+    },
+    {
+      "offer_id": "ff8348066cce89ff",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "202",
+      "error": null,
+      "at": "2026-07-27T12:51:15.382641"
+    },
+    {
+      "offer_id": "9913ebeccbeb6753",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "203",
+      "error": null,
+      "at": "2026-07-27T12:51:26.916215"
     }
   ]
 }
