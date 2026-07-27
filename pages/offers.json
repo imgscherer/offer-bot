@@ -1,5 +1,17 @@
 [
   {
+    "id": "1be46c96a5002499",
+    "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
+    "price_now": 416.07,
+    "price_was": 799.9,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0CPN2L6MQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/780811547917851746642195420704.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-27T18:10:48.078292"
+  },
+  {
     "id": "5197040827e2bc22",
     "title": "Verden Bicicleta Infantil Hero Boy Aro 12 Com Rodinhas Laterais E Garrafinha",
     "price_now": 189.05,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-27T11:51:05.064908"
-  },
-  {
-    "id": "f685d6b29cc7c27a",
-    "title": "Fralda Personal Baby Premium Pants G 62 unidades",
-    "price_now": 64.51,
-    "price_was": 116.89,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/873465532517851522852193048149.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T11:50:53.111434"
   }
 ]

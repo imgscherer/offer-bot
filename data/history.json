@@ -795,6 +795,10 @@
     "5197040827e2bc22": {
       "title": "Verden Bicicleta Infantil Hero Boy Aro 12 Com Rodinhas Laterais E Garrafinha",
       "posted_at": "2026-07-27T17:40:44.202156"
+    },
+    "1be46c96a5002499": {
+      "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
+      "posted_at": "2026-07-27T18:10:48.078631"
     }
   },
   "results": [
@@ -2453,6 +2457,14 @@
       "post_id": "206",
       "error": null,
       "at": "2026-07-27T17:40:44.201579"
+    },
+    {
+      "offer_id": "1be46c96a5002499",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "207",
+      "error": null,
+      "at": "2026-07-27T18:10:48.077891"
     }
   ]
 }
