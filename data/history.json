@@ -747,6 +747,14 @@
     "d446939a5a231462": {
       "title": "Personal Fralda Baby Total Protect Pants Grande, 44 Unidades",
       "posted_at": "2026-07-27T11:41:07.628735"
+    },
+    "f685d6b29cc7c27a": {
+      "title": "Fralda Personal Baby Premium Pants G 62 unidades",
+      "posted_at": "2026-07-27T11:50:53.111714"
+    },
+    "a422cd0ebc484c59": {
+      "title": "Fralda Personal Baby Premium G 30 unidades",
+      "posted_at": "2026-07-27T11:51:05.065180"
     }
   },
   "results": [
@@ -2309,6 +2317,22 @@
       "post_id": "194",
       "error": null,
       "at": "2026-07-27T11:41:07.628113"
+    },
+    {
+      "offer_id": "f685d6b29cc7c27a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "195",
+      "error": null,
+      "at": "2026-07-27T11:50:53.111017"
+    },
+    {
+      "offer_id": "a422cd0ebc484c59",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "196",
+      "error": null,
+      "at": "2026-07-27T11:51:05.064583"
     }
   ]
 }
