@@ -1,5 +1,17 @@
 [
   {
+    "id": "fa5d514274d4300a",
+    "title": "Burigotto Carrinho de Bebê Zap Metal, Prata",
+    "price_now": 552.0,
+    "price_was": 929.0,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0C4VJ5DCQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/308915340217851695669136310971.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-27T16:30:54.505356"
+  },
+  {
     "id": "2e808a7f597726f3",
     "title": "MamyPoko Fralda-Calça Superproteção G 28 Unidades",
     "price_now": 27.89,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-27T11:41:07.628433"
-  },
-  {
-    "id": "c9f66f5900e29bda",
-    "title": "Fralda-Calça MamyPoko Premium Seca G 60 Unidades",
-    "price_now": 76.41,
-    "price_was": 129.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B08DJTXZ2B?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/363509678517851515659132684236.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T11:40:59.677932"
   }
 ]

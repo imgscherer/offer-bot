@@ -787,6 +787,10 @@
     "2e808a7f597726f3": {
       "title": "MamyPoko Fralda-Calça Superproteção G 28 Unidades",
       "posted_at": "2026-07-27T13:10:50.624469"
+    },
+    "fa5d514274d4300a": {
+      "title": "Burigotto Carrinho de Bebê Zap Metal, Prata",
+      "posted_at": "2026-07-27T16:30:54.505671"
     }
   },
   "results": [
@@ -2429,6 +2433,14 @@
       "post_id": "204",
       "error": null,
       "at": "2026-07-27T13:10:50.623791"
+    },
+    {
+      "offer_id": "fa5d514274d4300a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "205",
+      "error": null,
+      "at": "2026-07-27T16:30:54.504978"
     }
   ]
 }
