@@ -727,6 +727,10 @@
     "a39a010655367706": {
       "title": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
       "posted_at": "2026-07-26T17:10:42.941616"
+    },
+    "ed9dce1c8f6da3e0": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe M 48 unidades",
+      "posted_at": "2026-07-27T11:10:39.971696"
     }
   },
   "results": [
@@ -2249,6 +2253,14 @@
       "post_id": "189",
       "error": null,
       "at": "2026-07-26T17:10:42.940935"
+    },
+    {
+      "offer_id": "ed9dce1c8f6da3e0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "190",
+      "error": null,
+      "at": "2026-07-27T11:10:39.971009"
     }
   ]
 }
