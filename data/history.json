@@ -759,6 +759,10 @@
     "463f69b909af4091": {
       "title": "Fralda Pampers Confort Sec P 50 unidades",
       "posted_at": "2026-07-27T12:01:03.272853"
+    },
+    "e25754ece769e14c": {
+      "title": "Fralda Pampers Premium Care RN 36 unidades",
+      "posted_at": "2026-07-27T12:20:50.557494"
     }
   },
   "results": [
@@ -2345,6 +2349,14 @@
       "post_id": "197",
       "error": null,
       "at": "2026-07-27T12:01:03.272128"
+    },
+    {
+      "offer_id": "e25754ece769e14c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "198",
+      "error": null,
+      "at": "2026-07-27T12:20:50.556799"
     }
   ]
 }

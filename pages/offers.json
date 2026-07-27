@@ -1,5 +1,17 @@
 [
   {
+    "id": "e25754ece769e14c",
+    "title": "Fralda Pampers Premium Care RN 36 unidades",
+    "price_now": 36.14,
+    "price_was": 52.83,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B07GQB93FT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/591430569617851541444744680677.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-27T12:20:50.557131"
+  },
+  {
     "id": "463f69b909af4091",
     "title": "Fralda Pampers Confort Sec P 50 unidades",
     "price_now": 45.89,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-26T16:40:37.296459"
-  },
-  {
-    "id": "41bd4cc6b0c9eb83",
-    "title": "MamyPoko Fralda-Calça Dia&Noite G 30 Unidades",
-    "price_now": 37.39,
-    "price_was": 62.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B088P9V5VH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/985009478917850736255669775311.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-26T14:00:49.893666"
   }
 ]
