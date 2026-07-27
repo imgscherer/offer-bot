@@ -835,6 +835,10 @@
     "f7fa0300fa43f472": {
       "title": "Kit 4 Faixas Com Laço Infantil Coloridos - Buba",
       "posted_at": "2026-07-27T19:50:52.657526"
+    },
+    "b642ab4e82d1f5ef": {
+      "title": "Tênis Spring Infantil Antiderrapante (Tam. 20 ao 35, 4 cores)",
+      "posted_at": "2026-07-27T20:10:49.587375"
     }
   },
   "results": [
@@ -2573,6 +2577,14 @@
       "post_id": "216",
       "error": null,
       "at": "2026-07-27T19:50:52.656807"
+    },
+    {
+      "offer_id": "b642ab4e82d1f5ef",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "217",
+      "error": null,
+      "at": "2026-07-27T20:10:49.586667"
     }
   ]
 }
