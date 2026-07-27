@@ -1,5 +1,17 @@
 [
   {
+    "id": "2e808a7f597726f3",
+    "title": "MamyPoko Fralda-Calça Superproteção G 28 Unidades",
+    "price_now": 27.89,
+    "price_was": 42.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0D4363KSD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/249574446317851571455880632581.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-27T13:10:50.624163"
+  },
+  {
     "id": "9913ebeccbeb6753",
     "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
     "price_now": 148.67,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-27T11:40:59.677932"
-  },
-  {
-    "id": "f7570f591886c536",
-    "title": "Fralda Pom Pom Protek Proteção De Mãe M 48 unidades",
-    "price_now": 21.99,
-    "price_was": 50.29,
-    "discount_pct": 56,
-    "url": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/147489725617851512055708863750.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T11:40:48.196622"
   }
 ]

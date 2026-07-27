@@ -783,6 +783,10 @@
     "9913ebeccbeb6753": {
       "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
       "posted_at": "2026-07-27T12:51:26.917000"
+    },
+    "2e808a7f597726f3": {
+      "title": "MamyPoko Fralda-Calça Superproteção G 28 Unidades",
+      "posted_at": "2026-07-27T13:10:50.624469"
     }
   },
   "results": [
@@ -2417,6 +2421,14 @@
       "post_id": "203",
       "error": null,
       "at": "2026-07-27T12:51:26.916215"
+    },
+    {
+      "offer_id": "2e808a7f597726f3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "204",
+      "error": null,
+      "at": "2026-07-27T13:10:50.623791"
     }
   ]
 }
