@@ -1,5 +1,29 @@
 [
   {
+    "id": "9c7dfbb13a100d9f",
+    "title": "MamyPoko Fralda-Calça Premium Seca M 68 Unidades",
+    "price_now": 84.9,
+    "price_was": 129.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B08DJSPFFX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/224964321717851798283930232642.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-27T19:31:06.909562"
+  },
+  {
+    "id": "43c4875755fca93c",
+    "title": "Fralda-Calça MamyPoko Dia&Noite XG 52 Unidades",
+    "price_now": 60.72,
+    "price_was": 107.9,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B0CHZBQKTV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/833071657517851797076120980307.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-27T19:30:56.800326"
+  },
+  {
     "id": "362dee7989f979c2",
     "title": "Fralda-Calça MamyPoko Premium Seca M 68 Unidades",
     "price_now": 67.32,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-27T13:10:50.624163"
-  },
-  {
-    "id": "9913ebeccbeb6753",
-    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
-    "price_now": 148.67,
-    "price_was": 229.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/926695136317851554638882996058.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T12:51:26.916627"
-  },
-  {
-    "id": "ff8348066cce89ff",
-    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
-    "price_now": 148.67,
-    "price_was": 229.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/936574723917851554673875531888.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T12:51:15.382934"
   }
 ]
