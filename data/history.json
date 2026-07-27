@@ -735,6 +735,18 @@
     "7985224fad9c5590": {
       "title": "Fralda Babysec Premium XG 24 unidades",
       "posted_at": "2026-07-27T11:20:50.512433"
+    },
+    "f7570f591886c536": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe M 48 unidades",
+      "posted_at": "2026-07-27T11:40:48.196884"
+    },
+    "c9f66f5900e29bda": {
+      "title": "Fralda-Calça MamyPoko Premium Seca G 60 Unidades",
+      "posted_at": "2026-07-27T11:40:59.678182"
+    },
+    "d446939a5a231462": {
+      "title": "Personal Fralda Baby Total Protect Pants Grande, 44 Unidades",
+      "posted_at": "2026-07-27T11:41:07.628735"
     }
   },
   "results": [
@@ -2273,6 +2285,30 @@
       "post_id": "191",
       "error": null,
       "at": "2026-07-27T11:20:50.511702"
+    },
+    {
+      "offer_id": "f7570f591886c536",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "192",
+      "error": null,
+      "at": "2026-07-27T11:40:48.196318"
+    },
+    {
+      "offer_id": "c9f66f5900e29bda",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "193",
+      "error": null,
+      "at": "2026-07-27T11:40:59.677652"
+    },
+    {
+      "offer_id": "d446939a5a231462",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "194",
+      "error": null,
+      "at": "2026-07-27T11:41:07.628113"
     }
   ]
 }
