@@ -831,6 +831,10 @@
     "9c7dfbb13a100d9f": {
       "title": "MamyPoko Fralda-Calça Premium Seca M 68 Unidades",
       "posted_at": "2026-07-27T19:31:06.909944"
+    },
+    "f7fa0300fa43f472": {
+      "title": "Kit 4 Faixas Com Laço Infantil Coloridos - Buba",
+      "posted_at": "2026-07-27T19:50:52.657526"
     }
   },
   "results": [
@@ -2561,6 +2565,14 @@
       "post_id": "215",
       "error": null,
       "at": "2026-07-27T19:31:06.909239"
+    },
+    {
+      "offer_id": "f7fa0300fa43f472",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "216",
+      "error": null,
+      "at": "2026-07-27T19:50:52.656807"
     }
   ]
 }
