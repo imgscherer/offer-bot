@@ -791,6 +791,10 @@
     "fa5d514274d4300a": {
       "title": "Burigotto Carrinho de Bebê Zap Metal, Prata",
       "posted_at": "2026-07-27T16:30:54.505671"
+    },
+    "5197040827e2bc22": {
+      "title": "Verden Bicicleta Infantil Hero Boy Aro 12 Com Rodinhas Laterais E Garrafinha",
+      "posted_at": "2026-07-27T17:40:44.202156"
     }
   },
   "results": [
@@ -2441,6 +2445,14 @@
       "post_id": "205",
       "error": null,
       "at": "2026-07-27T16:30:54.504978"
+    },
+    {
+      "offer_id": "5197040827e2bc22",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "206",
+      "error": null,
+      "at": "2026-07-27T17:40:44.201579"
     }
   ]
 }
