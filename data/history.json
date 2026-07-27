@@ -731,6 +731,10 @@
     "ed9dce1c8f6da3e0": {
       "title": "Fralda Pom Pom Protek Proteção De Mãe M 48 unidades",
       "posted_at": "2026-07-27T11:10:39.971696"
+    },
+    "7985224fad9c5590": {
+      "title": "Fralda Babysec Premium XG 24 unidades",
+      "posted_at": "2026-07-27T11:20:50.512433"
     }
   },
   "results": [
@@ -2261,6 +2265,14 @@
       "post_id": "190",
       "error": null,
       "at": "2026-07-27T11:10:39.971009"
+    },
+    {
+      "offer_id": "7985224fad9c5590",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "191",
+      "error": null,
+      "at": "2026-07-27T11:20:50.511702"
     }
   ]
 }

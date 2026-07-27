@@ -1,5 +1,17 @@
 [
   {
+    "id": "7985224fad9c5590",
+    "title": "Fralda Babysec Premium XG 24 unidades",
+    "price_now": 22.49,
+    "price_was": 40.13,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B07XL8XYNV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/284487245917851508469927231524.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-27T11:20:50.512108"
+  },
+  {
     "id": "ed9dce1c8f6da3e0",
     "title": "Fralda Pom Pom Protek Proteção De Mãe M 48 unidades",
     "price_now": 26.12,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-25T13:40:49.966575"
-  },
-  {
-    "id": "f5d1793d06b6df2a",
-    "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
-    "price_now": 43.6,
-    "price_was": 62.9,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/945264773017849842842049874461.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-25T13:00:50.300826"
   }
 ]
