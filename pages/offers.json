@@ -1,5 +1,29 @@
 [
   {
+    "id": "362dee7989f979c2",
+    "title": "Fralda-Calça MamyPoko Premium Seca M 68 Unidades",
+    "price_now": 67.32,
+    "price_was": 129.9,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B08DJSPFFX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/119250102517851783963009340126.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-27T19:10:56.234249"
+  },
+  {
+    "id": "00e89cd9bd27cabd",
+    "title": "Sandália Infantil Glitter Sola Antiderrapante (Tam. 17 ao 32, Diversas opções)",
+    "price_now": 16.9,
+    "price_was": 88.95,
+    "discount_pct": 81,
+    "url": "https://s.shopee.com.br/5ArE25Hwuu?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/362639330617851792908833774122.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-27T19:10:45.089180"
+  },
+  {
     "id": "cc04e18383169dde",
     "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
     "price_now": 149.49,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-27T12:51:15.382934"
-  },
-  {
-    "id": "5f5b422c875d7c89",
-    "title": "Fralda Huggies Máxima Proteção G 160 unidades",
-    "price_now": 148.67,
-    "price_was": 229.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/660537712017851554707902250232.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T12:51:04.230022"
-  },
-  {
-    "id": "7daba8bced73c9c8",
-    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
-    "price_now": 148.67,
-    "price_was": 229.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/636421048317851554804138746681.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T12:50:51.751288"
   }
 ]

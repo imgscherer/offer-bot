@@ -815,6 +815,14 @@
     "cc04e18383169dde": {
       "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
       "posted_at": "2026-07-27T18:41:28.249727"
+    },
+    "00e89cd9bd27cabd": {
+      "title": "Sandália Infantil Glitter Sola Antiderrapante (Tam. 17 ao 32, Diversas opções)",
+      "posted_at": "2026-07-27T19:10:45.089560"
+    },
+    "362dee7989f979c2": {
+      "title": "Fralda-Calça MamyPoko Premium Seca M 68 Unidades",
+      "posted_at": "2026-07-27T19:10:56.234615"
     }
   },
   "results": [
@@ -2513,6 +2521,22 @@
       "post_id": "211",
       "error": null,
       "at": "2026-07-27T18:41:28.249090"
+    },
+    {
+      "offer_id": "00e89cd9bd27cabd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "212",
+      "error": null,
+      "at": "2026-07-27T19:10:45.088808"
+    },
+    {
+      "offer_id": "362dee7989f979c2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "213",
+      "error": null,
+      "at": "2026-07-27T19:10:56.233929"
     }
   ]
 }
