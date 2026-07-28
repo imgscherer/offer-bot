@@ -907,6 +907,10 @@
     "9a2c81e098f35ec7": {
       "title": "MamyPoko Fralda-Calça Dia & Noite P 46 Unidades",
       "posted_at": "2026-07-28T20:20:40.621578"
+    },
+    "3677d092dd027745": {
+      "title": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
+      "posted_at": "2026-07-28T20:30:45.062435"
     }
   },
   "results": [
@@ -2789,6 +2793,14 @@
       "post_id": "234",
       "error": null,
       "at": "2026-07-28T20:20:40.620863"
+    },
+    {
+      "offer_id": "3677d092dd027745",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "235",
+      "error": null,
+      "at": "2026-07-28T20:30:45.061812"
     }
   ]
 }

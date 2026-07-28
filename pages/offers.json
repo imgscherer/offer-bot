@@ -1,5 +1,17 @@
 [
   {
+    "id": "3677d092dd027745",
+    "title": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
+    "price_now": 27.45,
+    "price_was": 46.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/509170604917852704848530284018.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-28T20:30:45.062134"
+  },
+  {
     "id": "9a2c81e098f35ec7",
     "title": "MamyPoko Fralda-Calça Dia & Noite P 46 Unidades",
     "price_now": 42.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-28T12:10:41.907031"
-  },
-  {
-    "id": "4fb87948ac629d3c",
-    "title": "Fralda Pampers Confort Sec P 50 unidades",
-    "price_now": 45.89,
-    "price_was": 77.27,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/949374646317852394056640712824.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-28T12:01:35.936935"
   }
 ]
