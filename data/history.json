@@ -843,6 +843,10 @@
     "9d313b45ab217b85": {
       "title": "Kit 6 Peças Conjunto Infantil Camiseta e Shorts Algodão (Tam. 2 a 14 anos)",
       "posted_at": "2026-07-27T20:30:50.817417"
+    },
+    "4bf4d30cca27851c": {
+      "title": "Fralda Pampers Premium Care Pants XXXG 80 unidades",
+      "posted_at": "2026-07-28T11:40:53.574295"
     }
   },
   "results": [
@@ -2597,6 +2601,14 @@
       "post_id": "218",
       "error": null,
       "at": "2026-07-27T20:30:50.816698"
+    },
+    {
+      "offer_id": "4bf4d30cca27851c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "219",
+      "error": null,
+      "at": "2026-07-28T11:40:53.573608"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "4bf4d30cca27851c",
+    "title": "Fralda Pampers Premium Care Pants XXXG 80 unidades",
+    "price_now": 118.36,
+    "price_was": 182.45,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0DFQK6FS3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/318062854017852376099330795655.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-28T11:40:53.573937"
+  },
+  {
     "id": "9d313b45ab217b85",
     "title": "Kit 6 Peças Conjunto Infantil Camiseta e Shorts Algodão (Tam. 2 a 14 anos)",
     "price_now": 58.35,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-27T18:40:52.403999"
-  },
-  {
-    "id": "1be46c96a5002499",
-    "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
-    "price_now": 416.07,
-    "price_was": 799.9,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0CPN2L6MQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/780811547917851746642195420704.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T18:10:48.078292"
   }
 ]
