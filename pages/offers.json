@@ -1,5 +1,17 @@
 [
   {
+    "id": "39f3a1242e384821",
+    "title": "Fralda Huggies Supreme Care P 28 Unidades",
+    "price_now": 21.85,
+    "price_was": 47.07,
+    "discount_pct": 54,
+    "url": "https://www.amazon.com.br/dp/B07Y29HTHB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/632646604917852607671274886986.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-28T18:00:54.730662"
+  },
+  {
     "id": "23e66e8e6ed33cee",
     "title": "Fralda Patrulha Canina Cremer - 5 Unidades",
     "price_now": 26.69,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-28T12:01:17.627243"
-  },
-  {
-    "id": "2bba2d330bd71b00",
-    "title": "Fralda Personal Baby Premium Protection G 30 unidades",
-    "price_now": 23.92,
-    "price_was": 48.75,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/972900986117852389842949170132.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-28T12:01:09.287722"
   }
 ]
