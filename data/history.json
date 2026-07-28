@@ -867,6 +867,10 @@
     "26cc64f8bb99fa16": {
       "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
       "posted_at": "2026-07-28T12:10:41.907377"
+    },
+    "ce8e616129660e68": {
+      "title": "Carrinho de Bebê Cosco Kids, Bross, Preto Estrela",
+      "posted_at": "2026-07-28T12:20:46.378790"
     }
   },
   "results": [
@@ -2669,6 +2673,14 @@
       "post_id": "224",
       "error": null,
       "at": "2026-07-28T12:10:41.906638"
+    },
+    {
+      "offer_id": "ce8e616129660e68",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "225",
+      "error": null,
+      "at": "2026-07-28T12:20:46.378078"
     }
   ]
 }

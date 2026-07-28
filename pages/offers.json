@@ -1,5 +1,17 @@
 [
   {
+    "id": "ce8e616129660e68",
+    "title": "Carrinho de Bebê Cosco Kids, Bross, Preto Estrela",
+    "price_now": 376.9,
+    "price_was": 659.0,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B0F38KYPJN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/342289688617852406642546148172.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-28T12:20:46.378446"
+  },
+  {
     "id": "26cc64f8bb99fa16",
     "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
     "price_now": 41.63,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-27T19:30:56.800326"
-  },
-  {
-    "id": "362dee7989f979c2",
-    "title": "Fralda-Calça MamyPoko Premium Seca M 68 Unidades",
-    "price_now": 67.32,
-    "price_was": 129.9,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B08DJSPFFX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/119250102517851783963009340126.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T19:10:56.234249"
   }
 ]
