@@ -1,5 +1,53 @@
 [
   {
+    "id": "4fb87948ac629d3c",
+    "title": "Fralda Pampers Confort Sec P 50 unidades",
+    "price_now": 45.89,
+    "price_was": 77.27,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/949374646317852394056640712824.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-28T12:01:35.936935"
+  },
+  {
+    "id": "cc632f41cd053f71",
+    "title": "Fralda Personal Baby Premium Protection M 34 unidades",
+    "price_now": 23.92,
+    "price_was": 46.38,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/337202556417852389889036898088.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-28T12:01:25.545573"
+  },
+  {
+    "id": "17cfab79b81e7e62",
+    "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
+    "price_now": 23.92,
+    "price_was": 46.38,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/960613795817852389906950786369.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-28T12:01:17.627243"
+  },
+  {
+    "id": "2bba2d330bd71b00",
+    "title": "Fralda Personal Baby Premium Protection G 30 unidades",
+    "price_now": 23.92,
+    "price_was": 48.75,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/972900986117852389842949170132.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-28T12:01:09.287722"
+  },
+  {
     "id": "4bf4d30cca27851c",
     "title": "Fralda Pampers Premium Care Pants XXXG 80 unidades",
     "price_now": 118.36,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-27T19:10:45.089180"
-  },
-  {
-    "id": "cc04e18383169dde",
-    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
-    "price_now": 149.49,
-    "price_was": 229.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/583838478017851770642484497386.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T18:41:28.249388"
-  },
-  {
-    "id": "a9214772c9481a86",
-    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
-    "price_now": 149.49,
-    "price_was": 229.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/820738562217851770685037830540.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T18:41:16.178717"
-  },
-  {
-    "id": "e9af3a69028d3e1e",
-    "title": "Fralda Huggies Máxima Proteção G 160 unidades",
-    "price_now": 149.49,
-    "price_was": 229.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/279753241017851770779193473195.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T18:41:04.475464"
-  },
-  {
-    "id": "52c589415fbab942",
-    "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
-    "price_now": 149.49,
-    "price_was": 246.01,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/344008721417851770728039049963.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T18:40:52.403999"
   }
 ]

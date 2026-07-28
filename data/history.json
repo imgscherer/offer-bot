@@ -847,6 +847,22 @@
     "4bf4d30cca27851c": {
       "title": "Fralda Pampers Premium Care Pants XXXG 80 unidades",
       "posted_at": "2026-07-28T11:40:53.574295"
+    },
+    "2bba2d330bd71b00": {
+      "title": "Fralda Personal Baby Premium Protection G 30 unidades",
+      "posted_at": "2026-07-28T12:01:09.287939"
+    },
+    "17cfab79b81e7e62": {
+      "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
+      "posted_at": "2026-07-28T12:01:17.627473"
+    },
+    "cc632f41cd053f71": {
+      "title": "Fralda Personal Baby Premium Protection M 34 unidades",
+      "posted_at": "2026-07-28T12:01:25.545848"
+    },
+    "4fb87948ac629d3c": {
+      "title": "Fralda Pampers Confort Sec P 50 unidades",
+      "posted_at": "2026-07-28T12:01:35.937174"
     }
   },
   "results": [
@@ -2609,6 +2625,38 @@
       "post_id": "219",
       "error": null,
       "at": "2026-07-28T11:40:53.573608"
+    },
+    {
+      "offer_id": "2bba2d330bd71b00",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "220",
+      "error": null,
+      "at": "2026-07-28T12:01:09.287443"
+    },
+    {
+      "offer_id": "17cfab79b81e7e62",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "221",
+      "error": null,
+      "at": "2026-07-28T12:01:17.626999"
+    },
+    {
+      "offer_id": "cc632f41cd053f71",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "222",
+      "error": null,
+      "at": "2026-07-28T12:01:25.545329"
+    },
+    {
+      "offer_id": "4fb87948ac629d3c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "223",
+      "error": null,
+      "at": "2026-07-28T12:01:35.936653"
     }
   ]
 }
