@@ -915,6 +915,10 @@
     "9d89b1db013f4206": {
       "title": "Personal Fralda Baby Premium Protection Xg Com 26 Unidades",
       "posted_at": "2026-07-28T21:30:47.503103"
+    },
+    "c0b72d9d8bad761d": {
+      "title": "Mamypoko Fralda-calça Superproteção M 34 Unidades",
+      "posted_at": "2026-07-28T22:20:51.060840"
     }
   },
   "results": [
@@ -2813,6 +2817,14 @@
       "post_id": "236",
       "error": null,
       "at": "2026-07-28T21:30:47.502385"
+    },
+    {
+      "offer_id": "c0b72d9d8bad761d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "237",
+      "error": null,
+      "at": "2026-07-28T22:20:51.060214"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "c0b72d9d8bad761d",
+    "title": "Mamypoko Fralda-calça Superproteção M 34 Unidades",
+    "price_now": 28.4,
+    "price_was": 42.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0DK3M6161?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/173112333617852763073416535671.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-28T22:20:51.060531"
+  },
+  {
     "id": "9d89b1db013f4206",
     "title": "Personal Fralda Baby Premium Protection Xg Com 26 Unidades",
     "price_now": 29.98,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-28T12:30:55.730147"
-  },
-  {
-    "id": "ce8e616129660e68",
-    "title": "Carrinho de Bebê Cosco Kids, Bross, Preto Estrela",
-    "price_now": 376.9,
-    "price_was": 659.0,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B0F38KYPJN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/342289688617852406642546148172.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-28T12:20:46.378446"
   }
 ]
