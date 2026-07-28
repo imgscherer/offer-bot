@@ -1,5 +1,17 @@
 [
   {
+    "id": "23e66e8e6ed33cee",
+    "title": "Fralda Patrulha Canina Cremer - 5 Unidades",
+    "price_now": 26.69,
+    "price_was": 47.44,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B09KX6WYGB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/337110326917852544095830751062.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-28T16:10:52.608211"
+  },
+  {
     "id": "f8521075de86c39c",
     "title": "Roupão Plush Benévola Infantil Quentinho Macio Térmico (Tam. 4 a 14 anos, 3 cores)",
     "price_now": 29.95,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-28T12:01:09.287722"
-  },
-  {
-    "id": "4bf4d30cca27851c",
-    "title": "Fralda Pampers Premium Care Pants XXXG 80 unidades",
-    "price_now": 118.36,
-    "price_was": 182.45,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0DFQK6FS3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/318062854017852376099330795655.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-28T11:40:53.573937"
   }
 ]

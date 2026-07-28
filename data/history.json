@@ -891,6 +891,10 @@
     "f8521075de86c39c": {
       "title": "Roupão Plush Benévola Infantil Quentinho Macio Térmico (Tam. 4 a 14 anos, 3 cores)",
       "posted_at": "2026-07-28T15:01:08.584417"
+    },
+    "23e66e8e6ed33cee": {
+      "title": "Fralda Patrulha Canina Cremer - 5 Unidades",
+      "posted_at": "2026-07-28T16:10:52.608485"
     }
   },
   "results": [
@@ -2741,6 +2745,14 @@
       "post_id": "230",
       "error": null,
       "at": "2026-07-28T15:01:08.583668"
+    },
+    {
+      "offer_id": "23e66e8e6ed33cee",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "231",
+      "error": null,
+      "at": "2026-07-28T16:10:52.607831"
     }
   ]
 }
