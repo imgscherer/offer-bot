@@ -883,6 +883,10 @@
     "89db3b8aefc9c759": {
       "title": "Carrinho de Bebê Toffy Cosco",
       "posted_at": "2026-07-28T12:31:14.430429"
+    },
+    "0de2b3deab265194": {
+      "title": "Bicicleta Infantil De Equilíbrio Sem Pedal 4 Rodas (Diversas cores)",
+      "posted_at": "2026-07-28T13:40:44.131605"
     }
   },
   "results": [
@@ -2717,6 +2721,14 @@
       "post_id": "228",
       "error": null,
       "at": "2026-07-28T12:31:14.429762"
+    },
+    {
+      "offer_id": "0de2b3deab265194",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "229",
+      "error": null,
+      "at": "2026-07-28T13:40:44.130871"
     }
   ]
 }
