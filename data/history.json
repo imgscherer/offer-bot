@@ -899,6 +899,10 @@
     "39f3a1242e384821": {
       "title": "Fralda Huggies Supreme Care P 28 Unidades",
       "posted_at": "2026-07-28T18:00:54.730976"
+    },
+    "8ccb9f7f43686750": {
+      "title": "Tênis Infantil + Óculos e Relógio Linkito (Tam. 20 ao 36, Diversas cores)",
+      "posted_at": "2026-07-28T18:40:43.916636"
     }
   },
   "results": [
@@ -2765,6 +2769,14 @@
       "post_id": "232",
       "error": null,
       "at": "2026-07-28T18:00:54.730276"
+    },
+    {
+      "offer_id": "8ccb9f7f43686750",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "233",
+      "error": null,
+      "at": "2026-07-28T18:40:43.915914"
     }
   ]
 }

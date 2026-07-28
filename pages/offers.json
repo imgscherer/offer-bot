@@ -1,5 +1,17 @@
 [
   {
+    "id": "8ccb9f7f43686750",
+    "title": "Tênis Infantil + Óculos e Relógio Linkito (Tam. 20 ao 36, Diversas cores)",
+    "price_now": 49.99,
+    "price_was": 89.27,
+    "discount_pct": 44,
+    "url": "https://s.shopee.com.br/9zwVLS337d?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/938034476617852635889659591175.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-28T18:40:43.916299"
+  },
+  {
     "id": "39f3a1242e384821",
     "title": "Fralda Huggies Supreme Care P 28 Unidades",
     "price_now": 21.85,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-28T12:01:25.545573"
-  },
-  {
-    "id": "17cfab79b81e7e62",
-    "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
-    "price_now": 23.92,
-    "price_was": 46.38,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/960613795817852389906950786369.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-28T12:01:17.627243"
   }
 ]
