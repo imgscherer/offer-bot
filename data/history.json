@@ -863,6 +863,10 @@
     "4fb87948ac629d3c": {
       "title": "Fralda Pampers Confort Sec P 50 unidades",
       "posted_at": "2026-07-28T12:01:35.937174"
+    },
+    "26cc64f8bb99fa16": {
+      "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
+      "posted_at": "2026-07-28T12:10:41.907377"
     }
   },
   "results": [
@@ -2657,6 +2661,14 @@
       "post_id": "223",
       "error": null,
       "at": "2026-07-28T12:01:35.936653"
+    },
+    {
+      "offer_id": "26cc64f8bb99fa16",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "224",
+      "error": null,
+      "at": "2026-07-28T12:10:41.906638"
     }
   ]
 }
