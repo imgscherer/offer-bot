@@ -871,6 +871,18 @@
     "ce8e616129660e68": {
       "title": "Carrinho de Bebê Cosco Kids, Bross, Preto Estrela",
       "posted_at": "2026-07-28T12:20:46.378790"
+    },
+    "5af38a7614c2c839": {
+      "title": "Fralda Turma da Mônica Baby P 30 unidades",
+      "posted_at": "2026-07-28T12:30:55.730495"
+    },
+    "f0341cafb5fb2bea": {
+      "title": "Fralda Turma da Mônica Baby M 29 unidades",
+      "posted_at": "2026-07-28T12:31:04.611514"
+    },
+    "89db3b8aefc9c759": {
+      "title": "Carrinho de Bebê Toffy Cosco",
+      "posted_at": "2026-07-28T12:31:14.430429"
     }
   },
   "results": [
@@ -2681,6 +2693,30 @@
       "post_id": "225",
       "error": null,
       "at": "2026-07-28T12:20:46.378078"
+    },
+    {
+      "offer_id": "5af38a7614c2c839",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "226",
+      "error": null,
+      "at": "2026-07-28T12:30:55.729733"
+    },
+    {
+      "offer_id": "f0341cafb5fb2bea",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "227",
+      "error": null,
+      "at": "2026-07-28T12:31:04.610831"
+    },
+    {
+      "offer_id": "89db3b8aefc9c759",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "228",
+      "error": null,
+      "at": "2026-07-28T12:31:14.429762"
     }
   ]
 }

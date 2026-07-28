@@ -1,5 +1,41 @@
 [
   {
+    "id": "89db3b8aefc9c759",
+    "title": "Carrinho de Bebê Toffy Cosco",
+    "price_now": 359.91,
+    "price_was": 659.0,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B0CCG9KL19?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/525820216417852412785986944495.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-28T12:31:14.430073"
+  },
+  {
+    "id": "f0341cafb5fb2bea",
+    "title": "Fralda Turma da Mônica Baby M 29 unidades",
+    "price_now": 15.56,
+    "price_was": 40.67,
+    "discount_pct": 62,
+    "url": "https://s.shopee.com.br/3qLraZWxKn?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/891214601717852412802261828922.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-28T12:31:04.611187"
+  },
+  {
+    "id": "5af38a7614c2c839",
+    "title": "Fralda Turma da Mônica Baby P 30 unidades",
+    "price_now": 15.56,
+    "price_was": 40.87,
+    "discount_pct": 62,
+    "url": "https://s.shopee.com.br/9V0EKzFiNt?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/122086844917852412734507370688.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-28T12:30:55.730147"
+  },
+  {
     "id": "ce8e616129660e68",
     "title": "Carrinho de Bebê Cosco Kids, Bross, Preto Estrela",
     "price_now": 376.9,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-27T20:10:49.587036"
-  },
-  {
-    "id": "f7fa0300fa43f472",
-    "title": "Kit 4 Faixas Com Laço Infantil Coloridos - Buba",
-    "price_now": 14.34,
-    "price_was": 22.77,
-    "discount_pct": 37,
-    "url": "https://s.shopee.com.br/40fGg48Wv4?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/704487586617851811475357756189.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T19:50:52.657177"
-  },
-  {
-    "id": "9c7dfbb13a100d9f",
-    "title": "MamyPoko Fralda-Calça Premium Seca M 68 Unidades",
-    "price_now": 84.9,
-    "price_was": 129.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B08DJSPFFX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/224964321717851798283930232642.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T19:31:06.909562"
-  },
-  {
-    "id": "43c4875755fca93c",
-    "title": "Fralda-Calça MamyPoko Dia&Noite XG 52 Unidades",
-    "price_now": 60.72,
-    "price_was": 107.9,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B0CHZBQKTV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/833071657517851797076120980307.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-27T19:30:56.800326"
   }
 ]
