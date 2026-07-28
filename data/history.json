@@ -903,6 +903,10 @@
     "8ccb9f7f43686750": {
       "title": "Tênis Infantil + Óculos e Relógio Linkito (Tam. 20 ao 36, Diversas cores)",
       "posted_at": "2026-07-28T18:40:43.916636"
+    },
+    "9a2c81e098f35ec7": {
+      "title": "MamyPoko Fralda-Calça Dia & Noite P 46 Unidades",
+      "posted_at": "2026-07-28T20:20:40.621578"
     }
   },
   "results": [
@@ -2777,6 +2781,14 @@
       "post_id": "233",
       "error": null,
       "at": "2026-07-28T18:40:43.915914"
+    },
+    {
+      "offer_id": "9a2c81e098f35ec7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "234",
+      "error": null,
+      "at": "2026-07-28T20:20:40.620863"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "9a2c81e098f35ec7",
+    "title": "MamyPoko Fralda-Calça Dia & Noite P 46 Unidades",
+    "price_now": 42.9,
+    "price_was": 62.9,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/883440539317852698237899938117.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-28T20:20:40.621265"
+  },
+  {
     "id": "8ccb9f7f43686750",
     "title": "Tênis Infantil + Óculos e Relógio Linkito (Tam. 20 ao 36, Diversas cores)",
     "price_now": 49.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-28T12:01:35.936935"
-  },
-  {
-    "id": "cc632f41cd053f71",
-    "title": "Fralda Personal Baby Premium Protection M 34 unidades",
-    "price_now": 23.92,
-    "price_was": 46.38,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/337202556417852389889036898088.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-28T12:01:25.545573"
   }
 ]
