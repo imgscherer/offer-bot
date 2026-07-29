@@ -919,6 +919,14 @@
     "c0b72d9d8bad761d": {
       "title": "Mamypoko Fralda-calça Superproteção M 34 Unidades",
       "posted_at": "2026-07-28T22:20:51.060840"
+    },
+    "b73d88f8548b4376": {
+      "title": "Fralda-calca premium seca m 68 unidades &#8211; mamypoko",
+      "posted_at": "2026-07-29T10:10:47.722399"
+    },
+    "dc82b71af024bc71": {
+      "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
+      "posted_at": "2026-07-29T10:10:55.596818"
     }
   },
   "results": [
@@ -2825,6 +2833,22 @@
       "post_id": "237",
       "error": null,
       "at": "2026-07-28T22:20:51.060214"
+    },
+    {
+      "offer_id": "b73d88f8548b4376",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "238",
+      "error": null,
+      "at": "2026-07-29T10:10:47.721678"
+    },
+    {
+      "offer_id": "dc82b71af024bc71",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "239",
+      "error": null,
+      "at": "2026-07-29T10:10:55.595487"
     }
   ]
 }
