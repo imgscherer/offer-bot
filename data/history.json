@@ -955,6 +955,18 @@
     "24f84ab748246085": {
       "title": "Fralda Personal Baby Premium Pants G 62 unidades",
       "posted_at": "2026-07-29T12:20:46.528846"
+    },
+    "781833fe8696f985": {
+      "title": "Fralda Babysec Ultrasec G 60 unidades",
+      "posted_at": "2026-07-29T12:41:16.060778"
+    },
+    "7aa6c3671392ba65": {
+      "title": "Fralda Babysec Ultrasec XXG 48 unidades",
+      "posted_at": "2026-07-29T12:41:28.160873"
+    },
+    "1d2c1dd47177ee83": {
+      "title": "Fralda Babysec Ultrasec XG 56 unidades",
+      "posted_at": "2026-07-29T12:41:37.315404"
     }
   },
   "results": [
@@ -2933,6 +2945,30 @@
       "post_id": "246",
       "error": null,
       "at": "2026-07-29T12:20:46.528174"
+    },
+    {
+      "offer_id": "781833fe8696f985",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "247",
+      "error": null,
+      "at": "2026-07-29T12:41:16.060183"
+    },
+    {
+      "offer_id": "7aa6c3671392ba65",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "248",
+      "error": null,
+      "at": "2026-07-29T12:41:28.160282"
+    },
+    {
+      "offer_id": "1d2c1dd47177ee83",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "249",
+      "error": null,
+      "at": "2026-07-29T12:41:37.314770"
     }
   ]
 }

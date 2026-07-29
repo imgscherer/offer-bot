@@ -1,5 +1,41 @@
 [
   {
+    "id": "1d2c1dd47177ee83",
+    "title": "Fralda Babysec Ultrasec XG 56 unidades",
+    "price_now": 55.99,
+    "price_was": 87.49,
+    "discount_pct": 36,
+    "url": "https://s.shopee.com.br/8KoIYYUit6?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/167078850617853283883414307377.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-29T12:41:37.315087"
+  },
+  {
+    "id": "7aa6c3671392ba65",
+    "title": "Fralda Babysec Ultrasec XXG 48 unidades",
+    "price_now": 55.99,
+    "price_was": 87.49,
+    "discount_pct": 36,
+    "url": "https://s.shopee.com.br/W5RE9pbjQ?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/628392943317853283923594278992.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-29T12:41:28.160634"
+  },
+  {
+    "id": "781833fe8696f985",
+    "title": "Fralda Babysec Ultrasec G 60 unidades",
+    "price_now": 55.99,
+    "price_was": 87.49,
+    "discount_pct": 36,
+    "url": "https://s.shopee.com.br/80BS9wVzZ4?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/268819725617853283989075519270.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-29T12:41:16.060530"
+  },
+  {
     "id": "24f84ab748246085",
     "title": "Fralda Personal Baby Premium Pants G 62 unidades",
     "price_now": 60.72,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-29T10:10:47.722032"
-  },
-  {
-    "id": "c0b72d9d8bad761d",
-    "title": "Mamypoko Fralda-calça Superproteção M 34 Unidades",
-    "price_now": 28.4,
-    "price_was": 42.9,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0DK3M6161?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/173112333617852763073416535671.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-28T22:20:51.060531"
-  },
-  {
-    "id": "9d89b1db013f4206",
-    "title": "Personal Fralda Baby Premium Protection Xg Com 26 Unidades",
-    "price_now": 29.98,
-    "price_was": 46.38,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/395389639117852740254163850866.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-28T21:30:47.502756"
-  },
-  {
-    "id": "3677d092dd027745",
-    "title": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
-    "price_now": 27.45,
-    "price_was": 46.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/509170604917852704848530284018.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-28T20:30:45.062134"
   }
 ]
