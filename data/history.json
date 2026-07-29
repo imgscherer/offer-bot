@@ -967,6 +967,10 @@
     "1d2c1dd47177ee83": {
       "title": "Fralda Babysec Ultrasec XG 56 unidades",
       "posted_at": "2026-07-29T12:41:37.315404"
+    },
+    "8f7ee13937c4a9cd": {
+      "title": "MamyPoko Fralda-Calça Premium Seca P 46 Unidades",
+      "posted_at": "2026-07-29T13:21:09.196635"
     }
   },
   "results": [
@@ -2969,6 +2973,14 @@
       "post_id": "249",
       "error": null,
       "at": "2026-07-29T12:41:37.314770"
+    },
+    {
+      "offer_id": "8f7ee13937c4a9cd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "250",
+      "error": null,
+      "at": "2026-07-29T13:21:09.195854"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "8f7ee13937c4a9cd",
+    "title": "MamyPoko Fralda-Calça Premium Seca P 46 Unidades",
+    "price_now": 49.9,
+    "price_was": 74.9,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B088PB2FF1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/167276011617853304849088366520.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-29T13:21:09.196260"
+  },
+  {
     "id": "1d2c1dd47177ee83",
     "title": "Fralda Babysec Ultrasec XG 56 unidades",
     "price_now": 55.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-29T10:10:55.595791"
-  },
-  {
-    "id": "b73d88f8548b4376",
-    "title": "Fralda-calca premium seca m 68 unidades &#8211; mamypoko",
-    "price_now": 80.65,
-    "price_was": 129.9,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B08DJSPFFX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/805339878417851808443063219666.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-29T10:10:47.722032"
   }
 ]
