@@ -1003,6 +1003,10 @@
     "767e1f715b7d9c4d": {
       "title": "Lillo Chupeta Soft Calming 100% Silicone Simétrico Tam 2 (Maiores De 6 Meses) - Rosa",
       "posted_at": "2026-07-29T21:00:50.658939"
+    },
+    "0e0a440ea285072f": {
+      "title": "Colônia Lavanda Johnson's Baby Bebês 400ml",
+      "posted_at": "2026-07-29T21:40:44.872087"
     }
   },
   "results": [
@@ -3077,6 +3081,14 @@
       "post_id": "258",
       "error": null,
       "at": "2026-07-29T21:00:50.658316"
+    },
+    {
+      "offer_id": "0e0a440ea285072f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "259",
+      "error": null,
+      "at": "2026-07-29T21:40:44.871430"
     }
   ]
 }

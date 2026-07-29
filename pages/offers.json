@@ -1,5 +1,17 @@
 [
   {
+    "id": "0e0a440ea285072f",
+    "title": "Colônia Lavanda Johnson's Baby Bebês 400ml",
+    "price_now": 44.17,
+    "price_was": 68.99,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B00LTDSMRU?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/916401660717853607871289173840.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-29T21:40:44.871771"
+  },
+  {
     "id": "767e1f715b7d9c4d",
     "title": "Lillo Chupeta Soft Calming 100% Silicone Simétrico Tam 2 (Maiores De 6 Meses) - Rosa",
     "price_now": 13.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-29T12:41:28.160634"
-  },
-  {
-    "id": "781833fe8696f985",
-    "title": "Fralda Babysec Ultrasec G 60 unidades",
-    "price_now": 55.99,
-    "price_was": 87.49,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/80BS9wVzZ4?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/268819725617853283989075519270.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-29T12:41:16.060530"
   }
 ]
