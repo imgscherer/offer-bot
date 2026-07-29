@@ -999,6 +999,10 @@
     "b3c36d3c0edffc2d": {
       "title": "Kit Higiene Infantil 5 Peças Bebê com Estojo, Pente, Escova, Tesoura e Cortador de Unha (2 Cores)",
       "posted_at": "2026-07-29T20:20:43.721543"
+    },
+    "767e1f715b7d9c4d": {
+      "title": "Lillo Chupeta Soft Calming 100% Silicone Simétrico Tam 2 (Maiores De 6 Meses) - Rosa",
+      "posted_at": "2026-07-29T21:00:50.658939"
     }
   },
   "results": [
@@ -3065,6 +3069,14 @@
       "post_id": "257",
       "error": null,
       "at": "2026-07-29T20:20:43.720844"
+    },
+    {
+      "offer_id": "767e1f715b7d9c4d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "258",
+      "error": null,
+      "at": "2026-07-29T21:00:50.658316"
     }
   ]
 }

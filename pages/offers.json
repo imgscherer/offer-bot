@@ -1,5 +1,17 @@
 [
   {
+    "id": "767e1f715b7d9c4d",
+    "title": "Lillo Chupeta Soft Calming 100% Silicone Simétrico Tam 2 (Maiores De 6 Meses) - Rosa",
+    "price_now": 13.99,
+    "price_was": 26.14,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B083FL6ZVB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/595829815317853582682774485304.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-29T21:00:50.658632"
+  },
+  {
     "id": "b3c36d3c0edffc2d",
     "title": "Kit Higiene Infantil 5 Peças Bebê com Estojo, Pente, Escova, Tesoura e Cortador de Unha (2 Cores)",
     "price_now": 30.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-29T12:41:16.060530"
-  },
-  {
-    "id": "24f84ab748246085",
-    "title": "Fralda Personal Baby Premium Pants G 62 unidades",
-    "price_now": 60.72,
-    "price_was": 116.89,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/735818619617853269455134581179.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-29T12:20:46.528562"
   }
 ]
