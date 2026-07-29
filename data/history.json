@@ -979,6 +979,18 @@
     "e5db6e124844cb78": {
       "title": "Kit Educativo com Cubo e Bola Didáticos Bebês 1 Ano Estimula Desenvolvimento Infantil",
       "posted_at": "2026-07-29T14:10:53.377631"
+    },
+    "261837c77b58400e": {
+      "title": "Tenis Infantil Preto (tam 23 ao 39)",
+      "posted_at": "2026-07-29T15:31:02.082279"
+    },
+    "cff3881532d4d985": {
+      "title": "Fralda Turma da Mônica Baby XG 168 unidades",
+      "posted_at": "2026-07-29T15:31:13.267472"
+    },
+    "e5b0fe4312fdde98": {
+      "title": "Fralda Turma da Mônica Baby XXG 144 unidades",
+      "posted_at": "2026-07-29T15:31:24.453478"
     }
   },
   "results": [
@@ -3005,6 +3017,30 @@
       "post_id": "252",
       "error": null,
       "at": "2026-07-29T14:10:53.376949"
+    },
+    {
+      "offer_id": "261837c77b58400e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "253",
+      "error": null,
+      "at": "2026-07-29T15:31:02.081612"
+    },
+    {
+      "offer_id": "cff3881532d4d985",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "254",
+      "error": null,
+      "at": "2026-07-29T15:31:13.266838"
+    },
+    {
+      "offer_id": "e5b0fe4312fdde98",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "255",
+      "error": null,
+      "at": "2026-07-29T15:31:24.452852"
     }
   ]
 }

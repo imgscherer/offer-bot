@@ -1,5 +1,41 @@
 [
   {
+    "id": "e5b0fe4312fdde98",
+    "title": "Fralda Turma da Mônica Baby XXG 144 unidades",
+    "price_now": 113.0,
+    "price_was": 170.72,
+    "discount_pct": 34,
+    "url": "https://s.shopee.com.br/8AUsXmsmJa?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/276798766617853384684870472579.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-29T15:31:24.453163"
+  },
+  {
+    "id": "cff3881532d4d985",
+    "title": "Fralda Turma da Mônica Baby XG 168 unidades",
+    "price_now": 113.0,
+    "price_was": 170.72,
+    "discount_pct": 34,
+    "url": "https://s.shopee.com.br/2BDfOlT1YE?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/316144316117853384788402365895.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-29T15:31:13.267156"
+  },
+  {
+    "id": "261837c77b58400e",
+    "title": "Tenis Infantil Preto (tam 23 ao 39)",
+    "price_now": 47.92,
+    "price_was": 99.83,
+    "discount_pct": 52,
+    "url": "https://s.shopee.com.br/3qLtNpMTPu?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/891222226317853384802164923428.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-29T15:31:02.081958"
+  },
+  {
     "id": "e5db6e124844cb78",
     "title": "Kit Educativo com Cubo e Bola Didáticos Bebês 1 Ano Estimula Desenvolvimento Infantil",
     "price_now": 25.8,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-29T11:11:13.862215"
-  },
-  {
-    "id": "0285365e6c539f63",
-    "title": "Fralda-Calça MamyPoko Superproteção M 34 Unidades",
-    "price_now": 28.4,
-    "price_was": 42.9,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0DK3M6161?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/978629380517853226844120576665.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-29T11:11:03.067366"
-  },
-  {
-    "id": "5e2e90b18134a354",
-    "title": "Fralda-Calça MamyPoko Dia&Noite M 40 Unidades",
-    "price_now": 39.9,
-    "price_was": 62.9,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0DK3P318Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/672122029117853232896900797662.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-29T11:10:54.163838"
-  },
-  {
-    "id": "224c8da9f39ee491",
-    "title": "Fralda-Calça MamyPoko Superproteção XXG 22 unidades",
-    "price_now": 27.45,
-    "price_was": 46.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/436498318217853232938409079525.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-29T11:10:44.977854"
   }
 ]
