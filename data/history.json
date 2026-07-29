@@ -975,6 +975,10 @@
     "21f20047563d98ef": {
       "title": "Fralda-Calça MamyPoko Premium Seca P 46 Unidades",
       "posted_at": "2026-07-29T13:40:59.099662"
+    },
+    "e5db6e124844cb78": {
+      "title": "Kit Educativo com Cubo e Bola Didáticos Bebês 1 Ano Estimula Desenvolvimento Infantil",
+      "posted_at": "2026-07-29T14:10:53.377631"
     }
   },
   "results": [
@@ -2993,6 +2997,14 @@
       "post_id": "251",
       "error": null,
       "at": "2026-07-29T13:40:59.099002"
+    },
+    {
+      "offer_id": "e5db6e124844cb78",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "252",
+      "error": null,
+      "at": "2026-07-29T14:10:53.376949"
     }
   ]
 }
