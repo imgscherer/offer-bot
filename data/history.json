@@ -995,6 +995,10 @@
     "dcffea96569abe9d": {
       "title": "Carrinho Travel System Magnific Trio Grey Denin Safety 1st",
       "posted_at": "2026-07-29T18:40:47.797692"
+    },
+    "b3c36d3c0edffc2d": {
+      "title": "Kit Higiene Infantil 5 Peças Bebê com Estojo, Pente, Escova, Tesoura e Cortador de Unha (2 Cores)",
+      "posted_at": "2026-07-29T20:20:43.721543"
     }
   },
   "results": [
@@ -3053,6 +3057,14 @@
       "post_id": "256",
       "error": null,
       "at": "2026-07-29T18:40:47.796954"
+    },
+    {
+      "offer_id": "b3c36d3c0edffc2d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "257",
+      "error": null,
+      "at": "2026-07-29T20:20:43.720844"
     }
   ]
 }
