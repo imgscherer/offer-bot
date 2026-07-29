@@ -1,5 +1,53 @@
 [
   {
+    "id": "d1705518f971dcf4",
+    "title": "Mamypoko Fralda Calca Dia E Noite Jumbo M40",
+    "price_now": 42.0,
+    "price_was": 62.9,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0DK3P318Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/430928066017853229873206795968.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-29T11:11:13.862215"
+  },
+  {
+    "id": "0285365e6c539f63",
+    "title": "Fralda-Calça MamyPoko Superproteção M 34 Unidades",
+    "price_now": 28.4,
+    "price_was": 42.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0DK3M6161?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/978629380517853226844120576665.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-29T11:11:03.067366"
+  },
+  {
+    "id": "5e2e90b18134a354",
+    "title": "Fralda-Calça MamyPoko Dia&Noite M 40 Unidades",
+    "price_now": 39.9,
+    "price_was": 62.9,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0DK3P318Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/672122029117853232896900797662.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-29T11:10:54.163838"
+  },
+  {
+    "id": "224c8da9f39ee491",
+    "title": "Fralda-Calça MamyPoko Superproteção XXG 22 unidades",
+    "price_now": 27.45,
+    "price_was": 46.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/436498318217853232938409079525.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-29T11:10:44.977854"
+  },
+  {
     "id": "195fc195de422b08",
     "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
     "price_now": 28.48,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-28T18:40:43.916299"
-  },
-  {
-    "id": "39f3a1242e384821",
-    "title": "Fralda Huggies Supreme Care P 28 Unidades",
-    "price_now": 21.85,
-    "price_was": 47.07,
-    "discount_pct": 54,
-    "url": "https://www.amazon.com.br/dp/B07Y29HTHB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/632646604917852607671274886986.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-28T18:00:54.730662"
-  },
-  {
-    "id": "23e66e8e6ed33cee",
-    "title": "Fralda Patrulha Canina Cremer - 5 Unidades",
-    "price_now": 26.69,
-    "price_was": 47.44,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B09KX6WYGB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/337110326917852544095830751062.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-28T16:10:52.608211"
-  },
-  {
-    "id": "f8521075de86c39c",
-    "title": "Roupão Plush Benévola Infantil Quentinho Macio Térmico (Tam. 4 a 14 anos, 3 cores)",
-    "price_now": 29.95,
-    "price_was": 99.83,
-    "discount_pct": 70,
-    "url": "https://s.shopee.com.br/60QMKmjVnf?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/690153423317852502078253555865.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-28T15:01:08.584084"
-  },
-  {
-    "id": "0de2b3deab265194",
-    "title": "Bicicleta Infantil De Equilíbrio Sem Pedal 4 Rodas (Diversas cores)",
-    "price_now": 37.45,
-    "price_was": 138.7,
-    "discount_pct": 73,
-    "url": "https://s.shopee.com.br/3qLrfRlM3N?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/143190763417852455278677126066.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-28T13:40:44.131207"
   }
 ]

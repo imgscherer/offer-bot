@@ -931,6 +931,22 @@
     "195fc195de422b08": {
       "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
       "posted_at": "2026-07-29T11:00:57.873076"
+    },
+    "224c8da9f39ee491": {
+      "title": "Fralda-Calça MamyPoko Superproteção XXG 22 unidades",
+      "posted_at": "2026-07-29T11:10:44.978239"
+    },
+    "5e2e90b18134a354": {
+      "title": "Fralda-Calça MamyPoko Dia&Noite M 40 Unidades",
+      "posted_at": "2026-07-29T11:10:54.164183"
+    },
+    "0285365e6c539f63": {
+      "title": "Fralda-Calça MamyPoko Superproteção M 34 Unidades",
+      "posted_at": "2026-07-29T11:11:03.067698"
+    },
+    "d1705518f971dcf4": {
+      "title": "Mamypoko Fralda Calca Dia E Noite Jumbo M40",
+      "posted_at": "2026-07-29T11:11:13.862515"
     }
   },
   "results": [
@@ -2861,6 +2877,38 @@
       "post_id": "240",
       "error": null,
       "at": "2026-07-29T11:00:57.872422"
+    },
+    {
+      "offer_id": "224c8da9f39ee491",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "241",
+      "error": null,
+      "at": "2026-07-29T11:10:44.977514"
+    },
+    {
+      "offer_id": "5e2e90b18134a354",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "242",
+      "error": null,
+      "at": "2026-07-29T11:10:54.163528"
+    },
+    {
+      "offer_id": "0285365e6c539f63",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "243",
+      "error": null,
+      "at": "2026-07-29T11:11:03.067027"
+    },
+    {
+      "offer_id": "d1705518f971dcf4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "244",
+      "error": null,
+      "at": "2026-07-29T11:11:13.861884"
     }
   ]
 }
