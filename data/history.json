@@ -971,6 +971,10 @@
     "8f7ee13937c4a9cd": {
       "title": "MamyPoko Fralda-Calça Premium Seca P 46 Unidades",
       "posted_at": "2026-07-29T13:21:09.196635"
+    },
+    "21f20047563d98ef": {
+      "title": "Fralda-Calça MamyPoko Premium Seca P 46 Unidades",
+      "posted_at": "2026-07-29T13:40:59.099662"
     }
   },
   "results": [
@@ -2981,6 +2985,14 @@
       "post_id": "250",
       "error": null,
       "at": "2026-07-29T13:21:09.195854"
+    },
+    {
+      "offer_id": "21f20047563d98ef",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "251",
+      "error": null,
+      "at": "2026-07-29T13:40:59.099002"
     }
   ]
 }

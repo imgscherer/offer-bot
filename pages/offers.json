@@ -1,5 +1,17 @@
 [
   {
+    "id": "21f20047563d98ef",
+    "title": "Fralda-Calça MamyPoko Premium Seca P 46 Unidades",
+    "price_now": 47.4,
+    "price_was": 74.9,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B088PB2FF1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/515175244617853321659097713930.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-29T13:40:59.099335"
+  },
+  {
     "id": "8f7ee13937c4a9cd",
     "title": "MamyPoko Fralda-Calça Premium Seca P 46 Unidades",
     "price_now": 49.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-29T11:00:57.872757"
-  },
-  {
-    "id": "dc82b71af024bc71",
-    "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
-    "price_now": 40.75,
-    "price_was": 62.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/702108874917852707848670552274.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-29T10:10:55.595791"
   }
 ]
