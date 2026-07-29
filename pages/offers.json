@@ -1,5 +1,17 @@
 [
   {
+    "id": "9a955b562230a109",
+    "title": "Fralda Pampers Pants Premium Care M 78 unidades",
+    "price_now": 75.19,
+    "price_was": 151.59,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B07X83FF8M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/194786930117853260481730561054.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-29T12:10:46.673806"
+  },
+  {
     "id": "d1705518f971dcf4",
     "title": "Mamypoko Fralda Calca Dia E Noite Jumbo M40",
     "price_now": 42.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-28T20:20:40.621265"
-  },
-  {
-    "id": "8ccb9f7f43686750",
-    "title": "Tênis Infantil + Óculos e Relógio Linkito (Tam. 20 ao 36, Diversas cores)",
-    "price_now": 49.99,
-    "price_was": 89.27,
-    "discount_pct": 44,
-    "url": "https://s.shopee.com.br/9zwVLS337d?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/938034476617852635889659591175.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-28T18:40:43.916299"
   }
 ]
