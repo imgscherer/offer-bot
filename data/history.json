@@ -991,6 +991,10 @@
     "e5b0fe4312fdde98": {
       "title": "Fralda Turma da Mônica Baby XXG 144 unidades",
       "posted_at": "2026-07-29T15:31:24.453478"
+    },
+    "dcffea96569abe9d": {
+      "title": "Carrinho Travel System Magnific Trio Grey Denin Safety 1st",
+      "posted_at": "2026-07-29T18:40:47.797692"
     }
   },
   "results": [
@@ -3041,6 +3045,14 @@
       "post_id": "255",
       "error": null,
       "at": "2026-07-29T15:31:24.452852"
+    },
+    {
+      "offer_id": "dcffea96569abe9d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "256",
+      "error": null,
+      "at": "2026-07-29T18:40:47.796954"
     }
   ]
 }

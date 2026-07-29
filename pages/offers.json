@@ -1,5 +1,17 @@
 [
   {
+    "id": "dcffea96569abe9d",
+    "title": "Carrinho Travel System Magnific Trio Grey Denin Safety 1st",
+    "price_now": 1367.44,
+    "price_was": 2199.0,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0CRZ8FZBP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/450575481817853502267885223486.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-29T18:40:47.797373"
+  },
+  {
     "id": "e5b0fe4312fdde98",
     "title": "Fralda Turma da Mônica Baby XXG 144 unidades",
     "price_now": 113.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-29T12:10:46.673806"
-  },
-  {
-    "id": "d1705518f971dcf4",
-    "title": "Mamypoko Fralda Calca Dia E Noite Jumbo M40",
-    "price_now": 42.0,
-    "price_was": 62.9,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0DK3P318Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/430928066017853229873206795968.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-29T11:11:13.862215"
   }
 ]
