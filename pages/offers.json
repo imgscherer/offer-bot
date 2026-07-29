@@ -1,5 +1,17 @@
 [
   {
+    "id": "24f84ab748246085",
+    "title": "Fralda Personal Baby Premium Pants G 62 unidades",
+    "price_now": 60.72,
+    "price_was": 116.89,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/735818619617853269455134581179.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-29T12:20:46.528562"
+  },
+  {
     "id": "9a955b562230a109",
     "title": "Fralda Pampers Pants Premium Care M 78 unidades",
     "price_now": 75.19,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-28T20:30:45.062134"
-  },
-  {
-    "id": "9a2c81e098f35ec7",
-    "title": "MamyPoko Fralda-Calça Dia & Noite P 46 Unidades",
-    "price_now": 42.9,
-    "price_was": 62.9,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/883440539317852698237899938117.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-28T20:20:40.621265"
   }
 ]
