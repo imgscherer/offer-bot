@@ -927,6 +927,10 @@
     "dc82b71af024bc71": {
       "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
       "posted_at": "2026-07-29T10:10:55.596818"
+    },
+    "195fc195de422b08": {
+      "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
+      "posted_at": "2026-07-29T11:00:57.873076"
     }
   },
   "results": [
@@ -2849,6 +2853,14 @@
       "post_id": "239",
       "error": null,
       "at": "2026-07-29T10:10:55.595487"
+    },
+    {
+      "offer_id": "195fc195de422b08",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "240",
+      "error": null,
+      "at": "2026-07-29T11:00:57.872422"
     }
   ]
 }

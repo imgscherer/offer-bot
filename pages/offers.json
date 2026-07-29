@@ -1,5 +1,17 @@
 [
   {
+    "id": "195fc195de422b08",
+    "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
+    "price_now": 28.48,
+    "price_was": 46.38,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/310069016517853216642874717186.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-29T11:00:57.872757"
+  },
+  {
     "id": "dc82b71af024bc71",
     "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
     "price_now": 40.75,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-28T13:40:44.131207"
-  },
-  {
-    "id": "89db3b8aefc9c759",
-    "title": "Carrinho de Bebê Toffy Cosco",
-    "price_now": 359.91,
-    "price_was": 659.0,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B0CCG9KL19?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/525820216417852412785986944495.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-28T12:31:14.430073"
   }
 ]
