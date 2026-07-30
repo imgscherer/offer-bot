@@ -1055,6 +1055,10 @@
     "d35aee0caf101418": {
       "title": "Fralda Personal Baby Premium Pants G 62 unidades",
       "posted_at": "2026-07-30T14:30:49.502305"
+    },
+    "9ed0ae284c4be205": {
+      "title": "MamyPoko Fralda-Calça Premium Seca P-46 Uni",
+      "posted_at": "2026-07-30T17:20:42.409855"
     }
   },
   "results": [
@@ -3233,6 +3237,14 @@
       "post_id": "271",
       "error": null,
       "at": "2026-07-30T14:30:49.501583"
+    },
+    {
+      "offer_id": "9ed0ae284c4be205",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "272",
+      "error": null,
+      "at": "2026-07-30T17:20:42.409139"
     }
   ]
 }
