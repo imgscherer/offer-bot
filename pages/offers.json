@@ -1,5 +1,17 @@
 [
   {
+    "id": "f2bef9c9100ba48a",
+    "title": "Carrinho De Bebê Cosco Kids, Bross, Cinza Mescla",
+    "price_now": 388.87,
+    "price_was": 659.0,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0F38P3NMF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/325017344117853703883867427047.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-30T00:20:35.916649"
+  },
+  {
     "id": "0e0a440ea285072f",
     "title": "Colônia Lavanda Johnson's Baby Bebês 400ml",
     "price_now": 44.17,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-29T12:41:37.315087"
-  },
-  {
-    "id": "7aa6c3671392ba65",
-    "title": "Fralda Babysec Ultrasec XXG 48 unidades",
-    "price_now": 55.99,
-    "price_was": 87.49,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/W5RE9pbjQ?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/628392943317853283923594278992.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-29T12:41:28.160634"
   }
 ]

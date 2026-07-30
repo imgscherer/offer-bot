@@ -1007,6 +1007,10 @@
     "0e0a440ea285072f": {
       "title": "Colônia Lavanda Johnson's Baby Bebês 400ml",
       "posted_at": "2026-07-29T21:40:44.872087"
+    },
+    "f2bef9c9100ba48a": {
+      "title": "Carrinho De Bebê Cosco Kids, Bross, Cinza Mescla",
+      "posted_at": "2026-07-30T00:20:35.916975"
     }
   },
   "results": [
@@ -3089,6 +3093,14 @@
       "post_id": "259",
       "error": null,
       "at": "2026-07-29T21:40:44.871430"
+    },
+    {
+      "offer_id": "f2bef9c9100ba48a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "260",
+      "error": null,
+      "at": "2026-07-30T00:20:35.916327"
     }
   ]
 }
