@@ -1039,6 +1039,14 @@
     "a6f4be9282620b07": {
       "title": "Mesinha Didática Infantil Educativa Sensorial (2 Cores)",
       "posted_at": "2026-07-30T13:30:54.981222"
+    },
+    "c020e6dcc6d90f11": {
+      "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
+      "posted_at": "2026-07-30T14:00:57.927743"
+    },
+    "afda0faa8611ebd1": {
+      "title": "Personal Fralda Baby Premium Protection Extra Grande, 50 Unidades",
+      "posted_at": "2026-07-30T14:01:05.408167"
     }
   },
   "results": [
@@ -3185,6 +3193,22 @@
       "post_id": "267",
       "error": null,
       "at": "2026-07-30T13:30:54.980693"
+    },
+    {
+      "offer_id": "c020e6dcc6d90f11",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "268",
+      "error": null,
+      "at": "2026-07-30T14:00:57.927035"
+    },
+    {
+      "offer_id": "afda0faa8611ebd1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "269",
+      "error": null,
+      "at": "2026-07-30T14:01:05.407499"
     }
   ]
 }

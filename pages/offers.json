@@ -1,5 +1,29 @@
 [
   {
+    "id": "afda0faa8611ebd1",
+    "title": "Personal Fralda Baby Premium Protection Extra Grande, 50 Unidades",
+    "price_now": 62.91,
+    "price_was": 99.68,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B09MZVK5W6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/899562277517854189279583766045.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-30T14:01:05.407841"
+  },
+  {
+    "id": "c020e6dcc6d90f11",
+    "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
+    "price_now": 34.32,
+    "price_was": 62.9,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/206515153817854192273264232686.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-30T14:00:57.927410"
+  },
+  {
     "id": "a6f4be9282620b07",
     "title": "Mesinha Didática Infantil Educativa Sensorial (2 Cores)",
     "price_now": 40.97,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-29T21:00:50.658632"
-  },
-  {
-    "id": "b3c36d3c0edffc2d",
-    "title": "Kit Higiene Infantil 5 Peças Bebê com Estojo, Pente, Escova, Tesoura e Cortador de Unha (2 Cores)",
-    "price_now": 30.9,
-    "price_was": 53.28,
-    "discount_pct": 42,
-    "url": "https://s.shopee.com.br/AUsneGk7U5?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/455044974217853561125628284367.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-29T20:20:43.721198"
-  },
-  {
-    "id": "dcffea96569abe9d",
-    "title": "Carrinho Travel System Magnific Trio Grey Denin Safety 1st",
-    "price_now": 1367.44,
-    "price_was": 2199.0,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0CRZ8FZBP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/450575481817853502267885223486.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-29T18:40:47.797373"
   }
 ]
