@@ -1015,6 +1015,14 @@
     "a8faa0ec7dca5e48": {
       "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso, 400ml",
       "posted_at": "2026-07-30T10:50:48.791476"
+    },
+    "403a6ed0a2c83813": {
+      "title": "Fralda Pampers Pants Premium Care M 78 unidades",
+      "posted_at": "2026-07-30T11:40:46.272168"
+    },
+    "a62ef7e36c92a5ce": {
+      "title": "Fralda-Calça MamyPoko Dia&Noite M 40 Unidades",
+      "posted_at": "2026-07-30T11:40:56.971323"
     }
   },
   "results": [
@@ -3113,6 +3121,22 @@
       "post_id": "261",
       "error": null,
       "at": "2026-07-30T10:50:48.790432"
+    },
+    {
+      "offer_id": "403a6ed0a2c83813",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "262",
+      "error": null,
+      "at": "2026-07-30T11:40:46.271542"
+    },
+    {
+      "offer_id": "a62ef7e36c92a5ce",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "263",
+      "error": null,
+      "at": "2026-07-30T11:40:56.970726"
     }
   ]
 }
