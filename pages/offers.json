@@ -1,5 +1,17 @@
 [
   {
+    "id": "7eebce1b987330fb",
+    "title": "WELEDA Gel Dental Infantil Weleda Amarelo 50 Ml",
+    "price_now": 32.34,
+    "price_was": 48.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B00AI5NZDG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/218950105617854319495352529885.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-30T17:30:46.592491"
+  },
+  {
     "id": "9ed0ae284c4be205",
     "title": "MamyPoko Fralda-Calça Premium Seca P-46 Uni",
     "price_now": 47.4,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-30T11:40:46.271854"
-  },
-  {
-    "id": "a8faa0ec7dca5e48",
-    "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso, 400ml",
-    "price_now": 17.84,
-    "price_was": 34.99,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B0BFJHYD5X?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/781890782517854080076011555333.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-30T10:50:48.790765"
   }
 ]

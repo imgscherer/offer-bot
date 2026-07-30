@@ -1059,6 +1059,10 @@
     "9ed0ae284c4be205": {
       "title": "MamyPoko Fralda-Calça Premium Seca P-46 Uni",
       "posted_at": "2026-07-30T17:20:42.409855"
+    },
+    "7eebce1b987330fb": {
+      "title": "WELEDA Gel Dental Infantil Weleda Amarelo 50 Ml",
+      "posted_at": "2026-07-30T17:30:46.592829"
     }
   },
   "results": [
@@ -3245,6 +3249,14 @@
       "post_id": "272",
       "error": null,
       "at": "2026-07-30T17:20:42.409139"
+    },
+    {
+      "offer_id": "7eebce1b987330fb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "273",
+      "error": null,
+      "at": "2026-07-30T17:30:46.592136"
     }
   ]
 }
