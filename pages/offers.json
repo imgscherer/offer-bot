@@ -1,5 +1,17 @@
 [
   {
+    "id": "1b698f5b0e0885ae",
+    "title": "Fralda-Calça MamyPoko Dia&Noite M 68 Unidades",
+    "price_now": 66.4,
+    "price_was": 107.9,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0CHZCB5SK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/350057494717854408931580556743.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-30T20:00:49.266845"
+  },
+  {
     "id": "e1ae379ed4bdc3a8",
     "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
     "price_now": 6.29,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-30T12:00:48.550133"
-  },
-  {
-    "id": "a62ef7e36c92a5ce",
-    "title": "Fralda-Calça MamyPoko Dia&Noite M 40 Unidades",
-    "price_now": 33.66,
-    "price_was": 62.9,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B0DK3P318Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/767479655317854107863937613139.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-30T11:40:56.971010"
   }
 ]

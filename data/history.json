@@ -1067,6 +1067,10 @@
     "e1ae379ed4bdc3a8": {
       "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
       "posted_at": "2026-07-30T18:10:53.546428"
+    },
+    "1b698f5b0e0885ae": {
+      "title": "Fralda-Calça MamyPoko Dia&Noite M 68 Unidades",
+      "posted_at": "2026-07-30T20:00:49.267203"
     }
   },
   "results": [
@@ -3269,6 +3273,14 @@
       "post_id": "274",
       "error": null,
       "at": "2026-07-30T18:10:53.545758"
+    },
+    {
+      "offer_id": "1b698f5b0e0885ae",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "275",
+      "error": null,
+      "at": "2026-07-30T20:00:49.266467"
     }
   ]
 }
