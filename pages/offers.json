@@ -1,5 +1,17 @@
 [
   {
+    "id": "d35aee0caf101418",
+    "title": "Fralda Personal Baby Premium Pants G 62 unidades",
+    "price_now": 60.72,
+    "price_was": 116.89,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/448963131117854215075265776497.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-30T14:30:49.501922"
+  },
+  {
     "id": "6ae216af1997df31",
     "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
     "price_now": 41.63,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-30T00:20:35.916649"
-  },
-  {
-    "id": "0e0a440ea285072f",
-    "title": "Colônia Lavanda Johnson's Baby Bebês 400ml",
-    "price_now": 44.17,
-    "price_was": 68.99,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B00LTDSMRU?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/916401660717853607871289173840.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-29T21:40:44.871771"
   }
 ]
