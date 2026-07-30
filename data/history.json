@@ -1063,6 +1063,10 @@
     "7eebce1b987330fb": {
       "title": "WELEDA Gel Dental Infantil Weleda Amarelo 50 Ml",
       "posted_at": "2026-07-30T17:30:46.592829"
+    },
+    "e1ae379ed4bdc3a8": {
+      "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
+      "posted_at": "2026-07-30T18:10:53.546428"
     }
   },
   "results": [
@@ -3257,6 +3261,14 @@
       "post_id": "273",
       "error": null,
       "at": "2026-07-30T17:30:46.592136"
+    },
+    {
+      "offer_id": "e1ae379ed4bdc3a8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "274",
+      "error": null,
+      "at": "2026-07-30T18:10:53.545758"
     }
   ]
 }

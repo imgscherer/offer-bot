@@ -1,5 +1,17 @@
 [
   {
+    "id": "e1ae379ed4bdc3a8",
+    "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
+    "price_now": 6.29,
+    "price_was": 22.29,
+    "discount_pct": 72,
+    "url": "https://www.amazon.com.br/dp/B07DHSFWBL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/647256313117854344133063889301.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-30T18:10:53.546119"
+  },
+  {
     "id": "7eebce1b987330fb",
     "title": "WELEDA Gel Dental Infantil Weleda Amarelo 50 Ml",
     "price_now": 32.34,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-30T11:40:56.971010"
-  },
-  {
-    "id": "403a6ed0a2c83813",
-    "title": "Fralda Pampers Pants Premium Care M 78 unidades",
-    "price_now": 79.89,
-    "price_was": 151.59,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B07X83FF8M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/448086274117854111492086174116.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-30T11:40:46.271854"
   }
 ]
