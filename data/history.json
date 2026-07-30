@@ -1027,6 +1027,10 @@
     "ef9a401fd48e2a77": {
       "title": "Fralda-Calça MamyPoko Premium Seca P 46 Unidades",
       "posted_at": "2026-07-30T12:00:48.550453"
+    },
+    "292d179ab8512990": {
+      "title": "Fralda Pampers Confort Sec P 50 unidades",
+      "posted_at": "2026-07-30T12:10:48.326022"
     }
   },
   "results": [
@@ -3149,6 +3153,14 @@
       "post_id": "264",
       "error": null,
       "at": "2026-07-30T12:00:48.549808"
+    },
+    {
+      "offer_id": "292d179ab8512990",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "265",
+      "error": null,
+      "at": "2026-07-30T12:10:48.325334"
     }
   ]
 }

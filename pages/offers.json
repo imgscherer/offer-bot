@@ -1,5 +1,17 @@
 [
   {
+    "id": "292d179ab8512990",
+    "title": "Fralda Pampers Confort Sec P 50 unidades",
+    "price_now": 45.89,
+    "price_was": 77.27,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/424627585517854132972588287409.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-30T12:10:48.325684"
+  },
+  {
     "id": "ef9a401fd48e2a77",
     "title": "Fralda-Calça MamyPoko Premium Seca P 46 Unidades",
     "price_now": 39.92,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-29T15:31:13.267156"
-  },
-  {
-    "id": "261837c77b58400e",
-    "title": "Tenis Infantil Preto (tam 23 ao 39)",
-    "price_now": 47.92,
-    "price_was": 99.83,
-    "discount_pct": 52,
-    "url": "https://s.shopee.com.br/3qLtNpMTPu?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/891222226317853384802164923428.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-29T15:31:02.081958"
   }
 ]
