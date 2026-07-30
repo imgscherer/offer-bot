@@ -1,5 +1,17 @@
 [
   {
+    "id": "1b55fde0c046c395",
+    "title": "Personal Fralda Baby Premium Pants XG, 50 Unidades",
+    "price_now": 81.81,
+    "price_was": 116.89,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0BGM5LZ5D?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/811245389617854441474344441161.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-30T20:50:43.768084"
+  },
+  {
     "id": "1b698f5b0e0885ae",
     "title": "Fralda-Calça MamyPoko Dia&Noite M 68 Unidades",
     "price_now": 66.4,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-30T12:10:48.325684"
-  },
-  {
-    "id": "ef9a401fd48e2a77",
-    "title": "Fralda-Calça MamyPoko Premium Seca P 46 Unidades",
-    "price_now": 39.92,
-    "price_was": 74.9,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B088PB2FF1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/343725742917854119222840548364.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-30T12:00:48.550133"
   }
 ]
