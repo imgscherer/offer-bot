@@ -1,5 +1,17 @@
 [
   {
+    "id": "ef9a401fd48e2a77",
+    "title": "Fralda-Calça MamyPoko Premium Seca P 46 Unidades",
+    "price_now": 39.92,
+    "price_was": 74.9,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B088PB2FF1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/343725742917854119222840548364.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-30T12:00:48.550133"
+  },
+  {
     "id": "a62ef7e36c92a5ce",
     "title": "Fralda-Calça MamyPoko Dia&Noite M 40 Unidades",
     "price_now": 33.66,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-29T15:31:02.081958"
-  },
-  {
-    "id": "e5db6e124844cb78",
-    "title": "Kit Educativo com Cubo e Bola Didáticos Bebês 1 Ano Estimula Desenvolvimento Infantil",
-    "price_now": 25.8,
-    "price_was": 66.9,
-    "discount_pct": 61,
-    "url": "https://www.amazon.com.br/dp/B0D2LTJBQ2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/731958600417853330681673285429.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-29T14:10:53.377305"
   }
 ]
