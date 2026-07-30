@@ -1,5 +1,17 @@
 [
   {
+    "id": "a8faa0ec7dca5e48",
+    "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso, 400ml",
+    "price_now": 17.84,
+    "price_was": 34.99,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B0BFJHYD5X?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/781890782517854080076011555333.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-30T10:50:48.790765"
+  },
+  {
     "id": "f2bef9c9100ba48a",
     "title": "Carrinho De Bebê Cosco Kids, Bross, Cinza Mescla",
     "price_now": 388.87,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-29T13:21:09.196260"
-  },
-  {
-    "id": "1d2c1dd47177ee83",
-    "title": "Fralda Babysec Ultrasec XG 56 unidades",
-    "price_now": 55.99,
-    "price_was": 87.49,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/8KoIYYUit6?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/167078850617853283883414307377.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-29T12:41:37.315087"
   }
 ]

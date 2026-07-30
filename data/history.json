@@ -1011,6 +1011,10 @@
     "f2bef9c9100ba48a": {
       "title": "Carrinho De Bebê Cosco Kids, Bross, Cinza Mescla",
       "posted_at": "2026-07-30T00:20:35.916975"
+    },
+    "a8faa0ec7dca5e48": {
+      "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso, 400ml",
+      "posted_at": "2026-07-30T10:50:48.791476"
     }
   },
   "results": [
@@ -3101,6 +3105,14 @@
       "post_id": "260",
       "error": null,
       "at": "2026-07-30T00:20:35.916327"
+    },
+    {
+      "offer_id": "a8faa0ec7dca5e48",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "261",
+      "error": null,
+      "at": "2026-07-30T10:50:48.790432"
     }
   ]
 }
