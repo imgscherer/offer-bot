@@ -1115,6 +1115,10 @@
     "602f929b8d87a351": {
       "title": "Carrinho Zap Metal Burigotto",
       "posted_at": "2026-07-31T12:30:49.391329"
+    },
+    "07a05ead118f3ecc": {
+      "title": "Aromaterapia Soninho Bebê Natural Blend Óleos Essenciais Aromathérapie",
+      "posted_at": "2026-07-31T13:50:52.425607"
     }
   },
   "results": [
@@ -3413,6 +3417,14 @@
       "post_id": "286",
       "error": null,
       "at": "2026-07-31T12:30:49.390595"
+    },
+    {
+      "offer_id": "07a05ead118f3ecc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "287",
+      "error": null,
+      "at": "2026-07-31T13:50:52.424912"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "07a05ead118f3ecc",
+    "title": "Aromaterapia Soninho Bebê Natural Blend Óleos Essenciais Aromathérapie",
+    "price_now": 22.44,
+    "price_was": 39.91,
+    "discount_pct": 44,
+    "url": "https://s.shopee.com.br/3qLwT0umTU?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/645329783017855055116703600323.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-31T13:50:52.425301"
+  },
+  {
     "id": "602f929b8d87a351",
     "title": "Carrinho Zap Metal Burigotto",
     "price_now": 549.87,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-30T20:50:43.768084"
-  },
-  {
-    "id": "1b698f5b0e0885ae",
-    "title": "Fralda-Calça MamyPoko Dia&Noite M 68 Unidades",
-    "price_now": 66.4,
-    "price_was": 107.9,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0CHZCB5SK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/350057494717854408931580556743.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-30T20:00:49.266845"
   }
 ]
