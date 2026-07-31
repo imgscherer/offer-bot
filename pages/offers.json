@@ -1,5 +1,17 @@
 [
   {
+    "id": "349b73e808b10ddd",
+    "title": "Mamypoko Fralda-calça Dia&noite M 68 Unidades",
+    "price_now": 69.9,
+    "price_was": 107.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0CHZCB5SK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/955177553517854965076827266703.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-31T11:30:50.647328"
+  },
+  {
     "id": "cf3a67ed22b30179",
     "title": "Fralda-Calça MamyPoko Dia&Noite M 68 Unidades",
     "price_now": 55.92,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-30T14:30:49.501922"
-  },
-  {
-    "id": "6ae216af1997df31",
-    "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
-    "price_now": 41.63,
-    "price_was": 69.42,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/546113156417854202485308880190.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-30T14:10:52.720669"
   }
 ]
