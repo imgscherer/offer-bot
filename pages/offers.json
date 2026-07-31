@@ -1,5 +1,17 @@
 [
   {
+    "id": "0bbd1e48aeef2860",
+    "title": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
+    "price_now": 73.17,
+    "price_was": 118.35,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/230398517817854978899274026717.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-31T11:50:45.698772"
+  },
+  {
     "id": "349b73e808b10ddd",
     "title": "Mamypoko Fralda-calça Dia&noite M 68 Unidades",
     "price_now": 69.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-30T17:20:42.409501"
-  },
-  {
-    "id": "d35aee0caf101418",
-    "title": "Fralda Personal Baby Premium Pants G 62 unidades",
-    "price_now": 60.72,
-    "price_was": 116.89,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/448963131117854215075265776497.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-30T14:30:49.501922"
   }
 ]

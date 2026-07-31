@@ -1099,6 +1099,10 @@
     "349b73e808b10ddd": {
       "title": "Mamypoko Fralda-calça Dia&noite M 68 Unidades",
       "posted_at": "2026-07-31T11:30:50.647652"
+    },
+    "0bbd1e48aeef2860": {
+      "title": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
+      "posted_at": "2026-07-31T11:50:45.699122"
     }
   },
   "results": [
@@ -3365,6 +3369,14 @@
       "post_id": "282",
       "error": null,
       "at": "2026-07-31T11:30:50.646981"
+    },
+    {
+      "offer_id": "0bbd1e48aeef2860",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "283",
+      "error": null,
+      "at": "2026-07-31T11:50:45.698380"
     }
   ]
 }
