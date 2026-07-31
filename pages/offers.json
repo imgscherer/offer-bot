@@ -1,5 +1,29 @@
 [
   {
+    "id": "cf3a67ed22b30179",
+    "title": "Fralda-Calça MamyPoko Dia&Noite M 68 Unidades",
+    "price_now": 55.92,
+    "price_was": 107.9,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0CHZCB5SK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/912039155317854964521874236451.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-31T11:21:03.174484"
+  },
+  {
+    "id": "4676fda4b83b8aeb",
+    "title": "Kit 2 Jaquetas de Moletom Infantil com Zíper e Capuz (Tam. 1 ao 16)",
+    "price_now": 37.9,
+    "price_was": 119.75,
+    "discount_pct": 68,
+    "url": "https://s.shopee.com.br/1Vy1WMhPqG?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/579371363317854964575593600164.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-31T11:20:53.379875"
+  },
+  {
     "id": "ce87ac2b7a1517b5",
     "title": "Fralda Personal Baby Premium Protection M 34 unidades",
     "price_now": 28.97,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-30T14:10:52.720669"
-  },
-  {
-    "id": "afda0faa8611ebd1",
-    "title": "Personal Fralda Baby Premium Protection Extra Grande, 50 Unidades",
-    "price_now": 62.91,
-    "price_was": 99.68,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B09MZVK5W6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/899562277517854189279583766045.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-30T14:01:05.407841"
-  },
-  {
-    "id": "c020e6dcc6d90f11",
-    "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
-    "price_now": 34.32,
-    "price_was": 62.9,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/206515153817854192273264232686.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-30T14:00:57.927410"
   }
 ]

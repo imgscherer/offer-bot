@@ -1087,6 +1087,14 @@
     "ce87ac2b7a1517b5": {
       "title": "Fralda Personal Baby Premium Protection M 34 unidades",
       "posted_at": "2026-07-31T10:50:54.460456"
+    },
+    "4676fda4b83b8aeb": {
+      "title": "Kit 2 Jaquetas de Moletom Infantil com Zíper e Capuz (Tam. 1 ao 16)",
+      "posted_at": "2026-07-31T11:20:53.380185"
+    },
+    "cf3a67ed22b30179": {
+      "title": "Fralda-Calça MamyPoko Dia&Noite M 68 Unidades",
+      "posted_at": "2026-07-31T11:21:03.174839"
     }
   },
   "results": [
@@ -3329,6 +3337,22 @@
       "post_id": "279",
       "error": null,
       "at": "2026-07-31T10:50:54.459776"
+    },
+    {
+      "offer_id": "4676fda4b83b8aeb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "280",
+      "error": null,
+      "at": "2026-07-31T11:20:53.379512"
+    },
+    {
+      "offer_id": "cf3a67ed22b30179",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "281",
+      "error": null,
+      "at": "2026-07-31T11:21:03.174169"
     }
   ]
 }
