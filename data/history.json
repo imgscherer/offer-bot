@@ -1079,6 +1079,14 @@
     "1ee66e71d7f79f7f": {
       "title": "Tenis Infantil Masculino Menino - Homem Aranha",
       "posted_at": "2026-07-31T10:20:53.773895"
+    },
+    "52979dbc90557909": {
+      "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
+      "posted_at": "2026-07-31T10:50:46.917352"
+    },
+    "ce87ac2b7a1517b5": {
+      "title": "Fralda Personal Baby Premium Protection M 34 unidades",
+      "posted_at": "2026-07-31T10:50:54.460456"
     }
   },
   "results": [
@@ -3305,6 +3313,22 @@
       "post_id": "277",
       "error": null,
       "at": "2026-07-31T10:20:53.773192"
+    },
+    {
+      "offer_id": "52979dbc90557909",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "278",
+      "error": null,
+      "at": "2026-07-31T10:50:46.916651"
+    },
+    {
+      "offer_id": "ce87ac2b7a1517b5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "279",
+      "error": null,
+      "at": "2026-07-31T10:50:54.459776"
     }
   ]
 }
