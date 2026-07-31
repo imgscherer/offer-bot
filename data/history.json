@@ -1123,6 +1123,10 @@
     "2ce151d8050b77c8": {
       "title": "Sandália Rasteira Infantil Tira Trançada Colorida (Tam. 20 ao 36)",
       "posted_at": "2026-07-31T16:20:42.916393"
+    },
+    "bebeb563092c5b44": {
+      "title": "Meia-Calça Ballet Infantil com Abertura Fio 40 Selene (Tam. P ao EG, 2 Cores)",
+      "posted_at": "2026-07-31T18:10:44.871466"
     }
   },
   "results": [
@@ -3437,6 +3441,14 @@
       "post_id": "288",
       "error": null,
       "at": "2026-07-31T16:20:42.915678"
+    },
+    {
+      "offer_id": "bebeb563092c5b44",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "289",
+      "error": null,
+      "at": "2026-07-31T18:10:44.870832"
     }
   ]
 }
