@@ -1075,6 +1075,10 @@
     "1b55fde0c046c395": {
       "title": "Personal Fralda Baby Premium Pants XG, 50 Unidades",
       "posted_at": "2026-07-30T20:50:43.768452"
+    },
+    "1ee66e71d7f79f7f": {
+      "title": "Tenis Infantil Masculino Menino - Homem Aranha",
+      "posted_at": "2026-07-31T10:20:53.773895"
     }
   },
   "results": [
@@ -3293,6 +3297,14 @@
       "post_id": "276",
       "error": null,
       "at": "2026-07-30T20:50:43.767726"
+    },
+    {
+      "offer_id": "1ee66e71d7f79f7f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "277",
+      "error": null,
+      "at": "2026-07-31T10:20:53.773192"
     }
   ]
 }

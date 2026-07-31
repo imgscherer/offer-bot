@@ -1,5 +1,17 @@
 [
   {
+    "id": "1ee66e71d7f79f7f",
+    "title": "Tenis Infantil Masculino Menino - Homem Aranha",
+    "price_now": 69.9,
+    "price_was": 199.71,
+    "discount_pct": 65,
+    "url": "https://s.shopee.com.br/40fMQtUAY3?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/657546096117854929704344027320.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-31T10:20:53.773529"
+  },
+  {
     "id": "1b55fde0c046c395",
     "title": "Personal Fralda Baby Premium Pants XG, 50 Unidades",
     "price_now": 81.81,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-30T12:30:46.581840"
-  },
-  {
-    "id": "292d179ab8512990",
-    "title": "Fralda Pampers Confort Sec P 50 unidades",
-    "price_now": 45.89,
-    "price_was": 77.27,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/424627585517854132972588287409.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-30T12:10:48.325684"
   }
 ]
