@@ -1,5 +1,17 @@
 [
   {
+    "id": "59187e60dc20df81",
+    "title": "Carrinho de Bebê Cosco Kids, Bross",
+    "price_now": 349.98,
+    "price_was": 659.0,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B0F38P3NMF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/561409325017854993909189011913.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-07-31T12:20:39.392995"
+  },
+  {
     "id": "d2fef6142812f3bd",
     "title": "Fralda Personal Baby Premium XG 50 unidades",
     "price_now": 55.92,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-30T18:10:53.546119"
-  },
-  {
-    "id": "7eebce1b987330fb",
-    "title": "WELEDA Gel Dental Infantil Weleda Amarelo 50 Ml",
-    "price_now": 32.34,
-    "price_was": 48.9,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B00AI5NZDG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/218950105617854319495352529885.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-30T17:30:46.592491"
   }
 ]
