@@ -1119,6 +1119,10 @@
     "07a05ead118f3ecc": {
       "title": "Aromaterapia Soninho Bebê Natural Blend Óleos Essenciais Aromathérapie",
       "posted_at": "2026-07-31T13:50:52.425607"
+    },
+    "2ce151d8050b77c8": {
+      "title": "Sandália Rasteira Infantil Tira Trançada Colorida (Tam. 20 ao 36)",
+      "posted_at": "2026-07-31T16:20:42.916393"
     }
   },
   "results": [
@@ -3425,6 +3429,14 @@
       "post_id": "287",
       "error": null,
       "at": "2026-07-31T13:50:52.424912"
+    },
+    {
+      "offer_id": "2ce151d8050b77c8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "288",
+      "error": null,
+      "at": "2026-07-31T16:20:42.915678"
     }
   ]
 }
