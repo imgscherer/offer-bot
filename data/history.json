@@ -1111,6 +1111,10 @@
     "59187e60dc20df81": {
       "title": "Carrinho de Bebê Cosco Kids, Bross",
       "posted_at": "2026-07-31T12:20:39.393310"
+    },
+    "602f929b8d87a351": {
+      "title": "Carrinho Zap Metal Burigotto",
+      "posted_at": "2026-07-31T12:30:49.391329"
     }
   },
   "results": [
@@ -3401,6 +3405,14 @@
       "post_id": "285",
       "error": null,
       "at": "2026-07-31T12:20:39.392619"
+    },
+    {
+      "offer_id": "602f929b8d87a351",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "286",
+      "error": null,
+      "at": "2026-07-31T12:30:49.390595"
     }
   ]
 }
