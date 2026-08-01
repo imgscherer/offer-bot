@@ -1,5 +1,17 @@
 [
   {
+    "id": "2211ca72a590dde0",
+    "title": "Fralda Pampers Confort Sec P 50 unidades",
+    "price_now": 45.89,
+    "price_was": 77.27,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/745219121517855931674312907447.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-01T14:20:51.054587"
+  },
+  {
     "id": "a08a56516882c780",
     "title": "Fralda Huggies Máxima Proteção M 196 unidades",
     "price_now": 154.67,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-31T11:20:53.379875"
-  },
-  {
-    "id": "ce87ac2b7a1517b5",
-    "title": "Fralda Personal Baby Premium Protection M 34 unidades",
-    "price_now": 28.97,
-    "price_was": 46.38,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/705814089317854945287227629013.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-31T10:50:54.460126"
   }
 ]
