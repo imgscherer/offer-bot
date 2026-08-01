@@ -1,5 +1,17 @@
 [
   {
+    "id": "a08a56516882c780",
+    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+    "price_now": 154.67,
+    "price_was": 229.9,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/344544494017855922671798012898.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-01T14:00:59.869714"
+  },
+  {
     "id": "bebeb563092c5b44",
     "title": "Meia-Calça Ballet Infantil com Abertura Fio 40 Selene (Tam. P ao EG, 2 Cores)",
     "price_now": 19.96,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-31T10:50:54.460126"
-  },
-  {
-    "id": "52979dbc90557909",
-    "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
-    "price_now": 28.97,
-    "price_was": 46.38,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/794397135317854945303412580857.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-31T10:50:46.917037"
   }
 ]
