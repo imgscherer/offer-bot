@@ -1,5 +1,17 @@
 [
   {
+    "id": "65933c4cf02fa0a5",
+    "title": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
+    "price_now": 29.9,
+    "price_was": 43.59,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/354244358417856726145850606863.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-02T12:30:52.342110"
+  },
+  {
     "id": "2211ca72a590dde0",
     "title": "Fralda Pampers Confort Sec P 50 unidades",
     "price_now": 45.89,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-31T11:21:03.174484"
-  },
-  {
-    "id": "4676fda4b83b8aeb",
-    "title": "Kit 2 Jaquetas de Moletom Infantil com Zíper e Capuz (Tam. 1 ao 16)",
-    "price_now": 37.9,
-    "price_was": 119.75,
-    "discount_pct": 68,
-    "url": "https://s.shopee.com.br/1Vy1WMhPqG?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/579371363317854964575593600164.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-31T11:20:53.379875"
   }
 ]

@@ -1135,6 +1135,10 @@
     "2211ca72a590dde0": {
       "title": "Fralda Pampers Confort Sec P 50 unidades",
       "posted_at": "2026-08-01T14:20:51.054958"
+    },
+    "65933c4cf02fa0a5": {
+      "title": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
+      "posted_at": "2026-08-02T12:30:52.342449"
     }
   },
   "results": [
@@ -3473,6 +3477,14 @@
       "post_id": "291",
       "error": null,
       "at": "2026-08-01T14:20:51.054168"
+    },
+    {
+      "offer_id": "65933c4cf02fa0a5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "292",
+      "error": null,
+      "at": "2026-08-02T12:30:52.341764"
     }
   ]
 }
