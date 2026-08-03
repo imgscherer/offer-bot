@@ -1287,6 +1287,18 @@
     "7b2b2598246e3ae2": {
       "title": "Fralda Cremer Mega XG 36 Unidades",
       "posted_at": "2026-08-03T18:30:57.428982"
+    },
+    "2effada790fcffad": {
+      "title": "Fralda Personal Baby Protect&Sec G 34 unidades",
+      "posted_at": "2026-08-03T19:31:00.349484"
+    },
+    "c650a7b48e6938bf": {
+      "title": "Fralda Personal Baby Protect&Sec M 40 unidades",
+      "posted_at": "2026-08-03T19:31:11.160014"
+    },
+    "69415892886bacce": {
+      "title": "Fralda Personal Baby Protect&Sec XG 28 unidades",
+      "posted_at": "2026-08-03T19:31:22.658559"
     }
   },
   "results": [
@@ -3929,6 +3941,30 @@
       "post_id": "329",
       "error": null,
       "at": "2026-08-03T18:30:57.428273"
+    },
+    {
+      "offer_id": "2effada790fcffad",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "330",
+      "error": null,
+      "at": "2026-08-03T19:31:00.348859"
+    },
+    {
+      "offer_id": "c650a7b48e6938bf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "331",
+      "error": null,
+      "at": "2026-08-03T19:31:11.159379"
+    },
+    {
+      "offer_id": "69415892886bacce",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "332",
+      "error": null,
+      "at": "2026-08-03T19:31:22.657965"
     }
   ]
 }
