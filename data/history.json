@@ -1219,6 +1219,10 @@
     "bc14d041717098d9": {
       "title": "Fralda Huggies Supreme Care Roupinha M 216 unidades (3 pacotes de 72 unidades cada)",
       "posted_at": "2026-08-03T11:50:57.289172"
+    },
+    "98543269896af3b2": {
+      "title": "Fralda Pampers Premium Care XG 120 unidades",
+      "posted_at": "2026-08-03T12:00:56.338695"
     }
   },
   "results": [
@@ -3725,6 +3729,14 @@
       "post_id": "312",
       "error": null,
       "at": "2026-08-03T11:50:57.288466"
+    },
+    {
+      "offer_id": "98543269896af3b2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "313",
+      "error": null,
+      "at": "2026-08-03T12:00:56.338039"
     }
   ]
 }

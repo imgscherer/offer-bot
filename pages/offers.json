@@ -1,5 +1,17 @@
 [
   {
+    "id": "98543269896af3b2",
+    "title": "Fralda Pampers Premium Care XG 120 unidades",
+    "price_now": 162.33,
+    "price_was": 242.27,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0DDV1C223?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/492477717717857580494282154200.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T12:00:56.338377"
+  },
+  {
     "id": "bc14d041717098d9",
     "title": "Fralda Huggies Supreme Care Roupinha M 216 unidades (3 pacotes de 72 unidades cada)",
     "price_now": 159.92,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-03T11:31:01.215388"
-  },
-  {
-    "id": "a51a39abdc47c2a2",
-    "title": "Granado Colônia Bebê, Erva Doce, 100ml",
-    "price_now": 39.0,
-    "price_was": 99.68,
-    "discount_pct": 61,
-    "url": "https://www.amazon.com.br/dp/B07ZL1XYLK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/803806509117857560827212853196.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T11:30:49.155631"
   }
 ]
