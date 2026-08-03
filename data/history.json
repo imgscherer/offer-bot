@@ -1279,6 +1279,10 @@
     "acdbcdc07bab4bb2": {
       "title": "Fralda descartavel huggies maxima protecao tamanho g 160 unidades",
       "posted_at": "2026-08-03T15:51:07.712236"
+    },
+    "d8927d7686d8efd9": {
+      "title": "Fralda Mili Love e Care RN 18 unidades",
+      "posted_at": "2026-08-03T18:20:39.889755"
     }
   },
   "results": [
@@ -3905,6 +3909,14 @@
       "post_id": "327",
       "error": null,
       "at": "2026-08-03T15:51:07.711635"
+    },
+    {
+      "offer_id": "d8927d7686d8efd9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "328",
+      "error": null,
+      "at": "2026-08-03T18:20:39.888998"
     }
   ]
 }
