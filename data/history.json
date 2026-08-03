@@ -1191,6 +1191,26 @@
     "ffb0ba423e709fef": {
       "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
       "posted_at": "2026-08-03T11:31:36.036582"
+    },
+    "6ddbb7110b92b6da": {
+      "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+      "posted_at": "2026-08-03T11:40:48.818511"
+    },
+    "c334e22aa1c757dc": {
+      "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+      "posted_at": "2026-08-03T11:41:01.162476"
+    },
+    "5d36269d14127d94": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
+      "posted_at": "2026-08-03T11:41:09.109836"
+    },
+    "37ba926208d6b130": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe M 86 unidades",
+      "posted_at": "2026-08-03T11:41:21.948606"
+    },
+    "e0c3f2267ec145c8": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
+      "posted_at": "2026-08-03T11:41:30.160155"
     }
   },
   "results": [
@@ -3641,6 +3661,46 @@
       "post_id": "305",
       "error": null,
       "at": "2026-08-03T11:31:36.035905"
+    },
+    {
+      "offer_id": "6ddbb7110b92b6da",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "306",
+      "error": null,
+      "at": "2026-08-03T11:40:48.817860"
+    },
+    {
+      "offer_id": "c334e22aa1c757dc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "307",
+      "error": null,
+      "at": "2026-08-03T11:41:01.161818"
+    },
+    {
+      "offer_id": "5d36269d14127d94",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "308",
+      "error": null,
+      "at": "2026-08-03T11:41:09.109092"
+    },
+    {
+      "offer_id": "37ba926208d6b130",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "309",
+      "error": null,
+      "at": "2026-08-03T11:41:21.947995"
+    },
+    {
+      "offer_id": "e0c3f2267ec145c8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "310",
+      "error": null,
+      "at": "2026-08-03T11:41:30.159400"
     }
   ]
 }
