@@ -1,5 +1,29 @@
 [
   {
+    "id": "bc14d041717098d9",
+    "title": "Fralda Huggies Supreme Care Roupinha M 216 unidades (3 pacotes de 72 unidades cada)",
+    "price_now": 159.92,
+    "price_was": 289.0,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/456093921617857576343150237592.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T11:50:57.288843"
+  },
+  {
+    "id": "dfce754140bce147",
+    "title": "Fralda Personal Baby Premium Pants G 4 pacotes 168 unidades",
+    "price_now": 161.96,
+    "price_was": 297.71,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B0DF9PBG3B?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/262798590517857570338546325050.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T11:50:45.775545"
+  },
+  {
     "id": "e0c3f2267ec145c8",
     "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
     "price_now": 47.95,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-03T11:30:49.155631"
-  },
-  {
-    "id": "60a0044dc4da4341",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
-    "price_now": 53.59,
-    "price_was": 77.37,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/583312637217857552867159744957.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T11:21:16.388284"
-  },
-  {
-    "id": "440a062ff7dc3017",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
-    "price_now": 53.59,
-    "price_was": 77.37,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/885974222317857552895695986878.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T11:21:06.197198"
   }
 ]

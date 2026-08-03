@@ -1211,6 +1211,14 @@
     "e0c3f2267ec145c8": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
       "posted_at": "2026-08-03T11:41:30.160155"
+    },
+    "dfce754140bce147": {
+      "title": "Fralda Personal Baby Premium Pants G 4 pacotes 168 unidades",
+      "posted_at": "2026-08-03T11:50:45.775921"
+    },
+    "bc14d041717098d9": {
+      "title": "Fralda Huggies Supreme Care Roupinha M 216 unidades (3 pacotes de 72 unidades cada)",
+      "posted_at": "2026-08-03T11:50:57.289172"
     }
   },
   "results": [
@@ -3701,6 +3709,22 @@
       "post_id": "310",
       "error": null,
       "at": "2026-08-03T11:41:30.159400"
+    },
+    {
+      "offer_id": "dfce754140bce147",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "311",
+      "error": null,
+      "at": "2026-08-03T11:50:45.775190"
+    },
+    {
+      "offer_id": "bc14d041717098d9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "312",
+      "error": null,
+      "at": "2026-08-03T11:50:57.288466"
     }
   ]
 }
