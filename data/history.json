@@ -1139,6 +1139,26 @@
     "65933c4cf02fa0a5": {
       "title": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
       "posted_at": "2026-08-02T12:30:52.342449"
+    },
+    "3a61ef774e74b7a7": {
+      "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+      "posted_at": "2026-08-03T10:50:43.849006"
+    },
+    "b6787f8804aa4a34": {
+      "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+      "posted_at": "2026-08-03T10:50:53.531668"
+    },
+    "ad56c4117f6bd085": {
+      "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+      "posted_at": "2026-08-03T10:51:03.990554"
+    },
+    "763800a06c41b4a0": {
+      "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+      "posted_at": "2026-08-03T10:51:14.299312"
+    },
+    "b70756727912577d": {
+      "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+      "posted_at": "2026-08-03T10:51:24.252455"
     }
   },
   "results": [
@@ -3485,6 +3505,46 @@
       "post_id": "292",
       "error": null,
       "at": "2026-08-02T12:30:52.341764"
+    },
+    {
+      "offer_id": "3a61ef774e74b7a7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "293",
+      "error": null,
+      "at": "2026-08-03T10:50:43.848314"
+    },
+    {
+      "offer_id": "b6787f8804aa4a34",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "294",
+      "error": null,
+      "at": "2026-08-03T10:50:53.531002"
+    },
+    {
+      "offer_id": "ad56c4117f6bd085",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "295",
+      "error": null,
+      "at": "2026-08-03T10:51:03.989902"
+    },
+    {
+      "offer_id": "763800a06c41b4a0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "296",
+      "error": null,
+      "at": "2026-08-03T10:51:14.298685"
+    },
+    {
+      "offer_id": "b70756727912577d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "297",
+      "error": null,
+      "at": "2026-08-03T10:51:24.250861"
     }
   ]
 }

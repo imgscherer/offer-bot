@@ -1,5 +1,65 @@
 [
   {
+    "id": "b70756727912577d",
+    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+    "price_now": 151.9,
+    "price_was": 229.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/130513630517857536169623321955.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T10:51:24.251205"
+  },
+  {
+    "id": "763800a06c41b4a0",
+    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+    "price_now": 151.9,
+    "price_was": 229.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/440968754717857536138153337599.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T10:51:14.298983"
+  },
+  {
+    "id": "ad56c4117f6bd085",
+    "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+    "price_now": 151.9,
+    "price_was": 229.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/132092619417857536184753207815.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T10:51:03.990199"
+  },
+  {
+    "id": "b6787f8804aa4a34",
+    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+    "price_now": 151.9,
+    "price_was": 229.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/800059473817857536234681949469.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T10:50:53.531305"
+  },
+  {
+    "id": "3a61ef774e74b7a7",
+    "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+    "price_now": 151.9,
+    "price_was": 246.01,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/320766112117857536117509115701.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T10:50:43.848680"
+  },
+  {
     "id": "65933c4cf02fa0a5",
     "title": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
     "price_now": 29.9,
@@ -82,65 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-31T12:30:49.391000"
-  },
-  {
-    "id": "59187e60dc20df81",
-    "title": "Carrinho de Bebê Cosco Kids, Bross",
-    "price_now": 349.98,
-    "price_was": 659.0,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B0F38P3NMF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/561409325017854993909189011913.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-31T12:20:39.392995"
-  },
-  {
-    "id": "d2fef6142812f3bd",
-    "title": "Fralda Personal Baby Premium XG 50 unidades",
-    "price_now": 55.92,
-    "price_was": 99.68,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B09MZVK5W6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/523587555717854980667094327235.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-31T12:00:50.145877"
-  },
-  {
-    "id": "0bbd1e48aeef2860",
-    "title": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
-    "price_now": 73.17,
-    "price_was": 118.35,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/230398517817854978899274026717.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-31T11:50:45.698772"
-  },
-  {
-    "id": "349b73e808b10ddd",
-    "title": "Mamypoko Fralda-calça Dia&noite M 68 Unidades",
-    "price_now": 69.9,
-    "price_was": 107.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0CHZCB5SK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/955177553517854965076827266703.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-31T11:30:50.647328"
-  },
-  {
-    "id": "cf3a67ed22b30179",
-    "title": "Fralda-Calça MamyPoko Dia&Noite M 68 Unidades",
-    "price_now": 55.92,
-    "price_was": 107.9,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0CHZCB5SK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/912039155317854964521874236451.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-31T11:21:03.174484"
   }
 ]
