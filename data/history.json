@@ -1223,6 +1223,18 @@
     "98543269896af3b2": {
       "title": "Fralda Pampers Premium Care XG 120 unidades",
       "posted_at": "2026-08-03T12:00:56.338695"
+    },
+    "05cf31efba6be07c": {
+      "title": "Fralda Personal Baby Premium Protection M 34 unidades",
+      "posted_at": "2026-08-03T12:30:59.681146"
+    },
+    "aeb61d252ea7027c": {
+      "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
+      "posted_at": "2026-08-03T12:31:07.447481"
+    },
+    "30b5f591cc104ae8": {
+      "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
+      "posted_at": "2026-08-03T12:31:16.518465"
     }
   },
   "results": [
@@ -3737,6 +3749,30 @@
       "post_id": "313",
       "error": null,
       "at": "2026-08-03T12:00:56.338039"
+    },
+    {
+      "offer_id": "05cf31efba6be07c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "314",
+      "error": null,
+      "at": "2026-08-03T12:30:59.680342"
+    },
+    {
+      "offer_id": "aeb61d252ea7027c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "315",
+      "error": null,
+      "at": "2026-08-03T12:31:07.446715"
+    },
+    {
+      "offer_id": "30b5f591cc104ae8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "316",
+      "error": null,
+      "at": "2026-08-03T12:31:16.517783"
     }
   ]
 }

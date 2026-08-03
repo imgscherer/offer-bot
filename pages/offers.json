@@ -1,5 +1,41 @@
 [
   {
+    "id": "30b5f591cc104ae8",
+    "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
+    "price_now": 26.98,
+    "price_was": 46.38,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/483809409817857599814519688286.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T12:31:16.518104"
+  },
+  {
+    "id": "aeb61d252ea7027c",
+    "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
+    "price_now": 26.98,
+    "price_was": 46.38,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/876999613317857600079340531933.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T12:31:07.447089"
+  },
+  {
+    "id": "05cf31efba6be07c",
+    "title": "Fralda Personal Baby Premium Protection M 34 unidades",
+    "price_now": 26.98,
+    "price_was": 46.38,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/712650933617857600112729699847.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T12:30:59.680765"
+  },
+  {
     "id": "98543269896af3b2",
     "title": "Fralda Pampers Premium Care XG 120 unidades",
     "price_now": 162.33,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-03T11:31:36.036209"
-  },
-  {
-    "id": "d0e84a395607b06a",
-    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
-    "price_now": 135.92,
-    "price_was": 229.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/825895948317857559592849779656.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T11:31:24.452940"
-  },
-  {
-    "id": "2445edf9751bc80b",
-    "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
-    "price_now": 135.92,
-    "price_was": 246.01,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/529647169317857559469918272704.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T11:31:13.650736"
-  },
-  {
-    "id": "0311c35dc65db618",
-    "title": "Kit Sandália Infantil com Bolsa de Coração (Tam. 23 ao 32, Diversas cores)",
-    "price_now": 39.9,
-    "price_was": 90.68,
-    "discount_pct": 56,
-    "url": "https://s.shopee.com.br/5LAot6hsuk?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/934340636017857565547774005573.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T11:31:01.215388"
   }
 ]
