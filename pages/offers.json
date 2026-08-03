@@ -1,5 +1,41 @@
 [
   {
+    "id": "60a0044dc4da4341",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
+    "price_now": 53.59,
+    "price_was": 77.37,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/583312637217857552867159744957.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T11:21:16.388284"
+  },
+  {
+    "id": "440a062ff7dc3017",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
+    "price_now": 53.59,
+    "price_was": 77.37,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/885974222317857552895695986878.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T11:21:06.197198"
+  },
+  {
+    "id": "b1e99ea6ddfaac79",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe M 86 unidades",
+    "price_now": 53.59,
+    "price_was": 77.37,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B097RYMQZ5?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/982128364017857552963890922199.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T11:20:55.681737"
+  },
+  {
     "id": "b70756727912577d",
     "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
     "price_now": 151.9,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-07-31T18:10:44.871151"
-  },
-  {
-    "id": "2ce151d8050b77c8",
-    "title": "Sandália Rasteira Infantil Tira Trançada Colorida (Tam. 20 ao 36)",
-    "price_now": 30.32,
-    "price_was": 84.82,
-    "discount_pct": 64,
-    "url": "https://s.shopee.com.br/gOuooj1jN?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/336471842817855121721464179894.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-31T16:20:42.916032"
-  },
-  {
-    "id": "07a05ead118f3ecc",
-    "title": "Aromaterapia Soninho Bebê Natural Blend Óleos Essenciais Aromathérapie",
-    "price_now": 22.44,
-    "price_was": 39.91,
-    "discount_pct": 44,
-    "url": "https://s.shopee.com.br/3qLwT0umTU?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/645329783017855055116703600323.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-31T13:50:52.425301"
-  },
-  {
-    "id": "602f929b8d87a351",
-    "title": "Carrinho Zap Metal Burigotto",
-    "price_now": 549.87,
-    "price_was": 929.0,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0C5NQFRGB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/732304193617854999284440954308.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-31T12:30:49.391000"
   }
 ]
