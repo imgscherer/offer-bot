@@ -1,5 +1,17 @@
 [
   {
+    "id": "8c023f994078cb47",
+    "title": "Creme para Assadura Granado Bebê Dermocalmante 50g",
+    "price_now": 20.79,
+    "price_was": 40.88,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07NPYD9KF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/116352313317857633922252718624.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T13:30:46.458528"
+  },
+  {
     "id": "1f0e1c0732c82bf9",
     "title": "Fralda Personal Baby Total Protect Pants XG 40 unidades",
     "price_now": 43.77,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-03T11:41:30.159793"
-  },
-  {
-    "id": "37ba926208d6b130",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe M 86 unidades",
-    "price_now": 47.95,
-    "price_was": 77.37,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B097RYMQZ5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/541487285117857565497055091578.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T11:41:21.948292"
   }
 ]

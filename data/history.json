@@ -1251,6 +1251,10 @@
     "1f0e1c0732c82bf9": {
       "title": "Fralda Personal Baby Total Protect Pants XG 40 unidades",
       "posted_at": "2026-08-03T13:21:05.539830"
+    },
+    "8c023f994078cb47": {
+      "title": "Creme para Assadura Granado Bebê Dermocalmante 50g",
+      "posted_at": "2026-08-03T13:30:46.458907"
     }
   },
   "results": [
@@ -3821,6 +3825,14 @@
       "post_id": "320",
       "error": null,
       "at": "2026-08-03T13:21:05.539126"
+    },
+    {
+      "offer_id": "8c023f994078cb47",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "321",
+      "error": null,
+      "at": "2026-08-03T13:30:46.458154"
     }
   ]
 }
