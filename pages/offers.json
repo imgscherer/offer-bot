@@ -1,5 +1,65 @@
 [
   {
+    "id": "ffb0ba423e709fef",
+    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+    "price_now": 135.92,
+    "price_was": 229.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/179561292517857559565488609546.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T11:31:36.036209"
+  },
+  {
+    "id": "d0e84a395607b06a",
+    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+    "price_now": 135.92,
+    "price_was": 229.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/825895948317857559592849779656.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T11:31:24.452940"
+  },
+  {
+    "id": "2445edf9751bc80b",
+    "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+    "price_now": 135.92,
+    "price_was": 246.01,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/529647169317857559469918272704.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T11:31:13.650736"
+  },
+  {
+    "id": "0311c35dc65db618",
+    "title": "Kit Sandália Infantil com Bolsa de Coração (Tam. 23 ao 32, Diversas cores)",
+    "price_now": 39.9,
+    "price_was": 90.68,
+    "discount_pct": 56,
+    "url": "https://s.shopee.com.br/5LAot6hsuk?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/934340636017857565547774005573.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T11:31:01.215388"
+  },
+  {
+    "id": "a51a39abdc47c2a2",
+    "title": "Granado Colônia Bebê, Erva Doce, 100ml",
+    "price_now": 39.0,
+    "price_was": 99.68,
+    "discount_pct": 61,
+    "url": "https://www.amazon.com.br/dp/B07ZL1XYLK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/803806509117857560827212853196.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T11:30:49.155631"
+  },
+  {
     "id": "60a0044dc4da4341",
     "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
     "price_now": 53.59,
@@ -82,65 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-03T10:50:53.531305"
-  },
-  {
-    "id": "3a61ef774e74b7a7",
-    "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
-    "price_now": 151.9,
-    "price_was": 246.01,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/320766112117857536117509115701.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T10:50:43.848680"
-  },
-  {
-    "id": "65933c4cf02fa0a5",
-    "title": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
-    "price_now": 29.9,
-    "price_was": 43.59,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/354244358417856726145850606863.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-02T12:30:52.342110"
-  },
-  {
-    "id": "2211ca72a590dde0",
-    "title": "Fralda Pampers Confort Sec P 50 unidades",
-    "price_now": 45.89,
-    "price_was": 77.27,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/745219121517855931674312907447.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-01T14:20:51.054587"
-  },
-  {
-    "id": "a08a56516882c780",
-    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
-    "price_now": 154.67,
-    "price_was": 229.9,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/344544494017855922671798012898.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-01T14:00:59.869714"
-  },
-  {
-    "id": "bebeb563092c5b44",
-    "title": "Meia-Calça Ballet Infantil com Abertura Fio 40 Selene (Tam. P ao EG, 2 Cores)",
-    "price_now": 19.96,
-    "price_was": 49.9,
-    "discount_pct": 60,
-    "url": "https://s.shopee.com.br/BSeO3u9UO?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/339233897917855210497172378767.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-07-31T18:10:44.871151"
   }
 ]

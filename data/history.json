@@ -1171,6 +1171,26 @@
     "60a0044dc4da4341": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
       "posted_at": "2026-08-03T11:21:16.388614"
+    },
+    "a51a39abdc47c2a2": {
+      "title": "Granado Colônia Bebê, Erva Doce, 100ml",
+      "posted_at": "2026-08-03T11:30:49.155979"
+    },
+    "0311c35dc65db618": {
+      "title": "Kit Sandália Infantil com Bolsa de Coração (Tam. 23 ao 32, Diversas cores)",
+      "posted_at": "2026-08-03T11:31:01.215769"
+    },
+    "2445edf9751bc80b": {
+      "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+      "posted_at": "2026-08-03T11:31:13.651059"
+    },
+    "d0e84a395607b06a": {
+      "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+      "posted_at": "2026-08-03T11:31:24.453269"
+    },
+    "ffb0ba423e709fef": {
+      "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+      "posted_at": "2026-08-03T11:31:36.036582"
     }
   },
   "results": [
@@ -3581,6 +3601,46 @@
       "post_id": "300",
       "error": null,
       "at": "2026-08-03T11:21:16.387935"
+    },
+    {
+      "offer_id": "a51a39abdc47c2a2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "301",
+      "error": null,
+      "at": "2026-08-03T11:30:49.155216"
+    },
+    {
+      "offer_id": "0311c35dc65db618",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "302",
+      "error": null,
+      "at": "2026-08-03T11:31:01.215057"
+    },
+    {
+      "offer_id": "2445edf9751bc80b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "303",
+      "error": null,
+      "at": "2026-08-03T11:31:13.650401"
+    },
+    {
+      "offer_id": "d0e84a395607b06a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "304",
+      "error": null,
+      "at": "2026-08-03T11:31:24.452640"
+    },
+    {
+      "offer_id": "ffb0ba423e709fef",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "305",
+      "error": null,
+      "at": "2026-08-03T11:31:36.035905"
     }
   ]
 }
