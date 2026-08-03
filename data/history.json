@@ -1283,6 +1283,10 @@
     "d8927d7686d8efd9": {
       "title": "Fralda Mili Love e Care RN 18 unidades",
       "posted_at": "2026-08-03T18:20:39.889755"
+    },
+    "7b2b2598246e3ae2": {
+      "title": "Fralda Cremer Mega XG 36 Unidades",
+      "posted_at": "2026-08-03T18:30:57.428982"
     }
   },
   "results": [
@@ -3917,6 +3921,14 @@
       "post_id": "328",
       "error": null,
       "at": "2026-08-03T18:20:39.888998"
+    },
+    {
+      "offer_id": "7b2b2598246e3ae2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "329",
+      "error": null,
+      "at": "2026-08-03T18:30:57.428273"
     }
   ]
 }

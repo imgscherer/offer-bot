@@ -1,5 +1,17 @@
 [
   {
+    "id": "7b2b2598246e3ae2",
+    "title": "Fralda Cremer Mega XG 36 Unidades",
+    "price_now": 29.9,
+    "price_was": 45.4,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B08BXP4XN4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/325265523317857806694460430585.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T18:30:57.428659"
+  },
+  {
     "id": "d8927d7686d8efd9",
     "title": "Fralda Mili Love e Care RN 18 unidades",
     "price_now": 15.74,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-03T13:01:09.238007"
-  },
-  {
-    "id": "b6eb45e81dce37cc",
-    "title": "Fralda-Calça MamyPoko Dia&Noite XG 52 Unidades",
-    "price_now": 51.29,
-    "price_was": 107.9,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B0CHZBQKTV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/475536296217857611697261017349.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T13:00:59.381676"
   }
 ]
