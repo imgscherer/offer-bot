@@ -1259,6 +1259,14 @@
     "702a0b97e411de36": {
       "title": "Fralda Cremer Mega XG 36 Unidades",
       "posted_at": "2026-08-03T14:10:55.038665"
+    },
+    "68c218de1a553d11": {
+      "title": "Buba Lixeira Antiodor Para Fraldas",
+      "posted_at": "2026-08-03T15:00:56.924560"
+    },
+    "e6845a1d98e0fc6a": {
+      "title": "Escova Para Mamadeira Buba",
+      "posted_at": "2026-08-03T15:01:02.701684"
     }
   },
   "results": [
@@ -3845,6 +3853,22 @@
       "post_id": "322",
       "error": null,
       "at": "2026-08-03T14:10:55.038014"
+    },
+    {
+      "offer_id": "68c218de1a553d11",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "323",
+      "error": null,
+      "at": "2026-08-03T15:00:56.923951"
+    },
+    {
+      "offer_id": "e6845a1d98e0fc6a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "324",
+      "error": null,
+      "at": "2026-08-03T15:01:02.701031"
     }
   ]
 }

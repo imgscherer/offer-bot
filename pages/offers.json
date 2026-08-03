@@ -1,5 +1,29 @@
 [
   {
+    "id": "e6845a1d98e0fc6a",
+    "title": "Escova Para Mamadeira Buba",
+    "price_now": 16.49,
+    "price_was": 28.9,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B0BBJRHJXJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/141394180417857684376069743737.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T15:01:02.701371"
+  },
+  {
+    "id": "68c218de1a553d11",
+    "title": "Buba Lixeira Antiodor Para Fraldas",
+    "price_now": 134.98,
+    "price_was": 304.9,
+    "discount_pct": 56,
+    "url": "https://www.amazon.com.br/dp/B0C5GP554J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/971693938317857683716479870887.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T15:00:56.924274"
+  },
+  {
     "id": "702a0b97e411de36",
     "title": "Fralda Cremer Mega XG 36 Unidades",
     "price_now": 28.4,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-03T12:00:56.338377"
-  },
-  {
-    "id": "bc14d041717098d9",
-    "title": "Fralda Huggies Supreme Care Roupinha M 216 unidades (3 pacotes de 72 unidades cada)",
-    "price_now": 159.92,
-    "price_was": 289.0,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/456093921617857576343150237592.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T11:50:57.288843"
-  },
-  {
-    "id": "dfce754140bce147",
-    "title": "Fralda Personal Baby Premium Pants G 4 pacotes 168 unidades",
-    "price_now": 161.96,
-    "price_was": 297.71,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B0DF9PBG3B?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/262798590517857570338546325050.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T11:50:45.775545"
   }
 ]
