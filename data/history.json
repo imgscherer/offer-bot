@@ -1267,6 +1267,18 @@
     "e6845a1d98e0fc6a": {
       "title": "Escova Para Mamadeira Buba",
       "posted_at": "2026-08-03T15:01:02.701684"
+    },
+    "520c4403220a214a": {
+      "title": "Fralda-Calça MamyPoko Dia&Noite G 60 unidades",
+      "posted_at": "2026-08-03T15:50:46.300983"
+    },
+    "769f6243e5bc4f20": {
+      "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
+      "posted_at": "2026-08-03T15:50:55.637629"
+    },
+    "acdbcdc07bab4bb2": {
+      "title": "Fralda descartavel huggies maxima protecao tamanho g 160 unidades",
+      "posted_at": "2026-08-03T15:51:07.712236"
     }
   },
   "results": [
@@ -3869,6 +3881,30 @@
       "post_id": "324",
       "error": null,
       "at": "2026-08-03T15:01:02.701031"
+    },
+    {
+      "offer_id": "520c4403220a214a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "325",
+      "error": null,
+      "at": "2026-08-03T15:50:46.300345"
+    },
+    {
+      "offer_id": "769f6243e5bc4f20",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "326",
+      "error": null,
+      "at": "2026-08-03T15:50:55.637016"
+    },
+    {
+      "offer_id": "acdbcdc07bab4bb2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "327",
+      "error": null,
+      "at": "2026-08-03T15:51:07.711635"
     }
   ]
 }
