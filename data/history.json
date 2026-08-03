@@ -1255,6 +1255,10 @@
     "8c023f994078cb47": {
       "title": "Creme para Assadura Granado Bebê Dermocalmante 50g",
       "posted_at": "2026-08-03T13:30:46.458907"
+    },
+    "702a0b97e411de36": {
+      "title": "Fralda Cremer Mega XG 36 Unidades",
+      "posted_at": "2026-08-03T14:10:55.038665"
     }
   },
   "results": [
@@ -3833,6 +3837,14 @@
       "post_id": "321",
       "error": null,
       "at": "2026-08-03T13:30:46.458154"
+    },
+    {
+      "offer_id": "702a0b97e411de36",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "322",
+      "error": null,
+      "at": "2026-08-03T14:10:55.038014"
     }
   ]
 }

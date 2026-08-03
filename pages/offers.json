@@ -1,5 +1,17 @@
 [
   {
+    "id": "702a0b97e411de36",
+    "title": "Fralda Cremer Mega XG 36 Unidades",
+    "price_now": 28.4,
+    "price_was": 45.4,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B08BXP4XN4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/430529525617857659093894651888.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T14:10:55.038355"
+  },
+  {
     "id": "8c023f994078cb47",
     "title": "Creme para Assadura Granado Bebê Dermocalmante 50g",
     "price_now": 20.79,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-03T11:50:45.775545"
-  },
-  {
-    "id": "e0c3f2267ec145c8",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
-    "price_now": 47.95,
-    "price_was": 77.37,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/770356849017857565467067491874.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T11:41:30.159793"
   }
 ]
