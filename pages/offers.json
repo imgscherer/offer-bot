@@ -1,5 +1,29 @@
 [
   {
+    "id": "88b6e0876355f64a",
+    "title": "Fralda Baby Total Protect Pants Média, 52 Unidades",
+    "price_now": 46.0,
+    "price_was": 69.42,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/659147384617857611746537157748.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T13:01:09.238007"
+  },
+  {
+    "id": "b6eb45e81dce37cc",
+    "title": "Fralda-Calça MamyPoko Dia&Noite XG 52 Unidades",
+    "price_now": 51.29,
+    "price_was": 107.9,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B0CHZBQKTV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/475536296217857611697261017349.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T13:00:59.381676"
+  },
+  {
     "id": "30b5f591cc104ae8",
     "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
     "price_now": 26.98,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-03T11:41:01.162147"
-  },
-  {
-    "id": "6ddbb7110b92b6da",
-    "title": "Fralda Huggies Máxima Proteção G 160 unidades",
-    "price_now": 135.92,
-    "price_was": 229.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/662674432417857559549122450094.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T11:40:48.818196"
-  },
-  {
-    "id": "ffb0ba423e709fef",
-    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
-    "price_now": 135.92,
-    "price_was": 229.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/179561292517857559565488609546.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T11:31:36.036209"
   }
 ]

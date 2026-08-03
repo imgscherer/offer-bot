@@ -1235,6 +1235,14 @@
     "30b5f591cc104ae8": {
       "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
       "posted_at": "2026-08-03T12:31:16.518465"
+    },
+    "b6eb45e81dce37cc": {
+      "title": "Fralda-Calça MamyPoko Dia&Noite XG 52 Unidades",
+      "posted_at": "2026-08-03T13:00:59.381998"
+    },
+    "88b6e0876355f64a": {
+      "title": "Fralda Baby Total Protect Pants Média, 52 Unidades",
+      "posted_at": "2026-08-03T13:01:09.238313"
     }
   },
   "results": [
@@ -3773,6 +3781,22 @@
       "post_id": "316",
       "error": null,
       "at": "2026-08-03T12:31:16.517783"
+    },
+    {
+      "offer_id": "b6eb45e81dce37cc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "317",
+      "error": null,
+      "at": "2026-08-03T13:00:59.381277"
+    },
+    {
+      "offer_id": "88b6e0876355f64a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "318",
+      "error": null,
+      "at": "2026-08-03T13:01:09.237711"
     }
   ]
 }
