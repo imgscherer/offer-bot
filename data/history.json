@@ -1243,6 +1243,14 @@
     "88b6e0876355f64a": {
       "title": "Fralda Baby Total Protect Pants Média, 52 Unidades",
       "posted_at": "2026-08-03T13:01:09.238313"
+    },
+    "82c27c0e32510109": {
+      "title": "Fralda Personal Baby Total Protect Pants G 44 unidades",
+      "posted_at": "2026-08-03T13:20:56.994088"
+    },
+    "1f0e1c0732c82bf9": {
+      "title": "Fralda Personal Baby Total Protect Pants XG 40 unidades",
+      "posted_at": "2026-08-03T13:21:05.539830"
     }
   },
   "results": [
@@ -3797,6 +3805,22 @@
       "post_id": "318",
       "error": null,
       "at": "2026-08-03T13:01:09.237711"
+    },
+    {
+      "offer_id": "82c27c0e32510109",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "319",
+      "error": null,
+      "at": "2026-08-03T13:20:56.993382"
+    },
+    {
+      "offer_id": "1f0e1c0732c82bf9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "320",
+      "error": null,
+      "at": "2026-08-03T13:21:05.539126"
     }
   ]
 }

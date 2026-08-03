@@ -1,5 +1,29 @@
 [
   {
+    "id": "1f0e1c0732c82bf9",
+    "title": "Fralda Personal Baby Total Protect Pants XG 40 unidades",
+    "price_now": 43.77,
+    "price_was": 69.42,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0BTTLGRFH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/849733425217857620841491297359.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T13:21:05.539500"
+  },
+  {
+    "id": "82c27c0e32510109",
+    "title": "Fralda Personal Baby Total Protect Pants G 44 unidades",
+    "price_now": 43.77,
+    "price_was": 71.99,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0BTTLYZN9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/705306385717857620894392157653.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-03T13:20:56.993754"
+  },
+  {
     "id": "88b6e0876355f64a",
     "title": "Fralda Baby Total Protect Pants Média, 52 Unidades",
     "price_now": 46.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-03T11:41:21.948292"
-  },
-  {
-    "id": "5d36269d14127d94",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
-    "price_now": 47.95,
-    "price_was": 77.37,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/968446912717857565567517805251.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T11:41:09.109465"
-  },
-  {
-    "id": "c334e22aa1c757dc",
-    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
-    "price_now": 135.92,
-    "price_was": 229.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/491034154917857559512130051595.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T11:41:01.162147"
   }
 ]
