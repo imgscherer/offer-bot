@@ -1,5 +1,17 @@
 [
   {
+    "id": "abbeb27ef5c91747",
+    "title": "Blusa Tricot Infantil Listrada Com Bolso Manga Longa (Tam. 1 a 4 anos, 3 Cores)",
+    "price_now": 39.9,
+    "price_was": 90.68,
+    "discount_pct": 56,
+    "url": "https://s.shopee.com.br/6VMoP6jlC8?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/239650246617858717557487131067.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-04T19:40:42.417276"
+  },
+  {
     "id": "8bcd3da1e0a8f193",
     "title": "Camiseta Infantil 100% Algodão (Tam. 2 a 14 anos, Diversas cores)",
     "price_now": 22.45,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-04T11:30:56.104570"
-  },
-  {
-    "id": "4769b61bedac0ba7",
-    "title": "Mamypoko Fralda-calça Dia&noite Xxg 44 Unidades",
-    "price_now": 53.99,
-    "price_was": 107.9,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B0CHZJPGZB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/814925779617858427819697024075.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-04T11:30:44.178303"
   }
 ]

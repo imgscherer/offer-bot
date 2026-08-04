@@ -1371,6 +1371,10 @@
     "8bcd3da1e0a8f193": {
       "title": "Camiseta Infantil 100% Algodão (Tam. 2 a 14 anos, Diversas cores)",
       "posted_at": "2026-08-04T18:21:11.992230"
+    },
+    "abbeb27ef5c91747": {
+      "title": "Blusa Tricot Infantil Listrada Com Bolso Manga Longa (Tam. 1 a 4 anos, 3 Cores)",
+      "posted_at": "2026-08-04T19:40:42.417627"
     }
   },
   "results": [
@@ -4181,6 +4185,14 @@
       "post_id": "350",
       "error": null,
       "at": "2026-08-04T18:21:11.991699"
+    },
+    {
+      "offer_id": "abbeb27ef5c91747",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "351",
+      "error": null,
+      "at": "2026-08-04T19:40:42.416923"
     }
   ]
 }
