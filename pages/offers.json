@@ -1,5 +1,17 @@
 [
   {
+    "id": "c05483b8b5bbb199",
+    "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
+    "price_now": 22.79,
+    "price_was": 46.38,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/907560387717858753471845476205.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-04T20:40:59.256618"
+  },
+  {
     "id": "abbeb27ef5c91747",
     "title": "Blusa Tricot Infantil Listrada Com Bolso Manga Longa (Tam. 1 a 4 anos, 3 Cores)",
     "price_now": 39.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-04T11:40:50.022586"
-  },
-  {
-    "id": "36a9a569cf949902",
-    "title": "Fralda Pampers Premium Care XG 120 unidades",
-    "price_now": 162.33,
-    "price_was": 242.27,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0DDV1C223?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/432541499417858426629250821499.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-04T11:30:56.104570"
   }
 ]

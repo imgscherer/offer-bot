@@ -1375,6 +1375,10 @@
     "abbeb27ef5c91747": {
       "title": "Blusa Tricot Infantil Listrada Com Bolso Manga Longa (Tam. 1 a 4 anos, 3 Cores)",
       "posted_at": "2026-08-04T19:40:42.417627"
+    },
+    "c05483b8b5bbb199": {
+      "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
+      "posted_at": "2026-08-04T20:40:59.256920"
     }
   },
   "results": [
@@ -4193,6 +4197,14 @@
       "post_id": "351",
       "error": null,
       "at": "2026-08-04T19:40:42.416923"
+    },
+    {
+      "offer_id": "c05483b8b5bbb199",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "352",
+      "error": null,
+      "at": "2026-08-04T20:40:59.256237"
     }
   ]
 }
