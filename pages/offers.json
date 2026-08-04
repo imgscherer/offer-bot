@@ -1,5 +1,41 @@
 [
   {
+    "id": "064a5908c3f7f13b",
+    "title": "Fralda Babysec Premium XG 24 unidades",
+    "price_now": 26.72,
+    "price_was": 40.13,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B07XL8XYNV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/385295515317858536276868615328.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-04T14:31:23.046812"
+  },
+  {
+    "id": "dbad9fc1f03353dc",
+    "title": "Tênis Spring Infantil (Tam. 20 ao 35, 4 cores)",
+    "price_now": 54.9,
+    "price_was": 89.98,
+    "discount_pct": 39,
+    "url": "https://s.shopee.com.br/9zwgEKV3TM?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/455863341417858532258617233540.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-04T14:31:09.834734"
+  },
+  {
+    "id": "ad5b792627625ec0",
+    "title": "Verden Bicicleta Infantil Hero Boy Aro 12 Com Rodinhas Laterais E Garrafinha",
+    "price_now": 179.58,
+    "price_was": 319.9,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B0CXRH11GD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/307656902717858533901831365180.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-04T14:30:57.294051"
+  },
+  {
     "id": "c8d85e82210cc015",
     "title": "Mordedor Massageador Infantil Para Alívio Da Dentição",
     "price_now": 12.15,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-03T19:50:56.141253"
-  },
-  {
-    "id": "fb62bced090ad8cd",
-    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho Xxxl 128 Unidades – Fralda Aberta Com Tecnologia Xtra-flex, Canais Em X Que Se Adaptam Aos Mo",
-    "price_now": 159.9,
-    "price_was": 246.01,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/238980370517857859484336274015.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T19:50:45.581080"
-  },
-  {
-    "id": "69415892886bacce",
-    "title": "Fralda Personal Baby Protect&Sec XG 28 unidades",
-    "price_now": 25.39,
-    "price_was": 37.02,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0BBHFXBTF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/771101897717857845122831319316.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T19:31:22.658270"
-  },
-  {
-    "id": "c650a7b48e6938bf",
-    "title": "Fralda Personal Baby Protect&Sec M 40 unidades",
-    "price_now": 25.39,
-    "price_was": 36.96,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/581583069817857845109667707156.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T19:31:11.159729"
   }
 ]

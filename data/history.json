@@ -1339,6 +1339,18 @@
     "c8d85e82210cc015": {
       "title": "Mordedor Massageador Infantil Para Alívio Da Dentição",
       "posted_at": "2026-08-04T12:01:04.848351"
+    },
+    "ad5b792627625ec0": {
+      "title": "Verden Bicicleta Infantil Hero Boy Aro 12 Com Rodinhas Laterais E Garrafinha",
+      "posted_at": "2026-08-04T14:30:57.294580"
+    },
+    "dbad9fc1f03353dc": {
+      "title": "Tênis Spring Infantil (Tam. 20 ao 35, 4 cores)",
+      "posted_at": "2026-08-04T14:31:09.835249"
+    },
+    "064a5908c3f7f13b": {
+      "title": "Fralda Babysec Premium XG 24 unidades",
+      "posted_at": "2026-08-04T14:31:23.047233"
     }
   },
   "results": [
@@ -4085,6 +4097,30 @@
       "post_id": "342",
       "error": null,
       "at": "2026-08-04T12:01:04.847754"
+    },
+    {
+      "offer_id": "ad5b792627625ec0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "343",
+      "error": null,
+      "at": "2026-08-04T14:30:57.293607"
+    },
+    {
+      "offer_id": "dbad9fc1f03353dc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "344",
+      "error": null,
+      "at": "2026-08-04T14:31:09.834190"
+    },
+    {
+      "offer_id": "064a5908c3f7f13b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "345",
+      "error": null,
+      "at": "2026-08-04T14:31:23.046347"
     }
   ]
 }
