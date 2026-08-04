@@ -1387,6 +1387,10 @@
     "844e41c17c0804ad": {
       "title": "Fralda Personal Baby Premium Pants M 48 unidades",
       "posted_at": "2026-08-04T21:00:56.260344"
+    },
+    "1355dbb56722425c": {
+      "title": "Sandália Infantil Menino Animais Bichos Leve Divertido Confortável Delicado Antiderrapante Escola",
+      "posted_at": "2026-08-04T23:50:48.157591"
     }
   },
   "results": [
@@ -4229,6 +4233,14 @@
       "post_id": "354",
       "error": null,
       "at": "2026-08-04T21:00:56.259767"
+    },
+    {
+      "offer_id": "1355dbb56722425c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "355",
+      "error": null,
+      "at": "2026-08-04T23:50:48.156865"
     }
   ]
 }
