@@ -1331,6 +1331,10 @@
     "36a9a569cf949902": {
       "title": "Fralda Pampers Premium Care XG 120 unidades",
       "posted_at": "2026-08-04T11:30:56.104946"
+    },
+    "98b0e4df83bfffb3": {
+      "title": "Fralda Personal Baby Premium Protection XXG 44 Unidades",
+      "posted_at": "2026-08-04T11:40:50.022980"
     }
   },
   "results": [
@@ -4061,6 +4065,14 @@
       "post_id": "340",
       "error": null,
       "at": "2026-08-04T11:30:56.104240"
+    },
+    {
+      "offer_id": "98b0e4df83bfffb3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "341",
+      "error": null,
+      "at": "2026-08-04T11:40:50.022175"
     }
   ]
 }
