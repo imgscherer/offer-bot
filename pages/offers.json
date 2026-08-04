@@ -1,5 +1,17 @@
 [
   {
+    "id": "8bcd3da1e0a8f193",
+    "title": "Camiseta Infantil 100% Algodão (Tam. 2 a 14 anos, Diversas cores)",
+    "price_now": 22.45,
+    "price_was": 44.9,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/3VjCke0OuI?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/807142573517858674325577997507.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-04T18:21:11.991992"
+  },
+  {
     "id": "e6556751e7b181aa",
     "title": "Berço Co-Bed Maxi-Cosi, Tori, 0 A 9Kg, Beyond Graphite",
     "price_now": 698.89,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-04T11:30:44.178303"
-  },
-  {
-    "id": "19b99c26b52ca43e",
-    "title": "Fralda Huggies Proteção Dia XXG 44 unidades",
-    "price_now": 48.5,
-    "price_was": 72.65,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0CJCJ39JT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/793624237017858411497475052268.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-04T11:20:46.897071"
   }
 ]

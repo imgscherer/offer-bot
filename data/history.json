@@ -1367,6 +1367,10 @@
     "e6556751e7b181aa": {
       "title": "Berço Co-Bed Maxi-Cosi, Tori, 0 A 9Kg, Beyond Graphite",
       "posted_at": "2026-08-04T17:50:45.779048"
+    },
+    "8bcd3da1e0a8f193": {
+      "title": "Camiseta Infantil 100% Algodão (Tam. 2 a 14 anos, Diversas cores)",
+      "posted_at": "2026-08-04T18:21:11.992230"
     }
   },
   "results": [
@@ -4169,6 +4173,14 @@
       "post_id": "349",
       "error": null,
       "at": "2026-08-04T17:50:45.778350"
+    },
+    {
+      "offer_id": "8bcd3da1e0a8f193",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "350",
+      "error": null,
+      "at": "2026-08-04T18:21:11.991699"
     }
   ]
 }
