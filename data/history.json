@@ -1319,6 +1319,10 @@
     "091cf0bf5fc94110": {
       "title": "Fralda-Calça MamyPoko Dia&Noite XXG 44 unidades",
       "posted_at": "2026-08-04T11:01:02.466448"
+    },
+    "19b99c26b52ca43e": {
+      "title": "Fralda Huggies Proteção Dia XXG 44 unidades",
+      "posted_at": "2026-08-04T11:20:46.897394"
     }
   },
   "results": [
@@ -4025,6 +4029,14 @@
       "post_id": "337",
       "error": null,
       "at": "2026-08-04T11:01:02.465727"
+    },
+    {
+      "offer_id": "19b99c26b52ca43e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "338",
+      "error": null,
+      "at": "2026-08-04T11:20:46.896717"
     }
   ]
 }

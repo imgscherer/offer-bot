@@ -1,5 +1,17 @@
 [
   {
+    "id": "19b99c26b52ca43e",
+    "title": "Fralda Huggies Proteção Dia XXG 44 unidades",
+    "price_now": 48.5,
+    "price_was": 72.65,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0CJCJ39JT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/793624237017858411497475052268.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-04T11:20:46.897071"
+  },
+  {
     "id": "091cf0bf5fc94110",
     "title": "Fralda-Calça MamyPoko Dia&Noite XXG 44 unidades",
     "price_now": 51.29,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-03T15:51:07.711930"
-  },
-  {
-    "id": "769f6243e5bc4f20",
-    "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
-    "price_now": 42.89,
-    "price_was": 88.63,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/743556521117857711904619625264.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T15:50:55.637308"
   }
 ]
