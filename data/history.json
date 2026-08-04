@@ -1351,6 +1351,14 @@
     "064a5908c3f7f13b": {
       "title": "Fralda Babysec Premium XG 24 unidades",
       "posted_at": "2026-08-04T14:31:23.047233"
+    },
+    "37091f76d3caa7e6": {
+      "title": "Conjunto Infantil Blusa Meia Malha com Estampa de Limão e Shorts Moletinho (Tam. 1 a 12 Anos)",
+      "posted_at": "2026-08-04T15:40:45.990726"
+    },
+    "c4995b2156ea53c6": {
+      "title": "Kit Cuidados com Unhas do Bebê 4 em 1",
+      "posted_at": "2026-08-04T15:40:57.505870"
     }
   },
   "results": [
@@ -4121,6 +4129,22 @@
       "post_id": "345",
       "error": null,
       "at": "2026-08-04T14:31:23.046347"
+    },
+    {
+      "offer_id": "37091f76d3caa7e6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "346",
+      "error": null,
+      "at": "2026-08-04T15:40:45.990031"
+    },
+    {
+      "offer_id": "c4995b2156ea53c6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "347",
+      "error": null,
+      "at": "2026-08-04T15:40:57.505159"
     }
   ]
 }

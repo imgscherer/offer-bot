@@ -1,5 +1,29 @@
 [
   {
+    "id": "c4995b2156ea53c6",
+    "title": "Kit Cuidados com Unhas do Bebê 4 em 1",
+    "price_now": 16.99,
+    "price_was": 26.9,
+    "discount_pct": 37,
+    "url": "https://s.shopee.com.br/6fgEL8LT51?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/862315277917858575341752762680.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-04T15:40:57.505502"
+  },
+  {
+    "id": "37091f76d3caa7e6",
+    "title": "Conjunto Infantil Blusa Meia Malha com Estampa de Limão e Shorts Moletinho (Tam. 1 a 12 Anos)",
+    "price_now": 28.96,
+    "price_was": 59.1,
+    "discount_pct": 51,
+    "url": "https://s.shopee.com.br/6pzeXRKpk2?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/215898619517858575319341345330.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-04T15:40:45.990380"
+  },
+  {
     "id": "064a5908c3f7f13b",
     "title": "Fralda Babysec Premium XG 24 unidades",
     "price_now": 26.72,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-04T02:40:39.788264"
-  },
-  {
-    "id": "5b118c5c66715b9b",
-    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos",
-    "price_now": 159.9,
-    "price_was": 229.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/399663328117857861278504943507.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T19:51:06.835522"
-  },
-  {
-    "id": "d0bd4e7b9dae66b6",
-    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XXG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos",
-    "price_now": 159.9,
-    "price_was": 229.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/666142611017857861918346694147.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T19:50:56.141253"
   }
 ]
