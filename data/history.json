@@ -1335,6 +1335,10 @@
     "98b0e4df83bfffb3": {
       "title": "Fralda Personal Baby Premium Protection XXG 44 Unidades",
       "posted_at": "2026-08-04T11:40:50.022980"
+    },
+    "c8d85e82210cc015": {
+      "title": "Mordedor Massageador Infantil Para Alívio Da Dentição",
+      "posted_at": "2026-08-04T12:01:04.848351"
     }
   },
   "results": [
@@ -4073,6 +4077,14 @@
       "post_id": "341",
       "error": null,
       "at": "2026-08-04T11:40:50.022175"
+    },
+    {
+      "offer_id": "c8d85e82210cc015",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "342",
+      "error": null,
+      "at": "2026-08-04T12:01:04.847754"
     }
   ]
 }
