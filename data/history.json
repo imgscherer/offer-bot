@@ -1311,6 +1311,10 @@
     "5b118c5c66715b9b": {
       "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos",
       "posted_at": "2026-08-03T19:51:06.835844"
+    },
+    "9b8aa3ba0ba33bff": {
+      "title": "Fralda Infantil Personal Baby Protect e Sec G - 34 Unidades",
+      "posted_at": "2026-08-04T02:40:39.788756"
     }
   },
   "results": [
@@ -4001,6 +4005,14 @@
       "post_id": "335",
       "error": null,
       "at": "2026-08-03T19:51:06.835214"
+    },
+    {
+      "offer_id": "9b8aa3ba0ba33bff",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "336",
+      "error": null,
+      "at": "2026-08-04T02:40:39.787767"
     }
   ]
 }

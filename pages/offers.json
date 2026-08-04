@@ -1,5 +1,17 @@
 [
   {
+    "id": "9b8aa3ba0ba33bff",
+    "title": "Fralda Infantil Personal Baby Protect e Sec G - 34 Unidades",
+    "price_now": 25.7,
+    "price_was": 37.02,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/122111100717858104863714311129.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-04T02:40:39.788264"
+  },
+  {
     "id": "5b118c5c66715b9b",
     "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos",
     "price_now": 159.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-03T15:50:46.300679"
-  },
-  {
-    "id": "e6845a1d98e0fc6a",
-    "title": "Escova Para Mamadeira Buba",
-    "price_now": 16.49,
-    "price_was": 28.9,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B0BBJRHJXJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/141394180417857684376069743737.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T15:01:02.701371"
   }
 ]
