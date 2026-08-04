@@ -1,5 +1,17 @@
 [
   {
+    "id": "b48281e57de9c0bd",
+    "title": "Fralda Huggies Supreme Care P 48 unidades",
+    "price_now": 38.87,
+    "price_was": 72.65,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/587007318217858587874739122524.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-04T16:00:51.507086"
+  },
+  {
     "id": "c4995b2156ea53c6",
     "title": "Kit Cuidados com Unhas do Bebê 4 em 1",
     "price_now": 16.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-04T11:01:02.466103"
-  },
-  {
-    "id": "9b8aa3ba0ba33bff",
-    "title": "Fralda Infantil Personal Baby Protect e Sec G - 34 Unidades",
-    "price_now": 25.7,
-    "price_was": 37.02,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/122111100717858104863714311129.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-04T02:40:39.788264"
   }
 ]

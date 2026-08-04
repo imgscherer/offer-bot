@@ -1359,6 +1359,10 @@
     "c4995b2156ea53c6": {
       "title": "Kit Cuidados com Unhas do Bebê 4 em 1",
       "posted_at": "2026-08-04T15:40:57.505870"
+    },
+    "b48281e57de9c0bd": {
+      "title": "Fralda Huggies Supreme Care P 48 unidades",
+      "posted_at": "2026-08-04T16:00:51.507405"
     }
   },
   "results": [
@@ -4145,6 +4149,14 @@
       "post_id": "347",
       "error": null,
       "at": "2026-08-04T15:40:57.505159"
+    },
+    {
+      "offer_id": "b48281e57de9c0bd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "348",
+      "error": null,
+      "at": "2026-08-04T16:00:51.506682"
     }
   ]
 }
