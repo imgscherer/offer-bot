@@ -1,5 +1,17 @@
 [
   {
+    "id": "cf8e9d98524ab740",
+    "title": "Sapatilha Infantil Antiderrapante (Tam. 20 ao 34, 4 cores)",
+    "price_now": 29.9,
+    "price_was": 99.67,
+    "discount_pct": 70,
+    "url": "https://s.shopee.com.br/1LeiKgv2zz?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/403902135217858761924898187005.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-04T20:50:57.676049"
+  },
+  {
     "id": "c05483b8b5bbb199",
     "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
     "price_now": 22.79,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-04T12:01:04.848111"
-  },
-  {
-    "id": "98b0e4df83bfffb3",
-    "title": "Fralda Personal Baby Premium Protection XXG 44 Unidades",
-    "price_now": 53.4,
-    "price_was": 79.11,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0CKFJH1L8?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/205446725517858430707571561635.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-04T11:40:50.022586"
   }
 ]
