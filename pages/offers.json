@@ -1,5 +1,17 @@
 [
   {
+    "id": "844e41c17c0804ad",
+    "title": "Fralda Personal Baby Premium Pants M 48 unidades",
+    "price_now": 42.67,
+    "price_was": 80.03,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B0BGM6P1SF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/300597423917858766708045275554.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-04T21:00:56.260072"
+  },
+  {
     "id": "cf8e9d98524ab740",
     "title": "Sapatilha Infantil Antiderrapante (Tam. 20 ao 34, 4 cores)",
     "price_now": 29.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-04T14:30:57.294051"
-  },
-  {
-    "id": "c8d85e82210cc015",
-    "title": "Mordedor Massageador Infantil Para Alívio Da Dentição",
-    "price_now": 12.15,
-    "price_was": 29.63,
-    "discount_pct": 59,
-    "url": "https://s.shopee.com.br/1BLHY3PlMx?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/130623519517858444491924397971.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-04T12:01:04.848111"
   }
 ]

@@ -1383,6 +1383,10 @@
     "cf8e9d98524ab740": {
       "title": "Sapatilha Infantil Antiderrapante (Tam. 20 ao 34, 4 cores)",
       "posted_at": "2026-08-04T20:50:57.676382"
+    },
+    "844e41c17c0804ad": {
+      "title": "Fralda Personal Baby Premium Pants M 48 unidades",
+      "posted_at": "2026-08-04T21:00:56.260344"
     }
   },
   "results": [
@@ -4217,6 +4221,14 @@
       "post_id": "353",
       "error": null,
       "at": "2026-08-04T20:50:57.675608"
+    },
+    {
+      "offer_id": "844e41c17c0804ad",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "354",
+      "error": null,
+      "at": "2026-08-04T21:00:56.259767"
     }
   ]
 }
