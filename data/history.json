@@ -1363,6 +1363,10 @@
     "b48281e57de9c0bd": {
       "title": "Fralda Huggies Supreme Care P 48 unidades",
       "posted_at": "2026-08-04T16:00:51.507405"
+    },
+    "e6556751e7b181aa": {
+      "title": "Berço Co-Bed Maxi-Cosi, Tori, 0 A 9Kg, Beyond Graphite",
+      "posted_at": "2026-08-04T17:50:45.779048"
     }
   },
   "results": [
@@ -4157,6 +4161,14 @@
       "post_id": "348",
       "error": null,
       "at": "2026-08-04T16:00:51.506682"
+    },
+    {
+      "offer_id": "e6556751e7b181aa",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "349",
+      "error": null,
+      "at": "2026-08-04T17:50:45.778350"
     }
   ]
 }

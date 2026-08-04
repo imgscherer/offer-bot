@@ -1,5 +1,17 @@
 [
   {
+    "id": "e6556751e7b181aa",
+    "title": "Berço Co-Bed Maxi-Cosi, Tori, 0 A 9Kg, Beyond Graphite",
+    "price_now": 698.89,
+    "price_was": 1199.0,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0F5X62P8S?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/983460033517858655128311193349.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-04T17:50:45.778715"
+  },
+  {
     "id": "b48281e57de9c0bd",
     "title": "Fralda Huggies Supreme Care P 48 unidades",
     "price_now": 38.87,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-04T11:20:46.897071"
-  },
-  {
-    "id": "091cf0bf5fc94110",
-    "title": "Fralda-Calça MamyPoko Dia&Noite XXG 44 unidades",
-    "price_now": 51.29,
-    "price_was": 107.9,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B0CHZJPGZB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/663653041317858406693193237079.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-04T11:01:02.466103"
   }
 ]
