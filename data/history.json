@@ -1323,6 +1323,14 @@
     "19b99c26b52ca43e": {
       "title": "Fralda Huggies Proteção Dia XXG 44 unidades",
       "posted_at": "2026-08-04T11:20:46.897394"
+    },
+    "4769b61bedac0ba7": {
+      "title": "Mamypoko Fralda-calça Dia&noite Xxg 44 Unidades",
+      "posted_at": "2026-08-04T11:30:44.178653"
+    },
+    "36a9a569cf949902": {
+      "title": "Fralda Pampers Premium Care XG 120 unidades",
+      "posted_at": "2026-08-04T11:30:56.104946"
     }
   },
   "results": [
@@ -4037,6 +4045,22 @@
       "post_id": "338",
       "error": null,
       "at": "2026-08-04T11:20:46.896717"
+    },
+    {
+      "offer_id": "4769b61bedac0ba7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "339",
+      "error": null,
+      "at": "2026-08-04T11:30:44.177932"
+    },
+    {
+      "offer_id": "36a9a569cf949902",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "340",
+      "error": null,
+      "at": "2026-08-04T11:30:56.104240"
     }
   ]
 }

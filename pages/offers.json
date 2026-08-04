@@ -1,5 +1,29 @@
 [
   {
+    "id": "36a9a569cf949902",
+    "title": "Fralda Pampers Premium Care XG 120 unidades",
+    "price_now": 162.33,
+    "price_was": 242.27,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0DDV1C223?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/432541499417858426629250821499.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-04T11:30:56.104570"
+  },
+  {
+    "id": "4769b61bedac0ba7",
+    "title": "Mamypoko Fralda-calça Dia&noite Xxg 44 Unidades",
+    "price_now": 53.99,
+    "price_was": 107.9,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B0CHZJPGZB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/814925779617858427819697024075.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-04T11:30:44.178303"
+  },
+  {
     "id": "19b99c26b52ca43e",
     "title": "Fralda Huggies Proteção Dia XXG 44 unidades",
     "price_now": 48.5,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-03T18:30:57.428659"
-  },
-  {
-    "id": "d8927d7686d8efd9",
-    "title": "Fralda Mili Love e Care RN 18 unidades",
-    "price_now": 15.74,
-    "price_was": 27.98,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B09CDXRQJL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/830629973017857803991256050121.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T18:20:39.889369"
-  },
-  {
-    "id": "acdbcdc07bab4bb2",
-    "title": "Fralda descartavel huggies maxima protecao tamanho g 160 unidades",
-    "price_now": 159.9,
-    "price_was": 229.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/877237331717857711999255390117.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-03T15:51:07.711930"
   }
 ]
