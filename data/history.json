@@ -1399,6 +1399,10 @@
     "d4e2489cc1d1ba74": {
       "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
       "posted_at": "2026-08-05T10:50:43.951053"
+    },
+    "e9ddf24864ae7667": {
+      "title": "Fralda Descartável Huggies Máxima Proteção Tamanho Xxxl 128 Unidades – Fralda Aberta Com Tecnologia Xtra-flex, Canais Em X Que Se Adaptam Aos Mo",
+      "posted_at": "2026-08-05T11:20:41.479883"
     }
   },
   "results": [
@@ -4265,6 +4269,14 @@
       "post_id": "357",
       "error": null,
       "at": "2026-08-05T10:50:43.950385"
+    },
+    {
+      "offer_id": "e9ddf24864ae7667",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "358",
+      "error": null,
+      "at": "2026-08-05T11:20:41.479153"
     }
   ]
 }
