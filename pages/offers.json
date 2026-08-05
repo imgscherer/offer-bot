@@ -1,5 +1,17 @@
 [
   {
+    "id": "65a84fbb43eadf47",
+    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml - (Amazon)",
+    "price_now": 34.11,
+    "price_was": 62.99,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/869361738517859418313409800204.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-05T15:01:15.918818"
+  },
+  {
     "id": "de1c00568c06e28b",
     "title": "Fralda Mili Love&Care M 78 Unidades",
     "price_now": 66.59,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-04T21:00:56.260072"
-  },
-  {
-    "id": "cf8e9d98524ab740",
-    "title": "Sapatilha Infantil Antiderrapante (Tam. 20 ao 34, 4 cores)",
-    "price_now": 29.9,
-    "price_was": 99.67,
-    "discount_pct": 70,
-    "url": "https://s.shopee.com.br/1LeiKgv2zz?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/403902135217858761924898187005.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-04T20:50:57.676049"
   }
 ]

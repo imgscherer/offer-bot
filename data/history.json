@@ -1427,6 +1427,10 @@
     "de1c00568c06e28b": {
       "title": "Fralda Mili Love&Care M 78 Unidades",
       "posted_at": "2026-08-05T14:30:57.690675"
+    },
+    "65a84fbb43eadf47": {
+      "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml - (Amazon)",
+      "posted_at": "2026-08-05T15:01:15.919080"
     }
   },
   "results": [
@@ -4349,6 +4353,14 @@
       "post_id": "364",
       "error": null,
       "at": "2026-08-05T14:30:57.689995"
+    },
+    {
+      "offer_id": "65a84fbb43eadf47",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "365",
+      "error": null,
+      "at": "2026-08-05T15:01:15.918496"
     }
   ]
 }
