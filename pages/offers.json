@@ -1,5 +1,17 @@
 [
   {
+    "id": "de1c00568c06e28b",
+    "title": "Fralda Mili Love&Care M 78 Unidades",
+    "price_now": 66.59,
+    "price_was": 148.5,
+    "discount_pct": 55,
+    "url": "https://www.amazon.com.br/dp/B0CN81BZKX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/139803800617859397082139931390.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-05T14:30:57.690340"
+  },
+  {
     "id": "b33f1a9b2fc0f648",
     "title": "Kit 2 Meia Calça Infantil (Tam. 0 a 24 meses)",
     "price_now": 29.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-04T20:50:57.676049"
-  },
-  {
-    "id": "c05483b8b5bbb199",
-    "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
-    "price_now": 22.79,
-    "price_was": 46.38,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/907560387717858753471845476205.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-04T20:40:59.256618"
   }
 ]
