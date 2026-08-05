@@ -1403,6 +1403,18 @@
     "e9ddf24864ae7667": {
       "title": "Fralda Descartável Huggies Máxima Proteção Tamanho Xxxl 128 Unidades – Fralda Aberta Com Tecnologia Xtra-flex, Canais Em X Que Se Adaptam Aos Mo",
       "posted_at": "2026-08-05T11:20:41.479883"
+    },
+    "348bb7a14db7ee06": {
+      "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+      "posted_at": "2026-08-05T11:30:57.919174"
+    },
+    "dce28b54917f57d5": {
+      "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+      "posted_at": "2026-08-05T11:31:09.494943"
+    },
+    "bfc4c4f0958b38ea": {
+      "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+      "posted_at": "2026-08-05T11:31:19.618250"
     }
   },
   "results": [
@@ -4277,6 +4289,30 @@
       "post_id": "358",
       "error": null,
       "at": "2026-08-05T11:20:41.479153"
+    },
+    {
+      "offer_id": "348bb7a14db7ee06",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "359",
+      "error": null,
+      "at": "2026-08-05T11:30:57.918475"
+    },
+    {
+      "offer_id": "dce28b54917f57d5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "360",
+      "error": null,
+      "at": "2026-08-05T11:31:09.494293"
+    },
+    {
+      "offer_id": "bfc4c4f0958b38ea",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "361",
+      "error": null,
+      "at": "2026-08-05T11:31:19.617608"
     }
   ]
 }

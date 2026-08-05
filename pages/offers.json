@@ -1,5 +1,41 @@
 [
   {
+    "id": "bfc4c4f0958b38ea",
+    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+    "price_now": 135.92,
+    "price_was": 229.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/135301189817859288217514561696.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-05T11:31:19.617905"
+  },
+  {
+    "id": "dce28b54917f57d5",
+    "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+    "price_now": 135.92,
+    "price_was": 229.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/780205907617859288117862966569.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-05T11:31:09.494623"
+  },
+  {
+    "id": "348bb7a14db7ee06",
+    "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+    "price_now": 135.92,
+    "price_was": 246.01,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/640762857017859288071619287354.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-05T11:30:57.918821"
+  },
+  {
     "id": "e9ddf24864ae7667",
     "title": "Fralda Descartável Huggies Máxima Proteção Tamanho Xxxl 128 Unidades – Fralda Aberta Com Tecnologia Xtra-flex, Canais Em X Que Se Adaptam Aos Mo",
     "price_now": 143.91,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-04T18:21:11.991992"
-  },
-  {
-    "id": "e6556751e7b181aa",
-    "title": "Berço Co-Bed Maxi-Cosi, Tori, 0 A 9Kg, Beyond Graphite",
-    "price_now": 698.89,
-    "price_was": 1199.0,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0F5X62P8S?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/983460033517858655128311193349.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-04T17:50:45.778715"
-  },
-  {
-    "id": "b48281e57de9c0bd",
-    "title": "Fralda Huggies Supreme Care P 48 unidades",
-    "price_now": 38.87,
-    "price_was": 72.65,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/587007318217858587874739122524.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-04T16:00:51.507086"
-  },
-  {
-    "id": "c4995b2156ea53c6",
-    "title": "Kit Cuidados com Unhas do Bebê 4 em 1",
-    "price_now": 16.99,
-    "price_was": 26.9,
-    "discount_pct": 37,
-    "url": "https://s.shopee.com.br/6fgEL8LT51?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/862315277917858575341752762680.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-04T15:40:57.505502"
   }
 ]
