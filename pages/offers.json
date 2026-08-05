@@ -1,5 +1,17 @@
 [
   {
+    "id": "68e2262e708d1c45",
+    "title": "Chupeta Funny Animais Silicone Anatômico Tam. 2 lillo",
+    "price_now": 9.91,
+    "price_was": 19.84,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B089M5VWXP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/180213190017859424895885542412.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-05T15:20:53.700892"
+  },
+  {
     "id": "65a84fbb43eadf47",
     "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml - (Amazon)",
     "price_now": 34.11,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-04T23:50:48.157227"
-  },
-  {
-    "id": "844e41c17c0804ad",
-    "title": "Fralda Personal Baby Premium Pants M 48 unidades",
-    "price_now": 42.67,
-    "price_was": 80.03,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B0BGM6P1SF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/300597423917858766708045275554.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-04T21:00:56.260072"
   }
 ]

@@ -1431,6 +1431,10 @@
     "65a84fbb43eadf47": {
       "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml - (Amazon)",
       "posted_at": "2026-08-05T15:01:15.919080"
+    },
+    "68e2262e708d1c45": {
+      "title": "Chupeta Funny Animais Silicone Anatômico Tam. 2 lillo",
+      "posted_at": "2026-08-05T15:20:53.701248"
     }
   },
   "results": [
@@ -4361,6 +4365,14 @@
       "post_id": "365",
       "error": null,
       "at": "2026-08-05T15:01:15.918496"
+    },
+    {
+      "offer_id": "68e2262e708d1c45",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "366",
+      "error": null,
+      "at": "2026-08-05T15:20:53.700529"
     }
   ]
 }
