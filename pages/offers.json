@@ -1,5 +1,17 @@
 [
   {
+    "id": "534f35a67df87c98",
+    "title": "Paninho de Boca de Bebê Babete Fralda 3 Peças 100% Algodão",
+    "price_now": 19.95,
+    "price_was": 55.42,
+    "discount_pct": 64,
+    "url": "https://s.shopee.com.br/904AvI4ULP?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/270540379217859552716176906449.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-05T18:50:50.352593"
+  },
+  {
     "id": "4476716d31f63cc9",
     "title": "Ninho Redutor de Berço",
     "price_now": 35.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-05T10:50:43.950727"
-  },
-  {
-    "id": "a2b2c61b564877a7",
-    "title": "Fralda Pom Pom Protek Proteção Mãe Hiper G",
-    "price_now": 53.92,
-    "price_was": 77.37,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/425295058217859100908735588895.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-05T06:20:44.010712"
   }
 ]

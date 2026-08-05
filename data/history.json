@@ -1439,6 +1439,10 @@
     "4476716d31f63cc9": {
       "title": "Ninho Redutor de Berço",
       "posted_at": "2026-08-05T18:40:45.821773"
+    },
+    "534f35a67df87c98": {
+      "title": "Paninho de Boca de Bebê Babete Fralda 3 Peças 100% Algodão",
+      "posted_at": "2026-08-05T18:50:50.352850"
     }
   },
   "results": [
@@ -4385,6 +4389,14 @@
       "post_id": "367",
       "error": null,
       "at": "2026-08-05T18:40:45.820999"
+    },
+    {
+      "offer_id": "534f35a67df87c98",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "368",
+      "error": null,
+      "at": "2026-08-05T18:50:50.352256"
     }
   ]
 }
