@@ -1,5 +1,17 @@
 [
   {
+    "id": "49ad90be1b77f528",
+    "title": "Carrinho de Bebê Zap Burigotto",
+    "price_now": 542.69,
+    "price_was": 929.0,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0C4VJ5DCQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/127493084317859613157943311477.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-05T20:30:41.919393"
+  },
+  {
     "id": "8eb212691515eb5a",
     "title": "Kit 10 Calcinha Infantil Algodão Estampadas (Tam. P ao GG)",
     "price_now": 29.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-05T11:31:09.494623"
-  },
-  {
-    "id": "348bb7a14db7ee06",
-    "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
-    "price_now": 135.92,
-    "price_was": 246.01,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/640762857017859288071619287354.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-05T11:30:57.918821"
   }
 ]

@@ -1451,6 +1451,10 @@
     "8eb212691515eb5a": {
       "title": "Kit 10 Calcinha Infantil Algodão Estampadas (Tam. P ao GG)",
       "posted_at": "2026-08-05T20:10:41.576999"
+    },
+    "49ad90be1b77f528": {
+      "title": "Carrinho de Bebê Zap Burigotto",
+      "posted_at": "2026-08-05T20:30:41.919703"
     }
   },
   "results": [
@@ -4421,6 +4425,14 @@
       "post_id": "370",
       "error": null,
       "at": "2026-08-05T20:10:41.576321"
+    },
+    {
+      "offer_id": "49ad90be1b77f528",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "371",
+      "error": null,
+      "at": "2026-08-05T20:30:41.919073"
     }
   ]
 }
