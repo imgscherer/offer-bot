@@ -1447,6 +1447,10 @@
     "bc43a5a8603b91b3": {
       "title": "Huggies Fralda Supreme Care M 196 Un",
       "posted_at": "2026-08-05T19:40:40.906779"
+    },
+    "8eb212691515eb5a": {
+      "title": "Kit 10 Calcinha Infantil Algodão Estampadas (Tam. P ao GG)",
+      "posted_at": "2026-08-05T20:10:41.576999"
     }
   },
   "results": [
@@ -4409,6 +4413,14 @@
       "post_id": "369",
       "error": null,
       "at": "2026-08-05T19:40:40.906018"
+    },
+    {
+      "offer_id": "8eb212691515eb5a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "370",
+      "error": null,
+      "at": "2026-08-05T20:10:41.576321"
     }
   ]
 }
