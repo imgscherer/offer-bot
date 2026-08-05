@@ -1,5 +1,17 @@
 [
   {
+    "id": "a2b2c61b564877a7",
+    "title": "Fralda Pom Pom Protek Proteção Mãe Hiper G",
+    "price_now": 53.92,
+    "price_was": 77.37,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/425295058217859100908735588895.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-05T06:20:44.010712"
+  },
+  {
     "id": "1355dbb56722425c",
     "title": "Sandália Infantil Menino Animais Bichos Leve Divertido Confortável Delicado Antiderrapante Escola",
     "price_now": 23.15,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-04T14:31:23.046812"
-  },
-  {
-    "id": "dbad9fc1f03353dc",
-    "title": "Tênis Spring Infantil (Tam. 20 ao 35, 4 cores)",
-    "price_now": 54.9,
-    "price_was": 89.98,
-    "discount_pct": 39,
-    "url": "https://s.shopee.com.br/9zwgEKV3TM?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/455863341417858532258617233540.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-04T14:31:09.834734"
   }
 ]

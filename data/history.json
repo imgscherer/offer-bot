@@ -1391,6 +1391,10 @@
     "1355dbb56722425c": {
       "title": "Sandália Infantil Menino Animais Bichos Leve Divertido Confortável Delicado Antiderrapante Escola",
       "posted_at": "2026-08-04T23:50:48.157591"
+    },
+    "a2b2c61b564877a7": {
+      "title": "Fralda Pom Pom Protek Proteção Mãe Hiper G",
+      "posted_at": "2026-08-05T06:20:44.011052"
     }
   },
   "results": [
@@ -4241,6 +4245,14 @@
       "post_id": "355",
       "error": null,
       "at": "2026-08-04T23:50:48.156865"
+    },
+    {
+      "offer_id": "a2b2c61b564877a7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "356",
+      "error": null,
+      "at": "2026-08-05T06:20:44.010379"
     }
   ]
 }
