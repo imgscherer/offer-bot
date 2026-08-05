@@ -1435,6 +1435,10 @@
     "68e2262e708d1c45": {
       "title": "Chupeta Funny Animais Silicone Anatômico Tam. 2 lillo",
       "posted_at": "2026-08-05T15:20:53.701248"
+    },
+    "4476716d31f63cc9": {
+      "title": "Ninho Redutor de Berço",
+      "posted_at": "2026-08-05T18:40:45.821773"
     }
   },
   "results": [
@@ -4373,6 +4377,14 @@
       "post_id": "366",
       "error": null,
       "at": "2026-08-05T15:20:53.700529"
+    },
+    {
+      "offer_id": "4476716d31f63cc9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "367",
+      "error": null,
+      "at": "2026-08-05T18:40:45.820999"
     }
   ]
 }

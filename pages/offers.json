@@ -1,5 +1,17 @@
 [
   {
+    "id": "4476716d31f63cc9",
+    "title": "Ninho Redutor de Berço",
+    "price_now": 35.9,
+    "price_was": 51.29,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/40fUxd4Zqd?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/983878261817859548577798231858.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-05T18:40:45.821421"
+  },
+  {
     "id": "68e2262e708d1c45",
     "title": "Chupeta Funny Animais Silicone Anatômico Tam. 2 lillo",
     "price_now": 9.91,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-05T06:20:44.010712"
-  },
-  {
-    "id": "1355dbb56722425c",
-    "title": "Sandália Infantil Menino Animais Bichos Leve Divertido Confortável Delicado Antiderrapante Escola",
-    "price_now": 23.15,
-    "price_was": 39.91,
-    "discount_pct": 42,
-    "url": "https://s.shopee.com.br/8AV2f0MOsu?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/305403965417858864607607081089.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-04T23:50:48.157227"
   }
 ]
