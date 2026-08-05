@@ -1,5 +1,17 @@
 [
   {
+    "id": "bc43a5a8603b91b3",
+    "title": "Huggies Fralda Supreme Care M 196 Un",
+    "price_now": 151.9,
+    "price_was": 229.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/913685554417859585697623509444.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-05T19:40:40.906393"
+  },
+  {
     "id": "534f35a67df87c98",
     "title": "Paninho de Boca de Bebê Babete Fralda 3 Peças 100% Algodão",
     "price_now": 19.95,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-05T11:20:41.479537"
-  },
-  {
-    "id": "d4e2489cc1d1ba74",
-    "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
-    "price_now": 46.96,
-    "price_was": 69.42,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/489665314817859268273746213738.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-05T10:50:43.950727"
   }
 ]

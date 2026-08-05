@@ -1443,6 +1443,10 @@
     "534f35a67df87c98": {
       "title": "Paninho de Boca de Bebê Babete Fralda 3 Peças 100% Algodão",
       "posted_at": "2026-08-05T18:50:50.352850"
+    },
+    "bc43a5a8603b91b3": {
+      "title": "Huggies Fralda Supreme Care M 196 Un",
+      "posted_at": "2026-08-05T19:40:40.906779"
     }
   },
   "results": [
@@ -4397,6 +4401,14 @@
       "post_id": "368",
       "error": null,
       "at": "2026-08-05T18:50:50.352256"
+    },
+    {
+      "offer_id": "bc43a5a8603b91b3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "369",
+      "error": null,
+      "at": "2026-08-05T19:40:40.906018"
     }
   ]
 }
