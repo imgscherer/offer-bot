@@ -1,5 +1,17 @@
 [
   {
+    "id": "d4e2489cc1d1ba74",
+    "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
+    "price_now": 46.96,
+    "price_was": 69.42,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/489665314817859268273746213738.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-05T10:50:43.950727"
+  },
+  {
     "id": "a2b2c61b564877a7",
     "title": "Fralda Pom Pom Protek Proteção Mãe Hiper G",
     "price_now": 53.92,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-04T15:40:45.990380"
-  },
-  {
-    "id": "064a5908c3f7f13b",
-    "title": "Fralda Babysec Premium XG 24 unidades",
-    "price_now": 26.72,
-    "price_was": 40.13,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B07XL8XYNV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/385295515317858536276868615328.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-04T14:31:23.046812"
   }
 ]
