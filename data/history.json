@@ -1419,6 +1419,10 @@
     "7ebb6ce938139f16": {
       "title": "Touca Bebê + Luvas + Sapatinho Pantufas Enxoval Recém Nascido",
       "posted_at": "2026-08-05T11:50:46.366049"
+    },
+    "b33f1a9b2fc0f648": {
+      "title": "Kit 2 Meia Calça Infantil (Tam. 0 a 24 meses)",
+      "posted_at": "2026-08-05T13:10:55.199658"
     }
   },
   "results": [
@@ -4325,6 +4329,14 @@
       "post_id": "362",
       "error": null,
       "at": "2026-08-05T11:50:46.365361"
+    },
+    {
+      "offer_id": "b33f1a9b2fc0f648",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "363",
+      "error": null,
+      "at": "2026-08-05T13:10:55.198947"
     }
   ]
 }
