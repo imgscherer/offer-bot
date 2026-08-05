@@ -1415,6 +1415,10 @@
     "bfc4c4f0958b38ea": {
       "title": "Fralda Huggies Máxima Proteção M 196 unidades",
       "posted_at": "2026-08-05T11:31:19.618250"
+    },
+    "7ebb6ce938139f16": {
+      "title": "Touca Bebê + Luvas + Sapatinho Pantufas Enxoval Recém Nascido",
+      "posted_at": "2026-08-05T11:50:46.366049"
     }
   },
   "results": [
@@ -4313,6 +4317,14 @@
       "post_id": "361",
       "error": null,
       "at": "2026-08-05T11:31:19.617608"
+    },
+    {
+      "offer_id": "7ebb6ce938139f16",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "362",
+      "error": null,
+      "at": "2026-08-05T11:50:46.365361"
     }
   ]
 }
