@@ -1455,6 +1455,10 @@
     "49ad90be1b77f528": {
       "title": "Carrinho de Bebê Zap Burigotto",
       "posted_at": "2026-08-05T20:30:41.919703"
+    },
+    "039e5a1ebcb090d8": {
+      "title": "Fralda Huggies Natural Care RN 34 Unidades",
+      "posted_at": "2026-08-06T11:10:45.157842"
     }
   },
   "results": [
@@ -4433,6 +4437,14 @@
       "post_id": "371",
       "error": null,
       "at": "2026-08-05T20:30:41.919073"
+    },
+    {
+      "offer_id": "039e5a1ebcb090d8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "372",
+      "error": null,
+      "at": "2026-08-06T11:10:45.157123"
     }
   ]
 }

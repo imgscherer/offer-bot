@@ -1,5 +1,17 @@
 [
   {
+    "id": "039e5a1ebcb090d8",
+    "title": "Fralda Huggies Natural Care RN 34 Unidades",
+    "price_now": 28.4,
+    "price_was": 43.59,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/409082642017860145238970720533.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-06T11:10:45.157463"
+  },
+  {
     "id": "49ad90be1b77f528",
     "title": "Carrinho de Bebê Zap Burigotto",
     "price_now": 542.69,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-05T11:31:19.617905"
-  },
-  {
-    "id": "dce28b54917f57d5",
-    "title": "Fralda Huggies Máxima Proteção G 160 unidades",
-    "price_now": 135.92,
-    "price_was": 229.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/780205907617859288117862966569.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-05T11:31:09.494623"
   }
 ]
