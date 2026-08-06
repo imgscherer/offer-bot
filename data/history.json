@@ -1459,6 +1459,10 @@
     "039e5a1ebcb090d8": {
       "title": "Fralda Huggies Natural Care RN 34 Unidades",
       "posted_at": "2026-08-06T11:10:45.157842"
+    },
+    "0a89139026253552": {
+      "title": "Cobertor Manta Soft Bebê Dupla Face Macio Sherpa (Diversas Cores)",
+      "posted_at": "2026-08-06T12:40:43.021754"
     }
   },
   "results": [
@@ -4445,6 +4449,14 @@
       "post_id": "372",
       "error": null,
       "at": "2026-08-06T11:10:45.157123"
+    },
+    {
+      "offer_id": "0a89139026253552",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "373",
+      "error": null,
+      "at": "2026-08-06T12:40:43.021067"
     }
   ]
 }
