@@ -1,5 +1,29 @@
 [
   {
+    "id": "0bf43d472dc4af71",
+    "title": "Fralda Huggies Máxima Proteção M 72 unidades",
+    "price_now": 68.43,
+    "price_was": 116.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BQ3Y3VD3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/300361100217860288899368689796.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-06T15:20:52.820508"
+  },
+  {
+    "id": "9f70b727e06ab515",
+    "title": "Fralda Huggies Tripla Proteção G 78 Unidades",
+    "price_now": 62.92,
+    "price_was": 109.03,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B07FNMB4QN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/161768945617860288871337594780.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-06T15:20:42.352605"
+  },
+  {
     "id": "0a89139026253552",
     "title": "Cobertor Manta Soft Bebê Dupla Face Macio Sherpa (Diversas Cores)",
     "price_now": 30.9,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-05T14:30:57.690340"
-  },
-  {
-    "id": "b33f1a9b2fc0f648",
-    "title": "Kit 2 Meia Calça Infantil (Tam. 0 a 24 meses)",
-    "price_now": 29.99,
-    "price_was": 49.98,
-    "discount_pct": 40,
-    "url": "https://s.shopee.com.br/W5cQo6cNB?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/356440609417859352979916078129.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-05T13:10:55.199303"
-  },
-  {
-    "id": "7ebb6ce938139f16",
-    "title": "Touca Bebê + Luvas + Sapatinho Pantufas Enxoval Recém Nascido",
-    "price_now": 21.56,
-    "price_was": 59.46,
-    "discount_pct": 64,
-    "url": "https://s.shopee.com.br/AKZY33eknU?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/319319756817859302102031124093.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-05T11:50:46.365716"
   }
 ]

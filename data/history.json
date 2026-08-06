@@ -1463,6 +1463,14 @@
     "0a89139026253552": {
       "title": "Cobertor Manta Soft Bebê Dupla Face Macio Sherpa (Diversas Cores)",
       "posted_at": "2026-08-06T12:40:43.021754"
+    },
+    "9f70b727e06ab515": {
+      "title": "Fralda Huggies Tripla Proteção G 78 Unidades",
+      "posted_at": "2026-08-06T15:20:42.352889"
+    },
+    "0bf43d472dc4af71": {
+      "title": "Fralda Huggies Máxima Proteção M 72 unidades",
+      "posted_at": "2026-08-06T15:20:52.820812"
     }
   },
   "results": [
@@ -4457,6 +4465,22 @@
       "post_id": "373",
       "error": null,
       "at": "2026-08-06T12:40:43.021067"
+    },
+    {
+      "offer_id": "9f70b727e06ab515",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "374",
+      "error": null,
+      "at": "2026-08-06T15:20:42.352313"
+    },
+    {
+      "offer_id": "0bf43d472dc4af71",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "375",
+      "error": null,
+      "at": "2026-08-06T15:20:52.820199"
     }
   ]
 }
