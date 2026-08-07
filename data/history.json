@@ -1475,6 +1475,10 @@
     "aa011fbe4973c4c6": {
       "title": "Kit 6 Cuecas Boxer Infantil Sem Costura Rafa Parize Meninos Criança Microfibra Sortida (BR Alfa G Sortido)",
       "posted_at": "2026-08-07T00:30:52.572904"
+    },
+    "0b67df3e2854b4f9": {
+      "title": "Brinquedos De Pelúcia Para Bebês Macia Girafa Infantil De Algodão Rattle Doll Toy",
+      "posted_at": "2026-08-07T00:40:44.113711"
     }
   },
   "results": [
@@ -4493,6 +4497,14 @@
       "post_id": "376",
       "error": null,
       "at": "2026-08-07T00:30:52.572166"
+    },
+    {
+      "offer_id": "0b67df3e2854b4f9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "377",
+      "error": null,
+      "at": "2026-08-07T00:40:44.112997"
     }
   ]
 }
