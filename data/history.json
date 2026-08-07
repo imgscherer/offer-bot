@@ -1499,6 +1499,10 @@
     "9c56670a55e0c46d": {
       "title": "Troninho Infantil Buba",
       "posted_at": "2026-08-07T12:30:54.198754"
+    },
+    "af88c52fbe4e63d3": {
+      "title": "Carrinho de Bebê e Berço Moises Napoli Preto Cobre Galzerano",
+      "posted_at": "2026-08-07T13:50:47.386806"
     }
   },
   "results": [
@@ -4565,6 +4569,14 @@
       "post_id": "382",
       "error": null,
       "at": "2026-08-07T12:30:54.079453"
+    },
+    {
+      "offer_id": "af88c52fbe4e63d3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "383",
+      "error": null,
+      "at": "2026-08-07T13:50:47.386206"
     }
   ]
 }

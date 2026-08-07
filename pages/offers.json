@@ -1,5 +1,17 @@
 [
   {
+    "id": "af88c52fbe4e63d3",
+    "title": "Carrinho de Bebê e Berço Moises Napoli Preto Cobre Galzerano",
+    "price_now": 633.88,
+    "price_was": 1355.34,
+    "discount_pct": 53,
+    "url": "https://s.shopee.com.br/3LPr2GnR2a?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/217460781617861102611534305840.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-07T13:50:47.386524"
+  },
+  {
     "id": "9c56670a55e0c46d",
     "title": "Troninho Infantil Buba",
     "price_now": 34.98,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-06T11:10:45.157463"
-  },
-  {
-    "id": "49ad90be1b77f528",
-    "title": "Carrinho de Bebê Zap Burigotto",
-    "price_now": 542.69,
-    "price_was": 929.0,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0C4VJ5DCQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/127493084317859613157943311477.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-05T20:30:41.919393"
   }
 ]
