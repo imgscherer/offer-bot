@@ -1503,6 +1503,14 @@
     "af88c52fbe4e63d3": {
       "title": "Carrinho de Bebê e Berço Moises Napoli Preto Cobre Galzerano",
       "posted_at": "2026-08-07T13:50:47.386806"
+    },
+    "99f6184738c94f3f": {
+      "title": "Patinete Infantil 3 Rodas LED Musical Ajustável Dobrável P15",
+      "posted_at": "2026-08-07T15:00:51.610421"
+    },
+    "5880dc548e2d10f8": {
+      "title": "Macacão e Camiseta ou Conjunto Infantil Bear Marrom Ursinho (Tam. Único)",
+      "posted_at": "2026-08-07T15:01:02.505162"
     }
   },
   "results": [
@@ -4577,6 +4585,22 @@
       "post_id": "383",
       "error": null,
       "at": "2026-08-07T13:50:47.386206"
+    },
+    {
+      "offer_id": "99f6184738c94f3f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "384",
+      "error": null,
+      "at": "2026-08-07T15:00:51.609705"
+    },
+    {
+      "offer_id": "5880dc548e2d10f8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "385",
+      "error": null,
+      "at": "2026-08-07T15:01:02.504518"
     }
   ]
 }

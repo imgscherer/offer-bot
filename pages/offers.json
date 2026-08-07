@@ -1,5 +1,29 @@
 [
   {
+    "id": "5880dc548e2d10f8",
+    "title": "Macacão e Camiseta ou Conjunto Infantil Bear Marrom Ursinho (Tam. Único)",
+    "price_now": 21.9,
+    "price_was": 39.9,
+    "discount_pct": 45,
+    "url": "https://s.shopee.com.br/4LIOIhVQEv?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/866279458417861142721377493970.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-07T15:01:02.504817"
+  },
+  {
+    "id": "99f6184738c94f3f",
+    "title": "Patinete Infantil 3 Rodas LED Musical Ajustável Dobrável P15",
+    "price_now": 182.99,
+    "price_was": 590.29,
+    "discount_pct": 69,
+    "url": "https://s.shopee.com.br/7psGSfCDIP?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/465673144917861138579207743261.png",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-07T15:00:51.610078"
+  },
+  {
     "id": "af88c52fbe4e63d3",
     "title": "Carrinho de Bebê e Berço Moises Napoli Preto Cobre Galzerano",
     "price_now": 633.88,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-06T15:20:42.352605"
-  },
-  {
-    "id": "0a89139026253552",
-    "title": "Cobertor Manta Soft Bebê Dupla Face Macio Sherpa (Diversas Cores)",
-    "price_now": 30.9,
-    "price_was": 63.8,
-    "discount_pct": 52,
-    "url": "https://s.shopee.com.br/904C6zBGy5?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/506864365417860196613959727292.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-06T12:40:43.021432"
-  },
-  {
-    "id": "039e5a1ebcb090d8",
-    "title": "Fralda Huggies Natural Care RN 34 Unidades",
-    "price_now": 28.4,
-    "price_was": 43.59,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/409082642017860145238970720533.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-06T11:10:45.157463"
   }
 ]
