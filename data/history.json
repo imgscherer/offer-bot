@@ -1471,6 +1471,10 @@
     "0bf43d472dc4af71": {
       "title": "Fralda Huggies Máxima Proteção M 72 unidades",
       "posted_at": "2026-08-06T15:20:52.820812"
+    },
+    "aa011fbe4973c4c6": {
+      "title": "Kit 6 Cuecas Boxer Infantil Sem Costura Rafa Parize Meninos Criança Microfibra Sortida (BR Alfa G Sortido)",
+      "posted_at": "2026-08-07T00:30:52.572904"
     }
   },
   "results": [
@@ -4481,6 +4485,14 @@
       "post_id": "375",
       "error": null,
       "at": "2026-08-06T15:20:52.820199"
+    },
+    {
+      "offer_id": "aa011fbe4973c4c6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "376",
+      "error": null,
+      "at": "2026-08-07T00:30:52.572166"
     }
   ]
 }
