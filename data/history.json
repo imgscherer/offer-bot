@@ -1487,6 +1487,10 @@
     "1c2effbd00dbe4a9": {
       "title": "Fralda Cremer Mega XG 36 Unidades",
       "posted_at": "2026-08-07T10:50:45.052090"
+    },
+    "7c02faeff8a43bb3": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
+      "posted_at": "2026-08-07T11:00:47.137616"
     }
   },
   "results": [
@@ -4529,6 +4533,14 @@
       "post_id": "379",
       "error": null,
       "at": "2026-08-07T10:50:45.051460"
+    },
+    {
+      "offer_id": "7c02faeff8a43bb3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "380",
+      "error": null,
+      "at": "2026-08-07T11:00:47.136903"
     }
   ]
 }
