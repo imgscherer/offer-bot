@@ -1491,6 +1491,10 @@
     "7c02faeff8a43bb3": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
       "posted_at": "2026-08-07T11:00:47.137616"
+    },
+    "dc760b6d83d5346a": {
+      "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xxg 28 Unidades",
+      "posted_at": "2026-08-07T12:20:49.409778"
     }
   },
   "results": [
@@ -4541,6 +4545,14 @@
       "post_id": "380",
       "error": null,
       "at": "2026-08-07T11:00:47.136903"
+    },
+    {
+      "offer_id": "dc760b6d83d5346a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "381",
+      "error": null,
+      "at": "2026-08-07T12:20:49.409143"
     }
   ]
 }
