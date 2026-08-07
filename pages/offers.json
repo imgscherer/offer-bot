@@ -1,5 +1,17 @@
 [
   {
+    "id": "1c2effbd00dbe4a9",
+    "title": "Fralda Cremer Mega XG 36 Unidades",
+    "price_now": 28.4,
+    "price_was": 45.4,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B08BXP4XN4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/902533712317860995255382691066.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-07T10:50:45.051782"
+  },
+  {
     "id": "e14889655dfdfb81",
     "title": "Carrinho Zap Metal Burigotto",
     "price_now": 539.87,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-05T18:50:50.352593"
-  },
-  {
-    "id": "4476716d31f63cc9",
-    "title": "Ninho Redutor de Berço",
-    "price_now": 35.9,
-    "price_was": 51.29,
-    "discount_pct": 30,
-    "url": "https://s.shopee.com.br/40fUxd4Zqd?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/983878261817859548577798231858.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-05T18:40:45.821421"
   }
 ]
