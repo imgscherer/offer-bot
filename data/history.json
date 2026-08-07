@@ -1479,6 +1479,10 @@
     "0b67df3e2854b4f9": {
       "title": "Brinquedos De Pelúcia Para Bebês Macia Girafa Infantil De Algodão Rattle Doll Toy",
       "posted_at": "2026-08-07T00:40:44.113711"
+    },
+    "e14889655dfdfb81": {
+      "title": "Carrinho Zap Metal Burigotto",
+      "posted_at": "2026-08-07T02:20:36.581718"
     }
   },
   "results": [
@@ -4505,6 +4509,14 @@
       "post_id": "377",
       "error": null,
       "at": "2026-08-07T00:40:44.112997"
+    },
+    {
+      "offer_id": "e14889655dfdfb81",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "378",
+      "error": null,
+      "at": "2026-08-07T02:20:36.581005"
     }
   ]
 }

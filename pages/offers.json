@@ -1,5 +1,17 @@
 [
   {
+    "id": "e14889655dfdfb81",
+    "title": "Carrinho Zap Metal Burigotto",
+    "price_now": 539.87,
+    "price_was": 929.0,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0C5NQFRGB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/460707399317860388477478383801.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-07T02:20:36.581378"
+  },
+  {
     "id": "0b67df3e2854b4f9",
     "title": "Brinquedos De Pelúcia Para Bebês Macia Girafa Infantil De Algodão Rattle Doll Toy",
     "price_now": 19.84,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-05T18:40:45.821421"
-  },
-  {
-    "id": "68e2262e708d1c45",
-    "title": "Chupeta Funny Animais Silicone Anatômico Tam. 2 lillo",
-    "price_now": 9.91,
-    "price_was": 19.84,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B089M5VWXP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/180213190017859424895885542412.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-05T15:20:53.700892"
   }
 ]
