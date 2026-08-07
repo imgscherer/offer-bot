@@ -1,5 +1,17 @@
 [
   {
+    "id": "9c56670a55e0c46d",
+    "title": "Troninho Infantil Buba",
+    "price_now": 34.98,
+    "price_was": 82.9,
+    "discount_pct": 58,
+    "url": "https://www.amazon.com.br/dp/B087NN64FN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/637919378117861057077987145157.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-07T12:30:54.079754"
+  },
+  {
     "id": "dc760b6d83d5346a",
     "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xxg 28 Unidades",
     "price_now": 32.57,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-05T20:30:41.919393"
-  },
-  {
-    "id": "8eb212691515eb5a",
-    "title": "Kit 10 Calcinha Infantil Algodão Estampadas (Tam. P ao GG)",
-    "price_now": 29.0,
-    "price_was": 60.42,
-    "discount_pct": 52,
-    "url": "https://s.shopee.com.br/AAG8P8OdyB?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/740621895717859602505257687131.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-05T20:10:41.576677"
   }
 ]

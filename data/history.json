@@ -1495,6 +1495,10 @@
     "dc760b6d83d5346a": {
       "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xxg 28 Unidades",
       "posted_at": "2026-08-07T12:20:49.409778"
+    },
+    "9c56670a55e0c46d": {
+      "title": "Troninho Infantil Buba",
+      "posted_at": "2026-08-07T12:30:54.198754"
     }
   },
   "results": [
@@ -4553,6 +4557,14 @@
       "post_id": "381",
       "error": null,
       "at": "2026-08-07T12:20:49.409143"
+    },
+    {
+      "offer_id": "9c56670a55e0c46d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "382",
+      "error": null,
+      "at": "2026-08-07T12:30:54.079453"
     }
   ]
 }
