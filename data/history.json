@@ -1511,6 +1511,10 @@
     "5880dc548e2d10f8": {
       "title": "Macacão e Camiseta ou Conjunto Infantil Bear Marrom Ursinho (Tam. Único)",
       "posted_at": "2026-08-07T15:01:02.505162"
+    },
+    "c4b06266ff10b488": {
+      "title": "Kit 2 Prendedores De Chupeta Coala Buba",
+      "posted_at": "2026-08-07T18:50:50.854677"
     }
   },
   "results": [
@@ -4601,6 +4605,14 @@
       "post_id": "385",
       "error": null,
       "at": "2026-08-07T15:01:02.504518"
+    },
+    {
+      "offer_id": "c4b06266ff10b488",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "386",
+      "error": null,
+      "at": "2026-08-07T18:50:50.853958"
     }
   ]
 }

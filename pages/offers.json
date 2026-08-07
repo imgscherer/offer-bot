@@ -1,5 +1,17 @@
 [
   {
+    "id": "c4b06266ff10b488",
+    "title": "Kit 2 Prendedores De Chupeta Coala Buba",
+    "price_now": 19.7,
+    "price_was": 29.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0B3F6BXLH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/560318477217861279492995697348.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-07T18:50:50.854318"
+  },
+  {
     "id": "5880dc548e2d10f8",
     "title": "Macacão e Camiseta ou Conjunto Infantil Bear Marrom Ursinho (Tam. Único)",
     "price_now": 21.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-06T15:20:52.820508"
-  },
-  {
-    "id": "9f70b727e06ab515",
-    "title": "Fralda Huggies Tripla Proteção G 78 Unidades",
-    "price_now": 62.92,
-    "price_was": 109.03,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B07FNMB4QN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/161768945617860288871337594780.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-06T15:20:42.352605"
   }
 ]
