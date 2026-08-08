@@ -1563,6 +1563,10 @@
     "3dddd6064e3a73de": {
       "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 50g",
       "posted_at": "2026-08-08T13:50:51.826366"
+    },
+    "9abf0b21095d3c04": {
+      "title": "Huggies Fralda Descartável Máxima Proteção XG - 58 Un",
+      "posted_at": "2026-08-08T14:20:40.440633"
     }
   },
   "results": [
@@ -4757,6 +4761,14 @@
       "post_id": "398",
       "error": null,
       "at": "2026-08-08T13:50:51.825823"
+    },
+    {
+      "offer_id": "9abf0b21095d3c04",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "399",
+      "error": null,
+      "at": "2026-08-08T14:20:40.439856"
     }
   ]
 }
