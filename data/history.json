@@ -1515,6 +1515,14 @@
     "c4b06266ff10b488": {
       "title": "Kit 2 Prendedores De Chupeta Coala Buba",
       "posted_at": "2026-08-07T18:50:50.854677"
+    },
+    "0c549785220ca6fd": {
+      "title": "Kit Berço Americano Paris Leãozinho 9 Peças Verde Erva Doce Com Linho",
+      "posted_at": "2026-08-08T09:50:50.961168"
+    },
+    "c4db74e7758243a6": {
+      "title": "Berço Balanço Portátil Chiqueirinho Cercado Desmontável c Mosquiteiro Trocador Música e Vibração",
+      "posted_at": "2026-08-08T09:51:03.354378"
     }
   },
   "results": [
@@ -4613,6 +4621,22 @@
       "post_id": "386",
       "error": null,
       "at": "2026-08-07T18:50:50.853958"
+    },
+    {
+      "offer_id": "0c549785220ca6fd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "387",
+      "error": null,
+      "at": "2026-08-08T09:50:50.960460"
+    },
+    {
+      "offer_id": "c4db74e7758243a6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "388",
+      "error": null,
+      "at": "2026-08-08T09:51:03.353750"
     }
   ]
 }
