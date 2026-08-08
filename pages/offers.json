@@ -1,5 +1,17 @@
 [
   {
+    "id": "a40b77f7a9ab2106",
+    "title": "Fralda Turma da Mônica Baby M 120 unidades",
+    "price_now": 74.39,
+    "price_was": 129.15,
+    "discount_pct": 42,
+    "url": "https://s.shopee.com.br/7VFRWpJ7U5?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/205552057917861931708815022431.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-08T13:00:55.327211"
+  },
+  {
     "id": "bb844d1b9a9202f0",
     "title": "Fralda Pampers Supersec M 90 unidades",
     "price_now": 74.25,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-07T13:50:47.386524"
-  },
-  {
-    "id": "9c56670a55e0c46d",
-    "title": "Troninho Infantil Buba",
-    "price_now": 34.98,
-    "price_was": 82.9,
-    "discount_pct": 58,
-    "url": "https://www.amazon.com.br/dp/B087NN64FN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/637919378117861057077987145157.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-07T12:30:54.079754"
   }
 ]

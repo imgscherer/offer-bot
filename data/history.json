@@ -1543,6 +1543,10 @@
     "bb844d1b9a9202f0": {
       "title": "Fralda Pampers Supersec M 90 unidades",
       "posted_at": "2026-08-08T12:40:56.386994"
+    },
+    "a40b77f7a9ab2106": {
+      "title": "Fralda Turma da Mônica Baby M 120 unidades",
+      "posted_at": "2026-08-08T13:00:55.327557"
     }
   },
   "results": [
@@ -4697,6 +4701,14 @@
       "post_id": "393",
       "error": null,
       "at": "2026-08-08T12:40:56.386360"
+    },
+    {
+      "offer_id": "a40b77f7a9ab2106",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "394",
+      "error": null,
+      "at": "2026-08-08T13:00:55.326897"
     }
   ]
 }
