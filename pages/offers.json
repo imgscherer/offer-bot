@@ -1,5 +1,29 @@
 [
   {
+    "id": "ab9610bb622d3e82",
+    "title": "Fralda Babysec Premium Shortinho XG 42 unidades",
+    "price_now": 55.99,
+    "price_was": 93.32,
+    "discount_pct": 40,
+    "url": "https://s.shopee.com.br/1Leob2aVaZ?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/576271015317862154902254227570.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-08T19:01:05.063359"
+  },
+  {
+    "id": "0052d2e19ce3e45d",
+    "title": "Fralda Babysec Premium Shortinho XXG 42 unidades",
+    "price_now": 55.99,
+    "price_was": 107.68,
+    "discount_pct": 48,
+    "url": "https://s.shopee.com.br/60Qe9cIk82?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/784446164617862154936473233332.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-08T19:00:52.669269"
+  },
+  {
     "id": "e82f9b55734f562c",
     "title": "Carrinho de Passeio Jip Jip com Empurrador Maral",
     "price_now": 193.13,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-08T13:50:51.826102"
-  },
-  {
-    "id": "6b31a677691b8e45",
-    "title": "Kit Pampers Refil Shampoo Glicerina 350ml + Loção Hidratante Infantil 350ml",
-    "price_now": 19.0,
-    "price_was": 75.45,
-    "discount_pct": 75,
-    "url": "https://s.shopee.com.br/5ArWlMpXJ3?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/170065145517861958844332940833.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-08T13:50:45.489726"
-  },
-  {
-    "id": "13df085a86f075c9",
-    "title": "Kit 03 Toalhas De Banho Bebê Anti Alérgica",
-    "price_now": 24.49,
-    "price_was": 69.98,
-    "discount_pct": 65,
-    "url": "https://s.shopee.com.br/8AV8KsiaF3?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/635347424717861938967523376323.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-08T13:10:55.178699"
   }
 ]

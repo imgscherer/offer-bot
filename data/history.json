@@ -1599,6 +1599,14 @@
     "e82f9b55734f562c": {
       "title": "Carrinho de Passeio Jip Jip com Empurrador Maral",
       "posted_at": "2026-08-08T18:50:43.766282"
+    },
+    "0052d2e19ce3e45d": {
+      "title": "Fralda Babysec Premium Shortinho XXG 42 unidades",
+      "posted_at": "2026-08-08T19:00:52.669547"
+    },
+    "ab9610bb622d3e82": {
+      "title": "Fralda Babysec Premium Shortinho XG 42 unidades",
+      "posted_at": "2026-08-08T19:01:05.063621"
     }
   },
   "results": [
@@ -4865,6 +4873,22 @@
       "post_id": "407",
       "error": null,
       "at": "2026-08-08T18:50:43.765725"
+    },
+    {
+      "offer_id": "0052d2e19ce3e45d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "408",
+      "error": null,
+      "at": "2026-08-08T19:00:52.668964"
+    },
+    {
+      "offer_id": "ab9610bb622d3e82",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "409",
+      "error": null,
+      "at": "2026-08-08T19:01:05.063089"
     }
   ]
 }
