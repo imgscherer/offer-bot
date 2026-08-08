@@ -1,5 +1,29 @@
 [
   {
+    "id": "13df085a86f075c9",
+    "title": "Kit 03 Toalhas De Banho Bebê Anti Alérgica",
+    "price_now": 24.49,
+    "price_was": 69.98,
+    "discount_pct": 65,
+    "url": "https://s.shopee.com.br/8AV8KsiaF3?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/635347424717861938967523376323.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-08T13:10:55.178699"
+  },
+  {
+    "id": "ff8fc26ce5d73245",
+    "title": "Kit Pampers Refil Shampoo Glicerina 350ml + Loção Hidratante Infantil 350ml",
+    "price_now": 19.92,
+    "price_was": 75.45,
+    "discount_pct": 74,
+    "url": "https://s.shopee.com.br/5ArWlMpXJ3?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/918296280117861938943563156447.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-08T13:10:44.338164"
+  },
+  {
     "id": "a40b77f7a9ab2106",
     "title": "Fralda Turma da Mônica Baby M 120 unidades",
     "price_now": 74.39,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-07T15:01:02.504817"
-  },
-  {
-    "id": "99f6184738c94f3f",
-    "title": "Patinete Infantil 3 Rodas LED Musical Ajustável Dobrável P15",
-    "price_now": 182.99,
-    "price_was": 590.29,
-    "discount_pct": 69,
-    "url": "https://s.shopee.com.br/7psGSfCDIP?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/465673144917861138579207743261.png",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-07T15:00:51.610078"
-  },
-  {
-    "id": "af88c52fbe4e63d3",
-    "title": "Carrinho de Bebê e Berço Moises Napoli Preto Cobre Galzerano",
-    "price_now": 633.88,
-    "price_was": 1355.34,
-    "discount_pct": 53,
-    "url": "https://s.shopee.com.br/3LPr2GnR2a?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/217460781617861102611534305840.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-07T13:50:47.386524"
   }
 ]

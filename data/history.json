@@ -1547,6 +1547,14 @@
     "a40b77f7a9ab2106": {
       "title": "Fralda Turma da Mônica Baby M 120 unidades",
       "posted_at": "2026-08-08T13:00:55.327557"
+    },
+    "ff8fc26ce5d73245": {
+      "title": "Kit Pampers Refil Shampoo Glicerina 350ml + Loção Hidratante Infantil 350ml",
+      "posted_at": "2026-08-08T13:10:44.338476"
+    },
+    "13df085a86f075c9": {
+      "title": "Kit 03 Toalhas De Banho Bebê Anti Alérgica",
+      "posted_at": "2026-08-08T13:10:55.179065"
     }
   },
   "results": [
@@ -4709,6 +4717,22 @@
       "post_id": "394",
       "error": null,
       "at": "2026-08-08T13:00:55.326897"
+    },
+    {
+      "offer_id": "ff8fc26ce5d73245",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "395",
+      "error": null,
+      "at": "2026-08-08T13:10:44.337800"
+    },
+    {
+      "offer_id": "13df085a86f075c9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "396",
+      "error": null,
+      "at": "2026-08-08T13:10:55.178388"
     }
   ]
 }
