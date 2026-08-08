@@ -1,5 +1,29 @@
 [
   {
+    "id": "2540c56ec7884023",
+    "title": "Sabonete Líquido Infantil para bebês Protex Baby Delicate Care 200ml",
+    "price_now": 13.64,
+    "price_was": 21.23,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B08JQNSTJY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/819000590617861878282776957993.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-08T11:20:59.531003"
+  },
+  {
+    "id": "3d5e0dc7a66ced11",
+    "title": "Fralda Huggies Natural Care Pants G 60 unidades",
+    "price_now": 69.15,
+    "price_was": 118.35,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/169940876917861877108656627523.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-08T11:20:48.278369"
+  },
+  {
     "id": "c4db74e7758243a6",
     "title": "Berço Balanço Portátil Chiqueirinho Cercado Desmontável c Mosquiteiro Trocador Música e Vibração",
     "price_now": 650.28,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-07T10:50:45.051782"
-  },
-  {
-    "id": "e14889655dfdfb81",
-    "title": "Carrinho Zap Metal Burigotto",
-    "price_now": 539.87,
-    "price_was": 929.0,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0C5NQFRGB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/460707399317860388477478383801.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-07T02:20:36.581378"
-  },
-  {
-    "id": "0b67df3e2854b4f9",
-    "title": "Brinquedos De Pelúcia Para Bebês Macia Girafa Infantil De Algodão Rattle Doll Toy",
-    "price_now": 19.84,
-    "price_was": 50.87,
-    "discount_pct": 61,
-    "url": "https://s.shopee.com.br/8pkmhyvtia?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/881537402117860627285830295146.png",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-07T00:40:44.113356"
   }
 ]

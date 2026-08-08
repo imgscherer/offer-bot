@@ -1523,6 +1523,14 @@
     "c4db74e7758243a6": {
       "title": "Berço Balanço Portátil Chiqueirinho Cercado Desmontável c Mosquiteiro Trocador Música e Vibração",
       "posted_at": "2026-08-08T09:51:03.354378"
+    },
+    "3d5e0dc7a66ced11": {
+      "title": "Fralda Huggies Natural Care Pants G 60 unidades",
+      "posted_at": "2026-08-08T11:20:48.278708"
+    },
+    "2540c56ec7884023": {
+      "title": "Sabonete Líquido Infantil para bebês Protex Baby Delicate Care 200ml",
+      "posted_at": "2026-08-08T11:20:59.533148"
     }
   },
   "results": [
@@ -4637,6 +4645,22 @@
       "post_id": "388",
       "error": null,
       "at": "2026-08-08T09:51:03.353750"
+    },
+    {
+      "offer_id": "3d5e0dc7a66ced11",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "389",
+      "error": null,
+      "at": "2026-08-08T11:20:48.278017"
+    },
+    {
+      "offer_id": "2540c56ec7884023",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "390",
+      "error": null,
+      "at": "2026-08-08T11:20:59.530628"
     }
   ]
 }
