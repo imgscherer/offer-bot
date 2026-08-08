@@ -1,5 +1,29 @@
 [
   {
+    "id": "bb844d1b9a9202f0",
+    "title": "Fralda Pampers Supersec M 90 unidades",
+    "price_now": 74.25,
+    "price_was": 145.57,
+    "discount_pct": 49,
+    "url": "https://s.shopee.com.br/1gHeZ8ulRP?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/948661413717861923284163956131.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-08T12:40:56.386690"
+  },
+  {
+    "id": "0e4738a4e84f2f7d",
+    "title": "Fralda Pampers Supersec XXG 66 unidades",
+    "price_now": 74.25,
+    "price_was": 145.57,
+    "discount_pct": 49,
+    "url": "https://s.shopee.com.br/7fYriAgzsR?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/332822888417861923341837594924.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-08T12:40:47.277433"
+  },
+  {
     "id": "74d5a64beb15f7c0",
     "title": "Sabonete Líquido Bebê Protex Baby Delicate Care 200ml",
     "price_now": 12.28,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-07T12:30:54.079754"
-  },
-  {
-    "id": "dc760b6d83d5346a",
-    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xxg 28 Unidades",
-    "price_now": 32.57,
-    "price_was": 52.65,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B07QVTHSGP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/606367627917861045474365561679.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-07T12:20:49.409472"
-  },
-  {
-    "id": "7c02faeff8a43bb3",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
-    "price_now": 53.59,
-    "price_was": 77.37,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/715241960017860999456746529016.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-07T11:00:47.137256"
   }
 ]

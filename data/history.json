@@ -1535,6 +1535,14 @@
     "74d5a64beb15f7c0": {
       "title": "Sabonete Líquido Bebê Protex Baby Delicate Care 200ml",
       "posted_at": "2026-08-08T11:50:47.656816"
+    },
+    "0e4738a4e84f2f7d": {
+      "title": "Fralda Pampers Supersec XXG 66 unidades",
+      "posted_at": "2026-08-08T12:40:47.277749"
+    },
+    "bb844d1b9a9202f0": {
+      "title": "Fralda Pampers Supersec M 90 unidades",
+      "posted_at": "2026-08-08T12:40:56.386994"
     }
   },
   "results": [
@@ -4673,6 +4681,22 @@
       "post_id": "391",
       "error": null,
       "at": "2026-08-08T11:50:47.656117"
+    },
+    {
+      "offer_id": "0e4738a4e84f2f7d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "392",
+      "error": null,
+      "at": "2026-08-08T12:40:47.277110"
+    },
+    {
+      "offer_id": "bb844d1b9a9202f0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "393",
+      "error": null,
+      "at": "2026-08-08T12:40:56.386360"
     }
   ]
 }
