@@ -1,5 +1,29 @@
 [
   {
+    "id": "5d408b1938a7299b",
+    "title": "Fralda Babysec Ultrasec XXG 48 unidades",
+    "price_now": 53.59,
+    "price_was": 88.14,
+    "discount_pct": 39,
+    "url": "https://s.shopee.com.br/4Vbq78Db2u?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/405550535817862017489485628323.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-08T15:21:09.818744"
+  },
+  {
+    "id": "861e2a0044deb5a1",
+    "title": "Fralda Babysec Ultrasec M 68 unidades",
+    "price_now": 53.59,
+    "price_was": 88.14,
+    "discount_pct": 39,
+    "url": "https://s.shopee.com.br/2gABvlKVZb?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/987785315417862017564056367859.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-08T15:20:57.388159"
+  },
+  {
     "id": "9abf0b21095d3c04",
     "title": "Huggies Fralda Descartável Máxima Proteção XG - 58 Un",
     "price_now": 71.99,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-08T11:20:59.531003"
-  },
-  {
-    "id": "3d5e0dc7a66ced11",
-    "title": "Fralda Huggies Natural Care Pants G 60 unidades",
-    "price_now": 69.15,
-    "price_was": 118.35,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/169940876917861877108656627523.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-08T11:20:48.278369"
-  },
-  {
-    "id": "c4db74e7758243a6",
-    "title": "Berço Balanço Portátil Chiqueirinho Cercado Desmontável c Mosquiteiro Trocador Música e Vibração",
-    "price_now": 650.28,
-    "price_was": 978.65,
-    "discount_pct": 34,
-    "url": "https://s.shopee.com.br/7Kw18J0Ep3?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/471834293517861824957909209610.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-08T09:51:03.354070"
   }
 ]

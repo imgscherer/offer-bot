@@ -1567,6 +1567,14 @@
     "9abf0b21095d3c04": {
       "title": "Huggies Fralda Descartável Máxima Proteção XG - 58 Un",
       "posted_at": "2026-08-08T14:20:40.440633"
+    },
+    "861e2a0044deb5a1": {
+      "title": "Fralda Babysec Ultrasec M 68 unidades",
+      "posted_at": "2026-08-08T15:20:57.388432"
+    },
+    "5d408b1938a7299b": {
+      "title": "Fralda Babysec Ultrasec XXG 48 unidades",
+      "posted_at": "2026-08-08T15:21:09.819008"
     }
   },
   "results": [
@@ -4769,6 +4777,22 @@
       "post_id": "399",
       "error": null,
       "at": "2026-08-08T14:20:40.439856"
+    },
+    {
+      "offer_id": "861e2a0044deb5a1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "400",
+      "error": null,
+      "at": "2026-08-08T15:20:57.387860"
+    },
+    {
+      "offer_id": "5d408b1938a7299b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "401",
+      "error": null,
+      "at": "2026-08-08T15:21:09.818461"
     }
   ]
 }
