@@ -1595,6 +1595,10 @@
     "bdb7641efb82b07d": {
       "title": "Carrinho de Passeio com Moisés Ivy Galzerano",
       "posted_at": "2026-08-08T17:30:50.569508"
+    },
+    "e82f9b55734f562c": {
+      "title": "Carrinho de Passeio Jip Jip com Empurrador Maral",
+      "posted_at": "2026-08-08T18:50:43.766282"
     }
   },
   "results": [
@@ -4853,6 +4857,14 @@
       "post_id": "406",
       "error": null,
       "at": "2026-08-08T17:30:50.568982"
+    },
+    {
+      "offer_id": "e82f9b55734f562c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "407",
+      "error": null,
+      "at": "2026-08-08T18:50:43.765725"
     }
   ]
 }

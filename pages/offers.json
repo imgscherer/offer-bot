@@ -1,5 +1,17 @@
 [
   {
+    "id": "e82f9b55734f562c",
+    "title": "Carrinho de Passeio Jip Jip com Empurrador Maral",
+    "price_now": 193.13,
+    "price_was": 275.79,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B07FCHGYF8?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/333707848217862141728759436979.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-08T18:50:43.766022"
+  },
+  {
     "id": "bdb7641efb82b07d",
     "title": "Carrinho de Passeio com Moisés Ivy Galzerano",
     "price_now": 1019.91,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-08T13:10:55.178699"
-  },
-  {
-    "id": "ff8fc26ce5d73245",
-    "title": "Kit Pampers Refil Shampoo Glicerina 350ml + Loção Hidratante Infantil 350ml",
-    "price_now": 19.92,
-    "price_was": 75.45,
-    "discount_pct": 74,
-    "url": "https://s.shopee.com.br/5ArWlMpXJ3?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/918296280117861938943563156447.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-08T13:10:44.338164"
   }
 ]
