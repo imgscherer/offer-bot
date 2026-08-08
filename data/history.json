@@ -1555,6 +1555,14 @@
     "13df085a86f075c9": {
       "title": "Kit 03 Toalhas De Banho Bebê Anti Alérgica",
       "posted_at": "2026-08-08T13:10:55.179065"
+    },
+    "6b31a677691b8e45": {
+      "title": "Kit Pampers Refil Shampoo Glicerina 350ml + Loção Hidratante Infantil 350ml",
+      "posted_at": "2026-08-08T13:50:45.490037"
+    },
+    "3dddd6064e3a73de": {
+      "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 50g",
+      "posted_at": "2026-08-08T13:50:51.826366"
     }
   },
   "results": [
@@ -4733,6 +4741,22 @@
       "post_id": "396",
       "error": null,
       "at": "2026-08-08T13:10:55.178388"
+    },
+    {
+      "offer_id": "6b31a677691b8e45",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "397",
+      "error": null,
+      "at": "2026-08-08T13:50:45.489361"
+    },
+    {
+      "offer_id": "3dddd6064e3a73de",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "398",
+      "error": null,
+      "at": "2026-08-08T13:50:51.825823"
     }
   ]
 }
