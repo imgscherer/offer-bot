@@ -1575,6 +1575,10 @@
     "5d408b1938a7299b": {
       "title": "Fralda Babysec Ultrasec XXG 48 unidades",
       "posted_at": "2026-08-08T15:21:09.819008"
+    },
+    "d1eb6a4c60e67751": {
+      "title": "Tenis Infantil Preto (tam 23 ao 39)",
+      "posted_at": "2026-08-08T15:40:47.165807"
     }
   },
   "results": [
@@ -4793,6 +4797,14 @@
       "post_id": "401",
       "error": null,
       "at": "2026-08-08T15:21:09.818461"
+    },
+    {
+      "offer_id": "d1eb6a4c60e67751",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "402",
+      "error": null,
+      "at": "2026-08-08T15:40:47.165217"
     }
   ]
 }

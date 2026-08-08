@@ -1,5 +1,17 @@
 [
   {
+    "id": "d1eb6a4c60e67751",
+    "title": "Tenis Infantil Preto (tam 23 ao 39)",
+    "price_now": 43.92,
+    "price_was": 99.82,
+    "discount_pct": 56,
+    "url": "https://s.shopee.com.br/4qEgXSiAQu?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/683785762417862032534447386348.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-08T15:40:47.165517"
+  },
+  {
     "id": "5d408b1938a7299b",
     "title": "Fralda Babysec Ultrasec XXG 48 unidades",
     "price_now": 53.59,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-08T11:50:47.656505"
-  },
-  {
-    "id": "2540c56ec7884023",
-    "title": "Sabonete Líquido Infantil para bebês Protex Baby Delicate Care 200ml",
-    "price_now": 13.64,
-    "price_was": 21.23,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B08JQNSTJY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/819000590617861878282776957993.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-08T11:20:59.531003"
   }
 ]
