@@ -1,5 +1,17 @@
 [
   {
+    "id": "0612bfe3cfc7f3c9",
+    "title": "Cercadinho Chiqueirinho Infantil Portátil",
+    "price_now": 109.9,
+    "price_was": 238.91,
+    "discount_pct": 54,
+    "url": "https://s.shopee.com.br/4VbqAV8Mml?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/558910090317862046888447732071.png",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-08T16:00:54.482108"
+  },
+  {
     "id": "d1eb6a4c60e67751",
     "title": "Tenis Infantil Preto (tam 23 ao 39)",
     "price_now": 43.92,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-08T12:40:47.277433"
-  },
-  {
-    "id": "74d5a64beb15f7c0",
-    "title": "Sabonete Líquido Bebê Protex Baby Delicate Care 200ml",
-    "price_now": 12.28,
-    "price_was": 21.23,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B08JQNSTJY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/468763828417861896444760080085.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-08T11:50:47.656505"
   }
 ]

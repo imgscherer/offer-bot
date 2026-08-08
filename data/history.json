@@ -1579,6 +1579,10 @@
     "d1eb6a4c60e67751": {
       "title": "Tenis Infantil Preto (tam 23 ao 39)",
       "posted_at": "2026-08-08T15:40:47.165807"
+    },
+    "0612bfe3cfc7f3c9": {
+      "title": "Cercadinho Chiqueirinho Infantil Portátil",
+      "posted_at": "2026-08-08T16:00:54.482343"
     }
   },
   "results": [
@@ -4805,6 +4809,14 @@
       "post_id": "402",
       "error": null,
       "at": "2026-08-08T15:40:47.165217"
+    },
+    {
+      "offer_id": "0612bfe3cfc7f3c9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "403",
+      "error": null,
+      "at": "2026-08-08T16:00:54.481793"
     }
   ]
 }
