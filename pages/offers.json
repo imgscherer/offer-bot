@@ -1,5 +1,17 @@
 [
   {
+    "id": "74d5a64beb15f7c0",
+    "title": "Sabonete Líquido Bebê Protex Baby Delicate Care 200ml",
+    "price_now": 12.28,
+    "price_was": 21.23,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B08JQNSTJY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/468763828417861896444760080085.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-08T11:50:47.656505"
+  },
+  {
     "id": "2540c56ec7884023",
     "title": "Sabonete Líquido Infantil para bebês Protex Baby Delicate Care 200ml",
     "price_now": 13.64,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-07T11:00:47.137256"
-  },
-  {
-    "id": "1c2effbd00dbe4a9",
-    "title": "Fralda Cremer Mega XG 36 Unidades",
-    "price_now": 28.4,
-    "price_was": 45.4,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B08BXP4XN4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/902533712317860995255382691066.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-07T10:50:45.051782"
   }
 ]

@@ -1531,6 +1531,10 @@
     "2540c56ec7884023": {
       "title": "Sabonete Líquido Infantil para bebês Protex Baby Delicate Care 200ml",
       "posted_at": "2026-08-08T11:20:59.533148"
+    },
+    "74d5a64beb15f7c0": {
+      "title": "Sabonete Líquido Bebê Protex Baby Delicate Care 200ml",
+      "posted_at": "2026-08-08T11:50:47.656816"
     }
   },
   "results": [
@@ -4661,6 +4665,14 @@
       "post_id": "390",
       "error": null,
       "at": "2026-08-08T11:20:59.530628"
+    },
+    {
+      "offer_id": "74d5a64beb15f7c0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "391",
+      "error": null,
+      "at": "2026-08-08T11:50:47.656117"
     }
   ]
 }
