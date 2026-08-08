@@ -21,6 +21,12 @@ class Settings:
     telegram_bot_token: str
     telegram_channel_id: str
 
+    # Shopee Open API (GraphQL) — opcional: acesso exige aprovação manual
+    # da Shopee (ver memória "shopee-affiliate-api"). Enquanto vazio,
+    # build_fetchers não instancia o ShopeeFetcher.
+    shopee_open_api_app_id: str = ""
+    shopee_open_api_secret: str = ""
+
     # Anthropic — opcional: o pipeline usa TemplateCaptionGenerator (sem IA)
     # por padrão agora. Só é necessária se você trocar para CaptionGenerator.
     anthropic_api_key: str = ""
@@ -63,6 +69,8 @@ def load() -> Settings:
         amazon_affiliate_tag=_req("AMAZON_AFFILIATE_TAG"),
         telegram_bot_token=_req("TELEGRAM_BOT_TOKEN"),
         telegram_channel_id=_req("TELEGRAM_CHANNEL_ID"),
+        shopee_open_api_app_id=os.environ.get("SHOPEE_OPEN_API_APP_ID", ""),
+        shopee_open_api_secret=os.environ.get("SHOPEE_OPEN_API_SECRET", ""),
         anthropic_api_key=os.environ.get("ANTHROPIC_API_KEY", ""),
         ig_user_id=os.environ.get("IG_USER_ID", ""),
         ig_access_token=os.environ.get("IG_ACCESS_TOKEN", ""),

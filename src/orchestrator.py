@@ -22,6 +22,7 @@ from typing import Iterable
 from . import config
 from .fetchers.base import Fetcher
 from .fetchers.promobit import PromobitFetcher
+from .fetchers.shopee import ShopeeFetcher
 from .generators.story_image import StoryImageGenerator
 from .generators.template_caption import TemplateCaptionGenerator
 from .models import ContentPiece, Offer, PublishResult
@@ -41,7 +42,15 @@ log = logging.getLogger("orchestrator")
 
 
 def build_fetchers(s: config.Settings) -> list[Fetcher]:
-    return [PromobitFetcher(s.shopee_affiliate_id, s.amazon_affiliate_tag)]
+    fetchers: list[Fetcher] = [PromobitFetcher(s.shopee_affiliate_id, s.amazon_affiliate_tag)]
+
+    # Só entra depois que a Shopee aprovar o acesso à Open API (pedido
+    # feito em 2026-08-08 — ver memória "shopee-affiliate-api"). Até lá
+    # as env vars ficam vazias e o fetcher nem é instanciado.
+    if s.shopee_open_api_app_id and s.shopee_open_api_secret:
+        fetchers.append(ShopeeFetcher(s.shopee_open_api_app_id, s.shopee_open_api_secret))
+
+    return fetchers
 
 
 def build_per_piece_publishers(s: config.Settings) -> list[Publisher]:
