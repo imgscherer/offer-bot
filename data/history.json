@@ -1583,6 +1583,10 @@
     "0612bfe3cfc7f3c9": {
       "title": "Cercadinho Chiqueirinho Infantil Portátil",
       "posted_at": "2026-08-08T16:00:54.482343"
+    },
+    "b7221c48fd875b53": {
+      "title": "Bicicleta de Equilibrio Andador Infantil sem Pedal para Crianças (Azul)",
+      "posted_at": "2026-08-08T16:30:46.300555"
     }
   },
   "results": [
@@ -4817,6 +4821,14 @@
       "post_id": "403",
       "error": null,
       "at": "2026-08-08T16:00:54.481793"
+    },
+    {
+      "offer_id": "b7221c48fd875b53",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "404",
+      "error": null,
+      "at": "2026-08-08T16:30:46.299818"
     }
   ]
 }
