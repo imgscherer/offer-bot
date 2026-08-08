@@ -1,5 +1,29 @@
 [
   {
+    "id": "bdb7641efb82b07d",
+    "title": "Carrinho de Passeio com Moisés Ivy Galzerano",
+    "price_now": 1019.91,
+    "price_was": 1529.99,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0DT1JS7ZP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/435545844317862098086807976889.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-08T17:30:50.569231"
+  },
+  {
+    "id": "40fa9490ca57eb1a",
+    "title": "Tapete de Atividades Para Bebê Piano Funny Dino Maxi Baby",
+    "price_now": 50.67,
+    "price_was": 129.27,
+    "discount_pct": 61,
+    "url": "https://s.shopee.com.br/1qb55RQ8se?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/656867669517862098035638798914.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-08T17:30:43.311123"
+  },
+  {
     "id": "b7221c48fd875b53",
     "title": "Bicicleta de Equilibrio Andador Infantil sem Pedal para Crianças (Azul)",
     "price_now": 64.41,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-08T13:10:44.338164"
-  },
-  {
-    "id": "a40b77f7a9ab2106",
-    "title": "Fralda Turma da Mônica Baby M 120 unidades",
-    "price_now": 74.39,
-    "price_was": 129.15,
-    "discount_pct": 42,
-    "url": "https://s.shopee.com.br/7VFRWpJ7U5?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/205552057917861931708815022431.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-08T13:00:55.327211"
-  },
-  {
-    "id": "bb844d1b9a9202f0",
-    "title": "Fralda Pampers Supersec M 90 unidades",
-    "price_now": 74.25,
-    "price_was": 145.57,
-    "discount_pct": 49,
-    "url": "https://s.shopee.com.br/1gHeZ8ulRP?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/948661413717861923284163956131.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-08T12:40:56.386690"
   }
 ]
