@@ -1639,6 +1639,10 @@
     "edec002a44c0095e": {
       "title": "Fralda Babysec Ultrasec P 42 unidades",
       "posted_at": "2026-08-10T16:10:49.968358"
+    },
+    "ec1c22aa86242dd8": {
+      "title": "Fralda Mili Love&Care M 78 Unidades",
+      "posted_at": "2026-08-10T18:40:45.842928"
     }
   },
   "results": [
@@ -4985,6 +4989,14 @@
       "post_id": "417",
       "error": null,
       "at": "2026-08-10T16:10:49.967759"
+    },
+    {
+      "offer_id": "ec1c22aa86242dd8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "418",
+      "error": null,
+      "at": "2026-08-10T18:40:45.842284"
     }
   ]
 }

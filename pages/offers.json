@@ -1,5 +1,17 @@
 [
   {
+    "id": "ec1c22aa86242dd8",
+    "title": "Fralda Mili Love&Care M 78 Unidades",
+    "price_now": 66.59,
+    "price_was": 148.5,
+    "discount_pct": 55,
+    "url": "https://www.amazon.com.br/dp/B0CN81BZKX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/117921760217863866293625812565.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-10T18:40:45.842615"
+  },
+  {
     "id": "edec002a44c0095e",
     "title": "Fralda Babysec Ultrasec P 42 unidades",
     "price_now": 33.74,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-08T18:50:43.766022"
-  },
-  {
-    "id": "bdb7641efb82b07d",
-    "title": "Carrinho de Passeio com Moisés Ivy Galzerano",
-    "price_now": 1019.91,
-    "price_was": 1529.99,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0DT1JS7ZP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/435545844317862098086807976889.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-08T17:30:50.569231"
   }
 ]
