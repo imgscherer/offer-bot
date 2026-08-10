@@ -1611,6 +1611,14 @@
     "14881df931deb587": {
       "title": "Sabonete Líquido Bebê Protex Baby Delicate",
       "posted_at": "2026-08-10T00:00:51.158400"
+    },
+    "d8913112e3dbf6fe": {
+      "title": "Fralda Huggies Supreme Care Roupinha M 216 unidades",
+      "posted_at": "2026-08-10T11:00:51.378845"
+    },
+    "b007266f8f9d6a55": {
+      "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades",
+      "posted_at": "2026-08-10T11:01:02.589258"
     }
   },
   "results": [
@@ -4901,6 +4909,22 @@
       "post_id": "410",
       "error": null,
       "at": "2026-08-10T00:00:51.157696"
+    },
+    {
+      "offer_id": "d8913112e3dbf6fe",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "411",
+      "error": null,
+      "at": "2026-08-10T11:00:51.377886"
+    },
+    {
+      "offer_id": "b007266f8f9d6a55",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "412",
+      "error": null,
+      "at": "2026-08-10T11:01:02.565019"
     }
   ]
 }

@@ -1,5 +1,29 @@
 [
   {
+    "id": "b007266f8f9d6a55",
+    "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades",
+    "price_now": 197.1,
+    "price_was": 289.0,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/219442383617863593263164043225.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-10T11:01:02.565352"
+  },
+  {
+    "id": "d8913112e3dbf6fe",
+    "title": "Fralda Huggies Supreme Care Roupinha M 216 unidades",
+    "price_now": 197.1,
+    "price_was": 289.0,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/221932466917863593497902051695.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-10T11:00:51.378363"
+  },
+  {
     "id": "14881df931deb587",
     "title": "Sabonete Líquido Bebê Protex Baby Delicate",
     "price_now": 14.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-08T15:21:09.818744"
-  },
-  {
-    "id": "861e2a0044deb5a1",
-    "title": "Fralda Babysec Ultrasec M 68 unidades",
-    "price_now": 53.59,
-    "price_was": 88.14,
-    "discount_pct": 39,
-    "url": "https://s.shopee.com.br/2gABvlKVZb?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/987785315417862017564056367859.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-08T15:20:57.388159"
-  },
-  {
-    "id": "9abf0b21095d3c04",
-    "title": "Huggies Fralda Descartável Máxima Proteção XG - 58 Un",
-    "price_now": 71.99,
-    "price_was": 138.45,
-    "discount_pct": 48,
-    "url": "https://s.shopee.com.br/3qM9Fk1Yoi?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/932786962917861981076684086309.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-08T14:20:40.440213"
   }
 ]
