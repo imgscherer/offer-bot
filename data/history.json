@@ -1631,6 +1631,10 @@
     "2a78ce3464f2af01": {
       "title": "Assento Redutor Infantil com Escada para Vaso Sanitário (3 Cores)",
       "posted_at": "2026-08-10T12:30:55.164237"
+    },
+    "13896a95e96ad4eb": {
+      "title": "MamyPoko Fralda-Calça Premium Seca G 60 Unidades",
+      "posted_at": "2026-08-10T13:00:53.273636"
     }
   },
   "results": [
@@ -4961,6 +4965,14 @@
       "post_id": "415",
       "error": null,
       "at": "2026-08-10T12:30:55.163532"
+    },
+    {
+      "offer_id": "13896a95e96ad4eb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "416",
+      "error": null,
+      "at": "2026-08-10T13:00:53.272940"
     }
   ]
 }
