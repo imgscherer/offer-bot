@@ -1627,6 +1627,10 @@
     "7a671c38986d542e": {
       "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
       "posted_at": "2026-08-10T12:20:42.789652"
+    },
+    "2a78ce3464f2af01": {
+      "title": "Assento Redutor Infantil com Escada para Vaso Sanitário (3 Cores)",
+      "posted_at": "2026-08-10T12:30:55.164237"
     }
   },
   "results": [
@@ -4949,6 +4953,14 @@
       "post_id": "414",
       "error": null,
       "at": "2026-08-10T12:20:42.788940"
+    },
+    {
+      "offer_id": "2a78ce3464f2af01",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "415",
+      "error": null,
+      "at": "2026-08-10T12:30:55.163532"
     }
   ]
 }
