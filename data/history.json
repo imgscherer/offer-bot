@@ -1619,6 +1619,10 @@
     "b007266f8f9d6a55": {
       "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades",
       "posted_at": "2026-08-10T11:01:02.589258"
+    },
+    "20d1b964ee587943": {
+      "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xxg 28 Unidades",
+      "posted_at": "2026-08-10T11:30:53.517525"
     }
   },
   "results": [
@@ -4925,6 +4929,14 @@
       "post_id": "412",
       "error": null,
       "at": "2026-08-10T11:01:02.565019"
+    },
+    {
+      "offer_id": "20d1b964ee587943",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "413",
+      "error": null,
+      "at": "2026-08-10T11:30:53.516800"
     }
   ]
 }
