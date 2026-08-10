@@ -1,5 +1,17 @@
 [
   {
+    "id": "14881df931deb587",
+    "title": "Sabonete Líquido Bebê Protex Baby Delicate",
+    "price_now": 14.0,
+    "price_was": 23.8,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B08JQND4NB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/506472822717863190508014543748.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-10T00:00:51.158046"
+  },
+  {
     "id": "ab9610bb622d3e82",
     "title": "Fralda Babysec Premium Shortinho XG 42 unidades",
     "price_now": 55.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-08T14:20:40.440213"
-  },
-  {
-    "id": "3dddd6064e3a73de",
-    "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 50g",
-    "price_now": 20.79,
-    "price_was": 40.88,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07NPYD9KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/586597373217861957617241091882.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-08T13:50:51.826102"
   }
 ]

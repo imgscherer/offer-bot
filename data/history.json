@@ -1607,6 +1607,10 @@
     "ab9610bb622d3e82": {
       "title": "Fralda Babysec Premium Shortinho XG 42 unidades",
       "posted_at": "2026-08-08T19:01:05.063621"
+    },
+    "14881df931deb587": {
+      "title": "Sabonete Líquido Bebê Protex Baby Delicate",
+      "posted_at": "2026-08-10T00:00:51.158400"
     }
   },
   "results": [
@@ -4889,6 +4893,14 @@
       "post_id": "409",
       "error": null,
       "at": "2026-08-08T19:01:05.063089"
+    },
+    {
+      "offer_id": "14881df931deb587",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "410",
+      "error": null,
+      "at": "2026-08-10T00:00:51.157696"
     }
   ]
 }
