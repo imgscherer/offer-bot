@@ -1,5 +1,17 @@
 [
   {
+    "id": "edec002a44c0095e",
+    "title": "Fralda Babysec Ultrasec P 42 unidades",
+    "price_now": 33.74,
+    "price_was": 52.65,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/410341788917863778479848009849.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-10T16:10:49.968059"
+  },
+  {
     "id": "13896a95e96ad4eb",
     "title": "MamyPoko Fralda-Calça Premium Seca G 60 Unidades",
     "price_now": 89.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-08T17:30:50.569231"
-  },
-  {
-    "id": "40fa9490ca57eb1a",
-    "title": "Tapete de Atividades Para Bebê Piano Funny Dino Maxi Baby",
-    "price_now": 50.67,
-    "price_was": 129.27,
-    "discount_pct": 61,
-    "url": "https://s.shopee.com.br/1qb55RQ8se?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/656867669517862098035638798914.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-08T17:30:43.311123"
   }
 ]
