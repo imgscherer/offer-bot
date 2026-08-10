@@ -1623,6 +1623,10 @@
     "20d1b964ee587943": {
       "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xxg 28 Unidades",
       "posted_at": "2026-08-10T11:30:53.517525"
+    },
+    "7a671c38986d542e": {
+      "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
+      "posted_at": "2026-08-10T12:20:42.789652"
     }
   },
   "results": [
@@ -4937,6 +4941,14 @@
       "post_id": "413",
       "error": null,
       "at": "2026-08-10T11:30:53.516800"
+    },
+    {
+      "offer_id": "7a671c38986d542e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "414",
+      "error": null,
+      "at": "2026-08-10T12:20:42.788940"
     }
   ]
 }
