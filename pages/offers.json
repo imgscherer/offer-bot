@@ -1,5 +1,17 @@
 [
   {
+    "id": "f80f3a8abdb506cf",
+    "title": "Bepantol Baby Lenço Umedecido Biodegradável para Bebê, Hipoalergênico, 96 Unidades",
+    "price_now": 14.99,
+    "price_was": 31.91,
+    "discount_pct": 53,
+    "url": "https://www.amazon.com.br/dp/B0CZBC4M7R?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/490043604317864711494703013858.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-11T18:10:49.288144"
+  },
+  {
     "id": "d58095cd8ee27707",
     "title": "Aromaterapia Soninho Bebê Natural Blend Óleos Essenciais",
     "price_now": 20.94,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-10T11:00:51.378363"
-  },
-  {
-    "id": "14881df931deb587",
-    "title": "Sabonete Líquido Bebê Protex Baby Delicate",
-    "price_now": 14.0,
-    "price_was": 23.8,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B08JQND4NB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/506472822717863190508014543748.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-10T00:00:51.158046"
   }
 ]
