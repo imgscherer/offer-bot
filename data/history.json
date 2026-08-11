@@ -1643,6 +1643,10 @@
     "ec1c22aa86242dd8": {
       "title": "Fralda Mili Love&Care M 78 Unidades",
       "posted_at": "2026-08-10T18:40:45.842928"
+    },
+    "5194386600491646": {
+      "title": "Fralda Pampers Premium Care M 160 unidades",
+      "posted_at": "2026-08-11T11:00:52.655626"
     }
   },
   "results": [
@@ -4997,6 +5001,14 @@
       "post_id": "418",
       "error": null,
       "at": "2026-08-10T18:40:45.842284"
+    },
+    {
+      "offer_id": "5194386600491646",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "419",
+      "error": null,
+      "at": "2026-08-11T11:00:52.654885"
     }
   ]
 }
