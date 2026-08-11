@@ -1651,6 +1651,10 @@
     "6243257ea420cd98": {
       "title": "Toalha Umedecida Meu Bebê Ultra 500 Folhas (10 pacotes 50 unidades cada)",
       "posted_at": "2026-08-11T14:30:46.651177"
+    },
+    "d58095cd8ee27707": {
+      "title": "Aromaterapia Soninho Bebê Natural Blend Óleos Essenciais",
+      "posted_at": "2026-08-11T14:50:45.818006"
     }
   },
   "results": [
@@ -5021,6 +5025,14 @@
       "post_id": "420",
       "error": null,
       "at": "2026-08-11T14:30:46.650504"
+    },
+    {
+      "offer_id": "d58095cd8ee27707",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "421",
+      "error": null,
+      "at": "2026-08-11T14:50:45.817333"
     }
   ]
 }
