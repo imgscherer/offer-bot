@@ -1659,6 +1659,10 @@
     "f80f3a8abdb506cf": {
       "title": "Bepantol Baby Lenço Umedecido Biodegradável para Bebê, Hipoalergênico, 96 Unidades",
       "posted_at": "2026-08-11T18:10:49.288402"
+    },
+    "6b026c06efe4b96d": {
+      "title": "Bicicleta de Equilíbrio Infantil Sem Pedal Andador 4 Rodas Bebê Criança",
+      "posted_at": "2026-08-11T18:30:47.439417"
     }
   },
   "results": [
@@ -5045,6 +5049,14 @@
       "post_id": "422",
       "error": null,
       "at": "2026-08-11T18:10:49.287793"
+    },
+    {
+      "offer_id": "6b026c06efe4b96d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "423",
+      "error": null,
+      "at": "2026-08-11T18:30:47.438700"
     }
   ]
 }

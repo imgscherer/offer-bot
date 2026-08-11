@@ -1,5 +1,17 @@
 [
   {
+    "id": "6b026c06efe4b96d",
+    "title": "Bicicleta de Equilíbrio Infantil Sem Pedal Andador 4 Rodas Bebê Criança",
+    "price_now": 104.41,
+    "price_was": 189.48,
+    "discount_pct": 45,
+    "url": "https://s.shopee.com.br/AAGHrgCHlJ?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/807246136217864727144003347379.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-11T18:30:47.439057"
+  },
+  {
     "id": "f80f3a8abdb506cf",
     "title": "Bepantol Baby Lenço Umedecido Biodegradável para Bebê, Hipoalergênico, 96 Unidades",
     "price_now": 14.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-10T11:01:02.565352"
-  },
-  {
-    "id": "d8913112e3dbf6fe",
-    "title": "Fralda Huggies Supreme Care Roupinha M 216 unidades",
-    "price_now": 197.1,
-    "price_was": 289.0,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/221932466917863593497902051695.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-10T11:00:51.378363"
   }
 ]
