@@ -1,5 +1,17 @@
 [
   {
+    "id": "1914e6c9b8719370",
+    "title": "MamyPoko Fralda-Calça Premium Seca M 58 Unidades",
+    "price_now": 68.66,
+    "price_was": 117.9,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B088P95YRY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/541901262317865672723533022644.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-12T20:50:43.177185"
+  },
+  {
     "id": "0e233a04add8f3aa",
     "title": "Fralda Turma da Mônica Baby M 28 unidades",
     "price_now": 19.74,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-11T14:50:45.817680"
-  },
-  {
-    "id": "6243257ea420cd98",
-    "title": "Toalha Umedecida Meu Bebê Ultra 500 Folhas (10 pacotes 50 unidades cada)",
-    "price_now": 38.43,
-    "price_was": 59.67,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/30n738YiVb?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/934553757617864575327972961506.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-11T14:30:46.650852"
   }
 ]
