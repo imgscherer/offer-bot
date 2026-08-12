@@ -1691,6 +1691,10 @@
     "384eff63b822f179": {
       "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
       "posted_at": "2026-08-12T17:30:50.957867"
+    },
+    "0e233a04add8f3aa": {
+      "title": "Fralda Turma da Mônica Baby M 28 unidades",
+      "posted_at": "2026-08-12T17:50:46.302473"
     }
   },
   "results": [
@@ -5141,6 +5145,14 @@
       "post_id": "430",
       "error": null,
       "at": "2026-08-12T17:30:50.957179"
+    },
+    {
+      "offer_id": "0e233a04add8f3aa",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "431",
+      "error": null,
+      "at": "2026-08-12T17:50:46.301864"
     }
   ]
 }
