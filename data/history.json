@@ -1679,6 +1679,10 @@
     "63404c8bb5ede4a8": {
       "title": "Granado Refil Sabonete Líquido Bebê Tradicional 250ml",
       "posted_at": "2026-08-12T12:20:44.835985"
+    },
+    "398a56c7be4d2aa0": {
+      "title": "Kit 2 Pares Tênis Infantil Calce Fácil Menina & Sandália Babuche (Tam. 20 ao 32)",
+      "posted_at": "2026-08-12T13:50:43.201113"
     }
   },
   "results": [
@@ -5105,6 +5109,14 @@
       "post_id": "427",
       "error": null,
       "at": "2026-08-12T12:20:44.835272"
+    },
+    {
+      "offer_id": "398a56c7be4d2aa0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "428",
+      "error": null,
+      "at": "2026-08-12T13:50:43.200433"
     }
   ]
 }

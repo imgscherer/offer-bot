@@ -1,5 +1,17 @@
 [
   {
+    "id": "398a56c7be4d2aa0",
+    "title": "Kit 2 Pares Tênis Infantil Calce Fácil Menina & Sandália Babuche (Tam. 20 ao 32)",
+    "price_now": 53.89,
+    "price_was": 130.69,
+    "discount_pct": 59,
+    "url": "https://s.shopee.com.br/1VyKp09M8J?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/967277684117865419499106895847.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-12T13:50:43.200784"
+  },
+  {
     "id": "63404c8bb5ede4a8",
     "title": "Granado Refil Sabonete Líquido Bebê Tradicional 250ml",
     "price_now": 15.29,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-10T16:10:49.968059"
-  },
-  {
-    "id": "13896a95e96ad4eb",
-    "title": "MamyPoko Fralda-Calça Premium Seca G 60 Unidades",
-    "price_now": 89.9,
-    "price_was": 129.9,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B08DJTXZ2B?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/991924200817863665095745253559.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-10T13:00:53.273326"
   }
 ]
