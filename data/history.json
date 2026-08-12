@@ -1671,6 +1671,10 @@
     "9ed96b11b73fc6c0": {
       "title": "Fralda Pampers Pants Premium Care G 68 unidades",
       "posted_at": "2026-08-12T11:01:14.837313"
+    },
+    "4e64e941b98fab28": {
+      "title": "Água De Limpeza Granado Bebê Peles Sensíveis 500ml",
+      "posted_at": "2026-08-12T11:40:55.006668"
     }
   },
   "results": [
@@ -5081,6 +5085,14 @@
       "post_id": "425",
       "error": null,
       "at": "2026-08-12T11:01:14.836638"
+    },
+    {
+      "offer_id": "4e64e941b98fab28",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "426",
+      "error": null,
+      "at": "2026-08-12T11:40:55.005970"
     }
   ]
 }

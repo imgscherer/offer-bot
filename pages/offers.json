@@ -1,5 +1,17 @@
 [
   {
+    "id": "4e64e941b98fab28",
+    "title": "Água De Limpeza Granado Bebê Peles Sensíveis 500ml",
+    "price_now": 46.65,
+    "price_was": 74.19,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B07NPWTYJT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/177718746617865343321176753913.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-12T11:40:55.006314"
+  },
+  {
     "id": "9ed96b11b73fc6c0",
     "title": "Fralda Pampers Pants Premium Care G 68 unidades",
     "price_now": 89.29,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-10T12:30:55.163900"
-  },
-  {
-    "id": "7a671c38986d542e",
-    "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
-    "price_now": 9.8,
-    "price_was": 22.29,
-    "discount_pct": 56,
-    "url": "https://www.amazon.com.br/dp/B07DHSFWBL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/247168869317863639123763949831.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-10T12:20:42.789327"
   }
 ]
