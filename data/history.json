@@ -1663,6 +1663,14 @@
     "6b026c06efe4b96d": {
       "title": "Bicicleta de Equilíbrio Infantil Sem Pedal Andador 4 Rodas Bebê Criança",
       "posted_at": "2026-08-11T18:30:47.439417"
+    },
+    "8b72750f75ef464a": {
+      "title": "Fralda Pampers Premium Care Pants XG 64 unidades",
+      "posted_at": "2026-08-12T11:01:02.860561"
+    },
+    "9ed96b11b73fc6c0": {
+      "title": "Fralda Pampers Pants Premium Care G 68 unidades",
+      "posted_at": "2026-08-12T11:01:14.837313"
     }
   },
   "results": [
@@ -5057,6 +5065,22 @@
       "post_id": "423",
       "error": null,
       "at": "2026-08-11T18:30:47.438700"
+    },
+    {
+      "offer_id": "8b72750f75ef464a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "424",
+      "error": null,
+      "at": "2026-08-12T11:01:02.859902"
+    },
+    {
+      "offer_id": "9ed96b11b73fc6c0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "425",
+      "error": null,
+      "at": "2026-08-12T11:01:14.836638"
     }
   ]
 }

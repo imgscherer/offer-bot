@@ -1,5 +1,29 @@
 [
   {
+    "id": "9ed96b11b73fc6c0",
+    "title": "Fralda Pampers Pants Premium Care G 68 unidades",
+    "price_now": 89.29,
+    "price_was": 151.59,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/927313228717865316878831170268.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-12T11:01:14.836943"
+  },
+  {
+    "id": "8b72750f75ef464a",
+    "title": "Fralda Pampers Premium Care Pants XG 64 unidades",
+    "price_now": 89.2,
+    "price_was": 151.59,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07X5KWJK9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/179572076217865323466290081989.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-12T11:01:02.860224"
+  },
+  {
     "id": "6b026c06efe4b96d",
     "title": "Bicicleta de Equilíbrio Infantil Sem Pedal Andador 4 Rodas Bebê Criança",
     "price_now": 104.41,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-10T12:20:42.789327"
-  },
-  {
-    "id": "20d1b964ee587943",
-    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xxg 28 Unidades",
-    "price_now": 29.69,
-    "price_was": 52.65,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B07QVTHSGP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/575963744417863610487074218521.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-10T11:30:53.517155"
-  },
-  {
-    "id": "b007266f8f9d6a55",
-    "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades",
-    "price_now": 197.1,
-    "price_was": 289.0,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/219442383617863593263164043225.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-10T11:01:02.565352"
   }
 ]
