@@ -1687,6 +1687,10 @@
     "9297ed78ee6c6dbb": {
       "title": "Kit 3 Cueiros Bebê Manta Estampado E Flanelado 80cm X 50cm",
       "posted_at": "2026-08-12T16:10:44.579229"
+    },
+    "384eff63b822f179": {
+      "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
+      "posted_at": "2026-08-12T17:30:50.957867"
     }
   },
   "results": [
@@ -5129,6 +5133,14 @@
       "post_id": "429",
       "error": null,
       "at": "2026-08-12T16:10:44.578540"
+    },
+    {
+      "offer_id": "384eff63b822f179",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "430",
+      "error": null,
+      "at": "2026-08-12T17:30:50.957179"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "384eff63b822f179",
+    "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
+    "price_now": 53.99,
+    "price_was": 77.27,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/510631976617865546076933083331.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-12T17:30:50.957558"
+  },
+  {
     "id": "9297ed78ee6c6dbb",
     "title": "Kit 3 Cueiros Bebê Manta Estampado E Flanelado 80cm X 50cm",
     "price_now": 17.7,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-11T11:00:52.655223"
-  },
-  {
-    "id": "ec1c22aa86242dd8",
-    "title": "Fralda Mili Love&Care M 78 Unidades",
-    "price_now": 66.59,
-    "price_was": 148.5,
-    "discount_pct": 55,
-    "url": "https://www.amazon.com.br/dp/B0CN81BZKX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/117921760217863866293625812565.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-10T18:40:45.842615"
   }
 ]
