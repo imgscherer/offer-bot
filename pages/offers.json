@@ -1,5 +1,17 @@
 [
   {
+    "id": "63404c8bb5ede4a8",
+    "title": "Granado Refil Sabonete Líquido Bebê Tradicional 250ml",
+    "price_now": 15.29,
+    "price_was": 23.89,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B07D2FXHM1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/423057030517865366158381489871.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-12T12:20:44.835661"
+  },
+  {
     "id": "4e64e941b98fab28",
     "title": "Água De Limpeza Granado Bebê Peles Sensíveis 500ml",
     "price_now": 46.65,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-10T13:00:53.273326"
-  },
-  {
-    "id": "2a78ce3464f2af01",
-    "title": "Assento Redutor Infantil com Escada para Vaso Sanitário (3 Cores)",
-    "price_now": 69.9,
-    "price_was": 129.44,
-    "discount_pct": 46,
-    "url": "https://s.shopee.com.br/3LPvjEqYUm?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/560073652617863644764926732017.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-10T12:30:55.163900"
   }
 ]
