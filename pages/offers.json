@@ -1,5 +1,29 @@
 [
   {
+    "id": "fc2a40ca5abd5ea7",
+    "title": "Conjunto Infantil Regata Ribana e Short Saia Diversas Cores (tam 2 a 10 anos)",
+    "price_now": 28.9,
+    "price_was": 60.21,
+    "discount_pct": 52,
+    "url": "https://s.shopee.com.br/1Lew2FzMA2?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/649334922617866184513067765715.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-13T11:10:57.702817"
+  },
+  {
+    "id": "b72e78526a875910",
+    "title": "Lenços umedecidos higienizadores Limpa Chupeta Likluc",
+    "price_now": 9.92,
+    "price_was": 29.9,
+    "discount_pct": 67,
+    "url": "https://www.amazon.com.br/dp/B07XPC1ZNT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/238699848717866184476274990662.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-13T11:10:45.573019"
+  },
+  {
     "id": "09a499c5de6eddd5",
     "title": "Fralda Pampers Confort Sec P 50 unidades",
     "price_now": 50.99,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-12T11:01:14.836943"
-  },
-  {
-    "id": "8b72750f75ef464a",
-    "title": "Fralda Pampers Premium Care Pants XG 64 unidades",
-    "price_now": 89.2,
-    "price_was": 151.59,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07X5KWJK9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/179572076217865323466290081989.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-12T11:01:02.860224"
-  },
-  {
-    "id": "6b026c06efe4b96d",
-    "title": "Bicicleta de Equilíbrio Infantil Sem Pedal Andador 4 Rodas Bebê Criança",
-    "price_now": 104.41,
-    "price_was": 189.48,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/AAGHrgCHlJ?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/807246136217864727144003347379.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-11T18:30:47.439057"
   }
 ]

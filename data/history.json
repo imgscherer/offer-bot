@@ -1707,6 +1707,14 @@
     "09a499c5de6eddd5": {
       "title": "Fralda Pampers Confort Sec P 50 unidades",
       "posted_at": "2026-08-13T11:00:54.577247"
+    },
+    "b72e78526a875910": {
+      "title": "Lenços umedecidos higienizadores Limpa Chupeta Likluc",
+      "posted_at": "2026-08-13T11:10:45.573352"
+    },
+    "fc2a40ca5abd5ea7": {
+      "title": "Conjunto Infantil Regata Ribana e Short Saia Diversas Cores (tam 2 a 10 anos)",
+      "posted_at": "2026-08-13T11:10:57.703150"
     }
   },
   "results": [
@@ -5189,6 +5197,22 @@
       "post_id": "434",
       "error": null,
       "at": "2026-08-13T11:00:54.501215"
+    },
+    {
+      "offer_id": "b72e78526a875910",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "435",
+      "error": null,
+      "at": "2026-08-13T11:10:45.572682"
+    },
+    {
+      "offer_id": "fc2a40ca5abd5ea7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "436",
+      "error": null,
+      "at": "2026-08-13T11:10:57.702494"
     }
   ]
 }
