@@ -1699,6 +1699,10 @@
     "1914e6c9b8719370": {
       "title": "MamyPoko Fralda-Calça Premium Seca M 58 Unidades",
       "posted_at": "2026-08-12T20:50:43.177521"
+    },
+    "073d416241a6766c": {
+      "title": "LIMPA CHUPETA lenços umedecidos higienizadores, Likluc, Branco, Tamanho único",
+      "posted_at": "2026-08-13T00:20:45.858465"
     }
   },
   "results": [
@@ -5165,6 +5169,14 @@
       "post_id": "432",
       "error": null,
       "at": "2026-08-12T20:50:43.176815"
+    },
+    {
+      "offer_id": "073d416241a6766c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "433",
+      "error": null,
+      "at": "2026-08-13T00:20:45.857794"
     }
   ]
 }
