@@ -1719,6 +1719,14 @@
     "cd47f73181e1132b": {
       "title": "Cadeira Infantil para Carro TurboBooster 2.0 LX com Sistema LATCH, Gannon - Graco",
       "posted_at": "2026-08-13T13:50:41.623484"
+    },
+    "29bc8bbfc26d98f6": {
+      "title": "Fralda Huggies Supreme Care XG 58 unidades",
+      "posted_at": "2026-08-13T14:50:44.939904"
+    },
+    "75b6556ad71b5164": {
+      "title": "Fralda Huggies Supreme Care XXG 58 unidades",
+      "posted_at": "2026-08-13T14:50:56.769421"
     }
   },
   "results": [
@@ -5225,6 +5233,22 @@
       "post_id": "437",
       "error": null,
       "at": "2026-08-13T13:50:41.622735"
+    },
+    {
+      "offer_id": "29bc8bbfc26d98f6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "438",
+      "error": null,
+      "at": "2026-08-13T14:50:44.939174"
+    },
+    {
+      "offer_id": "75b6556ad71b5164",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "439",
+      "error": null,
+      "at": "2026-08-13T14:50:56.768810"
     }
   ]
 }

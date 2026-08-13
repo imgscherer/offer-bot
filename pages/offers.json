@@ -1,5 +1,29 @@
 [
   {
+    "id": "75b6556ad71b5164",
+    "title": "Fralda Huggies Supreme Care XXG 58 unidades",
+    "price_now": 71.15,
+    "price_was": 116.9,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0BQ4113GM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/714819979917866321874620015935.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-13T14:50:56.769127"
+  },
+  {
+    "id": "29bc8bbfc26d98f6",
+    "title": "Fralda Huggies Supreme Care XG 58 unidades",
+    "price_now": 71.15,
+    "price_was": 116.9,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0BQ3YXSQD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/710710263517866321909205610359.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-13T14:50:44.939541"
+  },
+  {
     "id": "cd47f73181e1132b",
     "title": "Cadeira Infantil para Carro TurboBooster 2.0 LX com Sistema LATCH, Gannon - Graco",
     "price_now": 635.96,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-12T13:50:43.200784"
-  },
-  {
-    "id": "63404c8bb5ede4a8",
-    "title": "Granado Refil Sabonete Líquido Bebê Tradicional 250ml",
-    "price_now": 15.29,
-    "price_was": 23.89,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B07D2FXHM1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/423057030517865366158381489871.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-12T12:20:44.835661"
-  },
-  {
-    "id": "4e64e941b98fab28",
-    "title": "Água De Limpeza Granado Bebê Peles Sensíveis 500ml",
-    "price_now": 46.65,
-    "price_was": 74.19,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B07NPWTYJT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/177718746617865343321176753913.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-12T11:40:55.006314"
   }
 ]
