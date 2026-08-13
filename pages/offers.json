@@ -1,5 +1,17 @@
 [
   {
+    "id": "cd47f73181e1132b",
+    "title": "Cadeira Infantil para Carro TurboBooster 2.0 LX com Sistema LATCH, Gannon - Graco",
+    "price_now": 635.96,
+    "price_was": 1090.0,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0CMVY12MK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/669330159417866288898673402501.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-13T13:50:41.623149"
+  },
+  {
     "id": "fc2a40ca5abd5ea7",
     "title": "Conjunto Infantil Regata Ribana e Short Saia Diversas Cores (tam 2 a 10 anos)",
     "price_now": 28.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-12T11:40:55.006314"
-  },
-  {
-    "id": "9ed96b11b73fc6c0",
-    "title": "Fralda Pampers Pants Premium Care G 68 unidades",
-    "price_now": 89.29,
-    "price_was": 151.59,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/927313228717865316878831170268.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-12T11:01:14.836943"
   }
 ]

@@ -1715,6 +1715,10 @@
     "fc2a40ca5abd5ea7": {
       "title": "Conjunto Infantil Regata Ribana e Short Saia Diversas Cores (tam 2 a 10 anos)",
       "posted_at": "2026-08-13T11:10:57.703150"
+    },
+    "cd47f73181e1132b": {
+      "title": "Cadeira Infantil para Carro TurboBooster 2.0 LX com Sistema LATCH, Gannon - Graco",
+      "posted_at": "2026-08-13T13:50:41.623484"
     }
   },
   "results": [
@@ -5213,6 +5217,14 @@
       "post_id": "436",
       "error": null,
       "at": "2026-08-13T11:10:57.702494"
+    },
+    {
+      "offer_id": "cd47f73181e1132b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "437",
+      "error": null,
+      "at": "2026-08-13T13:50:41.622735"
     }
   ]
 }
