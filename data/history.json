@@ -1703,6 +1703,10 @@
     "073d416241a6766c": {
       "title": "LIMPA CHUPETA lenços umedecidos higienizadores, Likluc, Branco, Tamanho único",
       "posted_at": "2026-08-13T00:20:45.858465"
+    },
+    "09a499c5de6eddd5": {
+      "title": "Fralda Pampers Confort Sec P 50 unidades",
+      "posted_at": "2026-08-13T11:00:54.577247"
     }
   },
   "results": [
@@ -5177,6 +5181,14 @@
       "post_id": "433",
       "error": null,
       "at": "2026-08-13T00:20:45.857794"
+    },
+    {
+      "offer_id": "09a499c5de6eddd5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "434",
+      "error": null,
+      "at": "2026-08-13T11:00:54.501215"
     }
   ]
 }
