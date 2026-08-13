@@ -1727,6 +1727,10 @@
     "75b6556ad71b5164": {
       "title": "Fralda Huggies Supreme Care XXG 58 unidades",
       "posted_at": "2026-08-13T14:50:56.769421"
+    },
+    "c91d695006a01e2b": {
+      "title": "Fralda Huggies Natural Care P 36 unidades",
+      "posted_at": "2026-08-13T15:00:46.588467"
     }
   },
   "results": [
@@ -5249,6 +5253,14 @@
       "post_id": "439",
       "error": null,
       "at": "2026-08-13T14:50:56.768810"
+    },
+    {
+      "offer_id": "c91d695006a01e2b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "440",
+      "error": null,
+      "at": "2026-08-13T15:00:46.587756"
     }
   ]
 }
