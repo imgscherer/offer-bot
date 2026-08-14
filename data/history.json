@@ -1751,6 +1751,10 @@
     "77cd429b3e0d3c18": {
       "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper Xg 60 Unidades",
       "posted_at": "2026-08-14T15:40:42.896623"
+    },
+    "c7943be55a05bfb9": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
+      "posted_at": "2026-08-14T17:40:50.098037"
     }
   },
   "results": [
@@ -5321,6 +5325,14 @@
       "post_id": "445",
       "error": null,
       "at": "2026-08-14T15:40:42.895674"
+    },
+    {
+      "offer_id": "c7943be55a05bfb9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "446",
+      "error": null,
+      "at": "2026-08-14T17:40:50.097429"
     }
   ]
 }
