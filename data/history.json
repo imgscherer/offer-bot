@@ -1735,6 +1735,10 @@
     "7c043421d22c87e8": {
       "title": "Kit Pampers Refil Shampoo Glicerina 350ml + Loção Hidratante Infantil 350ml",
       "posted_at": "2026-08-13T23:20:50.150404"
+    },
+    "79d4f2c1c3049b01": {
+      "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades (3x48 unidades)",
+      "posted_at": "2026-08-14T11:10:49.953562"
     }
   },
   "results": [
@@ -5273,6 +5277,14 @@
       "post_id": "441",
       "error": null,
       "at": "2026-08-13T23:20:50.149742"
+    },
+    {
+      "offer_id": "79d4f2c1c3049b01",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "442",
+      "error": null,
+      "at": "2026-08-14T11:10:49.952899"
     }
   ]
 }

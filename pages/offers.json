@@ -1,5 +1,17 @@
 [
   {
+    "id": "79d4f2c1c3049b01",
+    "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades (3x48 unidades)",
+    "price_now": 197.1,
+    "price_was": 289.0,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/592093833117867052759010995842.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-14T11:10:49.953229"
+  },
+  {
     "id": "7c043421d22c87e8",
     "title": "Kit Pampers Refil Shampoo Glicerina 350ml + Loção Hidratante Infantil 350ml",
     "price_now": 26.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-12T17:50:46.302177"
-  },
-  {
-    "id": "384eff63b822f179",
-    "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
-    "price_now": 53.99,
-    "price_was": 77.27,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/510631976617865546076933083331.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-12T17:30:50.957558"
   }
 ]
