@@ -1739,6 +1739,10 @@
     "79d4f2c1c3049b01": {
       "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades (3x48 unidades)",
       "posted_at": "2026-08-14T11:10:49.953562"
+    },
+    "dfb9f000ee6f50ef": {
+      "title": "Condicionador Infantil Johnson's Baby Regular 400 Ml, Amarelo",
+      "posted_at": "2026-08-14T11:30:44.130509"
     }
   },
   "results": [
@@ -5285,6 +5289,14 @@
       "post_id": "442",
       "error": null,
       "at": "2026-08-14T11:10:49.952899"
+    },
+    {
+      "offer_id": "dfb9f000ee6f50ef",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "443",
+      "error": null,
+      "at": "2026-08-14T11:30:44.129854"
     }
   ]
 }

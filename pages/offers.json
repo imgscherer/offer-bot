@@ -1,5 +1,17 @@
 [
   {
+    "id": "dfb9f000ee6f50ef",
+    "title": "Condicionador Infantil Johnson's Baby Regular 400 Ml, Amarelo",
+    "price_now": 22.39,
+    "price_was": 44.99,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B07F1Z7ZM2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/944259313617867059285138264892.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-14T11:30:44.130187"
+  },
+  {
     "id": "79d4f2c1c3049b01",
     "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades (3x48 unidades)",
     "price_now": 197.1,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-12T20:50:43.177185"
-  },
-  {
-    "id": "0e233a04add8f3aa",
-    "title": "Fralda Turma da Mônica Baby M 28 unidades",
-    "price_now": 19.74,
-    "price_was": 28.68,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B099KXW911?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/409487287317865565285990808238.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-12T17:50:46.302177"
   }
 ]
