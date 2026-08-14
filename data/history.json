@@ -1743,6 +1743,10 @@
     "dfb9f000ee6f50ef": {
       "title": "Condicionador Infantil Johnson's Baby Regular 400 Ml, Amarelo",
       "posted_at": "2026-08-14T11:30:44.130509"
+    },
+    "2b98fc87aadc9ec0": {
+      "title": "Fralda Huggies Supreme Care Roupinha M 72 unidades",
+      "posted_at": "2026-08-14T12:20:46.456486"
     }
   },
   "results": [
@@ -5297,6 +5301,14 @@
       "post_id": "443",
       "error": null,
       "at": "2026-08-14T11:30:44.129854"
+    },
+    {
+      "offer_id": "2b98fc87aadc9ec0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "444",
+      "error": null,
+      "at": "2026-08-14T12:20:46.455797"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "2b98fc87aadc9ec0",
+    "title": "Fralda Huggies Supreme Care Roupinha M 72 unidades",
+    "price_now": 71.15,
+    "price_was": 113.25,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B08GZNWJ17?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/406553320917867098872265627691.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-14T12:20:46.456161"
+  },
+  {
     "id": "dfb9f000ee6f50ef",
     "title": "Condicionador Infantil Johnson's Baby Regular 400 Ml, Amarelo",
     "price_now": 22.39,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-13T00:20:45.858140"
-  },
-  {
-    "id": "1914e6c9b8719370",
-    "title": "MamyPoko Fralda-Calça Premium Seca M 58 Unidades",
-    "price_now": 68.66,
-    "price_was": 117.9,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B088P95YRY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/541901262317865672723533022644.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-12T20:50:43.177185"
   }
 ]
