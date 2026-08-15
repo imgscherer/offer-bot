@@ -1767,6 +1767,10 @@
     "7a1efcbcaec6a51f": {
       "title": "Fralda Turma da Mônica Baby P 30 Unidades",
       "posted_at": "2026-08-15T13:40:41.986191"
+    },
+    "681b81c1fb59b457": {
+      "title": "Fralda Mili Love&Care M 78 Unidades",
+      "posted_at": "2026-08-15T14:10:44.934343"
     }
   },
   "results": [
@@ -5369,6 +5373,14 @@
       "post_id": "449",
       "error": null,
       "at": "2026-08-15T13:40:41.985611"
+    },
+    {
+      "offer_id": "681b81c1fb59b457",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "450",
+      "error": null,
+      "at": "2026-08-15T14:10:44.933753"
     }
   ]
 }
