@@ -1755,6 +1755,10 @@
     "c7943be55a05bfb9": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
       "posted_at": "2026-08-14T17:40:50.098037"
+    },
+    "8ef5b9a0612d41d0": {
+      "title": "Kit Manta + Naninha Bebê Fleece Pipoquinha",
+      "posted_at": "2026-08-15T11:30:52.953146"
     }
   },
   "results": [
@@ -5333,6 +5337,14 @@
       "post_id": "446",
       "error": null,
       "at": "2026-08-14T17:40:50.097429"
+    },
+    {
+      "offer_id": "8ef5b9a0612d41d0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "447",
+      "error": null,
+      "at": "2026-08-15T11:30:52.952484"
     }
   ]
 }

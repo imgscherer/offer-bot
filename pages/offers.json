@@ -1,5 +1,17 @@
 [
   {
+    "id": "8ef5b9a0612d41d0",
+    "title": "Kit Manta + Naninha Bebê Fleece Pipoquinha",
+    "price_now": 49.98,
+    "price_was": 71.4,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/BT1s9vqE7?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/193574737217867932325339830182.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-15T11:30:52.952827"
+  },
+  {
     "id": "c7943be55a05bfb9",
     "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
     "price_now": 46.27,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-13T11:10:57.702817"
-  },
-  {
-    "id": "b72e78526a875910",
-    "title": "Lenços umedecidos higienizadores Limpa Chupeta Likluc",
-    "price_now": 9.92,
-    "price_was": 29.9,
-    "discount_pct": 67,
-    "url": "https://www.amazon.com.br/dp/B07XPC1ZNT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/238699848717866184476274990662.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-13T11:10:45.573019"
   }
 ]
