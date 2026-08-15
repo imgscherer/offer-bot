@@ -1771,6 +1771,10 @@
     "681b81c1fb59b457": {
       "title": "Fralda Mili Love&Care M 78 Unidades",
       "posted_at": "2026-08-15T14:10:44.934343"
+    },
+    "f4b313827ea60c2f": {
+      "title": "Patinete infantil 3 rodas com led luzes dobrável ajustável menino menina",
+      "posted_at": "2026-08-15T20:40:42.226986"
     }
   },
   "results": [
@@ -5381,6 +5385,14 @@
       "post_id": "450",
       "error": null,
       "at": "2026-08-15T14:10:44.933753"
+    },
+    {
+      "offer_id": "f4b313827ea60c2f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "451",
+      "error": null,
+      "at": "2026-08-15T20:40:42.226241"
     }
   ]
 }
