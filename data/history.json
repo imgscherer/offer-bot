@@ -1759,6 +1759,10 @@
     "8ef5b9a0612d41d0": {
       "title": "Kit Manta + Naninha Bebê Fleece Pipoquinha",
       "posted_at": "2026-08-15T11:30:52.953146"
+    },
+    "58180320235e14ce": {
+      "title": "Ninho de Bebê Trança 200 Fios Diversas Cores",
+      "posted_at": "2026-08-15T13:10:47.109943"
     }
   },
   "results": [
@@ -5345,6 +5349,14 @@
       "post_id": "447",
       "error": null,
       "at": "2026-08-15T11:30:52.952484"
+    },
+    {
+      "offer_id": "58180320235e14ce",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "448",
+      "error": null,
+      "at": "2026-08-15T13:10:47.109258"
     }
   ]
 }
