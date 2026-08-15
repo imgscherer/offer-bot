@@ -1763,6 +1763,10 @@
     "58180320235e14ce": {
       "title": "Ninho de Bebê Trança 200 Fios Diversas Cores",
       "posted_at": "2026-08-15T13:10:47.109943"
+    },
+    "7a1efcbcaec6a51f": {
+      "title": "Fralda Turma da Mônica Baby P 30 Unidades",
+      "posted_at": "2026-08-15T13:40:41.986191"
     }
   },
   "results": [
@@ -5357,6 +5361,14 @@
       "post_id": "448",
       "error": null,
       "at": "2026-08-15T13:10:47.109258"
+    },
+    {
+      "offer_id": "7a1efcbcaec6a51f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "449",
+      "error": null,
+      "at": "2026-08-15T13:40:41.985611"
     }
   ]
 }

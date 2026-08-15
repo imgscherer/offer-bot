@@ -1,5 +1,17 @@
 [
   {
+    "id": "7a1efcbcaec6a51f",
+    "title": "Fralda Turma da Mônica Baby P 30 Unidades",
+    "price_now": 16.92,
+    "price_was": 28.68,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B099KTC5VJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/891127791317868009128723292371.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-15T13:40:41.985885"
+  },
+  {
     "id": "58180320235e14ce",
     "title": "Ninho de Bebê Trança 200 Fios Diversas Cores",
     "price_now": 49.69,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-13T14:50:44.939541"
-  },
-  {
-    "id": "cd47f73181e1132b",
-    "title": "Cadeira Infantil para Carro TurboBooster 2.0 LX com Sistema LATCH, Gannon - Graco",
-    "price_now": 635.96,
-    "price_was": 1090.0,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0CMVY12MK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/669330159417866288898673402501.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-13T13:50:41.623149"
   }
 ]
