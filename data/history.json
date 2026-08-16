@@ -1775,6 +1775,10 @@
     "f4b313827ea60c2f": {
       "title": "Patinete infantil 3 rodas com led luzes dobrável ajustável menino menina",
       "posted_at": "2026-08-15T20:40:42.226986"
+    },
+    "8185c12a4c7151d6": {
+      "title": "Fralda Pampers Supersequinha G 80 unidades",
+      "posted_at": "2026-08-16T13:30:43.698168"
     }
   },
   "results": [
@@ -5393,6 +5397,14 @@
       "post_id": "451",
       "error": null,
       "at": "2026-08-15T20:40:42.226241"
+    },
+    {
+      "offer_id": "8185c12a4c7151d6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "452",
+      "error": null,
+      "at": "2026-08-16T13:30:43.697521"
     }
   ]
 }
