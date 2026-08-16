@@ -1779,6 +1779,10 @@
     "8185c12a4c7151d6": {
       "title": "Fralda Pampers Supersequinha G 80 unidades",
       "posted_at": "2026-08-16T13:30:43.698168"
+    },
+    "baf39b1032b62542": {
+      "title": "Berço Co-Bed Safety 1st Lounge com Balanço Automático - Grey",
+      "posted_at": "2026-08-16T22:50:45.349557"
     }
   },
   "results": [
@@ -5405,6 +5409,14 @@
       "post_id": "452",
       "error": null,
       "at": "2026-08-16T13:30:43.697521"
+    },
+    {
+      "offer_id": "baf39b1032b62542",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "453",
+      "error": null,
+      "at": "2026-08-16T22:50:45.348905"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "baf39b1032b62542",
+    "title": "Berço Co-Bed Safety 1st Lounge com Balanço Automático - Grey",
+    "price_now": 1050.0,
+    "price_was": 1699.0,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0FPH8MFX1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/841501044817869197088926516435.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-16T22:50:45.349239"
+  },
+  {
     "id": "8185c12a4c7151d6",
     "title": "Fralda Pampers Supersequinha G 80 unidades",
     "price_now": 76.47,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-14T11:10:49.953229"
-  },
-  {
-    "id": "7c043421d22c87e8",
-    "title": "Kit Pampers Refil Shampoo Glicerina 350ml + Loção Hidratante Infantil 350ml",
-    "price_now": 26.0,
-    "price_was": 74.72,
-    "discount_pct": 65,
-    "url": "https://s.shopee.com.br/3B6b1StYuK?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/638703503917866619957924811848.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-13T23:20:50.150069"
   }
 ]
