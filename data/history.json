@@ -1791,6 +1791,14 @@
     "2bbafa0cb5e220cf": {
       "title": "Lenço Umedecido Turminha da Bagunça 5 Pacotes 48 Unidades cada",
       "posted_at": "2026-08-17T13:30:49.133322"
+    },
+    "3ff0caa9945e86eb": {
+      "title": "Penico De Viagem Vaso Sanitário De Emergência Para Mictório Infantil Portátil À Prova De Vazamentos De Elefante",
+      "posted_at": "2026-08-17T18:00:51.769347"
+    },
+    "61262cddbf3d8ea6": {
+      "title": "Fralda Huggies Supreme Care Pants G 60 unidades",
+      "posted_at": "2026-08-17T18:01:01.593936"
     }
   },
   "results": [
@@ -5441,6 +5449,22 @@
       "post_id": "455",
       "error": null,
       "at": "2026-08-17T13:30:49.132628"
+    },
+    {
+      "offer_id": "3ff0caa9945e86eb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "456",
+      "error": null,
+      "at": "2026-08-17T18:00:51.768639"
+    },
+    {
+      "offer_id": "61262cddbf3d8ea6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "457",
+      "error": null,
+      "at": "2026-08-17T18:01:01.593303"
     }
   ]
 }
