@@ -1787,6 +1787,10 @@
     "285e493624d6f730": {
       "title": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
       "posted_at": "2026-08-17T11:30:44.465226"
+    },
+    "2bbafa0cb5e220cf": {
+      "title": "Lenço Umedecido Turminha da Bagunça 5 Pacotes 48 Unidades cada",
+      "posted_at": "2026-08-17T13:30:49.133322"
     }
   },
   "results": [
@@ -5429,6 +5433,14 @@
       "post_id": "454",
       "error": null,
       "at": "2026-08-17T11:30:44.464520"
+    },
+    {
+      "offer_id": "2bbafa0cb5e220cf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "455",
+      "error": null,
+      "at": "2026-08-17T13:30:49.132628"
     }
   ]
 }

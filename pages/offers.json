@@ -1,5 +1,17 @@
 [
   {
+    "id": "2bbafa0cb5e220cf",
+    "title": "Lenço Umedecido Turminha da Bagunça 5 Pacotes 48 Unidades cada",
+    "price_now": 19.89,
+    "price_was": 32.77,
+    "discount_pct": 39,
+    "url": "https://s.shopee.com.br/6L3iWPjcW2?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/892832939117869722821785273905.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-17T13:30:49.132982"
+  },
+  {
     "id": "285e493624d6f730",
     "title": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
     "price_now": 17.81,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-14T12:20:46.456161"
-  },
-  {
-    "id": "dfb9f000ee6f50ef",
-    "title": "Condicionador Infantil Johnson's Baby Regular 400 Ml, Amarelo",
-    "price_now": 22.39,
-    "price_was": 44.99,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B07F1Z7ZM2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/944259313617867059285138264892.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-14T11:30:44.130187"
   }
 ]
