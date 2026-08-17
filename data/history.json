@@ -1783,6 +1783,10 @@
     "baf39b1032b62542": {
       "title": "Berço Co-Bed Safety 1st Lounge com Balanço Automático - Grey",
       "posted_at": "2026-08-16T22:50:45.349557"
+    },
+    "285e493624d6f730": {
+      "title": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
+      "posted_at": "2026-08-17T11:30:44.465226"
     }
   },
   "results": [
@@ -5417,6 +5421,14 @@
       "post_id": "453",
       "error": null,
       "at": "2026-08-16T22:50:45.348905"
+    },
+    {
+      "offer_id": "285e493624d6f730",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "454",
+      "error": null,
+      "at": "2026-08-17T11:30:44.464520"
     }
   ]
 }

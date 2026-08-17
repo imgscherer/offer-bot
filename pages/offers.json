@@ -1,5 +1,17 @@
 [
   {
+    "id": "285e493624d6f730",
+    "title": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
+    "price_now": 17.81,
+    "price_was": 28.68,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B099KTC5VJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/162246043017869655009595343735.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-17T11:30:44.464847"
+  },
+  {
     "id": "baf39b1032b62542",
     "title": "Berço Co-Bed Safety 1st Lounge com Balanço Automático - Grey",
     "price_now": 1050.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-14T11:30:44.130187"
-  },
-  {
-    "id": "79d4f2c1c3049b01",
-    "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades (3x48 unidades)",
-    "price_now": 197.1,
-    "price_was": 289.0,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/592093833117867052759010995842.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-14T11:10:49.953229"
   }
 ]
