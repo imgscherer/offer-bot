@@ -1799,6 +1799,10 @@
     "61262cddbf3d8ea6": {
       "title": "Fralda Huggies Supreme Care Pants G 60 unidades",
       "posted_at": "2026-08-17T18:01:01.593936"
+    },
+    "3ec2b2ce7dcda575": {
+      "title": "Berço Moisés Portátil Com Balanço Comfy 9kgs Cinza - MaxiBaby",
+      "posted_at": "2026-08-17T23:00:45.717207"
     }
   },
   "results": [
@@ -5465,6 +5469,14 @@
       "post_id": "457",
       "error": null,
       "at": "2026-08-17T18:01:01.593303"
+    },
+    {
+      "offer_id": "3ec2b2ce7dcda575",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "458",
+      "error": null,
+      "at": "2026-08-17T23:00:45.716438"
     }
   ]
 }

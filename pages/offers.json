@@ -1,5 +1,17 @@
 [
   {
+    "id": "3ec2b2ce7dcda575",
+    "title": "Berço Moisés Portátil Com Balanço Comfy 9kgs Cinza - MaxiBaby",
+    "price_now": 360.07,
+    "price_was": 649.9,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B09VH4SJHT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/719637168517870068296501588885.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-17T23:00:45.716862"
+  },
+  {
     "id": "61262cddbf3d8ea6",
     "title": "Fralda Huggies Supreme Care Pants G 60 unidades",
     "price_now": 70.48,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-15T11:30:52.952827"
-  },
-  {
-    "id": "c7943be55a05bfb9",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
-    "price_now": 46.27,
-    "price_was": 77.37,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/738367900017867289678983603658.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-14T17:40:50.097752"
   }
 ]
