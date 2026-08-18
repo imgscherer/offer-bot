@@ -1803,6 +1803,10 @@
     "3ec2b2ce7dcda575": {
       "title": "Berço Moisés Portátil Com Balanço Comfy 9kgs Cinza - MaxiBaby",
       "posted_at": "2026-08-17T23:00:45.717207"
+    },
+    "3746f094d6fa9e7e": {
+      "title": "Babá Eletrônica com Monitor Visão Noturna Áudio Bidirecional Sensor de Temperatura Monitor Infantil Digital",
+      "posted_at": "2026-08-18T00:00:55.979809"
     }
   },
   "results": [
@@ -5477,6 +5481,14 @@
       "post_id": "458",
       "error": null,
       "at": "2026-08-17T23:00:45.716438"
+    },
+    {
+      "offer_id": "3746f094d6fa9e7e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "459",
+      "error": null,
+      "at": "2026-08-18T00:00:55.979201"
     }
   ]
 }
