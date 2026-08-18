@@ -1827,6 +1827,10 @@
     "a37c591afc129f5f": {
       "title": "Tênis Infantil Confortável Passeio Dia a Dia",
       "posted_at": "2026-08-18T19:40:54.129833"
+    },
+    "9cabf35e48ca0da2": {
+      "title": "Fralda Pampers Premium Care Fita XXXG 72 unidades",
+      "posted_at": "2026-08-18T20:20:43.021640"
     }
   },
   "results": [
@@ -5549,6 +5553,14 @@
       "post_id": "464",
       "error": null,
       "at": "2026-08-18T19:40:54.129274"
+    },
+    {
+      "offer_id": "9cabf35e48ca0da2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "465",
+      "error": null,
+      "at": "2026-08-18T20:20:43.020877"
     }
   ]
 }

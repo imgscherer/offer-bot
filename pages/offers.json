@@ -1,5 +1,17 @@
 [
   {
+    "id": "9cabf35e48ca0da2",
+    "title": "Fralda Pampers Premium Care Fita XXXG 72 unidades",
+    "price_now": 128.24,
+    "price_was": 189.43,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0DWYBQNXN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/602079229917870832121125230761.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-18T20:20:43.021279"
+  },
+  {
     "id": "a37c591afc129f5f",
     "title": "Tênis Infantil Confortável Passeio Dia a Dia",
     "price_now": 34.95,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-17T11:30:44.464847"
-  },
-  {
-    "id": "baf39b1032b62542",
-    "title": "Berço Co-Bed Safety 1st Lounge com Balanço Automático - Grey",
-    "price_now": 1050.0,
-    "price_was": 1699.0,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0FPH8MFX1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/841501044817869197088926516435.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-16T22:50:45.349239"
   }
 ]
