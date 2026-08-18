@@ -1807,6 +1807,10 @@
     "3746f094d6fa9e7e": {
       "title": "Babá Eletrônica com Monitor Visão Noturna Áudio Bidirecional Sensor de Temperatura Monitor Infantil Digital",
       "posted_at": "2026-08-18T00:00:55.979809"
+    },
+    "6ff0c3e4c85b74a8": {
+      "title": "Fralda Babysec Ultrasec XG 30 Unidades",
+      "posted_at": "2026-08-18T12:30:43.671004"
     }
   },
   "results": [
@@ -5489,6 +5493,14 @@
       "post_id": "459",
       "error": null,
       "at": "2026-08-18T00:00:55.979201"
+    },
+    {
+      "offer_id": "6ff0c3e4c85b74a8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "460",
+      "error": null,
+      "at": "2026-08-18T12:30:43.670278"
     }
   ]
 }
