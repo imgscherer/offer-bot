@@ -1811,6 +1811,10 @@
     "6ff0c3e4c85b74a8": {
       "title": "Fralda Babysec Ultrasec XG 30 Unidades",
       "posted_at": "2026-08-18T12:30:43.671004"
+    },
+    "244d62385a531bdd": {
+      "title": "Carrinho de Bebê e Berço Moises Napoli Galzerano",
+      "posted_at": "2026-08-18T14:30:47.022616"
     }
   },
   "results": [
@@ -5501,6 +5505,14 @@
       "post_id": "460",
       "error": null,
       "at": "2026-08-18T12:30:43.670278"
+    },
+    {
+      "offer_id": "244d62385a531bdd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "461",
+      "error": null,
+      "at": "2026-08-18T14:30:46.939711"
     }
   ]
 }

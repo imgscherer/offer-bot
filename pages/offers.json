@@ -1,5 +1,17 @@
 [
   {
+    "id": "244d62385a531bdd",
+    "title": "Carrinho de Bebê e Berço Moises Napoli Galzerano",
+    "price_now": 671.51,
+    "price_was": 1356.96,
+    "discount_pct": 51,
+    "url": "https://s.shopee.com.br/3VjYpFXAxv?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/936102199617870631699651510155.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-18T14:30:46.940007"
+  },
+  {
     "id": "6ff0c3e4c85b74a8",
     "title": "Fralda Babysec Ultrasec XG 30 Unidades",
     "price_now": 33.4,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-15T14:10:44.934076"
-  },
-  {
-    "id": "7a1efcbcaec6a51f",
-    "title": "Fralda Turma da Mônica Baby P 30 Unidades",
-    "price_now": 16.92,
-    "price_was": 28.68,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B099KTC5VJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/891127791317868009128723292371.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-15T13:40:41.985885"
   }
 ]
