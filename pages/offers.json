@@ -1,5 +1,17 @@
 [
   {
+    "id": "40292ded289729dc",
+    "title": "Fralda Pom Pom Protek XG 38 unidades",
+    "price_now": 34.31,
+    "price_was": 50.29,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/792386936917870757094482806590.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-18T18:10:56.370248"
+  },
+  {
     "id": "244d62385a531bdd",
     "title": "Carrinho de Bebê e Berço Moises Napoli Galzerano",
     "price_now": 671.51,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-15T20:40:42.226593"
-  },
-  {
-    "id": "681b81c1fb59b457",
-    "title": "Fralda Mili Love&Care M 78 Unidades",
-    "price_now": 66.59,
-    "price_was": 148.5,
-    "discount_pct": 55,
-    "url": "https://www.amazon.com.br/dp/B0CN81BZKX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/229045543217868025275861852936.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-15T14:10:44.934076"
   }
 ]

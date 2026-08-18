@@ -1815,6 +1815,10 @@
     "244d62385a531bdd": {
       "title": "Carrinho de Bebê e Berço Moises Napoli Galzerano",
       "posted_at": "2026-08-18T14:30:47.022616"
+    },
+    "40292ded289729dc": {
+      "title": "Fralda Pom Pom Protek XG 38 unidades",
+      "posted_at": "2026-08-18T18:10:56.370522"
     }
   },
   "results": [
@@ -5513,6 +5517,14 @@
       "post_id": "461",
       "error": null,
       "at": "2026-08-18T14:30:46.939711"
+    },
+    {
+      "offer_id": "40292ded289729dc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "462",
+      "error": null,
+      "at": "2026-08-18T18:10:56.369966"
     }
   ]
 }
