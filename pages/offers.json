@@ -1,5 +1,17 @@
 [
   {
+    "id": "c64e560a26ec954f",
+    "title": "Kit Portátil Para Limpeza De Mamadeira - Buba",
+    "price_now": 70.5,
+    "price_was": 108.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0DJG4SRZ2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/319720360717870776423834524017.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-18T18:30:43.484140"
+  },
+  {
     "id": "40292ded289729dc",
     "title": "Fralda Pom Pom Protek XG 38 unidades",
     "price_now": 34.31,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-16T13:30:43.697871"
-  },
-  {
-    "id": "f4b313827ea60c2f",
-    "title": "Patinete infantil 3 rodas com led luzes dobrável ajustável menino menina",
-    "price_now": 59.9,
-    "price_was": 139.3,
-    "discount_pct": 57,
-    "url": "https://s.shopee.com.br/AKZoaTa4dT?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/601001436717868261087536458326.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-15T20:40:42.226593"
   }
 ]
