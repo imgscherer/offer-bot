@@ -1,5 +1,17 @@
 [
   {
+    "id": "a37c591afc129f5f",
+    "title": "Tênis Infantil Confortável Passeio Dia a Dia",
+    "price_now": 34.95,
+    "price_was": 79.9,
+    "discount_pct": 56,
+    "url": "https://s.shopee.com.br/AAGT6JAPMp?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/754815401517870813495248648311.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-18T19:40:54.129565"
+  },
+  {
     "id": "c64e560a26ec954f",
     "title": "Kit Portátil Para Limpeza De Mamadeira - Buba",
     "price_now": 70.5,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-16T22:50:45.349239"
-  },
-  {
-    "id": "8185c12a4c7151d6",
-    "title": "Fralda Pampers Supersequinha G 80 unidades",
-    "price_now": 76.47,
-    "price_was": 109.78,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/888548517517868864324709132631.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-16T13:30:43.697871"
   }
 ]

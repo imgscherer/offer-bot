@@ -1823,6 +1823,10 @@
     "c64e560a26ec954f": {
       "title": "Kit Portátil Para Limpeza De Mamadeira - Buba",
       "posted_at": "2026-08-18T18:30:43.485098"
+    },
+    "a37c591afc129f5f": {
+      "title": "Tênis Infantil Confortável Passeio Dia a Dia",
+      "posted_at": "2026-08-18T19:40:54.129833"
     }
   },
   "results": [
@@ -5537,6 +5541,14 @@
       "post_id": "463",
       "error": null,
       "at": "2026-08-18T18:30:43.483828"
+    },
+    {
+      "offer_id": "a37c591afc129f5f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "464",
+      "error": null,
+      "at": "2026-08-18T19:40:54.129274"
     }
   ]
 }
