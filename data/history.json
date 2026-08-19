@@ -1855,6 +1855,10 @@
     "3ee689015ce042b7": {
       "title": "Tapete Infantil de Água Inflável para Bebê (2 Cores)",
       "posted_at": "2026-08-19T14:20:44.426902"
+    },
+    "7bae788597eb8289": {
+      "title": "Cadeira de Descanso Para bebê Nap Time 0-11kgs Rosa Cinto de 3 pontos Com Acessórios Interativos Multikids Baby BB291",
+      "posted_at": "2026-08-19T14:40:43.323705"
     }
   },
   "results": [
@@ -5633,6 +5637,14 @@
       "post_id": "471",
       "error": null,
       "at": "2026-08-19T14:20:44.426215"
+    },
+    {
+      "offer_id": "7bae788597eb8289",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "472",
+      "error": null,
+      "at": "2026-08-19T14:40:43.322976"
     }
   ]
 }
