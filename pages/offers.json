@@ -1,5 +1,17 @@
 [
   {
+    "id": "afc9fb904ef6bf75",
+    "title": "Assento Redutor Infantil Vaso Sanitário Privada Com Escada Trono Troninho (cinza)",
+    "price_now": 56.53,
+    "price_was": 95.57,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0CH3ZLGZK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/951328415017871799265906363241.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-19T23:00:55.176207"
+  },
+  {
     "id": "aca86e2aff77d5d1",
     "title": "Sapatinho Calce Fácil De Bebê (Tam. 17 ao 26, 3 cores)",
     "price_now": 26.6,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-18T19:40:54.129565"
-  },
-  {
-    "id": "c64e560a26ec954f",
-    "title": "Kit Portátil Para Limpeza De Mamadeira - Buba",
-    "price_now": 70.5,
-    "price_was": 108.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0DJG4SRZ2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/319720360717870776423834524017.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-18T18:30:43.484140"
   }
 ]

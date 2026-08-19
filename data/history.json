@@ -1867,6 +1867,10 @@
     "aca86e2aff77d5d1": {
       "title": "Sapatinho Calce Fácil De Bebê (Tam. 17 ao 26, 3 cores)",
       "posted_at": "2026-08-19T20:50:49.922683"
+    },
+    "afc9fb904ef6bf75": {
+      "title": "Assento Redutor Infantil Vaso Sanitário Privada Com Escada Trono Troninho (cinza)",
+      "posted_at": "2026-08-19T23:00:55.176549"
     }
   },
   "results": [
@@ -5965,6 +5969,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-08-19T22:50:41.535197"
+    },
+    {
+      "offer_id": "0bf2ed1313361f74",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-08-19T23:00:46.006315"
+    },
+    {
+      "offer_id": "afc9fb904ef6bf75",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "475",
+      "error": null,
+      "at": "2026-08-19T23:00:55.175841"
     }
   ]
 }
