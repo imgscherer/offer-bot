@@ -1847,6 +1847,10 @@
     "352e590c3ff3cb6e": {
       "title": "Fralda Descartável Babysec Galinha Pintadinha Ultrasec Mega XG 30 Unidades",
       "posted_at": "2026-08-19T13:01:11.322339"
+    },
+    "93d3f80f9efdcdc5": {
+      "title": "FRALDA POM POM PROTEK MEGA XG 38 Unid.",
+      "posted_at": "2026-08-19T13:10:42.290877"
     }
   },
   "results": [
@@ -5609,6 +5613,14 @@
       "post_id": "469",
       "error": null,
       "at": "2026-08-19T13:01:11.321638"
+    },
+    {
+      "offer_id": "93d3f80f9efdcdc5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "470",
+      "error": null,
+      "at": "2026-08-19T13:10:42.290229"
     }
   ]
 }

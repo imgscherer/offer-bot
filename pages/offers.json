@@ -1,5 +1,17 @@
 [
   {
+    "id": "93d3f80f9efdcdc5",
+    "title": "FRALDA POM POM PROTEK MEGA XG 38 Unid.",
+    "price_now": 33.52,
+    "price_was": 59.86,
+    "discount_pct": 44,
+    "url": "https://s.shopee.com.br/5fo4uYk4d5?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/581811712017871447102325352235.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-19T13:10:42.290533"
+  },
+  {
     "id": "352e590c3ff3cb6e",
     "title": "Fralda Descartável Babysec Galinha Pintadinha Ultrasec Mega XG 30 Unidades",
     "price_now": 28.79,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-18T00:00:55.979525"
-  },
-  {
-    "id": "3ec2b2ce7dcda575",
-    "title": "Berço Moisés Portátil Com Balanço Comfy 9kgs Cinza - MaxiBaby",
-    "price_now": 360.07,
-    "price_was": 649.9,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B09VH4SJHT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/719637168517870068296501588885.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-17T23:00:45.716862"
   }
 ]
