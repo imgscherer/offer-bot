@@ -1835,6 +1835,18 @@
     "2bbcf89be043800c": {
       "title": "Fralda Turma da Mônica Baby M 120 unidades",
       "posted_at": "2026-08-19T12:30:45.981991"
+    },
+    "6d87a1c42143ddda": {
+      "title": "Fralda Babysec Premium Shortinho XXG 42 unidades",
+      "posted_at": "2026-08-19T13:00:52.742614"
+    },
+    "0df0cff8dfcd8b91": {
+      "title": "Fralda Babysec Premium Shortinho XG 42 unidades",
+      "posted_at": "2026-08-19T13:01:03.539934"
+    },
+    "352e590c3ff3cb6e": {
+      "title": "Fralda Descartável Babysec Galinha Pintadinha Ultrasec Mega XG 30 Unidades",
+      "posted_at": "2026-08-19T13:01:11.322339"
     }
   },
   "results": [
@@ -5573,6 +5585,30 @@
       "post_id": "466",
       "error": null,
       "at": "2026-08-19T12:30:45.981303"
+    },
+    {
+      "offer_id": "6d87a1c42143ddda",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "467",
+      "error": null,
+      "at": "2026-08-19T13:00:52.741832"
+    },
+    {
+      "offer_id": "0df0cff8dfcd8b91",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "468",
+      "error": null,
+      "at": "2026-08-19T13:01:03.539297"
+    },
+    {
+      "offer_id": "352e590c3ff3cb6e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "469",
+      "error": null,
+      "at": "2026-08-19T13:01:11.321638"
     }
   ]
 }
