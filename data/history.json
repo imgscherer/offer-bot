@@ -1831,6 +1831,10 @@
     "9cabf35e48ca0da2": {
       "title": "Fralda Pampers Premium Care Fita XXXG 72 unidades",
       "posted_at": "2026-08-18T20:20:43.021640"
+    },
+    "2bbcf89be043800c": {
+      "title": "Fralda Turma da Mônica Baby M 120 unidades",
+      "posted_at": "2026-08-19T12:30:45.981991"
     }
   },
   "results": [
@@ -5561,6 +5565,14 @@
       "post_id": "465",
       "error": null,
       "at": "2026-08-18T20:20:43.020877"
+    },
+    {
+      "offer_id": "2bbcf89be043800c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "466",
+      "error": null,
+      "at": "2026-08-19T12:30:45.981303"
     }
   ]
 }
