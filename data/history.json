@@ -1851,6 +1851,10 @@
     "93d3f80f9efdcdc5": {
       "title": "FRALDA POM POM PROTEK MEGA XG 38 Unid.",
       "posted_at": "2026-08-19T13:10:42.290877"
+    },
+    "3ee689015ce042b7": {
+      "title": "Tapete Infantil de Água Inflável para Bebê (2 Cores)",
+      "posted_at": "2026-08-19T14:20:44.426902"
     }
   },
   "results": [
@@ -5621,6 +5625,14 @@
       "post_id": "470",
       "error": null,
       "at": "2026-08-19T13:10:42.290229"
+    },
+    {
+      "offer_id": "3ee689015ce042b7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "471",
+      "error": null,
+      "at": "2026-08-19T14:20:44.426215"
     }
   ]
 }
