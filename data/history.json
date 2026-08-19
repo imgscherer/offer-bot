@@ -1859,6 +1859,10 @@
     "7bae788597eb8289": {
       "title": "Cadeira de Descanso Para bebê Nap Time 0-11kgs Rosa Cinto de 3 pontos Com Acessórios Interativos Multikids Baby BB291",
       "posted_at": "2026-08-19T14:40:43.323705"
+    },
+    "250c14a47cc0bd65": {
+      "title": "Kit Higiene Bebê Pinus Coração Porcelana Personalizado",
+      "posted_at": "2026-08-19T15:00:56.480440"
     }
   },
   "results": [
@@ -5645,6 +5649,14 @@
       "post_id": "472",
       "error": null,
       "at": "2026-08-19T14:40:43.322976"
+    },
+    {
+      "offer_id": "250c14a47cc0bd65",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "473",
+      "error": null,
+      "at": "2026-08-19T15:00:56.479757"
     }
   ]
 }
