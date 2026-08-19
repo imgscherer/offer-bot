@@ -1863,6 +1863,10 @@
     "250c14a47cc0bd65": {
       "title": "Kit Higiene Bebê Pinus Coração Porcelana Personalizado",
       "posted_at": "2026-08-19T15:00:56.480440"
+    },
+    "aca86e2aff77d5d1": {
+      "title": "Sapatinho Calce Fácil De Bebê (Tam. 17 ao 26, 3 cores)",
+      "posted_at": "2026-08-19T20:50:49.922683"
     }
   },
   "results": [
@@ -5849,6 +5853,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-08-19T20:00:59.293488"
+    },
+    {
+      "offer_id": "aca86e2aff77d5d1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "474",
+      "error": null,
+      "at": "2026-08-19T20:50:49.921975"
+    },
+    {
+      "offer_id": "0bf2ed1313361f74",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-08-19T20:51:08.566382"
     }
   ]
 }
