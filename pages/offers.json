@@ -1,5 +1,17 @@
 [
   {
+    "id": "c0b8c0b282937007",
+    "title": "Tênis Stitch Infantil Menina LED (Tam. 20 ao 32)",
+    "price_now": 40.99,
+    "price_was": 89.27,
+    "discount_pct": 54,
+    "url": "https://s.shopee.com.br/6AkNDRTn6x?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/594788290817872372988951937490.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-20T14:50:50.006922"
+  },
+  {
     "id": "6742eb38362569dc",
     "title": "Cinto Segurança Cadeirão Infantil Alimentação 5 Pontos Bebê Carrinho De Bebê Cadeira",
     "price_now": 23.89,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-19T13:00:52.742266"
-  },
-  {
-    "id": "2bbcf89be043800c",
-    "title": "Fralda Turma da Mônica Baby M 120 unidades",
-    "price_now": 76.77,
-    "price_was": 129.69,
-    "discount_pct": 41,
-    "url": "https://s.shopee.com.br/19i6zA1di?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/370222807417871419558076787782.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-19T12:30:45.981640"
   }
 ]

@@ -1879,6 +1879,10 @@
     "6742eb38362569dc": {
       "title": "Cinto Segurança Cadeirão Infantil Alimentação 5 Pontos Bebê Carrinho De Bebê Cadeira",
       "posted_at": "2026-08-20T11:30:50.447728"
+    },
+    "c0b8c0b282937007": {
+      "title": "Tênis Stitch Infantil Menina LED (Tam. 20 ao 32)",
+      "posted_at": "2026-08-20T14:50:50.007260"
     }
   },
   "results": [
@@ -6129,6 +6133,14 @@
       "post_id": "477",
       "error": null,
       "at": "2026-08-20T11:30:50.447156"
+    },
+    {
+      "offer_id": "c0b8c0b282937007",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "478",
+      "error": null,
+      "at": "2026-08-20T14:50:50.006561"
     }
   ]
 }
