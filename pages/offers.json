@@ -1,5 +1,17 @@
 [
   {
+    "id": "f0f6bd1341f52dc9",
+    "title": "Huggies Fralda Supreme Care P 28 Un",
+    "price_now": 21.0,
+    "price_was": 47.07,
+    "discount_pct": 55,
+    "url": "https://www.amazon.com.br/dp/B07Y29HTHB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/609781384217872530095320907987.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-20T19:20:47.114433"
+  },
+  {
     "id": "e7eeb88d8bed9287",
     "title": "Fralda Huggies Natural Care M 78 unidades",
     "price_now": 78.96,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-20T11:30:50.447494"
-  },
-  {
-    "id": "bacb38025f883cc7",
-    "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
-    "price_now": 14.1,
-    "price_was": 28.68,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/276805585717871932468983776599.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-20T02:40:47.961737"
   }
 ]
