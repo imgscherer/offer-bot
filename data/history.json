@@ -1887,6 +1887,10 @@
     "20aca24ba86077ef": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
       "posted_at": "2026-08-20T15:50:47.337412"
+    },
+    "b27c21c525cc2e3d": {
+      "title": "Exposis Bebe, Repelente Baby com Icaridina, Gel 117g",
+      "posted_at": "2026-08-20T16:40:41.546178"
     }
   },
   "results": [
@@ -6153,6 +6157,14 @@
       "post_id": "479",
       "error": null,
       "at": "2026-08-20T15:50:47.336697"
+    },
+    {
+      "offer_id": "b27c21c525cc2e3d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "480",
+      "error": null,
+      "at": "2026-08-20T16:40:41.545466"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "b27c21c525cc2e3d",
+    "title": "Exposis Bebe, Repelente Baby com Icaridina, Gel 117g",
+    "price_now": 43.0,
+    "price_was": 73.9,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B08N8PWLM6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/868484062117872429876446302276.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-20T16:40:41.545815"
+  },
+  {
     "id": "20aca24ba86077ef",
     "title": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
     "price_now": 35.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-19T13:01:11.321957"
-  },
-  {
-    "id": "0df0cff8dfcd8b91",
-    "title": "Fralda Babysec Premium Shortinho XG 42 unidades",
-    "price_now": 55.99,
-    "price_was": 93.32,
-    "discount_pct": 40,
-    "url": "https://s.shopee.com.br/1gHw7wiH5d?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/806466231517871436088782663232.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-19T13:01:03.539607"
   }
 ]
