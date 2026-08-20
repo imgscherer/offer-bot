@@ -1875,6 +1875,10 @@
     "bacb38025f883cc7": {
       "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
       "posted_at": "2026-08-20T02:40:47.962143"
+    },
+    "6742eb38362569dc": {
+      "title": "Cinto Segurança Cadeirão Infantil Alimentação 5 Pontos Bebê Carrinho De Bebê Cadeira",
+      "posted_at": "2026-08-20T11:30:50.447728"
     }
   },
   "results": [
@@ -6117,6 +6121,14 @@
       "post_id": "476",
       "error": null,
       "at": "2026-08-20T02:40:47.961399"
+    },
+    {
+      "offer_id": "6742eb38362569dc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "477",
+      "error": null,
+      "at": "2026-08-20T11:30:50.447156"
     }
   ]
 }
