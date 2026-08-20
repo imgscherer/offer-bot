@@ -1,5 +1,17 @@
 [
   {
+    "id": "57f00ab201cc1a7a",
+    "title": "MamyPoko Fralda-Calça Dia&Noite M 58 Unidades",
+    "price_now": 52.0,
+    "price_was": 74.9,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B086BVN842?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/804546376117872575683310979167.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-20T20:40:47.112823"
+  },
+  {
     "id": "9efe92168131dd46",
     "title": "Buba Troninho Infantil - Azul Baby",
     "price_now": 34.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-20T16:40:41.545815"
-  },
-  {
-    "id": "20aca24ba86077ef",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
-    "price_now": 35.0,
-    "price_was": 50.29,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/430891065317872405477694114263.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-20T15:50:47.337055"
   }
 ]

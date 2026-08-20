@@ -1931,6 +1931,10 @@
     "9efe92168131dd46": {
       "title": "Buba Troninho Infantil - Azul Baby",
       "posted_at": "2026-08-20T19:50:44.029481"
+    },
+    "57f00ab201cc1a7a": {
+      "title": "MamyPoko Fralda-Calça Dia&Noite M 58 Unidades",
+      "posted_at": "2026-08-20T20:40:47.113074"
     }
   },
   "results": [
@@ -6421,6 +6425,14 @@
       "post_id": "490",
       "error": null,
       "at": "2026-08-20T19:50:44.028766"
+    },
+    {
+      "offer_id": "57f00ab201cc1a7a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "491",
+      "error": null,
+      "at": "2026-08-20T20:40:47.112520"
     }
   ]
 }
