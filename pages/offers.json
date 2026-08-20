@@ -1,5 +1,29 @@
 [
   {
+    "id": "de28202a06e7354d",
+    "title": "Fralda Huggies Natural Care Pants G 60 unidades",
+    "price_now": 73.01,
+    "price_was": 118.35,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/657262714917872495283963286542.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-20T18:21:00.432485"
+  },
+  {
+    "id": "4d2bbbfce51e4216",
+    "title": "Óculos de Sol Infantil Polarizado Flexível (Diversas cores)",
+    "price_now": 19.5,
+    "price_was": 60.3,
+    "discount_pct": 68,
+    "url": "https://s.shopee.com.br/3VjcGYEd3T?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/119564217817872495354582813836.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-20T18:20:47.609655"
+  },
+  {
     "id": "302ad371ab7587f3",
     "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
     "price_now": 148.66,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-19T20:50:49.922343"
-  },
-  {
-    "id": "250c14a47cc0bd65",
-    "title": "Kit Higiene Bebê Pinus Coração Porcelana Personalizado",
-    "price_now": 70.99,
-    "price_was": 147.9,
-    "discount_pct": 52,
-    "url": "https://s.shopee.com.br/3g30eEsCsH?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/871802531717871511353744147590.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-19T15:00:56.480107"
-  },
-  {
-    "id": "7bae788597eb8289",
-    "title": "Cadeira de Descanso Para bebê Nap Time 0-11kgs Rosa Cinto de 3 pontos Com Acessórios Interativos Multikids Baby BB291",
-    "price_now": 159.9,
-    "price_was": 299.9,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B0B2X2P3G5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/194597280617871500498302417779.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-19T14:40:43.323365"
   }
 ]
