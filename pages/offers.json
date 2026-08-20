@@ -1,5 +1,17 @@
 [
   {
+    "id": "9efe92168131dd46",
+    "title": "Buba Troninho Infantil - Azul Baby",
+    "price_now": 34.0,
+    "price_was": 82.9,
+    "discount_pct": 59,
+    "url": "https://www.amazon.com.br/dp/B087NN64FN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/436495288817872543283799053140.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-20T19:50:44.029152"
+  },
+  {
     "id": "a19276a383775189",
     "title": "Huggies Fralda Supreme Care P 28 Un",
     "price_now": 21.85,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-20T15:50:47.337055"
-  },
-  {
-    "id": "c0b8c0b282937007",
-    "title": "Tênis Stitch Infantil Menina LED (Tam. 20 ao 32)",
-    "price_now": 40.99,
-    "price_was": 89.27,
-    "discount_pct": 54,
-    "url": "https://s.shopee.com.br/6AkNDRTn6x?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/594788290817872372988951937490.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-20T14:50:50.006922"
   }
 ]

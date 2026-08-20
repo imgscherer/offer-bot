@@ -1927,6 +1927,10 @@
     "a19276a383775189": {
       "title": "Huggies Fralda Supreme Care P 28 Un",
       "posted_at": "2026-08-20T19:30:47.472639"
+    },
+    "9efe92168131dd46": {
+      "title": "Buba Troninho Infantil - Azul Baby",
+      "posted_at": "2026-08-20T19:50:44.029481"
     }
   },
   "results": [
@@ -6409,6 +6413,14 @@
       "post_id": "489",
       "error": null,
       "at": "2026-08-20T19:30:47.471920"
+    },
+    {
+      "offer_id": "9efe92168131dd46",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "490",
+      "error": null,
+      "at": "2026-08-20T19:50:44.028766"
     }
   ]
 }
