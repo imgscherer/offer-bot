@@ -1,5 +1,17 @@
 [
   {
+    "id": "bacb38025f883cc7",
+    "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
+    "price_now": 14.1,
+    "price_was": 28.68,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/276805585717871932468983776599.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-20T02:40:47.961737"
+  },
+  {
     "id": "afc9fb904ef6bf75",
     "title": "Assento Redutor Infantil Vaso Sanitário Privada Com Escada Trono Troninho (cinza)",
     "price_now": 56.53,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-18T20:20:43.021279"
-  },
-  {
-    "id": "a37c591afc129f5f",
-    "title": "Tênis Infantil Confortável Passeio Dia a Dia",
-    "price_now": 34.95,
-    "price_was": 79.9,
-    "discount_pct": 56,
-    "url": "https://s.shopee.com.br/AAGT6JAPMp?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/754815401517870813495248648311.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-18T19:40:54.129565"
   }
 ]

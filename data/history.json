@@ -1871,6 +1871,10 @@
     "afc9fb904ef6bf75": {
       "title": "Assento Redutor Infantil Vaso Sanitário Privada Com Escada Trono Troninho (cinza)",
       "posted_at": "2026-08-19T23:00:55.176549"
+    },
+    "bacb38025f883cc7": {
+      "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
+      "posted_at": "2026-08-20T02:40:47.962143"
     }
   },
   "results": [
@@ -6105,6 +6109,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-08-20T01:30:41.205310"
+    },
+    {
+      "offer_id": "bacb38025f883cc7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "476",
+      "error": null,
+      "at": "2026-08-20T02:40:47.961399"
     }
   ]
 }
