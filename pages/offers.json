@@ -1,5 +1,29 @@
 [
   {
+    "id": "302ad371ab7587f3",
+    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+    "price_now": 148.66,
+    "price_was": 229.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/888995573617872483898681105201.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-20T18:01:42.670162"
+  },
+  {
+    "id": "823f8a59efc90377",
+    "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+    "price_now": 148.66,
+    "price_was": 229.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/950923123717872483969554855833.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-20T18:01:27.663907"
+  },
+  {
     "id": "d3a699b75365226f",
     "title": "Chapéu Bucket Infantil Praia Proteção Solar Uv (9 Estampas)",
     "price_now": 20.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-19T14:40:43.323365"
-  },
-  {
-    "id": "3ee689015ce042b7",
-    "title": "Tapete Infantil de Água Inflável para Bebê (2 Cores)",
-    "price_now": 17.4,
-    "price_was": 39.55,
-    "discount_pct": 56,
-    "url": "https://s.shopee.com.br/5AroNceSc0?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/371321535117871481909339830887.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-19T14:20:44.426566"
-  },
-  {
-    "id": "93d3f80f9efdcdc5",
-    "title": "FRALDA POM POM PROTEK MEGA XG 38 Unid.",
-    "price_now": 33.52,
-    "price_was": 59.86,
-    "discount_pct": 44,
-    "url": "https://s.shopee.com.br/5fo4uYk4d5?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/581811712017871447102325352235.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-19T13:10:42.290533"
   }
 ]

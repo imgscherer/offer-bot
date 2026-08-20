@@ -1895,6 +1895,14 @@
     "d3a699b75365226f": {
       "title": "Chapéu Bucket Infantil Praia Proteção Solar Uv (9 Estampas)",
       "posted_at": "2026-08-20T17:30:52.395197"
+    },
+    "823f8a59efc90377": {
+      "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+      "posted_at": "2026-08-20T18:01:27.664189"
+    },
+    "302ad371ab7587f3": {
+      "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+      "posted_at": "2026-08-20T18:01:42.670512"
     }
   },
   "results": [
@@ -6225,6 +6233,46 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-08-20T17:50:46.059455"
+    },
+    {
+      "offer_id": "7b196cfc156466e4",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-08-20T18:00:54.391715"
+    },
+    {
+      "offer_id": "c2c0b4149b064653",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-08-20T18:01:10.262717"
+    },
+    {
+      "offer_id": "823f8a59efc90377",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "482",
+      "error": null,
+      "at": "2026-08-20T18:01:27.663601"
+    },
+    {
+      "offer_id": "302ad371ab7587f3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "483",
+      "error": null,
+      "at": "2026-08-20T18:01:42.669877"
+    },
+    {
+      "offer_id": "8a601babc06cee90",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-08-20T18:02:00.725167"
     }
   ]
 }
