@@ -1923,6 +1923,10 @@
     "f0f6bd1341f52dc9": {
       "title": "Huggies Fralda Supreme Care P 28 Un",
       "posted_at": "2026-08-20T19:20:47.114804"
+    },
+    "a19276a383775189": {
+      "title": "Huggies Fralda Supreme Care P 28 Un",
+      "posted_at": "2026-08-20T19:30:47.472639"
     }
   },
   "results": [
@@ -6397,6 +6401,14 @@
       "post_id": "488",
       "error": null,
       "at": "2026-08-20T19:20:47.114087"
+    },
+    {
+      "offer_id": "a19276a383775189",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "489",
+      "error": null,
+      "at": "2026-08-20T19:30:47.471920"
     }
   ]
 }
