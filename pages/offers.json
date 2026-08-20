@@ -1,5 +1,29 @@
 [
   {
+    "id": "e7eeb88d8bed9287",
+    "title": "Fralda Huggies Natural Care M 78 unidades",
+    "price_now": 78.96,
+    "price_was": 125.24,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/457194240117872507273647883512.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-20T18:41:03.099340"
+  },
+  {
+    "id": "a197260458d8f003",
+    "title": "Fralda Huggies Supreme Care P 28 Unidades",
+    "price_now": 21.85,
+    "price_was": 47.07,
+    "discount_pct": 54,
+    "url": "https://www.amazon.com.br/dp/B07Y29HTHB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/486972050717872507292594325750.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-20T18:40:50.913916"
+  },
+  {
     "id": "de28202a06e7354d",
     "title": "Fralda Huggies Natural Care Pants G 60 unidades",
     "price_now": 73.01,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-20T02:40:47.961737"
-  },
-  {
-    "id": "afc9fb904ef6bf75",
-    "title": "Assento Redutor Infantil Vaso Sanitário Privada Com Escada Trono Troninho (cinza)",
-    "price_now": 56.53,
-    "price_was": 95.57,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0CH3ZLGZK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/951328415017871799265906363241.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-19T23:00:55.176207"
-  },
-  {
-    "id": "aca86e2aff77d5d1",
-    "title": "Sapatinho Calce Fácil De Bebê (Tam. 17 ao 26, 3 cores)",
-    "price_now": 26.6,
-    "price_was": 98.57,
-    "discount_pct": 73,
-    "url": "https://s.shopee.com.br/5q7VcapYRv?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/240146996417871724354527419480.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-19T20:50:49.922343"
   }
 ]

@@ -1911,6 +1911,14 @@
     "de28202a06e7354d": {
       "title": "Fralda Huggies Natural Care Pants G 60 unidades",
       "posted_at": "2026-08-20T18:21:00.432830"
+    },
+    "a197260458d8f003": {
+      "title": "Fralda Huggies Supreme Care P 28 Unidades",
+      "posted_at": "2026-08-20T18:40:50.914221"
+    },
+    "e7eeb88d8bed9287": {
+      "title": "Fralda Huggies Natural Care M 78 unidades",
+      "posted_at": "2026-08-20T18:41:03.099599"
     }
   },
   "results": [
@@ -6353,6 +6361,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-08-20T18:30:48.136400"
+    },
+    {
+      "offer_id": "a197260458d8f003",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "486",
+      "error": null,
+      "at": "2026-08-20T18:40:50.913592"
+    },
+    {
+      "offer_id": "e7eeb88d8bed9287",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "487",
+      "error": null,
+      "at": "2026-08-20T18:41:03.099027"
+    },
+    {
+      "offer_id": "c2c0b4149b064653",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-08-20T18:41:09.595021"
     }
   ]
 }
