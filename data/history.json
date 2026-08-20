@@ -1883,6 +1883,10 @@
     "c0b8c0b282937007": {
       "title": "Tênis Stitch Infantil Menina LED (Tam. 20 ao 32)",
       "posted_at": "2026-08-20T14:50:50.007260"
+    },
+    "20aca24ba86077ef": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
+      "posted_at": "2026-08-20T15:50:47.337412"
     }
   },
   "results": [
@@ -6141,6 +6145,14 @@
       "post_id": "478",
       "error": null,
       "at": "2026-08-20T14:50:50.006561"
+    },
+    {
+      "offer_id": "20aca24ba86077ef",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "479",
+      "error": null,
+      "at": "2026-08-20T15:50:47.336697"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "20aca24ba86077ef",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
+    "price_now": 35.0,
+    "price_was": 50.29,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/430891065317872405477694114263.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-20T15:50:47.337055"
+  },
+  {
     "id": "c0b8c0b282937007",
     "title": "Tênis Stitch Infantil Menina LED (Tam. 20 ao 32)",
     "price_now": 40.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-19T13:01:03.539607"
-  },
-  {
-    "id": "6d87a1c42143ddda",
-    "title": "Fralda Babysec Premium Shortinho XXG 42 unidades",
-    "price_now": 55.99,
-    "price_was": 107.68,
-    "discount_pct": 48,
-    "url": "https://s.shopee.com.br/40fquD4rQq?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/477139458517871435881207604994.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-19T13:00:52.742266"
   }
 ]
