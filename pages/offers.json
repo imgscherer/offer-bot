@@ -1,5 +1,17 @@
 [
   {
+    "id": "f396f719bad6d6ea",
+    "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
+    "price_now": 416.07,
+    "price_was": 799.9,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0CPN2L6MQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/790146675417873493065822073116.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-21T22:10:39.001140"
+  },
+  {
     "id": "e66ee7af6dbcb8bb",
     "title": "Papete Infantil (Tam. 21 ao 32, Diversas cores)",
     "price_now": 21.49,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-21T12:10:54.476479"
-  },
-  {
-    "id": "ad88403e4a2184d5",
-    "title": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
-    "price_now": 33.65,
-    "price_was": 53.4,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/472103648717872480721164146535.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-21T12:00:51.772272"
   }
 ]

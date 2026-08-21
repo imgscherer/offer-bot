@@ -2011,6 +2011,10 @@
     "e66ee7af6dbcb8bb": {
       "title": "Papete Infantil (Tam. 21 ao 32, Diversas cores)",
       "posted_at": "2026-08-21T21:10:52.684545"
+    },
+    "f396f719bad6d6ea": {
+      "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
+      "posted_at": "2026-08-21T22:10:39.001459"
     }
   },
   "results": [
@@ -6717,6 +6721,14 @@
       "post_id": "510",
       "error": null,
       "at": "2026-08-21T21:10:52.683842"
+    },
+    {
+      "offer_id": "f396f719bad6d6ea",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "511",
+      "error": null,
+      "at": "2026-08-21T22:10:39.000808"
     }
   ]
 }
