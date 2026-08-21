@@ -1,5 +1,17 @@
 [
   {
+    "id": "8ea645d7b0c931b7",
+    "title": "Fralda Huggies Natural Care Roupinha XG 56 Unidades",
+    "price_now": 67.99,
+    "price_was": 118.35,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/294519222517873368327633804757.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-21T18:40:49.102235"
+  },
+  {
     "id": "6f393d98971ddad0",
     "title": "Kit 6 Peças Moletom Menina Infantil Inverno (Tam 1 ao 14)",
     "price_now": 54.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-21T11:50:58.491211"
-  },
-  {
-    "id": "581853bbca2eff22",
-    "title": "Huggies Fralda Premium Natural Care G - 66 Un",
-    "price_now": 78.0,
-    "price_was": 125.24,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0FBC2GVT1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/204276490417873127696279920626.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-21T11:50:46.171779"
   }
 ]

@@ -1999,6 +1999,10 @@
     "6f393d98971ddad0": {
       "title": "Kit 6 Peças Moletom Menina Infantil Inverno (Tam 1 ao 14)",
       "posted_at": "2026-08-21T17:20:56.122050"
+    },
+    "8ea645d7b0c931b7": {
+      "title": "Fralda Huggies Natural Care Roupinha XG 56 Unidades",
+      "posted_at": "2026-08-21T18:40:49.102572"
     }
   },
   "results": [
@@ -6681,6 +6685,14 @@
       "post_id": "507",
       "error": null,
       "at": "2026-08-21T17:20:56.121356"
+    },
+    {
+      "offer_id": "8ea645d7b0c931b7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "508",
+      "error": null,
+      "at": "2026-08-21T18:40:49.101892"
     }
   ]
 }
