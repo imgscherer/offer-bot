@@ -1,5 +1,17 @@
 [
   {
+    "id": "18c3449ef686de7d",
+    "title": "Babysec Fraldas Ultrasec Galinha Pintadinha M 72 Unidades",
+    "price_now": 58.0,
+    "price_was": 101.58,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/886970090917873176268567617791.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-21T13:10:49.407965"
+  },
+  {
     "id": "b831709bc722b0ea",
     "title": "Huggies Fralda Pants Premium Natural Care XG 56 Un",
     "price_now": 74.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-21T00:40:47.160284"
-  },
-  {
-    "id": "57f00ab201cc1a7a",
-    "title": "MamyPoko Fralda-Calça Dia&Noite M 58 Unidades",
-    "price_now": 52.0,
-    "price_was": 74.9,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B086BVN842?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/804546376117872575683310979167.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-20T20:40:47.112823"
   }
 ]

@@ -1979,6 +1979,10 @@
     "b831709bc722b0ea": {
       "title": "Huggies Fralda Pants Premium Natural Care XG 56 Un",
       "posted_at": "2026-08-21T13:01:05.371723"
+    },
+    "18c3449ef686de7d": {
+      "title": "Babysec Fraldas Ultrasec Galinha Pintadinha M 72 Unidades",
+      "posted_at": "2026-08-21T13:10:49.408312"
     }
   },
   "results": [
@@ -6565,6 +6569,22 @@
       "post_id": "502",
       "error": null,
       "at": "2026-08-21T13:01:05.371018"
+    },
+    {
+      "offer_id": "18c3449ef686de7d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "503",
+      "error": null,
+      "at": "2026-08-21T13:10:49.407603"
+    },
+    {
+      "offer_id": "4b3b04d9c5cbf667",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-08-21T13:11:05.541810"
     }
   ]
 }
