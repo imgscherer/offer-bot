@@ -1,5 +1,17 @@
 [
   {
+    "id": "31fcff25659c73e2",
+    "title": "Fralda Pampers Supersequinha XG 70 Unidades",
+    "price_now": 76.47,
+    "price_was": 109.78,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0DV7BN75H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/895965054117873089426659585786.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-21T10:50:49.629939"
+  },
+  {
     "id": "da5fffff01c8f89c",
     "title": "Huggies Fralda Premium Natural Care RN - 34 Un",
     "price_now": 30.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-20T18:01:27.663907"
-  },
-  {
-    "id": "d3a699b75365226f",
-    "title": "Chapéu Bucket Infantil Praia Proteção Solar Uv (9 Estampas)",
-    "price_now": 20.0,
-    "price_was": 60.29,
-    "discount_pct": 67,
-    "url": "https://s.shopee.com.br/1qbO8r8RF5?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/933583764417872461144234204443.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-20T17:30:52.394880"
   }
 ]
