@@ -2015,6 +2015,14 @@
     "f396f719bad6d6ea": {
       "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
       "posted_at": "2026-08-21T22:10:39.001459"
+    },
+    "3733efac5e081ae0": {
+      "title": "Bicicleta de Equilibrio Andador Infantil sem Pedal para Crianças (Azul)",
+      "posted_at": "2026-08-21T22:50:41.408793"
+    },
+    "7fe1024c7ca96409": {
+      "title": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha, 72 Unidades, Tamanho M 5 - 9, 5 Kg, Babysec, Azul, M",
+      "posted_at": "2026-08-21T22:50:51.620149"
     }
   },
   "results": [
@@ -6729,6 +6737,22 @@
       "post_id": "511",
       "error": null,
       "at": "2026-08-21T22:10:39.000808"
+    },
+    {
+      "offer_id": "3733efac5e081ae0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "512",
+      "error": null,
+      "at": "2026-08-21T22:50:41.408125"
+    },
+    {
+      "offer_id": "7fe1024c7ca96409",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "513",
+      "error": null,
+      "at": "2026-08-21T22:50:51.619462"
     }
   ]
 }
