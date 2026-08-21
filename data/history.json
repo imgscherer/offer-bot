@@ -1967,6 +1967,14 @@
     "ad88403e4a2184d5": {
       "title": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
       "posted_at": "2026-08-21T12:00:51.772646"
+    },
+    "df6ab37d14f00558": {
+      "title": "Fralda Premium Huggies Natural Care M 78 Unidades",
+      "posted_at": "2026-08-21T12:10:54.476713"
+    },
+    "6f7066d4eac3e879": {
+      "title": "Huggies Fralda Pants Premium Natural Care XXG - 52 Un",
+      "posted_at": "2026-08-21T12:11:10.037146"
     }
   },
   "results": [
@@ -6529,6 +6537,22 @@
       "post_id": "499",
       "error": null,
       "at": "2026-08-21T12:00:51.771912"
+    },
+    {
+      "offer_id": "df6ab37d14f00558",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "500",
+      "error": null,
+      "at": "2026-08-21T12:10:54.476100"
+    },
+    {
+      "offer_id": "6f7066d4eac3e879",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "501",
+      "error": null,
+      "at": "2026-08-21T12:11:10.036686"
     }
   ]
 }

@@ -1,5 +1,29 @@
 [
   {
+    "id": "6f7066d4eac3e879",
+    "title": "Huggies Fralda Pants Premium Natural Care XXG - 52 Un",
+    "price_now": 82.0,
+    "price_was": 118.35,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0BKLM298N?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/735327711317873131287353834812.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-21T12:11:10.036937"
+  },
+  {
+    "id": "df6ab37d14f00558",
+    "title": "Fralda Premium Huggies Natural Care M 78 Unidades",
+    "price_now": 78.0,
+    "price_was": 125.24,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/350556292417873135627907426133.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-21T12:10:54.476479"
+  },
+  {
     "id": "ad88403e4a2184d5",
     "title": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
     "price_now": 33.65,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-20T19:50:44.029152"
-  },
-  {
-    "id": "a19276a383775189",
-    "title": "Huggies Fralda Supreme Care P 28 Un",
-    "price_now": 21.85,
-    "price_was": 47.07,
-    "discount_pct": 54,
-    "url": "https://www.amazon.com.br/dp/B07Y29HTHB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/596190182317872537892657279382.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-20T19:30:47.472267"
-  },
-  {
-    "id": "f0f6bd1341f52dc9",
-    "title": "Huggies Fralda Supreme Care P 28 Un",
-    "price_now": 21.0,
-    "price_was": 47.07,
-    "discount_pct": 55,
-    "url": "https://www.amazon.com.br/dp/B07Y29HTHB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/609781384217872530095320907987.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-20T19:20:47.114433"
   }
 ]
