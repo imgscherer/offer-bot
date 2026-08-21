@@ -1,5 +1,41 @@
 [
   {
+    "id": "da201a14b39ae3e6",
+    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+    "price_now": 148.66,
+    "price_was": 229.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/131175470517873120154526230030.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-21T11:51:10.736517"
+  },
+  {
+    "id": "e9002a7ff03d6089",
+    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+    "price_now": 148.66,
+    "price_was": 229.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/708648133117873120341222342354.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-21T11:50:58.491211"
+  },
+  {
+    "id": "581853bbca2eff22",
+    "title": "Huggies Fralda Premium Natural Care G - 66 Un",
+    "price_now": 78.0,
+    "price_was": 125.24,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0FBC2GVT1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/204276490417873127696279920626.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-21T11:50:46.171779"
+  },
+  {
     "id": "d0c2d9a8ae519d8d",
     "title": "Fralda Pampers Supersequinha G 80 unidades",
     "price_now": 76.47,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-20T18:41:03.099340"
-  },
-  {
-    "id": "a197260458d8f003",
-    "title": "Fralda Huggies Supreme Care P 28 Unidades",
-    "price_now": 21.85,
-    "price_was": 47.07,
-    "discount_pct": 54,
-    "url": "https://www.amazon.com.br/dp/B07Y29HTHB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/486972050717872507292594325750.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-20T18:40:50.913916"
-  },
-  {
-    "id": "de28202a06e7354d",
-    "title": "Fralda Huggies Natural Care Pants G 60 unidades",
-    "price_now": 73.01,
-    "price_was": 118.35,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/657262714917872495283963286542.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-20T18:21:00.432485"
-  },
-  {
-    "id": "4d2bbbfce51e4216",
-    "title": "Óculos de Sol Infantil Polarizado Flexível (Diversas cores)",
-    "price_now": 19.5,
-    "price_was": 60.3,
-    "discount_pct": 68,
-    "url": "https://s.shopee.com.br/3VjcGYEd3T?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/119564217817872495354582813836.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-20T18:20:47.609655"
   }
 ]
