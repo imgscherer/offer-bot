@@ -1,5 +1,17 @@
 [
   {
+    "id": "fc7d6692976a64c9",
+    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xxg 28 Unidades",
+    "price_now": 29.69,
+    "price_was": 52.65,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B07QVTHSGP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/763832236117873188263855974110.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-21T13:40:50.059157"
+  },
+  {
     "id": "10c6bd11b49797b0",
     "title": "Fralda Huggies Supreme Care Roupinha XG 64 Unidades",
     "price_now": 91.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-21T11:10:53.828133"
-  },
-  {
-    "id": "31fcff25659c73e2",
-    "title": "Fralda Pampers Supersequinha XG 70 Unidades",
-    "price_now": 76.47,
-    "price_was": 109.78,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0DV7BN75H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/895965054117873089426659585786.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-21T10:50:49.629939"
   }
 ]
