@@ -1,5 +1,17 @@
 [
   {
+    "id": "da5fffff01c8f89c",
+    "title": "Huggies Fralda Premium Natural Care RN - 34 Un",
+    "price_now": 30.0,
+    "price_was": 43.59,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/353376393817872718487954625642.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-21T00:40:47.160284"
+  },
+  {
     "id": "57f00ab201cc1a7a",
     "title": "MamyPoko Fralda-Calça Dia&Noite M 58 Unidades",
     "price_now": 52.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-20T17:30:52.394880"
-  },
-  {
-    "id": "b27c21c525cc2e3d",
-    "title": "Exposis Bebe, Repelente Baby com Icaridina, Gel 117g",
-    "price_now": 43.0,
-    "price_was": 73.9,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B08N8PWLM6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/868484062117872429876446302276.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-20T16:40:41.545815"
   }
 ]

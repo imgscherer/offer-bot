@@ -1935,6 +1935,10 @@
     "57f00ab201cc1a7a": {
       "title": "MamyPoko Fralda-Calça Dia&Noite M 58 Unidades",
       "posted_at": "2026-08-20T20:40:47.113074"
+    },
+    "da5fffff01c8f89c": {
+      "title": "Huggies Fralda Premium Natural Care RN - 34 Un",
+      "posted_at": "2026-08-21T00:40:47.160632"
     }
   },
   "results": [
@@ -6433,6 +6437,14 @@
       "post_id": "491",
       "error": null,
       "at": "2026-08-20T20:40:47.112520"
+    },
+    {
+      "offer_id": "da5fffff01c8f89c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "492",
+      "error": null,
+      "at": "2026-08-21T00:40:47.159941"
     }
   ]
 }
