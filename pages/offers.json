@@ -1,5 +1,17 @@
 [
   {
+    "id": "4b9c28d395e82280",
+    "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
+    "price_now": 50.0,
+    "price_was": 77.27,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/272929214817873427681198413071.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-21T20:20:48.402221"
+  },
+  {
     "id": "8ea645d7b0c931b7",
     "title": "Fralda Huggies Natural Care Roupinha XG 56 Unidades",
     "price_now": 67.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-21T11:51:10.736517"
-  },
-  {
-    "id": "e9002a7ff03d6089",
-    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
-    "price_now": 148.66,
-    "price_was": 229.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/708648133117873120341222342354.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-21T11:50:58.491211"
   }
 ]

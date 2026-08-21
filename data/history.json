@@ -2003,6 +2003,10 @@
     "8ea645d7b0c931b7": {
       "title": "Fralda Huggies Natural Care Roupinha XG 56 Unidades",
       "posted_at": "2026-08-21T18:40:49.102572"
+    },
+    "4b9c28d395e82280": {
+      "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
+      "posted_at": "2026-08-21T20:20:48.402579"
     }
   },
   "results": [
@@ -6693,6 +6697,14 @@
       "post_id": "508",
       "error": null,
       "at": "2026-08-21T18:40:49.101892"
+    },
+    {
+      "offer_id": "4b9c28d395e82280",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "509",
+      "error": null,
+      "at": "2026-08-21T20:20:48.401869"
     }
   ]
 }
