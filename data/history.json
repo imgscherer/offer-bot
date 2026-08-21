@@ -2007,6 +2007,10 @@
     "4b9c28d395e82280": {
       "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
       "posted_at": "2026-08-21T20:20:48.402579"
+    },
+    "e66ee7af6dbcb8bb": {
+      "title": "Papete Infantil (Tam. 21 ao 32, Diversas cores)",
+      "posted_at": "2026-08-21T21:10:52.684545"
     }
   },
   "results": [
@@ -6705,6 +6709,14 @@
       "post_id": "509",
       "error": null,
       "at": "2026-08-21T20:20:48.401869"
+    },
+    {
+      "offer_id": "e66ee7af6dbcb8bb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "510",
+      "error": null,
+      "at": "2026-08-21T21:10:52.683842"
     }
   ]
 }

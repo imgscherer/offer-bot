@@ -1,5 +1,17 @@
 [
   {
+    "id": "e66ee7af6dbcb8bb",
+    "title": "Papete Infantil (Tam. 21 ao 32, Diversas cores)",
+    "price_now": 21.49,
+    "price_was": 39.8,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/LmcHQv0sg?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/455414230817873462513915994460.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-21T21:10:52.684206"
+  },
+  {
     "id": "4b9c28d395e82280",
     "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
     "price_now": 50.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-21T12:00:51.772272"
-  },
-  {
-    "id": "da201a14b39ae3e6",
-    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
-    "price_now": 148.66,
-    "price_was": 229.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/131175470517873120154526230030.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-21T11:51:10.736517"
   }
 ]
