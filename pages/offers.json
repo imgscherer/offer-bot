@@ -1,5 +1,17 @@
 [
   {
+    "id": "d0c2d9a8ae519d8d",
+    "title": "Fralda Pampers Supersequinha G 80 unidades",
+    "price_now": 76.47,
+    "price_was": 109.78,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/537633920317873108512989634610.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-21T11:20:48.268063"
+  },
+  {
     "id": "dd961380aabb3b2d",
     "title": "Huggies Fralda Premium Natural Care P - 36 Un",
     "price_now": 37.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-20T18:20:47.609655"
-  },
-  {
-    "id": "302ad371ab7587f3",
-    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
-    "price_now": 148.66,
-    "price_was": 229.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/888995573617872483898681105201.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-20T18:01:42.670162"
   }
 ]

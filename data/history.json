@@ -1947,6 +1947,10 @@
     "dd961380aabb3b2d": {
       "title": "Huggies Fralda Premium Natural Care P - 36 Un",
       "posted_at": "2026-08-21T11:10:53.828385"
+    },
+    "d0c2d9a8ae519d8d": {
+      "title": "Fralda Pampers Supersequinha G 80 unidades",
+      "posted_at": "2026-08-21T11:20:48.268389"
     }
   },
   "results": [
@@ -6469,6 +6473,14 @@
       "post_id": "494",
       "error": null,
       "at": "2026-08-21T11:10:53.827830"
+    },
+    {
+      "offer_id": "d0c2d9a8ae519d8d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "495",
+      "error": null,
+      "at": "2026-08-21T11:20:48.267740"
     }
   ]
 }
