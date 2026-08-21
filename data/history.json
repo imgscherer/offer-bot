@@ -1975,6 +1975,10 @@
     "6f7066d4eac3e879": {
       "title": "Huggies Fralda Pants Premium Natural Care XXG - 52 Un",
       "posted_at": "2026-08-21T12:11:10.037146"
+    },
+    "b831709bc722b0ea": {
+      "title": "Huggies Fralda Pants Premium Natural Care XG 56 Un",
+      "posted_at": "2026-08-21T13:01:05.371723"
     }
   },
   "results": [
@@ -6553,6 +6557,14 @@
       "post_id": "501",
       "error": null,
       "at": "2026-08-21T12:11:10.036686"
+    },
+    {
+      "offer_id": "b831709bc722b0ea",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "502",
+      "error": null,
+      "at": "2026-08-21T13:01:05.371018"
     }
   ]
 }

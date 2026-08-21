@@ -1,5 +1,17 @@
 [
   {
+    "id": "b831709bc722b0ea",
+    "title": "Huggies Fralda Pants Premium Natural Care XG 56 Un",
+    "price_now": 74.0,
+    "price_was": 118.35,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/932820891917873160113962954404.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-21T13:01:05.371373"
+  },
+  {
     "id": "6f7066d4eac3e879",
     "title": "Huggies Fralda Pants Premium Natural Care XXG - 52 Un",
     "price_now": 82.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-20T20:40:47.112823"
-  },
-  {
-    "id": "9efe92168131dd46",
-    "title": "Buba Troninho Infantil - Azul Baby",
-    "price_now": 34.0,
-    "price_was": 82.9,
-    "discount_pct": 59,
-    "url": "https://www.amazon.com.br/dp/B087NN64FN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/436495288817872543283799053140.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-20T19:50:44.029152"
   }
 ]
