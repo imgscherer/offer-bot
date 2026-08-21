@@ -1,5 +1,17 @@
 [
   {
+    "id": "ad88403e4a2184d5",
+    "title": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
+    "price_now": 33.65,
+    "price_was": 53.4,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/472103648717872480721164146535.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-21T12:00:51.772272"
+  },
+  {
     "id": "da201a14b39ae3e6",
     "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
     "price_now": 148.66,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-20T19:20:47.114433"
-  },
-  {
-    "id": "e7eeb88d8bed9287",
-    "title": "Fralda Huggies Natural Care M 78 unidades",
-    "price_now": 78.96,
-    "price_was": 125.24,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/457194240117872507273647883512.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-20T18:41:03.099340"
   }
 ]

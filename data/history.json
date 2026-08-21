@@ -1963,6 +1963,10 @@
     "da201a14b39ae3e6": {
       "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
       "posted_at": "2026-08-21T11:51:10.736754"
+    },
+    "ad88403e4a2184d5": {
+      "title": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
+      "posted_at": "2026-08-21T12:00:51.772646"
     }
   },
   "results": [
@@ -6517,6 +6521,14 @@
       "post_id": "498",
       "error": null,
       "at": "2026-08-21T11:51:10.736222"
+    },
+    {
+      "offer_id": "ad88403e4a2184d5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "499",
+      "error": null,
+      "at": "2026-08-21T12:00:51.771912"
     }
   ]
 }
