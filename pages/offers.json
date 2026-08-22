@@ -1,5 +1,17 @@
 [
   {
+    "id": "253f8389b8eea637",
+    "title": "Bepantol Baby Lenço Umedecido Biodegradável para Bebê, Hipoalergênico, 96 Unidades",
+    "price_now": 14.99,
+    "price_was": 31.91,
+    "discount_pct": 53,
+    "url": "https://www.amazon.com.br/dp/B0CZBC4M7R?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/630157258217874286275925183841.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-22T20:00:48.630455"
+  },
+  {
     "id": "0bec7cbb6539e43b",
     "title": "Colher Infantil Tramontina Baby Friends em Aço Inox",
     "price_now": 4.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-21T21:10:52.684206"
-  },
-  {
-    "id": "4b9c28d395e82280",
-    "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
-    "price_now": 50.0,
-    "price_was": 77.27,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/272929214817873427681198413071.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-21T20:20:48.402221"
   }
 ]
