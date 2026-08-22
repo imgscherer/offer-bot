@@ -1,5 +1,17 @@
 [
   {
+    "id": "41e533ab70ae3c62",
+    "title": "Fralda Babysec Ultrasec M 68 unidades",
+    "price_now": 57.01,
+    "price_was": 101.58,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/850874474417873954498856390142.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-22T10:50:44.454449"
+  },
+  {
     "id": "0c8f1e7e36003c8e",
     "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
     "price_now": 11.87,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-21T13:31:06.297179"
-  },
-  {
-    "id": "18c3449ef686de7d",
-    "title": "Babysec Fraldas Ultrasec Galinha Pintadinha M 72 Unidades",
-    "price_now": 58.0,
-    "price_was": 101.58,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/886970090917873176268567617791.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-21T13:10:49.407965"
   }
 ]
