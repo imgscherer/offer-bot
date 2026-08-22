@@ -2039,6 +2039,10 @@
     "0653e8c2f4b6df38": {
       "title": "Fralda Pampers Premium Care Fita XXG 84 unidades",
       "posted_at": "2026-08-22T13:11:04.854154"
+    },
+    "978f4e7331f63251": {
+      "title": "Cercadinho Bebê Infantil c Grade + Cesta (Azul e Rosa)",
+      "posted_at": "2026-08-22T13:21:08.035608"
     }
   },
   "results": [
@@ -6921,6 +6925,30 @@
       "post_id": "517",
       "error": null,
       "at": "2026-08-22T13:11:04.853503"
+    },
+    {
+      "offer_id": "2e597f6464c682ba",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-08-22T13:20:55.094888"
+    },
+    {
+      "offer_id": "978f4e7331f63251",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "518",
+      "error": null,
+      "at": "2026-08-22T13:21:08.034895"
+    },
+    {
+      "offer_id": "2a29422429216b0d",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-08-22T13:21:18.152617"
     }
   ]
 }
