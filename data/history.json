@@ -2035,6 +2035,10 @@
     "c394d192346a3d30": {
       "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
       "posted_at": "2026-08-22T12:31:08.897335"
+    },
+    "0653e8c2f4b6df38": {
+      "title": "Fralda Pampers Premium Care Fita XXG 84 unidades",
+      "posted_at": "2026-08-22T13:11:04.854154"
     }
   },
   "results": [
@@ -6893,6 +6897,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-08-22T13:01:06.104801"
+    },
+    {
+      "offer_id": "2e597f6464c682ba",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-08-22T13:10:42.763712"
+    },
+    {
+      "offer_id": "2a29422429216b0d",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-08-22T13:10:50.692560"
+    },
+    {
+      "offer_id": "0653e8c2f4b6df38",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "517",
+      "error": null,
+      "at": "2026-08-22T13:11:04.853503"
     }
   ]
 }
