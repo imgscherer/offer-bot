@@ -2023,6 +2023,10 @@
     "7fe1024c7ca96409": {
       "title": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha, 72 Unidades, Tamanho M 5 - 9, 5 Kg, Babysec, Azul, M",
       "posted_at": "2026-08-21T22:50:51.620149"
+    },
+    "0c8f1e7e36003c8e": {
+      "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
+      "posted_at": "2026-08-22T04:00:52.345315"
     }
   },
   "results": [
@@ -6753,6 +6757,14 @@
       "post_id": "513",
       "error": null,
       "at": "2026-08-21T22:50:51.619462"
+    },
+    {
+      "offer_id": "0c8f1e7e36003c8e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "514",
+      "error": null,
+      "at": "2026-08-22T04:00:52.344615"
     }
   ]
 }
