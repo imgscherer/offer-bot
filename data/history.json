@@ -2047,6 +2047,10 @@
     "ea563fe17d2ddc2a": {
       "title": "Cadeira de Alimentação Bebê Portátil 3 em 1",
       "posted_at": "2026-08-22T14:50:54.654611"
+    },
+    "0bec7cbb6539e43b": {
+      "title": "Colher Infantil Tramontina Baby Friends em Aço Inox",
+      "posted_at": "2026-08-22T17:20:54.000222"
     }
   },
   "results": [
@@ -7185,6 +7189,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-08-22T17:10:45.355432"
+    },
+    {
+      "offer_id": "3e1b27235f42504b",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-08-22T17:20:46.377177"
+    },
+    {
+      "offer_id": "0bec7cbb6539e43b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "520",
+      "error": null,
+      "at": "2026-08-22T17:20:53.999522"
     }
   ]
 }

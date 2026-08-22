@@ -1,5 +1,17 @@
 [
   {
+    "id": "0bec7cbb6539e43b",
+    "title": "Colher Infantil Tramontina Baby Friends em Aço Inox",
+    "price_now": 4.0,
+    "price_was": 6.55,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B076MD7HR5?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/662974208317874187283895420430.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-22T17:20:53.999886"
+  },
+  {
     "id": "ea563fe17d2ddc2a",
     "title": "Cadeira de Alimentação Bebê Portátil 3 em 1",
     "price_now": 189.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-21T20:20:48.402221"
-  },
-  {
-    "id": "8ea645d7b0c931b7",
-    "title": "Fralda Huggies Natural Care Roupinha XG 56 Unidades",
-    "price_now": 67.99,
-    "price_was": 118.35,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/294519222517873368327633804757.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-21T18:40:49.102235"
   }
 ]
