@@ -2031,6 +2031,10 @@
     "41e533ab70ae3c62": {
       "title": "Fralda Babysec Ultrasec M 68 unidades",
       "posted_at": "2026-08-22T10:50:44.454809"
+    },
+    "c394d192346a3d30": {
+      "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
+      "posted_at": "2026-08-22T12:31:08.897335"
     }
   },
   "results": [
@@ -6817,6 +6821,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-08-22T12:20:52.715729"
+    },
+    {
+      "offer_id": "2e597f6464c682ba",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-08-22T12:30:50.058534"
+    },
+    {
+      "offer_id": "2a29422429216b0d",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-08-22T12:30:57.992876"
+    },
+    {
+      "offer_id": "c394d192346a3d30",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "516",
+      "error": null,
+      "at": "2026-08-22T12:31:08.896633"
     }
   ]
 }
