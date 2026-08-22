@@ -2043,6 +2043,10 @@
     "978f4e7331f63251": {
       "title": "Cercadinho Bebê Infantil c Grade + Cesta (Azul e Rosa)",
       "posted_at": "2026-08-22T13:21:08.035608"
+    },
+    "ea563fe17d2ddc2a": {
+      "title": "Cadeira de Alimentação Bebê Portátil 3 em 1",
+      "posted_at": "2026-08-22T14:50:54.654611"
     }
   },
   "results": [
@@ -7053,6 +7057,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-08-22T14:40:44.935954"
+    },
+    {
+      "offer_id": "3e1b27235f42504b",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-08-22T14:50:46.361500"
+    },
+    {
+      "offer_id": "ea563fe17d2ddc2a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "519",
+      "error": null,
+      "at": "2026-08-22T14:50:54.654035"
     }
   ]
 }

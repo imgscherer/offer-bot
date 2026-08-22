@@ -1,5 +1,17 @@
 [
   {
+    "id": "ea563fe17d2ddc2a",
+    "title": "Cadeira de Alimentação Bebê Portátil 3 em 1",
+    "price_now": 189.0,
+    "price_was": 322.06,
+    "discount_pct": 41,
+    "url": "https://s.shopee.com.br/3VjfE3Ggyp?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/976793328717874098538191608761.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-22T14:50:54.654372"
+  },
+  {
     "id": "978f4e7331f63251",
     "title": "Cercadinho Bebê Infantil c Grade + Cesta (Azul e Rosa)",
     "price_now": 189.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-21T18:40:49.102235"
-  },
-  {
-    "id": "6f393d98971ddad0",
-    "title": "Kit 6 Peças Moletom Menina Infantil Inverno (Tam 1 ao 14)",
-    "price_now": 54.0,
-    "price_was": 110.74,
-    "discount_pct": 51,
-    "url": "https://s.shopee.com.br/6VNFLxaXtl?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/950734085817873315665945947395.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-21T17:20:56.121718"
   }
 ]
