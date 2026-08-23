@@ -2063,6 +2063,10 @@
     "49e1c203bdb34787": {
       "title": "Pampers Confort Sec Fralda XXG 88 Unidades",
       "posted_at": "2026-08-23T18:00:59.095448"
+    },
+    "23dc06f8856022e7": {
+      "title": "Kit Meia Infantil Escolar 3 6 ou 12 Pares Unissex Cano Médio Algodão Branco e Preto Menino Menina",
+      "posted_at": "2026-08-23T20:50:44.483069"
     }
   },
   "results": [
@@ -8297,6 +8301,14 @@
       "post_id": "523",
       "error": null,
       "at": "2026-08-23T18:00:59.094842"
+    },
+    {
+      "offer_id": "23dc06f8856022e7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "524",
+      "error": null,
+      "at": "2026-08-23T20:50:44.482359"
     }
   ]
 }
