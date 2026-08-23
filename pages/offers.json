@@ -1,5 +1,17 @@
 [
   {
+    "id": "49e1c203bdb34787",
+    "title": "Pampers Confort Sec Fralda XXG 88 Unidades",
+    "price_now": 118.0,
+    "price_was": 182.69,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0G2PZ7ZYY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/955601587417875078892100578451.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-23T18:00:59.095170"
+  },
+  {
     "id": "2046b32677b23d24",
     "title": "Bolsa Térmica de Sementes para Cólica em Bebês - Estampa Bolinhas - Algodão - Alívio de Gases e Cólicas",
     "price_now": 15.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-21T22:50:41.408462"
-  },
-  {
-    "id": "f396f719bad6d6ea",
-    "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
-    "price_now": 416.07,
-    "price_was": 799.9,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0CPN2L6MQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/790146675417873493065822073116.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-21T22:10:39.001140"
   }
 ]

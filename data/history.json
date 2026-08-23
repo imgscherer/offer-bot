@@ -2059,6 +2059,10 @@
     "2046b32677b23d24": {
       "title": "Bolsa Térmica de Sementes para Cólica em Bebês - Estampa Bolinhas - Algodão - Alívio de Gases e Cólicas",
       "posted_at": "2026-08-23T13:20:41.200143"
+    },
+    "49e1c203bdb34787": {
+      "title": "Pampers Confort Sec Fralda XXG 88 Unidades",
+      "posted_at": "2026-08-23T18:00:59.095448"
     }
   },
   "results": [
@@ -8285,6 +8289,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-08-23T15:40:33.722574"
+    },
+    {
+      "offer_id": "49e1c203bdb34787",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "523",
+      "error": null,
+      "at": "2026-08-23T18:00:59.094842"
     }
   ]
 }
