@@ -1,5 +1,17 @@
 [
   {
+    "id": "2046b32677b23d24",
+    "title": "Bolsa Térmica de Sementes para Cólica em Bebês - Estampa Bolinhas - Algodão - Alívio de Gases e Cólicas",
+    "price_now": 15.0,
+    "price_was": 57.0,
+    "discount_pct": 74,
+    "url": "https://www.amazon.com.br/dp/B0GZHQNFSF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/763158661717874907306911868498.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-23T13:20:41.199824"
+  },
+  {
     "id": "253f8389b8eea637",
     "title": "Bepantol Baby Lenço Umedecido Biodegradável para Bebê, Hipoalergênico, 96 Unidades",
     "price_now": 14.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-21T22:10:39.001140"
-  },
-  {
-    "id": "e66ee7af6dbcb8bb",
-    "title": "Papete Infantil (Tam. 21 ao 32, Diversas cores)",
-    "price_now": 21.49,
-    "price_was": 39.8,
-    "discount_pct": 46,
-    "url": "https://s.shopee.com.br/LmcHQv0sg?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/455414230817873462513915994460.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-21T21:10:52.684206"
   }
 ]
