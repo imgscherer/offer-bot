@@ -2079,6 +2079,10 @@
     "9f11e56af3c30164": {
       "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
       "posted_at": "2026-08-25T14:20:43.898762"
+    },
+    "279dd93dcea71eec": {
+      "title": "Kit Mordedor para Bebê brinquedo Sensorial Silicone com Chocalho 248 Peças Coloridas",
+      "posted_at": "2026-08-25T14:30:58.098755"
     }
   },
   "results": [
@@ -10193,6 +10197,14 @@
       "post_id": "527",
       "error": null,
       "at": "2026-08-25T14:20:43.891156"
+    },
+    {
+      "offer_id": "279dd93dcea71eec",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "528",
+      "error": null,
+      "at": "2026-08-25T14:30:58.098017"
     }
   ]
 }
