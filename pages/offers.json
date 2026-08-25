@@ -1,5 +1,29 @@
 [
   {
+    "id": "818e14fe2de45e9b",
+    "title": "Granado Talco Infantil Bebê, 100g",
+    "price_now": 14.45,
+    "price_was": 20.7,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B07FFC3YTN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/541577143617876952949460401620.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-25T22:11:05.924666"
+  },
+  {
+    "id": "8706dbfd442ca70c",
+    "title": "Babuche Infantil Meninos e Meninas (vários personagens)",
+    "price_now": 33.0,
+    "price_was": 76.74,
+    "discount_pct": 57,
+    "url": "https://s.shopee.com.br/5VUorrBXN3?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/795043458117876947909072924757.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-25T22:10:58.321639"
+  },
+  {
     "id": "f781d67ae5dbc48f",
     "title": "Carrinho de Bebê Toffy Cosco",
     "price_now": 404.91,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-22T20:00:48.630455"
-  },
-  {
-    "id": "0bec7cbb6539e43b",
-    "title": "Colher Infantil Tramontina Baby Friends em Aço Inox",
-    "price_now": 4.0,
-    "price_was": 6.55,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B076MD7HR5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/662974208317874187283895420430.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-22T17:20:53.999886"
-  },
-  {
-    "id": "ea563fe17d2ddc2a",
-    "title": "Cadeira de Alimentação Bebê Portátil 3 em 1",
-    "price_now": 189.0,
-    "price_was": 322.06,
-    "discount_pct": 41,
-    "url": "https://s.shopee.com.br/3VjfE3Ggyp?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/976793328717874098538191608761.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-22T14:50:54.654372"
   }
 ]

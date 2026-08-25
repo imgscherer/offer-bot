@@ -2091,6 +2091,14 @@
     "f781d67ae5dbc48f": {
       "title": "Carrinho de Bebê Toffy Cosco",
       "posted_at": "2026-08-25T18:50:47.345995"
+    },
+    "8706dbfd442ca70c": {
+      "title": "Babuche Infantil Meninos e Meninas (vários personagens)",
+      "posted_at": "2026-08-25T22:10:58.321998"
+    },
+    "818e14fe2de45e9b": {
+      "title": "Granado Talco Infantil Bebê, 100g",
+      "posted_at": "2026-08-25T22:11:05.924989"
     }
   },
   "results": [
@@ -10365,6 +10373,22 @@
       "post_id": "530",
       "error": null,
       "at": "2026-08-25T18:50:47.345324"
+    },
+    {
+      "offer_id": "8706dbfd442ca70c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "531",
+      "error": null,
+      "at": "2026-08-25T22:10:58.321251"
+    },
+    {
+      "offer_id": "818e14fe2de45e9b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "532",
+      "error": null,
+      "at": "2026-08-25T22:11:05.924312"
     }
   ]
 }
