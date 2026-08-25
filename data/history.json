@@ -2075,6 +2075,10 @@
     "41c5ad1f1bdd5bc8": {
       "title": "Tênis Babuche Infantil Molekinho (Tam. 19 ao 24, 2 Cores)",
       "posted_at": "2026-08-25T13:41:07.232653"
+    },
+    "9f11e56af3c30164": {
+      "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
+      "posted_at": "2026-08-25T14:20:43.898762"
     }
   },
   "results": [
@@ -10181,6 +10185,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-08-25T13:50:48.245473"
+    },
+    {
+      "offer_id": "9f11e56af3c30164",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "527",
+      "error": null,
+      "at": "2026-08-25T14:20:43.891156"
     }
   ]
 }

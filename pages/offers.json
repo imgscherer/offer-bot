@@ -1,5 +1,17 @@
 [
   {
+    "id": "9f11e56af3c30164",
+    "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
+    "price_now": 13.64,
+    "price_was": 22.69,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B095D664HJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/544584017617876664257272084426.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-25T14:20:43.891556"
+  },
+  {
     "id": "41c5ad1f1bdd5bc8",
     "title": "Tênis Babuche Infantil Molekinho (Tam. 19 ao 24, 2 Cores)",
     "price_now": 69.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-22T12:31:08.897017"
-  },
-  {
-    "id": "41e533ab70ae3c62",
-    "title": "Fralda Babysec Ultrasec M 68 unidades",
-    "price_now": 57.01,
-    "price_was": 101.58,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/850874474417873954498856390142.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-22T10:50:44.454449"
   }
 ]
