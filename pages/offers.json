@@ -1,5 +1,29 @@
 [
   {
+    "id": "f781d67ae5dbc48f",
+    "title": "Carrinho de Bebê Toffy Cosco",
+    "price_now": 404.91,
+    "price_was": 599.0,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B09ZNX93JK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/736897051617876829679036757060.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-25T18:50:47.345663"
+  },
+  {
+    "id": "5bc890487826328d",
+    "title": "Cadeira Alta De Bebe Para Alimentação Refeição Até 23 Kg Nick Dino Galzerano",
+    "price_now": 278.0,
+    "price_was": 429.0,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0B4FB9M13?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/570589727117876830921675978602.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-25T18:50:39.551161"
+  },
+  {
     "id": "279dd93dcea71eec",
     "title": "Kit Mordedor para Bebê brinquedo Sensorial Silicone com Chocalho 248 Peças Coloridas",
     "price_now": 11.5,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-22T14:50:54.654372"
-  },
-  {
-    "id": "978f4e7331f63251",
-    "title": "Cercadinho Bebê Infantil c Grade + Cesta (Azul e Rosa)",
-    "price_now": 189.0,
-    "price_was": 499.76,
-    "discount_pct": 62,
-    "url": "https://s.shopee.com.br/9AO1sYT2pV?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/418870911217874046899797182139.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-22T13:21:08.035263"
-  },
-  {
-    "id": "0653e8c2f4b6df38",
-    "title": "Fralda Pampers Premium Care Fita XXG 84 unidades",
-    "price_now": 123.4,
-    "price_was": 189.43,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0DWYF9GLW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/341105140517874035487094540058.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-22T13:11:04.853840"
   }
 ]
