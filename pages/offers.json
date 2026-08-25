@@ -1,5 +1,29 @@
 [
   {
+    "id": "41c5ad1f1bdd5bc8",
+    "title": "Tênis Babuche Infantil Molekinho (Tam. 19 ao 24, 2 Cores)",
+    "price_now": 69.99,
+    "price_was": 99.99,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/9V0x4brdFO?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/403151468017876645819937063200.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-25T13:41:07.232399"
+  },
+  {
+    "id": "5b650c23cfcd3161",
+    "title": "MamyPoko Fralda-Calça Premium Seca M 58 Unidades",
+    "price_now": 68.66,
+    "price_was": 117.9,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B088P95YRY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/421602978217876646153196022866.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-25T13:40:49.839594"
+  },
+  {
     "id": "23dc06f8856022e7",
     "title": "Kit Meia Infantil Escolar 3 6 ou 12 Pares Unissex Cano Médio Algodão Branco e Preto Menino Menina",
     "price_now": 12.9,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-22T10:50:44.454449"
-  },
-  {
-    "id": "0c8f1e7e36003c8e",
-    "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
-    "price_now": 11.87,
-    "price_was": 28.68,
-    "discount_pct": 59,
-    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/616142594417873707869577400892.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-22T04:00:52.344982"
-  },
-  {
-    "id": "7fe1024c7ca96409",
-    "title": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha, 72 Unidades, Tamanho M 5 - 9, 5 Kg, Babysec, Azul, M",
-    "price_now": 63.35,
-    "price_was": 101.58,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/734350908217873514675382832304.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-21T22:50:51.619791"
   }
 ]

@@ -2067,6 +2067,14 @@
     "23dc06f8856022e7": {
       "title": "Kit Meia Infantil Escolar 3 6 ou 12 Pares Unissex Cano Médio Algodão Branco e Preto Menino Menina",
       "posted_at": "2026-08-23T20:50:44.483069"
+    },
+    "5b650c23cfcd3161": {
+      "title": "MamyPoko Fralda-Calça Premium Seca M 58 Unidades",
+      "posted_at": "2026-08-25T13:40:49.839842"
+    },
+    "41c5ad1f1bdd5bc8": {
+      "title": "Tênis Babuche Infantil Molekinho (Tam. 19 ao 24, 2 Cores)",
+      "posted_at": "2026-08-25T13:41:07.232653"
     }
   },
   "results": [
@@ -10141,6 +10149,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-08-25T13:30:45.336732"
+    },
+    {
+      "offer_id": "5b650c23cfcd3161",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "525",
+      "error": null,
+      "at": "2026-08-25T13:40:49.839296"
+    },
+    {
+      "offer_id": "31b0a9ee5b25bdfc",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-08-25T13:40:57.059278"
+    },
+    {
+      "offer_id": "41c5ad1f1bdd5bc8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "526",
+      "error": null,
+      "at": "2026-08-25T13:41:07.232120"
     }
   ]
 }
