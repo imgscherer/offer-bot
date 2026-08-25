@@ -1,5 +1,17 @@
 [
   {
+    "id": "ae1dc96671a0c231",
+    "title": "Sabonete Líquido Bebê Protex Baby Delicate Care 380ml",
+    "price_now": 13.0,
+    "price_was": 25.55,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B08JQND4NB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/240241531817877001872823323838.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-25T23:30:54.734845"
+  },
+  {
     "id": "3e37f02e8dc97bdd",
     "title": "Fralda Descartável Huggies Máxima Proteção Tamanho Xxxl 128 Unidades – Fralda Aberta Com Tecnologia Xtra-flex, Canais Em X Que Se Adaptam Aos Mo",
     "price_now": 169.87,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-23T20:50:44.482709"
-  },
-  {
-    "id": "49e1c203bdb34787",
-    "title": "Pampers Confort Sec Fralda XXG 88 Unidades",
-    "price_now": 118.0,
-    "price_was": 182.69,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0G2PZ7ZYY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/955601587417875078892100578451.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-23T18:00:59.095170"
   }
 ]
