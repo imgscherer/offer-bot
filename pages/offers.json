@@ -1,5 +1,17 @@
 [
   {
+    "id": "51394e321618c324",
+    "title": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 68 Unidades",
+    "price_now": 89.09,
+    "price_was": 151.59,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/834836877217876981032619151980.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-25T23:00:55.063271"
+  },
+  {
     "id": "818e14fe2de45e9b",
     "title": "Granado Talco Infantil Bebê, 100g",
     "price_now": 14.45,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-23T13:20:41.199824"
-  },
-  {
-    "id": "253f8389b8eea637",
-    "title": "Bepantol Baby Lenço Umedecido Biodegradável para Bebê, Hipoalergênico, 96 Unidades",
-    "price_now": 14.99,
-    "price_was": 31.91,
-    "discount_pct": 53,
-    "url": "https://www.amazon.com.br/dp/B0CZBC4M7R?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/630157258217874286275925183841.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-22T20:00:48.630455"
   }
 ]

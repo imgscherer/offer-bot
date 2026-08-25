@@ -2099,6 +2099,10 @@
     "818e14fe2de45e9b": {
       "title": "Granado Talco Infantil Bebê, 100g",
       "posted_at": "2026-08-25T22:11:05.924989"
+    },
+    "51394e321618c324": {
+      "title": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 68 Unidades",
+      "posted_at": "2026-08-25T23:00:55.063637"
     }
   },
   "results": [
@@ -10389,6 +10393,14 @@
       "post_id": "532",
       "error": null,
       "at": "2026-08-25T22:11:05.924312"
+    },
+    {
+      "offer_id": "51394e321618c324",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "533",
+      "error": null,
+      "at": "2026-08-25T23:00:55.062895"
     }
   ]
 }
