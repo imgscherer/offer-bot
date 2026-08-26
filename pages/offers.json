@@ -1,5 +1,29 @@
 [
   {
+    "id": "c11cce63fd57b477",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Unidades",
+    "price_now": 20.0,
+    "price_was": 30.17,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B093G99QBH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/643635782517877580863696023424.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-26T15:51:12.416273"
+  },
+  {
+    "id": "5b60724d90b58dfc",
+    "title": "Presente Mamãe Bebe Natura Colônia 100ml + 2 Sabonetes 90g + Lenõ umedecido 16 unidades",
+    "price_now": 59.92,
+    "price_was": 162.8,
+    "discount_pct": 63,
+    "url": "https://s.shopee.com.br/20uxrTB2mY?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/212753394017877577451468733013.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-26T15:51:01.115365"
+  },
+  {
     "id": "be453e4a20f94f93",
     "title": "Meia Infantil Menina Sola Antiderrapante",
     "price_now": 20.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-25T23:20:52.862893"
-  },
-  {
-    "id": "51394e321618c324",
-    "title": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 68 Unidades",
-    "price_now": 89.09,
-    "price_was": 151.59,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/834836877217876981032619151980.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-25T23:00:55.063271"
-  },
-  {
-    "id": "818e14fe2de45e9b",
-    "title": "Granado Talco Infantil Bebê, 100g",
-    "price_now": 14.45,
-    "price_was": 20.7,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B07FFC3YTN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/541577143617876952949460401620.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-25T22:11:05.924666"
   }
 ]

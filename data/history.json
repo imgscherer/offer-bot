@@ -2143,6 +2143,14 @@
     "be453e4a20f94f93": {
       "title": "Meia Infantil Menina Sola Antiderrapante",
       "posted_at": "2026-08-26T14:00:54.436858"
+    },
+    "5b60724d90b58dfc": {
+      "title": "Presente Mamãe Bebe Natura Colônia 100ml + 2 Sabonetes 90g + Lenõ umedecido 16 unidades",
+      "posted_at": "2026-08-26T15:51:01.115682"
+    },
+    "c11cce63fd57b477": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Unidades",
+      "posted_at": "2026-08-26T15:51:12.416599"
     }
   },
   "results": [
@@ -10553,6 +10561,22 @@
       "post_id": "543",
       "error": null,
       "at": "2026-08-26T14:00:54.436131"
+    },
+    {
+      "offer_id": "5b60724d90b58dfc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "544",
+      "error": null,
+      "at": "2026-08-26T15:51:01.114969"
+    },
+    {
+      "offer_id": "c11cce63fd57b477",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "545",
+      "error": null,
+      "at": "2026-08-26T15:51:12.415915"
     }
   ]
 }
