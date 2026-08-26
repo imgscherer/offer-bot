@@ -1,5 +1,17 @@
 [
   {
+    "id": "de8bf6d42b5b16a5",
+    "title": "Fralda Pampers Pants Premium Care G 68 unidades",
+    "price_now": 84.14,
+    "price_was": 151.59,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/754325695917877409445052495532.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-26T10:50:53.939451"
+  },
+  {
     "id": "ae1dc96671a0c231",
     "title": "Sabonete Líquido Bebê Protex Baby Delicate Care 380ml",
     "price_now": 13.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-25T13:40:49.839594"
-  },
-  {
-    "id": "23dc06f8856022e7",
-    "title": "Kit Meia Infantil Escolar 3 6 ou 12 Pares Unissex Cano Médio Algodão Branco e Preto Menino Menina",
-    "price_now": 12.9,
-    "price_was": 19.85,
-    "discount_pct": 35,
-    "url": "https://s.shopee.com.br/1BLmQkPHIA?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/500467016817875173708218070252.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-23T20:50:44.482709"
   }
 ]

@@ -2111,6 +2111,10 @@
     "ae1dc96671a0c231": {
       "title": "Sabonete Líquido Bebê Protex Baby Delicate Care 380ml",
       "posted_at": "2026-08-25T23:30:54.735292"
+    },
+    "de8bf6d42b5b16a5": {
+      "title": "Fralda Pampers Pants Premium Care G 68 unidades",
+      "posted_at": "2026-08-26T10:50:53.939752"
     }
   },
   "results": [
@@ -10425,6 +10429,14 @@
       "post_id": "535",
       "error": null,
       "at": "2026-08-25T23:30:54.734371"
+    },
+    {
+      "offer_id": "de8bf6d42b5b16a5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "536",
+      "error": null,
+      "at": "2026-08-26T10:50:53.939025"
     }
   ]
 }
