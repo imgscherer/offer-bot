@@ -2127,6 +2127,10 @@
     "f0e00830e88346ea": {
       "title": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
       "posted_at": "2026-08-26T11:50:58.943693"
+    },
+    "b0314f43538be803": {
+      "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+      "posted_at": "2026-08-26T13:11:23.163377"
     }
   },
   "results": [
@@ -10505,6 +10509,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-08-26T13:01:17.125774"
+    },
+    {
+      "offer_id": "b0314f43538be803",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "540",
+      "error": null,
+      "at": "2026-08-26T13:11:23.162603"
     }
   ]
 }
