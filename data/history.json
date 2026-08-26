@@ -2131,6 +2131,14 @@
     "b0314f43538be803": {
       "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
       "posted_at": "2026-08-26T13:11:23.163377"
+    },
+    "2fd7b8d8a0e9d944": {
+      "title": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
+      "posted_at": "2026-08-26T13:31:39.970953"
+    },
+    "48d18d135396f7e5": {
+      "title": "Fralda Premium Huggies Natural Care M 78 Unidades",
+      "posted_at": "2026-08-26T13:31:55.393805"
     }
   },
   "results": [
@@ -10517,6 +10525,22 @@
       "post_id": "540",
       "error": null,
       "at": "2026-08-26T13:11:23.162603"
+    },
+    {
+      "offer_id": "2fd7b8d8a0e9d944",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "541",
+      "error": null,
+      "at": "2026-08-26T13:31:39.970154"
+    },
+    {
+      "offer_id": "48d18d135396f7e5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "542",
+      "error": null,
+      "at": "2026-08-26T13:31:55.392893"
     }
   ]
 }

@@ -1,5 +1,29 @@
 [
   {
+    "id": "48d18d135396f7e5",
+    "title": "Fralda Premium Huggies Natural Care M 78 Unidades",
+    "price_now": 83.0,
+    "price_was": 125.24,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/650248252817877506473934659733.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-26T13:31:55.393339"
+  },
+  {
+    "id": "2fd7b8d8a0e9d944",
+    "title": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
+    "price_now": 72.0,
+    "price_was": 118.35,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/872284410017877499532304173659.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-26T13:31:39.970523"
+  },
+  {
     "id": "b0314f43538be803",
     "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
     "price_now": 68.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-25T22:10:58.321639"
-  },
-  {
-    "id": "f781d67ae5dbc48f",
-    "title": "Carrinho de Bebê Toffy Cosco",
-    "price_now": 404.91,
-    "price_was": 599.0,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B09ZNX93JK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/736897051617876829679036757060.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-25T18:50:47.345663"
-  },
-  {
-    "id": "5bc890487826328d",
-    "title": "Cadeira Alta De Bebe Para Alimentação Refeição Até 23 Kg Nick Dino Galzerano",
-    "price_now": 278.0,
-    "price_was": 429.0,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0B4FB9M13?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/570589727117876830921675978602.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-25T18:50:39.551161"
   }
 ]
