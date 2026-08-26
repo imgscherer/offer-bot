@@ -1,5 +1,17 @@
 [
   {
+    "id": "94bcf22a98d295c3",
+    "title": "Sandália Papete Infantil (Tam. 21 ao 32, Diversas cores)",
+    "price_now": 18.67,
+    "price_was": 65.53,
+    "discount_pct": 72,
+    "url": "https://s.shopee.com.br/40g2Tyaq4d?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/431658449917877706964837250247.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-26T19:01:04.068068"
+  },
+  {
     "id": "7df1ad5eaca468e6",
     "title": "Kit 6 Calcinha Feminina Infantil (Tam P ao GG)",
     "price_now": 23.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-26T11:30:52.772222"
-  },
-  {
-    "id": "e31999cc870eea12",
-    "title": "Huggies Fralda Premium Natural Care P - 36 Un",
-    "price_now": 37.0,
-    "price_was": 53.4,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/591955808417877420398111740671.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-26T11:10:55.581377"
   }
 ]

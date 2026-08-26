@@ -2163,6 +2163,10 @@
     "7df1ad5eaca468e6": {
       "title": "Kit 6 Calcinha Feminina Infantil (Tam P ao GG)",
       "posted_at": "2026-08-26T16:31:14.627822"
+    },
+    "94bcf22a98d295c3": {
+      "title": "Sandália Papete Infantil (Tam. 21 ao 32, Diversas cores)",
+      "posted_at": "2026-08-26T19:01:04.068471"
     }
   },
   "results": [
@@ -10613,6 +10617,14 @@
       "post_id": "548",
       "error": null,
       "at": "2026-08-26T16:31:14.627180"
+    },
+    {
+      "offer_id": "94bcf22a98d295c3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "549",
+      "error": null,
+      "at": "2026-08-26T19:01:04.067740"
     }
   ]
 }
