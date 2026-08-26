@@ -2155,6 +2155,14 @@
     "1a092fd3e3760b46": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe XG 20 Unidades",
       "posted_at": "2026-08-26T16:20:38.594130"
+    },
+    "84859de33cd622db": {
+      "title": "Fraldas Cremer Magic Care XG com 24 Unidades",
+      "posted_at": "2026-08-26T16:30:55.209454"
+    },
+    "7df1ad5eaca468e6": {
+      "title": "Kit 6 Calcinha Feminina Infantil (Tam P ao GG)",
+      "posted_at": "2026-08-26T16:31:14.627822"
     }
   },
   "results": [
@@ -10589,6 +10597,22 @@
       "post_id": "546",
       "error": null,
       "at": "2026-08-26T16:20:38.593374"
+    },
+    {
+      "offer_id": "84859de33cd622db",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "547",
+      "error": null,
+      "at": "2026-08-26T16:30:55.208778"
+    },
+    {
+      "offer_id": "7df1ad5eaca468e6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "548",
+      "error": null,
+      "at": "2026-08-26T16:31:14.627180"
     }
   ]
 }
