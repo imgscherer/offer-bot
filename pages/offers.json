@@ -1,5 +1,17 @@
 [
   {
+    "id": "1a092fd3e3760b46",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe XG 20 Unidades",
+    "price_now": 20.68,
+    "price_was": 30.17,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B093G99QBH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/173711378217877605844813498595.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-26T16:20:38.593750"
+  },
+  {
     "id": "c11cce63fd57b477",
     "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Unidades",
     "price_now": 20.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-25T23:30:54.734845"
-  },
-  {
-    "id": "3e37f02e8dc97bdd",
-    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho Xxxl 128 Unidades – Fralda Aberta Com Tecnologia Xtra-flex, Canais Em X Que Se Adaptam Aos Mo",
-    "price_now": 169.87,
-    "price_was": 246.01,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/821305635317876997126570100060.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-25T23:20:52.862893"
   }
 ]
