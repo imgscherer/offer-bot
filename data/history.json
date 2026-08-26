@@ -2139,6 +2139,10 @@
     "48d18d135396f7e5": {
       "title": "Fralda Premium Huggies Natural Care M 78 Unidades",
       "posted_at": "2026-08-26T13:31:55.393805"
+    },
+    "be453e4a20f94f93": {
+      "title": "Meia Infantil Menina Sola Antiderrapante",
+      "posted_at": "2026-08-26T14:00:54.436858"
     }
   },
   "results": [
@@ -10541,6 +10545,14 @@
       "post_id": "542",
       "error": null,
       "at": "2026-08-26T13:31:55.392893"
+    },
+    {
+      "offer_id": "be453e4a20f94f93",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "543",
+      "error": null,
+      "at": "2026-08-26T14:00:54.436131"
     }
   ]
 }

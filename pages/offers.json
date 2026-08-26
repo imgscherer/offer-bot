@@ -1,5 +1,17 @@
 [
   {
+    "id": "be453e4a20f94f93",
+    "title": "Meia Infantil Menina Sola Antiderrapante",
+    "price_now": 20.0,
+    "price_was": 69.97,
+    "discount_pct": 71,
+    "url": "https://s.shopee.com.br/8Kp1IWtUYl?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/755938805417877519877895496196.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-26T14:00:54.436509"
+  },
+  {
     "id": "48d18d135396f7e5",
     "title": "Fralda Premium Huggies Natural Care M 78 Unidades",
     "price_now": 83.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-25T22:11:05.924666"
-  },
-  {
-    "id": "8706dbfd442ca70c",
-    "title": "Babuche Infantil Meninos e Meninas (vários personagens)",
-    "price_now": 33.0,
-    "price_was": 76.74,
-    "discount_pct": 57,
-    "url": "https://s.shopee.com.br/5VUorrBXN3?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/795043458117876947909072924757.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-25T22:10:58.321639"
   }
 ]
