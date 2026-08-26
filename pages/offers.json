@@ -1,5 +1,17 @@
 [
   {
+    "id": "f0e00830e88346ea",
+    "title": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
+    "price_now": 91.0,
+    "price_was": 131.78,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/226301164317877445296988981311.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-26T11:50:58.943432"
+  },
+  {
     "id": "e6d9824ad20b391e",
     "title": "Fralda Huggies Máxima Proteção G 160 unidades",
     "price_now": 153.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-25T14:30:58.098384"
-  },
-  {
-    "id": "9f11e56af3c30164",
-    "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
-    "price_now": 13.64,
-    "price_was": 22.69,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B095D664HJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/544584017617876664257272084426.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-25T14:20:43.891556"
   }
 ]

@@ -2123,6 +2123,10 @@
     "e6d9824ad20b391e": {
       "title": "Fralda Huggies Máxima Proteção G 160 unidades",
       "posted_at": "2026-08-26T11:30:52.772564"
+    },
+    "f0e00830e88346ea": {
+      "title": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
+      "posted_at": "2026-08-26T11:50:58.943693"
     }
   },
   "results": [
@@ -10461,6 +10465,14 @@
       "post_id": "538",
       "error": null,
       "at": "2026-08-26T11:30:52.771855"
+    },
+    {
+      "offer_id": "f0e00830e88346ea",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "539",
+      "error": null,
+      "at": "2026-08-26T11:50:58.943128"
     }
   ]
 }
