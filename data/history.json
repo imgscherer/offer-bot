@@ -2115,6 +2115,10 @@
     "de8bf6d42b5b16a5": {
       "title": "Fralda Pampers Pants Premium Care G 68 unidades",
       "posted_at": "2026-08-26T10:50:53.939752"
+    },
+    "e31999cc870eea12": {
+      "title": "Huggies Fralda Premium Natural Care P - 36 Un",
+      "posted_at": "2026-08-26T11:10:55.581655"
     }
   },
   "results": [
@@ -10437,6 +10441,14 @@
       "post_id": "536",
       "error": null,
       "at": "2026-08-26T10:50:53.939025"
+    },
+    {
+      "offer_id": "e31999cc870eea12",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "537",
+      "error": null,
+      "at": "2026-08-26T11:10:55.581009"
     }
   ]
 }

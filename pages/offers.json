@@ -1,5 +1,17 @@
 [
   {
+    "id": "e31999cc870eea12",
+    "title": "Huggies Fralda Premium Natural Care P - 36 Un",
+    "price_now": 37.0,
+    "price_was": 53.4,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/591955808417877420398111740671.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-26T11:10:55.581377"
+  },
+  {
     "id": "de8bf6d42b5b16a5",
     "title": "Fralda Pampers Pants Premium Care G 68 unidades",
     "price_now": 84.14,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-25T13:41:07.232399"
-  },
-  {
-    "id": "5b650c23cfcd3161",
-    "title": "MamyPoko Fralda-Calça Premium Seca M 58 Unidades",
-    "price_now": 68.66,
-    "price_was": 117.9,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B088P95YRY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/421602978217876646153196022866.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-25T13:40:49.839594"
   }
 ]
