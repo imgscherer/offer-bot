@@ -1,5 +1,17 @@
 [
   {
+    "id": "2bb543cca88217d2",
+    "title": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
+    "price_now": 76.0,
+    "price_was": 118.35,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/925741024817878411347331506488.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-27T14:40:56.932161"
+  },
+  {
     "id": "c2b20cd6a803fdf3",
     "title": "Fralda Huggies Máxima Proteção P 48 unidades",
     "price_now": 47.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-26T15:51:01.115365"
-  },
-  {
-    "id": "be453e4a20f94f93",
-    "title": "Meia Infantil Menina Sola Antiderrapante",
-    "price_now": 20.0,
-    "price_was": 69.97,
-    "discount_pct": 71,
-    "url": "https://s.shopee.com.br/8Kp1IWtUYl?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/755938805417877519877895496196.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-26T14:00:54.436509"
   }
 ]

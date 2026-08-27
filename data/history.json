@@ -2187,6 +2187,10 @@
     "c2b20cd6a803fdf3": {
       "title": "Fralda Huggies Máxima Proteção P 48 unidades",
       "posted_at": "2026-08-27T12:00:56.891302"
+    },
+    "2bb543cca88217d2": {
+      "title": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
+      "posted_at": "2026-08-27T14:40:56.932541"
     }
   },
   "results": [
@@ -10733,6 +10737,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-08-27T13:50:43.281415"
+    },
+    {
+      "offer_id": "2bb543cca88217d2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "555",
+      "error": null,
+      "at": "2026-08-27T14:40:56.931747"
     }
   ]
 }
