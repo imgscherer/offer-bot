@@ -2183,6 +2183,10 @@
     "dd5d196e3c30a573": {
       "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
       "posted_at": "2026-08-27T11:50:55.253428"
+    },
+    "c2b20cd6a803fdf3": {
+      "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+      "posted_at": "2026-08-27T12:00:56.891302"
     }
   },
   "results": [
@@ -10673,6 +10677,14 @@
       "post_id": "553",
       "error": null,
       "at": "2026-08-27T11:50:55.252836"
+    },
+    {
+      "offer_id": "c2b20cd6a803fdf3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "554",
+      "error": null,
+      "at": "2026-08-27T12:00:56.890638"
     }
   ]
 }

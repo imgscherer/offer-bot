@@ -1,5 +1,17 @@
 [
   {
+    "id": "c2b20cd6a803fdf3",
+    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+    "price_now": 47.0,
+    "price_was": 72.65,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/557861875217878314157458700707.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-27T12:00:56.890993"
+  },
+  {
     "id": "dd5d196e3c30a573",
     "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
     "price_now": 101.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-26T14:00:54.436509"
-  },
-  {
-    "id": "48d18d135396f7e5",
-    "title": "Fralda Premium Huggies Natural Care M 78 Unidades",
-    "price_now": 83.0,
-    "price_was": 125.24,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/650248252817877506473934659733.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-26T13:31:55.393339"
   }
 ]
