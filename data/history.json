@@ -2167,6 +2167,10 @@
     "94bcf22a98d295c3": {
       "title": "Sandália Papete Infantil (Tam. 21 ao 32, Diversas cores)",
       "posted_at": "2026-08-26T19:01:04.068471"
+    },
+    "3767d8e006f185fd": {
+      "title": "Mili Fralda Baby Jumbinho G 20 Unidades",
+      "posted_at": "2026-08-27T00:20:46.382399"
     }
   },
   "results": [
@@ -10625,6 +10629,14 @@
       "post_id": "549",
       "error": null,
       "at": "2026-08-26T19:01:04.067740"
+    },
+    {
+      "offer_id": "3767d8e006f185fd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "550",
+      "error": null,
+      "at": "2026-08-27T00:20:46.381858"
     }
   ]
 }

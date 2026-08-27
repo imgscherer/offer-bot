@@ -1,5 +1,17 @@
 [
   {
+    "id": "3767d8e006f185fd",
+    "title": "Mili Fralda Baby Jumbinho G 20 Unidades",
+    "price_now": 17.09,
+    "price_was": 33.22,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07GB34N8Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/150938696817877892888992051696.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-27T00:20:46.382157"
+  },
+  {
     "id": "94bcf22a98d295c3",
     "title": "Sandália Papete Infantil (Tam. 21 ao 32, Diversas cores)",
     "price_now": 18.67,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-26T11:50:58.943432"
-  },
-  {
-    "id": "e6d9824ad20b391e",
-    "title": "Fralda Huggies Máxima Proteção G 160 unidades",
-    "price_now": 153.0,
-    "price_was": 229.9,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/385254022917877432692174382210.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-26T11:30:52.772222"
   }
 ]
