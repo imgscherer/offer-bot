@@ -2195,6 +2195,10 @@
     "6539c2c5db2cce19": {
       "title": "Kit Higiene Bebê Safari em Fio de Malha (Diversas cores)",
       "posted_at": "2026-08-27T15:00:59.263287"
+    },
+    "961d0d72691a75db": {
+      "title": "Kit 2 Chinelos de Bebê Anti-Derrapante (Tam. 17 ao 24, Diversas cores)",
+      "posted_at": "2026-08-27T15:40:58.548274"
     }
   },
   "results": [
@@ -10757,6 +10761,14 @@
       "post_id": "556",
       "error": null,
       "at": "2026-08-27T15:00:59.262609"
+    },
+    {
+      "offer_id": "961d0d72691a75db",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "557",
+      "error": null,
+      "at": "2026-08-27T15:40:58.547760"
     }
   ]
 }

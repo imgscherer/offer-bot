@@ -1,5 +1,17 @@
 [
   {
+    "id": "961d0d72691a75db",
+    "title": "Kit 2 Chinelos de Bebê Anti-Derrapante (Tam. 17 ao 24, Diversas cores)",
+    "price_now": 23.99,
+    "price_was": 71.38,
+    "discount_pct": 66,
+    "url": "https://s.shopee.com.br/9zxGzoO2ee?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/191654013517878447914830702587.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-27T15:40:58.548049"
+  },
+  {
     "id": "6539c2c5db2cce19",
     "title": "Kit Higiene Bebê Safari em Fio de Malha (Diversas cores)",
     "price_now": 158.65,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-26T16:20:38.593750"
-  },
-  {
-    "id": "c11cce63fd57b477",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Unidades",
-    "price_now": 20.0,
-    "price_was": 30.17,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B093G99QBH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/643635782517877580863696023424.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-26T15:51:12.416273"
   }
 ]
