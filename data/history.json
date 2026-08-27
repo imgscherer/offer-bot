@@ -2199,6 +2199,10 @@
     "961d0d72691a75db": {
       "title": "Kit 2 Chinelos de Bebê Anti-Derrapante (Tam. 17 ao 24, Diversas cores)",
       "posted_at": "2026-08-27T15:40:58.548274"
+    },
+    "cacc530452fd6e03": {
+      "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades",
+      "posted_at": "2026-08-27T16:30:53.641376"
     }
   },
   "results": [
@@ -10769,6 +10773,14 @@
       "post_id": "557",
       "error": null,
       "at": "2026-08-27T15:40:58.547760"
+    },
+    {
+      "offer_id": "cacc530452fd6e03",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "558",
+      "error": null,
+      "at": "2026-08-27T16:30:53.640822"
     }
   ]
 }

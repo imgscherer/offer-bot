@@ -1,5 +1,17 @@
 [
   {
+    "id": "cacc530452fd6e03",
+    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades",
+    "price_now": 47.49,
+    "price_was": 72.65,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/221185646317878477983400845970.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-27T16:30:53.641131"
+  },
+  {
     "id": "961d0d72691a75db",
     "title": "Kit 2 Chinelos de Bebê Anti-Derrapante (Tam. 17 ao 24, Diversas cores)",
     "price_now": 23.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-26T16:30:55.209101"
-  },
-  {
-    "id": "1a092fd3e3760b46",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe XG 20 Unidades",
-    "price_now": 20.68,
-    "price_was": 30.17,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B093G99QBH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/173711378217877605844813498595.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-26T16:20:38.593750"
   }
 ]
