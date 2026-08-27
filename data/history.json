@@ -2191,6 +2191,10 @@
     "2bb543cca88217d2": {
       "title": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
       "posted_at": "2026-08-27T14:40:56.932541"
+    },
+    "6539c2c5db2cce19": {
+      "title": "Kit Higiene Bebê Safari em Fio de Malha (Diversas cores)",
+      "posted_at": "2026-08-27T15:00:59.263287"
     }
   },
   "results": [
@@ -10745,6 +10749,14 @@
       "post_id": "555",
       "error": null,
       "at": "2026-08-27T14:40:56.931747"
+    },
+    {
+      "offer_id": "6539c2c5db2cce19",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "556",
+      "error": null,
+      "at": "2026-08-27T15:00:59.262609"
     }
   ]
 }
