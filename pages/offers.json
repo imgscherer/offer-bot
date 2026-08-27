@@ -1,5 +1,17 @@
 [
   {
+    "id": "ea158b616caaa694",
+    "title": "Fralda Pampers Confort Sec P 72 Unidades",
+    "price_now": 75.0,
+    "price_was": 118.1,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B095D5PSPG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/199101160017878294366198165583.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-27T11:21:00.924284"
+  },
+  {
     "id": "3767d8e006f185fd",
     "title": "Mili Fralda Baby Jumbinho G 20 Unidades",
     "price_now": 17.09,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-26T13:11:23.162971"
-  },
-  {
-    "id": "f0e00830e88346ea",
-    "title": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
-    "price_now": 91.0,
-    "price_was": 131.78,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/226301164317877445296988981311.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-26T11:50:58.943432"
   }
 ]
