@@ -1,5 +1,29 @@
 [
   {
+    "id": "dd5d196e3c30a573",
+    "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
+    "price_now": 101.0,
+    "price_was": 151.59,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/569378437317878308685383254814.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-27T11:50:55.253139"
+  },
+  {
+    "id": "f59fa2ffc6ccf36b",
+    "title": "Tapete De Atividades Musical Com Piano E Arco De Brinquedos Interativos Para Bebê (azul)",
+    "price_now": 59.9,
+    "price_was": 99.9,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0G4B61ZJG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/542742283217878304509882076532.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-27T11:50:43.978505"
+  },
+  {
     "id": "ea158b616caaa694",
     "title": "Fralda Pampers Confort Sec P 72 Unidades",
     "price_now": 75.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-26T13:31:55.393339"
-  },
-  {
-    "id": "2fd7b8d8a0e9d944",
-    "title": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
-    "price_now": 72.0,
-    "price_was": 118.35,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/872284410017877499532304173659.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-26T13:31:39.970523"
-  },
-  {
-    "id": "b0314f43538be803",
-    "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
-    "price_now": 68.0,
-    "price_was": 101.58,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/557119510217877492147926981236.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-26T13:11:23.162971"
   }
 ]

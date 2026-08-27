@@ -2175,6 +2175,14 @@
     "ea158b616caaa694": {
       "title": "Fralda Pampers Confort Sec P 72 Unidades",
       "posted_at": "2026-08-27T11:21:00.924632"
+    },
+    "f59fa2ffc6ccf36b": {
+      "title": "Tapete De Atividades Musical Com Piano E Arco De Brinquedos Interativos Para Bebê (azul)",
+      "posted_at": "2026-08-27T11:50:43.978841"
+    },
+    "dd5d196e3c30a573": {
+      "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
+      "posted_at": "2026-08-27T11:50:55.253428"
     }
   },
   "results": [
@@ -10649,6 +10657,22 @@
       "post_id": "551",
       "error": null,
       "at": "2026-08-27T11:21:00.923907"
+    },
+    {
+      "offer_id": "f59fa2ffc6ccf36b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "552",
+      "error": null,
+      "at": "2026-08-27T11:50:43.978160"
+    },
+    {
+      "offer_id": "dd5d196e3c30a573",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "553",
+      "error": null,
+      "at": "2026-08-27T11:50:55.252836"
     }
   ]
 }
