@@ -1,5 +1,29 @@
 [
   {
+    "id": "c41a1052f1250703",
+    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades – com absorção especial para cocô líquido e indicador de troca.",
+    "price_now": 48.99,
+    "price_was": 72.65,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/255100778117878533098301261196.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-27T18:01:08.728829"
+  },
+  {
+    "id": "c6097fc51e8ef5ac",
+    "title": "Shampoo Para Bebê Johnson's Baby Regular, 200ml, Amarelo",
+    "price_now": 12.59,
+    "price_was": 24.79,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B00F5NZ34K?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/202756101417878527137458597230.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-27T18:00:56.047701"
+  },
+  {
     "id": "cacc530452fd6e03",
     "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades",
     "price_now": 47.49,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-26T19:01:04.068068"
-  },
-  {
-    "id": "7df1ad5eaca468e6",
-    "title": "Kit 6 Calcinha Feminina Infantil (Tam P ao GG)",
-    "price_now": 23.0,
-    "price_was": 34.65,
-    "discount_pct": 34,
-    "url": "https://s.shopee.com.br/AAGfexDFfp?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/201847544917877616485380165630.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-26T16:31:14.627520"
-  },
-  {
-    "id": "84859de33cd622db",
-    "title": "Fraldas Cremer Magic Care XG com 24 Unidades",
-    "price_now": 20.0,
-    "price_was": 43.65,
-    "discount_pct": 54,
-    "url": "https://s.shopee.com.br/9V0yrESNcR?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/946818619717877612178159658708.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-26T16:30:55.209101"
   }
 ]

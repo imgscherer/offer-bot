@@ -2203,6 +2203,14 @@
     "cacc530452fd6e03": {
       "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades",
       "posted_at": "2026-08-27T16:30:53.641376"
+    },
+    "c6097fc51e8ef5ac": {
+      "title": "Shampoo Para Bebê Johnson's Baby Regular, 200ml, Amarelo",
+      "posted_at": "2026-08-27T18:00:56.048009"
+    },
+    "c41a1052f1250703": {
+      "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades – com absorção especial para cocô líquido e indicador de troca.",
+      "posted_at": "2026-08-27T18:01:08.730005"
     }
   },
   "results": [
@@ -10781,6 +10789,22 @@
       "post_id": "558",
       "error": null,
       "at": "2026-08-27T16:30:53.640822"
+    },
+    {
+      "offer_id": "c6097fc51e8ef5ac",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "559",
+      "error": null,
+      "at": "2026-08-27T18:00:56.047310"
+    },
+    {
+      "offer_id": "c41a1052f1250703",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "560",
+      "error": null,
+      "at": "2026-08-27T18:01:08.728480"
     }
   ]
 }
