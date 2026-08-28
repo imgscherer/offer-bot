@@ -2331,6 +2331,10 @@
     "ab93f0e161f9d574": {
       "title": "Kit 04 Lençol Com Elástico Microfibra Berço Padrão Americano 130X70cm Tecido Macio",
       "posted_at": "2026-08-28T17:01:04.776731"
+    },
+    "621fc65ed849a807": {
+      "title": "Fralda Cremer Jumbo P 30 Unidades",
+      "posted_at": "2026-08-28T17:10:49.523350"
     }
   },
   "results": [
@@ -11205,6 +11209,14 @@
       "post_id": "590",
       "error": null,
       "at": "2026-08-28T17:01:04.776067"
+    },
+    {
+      "offer_id": "621fc65ed849a807",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "591",
+      "error": null,
+      "at": "2026-08-28T17:10:49.522634"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "621fc65ed849a807",
+    "title": "Fralda Cremer Jumbo P 30 Unidades",
+    "price_now": 19.99,
+    "price_was": 30.99,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B08BXQFMZK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/801768269617879367068602039895.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-28T17:10:49.523008"
+  },
+  {
     "id": "ab93f0e161f9d574",
     "title": "Kit 04 Lençol Com Elástico Microfibra Berço Padrão Americano 130X70cm Tecido Macio",
     "price_now": 32.45,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-28T13:10:49.021906"
-  },
-  {
-    "id": "4dab2b427c306d5d",
-    "title": "Huggies Fralda Premium Natural Care M - 78 Un",
-    "price_now": 79.0,
-    "price_was": 125.24,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/310571087417879204555843765012.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-28T12:40:49.833143"
   }
 ]
