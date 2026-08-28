@@ -2279,6 +2279,10 @@
     "a05b7f1733cab570": {
       "title": "* Suporte para Mamadeira para Almofada de Amamentação Autoalimentação Cus 3504 TO61",
       "posted_at": "2026-08-28T12:00:49.424724"
+    },
+    "705abcca232be274": {
+      "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
+      "posted_at": "2026-08-28T12:10:43.297024"
     }
   },
   "results": [
@@ -11009,6 +11013,14 @@
       "post_id": "577",
       "error": null,
       "at": "2026-08-28T12:00:49.424132"
+    },
+    {
+      "offer_id": "705abcca232be274",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "578",
+      "error": null,
+      "at": "2026-08-28T12:10:43.296315"
     }
   ]
 }
