@@ -2287,6 +2287,10 @@
     "4dab2b427c306d5d": {
       "title": "Huggies Fralda Premium Natural Care M - 78 Un",
       "posted_at": "2026-08-28T12:40:49.833494"
+    },
+    "347ca1f9b651b4a9": {
+      "title": "Limpa Chupeta Lenços Umedecidos Higienizadores, Likluc, Branco, Tamanho Único",
+      "posted_at": "2026-08-28T13:10:49.022236"
     }
   },
   "results": [
@@ -11057,6 +11061,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-08-28T13:00:54.574188"
+    },
+    {
+      "offer_id": "347ca1f9b651b4a9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "580",
+      "error": null,
+      "at": "2026-08-28T13:10:49.021583"
+    },
+    {
+      "offer_id": "c73855da5e52147f",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-08-28T13:11:09.053499"
     }
   ]
 }
