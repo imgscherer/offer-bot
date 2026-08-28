@@ -2211,6 +2211,38 @@
     "c41a1052f1250703": {
       "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades – com absorção especial para cocô líquido e indicador de troca.",
       "posted_at": "2026-08-27T18:01:08.730005"
+    },
+    "045a6e6229865983": {
+      "title": "Manta Tricô Bebê Menina e Menino Corações Macia Quentinha Frio Dormir Confortável para Berço Carrinho Enxoval",
+      "posted_at": "2026-08-28T00:18:36.779036"
+    },
+    "b7206e61e4c0e27e": {
+      "title": "Kit Bolsa Maternidade Personalizada Star  - 02 Peças",
+      "posted_at": "2026-08-28T00:18:36.779979"
+    },
+    "e59f3ac70c2c1583": {
+      "title": "Conjunto Talher Mágico Baby com Colher e Garfo que Mudam de Cor com a Temperatura Seguro para Bebês",
+      "posted_at": "2026-08-28T00:18:36.780688"
+    },
+    "de7d7f8f9fda6e57": {
+      "title": "Kit Bolsa Maternidade Menino/Menina Personalizado - 02 Peças",
+      "posted_at": "2026-08-28T00:18:36.781391"
+    },
+    "790e31fa3c64cedc": {
+      "title": "Conjunto Térmico Bebê Infantil Carrinho Pagão Longo Quentinho Inverno Menino",
+      "posted_at": "2026-08-28T00:18:36.782093"
+    },
+    "e9649380bc66c1e2": {
+      "title": "Moto Eletrica Infantil 12v Chopper Som Sirene Luzes Branca Passeio Seguro Diversao",
+      "posted_at": "2026-08-28T00:18:36.782747"
+    },
+    "a313eb4f27e5ec83": {
+      "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
+      "posted_at": "2026-08-28T00:18:36.783447"
+    },
+    "4ec0bb03099e5636": {
+      "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
+      "posted_at": "2026-08-28T00:18:36.784065"
     }
   },
   "results": [
@@ -10805,6 +10837,70 @@
       "post_id": "560",
       "error": null,
       "at": "2026-08-27T18:01:08.728480"
+    },
+    {
+      "offer_id": "045a6e6229865983",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "561",
+      "error": null,
+      "at": "2026-08-28T00:13:08.307424"
+    },
+    {
+      "offer_id": "b7206e61e4c0e27e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "562",
+      "error": null,
+      "at": "2026-08-28T00:13:10.257878"
+    },
+    {
+      "offer_id": "e59f3ac70c2c1583",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "563",
+      "error": null,
+      "at": "2026-08-28T00:13:14.283128"
+    },
+    {
+      "offer_id": "de7d7f8f9fda6e57",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "564",
+      "error": null,
+      "at": "2026-08-28T00:13:18.564199"
+    },
+    {
+      "offer_id": "790e31fa3c64cedc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "565",
+      "error": null,
+      "at": "2026-08-28T00:13:20.266871"
+    },
+    {
+      "offer_id": "e9649380bc66c1e2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "566",
+      "error": null,
+      "at": "2026-08-28T00:13:22.917190"
+    },
+    {
+      "offer_id": "a313eb4f27e5ec83",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "567",
+      "error": null,
+      "at": "2026-08-28T00:13:24.643021"
+    },
+    {
+      "offer_id": "4ec0bb03099e5636",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "568",
+      "error": null,
+      "at": "2026-08-28T00:13:31.279603"
     }
   ]
 }
