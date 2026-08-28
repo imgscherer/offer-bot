@@ -2263,6 +2263,10 @@
     "685ff3dc3d0dd593": {
       "title": "Suporte para Babá Eletrônica Berço Universal Ajustável Sem Furos Fácil Instalar Baby Monitor",
       "posted_at": "2026-08-28T09:00:44.806625"
+    },
+    "92ff68a9defa03b3": {
+      "title": "Lenços umedecidos higienizadores Limpa Chupeta Likluc",
+      "posted_at": "2026-08-28T11:00:53.962295"
     }
   },
   "results": [
@@ -10961,6 +10965,14 @@
       "post_id": "573",
       "error": null,
       "at": "2026-08-28T09:00:44.806010"
+    },
+    {
+      "offer_id": "92ff68a9defa03b3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "574",
+      "error": null,
+      "at": "2026-08-28T11:00:53.961616"
     }
   ]
 }
