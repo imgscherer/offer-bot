@@ -2291,6 +2291,10 @@
     "347ca1f9b651b4a9": {
       "title": "Limpa Chupeta Lenços Umedecidos Higienizadores, Likluc, Branco, Tamanho Único",
       "posted_at": "2026-08-28T13:10:49.022236"
+    },
+    "172b8e91826f88c8": {
+      "title": "Cadeira de Descanso e Balanço P Bebê Baby Vibratória Com Musical e Brinquedos Didático",
+      "posted_at": "2026-08-28T13:30:55.428053"
     }
   },
   "results": [
@@ -11085,6 +11089,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-08-28T13:20:44.996122"
+    },
+    {
+      "offer_id": "172b8e91826f88c8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "581",
+      "error": null,
+      "at": "2026-08-28T13:30:55.427362"
     }
   ]
 }
