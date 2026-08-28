@@ -1,5 +1,17 @@
 [
   {
+    "id": "4dab2b427c306d5d",
+    "title": "Huggies Fralda Premium Natural Care M - 78 Un",
+    "price_now": 79.0,
+    "price_was": 125.24,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/310571087417879204555843765012.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-28T12:40:49.833143"
+  },
+  {
     "id": "705abcca232be274",
     "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
     "price_now": 161.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-08-28T00:18:36.784263"
-  },
-  {
-    "id": "a313eb4f27e5ec83",
-    "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
-    "price_now": 12.99,
-    "price_was": 19.98,
-    "discount_pct": 35,
-    "url": "https://s.shopee.com.br/AUtYAQq8xN",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mpxyl5yh1csja8",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-08-28T00:18:36.783633"
   }
 ]
