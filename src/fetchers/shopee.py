@@ -21,10 +21,15 @@ com o time (endpoints, auth, rate limit). Resumo do que importa aqui:
 
 Credenciais (App ID + Secret) exigem aprovação manual da Shopee — enquanto
 não tiver, `ShopeeFetcher` simplesmente não é instanciado pelo orchestrator
-(ver `build_fetchers` em orchestrator.py). Ainda não testado contra a API
-real (acesso solicitado, aprovação pendente em 2026-08-08) — validar com
-`preview.py`/log real assim que a credencial chegar, antes de confiar no
-parsing da resposta.
+(ver `build_fetchers` em orchestrator.py). API aprovada e testada ao vivo
+em 2026-08-08 (auth, parsing e `offerLink` confirmados funcionando).
+
+Achado no teste ao vivo: a keyword de busca sozinha NÃO garante relevância
+de nicho — "fralda" trouxe ~50% de produtos Bigfral (fralda geriátrica pra
+idosos), e "bebê" trouxe pelo menos um produto totalmente fora do nicho
+(repelente de ambiente). Por isso o filtro pós-busca em `_is_relevant`
+(NICHE_EXCLUDE_TERMS + NICHE_REQUIRE_TERMS) existe e é necessário — não é
+excesso de zelo.
 """
 
 import asyncio
@@ -50,6 +55,34 @@ NICHE_SEARCH_TERMS: dict[Niche, list[str]] = {
     Niche.MOTHERHOOD: [
         "fralda", "bebê", "carrinho de bebê", "berço",
         "mamadeira", "roupinha bebê",
+    ],
+}
+
+# Alguns termos de busca são ambíguos no catálogo da Shopee — "fralda" bate
+# tanto em fralda de bebê quanto em fralda geriátrica/incontinência adulta.
+# Confirmado ao vivo em 2026-08-08: ~metade dos resultados de "fralda"
+# eram produtos Bigfral (marca de fralda geriátrica) pra idosos. Filtro de
+# exclusão por título evita publicar isso como oferta de maternidade.
+NICHE_EXCLUDE_TERMS: dict[Niche, list[str]] = {
+    Niche.MOTHERHOOD: [
+        "geriátric", "geriatric", "bigfral", "incontinência", "incontinencia",
+        "adulto", "idoso",
+    ],
+}
+
+# Filtro positivo: exige pelo menos um desses termos no título. Sem isso,
+# um produto genérico sem nenhuma relação com maternidade pode colar numa
+# busca ampla tipo "bebê" (ex.: "Óleo de Eucalipto... Repelente de
+# Ambiente" apareceu de verdade, confirmado ao vivo em 2026-08-08). Inclui
+# vocabulário de desfralde/troco pra não cortar itens legítimos que não
+# citam "bebê"/"infantil" no título (ex.: "Troninho Desfralde...",
+# "Penico Transição...").
+NICHE_REQUIRE_TERMS: dict[Niche, list[str]] = {
+    Niche.MOTHERHOOD: [
+        "bebê", "bebe", "baby", "infantil", "maternidade",
+        "criança", "crianca", "recém-nascido", "recem-nascido",
+        "desfralde", "pinico", "penico", "berço", "berco",
+        "mamadeira", "chupeta", "amamenta",
     ],
 }
 
@@ -130,7 +163,7 @@ class ShopeeFetcher(Fetcher):
                         log.warning("Shopee item %s unparseable, skipping: %s",
                                     node.get("itemId", "?"), e)
                         continue
-                    if offer:
+                    if offer and self._is_relevant(offer.title, niche):
                         offers[node["itemId"]] = offer
 
                 await asyncio.sleep(self.rate_limit_seconds)
@@ -201,3 +234,21 @@ class ShopeeFetcher(Fetcher):
     @staticmethod
     def _make_id(item_id: int, price: float) -> str:
         return hashlib.sha1(f"{item_id}|{price}".encode()).hexdigest()[:16]
+
+    @staticmethod
+    def _is_relevant(title: str, niche: Niche) -> bool:
+        """Filtro pós-busca: exige >=1 termo positivo do nicho E nenhum
+        termo de exclusão. A keyword de busca sozinha não garante
+        relevância no catálogo amplo/ambíguo da Shopee (ver
+        NICHE_EXCLUDE_TERMS/NICHE_REQUIRE_TERMS)."""
+        title_lower = title.lower()
+
+        excludes = NICHE_EXCLUDE_TERMS.get(niche)
+        if excludes and any(term in title_lower for term in excludes):
+            return False
+
+        requires = NICHE_REQUIRE_TERMS.get(niche)
+        if requires and not any(term in title_lower for term in requires):
+            return False
+
+        return True

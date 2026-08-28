@@ -44,9 +44,10 @@ log = logging.getLogger("orchestrator")
 def build_fetchers(s: config.Settings) -> list[Fetcher]:
     fetchers: list[Fetcher] = [PromobitFetcher(s.shopee_affiliate_id, s.amazon_affiliate_tag)]
 
-    # Só entra depois que a Shopee aprovar o acesso à Open API (pedido
-    # feito em 2026-08-08 — ver memória "shopee-affiliate-api"). Até lá
-    # as env vars ficam vazias e o fetcher nem é instanciado.
+    # Acesso à Open API aprovado em 2026-08-08 (ver memória
+    # "shopee-affiliate-api") — só continua condicional aqui pra rodar
+    # sem quebrar em qualquer outro ambiente/clone onde as env vars ainda
+    # não estejam preenchidas.
     if s.shopee_open_api_app_id and s.shopee_open_api_secret:
         fetchers.append(ShopeeFetcher(s.shopee_open_api_app_id, s.shopee_open_api_secret))
 
