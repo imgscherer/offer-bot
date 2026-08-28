@@ -2243,6 +2243,10 @@
     "4ec0bb03099e5636": {
       "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
       "posted_at": "2026-08-28T00:18:36.784065"
+    },
+    "1e750ccde1e071fe": {
+      "title": "Triciclo Infantil Azul Passeio Seguro Divertido Confortavel Resistente",
+      "posted_at": "2026-08-28T00:23:15.680935"
     }
   },
   "results": [
@@ -10901,6 +10905,14 @@
       "post_id": "568",
       "error": null,
       "at": "2026-08-28T00:13:31.279603"
+    },
+    {
+      "offer_id": "1e750ccde1e071fe",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "569",
+      "error": null,
+      "at": "2026-08-28T00:23:15.680212"
     }
   ]
 }
