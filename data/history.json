@@ -2335,6 +2335,10 @@
     "621fc65ed849a807": {
       "title": "Fralda Cremer Jumbo P 30 Unidades",
       "posted_at": "2026-08-28T17:10:49.523350"
+    },
+    "28a775108009766c": {
+      "title": "Safety 1st, Berço Mini Play, Grey Denim",
+      "posted_at": "2026-08-28T17:30:46.608671"
     }
   },
   "results": [
@@ -11217,6 +11221,14 @@
       "post_id": "591",
       "error": null,
       "at": "2026-08-28T17:10:49.522634"
+    },
+    {
+      "offer_id": "28a775108009766c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "592",
+      "error": null,
+      "at": "2026-08-28T17:30:46.607817"
     }
   ]
 }

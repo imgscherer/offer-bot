@@ -1,5 +1,17 @@
 [
   {
+    "id": "28a775108009766c",
+    "title": "Safety 1st, Berço Mini Play, Grey Denim",
+    "price_now": 314.91,
+    "price_was": 649.0,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B081T9WZHG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/117118790117879378489273178565.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-28T17:30:46.608271"
+  },
+  {
     "id": "621fc65ed849a807",
     "title": "Fralda Cremer Jumbo P 30 Unidades",
     "price_now": 19.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-28T13:30:55.427696"
-  },
-  {
-    "id": "347ca1f9b651b4a9",
-    "title": "Limpa Chupeta Lenços Umedecidos Higienizadores, Likluc, Branco, Tamanho Único",
-    "price_now": 11.02,
-    "price_was": 29.9,
-    "discount_pct": 63,
-    "url": "https://www.amazon.com.br/dp/B07XPC1ZNT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/316081621117879220144413952496.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-28T13:10:49.021906"
   }
 ]
