@@ -1,5 +1,17 @@
 [
   {
+    "id": "b4d14a01f74f86ce",
+    "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
+    "price_now": 12.5,
+    "price_was": 19.84,
+    "discount_pct": 37,
+    "url": "https://s.shopee.com.br/AUtYAQq8xN",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mpxyl5yh1csja8",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-08-28T06:10:36.676719"
+  },
+  {
     "id": "4714f95862029c78",
     "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
     "price_now": 11.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-27T18:01:08.728829"
-  },
-  {
-    "id": "c6097fc51e8ef5ac",
-    "title": "Shampoo Para Bebê Johnson's Baby Regular, 200ml, Amarelo",
-    "price_now": 12.59,
-    "price_was": 24.79,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B00F5NZ34K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/202756101417878527137458597230.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-27T18:00:56.047701"
   }
 ]

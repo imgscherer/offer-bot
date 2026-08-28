@@ -2251,6 +2251,10 @@
     "4714f95862029c78": {
       "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
       "posted_at": "2026-08-28T05:30:33.476354"
+    },
+    "b4d14a01f74f86ce": {
+      "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
+      "posted_at": "2026-08-28T06:10:36.677048"
     }
   },
   "results": [
@@ -10925,6 +10929,14 @@
       "post_id": "570",
       "error": null,
       "at": "2026-08-28T05:30:33.475783"
+    },
+    {
+      "offer_id": "b4d14a01f74f86ce",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "571",
+      "error": null,
+      "at": "2026-08-28T06:10:36.676374"
     }
   ]
 }
