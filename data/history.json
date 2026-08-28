@@ -2315,6 +2315,10 @@
     "0e4f4438f72d1636": {
       "title": "Granado Sabonete Líquido Glicerinado Bebê 250ml",
       "posted_at": "2026-08-28T15:20:55.880611"
+    },
+    "072b9f39a9a9487c": {
+      "title": "Mictório Infantil Sapinho Verde",
+      "posted_at": "2026-08-28T15:50:52.263700"
     }
   },
   "results": [
@@ -11157,6 +11161,14 @@
       "post_id": "586",
       "error": null,
       "at": "2026-08-28T15:20:55.879950"
+    },
+    {
+      "offer_id": "072b9f39a9a9487c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "587",
+      "error": null,
+      "at": "2026-08-28T15:50:52.263015"
     }
   ]
 }

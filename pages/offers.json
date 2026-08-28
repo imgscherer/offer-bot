@@ -1,5 +1,17 @@
 [
   {
+    "id": "072b9f39a9a9487c",
+    "title": "Mictório Infantil Sapinho Verde",
+    "price_now": 35.0,
+    "price_was": 70.9,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B0789SHBRL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/656443481017879317274500698511.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-28T15:50:52.263368"
+  },
+  {
     "id": "0e4f4438f72d1636",
     "title": "Granado Sabonete Líquido Glicerinado Bebê 250ml",
     "price_now": 19.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-08-28T11:50:32.578444"
-  },
-  {
-    "id": "674748bc3f09bbde",
-    "title": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
-    "price_now": 79.0,
-    "price_was": 118.35,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/517192473617879153492403870076.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-28T11:20:49.374155"
   }
 ]
