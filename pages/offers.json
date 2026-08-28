@@ -1,5 +1,29 @@
 [
   {
+    "id": "0e4f4438f72d1636",
+    "title": "Granado Sabonete Líquido Glicerinado Bebê 250ml",
+    "price_now": 19.0,
+    "price_was": 30.48,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B000VWJMW4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/610008967317879292811112898770.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-28T15:20:55.880268"
+  },
+  {
+    "id": "f1132e7aa7be3854",
+    "title": "Fralda Cremer Magic Care P 30 unidades",
+    "price_now": 18.99,
+    "price_was": 30.99,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B08BXQFMZK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/160830662517879161362337827832.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-28T15:20:48.181456"
+  },
+  {
     "id": "78207ce30e73b6e2",
     "title": "Lenços Umedecidos Higienizadores Limpa Chupeta Likluc 30 Unidades",
     "price_now": 9.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-28T11:20:49.374155"
-  },
-  {
-    "id": "92ff68a9defa03b3",
-    "title": "Lenços umedecidos higienizadores Limpa Chupeta Likluc",
-    "price_now": 9.92,
-    "price_was": 29.9,
-    "discount_pct": 67,
-    "url": "https://www.amazon.com.br/dp/B07XPC1ZNT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/392771012617879143993406697339.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-28T11:00:53.961960"
-  },
-  {
-    "id": "685ff3dc3d0dd593",
-    "title": "Suporte para Babá Eletrônica Berço Universal Ajustável Sem Furos Fácil Instalar Baby Monitor",
-    "price_now": 10.72,
-    "price_was": 18.48,
-    "discount_pct": 42,
-    "url": "https://s.shopee.com.br/7fZNNSZCfS",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mq55lbylo076b3",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-08-28T09:00:44.806313"
   }
 ]

@@ -2307,6 +2307,14 @@
     "78207ce30e73b6e2": {
       "title": "Lenços Umedecidos Higienizadores Limpa Chupeta Likluc 30 Unidades",
       "posted_at": "2026-08-28T14:30:49.458347"
+    },
+    "f1132e7aa7be3854": {
+      "title": "Fralda Cremer Magic Care P 30 unidades",
+      "posted_at": "2026-08-28T15:20:48.181824"
+    },
+    "0e4f4438f72d1636": {
+      "title": "Granado Sabonete Líquido Glicerinado Bebê 250ml",
+      "posted_at": "2026-08-28T15:20:55.880611"
     }
   },
   "results": [
@@ -11133,6 +11141,22 @@
       "post_id": "584",
       "error": null,
       "at": "2026-08-28T14:30:49.457744"
+    },
+    {
+      "offer_id": "f1132e7aa7be3854",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "585",
+      "error": null,
+      "at": "2026-08-28T15:20:48.181105"
+    },
+    {
+      "offer_id": "0e4f4438f72d1636",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "586",
+      "error": null,
+      "at": "2026-08-28T15:20:55.879950"
     }
   ]
 }
