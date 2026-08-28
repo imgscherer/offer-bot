@@ -2363,6 +2363,10 @@
     "b8314b4095d738e6": {
       "title": "Sandália Feminina Infantil (Tam. 28 ao 40, Diversas cores)",
       "posted_at": "2026-08-28T20:01:03.715833"
+    },
+    "73713f49b817ad83": {
+      "title": "Sandália Papete Infantil Abelhinha Com Palmilha Macia (Tam. 17 ao 28)",
+      "posted_at": "2026-08-28T20:20:53.551159"
     }
   },
   "results": [
@@ -11301,6 +11305,14 @@
       "post_id": "598",
       "error": null,
       "at": "2026-08-28T20:01:03.715045"
+    },
+    {
+      "offer_id": "73713f49b817ad83",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "599",
+      "error": null,
+      "at": "2026-08-28T20:20:53.550589"
     }
   ]
 }
