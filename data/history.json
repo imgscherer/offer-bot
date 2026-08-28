@@ -2299,6 +2299,10 @@
     "3dc1ca10ac4ddba6": {
       "title": "Brinqkids Bicicleta de Equilibrio Andador Infantil sem Pedal para Crianças (Vermelho)",
       "posted_at": "2026-08-28T13:50:50.953173"
+    },
+    "0c0c2579afce5b15": {
+      "title": "Escova Para Lavar Mamadeira E Bico Com Esponja Buba Azul Rosa Bebê garrafas térmicas multiuso",
+      "posted_at": "2026-08-28T14:00:49.978039"
     }
   },
   "results": [
@@ -11109,6 +11113,14 @@
       "post_id": "582",
       "error": null,
       "at": "2026-08-28T13:50:50.952463"
+    },
+    {
+      "offer_id": "0c0c2579afce5b15",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "583",
+      "error": null,
+      "at": "2026-08-28T14:00:49.977335"
     }
   ]
 }
