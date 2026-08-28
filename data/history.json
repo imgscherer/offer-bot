@@ -2295,6 +2295,10 @@
     "172b8e91826f88c8": {
       "title": "Cadeira de Descanso e Balanço P Bebê Baby Vibratória Com Musical e Brinquedos Didático",
       "posted_at": "2026-08-28T13:30:55.428053"
+    },
+    "3dc1ca10ac4ddba6": {
+      "title": "Brinqkids Bicicleta de Equilibrio Andador Infantil sem Pedal para Crianças (Vermelho)",
+      "posted_at": "2026-08-28T13:50:50.953173"
     }
   },
   "results": [
@@ -11097,6 +11101,14 @@
       "post_id": "581",
       "error": null,
       "at": "2026-08-28T13:30:55.427362"
+    },
+    {
+      "offer_id": "3dc1ca10ac4ddba6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "582",
+      "error": null,
+      "at": "2026-08-28T13:50:50.952463"
     }
   ]
 }
