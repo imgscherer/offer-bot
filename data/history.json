@@ -2359,6 +2359,10 @@
     "9b5f8f39ceccb9f3": {
       "title": "200 Mini Pezinhos  Lembrancinhas de Chá de Fralda -Revelação -saida  de Maternidade 100 pares",
       "posted_at": "2026-08-28T19:32:22.339985"
+    },
+    "b8314b4095d738e6": {
+      "title": "Sandália Feminina Infantil (Tam. 28 ao 40, Diversas cores)",
+      "posted_at": "2026-08-28T20:01:03.715833"
     }
   },
   "results": [
@@ -11289,6 +11293,14 @@
       "post_id": "597",
       "error": null,
       "at": "2026-08-28T19:32:22.339506"
+    },
+    {
+      "offer_id": "b8314b4095d738e6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "598",
+      "error": null,
+      "at": "2026-08-28T20:01:03.715045"
     }
   ]
 }

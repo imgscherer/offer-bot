@@ -1,5 +1,17 @@
 [
   {
+    "id": "b8314b4095d738e6",
+    "title": "Sandália Feminina Infantil (Tam. 28 ao 40, Diversas cores)",
+    "price_now": 55.92,
+    "price_was": 89.62,
+    "discount_pct": 38,
+    "url": "https://s.shopee.com.br/3qMfWoX7aD?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/245810929617879464313194716956.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-28T20:01:03.715459"
+  },
+  {
     "id": "9b5f8f39ceccb9f3",
     "title": "200 Mini Pezinhos  Lembrancinhas de Chá de Fralda -Revelação -saida  de Maternidade 100 pares",
     "price_now": 132.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-28T15:50:52.263368"
-  },
-  {
-    "id": "0e4f4438f72d1636",
-    "title": "Granado Sabonete Líquido Glicerinado Bebê 250ml",
-    "price_now": 19.0,
-    "price_was": 30.48,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B000VWJMW4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/610008967317879292811112898770.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-28T15:20:55.880268"
   }
 ]
