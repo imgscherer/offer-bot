@@ -1,5 +1,17 @@
 [
   {
+    "id": "8bd7bdfb1d2c3a96",
+    "title": "Mictório Infantil Sapinho Pimpolho",
+    "price_now": 10.24,
+    "price_was": 49.9,
+    "discount_pct": 79,
+    "url": "https://www.amazon.com.br/dp/B0BZQSSYWV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/526736547817879530281732206172.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-28T22:30:53.824284"
+  },
+  {
     "id": "73713f49b817ad83",
     "title": "Sandália Papete Infantil Abelhinha Com Palmilha Macia (Tam. 17 ao 28)",
     "price_now": 43.12,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-28T17:01:03.318104"
-  },
-  {
-    "id": "844cab182f3dd3ff",
-    "title": "Manta Tricô Bebê Menina e Menino Corações Macia Quentinha Frio Dormir Confortável para Berço Carrinho Enxoval",
-    "price_now": 44.96,
-    "price_was": 99.91,
-    "discount_pct": 55,
-    "url": "https://s.shopee.com.br/9KhayTWqpX",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mqyrcq1jrtad1f",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-08-28T16:40:33.540836"
   }
 ]

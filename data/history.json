@@ -2367,6 +2367,10 @@
     "73713f49b817ad83": {
       "title": "Sandália Papete Infantil Abelhinha Com Palmilha Macia (Tam. 17 ao 28)",
       "posted_at": "2026-08-28T20:20:53.551159"
+    },
+    "8bd7bdfb1d2c3a96": {
+      "title": "Mictório Infantil Sapinho Pimpolho",
+      "posted_at": "2026-08-28T22:30:53.824606"
     }
   },
   "results": [
@@ -11313,6 +11317,14 @@
       "post_id": "599",
       "error": null,
       "at": "2026-08-28T20:20:53.550589"
+    },
+    {
+      "offer_id": "8bd7bdfb1d2c3a96",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "600",
+      "error": null,
+      "at": "2026-08-28T22:30:53.823926"
     }
   ]
 }
