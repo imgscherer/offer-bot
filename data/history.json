@@ -2323,6 +2323,14 @@
     "844cab182f3dd3ff": {
       "title": "Manta Tricô Bebê Menina e Menino Corações Macia Quentinha Frio Dormir Confortável para Berço Carrinho Enxoval",
       "posted_at": "2026-08-28T16:40:33.541160"
+    },
+    "5b21696c3acbc877": {
+      "title": "Cesto Organizador Dobrável Multiuso Infantil",
+      "posted_at": "2026-08-28T17:01:03.318457"
+    },
+    "ab93f0e161f9d574": {
+      "title": "Kit 04 Lençol Com Elástico Microfibra Berço Padrão Americano 130X70cm Tecido Macio",
+      "posted_at": "2026-08-28T17:01:04.776731"
     }
   },
   "results": [
@@ -11181,6 +11189,22 @@
       "post_id": "588",
       "error": null,
       "at": "2026-08-28T16:40:33.540452"
+    },
+    {
+      "offer_id": "5b21696c3acbc877",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "589",
+      "error": null,
+      "at": "2026-08-28T17:01:03.317782"
+    },
+    {
+      "offer_id": "ab93f0e161f9d574",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "590",
+      "error": null,
+      "at": "2026-08-28T17:01:04.776067"
     }
   ]
 }

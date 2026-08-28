@@ -1,5 +1,29 @@
 [
   {
+    "id": "ab93f0e161f9d574",
+    "title": "Kit 04 Lençol Com Elástico Microfibra Berço Padrão Americano 130X70cm Tecido Macio",
+    "price_now": 32.45,
+    "price_was": 60.09,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/8V8UtxFuVm",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh21mogjun7k1f",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-08-28T17:01:04.776423"
+  },
+  {
+    "id": "5b21696c3acbc877",
+    "title": "Cesto Organizador Dobrável Multiuso Infantil",
+    "price_now": 21.0,
+    "price_was": 49.77,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/1gIAkoU8X3?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/184243354717879359309687852208.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-28T17:01:03.318104"
+  },
+  {
     "id": "844cab182f3dd3ff",
     "title": "Manta Tricô Bebê Menina e Menino Corações Macia Quentinha Frio Dormir Confortável para Berço Carrinho Enxoval",
     "price_now": 44.96,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-28T12:40:49.833143"
-  },
-  {
-    "id": "705abcca232be274",
-    "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
-    "price_now": 161.0,
-    "price_was": 246.01,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/159504420517879181845477866277.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-28T12:10:43.296687"
-  },
-  {
-    "id": "a05b7f1733cab570",
-    "title": "* Suporte para Mamadeira para Almofada de Amamentação Autoalimentação Cus 3504 TO61",
-    "price_now": 44.82,
-    "price_was": 89.64,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/7VFxNWPGA6",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82617-mjov9y5mq5fkf9",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-08-28T12:00:49.424442"
   }
 ]
