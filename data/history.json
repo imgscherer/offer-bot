@@ -2275,6 +2275,10 @@
     "e7fe7652d8802e66": {
       "title": "Escova Para Limpeza De Mamadeiras E Copos 30cm",
       "posted_at": "2026-08-28T11:50:32.578670"
+    },
+    "a05b7f1733cab570": {
+      "title": "* Suporte para Mamadeira para Almofada de Amamentação Autoalimentação Cus 3504 TO61",
+      "posted_at": "2026-08-28T12:00:49.424724"
     }
   },
   "results": [
@@ -10997,6 +11001,14 @@
       "post_id": "576",
       "error": null,
       "at": "2026-08-28T11:50:32.578148"
+    },
+    {
+      "offer_id": "a05b7f1733cab570",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "577",
+      "error": null,
+      "at": "2026-08-28T12:00:49.424132"
     }
   ]
 }
