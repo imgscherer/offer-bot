@@ -2339,6 +2339,26 @@
     "28a775108009766c": {
       "title": "Safety 1st, Berço Mini Play, Grey Denim",
       "posted_at": "2026-08-28T17:30:46.608671"
+    },
+    "96618a82fe0eaf7d": {
+      "title": "50 Sabonetes Perfumados com Mini Pezinhos para Lembrança de Chá de Fralda Infantil 25 pares",
+      "posted_at": "2026-08-28T19:32:15.659025"
+    },
+    "50155f70cb8c360c": {
+      "title": "50 Mini Pezinhos Lembrancinha - Chá de Fralda (25 Pares) Sabonetes Perfumados Saida  de Maternidade",
+      "posted_at": "2026-08-28T19:32:17.015920"
+    },
+    "fc0ec9f415b0174f": {
+      "title": "30 Lembrancinhas Saida  de Maternidade, Chá Revelação,Chá de Fralda ( 15 pares )",
+      "posted_at": "2026-08-28T19:32:18.309012"
+    },
+    "445b917ace3ecab6": {
+      "title": "60 Pares Lembrancinhas Chá Revelação, Chá de Fralda,Cha de bebe,Saida  de Maternidade",
+      "posted_at": "2026-08-28T19:32:19.475135"
+    },
+    "9b5f8f39ceccb9f3": {
+      "title": "200 Mini Pezinhos  Lembrancinhas de Chá de Fralda -Revelação -saida  de Maternidade 100 pares",
+      "posted_at": "2026-08-28T19:32:22.339985"
     }
   },
   "results": [
@@ -11229,6 +11249,46 @@
       "post_id": "592",
       "error": null,
       "at": "2026-08-28T17:30:46.607817"
+    },
+    {
+      "offer_id": "96618a82fe0eaf7d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "593",
+      "error": null,
+      "at": "2026-08-28T19:32:15.658459"
+    },
+    {
+      "offer_id": "50155f70cb8c360c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "594",
+      "error": null,
+      "at": "2026-08-28T19:32:17.015449"
+    },
+    {
+      "offer_id": "fc0ec9f415b0174f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "595",
+      "error": null,
+      "at": "2026-08-28T19:32:18.308518"
+    },
+    {
+      "offer_id": "445b917ace3ecab6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "596",
+      "error": null,
+      "at": "2026-08-28T19:32:19.474617"
+    },
+    {
+      "offer_id": "9b5f8f39ceccb9f3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "597",
+      "error": null,
+      "at": "2026-08-28T19:32:22.339506"
     }
   ]
 }
