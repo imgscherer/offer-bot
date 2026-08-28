@@ -2271,6 +2271,10 @@
     "674748bc3f09bbde": {
       "title": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
       "posted_at": "2026-08-28T11:20:49.374414"
+    },
+    "e7fe7652d8802e66": {
+      "title": "Escova Para Limpeza De Mamadeiras E Copos 30cm",
+      "posted_at": "2026-08-28T11:50:32.578670"
     }
   },
   "results": [
@@ -10985,6 +10989,14 @@
       "post_id": "575",
       "error": null,
       "at": "2026-08-28T11:20:49.373849"
+    },
+    {
+      "offer_id": "e7fe7652d8802e66",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "576",
+      "error": null,
+      "at": "2026-08-28T11:50:32.578148"
     }
   ]
 }
