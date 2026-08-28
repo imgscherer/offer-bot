@@ -2255,6 +2255,14 @@
     "b4d14a01f74f86ce": {
       "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
       "posted_at": "2026-08-28T06:10:36.677048"
+    },
+    "285a14444551dbee": {
+      "title": "Suporte Baba Eletronica Para Berco Universal",
+      "posted_at": "2026-08-28T09:00:43.739347"
+    },
+    "685ff3dc3d0dd593": {
+      "title": "Suporte para Babá Eletrônica Berço Universal Ajustável Sem Furos Fácil Instalar Baby Monitor",
+      "posted_at": "2026-08-28T09:00:44.806625"
     }
   },
   "results": [
@@ -10937,6 +10945,22 @@
       "post_id": "571",
       "error": null,
       "at": "2026-08-28T06:10:36.676374"
+    },
+    {
+      "offer_id": "285a14444551dbee",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "572",
+      "error": null,
+      "at": "2026-08-28T09:00:43.738642"
+    },
+    {
+      "offer_id": "685ff3dc3d0dd593",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "573",
+      "error": null,
+      "at": "2026-08-28T09:00:44.806010"
     }
   ]
 }
