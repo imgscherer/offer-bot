@@ -1,5 +1,17 @@
 [
   {
+    "id": "674748bc3f09bbde",
+    "title": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
+    "price_now": 79.0,
+    "price_was": 118.35,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/517192473617879153492403870076.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-28T11:20:49.374155"
+  },
+  {
     "id": "92ff68a9defa03b3",
     "title": "Lenços umedecidos higienizadores Limpa Chupeta Likluc",
     "price_now": 9.92,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-08-28T00:18:36.781593"
-  },
-  {
-    "id": "e59f3ac70c2c1583",
-    "title": "Conjunto Talher Mágico Baby com Colher e Garfo que Mudam de Cor com a Temperatura Seguro para Bebês",
-    "price_now": 12.45,
-    "price_was": 24.9,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/7psmymo9CD",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxe-lzupw18qdb3o7c",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-08-28T00:18:36.780899"
   }
 ]

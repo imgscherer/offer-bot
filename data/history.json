@@ -2267,6 +2267,10 @@
     "92ff68a9defa03b3": {
       "title": "Lenços umedecidos higienizadores Limpa Chupeta Likluc",
       "posted_at": "2026-08-28T11:00:53.962295"
+    },
+    "674748bc3f09bbde": {
+      "title": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
+      "posted_at": "2026-08-28T11:20:49.374414"
     }
   },
   "results": [
@@ -10973,6 +10977,14 @@
       "post_id": "574",
       "error": null,
       "at": "2026-08-28T11:00:53.961616"
+    },
+    {
+      "offer_id": "674748bc3f09bbde",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "575",
+      "error": null,
+      "at": "2026-08-28T11:20:49.373849"
     }
   ]
 }
