@@ -30,6 +30,8 @@ jobs:
           NICHE: motherhood
           BRAND_HANDLE: ${{ vars.BRAND_HANDLE }}
           SHOPEE_AFFILIATE_ID: ${{ secrets.SHOPEE_AFFILIATE_ID }}
+          SHOPEE_OPEN_API_APP_ID: ${{ secrets.SHOPEE_OPEN_API_APP_ID }}
+          SHOPEE_OPEN_API_SECRET: ${{ secrets.SHOPEE_OPEN_API_SECRET }}
           AMAZON_AFFILIATE_TAG: ${{ secrets.AMAZON_AFFILIATE_TAG }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
