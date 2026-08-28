@@ -2303,6 +2303,10 @@
     "0c0c2579afce5b15": {
       "title": "Escova Para Lavar Mamadeira E Bico Com Esponja Buba Azul Rosa Bebê garrafas térmicas multiuso",
       "posted_at": "2026-08-28T14:00:49.978039"
+    },
+    "78207ce30e73b6e2": {
+      "title": "Lenços Umedecidos Higienizadores Limpa Chupeta Likluc 30 Unidades",
+      "posted_at": "2026-08-28T14:30:49.458347"
     }
   },
   "results": [
@@ -11121,6 +11125,14 @@
       "post_id": "583",
       "error": null,
       "at": "2026-08-28T14:00:49.977335"
+    },
+    {
+      "offer_id": "78207ce30e73b6e2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "584",
+      "error": null,
+      "at": "2026-08-28T14:30:49.457744"
     }
   ]
 }
