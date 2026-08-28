@@ -83,22 +83,26 @@ arquivo novo. Não altere o orchestrator.**
    igual. Confirmado que sobrescreve corretamente o `tag=` que o próprio
    Promobit injeta nos links de saída da Amazon (não duplica parâmetro).
 
-3. **Validar fluxo só com Telegram primeiro.** Em `orchestrator.py::build_per_piece_publishers`,
-   comentar `InstagramPublisher` e `WhatsAppPublisher`. Rodar local com
-   `.env` e canal de teste. Quando ver post chegar no Telegram com link
-   afiliado certo, passar pros próximos.
+3. ~~Validar fluxo só com Telegram primeiro.~~ — **feito.** `InstagramPublisher`
+   e `WhatsAppPublisher` comentados em `orchestrator.py::build_per_piece_publishers`.
+   Rodou local, posts chegando no Telegram com link afiliado certo (ver
+   `data/history.json`, primeiros posts em 2026-07-09).
 
-4. **Token longo do Instagram Graph API.** Documento `docs/SETUP_META.md`
-   (criar) com o passo-a-passo: criar app no Meta for Developers, vincular
-   conta IG Business a uma Page, trocar token curto por longo (60 dias),
-   gerenciar renovação. É o passo mais chato do projeto.
+4. **Publicação no Instagram fica manual por enquanto.** Decisão do usuário
+   em 2026-07-16: não vale o esforço de setup do Graph API (token longo,
+   Meta for Developers, etc.) ainda. `InstagramPublisher` continua comentado
+   no orchestrator. As imagens de Story geradas pelo pipeline (item 6) ainda
+   são úteis — o usuário posta elas manualmente. Não criar `docs/SETUP_META.md`
+   nem descomentar `InstagramPublisher` sem o usuário pedir explicitamente.
 
 5. **WhatsApp Cloud API setup.** Verificar número, gerar token permanente
    (System User token), descobrir `group_id` do grupo onde o bot vai postar.
 
 6. **Refinar imagens do Story.** O layout atual usa fonte DejaVu (fallback
    universal). Baixar Inter ou Poppins em `assets/fonts/` e atualizar
-   `FONT_BOLD`/`FONT_REG` em `src/generators/story_image.py`.
+   `FONT_BOLD`/`FONT_REG` em `src/generators/story_image.py`. Continua
+   relevante mesmo com publicação manual no Instagram (item 4) — a imagem
+   é o artefato que o usuário posta à mão.
 
 7. **Implementar reviewer LLM** (`src/reviewers/llm.py`) se as regras
    determinísticas em `rules.py` ficarem curtas. Só adicionar quando houver
@@ -136,6 +140,22 @@ via busca) — só o portal web (`mercadolivre.com.br/afiliados`), igual ao
 caso do `amzn.to` (ver `_retag` em `src/fetchers/promobit.py`). Diferença:
 pro Amazon a URL de saída do Promobit é limpa (dá pra extrair o ASIN e
 remontar); pro ML não é.
+
+**Reinvestigado em 2026-08-08 — mesmo resultado, mais uma pista descartada.**
+403 do item 2 confirmado de novo ao vivo (segue bloqueado). Foi encontrado
+o tal "Developer Partner Program" (existe de verdade,
+`developers.mercadolivre.com.br/pt_br/developer-partner-program` —
+só que **não é sobre afiliados/marketing**: é certificação pra ferramentas
+de ERP/gestão de anúncios que atendem **vendedores** do ML (ex.: Tray,
+Magis5), com requisitos tipo 350+ usuários ativos e GMV mínimo de US$20M/mês
+(ver post da GoBots sobre virar Platinum). Não desbloqueia a API de busca
+nem tem qualquer relação com geração de link de afiliado — **descartar
+definitivamente essa pista, não é o caminho**. Dois projetos de terceiros
+no GitHub que alegam "gerar link de afiliado do ML" (`Fripixel` e
+`DeivianDS`) na verdade só reaproveitam uma tag obtida manualmente no
+portal (mesma limitação de sempre), não usam nenhuma API de afiliado real.
+**Próxima reinvestigação só se algo mudar visivelmente do lado do ML** —
+não vale repetir essa busca de novo sem sinal concreto de mudança.
 
 ## Como rodar localmente
 
