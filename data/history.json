@@ -2371,6 +2371,10 @@
     "8bd7bdfb1d2c3a96": {
       "title": "Mictório Infantil Sapinho Pimpolho",
       "posted_at": "2026-08-28T22:30:53.824606"
+    },
+    "4832b5ab35aa5b25": {
+      "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
+      "posted_at": "2026-08-29T01:50:55.042076"
     }
   },
   "results": [
@@ -11325,6 +11329,14 @@
       "post_id": "600",
       "error": null,
       "at": "2026-08-28T22:30:53.823926"
+    },
+    {
+      "offer_id": "4832b5ab35aa5b25",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "601",
+      "error": null,
+      "at": "2026-08-29T01:50:55.041451"
     }
   ]
 }

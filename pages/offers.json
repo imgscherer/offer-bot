@@ -1,5 +1,17 @@
 [
   {
+    "id": "4832b5ab35aa5b25",
+    "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
+    "price_now": 14.0,
+    "price_was": 25.55,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B08JQND4NB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/610776801817879677303223127008.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-29T01:50:55.041753"
+  },
+  {
     "id": "8bd7bdfb1d2c3a96",
     "title": "Mictório Infantil Sapinho Pimpolho",
     "price_now": 10.24,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-08-28T17:01:04.776423"
-  },
-  {
-    "id": "5b21696c3acbc877",
-    "title": "Cesto Organizador Dobrável Multiuso Infantil",
-    "price_now": 21.0,
-    "price_was": 49.77,
-    "discount_pct": 58,
-    "url": "https://s.shopee.com.br/1gIAkoU8X3?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/184243354717879359309687852208.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-28T17:01:03.318104"
   }
 ]
