@@ -1,5 +1,17 @@
 [
   {
+    "id": "7cf0774c5e708e06",
+    "title": "Tapete Infantil Emborrachado Impermeável",
+    "price_now": 55.92,
+    "price_was": 124.82,
+    "discount_pct": 55,
+    "url": "https://s.shopee.com.br/4AzWvvoezz?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/979871155717880010415370751183.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-29T11:01:01.143651"
+  },
+  {
     "id": "4ab9a9765f819e8c",
     "title": "Brinquedo De Madeira Carrinho De Boneca Rosa Büp Baby",
     "price_now": 199.9,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-08-28T19:32:15.658764"
-  },
-  {
-    "id": "28a775108009766c",
-    "title": "Safety 1st, Berço Mini Play, Grey Denim",
-    "price_now": 314.91,
-    "price_was": 649.0,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B081T9WZHG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/117118790117879378489273178565.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-28T17:30:46.608271"
   }
 ]

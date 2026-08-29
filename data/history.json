@@ -2383,6 +2383,10 @@
     "4ab9a9765f819e8c": {
       "title": "Brinquedo De Madeira Carrinho De Boneca Rosa Büp Baby",
       "posted_at": "2026-08-29T10:30:42.260001"
+    },
+    "7cf0774c5e708e06": {
+      "title": "Tapete Infantil Emborrachado Impermeável",
+      "posted_at": "2026-08-29T11:01:01.143876"
     }
   },
   "results": [
@@ -11361,6 +11365,14 @@
       "post_id": "603",
       "error": null,
       "at": "2026-08-29T10:30:42.259284"
+    },
+    {
+      "offer_id": "7cf0774c5e708e06",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "604",
+      "error": null,
+      "at": "2026-08-29T11:01:01.143371"
     }
   ]
 }
