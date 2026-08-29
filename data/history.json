@@ -2375,6 +2375,10 @@
     "4832b5ab35aa5b25": {
       "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
       "posted_at": "2026-08-29T01:50:55.042076"
+    },
+    "7e9b6d69cc0dc29e": {
+      "title": "Suporte para Babá Eletrônica Berço Universal Ajustável Sem Furos Fácil Instalar Baby Monitor",
+      "posted_at": "2026-08-29T09:00:50.618355"
     }
   },
   "results": [
@@ -11337,6 +11341,14 @@
       "post_id": "601",
       "error": null,
       "at": "2026-08-29T01:50:55.041451"
+    },
+    {
+      "offer_id": "7e9b6d69cc0dc29e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "602",
+      "error": null,
+      "at": "2026-08-29T09:00:50.617641"
     }
   ]
 }
