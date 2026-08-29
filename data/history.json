@@ -2419,6 +2419,10 @@
     "9d8a6b89376e3e67": {
       "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso, 400ml",
       "posted_at": "2026-08-29T15:30:44.913415"
+    },
+    "d5f93ce13ee72225": {
+      "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
+      "posted_at": "2026-08-29T16:00:55.582545"
     }
   },
   "results": [
@@ -11469,6 +11473,14 @@
       "post_id": "612",
       "error": null,
       "at": "2026-08-29T15:30:44.912692"
+    },
+    {
+      "offer_id": "d5f93ce13ee72225",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "613",
+      "error": null,
+      "at": "2026-08-29T16:00:55.582019"
     }
   ]
 }

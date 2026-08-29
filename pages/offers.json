@@ -1,5 +1,17 @@
 [
   {
+    "id": "d5f93ce13ee72225",
+    "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
+    "price_now": 13.0,
+    "price_was": 22.69,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B095D664HJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/192469977317880190319339794803.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-29T16:00:55.582319"
+  },
+  {
     "id": "9d8a6b89376e3e67",
     "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso, 400ml",
     "price_now": 20.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-08-29T09:00:50.617942"
-  },
-  {
-    "id": "4832b5ab35aa5b25",
-    "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
-    "price_now": 14.0,
-    "price_was": 25.55,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B08JQND4NB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/610776801817879677303223127008.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-29T01:50:55.041753"
   }
 ]
