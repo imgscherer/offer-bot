@@ -1,5 +1,17 @@
 [
   {
+    "id": "236c0061795a9eb1",
+    "title": "Fralda Pampers Confort Sec P 72 Unidades",
+    "price_now": 79.0,
+    "price_was": 118.1,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B095D5PSPG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/924949102517880255077039607091.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-29T17:50:57.803156"
+  },
+  {
     "id": "d5f93ce13ee72225",
     "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
     "price_now": 13.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-08-29T10:30:42.259633"
-  },
-  {
-    "id": "7e9b6d69cc0dc29e",
-    "title": "Suporte para Babá Eletrônica Berço Universal Ajustável Sem Furos Fácil Instalar Baby Monitor",
-    "price_now": 11.47,
-    "price_was": 18.5,
-    "discount_pct": 38,
-    "url": "https://s.shopee.com.br/7fZNNSZCfS",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mq55lbylo076b3",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-08-29T09:00:50.617942"
   }
 ]

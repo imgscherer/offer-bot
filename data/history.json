@@ -2423,6 +2423,10 @@
     "d5f93ce13ee72225": {
       "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
       "posted_at": "2026-08-29T16:00:55.582545"
+    },
+    "236c0061795a9eb1": {
+      "title": "Fralda Pampers Confort Sec P 72 Unidades",
+      "posted_at": "2026-08-29T17:50:57.803516"
     }
   },
   "results": [
@@ -11481,6 +11485,14 @@
       "post_id": "613",
       "error": null,
       "at": "2026-08-29T16:00:55.582019"
+    },
+    {
+      "offer_id": "236c0061795a9eb1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "614",
+      "error": null,
+      "at": "2026-08-29T17:50:57.802806"
     }
   ]
 }
