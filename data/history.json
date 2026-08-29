@@ -2395,6 +2395,14 @@
     "e6815ad5a9ca6f1c": {
       "title": "Fralda Mili Baby XXG 16 unidades",
       "posted_at": "2026-08-29T11:41:04.478386"
+    },
+    "5a878c26c667ccf4": {
+      "title": "Bicicleta de Equilibrio Andador Infantil sem Pedal",
+      "posted_at": "2026-08-29T13:20:52.571277"
+    },
+    "898424390fdfa50b": {
+      "title": "Cinta Termica Alivia Colica Bebe Compressa Quente Buba",
+      "posted_at": "2026-08-29T13:21:15.536721"
     }
   },
   "results": [
@@ -11397,6 +11405,22 @@
       "post_id": "606",
       "error": null,
       "at": "2026-08-29T11:41:04.477796"
+    },
+    {
+      "offer_id": "5a878c26c667ccf4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "607",
+      "error": null,
+      "at": "2026-08-29T13:20:52.570534"
+    },
+    {
+      "offer_id": "898424390fdfa50b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "608",
+      "error": null,
+      "at": "2026-08-29T13:21:15.536070"
     }
   ]
 }
