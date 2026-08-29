@@ -2387,6 +2387,14 @@
     "7cf0774c5e708e06": {
       "title": "Tapete Infantil Emborrachado Impermeável",
       "posted_at": "2026-08-29T11:01:01.143876"
+    },
+    "ace2e92b6891218b": {
+      "title": "Babador para Bebê Impermeável Com Bolso",
+      "posted_at": "2026-08-29T11:40:52.349097"
+    },
+    "e6815ad5a9ca6f1c": {
+      "title": "Fralda Mili Baby XXG 16 unidades",
+      "posted_at": "2026-08-29T11:41:04.478386"
     }
   },
   "results": [
@@ -11373,6 +11381,22 @@
       "post_id": "604",
       "error": null,
       "at": "2026-08-29T11:01:01.143371"
+    },
+    {
+      "offer_id": "ace2e92b6891218b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "605",
+      "error": null,
+      "at": "2026-08-29T11:40:52.348470"
+    },
+    {
+      "offer_id": "e6815ad5a9ca6f1c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "606",
+      "error": null,
+      "at": "2026-08-29T11:41:04.477796"
     }
   ]
 }

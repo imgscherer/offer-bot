@@ -1,5 +1,29 @@
 [
   {
+    "id": "e6815ad5a9ca6f1c",
+    "title": "Fralda Mili Baby XXG 16 unidades",
+    "price_now": 17.09,
+    "price_was": 34.89,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B07G5PQ8VH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/294578213617880030141831296072.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-29T11:41:04.478100"
+  },
+  {
+    "id": "ace2e92b6891218b",
+    "title": "Babador para Bebê Impermeável Com Bolso",
+    "price_now": 15.99,
+    "price_was": 38.07,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/4VcNMFSVG4?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/292561623417880025307378348917.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-29T11:40:52.348804"
+  },
+  {
     "id": "7cf0774c5e708e06",
     "title": "Tapete Infantil Emborrachado Impermeável",
     "price_now": 55.92,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-08-28T19:32:18.308779"
-  },
-  {
-    "id": "50155f70cb8c360c",
-    "title": "50 Mini Pezinhos Lembrancinha - Chá de Fralda (25 Pares) Sabonetes Perfumados Saida  de Maternidade",
-    "price_now": 38.5,
-    "price_was": 70.0,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/1BLuKsl7zp",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj1pfgoogkjq19",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-08-28T19:32:17.015700"
-  },
-  {
-    "id": "96618a82fe0eaf7d",
-    "title": "50 Sabonetes Perfumados com Mini Pezinhos para Lembrança de Chá de Fralda Infantil 25 pares",
-    "price_now": 38.5,
-    "price_was": 70.0,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/2LXrj1ggcu",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mpzghyxiwk5cdb",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-08-28T19:32:15.658764"
   }
 ]
