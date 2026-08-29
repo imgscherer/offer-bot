@@ -2427,6 +2427,14 @@
     "236c0061795a9eb1": {
       "title": "Fralda Pampers Confort Sec P 72 Unidades",
       "posted_at": "2026-08-29T17:50:57.803516"
+    },
+    "f583a6bb215e4ff3": {
+      "title": "RWX VEST Sunga Divertida com Estampa de Dinossauros - Bebês 2024 B3134",
+      "posted_at": "2026-08-29T18:20:37.616922"
+    },
+    "f6a3ffc60bac3930": {
+      "title": "RWX VEST Sunga Divertida para Bebê com Estampa de Animais e Futebol 2025  B3135",
+      "posted_at": "2026-08-29T18:20:40.201469"
     }
   },
   "results": [
@@ -11493,6 +11501,22 @@
       "post_id": "614",
       "error": null,
       "at": "2026-08-29T17:50:57.802806"
+    },
+    {
+      "offer_id": "f583a6bb215e4ff3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "615",
+      "error": null,
+      "at": "2026-08-29T18:20:37.616261"
+    },
+    {
+      "offer_id": "f6a3ffc60bac3930",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "616",
+      "error": null,
+      "at": "2026-08-29T18:20:40.200812"
     }
   ]
 }
