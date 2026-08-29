@@ -1,5 +1,17 @@
 [
   {
+    "id": "9d8a6b89376e3e67",
+    "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso, 400ml",
+    "price_now": 20.0,
+    "price_was": 34.99,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B0BFJHYD5X?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/332180211817880163889027530324.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-29T15:30:44.913059"
+  },
+  {
     "id": "5196c84d857c6115",
     "title": "Fralda Pampers Confort Sec Tamanho XXG 82 Unidades",
     "price_now": 104.49,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-29T01:50:55.041753"
-  },
-  {
-    "id": "8bd7bdfb1d2c3a96",
-    "title": "Mictório Infantil Sapinho Pimpolho",
-    "price_now": 10.24,
-    "price_was": 49.9,
-    "discount_pct": 79,
-    "url": "https://www.amazon.com.br/dp/B0BZQSSYWV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/526736547817879530281732206172.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-28T22:30:53.824284"
   }
 ]

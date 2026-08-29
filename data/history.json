@@ -2415,6 +2415,10 @@
     "5196c84d857c6115": {
       "title": "Fralda Pampers Confort Sec Tamanho XXG 82 Unidades",
       "posted_at": "2026-08-29T15:20:49.255911"
+    },
+    "9d8a6b89376e3e67": {
+      "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso, 400ml",
+      "posted_at": "2026-08-29T15:30:44.913415"
     }
   },
   "results": [
@@ -11457,6 +11461,14 @@
       "post_id": "611",
       "error": null,
       "at": "2026-08-29T15:20:49.255194"
+    },
+    {
+      "offer_id": "9d8a6b89376e3e67",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "612",
+      "error": null,
+      "at": "2026-08-29T15:30:44.912692"
     }
   ]
 }
