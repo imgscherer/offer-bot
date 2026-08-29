@@ -2403,6 +2403,10 @@
     "898424390fdfa50b": {
       "title": "Cinta Termica Alivia Colica Bebe Compressa Quente Buba",
       "posted_at": "2026-08-29T13:21:15.536721"
+    },
+    "b61527c56762331b": {
+      "title": "Tapete Infantil Inflável de Água (3 Cores)",
+      "posted_at": "2026-08-29T13:50:51.041962"
     }
   },
   "results": [
@@ -11421,6 +11425,14 @@
       "post_id": "608",
       "error": null,
       "at": "2026-08-29T13:21:15.536070"
+    },
+    {
+      "offer_id": "b61527c56762331b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "609",
+      "error": null,
+      "at": "2026-08-29T13:50:50.934662"
     }
   ]
 }
