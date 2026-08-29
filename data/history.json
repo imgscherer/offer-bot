@@ -2379,6 +2379,10 @@
     "7e9b6d69cc0dc29e": {
       "title": "Suporte para Babá Eletrônica Berço Universal Ajustável Sem Furos Fácil Instalar Baby Monitor",
       "posted_at": "2026-08-29T09:00:50.618355"
+    },
+    "4ab9a9765f819e8c": {
+      "title": "Brinquedo De Madeira Carrinho De Boneca Rosa Büp Baby",
+      "posted_at": "2026-08-29T10:30:42.260001"
     }
   },
   "results": [
@@ -11349,6 +11353,14 @@
       "post_id": "602",
       "error": null,
       "at": "2026-08-29T09:00:50.617641"
+    },
+    {
+      "offer_id": "4ab9a9765f819e8c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "603",
+      "error": null,
+      "at": "2026-08-29T10:30:42.259284"
     }
   ]
 }
