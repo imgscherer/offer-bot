@@ -2407,6 +2407,10 @@
     "b61527c56762331b": {
       "title": "Tapete Infantil Inflável de Água (3 Cores)",
       "posted_at": "2026-08-29T13:50:51.041962"
+    },
+    "90b76e91d8b9da05": {
+      "title": "Tênis Infantil Klin Original (Tam. 28 ao 36, 3 Cores)",
+      "posted_at": "2026-08-29T14:30:53.197756"
     }
   },
   "results": [
@@ -11433,6 +11437,14 @@
       "post_id": "609",
       "error": null,
       "at": "2026-08-29T13:50:50.934662"
+    },
+    {
+      "offer_id": "90b76e91d8b9da05",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "610",
+      "error": null,
+      "at": "2026-08-29T14:30:53.197070"
     }
   ]
 }
