@@ -2411,6 +2411,10 @@
     "90b76e91d8b9da05": {
       "title": "Tênis Infantil Klin Original (Tam. 28 ao 36, 3 Cores)",
       "posted_at": "2026-08-29T14:30:53.197756"
+    },
+    "5196c84d857c6115": {
+      "title": "Fralda Pampers Confort Sec Tamanho XXG 82 Unidades",
+      "posted_at": "2026-08-29T15:20:49.255911"
     }
   },
   "results": [
@@ -11445,6 +11449,14 @@
       "post_id": "610",
       "error": null,
       "at": "2026-08-29T14:30:53.197070"
+    },
+    {
+      "offer_id": "5196c84d857c6115",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "611",
+      "error": null,
+      "at": "2026-08-29T15:20:49.255194"
     }
   ]
 }
