@@ -1,5 +1,17 @@
 [
   {
+    "id": "8be44834e9cc396e",
+    "title": "Carrinho Bate e Pula Super Divertido Colorido Presente que toda criança Ama",
+    "price_now": 19.57,
+    "price_was": 57.56,
+    "discount_pct": 66,
+    "url": "https://s.shopee.com.br/qj3RGWyM7",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk3qdc4yv01v67",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-08-30T11:40:42.535779"
+  },
+  {
     "id": "38b059e297f65e15",
     "title": "Lençol Protetor Ajustável Macio e Impermeável Avulso Para Colchão Berço Solteiro Casal Queen e King",
     "price_now": 19.95,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-29T13:20:52.570889"
-  },
-  {
-    "id": "e6815ad5a9ca6f1c",
-    "title": "Fralda Mili Baby XXG 16 unidades",
-    "price_now": 17.09,
-    "price_was": 34.89,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B07G5PQ8VH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/294578213617880030141831296072.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-29T11:41:04.478100"
   }
 ]

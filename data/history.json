@@ -2439,6 +2439,10 @@
     "38b059e297f65e15": {
       "title": "Lençol Protetor Ajustável Macio e Impermeável Avulso Para Colchão Berço Solteiro Casal Queen e King",
       "posted_at": "2026-08-29T21:00:47.785417"
+    },
+    "8be44834e9cc396e": {
+      "title": "Carrinho Bate e Pula Super Divertido Colorido Presente que toda criança Ama",
+      "posted_at": "2026-08-30T11:40:42.536054"
     }
   },
   "results": [
@@ -11529,6 +11533,14 @@
       "post_id": "617",
       "error": null,
       "at": "2026-08-29T21:00:47.784728"
+    },
+    {
+      "offer_id": "8be44834e9cc396e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "618",
+      "error": null,
+      "at": "2026-08-30T11:40:42.535453"
     }
   ]
 }
