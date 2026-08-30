@@ -2447,6 +2447,10 @@
     "7e5c29930a4422f4": {
       "title": "Kit Cuidados Bebe Reborn Azul Acessorios Boneca Mamadeira magica Fralda Copo Suco Chupeta Brinquedos",
       "posted_at": "2026-08-30T17:50:39.227856"
+    },
+    "2478d0ee618f374c": {
+      "title": "Fralda Cremer Jumbo P 30 Unidades",
+      "posted_at": "2026-08-30T21:50:48.770129"
     }
   },
   "results": [
@@ -11689,6 +11693,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-08-30T21:40:39.779318"
+    },
+    {
+      "offer_id": "2478d0ee618f374c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "620",
+      "error": null,
+      "at": "2026-08-30T21:50:48.494652"
+    },
+    {
+      "offer_id": "37d8c65feb2254cf",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-08-30T21:50:54.695123"
     }
   ]
 }

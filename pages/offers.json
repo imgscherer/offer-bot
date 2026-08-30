@@ -1,5 +1,17 @@
 [
   {
+    "id": "2478d0ee618f374c",
+    "title": "Fralda Cremer Jumbo P 30 Unidades",
+    "price_now": 18.0,
+    "price_was": 30.99,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B08BXQFMZK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/194257419917881257074873672668.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-30T21:50:48.494961"
+  },
+  {
     "id": "7e5c29930a4422f4",
     "title": "Kit Cuidados Bebe Reborn Azul Acessorios Boneca Mamadeira magica Fralda Copo Suco Chupeta Brinquedos",
     "price_now": 51.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-29T13:50:50.935006"
-  },
-  {
-    "id": "898424390fdfa50b",
-    "title": "Cinta Termica Alivia Colica Bebe Compressa Quente Buba",
-    "price_now": 34.0,
-    "price_was": 59.86,
-    "discount_pct": 43,
-    "url": "https://s.shopee.com.br/70JiRVJCtd?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/495106556317880083504165891132.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-29T13:21:15.536397"
   }
 ]
