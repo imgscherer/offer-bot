@@ -2443,6 +2443,10 @@
     "8be44834e9cc396e": {
       "title": "Carrinho Bate e Pula Super Divertido Colorido Presente que toda criança Ama",
       "posted_at": "2026-08-30T11:40:42.536054"
+    },
+    "7e5c29930a4422f4": {
+      "title": "Kit Cuidados Bebe Reborn Azul Acessorios Boneca Mamadeira magica Fralda Copo Suco Chupeta Brinquedos",
+      "posted_at": "2026-08-30T17:50:39.227856"
     }
   },
   "results": [
@@ -11541,6 +11545,14 @@
       "post_id": "618",
       "error": null,
       "at": "2026-08-30T11:40:42.535453"
+    },
+    {
+      "offer_id": "7e5c29930a4422f4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "619",
+      "error": null,
+      "at": "2026-08-30T17:50:39.227239"
     }
   ]
 }
