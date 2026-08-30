@@ -1,5 +1,65 @@
 [
   {
+    "id": "b351cd6a1f238524",
+    "title": "Mochila Maternidade 2 em 1 New York Preto - 01 Peça",
+    "price_now": 229.9,
+    "price_was": 403.33,
+    "discount_pct": 43,
+    "url": "https://s.shopee.com.br/50YgK1MYlG",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lpgmhd8ax2md3d",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-08-30T23:00:51.806137"
+  },
+  {
+    "id": "15d14dd92b2bc62b",
+    "title": "Mochila Maternidade 2 em 1 New York Cacau/Off - 01 Peça",
+    "price_now": 229.9,
+    "price_was": 403.33,
+    "discount_pct": 43,
+    "url": "https://s.shopee.com.br/1BLxkyb9X9",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mrajohqocxdz09",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-08-30T23:00:49.052753"
+  },
+  {
+    "id": "2ad91c0aed83c458",
+    "title": "Mini Mochila Maternidade Personalizada Star - 01 Peça",
+    "price_now": 179.9,
+    "price_was": 327.09,
+    "discount_pct": 45,
+    "url": "https://s.shopee.com.br/5As6WKLvQJ",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98p-lmhk0k6nsqgm20",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-08-30T23:00:45.769572"
+  },
+  {
+    "id": "e6bd50546d3a4a02",
+    "title": "Mala Maternidade Luxo Menina/Menino Personalizada Sonho - 01 Peça",
+    "price_now": 319.9,
+    "price_was": 615.19,
+    "discount_pct": 48,
+    "url": "https://s.shopee.com.br/60RDVrIkjY",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbmo1kt3icfs97",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-08-30T23:00:44.688444"
+  },
+  {
+    "id": "4d8aa95eb14fa888",
+    "title": "Bag M Maternidade Menina Celina Borboletas Pérola/Rosa - 01 Peça",
+    "price_now": 299.9,
+    "price_was": 624.79,
+    "discount_pct": 52,
+    "url": "https://s.shopee.com.br/4VcPj6OSmF",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc7x24ss1140b3",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-08-30T23:00:41.706582"
+  },
+  {
     "id": "2478d0ee618f374c",
     "title": "Fralda Cremer Jumbo P 30 Unidades",
     "price_now": 18.0,
@@ -82,65 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-29T17:50:57.803156"
-  },
-  {
-    "id": "d5f93ce13ee72225",
-    "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
-    "price_now": 13.0,
-    "price_was": 22.69,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B095D664HJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/192469977317880190319339794803.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-29T16:00:55.582319"
-  },
-  {
-    "id": "9d8a6b89376e3e67",
-    "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso, 400ml",
-    "price_now": 20.0,
-    "price_was": 34.99,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B0BFJHYD5X?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/332180211817880163889027530324.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-29T15:30:44.913059"
-  },
-  {
-    "id": "5196c84d857c6115",
-    "title": "Fralda Pampers Confort Sec Tamanho XXG 82 Unidades",
-    "price_now": 104.49,
-    "price_was": 149.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0GW3YY6FY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/621264869117880161583125790607.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-29T15:20:49.255547"
-  },
-  {
-    "id": "90b76e91d8b9da05",
-    "title": "Tênis Infantil Klin Original (Tam. 28 ao 36, 3 Cores)",
-    "price_now": 144.4,
-    "price_was": 223.38,
-    "discount_pct": 35,
-    "url": "https://s.shopee.com.br/3VjqMlqrgF?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/339959794617880133389122086217.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-29T14:30:53.197410"
-  },
-  {
-    "id": "b61527c56762331b",
-    "title": "Tapete Infantil Inflável de Água (3 Cores)",
-    "price_now": 22.39,
-    "price_was": 59.55,
-    "discount_pct": 62,
-    "url": "https://s.shopee.com.br/AUtafNLF2d?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/595462200017880113551194764150.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-29T13:50:50.935006"
   }
 ]
