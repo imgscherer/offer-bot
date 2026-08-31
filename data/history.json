@@ -2499,6 +2499,10 @@
     "aa2e5a0970f04890": {
       "title": "Paninho De Boca Soft Premium Papi Baby CPrendedor De Chupeta 32Cm X 32Cm 03 Un",
       "posted_at": "2026-08-31T14:10:49.829535"
+    },
+    "dfa1d8d79c06ec2f": {
+      "title": "Escorredor De Mamadeira Clingo",
+      "posted_at": "2026-08-31T14:20:48.812398"
     }
   },
   "results": [
@@ -12501,6 +12505,14 @@
       "post_id": "632",
       "error": null,
       "at": "2026-08-31T14:10:49.828968"
+    },
+    {
+      "offer_id": "dfa1d8d79c06ec2f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "633",
+      "error": null,
+      "at": "2026-08-31T14:20:48.811536"
     }
   ]
 }

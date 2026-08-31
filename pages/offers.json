@@ -1,5 +1,17 @@
 [
   {
+    "id": "dfa1d8d79c06ec2f",
+    "title": "Escorredor De Mamadeira Clingo",
+    "price_now": 31.0,
+    "price_was": 49.9,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B07MWT9NND?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/701456134717881854763396786953.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-31T14:20:48.811984"
+  },
+  {
     "id": "aa2e5a0970f04890",
     "title": "Paninho De Boca Soft Premium Papi Baby CPrendedor De Chupeta 32Cm X 32Cm 03 Un",
     "price_now": 11.06,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-08-30T23:00:44.688444"
-  },
-  {
-    "id": "4d8aa95eb14fa888",
-    "title": "Bag M Maternidade Menina Celina Borboletas Pérola/Rosa - 01 Peça",
-    "price_now": 299.9,
-    "price_was": 624.79,
-    "discount_pct": 52,
-    "url": "https://s.shopee.com.br/4VcPj6OSmF",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc7x24ss1140b3",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-08-30T23:00:41.706582"
   }
 ]
