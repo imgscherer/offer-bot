@@ -2503,6 +2503,18 @@
     "dfa1d8d79c06ec2f": {
       "title": "Escorredor De Mamadeira Clingo",
       "posted_at": "2026-08-31T14:20:48.812398"
+    },
+    "a8a76653a9621d4f": {
+      "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
+      "posted_at": "2026-08-31T15:30:48.906430"
+    },
+    "9916cf8da98a011e": {
+      "title": "Sabonete Líquido Granado Bebê Tradicional Refil 250ml",
+      "posted_at": "2026-08-31T15:30:57.489109"
+    },
+    "268a524a7125e0cb": {
+      "title": "Kit Boneca acessórios Fralda Mamadeira Chupeta prendedor Bolsa Brinquedo Menina Adesivos Reborn Baby",
+      "posted_at": "2026-08-31T15:30:59.977181"
     }
   },
   "results": [
@@ -12513,6 +12525,30 @@
       "post_id": "633",
       "error": null,
       "at": "2026-08-31T14:20:48.811536"
+    },
+    {
+      "offer_id": "a8a76653a9621d4f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "634",
+      "error": null,
+      "at": "2026-08-31T15:30:48.905809"
+    },
+    {
+      "offer_id": "9916cf8da98a011e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "635",
+      "error": null,
+      "at": "2026-08-31T15:30:57.488470"
+    },
+    {
+      "offer_id": "268a524a7125e0cb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "636",
+      "error": null,
+      "at": "2026-08-31T15:30:59.976556"
     }
   ]
 }

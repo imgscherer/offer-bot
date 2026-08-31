@@ -1,5 +1,41 @@
 [
   {
+    "id": "268a524a7125e0cb",
+    "title": "Kit Boneca acessórios Fralda Mamadeira Chupeta prendedor Bolsa Brinquedo Menina Adesivos Reborn Baby",
+    "price_now": 54.0,
+    "price_was": 79.41,
+    "discount_pct": 32,
+    "url": "https://s.shopee.com.br/8plPz3YHRW",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mnj5y22pof7l3f",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-08-31T15:30:59.976887"
+  },
+  {
+    "id": "9916cf8da98a011e",
+    "title": "Sabonete Líquido Granado Bebê Tradicional Refil 250ml",
+    "price_now": 15.0,
+    "price_was": 23.89,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B07D2FXHM1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/912126528217881898655657421899.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-31T15:30:57.488809"
+  },
+  {
+    "id": "a8a76653a9621d4f",
+    "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
+    "price_now": 46.0,
+    "price_was": 88.63,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/645278176517881891544189334993.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-31T15:30:48.906129"
+  },
+  {
     "id": "dfa1d8d79c06ec2f",
     "title": "Escorredor De Mamadeira Clingo",
     "price_now": 31.0,
@@ -106,41 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-08-30T23:00:51.806137"
-  },
-  {
-    "id": "15d14dd92b2bc62b",
-    "title": "Mochila Maternidade 2 em 1 New York Cacau/Off - 01 Peça",
-    "price_now": 229.9,
-    "price_was": 403.33,
-    "discount_pct": 43,
-    "url": "https://s.shopee.com.br/1BLxkyb9X9",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mrajohqocxdz09",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-08-30T23:00:49.052753"
-  },
-  {
-    "id": "2ad91c0aed83c458",
-    "title": "Mini Mochila Maternidade Personalizada Star - 01 Peça",
-    "price_now": 179.9,
-    "price_was": 327.09,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/5As6WKLvQJ",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98p-lmhk0k6nsqgm20",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-08-30T23:00:45.769572"
-  },
-  {
-    "id": "e6bd50546d3a4a02",
-    "title": "Mala Maternidade Luxo Menina/Menino Personalizada Sonho - 01 Peça",
-    "price_now": 319.9,
-    "price_was": 615.19,
-    "discount_pct": 48,
-    "url": "https://s.shopee.com.br/60RDVrIkjY",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbmo1kt3icfs97",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-08-30T23:00:44.688444"
   }
 ]
