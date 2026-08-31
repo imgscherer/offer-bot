@@ -2479,6 +2479,10 @@
     "5f4758c188402b86": {
       "title": "Fralda Pants Huggies Supreme Care XXG 144 Unidades",
       "posted_at": "2026-08-31T10:51:06.320500"
+    },
+    "ecb6949493566f88": {
+      "title": "Fralda Personal Baby Total Protect Pants M 28 Unidades",
+      "posted_at": "2026-08-31T11:41:00.037481"
     }
   },
   "results": [
@@ -12393,6 +12397,14 @@
       "post_id": "627",
       "error": null,
       "at": "2026-08-31T10:51:06.319899"
+    },
+    {
+      "offer_id": "ecb6949493566f88",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "628",
+      "error": null,
+      "at": "2026-08-31T11:41:00.036826"
     }
   ]
 }
