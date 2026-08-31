@@ -1,5 +1,17 @@
 [
   {
+    "id": "53a024737812e12c",
+    "title": "Lenço Umedecido Piquitucho Premium 120 unidades",
+    "price_now": 9.0,
+    "price_was": 16.99,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B0781CTJF6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/601191183617882058667895238846.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-31T20:00:53.622093"
+  },
+  {
     "id": "d7dbd07d1e9f4415",
     "title": "Lenço Umedecido Piquitucho Premium 120 unidades",
     "price_now": 9.49,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-31T13:01:03.141690"
-  },
-  {
-    "id": "ecb6949493566f88",
-    "title": "Fralda Personal Baby Total Protect Pants M 28 Unidades",
-    "price_now": 26.99,
-    "price_was": 39.49,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/384629909717881759468224556582.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-31T11:41:00.037184"
   }
 ]

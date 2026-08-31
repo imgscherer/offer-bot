@@ -2527,6 +2527,10 @@
     "d7dbd07d1e9f4415": {
       "title": "Lenço Umedecido Piquitucho Premium 120 unidades",
       "posted_at": "2026-08-31T18:20:54.475352"
+    },
+    "53a024737812e12c": {
+      "title": "Lenço Umedecido Piquitucho Premium 120 unidades",
+      "posted_at": "2026-08-31T20:00:53.622441"
     }
   },
   "results": [
@@ -12585,6 +12589,14 @@
       "post_id": "639",
       "error": null,
       "at": "2026-08-31T18:20:54.474718"
+    },
+    {
+      "offer_id": "53a024737812e12c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "640",
+      "error": null,
+      "at": "2026-08-31T20:00:53.621710"
     }
   ]
 }
