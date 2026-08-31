@@ -2515,6 +2515,10 @@
     "268a524a7125e0cb": {
       "title": "Kit Boneca acessórios Fralda Mamadeira Chupeta prendedor Bolsa Brinquedo Menina Adesivos Reborn Baby",
       "posted_at": "2026-08-31T15:30:59.977181"
+    },
+    "85fcc4b7721f116d": {
+      "title": "Creme Assaduras Dermocalmante Bebê Pele Sensíveis Granado 50G",
+      "posted_at": "2026-08-31T16:40:40.885441"
     }
   },
   "results": [
@@ -12549,6 +12553,14 @@
       "post_id": "636",
       "error": null,
       "at": "2026-08-31T15:30:59.976556"
+    },
+    {
+      "offer_id": "85fcc4b7721f116d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "637",
+      "error": null,
+      "at": "2026-08-31T16:40:40.884508"
     }
   ]
 }
