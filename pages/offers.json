@@ -1,5 +1,17 @@
 [
   {
+    "id": "be140d39bcc9d518",
+    "title": "Troninho Infantil Cinza Buba",
+    "price_now": 33.18,
+    "price_was": 82.9,
+    "discount_pct": 60,
+    "url": "https://www.amazon.com.br/dp/B087NNJ55R?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/522584545817881981288812697767.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-31T17:50:46.659573"
+  },
+  {
     "id": "85fcc4b7721f116d",
     "title": "Creme Assaduras Dermocalmante Bebê Pele Sensíveis Granado 50G",
     "price_now": 22.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-31T10:51:06.320216"
-  },
-  {
-    "id": "ad0dbf63fc99f197",
-    "title": "Fralda Huggies Supreme Care P 28 Unidades",
-    "price_now": 21.85,
-    "price_was": 47.07,
-    "discount_pct": 54,
-    "url": "https://www.amazon.com.br/dp/B07Y29HTHB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/316645649917881728087298621982.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-31T10:50:52.246780"
   }
 ]

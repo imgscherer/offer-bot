@@ -2519,6 +2519,10 @@
     "85fcc4b7721f116d": {
       "title": "Creme Assaduras Dermocalmante Bebê Pele Sensíveis Granado 50G",
       "posted_at": "2026-08-31T16:40:40.885441"
+    },
+    "be140d39bcc9d518": {
+      "title": "Troninho Infantil Cinza Buba",
+      "posted_at": "2026-08-31T17:50:46.662218"
     }
   },
   "results": [
@@ -12561,6 +12565,14 @@
       "post_id": "637",
       "error": null,
       "at": "2026-08-31T16:40:40.884508"
+    },
+    {
+      "offer_id": "be140d39bcc9d518",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "638",
+      "error": null,
+      "at": "2026-08-31T17:50:46.659240"
     }
   ]
 }
