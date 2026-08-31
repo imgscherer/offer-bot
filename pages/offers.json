@@ -1,5 +1,17 @@
 [
   {
+    "id": "c69b640c4adf28c5",
+    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+    "price_now": 47.0,
+    "price_was": 72.65,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/205880313117881810531768892521.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-31T13:01:03.141690"
+  },
+  {
     "id": "ecb6949493566f88",
     "title": "Fralda Personal Baby Total Protect Pants M 28 Unidades",
     "price_now": 26.99,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-08-30T11:40:42.535779"
-  },
-  {
-    "id": "38b059e297f65e15",
-    "title": "Lençol Protetor Ajustável Macio e Impermeável Avulso Para Colchão Berço Solteiro Casal Queen e King",
-    "price_now": 19.95,
-    "price_was": 39.9,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/8Kp6Z1dio6",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfb2i620f39be",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-08-29T21:00:47.785100"
   }
 ]
