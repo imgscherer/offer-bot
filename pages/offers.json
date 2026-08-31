@@ -1,5 +1,17 @@
 [
   {
+    "id": "d7dbd07d1e9f4415",
+    "title": "Lenço Umedecido Piquitucho Premium 120 unidades",
+    "price_now": 9.49,
+    "price_was": 16.99,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B0781CTJF6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/532324927617881995773815981835.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-31T18:20:54.475102"
+  },
+  {
     "id": "be140d39bcc9d518",
     "title": "Troninho Infantil Cinza Buba",
     "price_now": 33.18,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-31T11:41:00.037184"
-  },
-  {
-    "id": "5f4758c188402b86",
-    "title": "Fralda Pants Huggies Supreme Care XXG 144 Unidades",
-    "price_now": 197.0,
-    "price_was": 289.0,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0FPSX9VDZ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/147821504617881724471386365296.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-31T10:51:06.320216"
   }
 ]

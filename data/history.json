@@ -2523,6 +2523,10 @@
     "be140d39bcc9d518": {
       "title": "Troninho Infantil Cinza Buba",
       "posted_at": "2026-08-31T17:50:46.662218"
+    },
+    "d7dbd07d1e9f4415": {
+      "title": "Lenço Umedecido Piquitucho Premium 120 unidades",
+      "posted_at": "2026-08-31T18:20:54.475352"
     }
   },
   "results": [
@@ -12573,6 +12577,14 @@
       "post_id": "638",
       "error": null,
       "at": "2026-08-31T17:50:46.659240"
+    },
+    {
+      "offer_id": "d7dbd07d1e9f4415",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "639",
+      "error": null,
+      "at": "2026-08-31T18:20:54.474718"
     }
   ]
 }
