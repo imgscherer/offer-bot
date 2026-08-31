@@ -2491,6 +2491,10 @@
     "96e1f876f317d68a": {
       "title": "Fralda Pants Huggies Supreme Care G 60 Unidades",
       "posted_at": "2026-08-31T13:11:04.786160"
+    },
+    "f1b545f3fd6036d5": {
+      "title": "60 Mini Pezinhos Chá de Bebê- Fralda - Saida de materindade - Revelação -  Lembrancinha - (30 Pares)",
+      "posted_at": "2026-08-31T13:50:35.541442"
     }
   },
   "results": [
@@ -12477,6 +12481,14 @@
       "post_id": "630",
       "error": null,
       "at": "2026-08-31T13:11:04.785569"
+    },
+    {
+      "offer_id": "f1b545f3fd6036d5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "631",
+      "error": null,
+      "at": "2026-08-31T13:50:35.540829"
     }
   ]
 }
