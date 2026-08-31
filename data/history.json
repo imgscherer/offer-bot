@@ -2471,6 +2471,14 @@
     "b351cd6a1f238524": {
       "title": "Mochila Maternidade 2 em 1 New York Preto - 01 Peça",
       "posted_at": "2026-08-30T23:00:51.806492"
+    },
+    "ad0dbf63fc99f197": {
+      "title": "Fralda Huggies Supreme Care P 28 Unidades",
+      "posted_at": "2026-08-31T10:50:52.247035"
+    },
+    "5f4758c188402b86": {
+      "title": "Fralda Pants Huggies Supreme Care XXG 144 Unidades",
+      "posted_at": "2026-08-31T10:51:06.320500"
     }
   },
   "results": [
@@ -12369,6 +12377,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-08-31T10:40:39.783341"
+    },
+    {
+      "offer_id": "ad0dbf63fc99f197",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "626",
+      "error": null,
+      "at": "2026-08-31T10:50:52.246511"
+    },
+    {
+      "offer_id": "5f4758c188402b86",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "627",
+      "error": null,
+      "at": "2026-08-31T10:51:06.319899"
     }
   ]
 }

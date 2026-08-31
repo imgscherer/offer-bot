@@ -1,5 +1,29 @@
 [
   {
+    "id": "5f4758c188402b86",
+    "title": "Fralda Pants Huggies Supreme Care XXG 144 Unidades",
+    "price_now": 197.0,
+    "price_was": 289.0,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0FPSX9VDZ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/147821504617881724471386365296.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-31T10:51:06.320216"
+  },
+  {
+    "id": "ad0dbf63fc99f197",
+    "title": "Fralda Huggies Supreme Care P 28 Unidades",
+    "price_now": 21.85,
+    "price_was": 47.07,
+    "discount_pct": 54,
+    "url": "https://www.amazon.com.br/dp/B07Y29HTHB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/316645649917881728087298621982.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-08-31T10:50:52.246780"
+  },
+  {
     "id": "b351cd6a1f238524",
     "title": "Mochila Maternidade 2 em 1 New York Preto - 01 Peça",
     "price_now": 229.9,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-08-29T18:20:40.201108"
-  },
-  {
-    "id": "f583a6bb215e4ff3",
-    "title": "RWX VEST Sunga Divertida com Estampa de Dinossauros - Bebês 2024 B3134",
-    "price_now": 29.98,
-    "price_was": 90.85,
-    "discount_pct": 67,
-    "url": "https://s.shopee.com.br/80CFzPZ2SP",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m54frivcca4w5c",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-08-29T18:20:37.616599"
-  },
-  {
-    "id": "236c0061795a9eb1",
-    "title": "Fralda Pampers Confort Sec P 72 Unidades",
-    "price_now": 79.0,
-    "price_was": 118.1,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B095D5PSPG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/924949102517880255077039607091.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-29T17:50:57.803156"
   }
 ]
