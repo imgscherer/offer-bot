@@ -1,5 +1,17 @@
 [
   {
+    "id": "d0a41e65fd99eacc",
+    "title": "Granado Shampoo Bebê, Erva-Doce, 250ml",
+    "price_now": 14.0,
+    "price_was": 20.26,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B00TAC03RO?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/831071183517882671301343997900.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T13:10:49.511395"
+  },
+  {
     "id": "a8ece3563c631653",
     "title": "Fralda Pants Huggies Supreme Care G 60 Unidades",
     "price_now": 75.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-08-31T15:30:59.976887"
-  },
-  {
-    "id": "9916cf8da98a011e",
-    "title": "Sabonete Líquido Granado Bebê Tradicional Refil 250ml",
-    "price_now": 15.0,
-    "price_was": 23.89,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B07D2FXHM1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/912126528217881898655657421899.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-31T15:30:57.488809"
   }
 ]

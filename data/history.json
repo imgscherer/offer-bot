@@ -2555,6 +2555,10 @@
     "a8ece3563c631653": {
       "title": "Fralda Pants Huggies Supreme Care G 60 Unidades",
       "posted_at": "2026-09-01T11:50:50.719265"
+    },
+    "d0a41e65fd99eacc": {
+      "title": "Granado Shampoo Bebê, Erva-Doce, 250ml",
+      "posted_at": "2026-09-01T13:10:49.511726"
     }
   },
   "results": [
@@ -12669,6 +12673,14 @@
       "post_id": "646",
       "error": null,
       "at": "2026-09-01T11:50:50.718545"
+    },
+    {
+      "offer_id": "d0a41e65fd99eacc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "647",
+      "error": null,
+      "at": "2026-09-01T13:10:49.511061"
     }
   ]
 }
