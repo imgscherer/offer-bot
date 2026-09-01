@@ -1,5 +1,17 @@
 [
   {
+    "id": "d85c4b516f45d42d",
+    "title": "8 Body Manga Curta Simple Joys by Carter's Bebê",
+    "price_now": 117.0,
+    "price_was": 171.98,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B08G8TGLV2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/347871062717882872303448657560.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T18:40:48.328274"
+  },
+  {
     "id": "06b349259fc6f323",
     "title": "Creme para Assadura Granado Bebê Dermocalmante 50g",
     "price_now": 22.39,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-01T13:31:12.210929"
-  },
-  {
-    "id": "d0a41e65fd99eacc",
-    "title": "Granado Shampoo Bebê, Erva-Doce, 250ml",
-    "price_now": 14.0,
-    "price_was": 20.26,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B00TAC03RO?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/831071183517882671301343997900.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T13:10:49.511395"
   }
 ]

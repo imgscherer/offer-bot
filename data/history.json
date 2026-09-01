@@ -2603,6 +2603,10 @@
     "06b349259fc6f323": {
       "title": "Creme para Assadura Granado Bebê Dermocalmante 50g",
       "posted_at": "2026-09-01T18:20:49.364570"
+    },
+    "d85c4b516f45d42d": {
+      "title": "8 Body Manga Curta Simple Joys by Carter's Bebê",
+      "posted_at": "2026-09-01T18:40:48.328642"
     }
   },
   "results": [
@@ -12813,6 +12817,14 @@
       "post_id": "658",
       "error": null,
       "at": "2026-09-01T18:20:49.363872"
+    },
+    {
+      "offer_id": "d85c4b516f45d42d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "659",
+      "error": null,
+      "at": "2026-09-01T18:40:48.327939"
     }
   ]
 }
