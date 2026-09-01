@@ -2583,6 +2583,22 @@
     "e159e945e17a6570": {
       "title": "Macacão Bebê Térmico Quentinho Menino Inverno com Estampa de Carrinho",
       "posted_at": "2026-09-01T16:31:26.351205"
+    },
+    "ab17b2a29f4918e1": {
+      "title": "100 Mini Pezinhos de Sabonete Perfumado para Lembrança de Chá de Fralda Infantil 50 pares",
+      "posted_at": "2026-09-01T17:00:48.060558"
+    },
+    "3bfa7e56bda6578e": {
+      "title": "25 Kits Lembrancinha Saída  de Maternidade, Chá Revelação,Chá de Fralda",
+      "posted_at": "2026-09-01T17:00:51.743858"
+    },
+    "8a439efb1a37033a": {
+      "title": "40 Mini Pezinhos de Sabonete Perfumado para Chá de Fralda Infantil 20 pares",
+      "posted_at": "2026-09-01T17:00:54.592918"
+    },
+    "3d6b67719c09baeb": {
+      "title": "40 Pares Lembrancinhas Chá de Fralda,Chá Revelação,Cha de bebe,Saida  de Maternidade",
+      "posted_at": "2026-09-01T17:00:57.176659"
     }
   },
   "results": [
@@ -12753,6 +12769,38 @@
       "post_id": "653",
       "error": null,
       "at": "2026-09-01T16:31:26.350562"
+    },
+    {
+      "offer_id": "ab17b2a29f4918e1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "654",
+      "error": null,
+      "at": "2026-09-01T17:00:48.059857"
+    },
+    {
+      "offer_id": "3bfa7e56bda6578e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "655",
+      "error": null,
+      "at": "2026-09-01T17:00:51.743226"
+    },
+    {
+      "offer_id": "8a439efb1a37033a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "656",
+      "error": null,
+      "at": "2026-09-01T17:00:54.592294"
+    },
+    {
+      "offer_id": "3d6b67719c09baeb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "657",
+      "error": null,
+      "at": "2026-09-01T17:00:57.175982"
     }
   ]
 }

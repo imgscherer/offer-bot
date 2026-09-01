@@ -1,5 +1,53 @@
 [
   {
+    "id": "3d6b67719c09baeb",
+    "title": "40 Pares Lembrancinhas Chá de Fralda,Chá Revelação,Cha de bebe,Saida  de Maternidade",
+    "price_now": 60.0,
+    "price_was": 100.0,
+    "discount_pct": 40,
+    "url": "https://s.shopee.com.br/9V18TLvifL",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj1osexwi329a9",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T17:00:57.176346"
+  },
+  {
+    "id": "8a439efb1a37033a",
+    "title": "40 Mini Pezinhos de Sabonete Perfumado para Chá de Fralda Infantil 20 pares",
+    "price_now": 48.0,
+    "price_was": 120.0,
+    "discount_pct": 60,
+    "url": "https://s.shopee.com.br/9fKYfev5KK",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mq6p73aybn5t33",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T17:00:54.592606"
+  },
+  {
+    "id": "3bfa7e56bda6578e",
+    "title": "25 Kits Lembrancinha Saída  de Maternidade, Chá Revelação,Chá de Fralda",
+    "price_now": 45.0,
+    "price_was": 150.0,
+    "discount_pct": 70,
+    "url": "https://s.shopee.com.br/8fS1ToytM6",
+    "image": "https://cf.shopee.com.br/file/br-11134201-7r98o-m9u5qdwsevwi9f",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T17:00:51.743535"
+  },
+  {
+    "id": "ab17b2a29f4918e1",
+    "title": "100 Mini Pezinhos de Sabonete Perfumado para Lembrança de Chá de Fralda Infantil 50 pares",
+    "price_now": 75.0,
+    "price_was": 300.0,
+    "discount_pct": 75,
+    "url": "https://s.shopee.com.br/8plRg7yG19",
+    "image": "https://cf.shopee.com.br/file/br-11134201-7r98o-m9u5zcmi5s1lbc",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T17:00:48.060234"
+  },
+  {
     "id": "e159e945e17a6570",
     "title": "Macacão Bebê Térmico Quentinho Menino Inverno com Estampa de Carrinho",
     "price_now": 53.28,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-01T11:50:50.718932"
-  },
-  {
-    "id": "32e52bd02f9ec496",
-    "title": "Huggies Fralda Premium Natural Care M - 78 Un",
-    "price_now": 87.0,
-    "price_was": 125.24,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/788290808917882624511201498294.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T11:41:15.569990"
-  },
-  {
-    "id": "dd354e7aa432bb57",
-    "title": "Kit Conjunto Infantil 3 Camisas e 3 Bermudas Algodão (Tam. 1 a 9 meses)",
-    "price_now": 47.5,
-    "price_was": 95.8,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/4LJ1wtEFMy?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/370025390117882619717618802810.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T11:41:02.598070"
-  },
-  {
-    "id": "280e87209da03770",
-    "title": "Fralda Pampers Pants Ajuste Total M 84 Unidades",
-    "price_now": 97.0,
-    "price_was": 146.23,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B086DR4Q6Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/946992938217882613108594133847.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T11:20:58.999782"
-  },
-  {
-    "id": "7f6494288a2b5a1c",
-    "title": "Ninho Redutor de Berço com Ziper Almofada Amamentação e Mosquiteiro Protetor Menino Menina",
-    "price_now": 69.9,
-    "price_was": 148.72,
-    "discount_pct": 53,
-    "url": "https://s.shopee.com.br/4VcS3KOSrX",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6d8wjdarvr93",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T10:00:47.217078"
   }
 ]
