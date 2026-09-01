@@ -1,5 +1,17 @@
 [
   {
+    "id": "484a550b03f0fb83",
+    "title": "Sandália infantil com lacinho (Tam. 20 ao 34, 3 cores)",
+    "price_now": 51.91,
+    "price_was": 110.45,
+    "discount_pct": 53,
+    "url": "https://s.shopee.com.br/W6JwOhfKo?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/443429271717882921595317841154.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T20:01:00.576884"
+  },
+  {
     "id": "a6fada9ecf8e7d37",
     "title": "Fralda Babysec Galinha Pintadinha Ultrasec G Com 60 Unidades",
     "price_now": 55.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-01T16:20:49.870752"
-  },
-  {
-    "id": "69a544dab8d782dd",
-    "title": "Kit 2 Prendedores De Chupeta Coala Buba",
-    "price_now": 19.7,
-    "price_was": 29.9,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0B3F6BXLH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/438010724417882745087492451017.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T15:01:02.968826"
   }
 ]
