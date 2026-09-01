@@ -2535,6 +2535,10 @@
     "cb00d3416e2d4ce4": {
       "title": "Suporte para Babá Eletrônica Berço Universal Ajustável Sem Furos Fácil Instalar Baby Monitor",
       "posted_at": "2026-09-01T04:00:46.409944"
+    },
+    "7f6494288a2b5a1c": {
+      "title": "Ninho Redutor de Berço com Ziper Almofada Amamentação e Mosquiteiro Protetor Menino Menina",
+      "posted_at": "2026-09-01T10:00:47.217366"
     }
   },
   "results": [
@@ -12609,6 +12613,14 @@
       "post_id": "641",
       "error": null,
       "at": "2026-09-01T04:00:46.409270"
+    },
+    {
+      "offer_id": "7f6494288a2b5a1c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "642",
+      "error": null,
+      "at": "2026-09-01T10:00:47.216808"
     }
   ]
 }
