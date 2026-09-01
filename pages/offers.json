@@ -1,5 +1,29 @@
 [
   {
+    "id": "32e52bd02f9ec496",
+    "title": "Huggies Fralda Premium Natural Care M - 78 Un",
+    "price_now": 87.0,
+    "price_was": 125.24,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/788290808917882624511201498294.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T11:41:15.569990"
+  },
+  {
+    "id": "dd354e7aa432bb57",
+    "title": "Kit Conjunto Infantil 3 Camisas e 3 Bermudas Algodão (Tam. 1 a 9 meses)",
+    "price_now": 47.5,
+    "price_was": 95.8,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/4LJ1wtEFMy?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/370025390117882619717618802810.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T11:41:02.598070"
+  },
+  {
     "id": "280e87209da03770",
     "title": "Fralda Pampers Pants Ajuste Total M 84 Unidades",
     "price_now": 97.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-31T15:30:48.906129"
-  },
-  {
-    "id": "dfa1d8d79c06ec2f",
-    "title": "Escorredor De Mamadeira Clingo",
-    "price_now": 31.0,
-    "price_was": 49.9,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B07MWT9NND?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/701456134717881854763396786953.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-31T14:20:48.811984"
-  },
-  {
-    "id": "aa2e5a0970f04890",
-    "title": "Paninho De Boca Soft Premium Papi Baby CPrendedor De Chupeta 32Cm X 32Cm 03 Un",
-    "price_now": 11.06,
-    "price_was": 19.9,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B0DQVL8V3W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/645689979317881848102088635771.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-31T14:10:49.829250"
   }
 ]
