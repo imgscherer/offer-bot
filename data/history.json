@@ -2539,6 +2539,10 @@
     "7f6494288a2b5a1c": {
       "title": "Ninho Redutor de Berço com Ziper Almofada Amamentação e Mosquiteiro Protetor Menino Menina",
       "posted_at": "2026-09-01T10:00:47.217366"
+    },
+    "280e87209da03770": {
+      "title": "Fralda Pampers Pants Ajuste Total M 84 Unidades",
+      "posted_at": "2026-09-01T11:20:59.000131"
     }
   },
   "results": [
@@ -12621,6 +12625,14 @@
       "post_id": "642",
       "error": null,
       "at": "2026-09-01T10:00:47.216808"
+    },
+    {
+      "offer_id": "280e87209da03770",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "643",
+      "error": null,
+      "at": "2026-09-01T11:20:58.999423"
     }
   ]
 }
