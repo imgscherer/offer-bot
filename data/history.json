@@ -2559,6 +2559,10 @@
     "d0a41e65fd99eacc": {
       "title": "Granado Shampoo Bebê, Erva-Doce, 250ml",
       "posted_at": "2026-09-01T13:10:49.511726"
+    },
+    "67c097d557ab48bd": {
+      "title": "Body pacote com 8 bodies de manga curta simple joys by carter&#8217;s unissex bebe",
+      "posted_at": "2026-09-01T13:31:12.211280"
     }
   },
   "results": [
@@ -12681,6 +12685,14 @@
       "post_id": "647",
       "error": null,
       "at": "2026-09-01T13:10:49.511061"
+    },
+    {
+      "offer_id": "67c097d557ab48bd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "648",
+      "error": null,
+      "at": "2026-09-01T13:31:12.210580"
     }
   ]
 }
