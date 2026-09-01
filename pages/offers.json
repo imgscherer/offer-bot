@@ -1,5 +1,17 @@
 [
   {
+    "id": "06b349259fc6f323",
+    "title": "Creme para Assadura Granado Bebê Dermocalmante 50g",
+    "price_now": 22.39,
+    "price_was": 40.88,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B07NPYD9KF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/600376203617882859104166462715.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T18:20:49.364246"
+  },
+  {
     "id": "3d6b67719c09baeb",
     "title": "40 Pares Lembrancinhas Chá de Fralda,Chá Revelação,Cha de bebe,Saida  de Maternidade",
     "price_now": 60.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-01T13:10:49.511395"
-  },
-  {
-    "id": "a8ece3563c631653",
-    "title": "Fralda Pants Huggies Supreme Care G 60 Unidades",
-    "price_now": 75.0,
-    "price_was": 113.25,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/972876245217882628679604391291.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T11:50:50.718932"
   }
 ]

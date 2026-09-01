@@ -2599,6 +2599,10 @@
     "3d6b67719c09baeb": {
       "title": "40 Pares Lembrancinhas Chá de Fralda,Chá Revelação,Cha de bebe,Saida  de Maternidade",
       "posted_at": "2026-09-01T17:00:57.176659"
+    },
+    "06b349259fc6f323": {
+      "title": "Creme para Assadura Granado Bebê Dermocalmante 50g",
+      "posted_at": "2026-09-01T18:20:49.364570"
     }
   },
   "results": [
@@ -12801,6 +12805,14 @@
       "post_id": "657",
       "error": null,
       "at": "2026-09-01T17:00:57.175982"
+    },
+    {
+      "offer_id": "06b349259fc6f323",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "658",
+      "error": null,
+      "at": "2026-09-01T18:20:49.363872"
     }
   ]
 }
