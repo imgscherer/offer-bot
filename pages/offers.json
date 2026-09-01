@@ -1,5 +1,17 @@
 [
   {
+    "id": "64f5d4f5cc3f08a6",
+    "title": "Johnson's Baby Shampoo Infantil Para Cabelos Cacheados Cachos Dos Sonhos, 400ml",
+    "price_now": 18.0,
+    "price_was": 26.59,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B07DHRLBBH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/510099562017883051074491210801.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T23:30:52.699006"
+  },
+  {
     "id": "281926b1774f58d8",
     "title": "Granado Hidratante Bebê, Calêndula, 120ml",
     "price_now": 20.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-01T16:31:23.592278"
-  },
-  {
-    "id": "9c055dabe070522d",
-    "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso 400ml",
-    "price_now": 18.0,
-    "price_was": 34.99,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B0BFJHYD5X?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/807243873017882799708012553910.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T16:31:22.265007"
   }
 ]

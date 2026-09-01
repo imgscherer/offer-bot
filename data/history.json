@@ -2619,6 +2619,10 @@
     "281926b1774f58d8": {
       "title": "Granado Hidratante Bebê, Calêndula, 120ml",
       "posted_at": "2026-09-01T22:10:42.009638"
+    },
+    "64f5d4f5cc3f08a6": {
+      "title": "Johnson's Baby Shampoo Infantil Para Cabelos Cacheados Cachos Dos Sonhos, 400ml",
+      "posted_at": "2026-09-01T23:30:52.699274"
     }
   },
   "results": [
@@ -13077,6 +13081,14 @@
       "post_id": "662",
       "error": null,
       "at": "2026-09-01T22:10:42.008891"
+    },
+    {
+      "offer_id": "64f5d4f5cc3f08a6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "663",
+      "error": null,
+      "at": "2026-09-01T23:30:52.698614"
     }
   ]
 }
