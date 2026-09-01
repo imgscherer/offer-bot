@@ -1,5 +1,17 @@
 [
   {
+    "id": "a8ece3563c631653",
+    "title": "Fralda Pants Huggies Supreme Care G 60 Unidades",
+    "price_now": 75.0,
+    "price_was": 113.25,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/972876245217882628679604391291.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T11:50:50.718932"
+  },
+  {
     "id": "32e52bd02f9ec496",
     "title": "Huggies Fralda Premium Natural Care M - 78 Un",
     "price_now": 87.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-31T15:30:57.488809"
-  },
-  {
-    "id": "a8a76653a9621d4f",
-    "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
-    "price_now": 46.0,
-    "price_was": 88.63,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/645278176517881891544189334993.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-31T15:30:48.906129"
   }
 ]
