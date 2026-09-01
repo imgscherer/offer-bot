@@ -1,5 +1,17 @@
 [
   {
+    "id": "a6fada9ecf8e7d37",
+    "title": "Fralda Babysec Galinha Pintadinha Ultrasec G Com 60 Unidades",
+    "price_now": 55.0,
+    "price_was": 101.58,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/565360990317882878432101872227.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T18:50:53.468387"
+  },
+  {
     "id": "d85c4b516f45d42d",
     "title": "8 Body Manga Curta Simple Joys by Carter's Bebê",
     "price_now": 117.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-01T15:01:02.968826"
-  },
-  {
-    "id": "67c097d557ab48bd",
-    "title": "Body pacote com 8 bodies de manga curta simple joys by carter&#8217;s unissex bebe",
-    "price_now": 122.34,
-    "price_was": 176.16,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B08G8TFQHM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/861774836017882689986604752687.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T13:31:12.210929"
   }
 ]

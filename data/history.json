@@ -2607,6 +2607,10 @@
     "d85c4b516f45d42d": {
       "title": "8 Body Manga Curta Simple Joys by Carter's Bebê",
       "posted_at": "2026-09-01T18:40:48.328642"
+    },
+    "a6fada9ecf8e7d37": {
+      "title": "Fralda Babysec Galinha Pintadinha Ultrasec G Com 60 Unidades",
+      "posted_at": "2026-09-01T18:50:53.468818"
     }
   },
   "results": [
@@ -12825,6 +12829,14 @@
       "post_id": "659",
       "error": null,
       "at": "2026-09-01T18:40:48.327939"
+    },
+    {
+      "offer_id": "a6fada9ecf8e7d37",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "660",
+      "error": null,
+      "at": "2026-09-01T18:50:53.468059"
     }
   ]
 }
