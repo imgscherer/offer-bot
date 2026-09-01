@@ -2531,6 +2531,10 @@
     "53a024737812e12c": {
       "title": "Lenço Umedecido Piquitucho Premium 120 unidades",
       "posted_at": "2026-08-31T20:00:53.622441"
+    },
+    "cb00d3416e2d4ce4": {
+      "title": "Suporte para Babá Eletrônica Berço Universal Ajustável Sem Furos Fácil Instalar Baby Monitor",
+      "posted_at": "2026-09-01T04:00:46.409944"
     }
   },
   "results": [
@@ -12597,6 +12601,14 @@
       "post_id": "640",
       "error": null,
       "at": "2026-08-31T20:00:53.621710"
+    },
+    {
+      "offer_id": "cb00d3416e2d4ce4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "641",
+      "error": null,
+      "at": "2026-09-01T04:00:46.409270"
     }
   ]
 }
