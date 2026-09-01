@@ -2563,6 +2563,10 @@
     "67c097d557ab48bd": {
       "title": "Body pacote com 8 bodies de manga curta simple joys by carter&#8217;s unissex bebe",
       "posted_at": "2026-09-01T13:31:12.211280"
+    },
+    "69a544dab8d782dd": {
+      "title": "Kit 2 Prendedores De Chupeta Coala Buba",
+      "posted_at": "2026-09-01T15:01:02.969187"
     }
   },
   "results": [
@@ -12693,6 +12697,14 @@
       "post_id": "648",
       "error": null,
       "at": "2026-09-01T13:31:12.210580"
+    },
+    {
+      "offer_id": "69a544dab8d782dd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "649",
+      "error": null,
+      "at": "2026-09-01T15:01:02.968496"
     }
   ]
 }

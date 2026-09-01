@@ -1,5 +1,17 @@
 [
   {
+    "id": "69a544dab8d782dd",
+    "title": "Kit 2 Prendedores De Chupeta Coala Buba",
+    "price_now": 19.7,
+    "price_was": 29.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0B3F6BXLH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/438010724417882745087492451017.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T15:01:02.968826"
+  },
+  {
     "id": "67c097d557ab48bd",
     "title": "Body pacote com 8 bodies de manga curta simple joys by carter&#8217;s unissex bebe",
     "price_now": 122.34,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-31T17:50:46.659573"
-  },
-  {
-    "id": "85fcc4b7721f116d",
-    "title": "Creme Assaduras Dermocalmante Bebê Pele Sensíveis Granado 50G",
-    "price_now": 22.0,
-    "price_was": 40.88,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07NPYD9KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/902592004317881932881548218426.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-31T16:40:40.884996"
   }
 ]
