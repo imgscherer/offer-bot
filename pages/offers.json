@@ -1,5 +1,41 @@
 [
   {
+    "id": "e159e945e17a6570",
+    "title": "Macacão Bebê Térmico Quentinho Menino Inverno com Estampa de Carrinho",
+    "price_now": 53.28,
+    "price_was": 76.11,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/60RDaezZOB",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mr91iju4sxdw80",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T16:31:26.350869"
+  },
+  {
+    "id": "19f8b16e66a529b2",
+    "title": "Conjunto Térmico Quentinho Bebê Pagão Menino Longo Inverno com Estampa de Carrinho",
+    "price_now": 49.18,
+    "price_was": 70.26,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/6Akdmxyw3C",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mq1xhyfr2vpf60",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T16:31:23.592278"
+  },
+  {
+    "id": "9c055dabe070522d",
+    "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso 400ml",
+    "price_now": 18.0,
+    "price_was": 34.99,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B0BFJHYD5X?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/807243873017882799708012553910.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T16:31:22.265007"
+  },
+  {
     "id": "bd913f84eccc03af",
     "title": "Granado Hidratante Bebê, Calêndula, 120ml",
     "price_now": 20.44,
@@ -106,41 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-01T10:00:47.217078"
-  },
-  {
-    "id": "cb00d3416e2d4ce4",
-    "title": "Suporte para Babá Eletrônica Berço Universal Ajustável Sem Furos Fácil Instalar Baby Monitor",
-    "price_now": 10.9,
-    "price_was": 18.47,
-    "discount_pct": 41,
-    "url": "https://s.shopee.com.br/7fZTQQBEPn",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mq55lbylo076b3",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T04:00:46.409613"
-  },
-  {
-    "id": "53a024737812e12c",
-    "title": "Lenço Umedecido Piquitucho Premium 120 unidades",
-    "price_now": 9.0,
-    "price_was": 16.99,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B0781CTJF6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/601191183617882058667895238846.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-31T20:00:53.622093"
-  },
-  {
-    "id": "d7dbd07d1e9f4415",
-    "title": "Lenço Umedecido Piquitucho Premium 120 unidades",
-    "price_now": 9.49,
-    "price_was": 16.99,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B0781CTJF6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/532324927617881995773815981835.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-31T18:20:54.475102"
   }
 ]

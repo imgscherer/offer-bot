@@ -2571,6 +2571,18 @@
     "bd913f84eccc03af": {
       "title": "Granado Hidratante Bebê, Calêndula, 120ml",
       "posted_at": "2026-09-01T16:20:49.871122"
+    },
+    "9c055dabe070522d": {
+      "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso 400ml",
+      "posted_at": "2026-09-01T16:31:22.265341"
+    },
+    "19f8b16e66a529b2": {
+      "title": "Conjunto Térmico Quentinho Bebê Pagão Menino Longo Inverno com Estampa de Carrinho",
+      "posted_at": "2026-09-01T16:31:23.592630"
+    },
+    "e159e945e17a6570": {
+      "title": "Macacão Bebê Térmico Quentinho Menino Inverno com Estampa de Carrinho",
+      "posted_at": "2026-09-01T16:31:26.351205"
     }
   },
   "results": [
@@ -12717,6 +12729,30 @@
       "post_id": "650",
       "error": null,
       "at": "2026-09-01T16:20:49.870411"
+    },
+    {
+      "offer_id": "9c055dabe070522d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "651",
+      "error": null,
+      "at": "2026-09-01T16:31:22.264649"
+    },
+    {
+      "offer_id": "19f8b16e66a529b2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "652",
+      "error": null,
+      "at": "2026-09-01T16:31:23.591968"
+    },
+    {
+      "offer_id": "e159e945e17a6570",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "653",
+      "error": null,
+      "at": "2026-09-01T16:31:26.350562"
     }
   ]
 }
