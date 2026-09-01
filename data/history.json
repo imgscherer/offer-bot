@@ -2567,6 +2567,10 @@
     "69a544dab8d782dd": {
       "title": "Kit 2 Prendedores De Chupeta Coala Buba",
       "posted_at": "2026-09-01T15:01:02.969187"
+    },
+    "bd913f84eccc03af": {
+      "title": "Granado Hidratante Bebê, Calêndula, 120ml",
+      "posted_at": "2026-09-01T16:20:49.871122"
     }
   },
   "results": [
@@ -12705,6 +12709,14 @@
       "post_id": "649",
       "error": null,
       "at": "2026-09-01T15:01:02.968496"
+    },
+    {
+      "offer_id": "bd913f84eccc03af",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "650",
+      "error": null,
+      "at": "2026-09-01T16:20:49.870411"
     }
   ]
 }

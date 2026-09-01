@@ -1,5 +1,17 @@
 [
   {
+    "id": "bd913f84eccc03af",
+    "title": "Granado Hidratante Bebê, Calêndula, 120ml",
+    "price_now": 20.44,
+    "price_was": 31.32,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0C3JKHRPV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/949727511517882787373674708931.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T16:20:49.870752"
+  },
+  {
     "id": "69a544dab8d782dd",
     "title": "Kit 2 Prendedores De Chupeta Coala Buba",
     "price_now": 19.7,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-08-31T18:20:54.475102"
-  },
-  {
-    "id": "be140d39bcc9d518",
-    "title": "Troninho Infantil Cinza Buba",
-    "price_now": 33.18,
-    "price_was": 82.9,
-    "discount_pct": 60,
-    "url": "https://www.amazon.com.br/dp/B087NNJ55R?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/522584545817881981288812697767.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-08-31T17:50:46.659573"
   }
 ]
