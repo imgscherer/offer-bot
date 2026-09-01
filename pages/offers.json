@@ -1,5 +1,17 @@
 [
   {
+    "id": "281926b1774f58d8",
+    "title": "Granado Hidratante Bebê, Calêndula, 120ml",
+    "price_now": 20.0,
+    "price_was": 31.32,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0C3JKHRPV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/653285781617883004908844904942.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-01T22:10:42.009251"
+  },
+  {
     "id": "484a550b03f0fb83",
     "title": "Sandália infantil com lacinho (Tam. 20 ao 34, 3 cores)",
     "price_now": 51.91,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-01T16:31:22.265007"
-  },
-  {
-    "id": "bd913f84eccc03af",
-    "title": "Granado Hidratante Bebê, Calêndula, 120ml",
-    "price_now": 20.44,
-    "price_was": 31.32,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0C3JKHRPV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/949727511517882787373674708931.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T16:20:49.870752"
   }
 ]

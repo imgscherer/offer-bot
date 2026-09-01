@@ -2615,6 +2615,10 @@
     "484a550b03f0fb83": {
       "title": "Sandália infantil com lacinho (Tam. 20 ao 34, 3 cores)",
       "posted_at": "2026-09-01T20:01:00.577186"
+    },
+    "281926b1774f58d8": {
+      "title": "Granado Hidratante Bebê, Calêndula, 120ml",
+      "posted_at": "2026-09-01T22:10:42.009638"
     }
   },
   "results": [
@@ -13065,6 +13069,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-01T22:00:52.418461"
+    },
+    {
+      "offer_id": "281926b1774f58d8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "662",
+      "error": null,
+      "at": "2026-09-01T22:10:42.008891"
     }
   ]
 }
