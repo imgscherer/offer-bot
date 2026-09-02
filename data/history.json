@@ -2751,6 +2751,14 @@
     "20e84eb5a38c6063": {
       "title": "Fralda Huggies Supreme Care Roupinha XG 64 unidades",
       "posted_at": "2026-09-02T14:31:22.366594"
+    },
+    "03098412462e0b07": {
+      "title": "Personal Fralda Baby Premium Protection G 30 Unidades",
+      "posted_at": "2026-09-02T14:41:19.763071"
+    },
+    "1d8d3e9b408ea617": {
+      "title": "Fralda Huggies Supreme Care Roupinha M 80 unidades",
+      "posted_at": "2026-09-02T14:41:34.274328"
     }
   },
   "results": [
@@ -13633,6 +13641,38 @@
       "post_id": "695",
       "error": null,
       "at": "2026-09-02T14:31:22.365925"
+    },
+    {
+      "offer_id": "eb716042a7cd2f3b",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-02T14:40:58.426151"
+    },
+    {
+      "offer_id": "45976b42ccc318b6",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-02T14:41:06.622473"
+    },
+    {
+      "offer_id": "03098412462e0b07",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "696",
+      "error": null,
+      "at": "2026-09-02T14:41:19.762464"
+    },
+    {
+      "offer_id": "1d8d3e9b408ea617",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "697",
+      "error": null,
+      "at": "2026-09-02T14:41:34.273684"
     }
   ]
 }

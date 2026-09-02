@@ -1,5 +1,29 @@
 [
   {
+    "id": "1d8d3e9b408ea617",
+    "title": "Fralda Huggies Supreme Care Roupinha M 80 unidades",
+    "price_now": 74.92,
+    "price_was": 131.78,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B0BXM2Q9SQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/657833280817883595306382538935.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T14:41:34.274031"
+  },
+  {
+    "id": "03098412462e0b07",
+    "title": "Personal Fralda Baby Premium Protection G 30 Unidades",
+    "price_now": 27.0,
+    "price_was": 48.75,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/965147771417883587697099485524.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T14:41:19.762784"
+  },
+  {
     "id": "20e84eb5a38c6063",
     "title": "Fralda Huggies Supreme Care Roupinha XG 64 unidades",
     "price_now": 71.94,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-02T12:31:06.284645"
-  },
-  {
-    "id": "c33f0f002a34f5b7",
-    "title": "Personal fralda baby premium protection xg com 26 unidades",
-    "price_now": 25.5,
-    "price_was": 46.38,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/686905423317883517873991684959.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T12:30:52.408924"
-  },
-  {
-    "id": "69e728e4a351122c",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe P 54 unidades",
-    "price_now": 34.29,
-    "price_was": 50.29,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B093GBK61Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/263051107017883505402495699064.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T12:11:04.040279"
   }
 ]
