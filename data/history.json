@@ -2707,6 +2707,14 @@
     "69e728e4a351122c": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe P 54 unidades",
       "posted_at": "2026-09-02T12:11:04.040611"
+    },
+    "c33f0f002a34f5b7": {
+      "title": "Personal fralda baby premium protection xg com 26 unidades",
+      "posted_at": "2026-09-02T12:30:52.409257"
+    },
+    "ff5f6ceb7c040085": {
+      "title": "Fralda Huggies Natural Care RN 34 Unidades",
+      "posted_at": "2026-09-02T12:31:06.284969"
     }
   },
   "results": [
@@ -13413,6 +13421,38 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-02T12:20:52.516317"
+    },
+    {
+      "offer_id": "c33f0f002a34f5b7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "685",
+      "error": null,
+      "at": "2026-09-02T12:30:52.408569"
+    },
+    {
+      "offer_id": "ff5f6ceb7c040085",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "686",
+      "error": null,
+      "at": "2026-09-02T12:31:06.284273"
+    },
+    {
+      "offer_id": "dd115723770d1b20",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-02T12:31:13.503119"
+    },
+    {
+      "offer_id": "a3a15d97ab3495fb",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-02T12:31:19.865367"
     }
   ]
 }

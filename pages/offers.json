@@ -1,5 +1,29 @@
 [
   {
+    "id": "ff5f6ceb7c040085",
+    "title": "Fralda Huggies Natural Care RN 34 Unidades",
+    "price_now": 28.4,
+    "price_was": 43.59,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/370807355917883511308106207003.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T12:31:06.284645"
+  },
+  {
+    "id": "c33f0f002a34f5b7",
+    "title": "Personal fralda baby premium protection xg com 26 unidades",
+    "price_now": 25.5,
+    "price_was": 46.38,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/686905423317883517873991684959.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T12:30:52.408924"
+  },
+  {
     "id": "69e728e4a351122c",
     "title": "Fralda Pom Pom Protek Proteção de Mãe P 54 unidades",
     "price_now": 34.29,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-02T11:31:00.623328"
-  },
-  {
-    "id": "368388c7863f1aaa",
-    "title": "Fralda Pampers Pants Ajuste Total XXXG 108 unidades",
-    "price_now": 147.72,
-    "price_was": 229.49,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0DFQJQGPL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/477752397717883472949982278369.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T11:21:39.738556"
-  },
-  {
-    "id": "07ad15d416fdaf6c",
-    "title": "Fralda Pampers Pants Ajuste Total XG 132 Unidades",
-    "price_now": 147.72,
-    "price_was": 229.49,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0CGY6SGFY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/576880140917883472922962205973.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T11:21:06.915823"
   }
 ]
