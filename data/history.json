@@ -2623,6 +2623,14 @@
     "64f5d4f5cc3f08a6": {
       "title": "Johnson's Baby Shampoo Infantil Para Cabelos Cacheados Cachos Dos Sonhos, 400ml",
       "posted_at": "2026-09-01T23:30:52.699274"
+    },
+    "710f628b2675a7a8": {
+      "title": "Kit Bolsa Maternidade Personalizada Star  - 02 Peças",
+      "posted_at": "2026-09-02T03:00:43.708719"
+    },
+    "a64fcf978c705b9a": {
+      "title": "Kit Bolsa Maternidade Menino/Menina Personalizado - 02 Peças",
+      "posted_at": "2026-09-02T03:00:44.922944"
     }
   },
   "results": [
@@ -13089,6 +13097,22 @@
       "post_id": "663",
       "error": null,
       "at": "2026-09-01T23:30:52.698614"
+    },
+    {
+      "offer_id": "710f628b2675a7a8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "664",
+      "error": null,
+      "at": "2026-09-02T03:00:43.708057"
+    },
+    {
+      "offer_id": "a64fcf978c705b9a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "665",
+      "error": null,
+      "at": "2026-09-02T03:00:44.922246"
     }
   ]
 }
