@@ -2843,6 +2843,14 @@
     "911ff718e8455c27": {
       "title": "Buba Lixeira Antiodor para Fraldas",
       "posted_at": "2026-09-02T22:20:46.794519"
+    },
+    "53cef5d8b0485bf1": {
+      "title": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
+      "posted_at": "2026-09-02T22:50:44.312753"
+    },
+    "2ee375c28a35f520": {
+      "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos",
+      "posted_at": "2026-09-02T22:50:58.104819"
     }
   },
   "results": [
@@ -13973,6 +13981,22 @@
       "post_id": "718",
       "error": null,
       "at": "2026-09-02T22:20:46.793765"
+    },
+    {
+      "offer_id": "53cef5d8b0485bf1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "719",
+      "error": null,
+      "at": "2026-09-02T22:50:44.312063"
+    },
+    {
+      "offer_id": "2ee375c28a35f520",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "720",
+      "error": null,
+      "at": "2026-09-02T22:50:58.104161"
     }
   ]
 }

@@ -1,5 +1,29 @@
 [
   {
+    "id": "2ee375c28a35f520",
+    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos",
+    "price_now": 159.88,
+    "price_was": 229.9,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/169176488117883891076217400922.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T22:50:58.104478"
+  },
+  {
+    "id": "53cef5d8b0485bf1",
+    "title": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
+    "price_now": 29.9,
+    "price_was": 43.59,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/348278027517883885675887729920.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T22:50:44.312411"
+  },
+  {
     "id": "911ff718e8455c27",
     "title": "Buba Lixeira Antiodor para Fraldas",
     "price_now": 149.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-02T20:20:43.822698"
-  },
-  {
-    "id": "970043f077f468c2",
-    "title": "Fralda Personal Baby Premium Pants G 62 unidades",
-    "price_now": 68.49,
-    "price_was": 116.89,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/560846625717883730884813963529.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T18:20:54.090765"
-  },
-  {
-    "id": "39b6216e53e9e6fa",
-    "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
-    "price_now": 98.0,
-    "price_was": 151.59,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/679646470717883718351535123554.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T18:01:08.527048"
   }
 ]
