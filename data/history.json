@@ -2775,6 +2775,10 @@
     "b7f2311e1b1b8dd7": {
       "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
       "posted_at": "2026-09-02T15:10:57.684664"
+    },
+    "a0c3b5761a1435e3": {
+      "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
+      "posted_at": "2026-09-02T15:50:44.277183"
     }
   },
   "results": [
@@ -13745,6 +13749,14 @@
       "post_id": "701",
       "error": null,
       "at": "2026-09-02T15:10:57.683993"
+    },
+    {
+      "offer_id": "a0c3b5761a1435e3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "702",
+      "error": null,
+      "at": "2026-09-02T15:50:44.276459"
     }
   ]
 }

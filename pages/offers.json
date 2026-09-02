@@ -1,5 +1,17 @@
 [
   {
+    "id": "a0c3b5761a1435e3",
+    "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
+    "price_now": 21.0,
+    "price_was": 44.99,
+    "discount_pct": 53,
+    "url": "https://www.amazon.com.br/dp/B07F1Z7ZM2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/507487436617883636082012117121.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T15:50:44.276835"
+  },
+  {
     "id": "b7f2311e1b1b8dd7",
     "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
     "price_now": 43.77,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-02T13:01:04.102326"
-  },
-  {
-    "id": "4d7d720a5d941803",
-    "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper G 68 Unidades",
-    "price_now": 53.92,
-    "price_was": 77.37,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/910960521117883521705751873132.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T12:51:38.517750"
   }
 ]
