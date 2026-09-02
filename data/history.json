@@ -2735,6 +2735,10 @@
     "87d2961546084424": {
       "title": "Camisa Infantil Social Manga Longa (Tam. 2 a 14 anos, Diversas cores)",
       "posted_at": "2026-09-02T13:01:04.102559"
+    },
+    "db8c72b682f2c639": {
+      "title": "Johnson's Baby Colônia Refrescante Lavanda Para Bebês 400ml",
+      "posted_at": "2026-09-02T13:30:50.786347"
     }
   },
   "results": [
@@ -13529,6 +13533,14 @@
       "post_id": "691",
       "error": null,
       "at": "2026-09-02T13:01:04.101944"
+    },
+    {
+      "offer_id": "db8c72b682f2c639",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "692",
+      "error": null,
+      "at": "2026-09-02T13:30:50.785612"
     }
   ]
 }
