@@ -2731,6 +2731,10 @@
     "4d7d720a5d941803": {
       "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper G 68 Unidades",
       "posted_at": "2026-09-02T12:51:38.518060"
+    },
+    "87d2961546084424": {
+      "title": "Camisa Infantil Social Manga Longa (Tam. 2 a 14 anos, Diversas cores)",
+      "posted_at": "2026-09-02T13:01:04.102559"
     }
   },
   "results": [
@@ -13517,6 +13521,14 @@
       "post_id": "690",
       "error": null,
       "at": "2026-09-02T12:51:38.517421"
+    },
+    {
+      "offer_id": "87d2961546084424",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "691",
+      "error": null,
+      "at": "2026-09-02T13:01:04.101944"
     }
   ]
 }
