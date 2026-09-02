@@ -2835,6 +2835,10 @@
     "6b78dc161bf364bc": {
       "title": "Fralda Turma da Mônica Baby Mega XXG 36 Unidades",
       "posted_at": "2026-09-02T20:51:19.041593"
+    },
+    "fa0bb0804f475071": {
+      "title": "Triciclo Infantil avespa Maral Empurrar Pedal 1 a 3 Anos Bebê Passeio Vermelho Amarelo spider",
+      "posted_at": "2026-09-02T21:30:46.302063"
     }
   },
   "results": [
@@ -13949,6 +13953,14 @@
       "post_id": "716",
       "error": null,
       "at": "2026-09-02T20:51:19.040916"
+    },
+    {
+      "offer_id": "fa0bb0804f475071",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "717",
+      "error": null,
+      "at": "2026-09-02T21:30:46.301382"
     }
   ]
 }
