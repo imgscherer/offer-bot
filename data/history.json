@@ -2839,6 +2839,10 @@
     "fa0bb0804f475071": {
       "title": "Triciclo Infantil avespa Maral Empurrar Pedal 1 a 3 Anos Bebê Passeio Vermelho Amarelo spider",
       "posted_at": "2026-09-02T21:30:46.302063"
+    },
+    "911ff718e8455c27": {
+      "title": "Buba Lixeira Antiodor para Fraldas",
+      "posted_at": "2026-09-02T22:20:46.794519"
     }
   },
   "results": [
@@ -13961,6 +13965,14 @@
       "post_id": "717",
       "error": null,
       "at": "2026-09-02T21:30:46.301382"
+    },
+    {
+      "offer_id": "911ff718e8455c27",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "718",
+      "error": null,
+      "at": "2026-09-02T22:20:46.793765"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "911ff718e8455c27",
+    "title": "Buba Lixeira Antiodor para Fraldas",
+    "price_now": 149.0,
+    "price_was": 304.9,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B0C5GP554J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/331888358917883864672206183243.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T22:20:46.794171"
+  },
+  {
     "id": "fa0bb0804f475071",
     "title": "Triciclo Infantil avespa Maral Empurrar Pedal 1 a 3 Anos Bebê Passeio Vermelho Amarelo spider",
     "price_now": 273.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-02T18:01:08.527048"
-  },
-  {
-    "id": "afff97aca10a95f6",
-    "title": "Fralda-Calça MamyPoko Premium Seca G 60 Unidades",
-    "price_now": 80.66,
-    "price_was": 129.9,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B08DJTXZ2B?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/132587868517883717077046235700.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T18:00:56.730837"
   }
 ]
