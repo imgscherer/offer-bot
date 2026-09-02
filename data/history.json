@@ -2699,6 +2699,14 @@
     "7b7dc804339d82cc": {
       "title": "Fralda Turma da Mônica Baby Mega XG 42 Unidades",
       "posted_at": "2026-09-02T11:51:37.658304"
+    },
+    "00a5a3f1433e1ee5": {
+      "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+      "posted_at": "2026-09-02T12:10:51.196210"
+    },
+    "69e728e4a351122c": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe P 54 unidades",
+      "posted_at": "2026-09-02T12:11:04.040611"
     }
   },
   "results": [
@@ -13357,6 +13365,38 @@
       "post_id": "682",
       "error": null,
       "at": "2026-09-02T11:51:37.657674"
+    },
+    {
+      "offer_id": "00a5a3f1433e1ee5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "683",
+      "error": null,
+      "at": "2026-09-02T12:10:51.195471"
+    },
+    {
+      "offer_id": "69e728e4a351122c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "684",
+      "error": null,
+      "at": "2026-09-02T12:11:04.039973"
+    },
+    {
+      "offer_id": "dd115723770d1b20",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-02T12:11:20.748951"
+    },
+    {
+      "offer_id": "a3a15d97ab3495fb",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-02T12:11:38.308611"
     }
   ]
 }

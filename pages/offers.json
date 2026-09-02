@@ -1,5 +1,29 @@
 [
   {
+    "id": "69e728e4a351122c",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe P 54 unidades",
+    "price_now": 34.29,
+    "price_was": 50.29,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B093GBK61Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/263051107017883505402495699064.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T12:11:04.040279"
+  },
+  {
+    "id": "00a5a3f1433e1ee5",
+    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+    "price_now": 48.0,
+    "price_was": 72.65,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/439201958917883507674028840226.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T12:10:51.195828"
+  },
+  {
     "id": "7b7dc804339d82cc",
     "title": "Fralda Turma da Mônica Baby Mega XG 42 Unidades",
     "price_now": 35.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-02T11:21:06.915823"
-  },
-  {
-    "id": "b86cbe13c836d54d",
-    "title": "Fralda Pampers Pants Ajuste Total G 144 unidades",
-    "price_now": 147.72,
-    "price_was": 229.49,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/233303172217883472974786957604.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T11:20:52.271243"
-  },
-  {
-    "id": "fb3c6372c4b3a18d",
-    "title": "MamyPoko Fralda-Calça Premium Seca G 60 Unidades",
-    "price_now": 84.91,
-    "price_was": 129.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B08DJTXZ2B?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/135102173317883465719684983831.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T11:11:02.138385"
   }
 ]
