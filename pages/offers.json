@@ -1,5 +1,29 @@
 [
   {
+    "id": "b7f2311e1b1b8dd7",
+    "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
+    "price_now": 43.77,
+    "price_was": 69.42,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/901850579817883616871329649770.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T15:10:57.684310"
+  },
+  {
+    "id": "5c797b9b304cab09",
+    "title": "Fralda Personal Baby Total Protect Pants G 44 unidades",
+    "price_now": 43.77,
+    "price_was": 71.99,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0BTTLYZN9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/772418525917883616905419919210.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T15:10:45.464649"
+  },
+  {
     "id": "5209838e7a56ec55",
     "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
     "price_now": 53.59,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-02T12:51:38.517750"
-  },
-  {
-    "id": "df503ae83860c2d9",
-    "title": "Fralda Huggies Supreme Care Roupinha XXG 144 unidades",
-    "price_now": 179.91,
-    "price_was": 289.0,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0FPSX9VDZ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/407120912017883521473325067710.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T12:51:18.349894"
-  },
-  {
-    "id": "37729416b1fa6dc6",
-    "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades",
-    "price_now": 179.91,
-    "price_was": 289.0,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/561536613417883521494841402964.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T12:51:04.940554"
   }
 ]
