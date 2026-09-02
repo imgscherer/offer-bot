@@ -1,5 +1,29 @@
 [
   {
+    "id": "39b6216e53e9e6fa",
+    "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
+    "price_now": 98.0,
+    "price_was": 151.59,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/679646470717883718351535123554.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T18:01:08.527048"
+  },
+  {
+    "id": "afff97aca10a95f6",
+    "title": "Fralda-Calça MamyPoko Premium Seca G 60 Unidades",
+    "price_now": 80.66,
+    "price_was": 129.9,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B08DJTXZ2B?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/132587868517883717077046235700.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T18:00:56.730837"
+  },
+  {
     "id": "7201c87e959bbc8e",
     "title": "55 Pares Lembrancinhas Chá Revelação, Chá de Fralda,Cha de bebe,Saida  de Maternidade",
     "price_now": 78.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-02T14:41:19.762784"
-  },
-  {
-    "id": "20e84eb5a38c6063",
-    "title": "Fralda Huggies Supreme Care Roupinha XG 64 unidades",
-    "price_now": 71.94,
-    "price_was": 131.78,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/400921653517883590626688299196.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T14:31:22.366270"
-  },
-  {
-    "id": "14f8eadcde10867a",
-    "title": "Capa Colchão Impermeável Antialérgica Protetor Material Hospitalar Segura Xixi Solteiro Casal Berço",
-    "price_now": 39.98,
-    "price_was": 79.96,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/1LfSAvyzB8",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgcfn7pa4y6fcd",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T14:30:58.023336"
   }
 ]

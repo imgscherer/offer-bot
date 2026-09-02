@@ -2791,6 +2791,14 @@
     "7201c87e959bbc8e": {
       "title": "55 Pares Lembrancinhas Chá Revelação, Chá de Fralda,Cha de bebe,Saida  de Maternidade",
       "posted_at": "2026-09-02T16:50:37.349350"
+    },
+    "afff97aca10a95f6": {
+      "title": "Fralda-Calça MamyPoko Premium Seca G 60 Unidades",
+      "posted_at": "2026-09-02T18:00:56.731205"
+    },
+    "39b6216e53e9e6fa": {
+      "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
+      "posted_at": "2026-09-02T18:01:08.527404"
     }
   },
   "results": [
@@ -13793,6 +13801,22 @@
       "post_id": "705",
       "error": null,
       "at": "2026-09-02T16:50:37.348627"
+    },
+    {
+      "offer_id": "afff97aca10a95f6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "706",
+      "error": null,
+      "at": "2026-09-02T18:00:56.730469"
+    },
+    {
+      "offer_id": "39b6216e53e9e6fa",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "707",
+      "error": null,
+      "at": "2026-09-02T18:01:08.526736"
     }
   ]
 }
