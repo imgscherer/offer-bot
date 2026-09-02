@@ -1,5 +1,17 @@
 [
   {
+    "id": "07130d4edca29eb0",
+    "title": "Fralda Pants Huggies Proteção Acolchoada M",
+    "price_now": 199.0,
+    "price_was": 289.0,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/921775773417883208888787563606.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T03:50:53.427709"
+  },
+  {
     "id": "f20111231e6a2336",
     "title": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
     "price_now": 135.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-01T17:00:54.592606"
-  },
-  {
-    "id": "3bfa7e56bda6578e",
-    "title": "25 Kits Lembrancinha Saída  de Maternidade, Chá Revelação,Chá de Fralda",
-    "price_now": 45.0,
-    "price_was": 150.0,
-    "discount_pct": 70,
-    "url": "https://s.shopee.com.br/8fS1ToytM6",
-    "image": "https://cf.shopee.com.br/file/br-11134201-7r98o-m9u5qdwsevwi9f",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T17:00:51.743535"
   }
 ]

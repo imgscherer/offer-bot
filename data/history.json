@@ -2635,6 +2635,10 @@
     "f20111231e6a2336": {
       "title": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
       "posted_at": "2026-09-02T03:30:53.803667"
+    },
+    "07130d4edca29eb0": {
+      "title": "Fralda Pants Huggies Proteção Acolchoada M",
+      "posted_at": "2026-09-02T03:50:53.428030"
     }
   },
   "results": [
@@ -13125,6 +13129,14 @@
       "post_id": "666",
       "error": null,
       "at": "2026-09-02T03:30:53.802998"
+    },
+    {
+      "offer_id": "07130d4edca29eb0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "667",
+      "error": null,
+      "at": "2026-09-02T03:50:53.427359"
     }
   ]
 }
