@@ -2667,6 +2667,22 @@
     "368388c7863f1aaa": {
       "title": "Fralda Pampers Pants Ajuste Total XXXG 108 unidades",
       "posted_at": "2026-09-02T11:21:39.738899"
+    },
+    "6900b88389f1f651": {
+      "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
+      "posted_at": "2026-09-02T11:31:00.623638"
+    },
+    "ec8b5f015236d0af": {
+      "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+      "posted_at": "2026-09-02T11:31:13.565043"
+    },
+    "9ad77367a0adcb5c": {
+      "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+      "posted_at": "2026-09-02T11:31:33.148331"
+    },
+    "5a96b6aaaf321705": {
+      "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+      "posted_at": "2026-09-02T11:31:43.861176"
     }
   },
   "results": [
@@ -13245,6 +13261,46 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-02T11:21:46.557505"
+    },
+    {
+      "offer_id": "6900b88389f1f651",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "675",
+      "error": null,
+      "at": "2026-09-02T11:31:00.622987"
+    },
+    {
+      "offer_id": "ec8b5f015236d0af",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "676",
+      "error": null,
+      "at": "2026-09-02T11:31:13.564388"
+    },
+    {
+      "offer_id": "bdc77dc829cb8d8c",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-02T11:31:20.771390"
+    },
+    {
+      "offer_id": "9ad77367a0adcb5c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "677",
+      "error": null,
+      "at": "2026-09-02T11:31:33.147632"
+    },
+    {
+      "offer_id": "5a96b6aaaf321705",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "678",
+      "error": null,
+      "at": "2026-09-02T11:31:43.860567"
     }
   ]
 }

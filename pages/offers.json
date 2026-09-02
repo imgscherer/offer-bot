@@ -1,5 +1,53 @@
 [
   {
+    "id": "5a96b6aaaf321705",
+    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+    "price_now": 151.9,
+    "price_was": 229.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/302388520617883484274385706945.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T11:31:43.860872"
+  },
+  {
+    "id": "9ad77367a0adcb5c",
+    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+    "price_now": 151.9,
+    "price_was": 229.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/699321211717883484357786969008.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T11:31:33.148023"
+  },
+  {
+    "id": "ec8b5f015236d0af",
+    "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+    "price_now": 151.9,
+    "price_was": 246.01,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/618961648617883484293575385672.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T11:31:13.564680"
+  },
+  {
+    "id": "6900b88389f1f651",
+    "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
+    "price_now": 24.22,
+    "price_was": 46.38,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/433731650517883478281568540750.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T11:31:00.623328"
+  },
+  {
     "id": "368388c7863f1aaa",
     "title": "Fralda Pampers Pants Ajuste Total XXXG 108 unidades",
     "price_now": 147.72,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-02T03:50:53.427709"
-  },
-  {
-    "id": "f20111231e6a2336",
-    "title": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
-    "price_now": 135.0,
-    "price_was": 235.87,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B09DQ6CMG2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/707581986517883192256735497823.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T03:30:53.803337"
-  },
-  {
-    "id": "a64fcf978c705b9a",
-    "title": "Kit Bolsa Maternidade Menino/Menina Personalizado - 02 Peças",
-    "price_now": 564.9,
-    "price_was": 896.67,
-    "discount_pct": 37,
-    "url": "https://s.shopee.com.br/BTQdGlPAc",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mr8tkgfuomx0b2",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T03:00:44.922572"
-  },
-  {
-    "id": "710f628b2675a7a8",
-    "title": "Kit Bolsa Maternidade Personalizada Star  - 02 Peças",
-    "price_now": 354.9,
-    "price_was": 601.53,
-    "discount_pct": 41,
-    "url": "https://s.shopee.com.br/50YgO9T0N6",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mpjgt8rilzb600",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T03:00:43.708396"
-  },
-  {
-    "id": "64f5d4f5cc3f08a6",
-    "title": "Johnson's Baby Shampoo Infantil Para Cabelos Cacheados Cachos Dos Sonhos, 400ml",
-    "price_now": 18.0,
-    "price_was": 26.59,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B07DHRLBBH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/510099562017883051074491210801.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T23:30:52.699006"
   }
 ]
