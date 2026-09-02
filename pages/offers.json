@@ -1,5 +1,41 @@
 [
   {
+    "id": "6b78dc161bf364bc",
+    "title": "Fralda Turma da Mônica Baby Mega XXG 36 Unidades",
+    "price_now": 35.0,
+    "price_was": 50.04,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KPQQWF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/477633847117883812672347547055.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T20:51:19.041209"
+  },
+  {
+    "id": "82021e3fa0c42378",
+    "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
+    "price_now": 35.0,
+    "price_was": 50.04,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/292946368417883817281956990400.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T20:51:07.412716"
+  },
+  {
+    "id": "5af595c67fc825c9",
+    "title": "Kit 3 Sutiã Infantil Juvenil Algodão Cotton Liso (Tam. 6 a 14 anos)",
+    "price_now": 25.85,
+    "price_was": 47.87,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/3B76mEgPwj?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/239762279417883820981303406104.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T20:50:57.159923"
+  },
+  {
     "id": "8129111600794a3b",
     "title": "Personal Fralda Baby Premium Pants XG 50 Unidades",
     "price_now": 77.0,
@@ -106,41 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-02T16:50:37.348966"
-  },
-  {
-    "id": "4362cb8d2ef6214a",
-    "title": "45 Pares Kits Lembrancinhas Chá de Fralda,Chá Revelação,Cha de bebe,Saida  de Maternidade",
-    "price_now": 60.5,
-    "price_was": 110.0,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/112bvvSYzy",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj1pfgooqeiu42",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T16:50:35.975170"
-  },
-  {
-    "id": "65c7e03bc52de21c",
-    "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
-    "price_now": 12.35,
-    "price_was": 19.0,
-    "discount_pct": 35,
-    "url": "https://s.shopee.com.br/BTQdwHEv9",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxy82d0505ccb",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T16:30:42.821767"
-  },
-  {
-    "id": "a0c3b5761a1435e3",
-    "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
-    "price_now": 21.0,
-    "price_was": 44.99,
-    "discount_pct": 53,
-    "url": "https://www.amazon.com.br/dp/B07F1Z7ZM2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/507487436617883636082012117121.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T15:50:44.276835"
   }
 ]

@@ -2823,6 +2823,18 @@
     "8129111600794a3b": {
       "title": "Personal Fralda Baby Premium Pants XG 50 Unidades",
       "posted_at": "2026-09-02T20:31:25.666538"
+    },
+    "5af595c67fc825c9": {
+      "title": "Kit 3 Sutiã Infantil Juvenil Algodão Cotton Liso (Tam. 6 a 14 anos)",
+      "posted_at": "2026-09-02T20:50:57.160250"
+    },
+    "82021e3fa0c42378": {
+      "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
+      "posted_at": "2026-09-02T20:51:07.413061"
+    },
+    "6b78dc161bf364bc": {
+      "title": "Fralda Turma da Mônica Baby Mega XXG 36 Unidades",
+      "posted_at": "2026-09-02T20:51:19.041593"
     }
   },
   "results": [
@@ -13913,6 +13925,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-02T20:40:47.501351"
+    },
+    {
+      "offer_id": "5af595c67fc825c9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "714",
+      "error": null,
+      "at": "2026-09-02T20:50:57.159548"
+    },
+    {
+      "offer_id": "82021e3fa0c42378",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "715",
+      "error": null,
+      "at": "2026-09-02T20:51:07.412416"
+    },
+    {
+      "offer_id": "6b78dc161bf364bc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "716",
+      "error": null,
+      "at": "2026-09-02T20:51:19.040916"
     }
   ]
 }
