@@ -2799,6 +2799,10 @@
     "39b6216e53e9e6fa": {
       "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
       "posted_at": "2026-09-02T18:01:08.527404"
+    },
+    "970043f077f468c2": {
+      "title": "Fralda Personal Baby Premium Pants G 62 unidades",
+      "posted_at": "2026-09-02T18:20:54.091131"
     }
   },
   "results": [
@@ -13817,6 +13821,14 @@
       "post_id": "707",
       "error": null,
       "at": "2026-09-02T18:01:08.526736"
+    },
+    {
+      "offer_id": "970043f077f468c2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "708",
+      "error": null,
+      "at": "2026-09-02T18:20:54.090412"
     }
   ]
 }
