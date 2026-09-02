@@ -2683,6 +2683,22 @@
     "5a96b6aaaf321705": {
       "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
       "posted_at": "2026-09-02T11:31:43.861176"
+    },
+    "560b6d9a0ede3ef7": {
+      "title": "Personal Fralda Baby Premium Protection P, 40 Unidades",
+      "posted_at": "2026-09-02T11:50:44.852036"
+    },
+    "02a95b33ef9bf312": {
+      "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+      "posted_at": "2026-09-02T11:50:57.413080"
+    },
+    "0ca8b415b67e9b43": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper M 86 Unidades",
+      "posted_at": "2026-09-02T11:51:17.605361"
+    },
+    "7b7dc804339d82cc": {
+      "title": "Fralda Turma da Mônica Baby Mega XG 42 Unidades",
+      "posted_at": "2026-09-02T11:51:37.658304"
     }
   },
   "results": [
@@ -13309,6 +13325,38 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-02T11:40:46.601677"
+    },
+    {
+      "offer_id": "560b6d9a0ede3ef7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "679",
+      "error": null,
+      "at": "2026-09-02T11:50:44.851336"
+    },
+    {
+      "offer_id": "02a95b33ef9bf312",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "680",
+      "error": null,
+      "at": "2026-09-02T11:50:57.412409"
+    },
+    {
+      "offer_id": "0ca8b415b67e9b43",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "681",
+      "error": null,
+      "at": "2026-09-02T11:51:17.604692"
+    },
+    {
+      "offer_id": "7b7dc804339d82cc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "682",
+      "error": null,
+      "at": "2026-09-02T11:51:37.657674"
     }
   ]
 }
