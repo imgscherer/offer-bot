@@ -2631,6 +2631,10 @@
     "a64fcf978c705b9a": {
       "title": "Kit Bolsa Maternidade Menino/Menina Personalizado - 02 Peças",
       "posted_at": "2026-09-02T03:00:44.922944"
+    },
+    "f20111231e6a2336": {
+      "title": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
+      "posted_at": "2026-09-02T03:30:53.803667"
     }
   },
   "results": [
@@ -13113,6 +13117,14 @@
       "post_id": "665",
       "error": null,
       "at": "2026-09-02T03:00:44.922246"
+    },
+    {
+      "offer_id": "f20111231e6a2336",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "666",
+      "error": null,
+      "at": "2026-09-02T03:30:53.802998"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "f20111231e6a2336",
+    "title": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
+    "price_now": 135.0,
+    "price_was": 235.87,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B09DQ6CMG2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/707581986517883192256735497823.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T03:30:53.803337"
+  },
+  {
     "id": "a64fcf978c705b9a",
     "title": "Kit Bolsa Maternidade Menino/Menina Personalizado - 02 Peças",
     "price_now": 564.9,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-01T17:00:51.743535"
-  },
-  {
-    "id": "ab17b2a29f4918e1",
-    "title": "100 Mini Pezinhos de Sabonete Perfumado para Lembrança de Chá de Fralda Infantil 50 pares",
-    "price_now": 75.0,
-    "price_was": 300.0,
-    "discount_pct": 75,
-    "url": "https://s.shopee.com.br/8plRg7yG19",
-    "image": "https://cf.shopee.com.br/file/br-11134201-7r98o-m9u5zcmi5s1lbc",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T17:00:48.060234"
   }
 ]
