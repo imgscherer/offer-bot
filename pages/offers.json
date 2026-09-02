@@ -1,5 +1,17 @@
 [
   {
+    "id": "ff67fc6da9d1e833",
+    "title": "Fralda Pampers Pants Premium Care XXG 90 Unidades",
+    "price_now": 127.28,
+    "price_was": 182.45,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B08K4L452V?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/328502039717883459081570725350.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T10:50:51.484942"
+  },
+  {
     "id": "872faf15ddad637c",
     "title": "Fralda Pampers Pants Ajuste Total G, 144 Unidades",
     "price_now": 161.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-01T18:20:49.364246"
-  },
-  {
-    "id": "3d6b67719c09baeb",
-    "title": "40 Pares Lembrancinhas Chá de Fralda,Chá Revelação,Cha de bebe,Saida  de Maternidade",
-    "price_now": 60.0,
-    "price_was": 100.0,
-    "discount_pct": 40,
-    "url": "https://s.shopee.com.br/9V18TLvifL",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj1osexwi329a9",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T17:00:57.176346"
   }
 ]
