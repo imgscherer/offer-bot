@@ -1,5 +1,41 @@
 [
   {
+    "id": "98e767395b2d3614",
+    "title": "Fralda Baby Premium Protection M 62 Unidades",
+    "price_now": 61.0,
+    "price_was": 94.84,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0C3FS2GXX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/428119137017883796262213094063.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T20:21:28.412435"
+  },
+  {
+    "id": "35f3dd5d6fd2da85",
+    "title": "Kit Saída Maternidade Bebê 100% Algodão 4 Peças (3 Cores)",
+    "price_now": 67.0,
+    "price_was": 129.0,
+    "discount_pct": 48,
+    "url": "https://s.shopee.com.br/70JpIK55g9?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/416761858717883795138100399829.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T20:21:03.013974"
+  },
+  {
+    "id": "59239fc65028632d",
+    "title": "Moisés Berço Portátil Com Balanço Comfy Maxi Baby Até 9kgs",
+    "price_now": 320.3,
+    "price_was": 649.9,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B09VH4SJHT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/960523341217883799307158478231.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T20:20:43.822698"
+  },
+  {
     "id": "970043f077f468c2",
     "title": "Fralda Personal Baby Premium Pants G 62 unidades",
     "price_now": 68.49,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-02T15:10:45.464649"
-  },
-  {
-    "id": "5209838e7a56ec55",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
-    "price_now": 53.59,
-    "price_was": 77.37,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/531790064917883609678647637724.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T15:01:27.062754"
-  },
-  {
-    "id": "92a884f6a52a5c5c",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe M 86 unidades",
-    "price_now": 53.59,
-    "price_was": 77.37,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B097RYMQZ5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/412032875517883609702133846817.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T15:01:13.320337"
-  },
-  {
-    "id": "1d8d3e9b408ea617",
-    "title": "Fralda Huggies Supreme Care Roupinha M 80 unidades",
-    "price_now": 74.92,
-    "price_was": 131.78,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B0BXM2Q9SQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/657833280817883595306382538935.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T14:41:34.274031"
   }
 ]

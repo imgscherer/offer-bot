@@ -2803,6 +2803,18 @@
     "970043f077f468c2": {
       "title": "Fralda Personal Baby Premium Pants G 62 unidades",
       "posted_at": "2026-09-02T18:20:54.091131"
+    },
+    "59239fc65028632d": {
+      "title": "Moisés Berço Portátil Com Balanço Comfy Maxi Baby Até 9kgs",
+      "posted_at": "2026-09-02T20:20:43.823124"
+    },
+    "35f3dd5d6fd2da85": {
+      "title": "Kit Saída Maternidade Bebê 100% Algodão 4 Peças (3 Cores)",
+      "posted_at": "2026-09-02T20:21:03.014311"
+    },
+    "98e767395b2d3614": {
+      "title": "Fralda Baby Premium Protection M 62 Unidades",
+      "posted_at": "2026-09-02T20:21:28.413476"
     }
   },
   "results": [
@@ -13829,6 +13841,38 @@
       "post_id": "708",
       "error": null,
       "at": "2026-09-02T18:20:54.090412"
+    },
+    {
+      "offer_id": "59239fc65028632d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "709",
+      "error": null,
+      "at": "2026-09-02T20:20:43.822294"
+    },
+    {
+      "offer_id": "35f3dd5d6fd2da85",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "710",
+      "error": null,
+      "at": "2026-09-02T20:21:03.013581"
+    },
+    {
+      "offer_id": "7b31c8de205a548b",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-02T20:21:19.991365"
+    },
+    {
+      "offer_id": "98e767395b2d3614",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "711",
+      "error": null,
+      "at": "2026-09-02T20:21:28.412114"
     }
   ]
 }
