@@ -2739,6 +2739,18 @@
     "db8c72b682f2c639": {
       "title": "Johnson's Baby Colônia Refrescante Lavanda Para Bebês 400ml",
       "posted_at": "2026-09-02T13:30:50.786347"
+    },
+    "3849a23594ba053e": {
+      "title": "Ninho Redutor de Berço Almofada Amamentacao Trocador de Fraldas Várias Estampas Menino Menina",
+      "posted_at": "2026-09-02T14:30:54.645830"
+    },
+    "14f8eadcde10867a": {
+      "title": "Capa Colchão Impermeável Antialérgica Protetor Material Hospitalar Segura Xixi Solteiro Casal Berço",
+      "posted_at": "2026-09-02T14:30:58.023662"
+    },
+    "20e84eb5a38c6063": {
+      "title": "Fralda Huggies Supreme Care Roupinha XG 64 unidades",
+      "posted_at": "2026-09-02T14:31:22.366594"
     }
   },
   "results": [
@@ -13581,6 +13593,46 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-02T14:21:06.110748"
+    },
+    {
+      "offer_id": "eb716042a7cd2f3b",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-02T14:30:52.560206"
+    },
+    {
+      "offer_id": "3849a23594ba053e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "693",
+      "error": null,
+      "at": "2026-09-02T14:30:54.645122"
+    },
+    {
+      "offer_id": "14f8eadcde10867a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "694",
+      "error": null,
+      "at": "2026-09-02T14:30:58.023003"
+    },
+    {
+      "offer_id": "45976b42ccc318b6",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-02T14:31:06.496177"
+    },
+    {
+      "offer_id": "20e84eb5a38c6063",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "695",
+      "error": null,
+      "at": "2026-09-02T14:31:22.365925"
     }
   ]
 }

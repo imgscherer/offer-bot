@@ -1,5 +1,41 @@
 [
   {
+    "id": "20e84eb5a38c6063",
+    "title": "Fralda Huggies Supreme Care Roupinha XG 64 unidades",
+    "price_now": 71.94,
+    "price_was": 131.78,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/400921653517883590626688299196.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T14:31:22.366270"
+  },
+  {
+    "id": "14f8eadcde10867a",
+    "title": "Capa Colchão Impermeável Antialérgica Protetor Material Hospitalar Segura Xixi Solteiro Casal Berço",
+    "price_now": 39.98,
+    "price_was": 79.96,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/1LfSAvyzB8",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgcfn7pa4y6fcd",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T14:30:58.023336"
+  },
+  {
+    "id": "3849a23594ba053e",
+    "title": "Ninho Redutor de Berço Almofada Amamentacao Trocador de Fraldas Várias Estampas Menino Menina",
+    "price_now": 64.9,
+    "price_was": 141.09,
+    "discount_pct": 54,
+    "url": "https://s.shopee.com.br/30ng9zsdnI",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc0x909bjsrd35",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T14:30:54.645476"
+  },
+  {
     "id": "db8c72b682f2c639",
     "title": "Johnson's Baby Colônia Refrescante Lavanda Para Bebês 400ml",
     "price_now": 40.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-02T12:11:04.040279"
-  },
-  {
-    "id": "00a5a3f1433e1ee5",
-    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
-    "price_now": 48.0,
-    "price_was": 72.65,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/439201958917883507674028840226.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T12:10:51.195828"
-  },
-  {
-    "id": "7b7dc804339d82cc",
-    "title": "Fralda Turma da Mônica Baby Mega XG 42 Unidades",
-    "price_now": 35.0,
-    "price_was": 50.04,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B099KV2733?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/649477845517883492082866968297.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T11:51:37.657985"
-  },
-  {
-    "id": "0ca8b415b67e9b43",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper M 86 Unidades",
-    "price_now": 53.0,
-    "price_was": 77.37,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B097RYMQZ5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/675115356017883486096507580760.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T11:51:17.605039"
   }
 ]
