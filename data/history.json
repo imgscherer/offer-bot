@@ -2783,6 +2783,14 @@
     "65c7e03bc52de21c": {
       "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
       "posted_at": "2026-09-02T16:30:42.822088"
+    },
+    "4362cb8d2ef6214a": {
+      "title": "45 Pares Kits Lembrancinhas Chá de Fralda,Chá Revelação,Cha de bebe,Saida  de Maternidade",
+      "posted_at": "2026-09-02T16:50:35.975516"
+    },
+    "7201c87e959bbc8e": {
+      "title": "55 Pares Lembrancinhas Chá Revelação, Chá de Fralda,Cha de bebe,Saida  de Maternidade",
+      "posted_at": "2026-09-02T16:50:37.349350"
     }
   },
   "results": [
@@ -13769,6 +13777,22 @@
       "post_id": "703",
       "error": null,
       "at": "2026-09-02T16:30:42.821445"
+    },
+    {
+      "offer_id": "4362cb8d2ef6214a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "704",
+      "error": null,
+      "at": "2026-09-02T16:50:35.974779"
+    },
+    {
+      "offer_id": "7201c87e959bbc8e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "705",
+      "error": null,
+      "at": "2026-09-02T16:50:37.348627"
     }
   ]
 }
