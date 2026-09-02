@@ -1,5 +1,29 @@
 [
   {
+    "id": "fb3c6372c4b3a18d",
+    "title": "MamyPoko Fralda-Calça Premium Seca G 60 Unidades",
+    "price_now": 84.91,
+    "price_was": 129.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B08DJTXZ2B?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/135102173317883465719684983831.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T11:11:02.138385"
+  },
+  {
+    "id": "ff5bc9fd04ace294",
+    "title": "Huggies Fralda Premium Natural Care RN 34 Un",
+    "price_now": 28.0,
+    "price_was": 43.59,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/805480715417883467499689229141.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T11:10:50.591025"
+  },
+  {
     "id": "ff67fc6da9d1e833",
     "title": "Fralda Pampers Pants Premium Care XXG 90 Unidades",
     "price_now": 127.28,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-01T18:50:53.468387"
-  },
-  {
-    "id": "d85c4b516f45d42d",
-    "title": "8 Body Manga Curta Simple Joys by Carter's Bebê",
-    "price_now": 117.0,
-    "price_was": 171.98,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B08G8TGLV2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/347871062717882872303448657560.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T18:40:48.328274"
-  },
-  {
-    "id": "06b349259fc6f323",
-    "title": "Creme para Assadura Granado Bebê Dermocalmante 50g",
-    "price_now": 22.39,
-    "price_was": 40.88,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B07NPYD9KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/600376203617882859104166462715.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T18:20:49.364246"
   }
 ]
