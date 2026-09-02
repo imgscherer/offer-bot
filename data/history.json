@@ -2779,6 +2779,10 @@
     "a0c3b5761a1435e3": {
       "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
       "posted_at": "2026-09-02T15:50:44.277183"
+    },
+    "65c7e03bc52de21c": {
+      "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
+      "posted_at": "2026-09-02T16:30:42.822088"
     }
   },
   "results": [
@@ -13757,6 +13761,14 @@
       "post_id": "702",
       "error": null,
       "at": "2026-09-02T15:50:44.276459"
+    },
+    {
+      "offer_id": "65c7e03bc52de21c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "703",
+      "error": null,
+      "at": "2026-09-02T16:30:42.821445"
     }
   ]
 }
