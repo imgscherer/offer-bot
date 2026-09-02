@@ -2815,6 +2815,14 @@
     "98e767395b2d3614": {
       "title": "Fralda Baby Premium Protection M 62 Unidades",
       "posted_at": "2026-09-02T20:21:28.413476"
+    },
+    "0cfd03d62d921ebb": {
+      "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+      "posted_at": "2026-09-02T20:31:05.897277"
+    },
+    "8129111600794a3b": {
+      "title": "Personal Fralda Baby Premium Pants XG 50 Unidades",
+      "posted_at": "2026-09-02T20:31:25.666538"
     }
   },
   "results": [
@@ -13873,6 +13881,30 @@
       "post_id": "711",
       "error": null,
       "at": "2026-09-02T20:21:28.412114"
+    },
+    {
+      "offer_id": "0cfd03d62d921ebb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "712",
+      "error": null,
+      "at": "2026-09-02T20:31:05.896475"
+    },
+    {
+      "offer_id": "7b31c8de205a548b",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-02T20:31:14.482947"
+    },
+    {
+      "offer_id": "8129111600794a3b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "713",
+      "error": null,
+      "at": "2026-09-02T20:31:25.665844"
     }
   ]
 }

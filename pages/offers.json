@@ -1,5 +1,29 @@
 [
   {
+    "id": "8129111600794a3b",
+    "title": "Personal Fralda Baby Premium Pants XG 50 Unidades",
+    "price_now": 77.0,
+    "price_was": 116.89,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BGM5LZ5D?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/123215923217883804078641745349.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T20:31:25.666186"
+  },
+  {
+    "id": "0cfd03d62d921ebb",
+    "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+    "price_now": 56.0,
+    "price_was": 101.58,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/798273497217883804105347089396.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T20:31:05.896904"
+  },
+  {
     "id": "98e767395b2d3614",
     "title": "Fralda Baby Premium Protection M 62 Unidades",
     "price_now": 61.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-02T15:50:44.276835"
-  },
-  {
-    "id": "b7f2311e1b1b8dd7",
-    "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
-    "price_now": 43.77,
-    "price_was": 69.42,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/901850579817883616871329649770.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T15:10:57.684310"
-  },
-  {
-    "id": "5c797b9b304cab09",
-    "title": "Fralda Personal Baby Total Protect Pants G 44 unidades",
-    "price_now": 43.77,
-    "price_was": 71.99,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0BTTLYZN9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/772418525917883616905419919210.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T15:10:45.464649"
   }
 ]
