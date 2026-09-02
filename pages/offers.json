@@ -1,5 +1,17 @@
 [
   {
+    "id": "872faf15ddad637c",
+    "title": "Fralda Pampers Pants Ajuste Total G, 144 Unidades",
+    "price_now": 161.0,
+    "price_was": 229.49,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/712264365617883452679704127869.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T10:40:57.829916"
+  },
+  {
     "id": "07130d4edca29eb0",
     "title": "Fralda Pants Huggies Proteção Acolchoada M",
     "price_now": 199.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-01T17:00:57.176346"
-  },
-  {
-    "id": "8a439efb1a37033a",
-    "title": "40 Mini Pezinhos de Sabonete Perfumado para Chá de Fralda Infantil 20 pares",
-    "price_now": 48.0,
-    "price_was": 120.0,
-    "discount_pct": 60,
-    "url": "https://s.shopee.com.br/9fKYfev5KK",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mq6p73aybn5t33",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T17:00:54.592606"
   }
 ]
