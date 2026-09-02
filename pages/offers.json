@@ -1,5 +1,41 @@
 [
   {
+    "id": "368388c7863f1aaa",
+    "title": "Fralda Pampers Pants Ajuste Total XXXG 108 unidades",
+    "price_now": 147.72,
+    "price_was": 229.49,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0DFQJQGPL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/477752397717883472949982278369.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T11:21:39.738556"
+  },
+  {
+    "id": "07ad15d416fdaf6c",
+    "title": "Fralda Pampers Pants Ajuste Total XG 132 Unidades",
+    "price_now": 147.72,
+    "price_was": 229.49,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0CGY6SGFY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/576880140917883472922962205973.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T11:21:06.915823"
+  },
+  {
+    "id": "b86cbe13c836d54d",
+    "title": "Fralda Pampers Pants Ajuste Total G 144 unidades",
+    "price_now": 147.72,
+    "price_was": 229.49,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/233303172217883472974786957604.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T11:20:52.271243"
+  },
+  {
     "id": "fb3c6372c4b3a18d",
     "title": "MamyPoko Fralda-Calça Premium Seca G 60 Unidades",
     "price_now": 84.91,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-01T23:30:52.699006"
-  },
-  {
-    "id": "281926b1774f58d8",
-    "title": "Granado Hidratante Bebê, Calêndula, 120ml",
-    "price_now": 20.0,
-    "price_was": 31.32,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0C3JKHRPV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/653285781617883004908844904942.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T22:10:42.009251"
-  },
-  {
-    "id": "484a550b03f0fb83",
-    "title": "Sandália infantil com lacinho (Tam. 20 ao 34, 3 cores)",
-    "price_now": 51.91,
-    "price_was": 110.45,
-    "discount_pct": 53,
-    "url": "https://s.shopee.com.br/W6JwOhfKo?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/443429271717882921595317841154.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T20:01:00.576884"
-  },
-  {
-    "id": "a6fada9ecf8e7d37",
-    "title": "Fralda Babysec Galinha Pintadinha Ultrasec G Com 60 Unidades",
-    "price_now": 55.0,
-    "price_was": 101.58,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/565360990317882878432101872227.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-01T18:50:53.468387"
   }
 ]

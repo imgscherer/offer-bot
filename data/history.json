@@ -2655,6 +2655,18 @@
     "fb3c6372c4b3a18d": {
       "title": "MamyPoko Fralda-Calça Premium Seca G 60 Unidades",
       "posted_at": "2026-09-02T11:11:02.138726"
+    },
+    "b86cbe13c836d54d": {
+      "title": "Fralda Pampers Pants Ajuste Total G 144 unidades",
+      "posted_at": "2026-09-02T11:20:52.271590"
+    },
+    "07ad15d416fdaf6c": {
+      "title": "Fralda Pampers Pants Ajuste Total XG 132 Unidades",
+      "posted_at": "2026-09-02T11:21:06.916149"
+    },
+    "368388c7863f1aaa": {
+      "title": "Fralda Pampers Pants Ajuste Total XXXG 108 unidades",
+      "posted_at": "2026-09-02T11:21:39.738899"
     }
   },
   "results": [
@@ -13193,6 +13205,46 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-02T11:11:18.606673"
+    },
+    {
+      "offer_id": "b86cbe13c836d54d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "672",
+      "error": null,
+      "at": "2026-09-02T11:20:52.270892"
+    },
+    {
+      "offer_id": "07ad15d416fdaf6c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "673",
+      "error": null,
+      "at": "2026-09-02T11:21:06.915487"
+    },
+    {
+      "offer_id": "bdc77dc829cb8d8c",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-02T11:21:24.677548"
+    },
+    {
+      "offer_id": "368388c7863f1aaa",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "674",
+      "error": null,
+      "at": "2026-09-02T11:21:39.738258"
+    },
+    {
+      "offer_id": "acfd826d1460cdfd",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-02T11:21:46.557505"
     }
   ]
 }
