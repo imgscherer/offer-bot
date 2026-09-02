@@ -1,5 +1,29 @@
 [
   {
+    "id": "5209838e7a56ec55",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
+    "price_now": 53.59,
+    "price_was": 77.37,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/531790064917883609678647637724.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T15:01:27.062754"
+  },
+  {
+    "id": "92a884f6a52a5c5c",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe M 86 unidades",
+    "price_now": 53.59,
+    "price_was": 77.37,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B097RYMQZ5?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/412032875517883609702133846817.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-02T15:01:13.320337"
+  },
+  {
     "id": "1d8d3e9b408ea617",
     "title": "Fralda Huggies Supreme Care Roupinha M 80 unidades",
     "price_now": 74.92,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-02T12:51:04.940554"
-  },
-  {
-    "id": "f901c7a2bc4f67ea",
-    "title": "Fralda Huggies Supreme Care Roupinha M 216 unidades",
-    "price_now": 179.91,
-    "price_was": 289.0,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/211572413417883521726159676024.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T12:50:49.880819"
-  },
-  {
-    "id": "ff5f6ceb7c040085",
-    "title": "Fralda Huggies Natural Care RN 34 Unidades",
-    "price_now": 28.4,
-    "price_was": 43.59,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/370807355917883511308106207003.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T12:31:06.284645"
   }
 ]

@@ -2759,6 +2759,14 @@
     "1d8d3e9b408ea617": {
       "title": "Fralda Huggies Supreme Care Roupinha M 80 unidades",
       "posted_at": "2026-09-02T14:41:34.274328"
+    },
+    "92a884f6a52a5c5c": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe M 86 unidades",
+      "posted_at": "2026-09-02T15:01:13.320653"
+    },
+    "5209838e7a56ec55": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
+      "posted_at": "2026-09-02T15:01:27.063111"
     }
   },
   "results": [
@@ -13689,6 +13697,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-02T14:51:01.958402"
+    },
+    {
+      "offer_id": "45976b42ccc318b6",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-02T15:00:59.262314"
+    },
+    {
+      "offer_id": "92a884f6a52a5c5c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "698",
+      "error": null,
+      "at": "2026-09-02T15:01:13.319984"
+    },
+    {
+      "offer_id": "5209838e7a56ec55",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "699",
+      "error": null,
+      "at": "2026-09-02T15:01:27.062418"
     }
   ]
 }
