@@ -1,5 +1,17 @@
 [
   {
+    "id": "081a7c132326b9c5",
+    "title": "Berço Portátil Safety 1st, Falcon, 0 a 20kg, Black Night",
+    "price_now": 710.0,
+    "price_was": 1099.0,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0FFTLCTZD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/469146286917884484491462590582.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-03T15:21:04.994895"
+  },
+  {
     "id": "54fc51b7df65363e",
     "title": "Fralda Personal Baby Protect e Sec XG 28 Unidades",
     "price_now": 25.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-03T03:30:45.653183"
-  },
-  {
-    "id": "c4741d3338f772fa",
-    "title": "Brinquedo Infantil Carrinho 6 em 1 com Engrenagens – Educativo, Interativo e Estimula Coordenação Motora",
-    "price_now": 125.0,
-    "price_was": 250.0,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/4fvuyYywj8",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkl4soz7oum903",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-03T03:00:44.149206"
   }
 ]

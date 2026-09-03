@@ -2903,6 +2903,10 @@
     "54fc51b7df65363e": {
       "title": "Fralda Personal Baby Protect e Sec XG 28 Unidades",
       "posted_at": "2026-09-03T14:10:46.439994"
+    },
+    "081a7c132326b9c5": {
+      "title": "Berço Portátil Safety 1st, Falcon, 0 a 20kg, Black Night",
+      "posted_at": "2026-09-03T15:21:04.995240"
     }
   },
   "results": [
@@ -14177,6 +14181,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-03T15:11:07.600343"
+    },
+    {
+      "offer_id": "ec7c0605e2f9f4fc",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-03T15:20:46.639512"
+    },
+    {
+      "offer_id": "b214803159bcc124",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-03T15:20:53.080581"
+    },
+    {
+      "offer_id": "081a7c132326b9c5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "734",
+      "error": null,
+      "at": "2026-09-03T15:21:04.994508"
     }
   ]
 }
