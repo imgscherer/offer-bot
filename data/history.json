@@ -2887,6 +2887,10 @@
     "ae418a1d3cb521b7": {
       "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
       "posted_at": "2026-09-03T12:01:04.591783"
+    },
+    "c8cf3abbee823e3e": {
+      "title": "Huggies Fralda Pants Premium Natural Care XG 56 Un",
+      "posted_at": "2026-09-03T13:00:58.924261"
     }
   },
   "results": [
@@ -14105,6 +14109,14 @@
       "post_id": "729",
       "error": null,
       "at": "2026-09-03T12:01:04.590963"
+    },
+    {
+      "offer_id": "c8cf3abbee823e3e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "730",
+      "error": null,
+      "at": "2026-09-03T13:00:58.923826"
     }
   ]
 }

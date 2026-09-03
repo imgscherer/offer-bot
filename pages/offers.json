@@ -1,5 +1,17 @@
 [
   {
+    "id": "c8cf3abbee823e3e",
+    "title": "Huggies Fralda Pants Premium Natural Care XG 56 Un",
+    "price_now": 83.0,
+    "price_was": 118.35,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/580884758317884400482518072185.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-03T13:00:58.924072"
+  },
+  {
     "id": "ae418a1d3cb521b7",
     "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
     "price_now": 33.54,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-02T22:50:44.312411"
-  },
-  {
-    "id": "911ff718e8455c27",
-    "title": "Buba Lixeira Antiodor para Fraldas",
-    "price_now": 149.0,
-    "price_was": 304.9,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B0C5GP554J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/331888358917883864672206183243.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T22:20:46.794171"
   }
 ]
