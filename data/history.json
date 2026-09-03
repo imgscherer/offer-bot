@@ -2871,6 +2871,10 @@
     "7258a864270810d8": {
       "title": "Kit Berço Personalizado Menina Cecília Branco/Floral - 08 Peças",
       "posted_at": "2026-09-03T06:00:53.831393"
+    },
+    "6e685e837ec41fa4": {
+      "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
+      "posted_at": "2026-09-03T10:50:38.780446"
     }
   },
   "results": [
@@ -14057,6 +14061,14 @@
       "post_id": "725",
       "error": null,
       "at": "2026-09-03T06:00:53.830678"
+    },
+    {
+      "offer_id": "6e685e837ec41fa4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "726",
+      "error": null,
+      "at": "2026-09-03T10:50:38.779792"
     }
   ]
 }
