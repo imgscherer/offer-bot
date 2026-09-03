@@ -2851,6 +2851,10 @@
     "2ee375c28a35f520": {
       "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos",
       "posted_at": "2026-09-02T22:50:58.104819"
+    },
+    "2bef13d71a084b84": {
+      "title": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e",
+      "posted_at": "2026-09-03T01:40:49.351394"
     }
   },
   "results": [
@@ -13997,6 +14001,14 @@
       "post_id": "720",
       "error": null,
       "at": "2026-09-02T22:50:58.104161"
+    },
+    {
+      "offer_id": "2bef13d71a084b84",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "721",
+      "error": null,
+      "at": "2026-09-03T01:40:49.350674"
     }
   ]
 }
