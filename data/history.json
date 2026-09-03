@@ -2895,6 +2895,10 @@
     "1cf14151ece1c7de": {
       "title": "Personal Fralda Baby Premium Pants XG, 50 Unidades",
       "posted_at": "2026-09-03T13:20:50.431249"
+    },
+    "895af73cc1fd8c47": {
+      "title": "Kit 8pçs Talheres de Silicone p Bebê c Ventosa, Colher, Garfo, Canudo e Babador Infantil",
+      "posted_at": "2026-09-03T13:31:07.753109"
     }
   },
   "results": [
@@ -14129,6 +14133,14 @@
       "post_id": "731",
       "error": null,
       "at": "2026-09-03T13:20:50.430491"
+    },
+    {
+      "offer_id": "895af73cc1fd8c47",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "732",
+      "error": null,
+      "at": "2026-09-03T13:31:07.752433"
     }
   ]
 }
