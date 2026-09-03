@@ -2907,6 +2907,10 @@
     "081a7c132326b9c5": {
       "title": "Berço Portátil Safety 1st, Falcon, 0 a 20kg, Black Night",
       "posted_at": "2026-09-03T15:21:04.995240"
+    },
+    "2b58588b70e79772": {
+      "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XXG 140 unidades aberta com tecnologia Xtra-Flex canais em X",
+      "posted_at": "2026-09-03T16:20:59.481579"
     }
   },
   "results": [
@@ -14277,6 +14281,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-03T16:10:41.168257"
+    },
+    {
+      "offer_id": "b214803159bcc124",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-03T16:20:45.901166"
+    },
+    {
+      "offer_id": "2b58588b70e79772",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "735",
+      "error": null,
+      "at": "2026-09-03T16:20:59.480929"
     }
   ]
 }
