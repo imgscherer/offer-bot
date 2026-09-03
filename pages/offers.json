@@ -1,5 +1,17 @@
 [
   {
+    "id": "ae418a1d3cb521b7",
+    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
+    "price_now": 33.54,
+    "price_was": 62.99,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/223701579117884358479317725888.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-03T12:01:04.591349"
+  },
+  {
     "id": "540436b279bef8c0",
     "title": "Bepantol Baby Lenço Umedecido para Bebê, Hipoalergênico 192 Unidades",
     "price_now": 35.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-02T22:20:46.794171"
-  },
-  {
-    "id": "fa0bb0804f475071",
-    "title": "Triciclo Infantil avespa Maral Empurrar Pedal 1 a 3 Anos Bebê Passeio Vermelho Amarelo spider",
-    "price_now": 273.0,
-    "price_was": 420.0,
-    "discount_pct": 35,
-    "url": "https://s.shopee.com.br/60RHTiTiUa",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgjukj0kpmv4d1",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T21:30:46.301740"
   }
 ]

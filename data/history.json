@@ -2883,6 +2883,10 @@
     "540436b279bef8c0": {
       "title": "Bepantol Baby Lenço Umedecido para Bebê, Hipoalergênico 192 Unidades",
       "posted_at": "2026-09-03T11:51:02.651494"
+    },
+    "ae418a1d3cb521b7": {
+      "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
+      "posted_at": "2026-09-03T12:01:04.591783"
     }
   },
   "results": [
@@ -14093,6 +14097,14 @@
       "post_id": "728",
       "error": null,
       "at": "2026-09-03T11:51:02.650792"
+    },
+    {
+      "offer_id": "ae418a1d3cb521b7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "729",
+      "error": null,
+      "at": "2026-09-03T12:01:04.590963"
     }
   ]
 }
