@@ -2915,6 +2915,14 @@
     "e5db2459009b036b": {
       "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso, 400ml",
       "posted_at": "2026-09-03T17:01:01.739846"
+    },
+    "8b3a23bcf435241d": {
+      "title": "KIT 3 PANO DE BOCA COM PRENDEDOR DE CHUPETA 100% ALGODÃO 34 X 34CM ENXOVAL DE BEBE INCONFRAL URSINHO",
+      "posted_at": "2026-09-03T17:10:39.439455"
+    },
+    "eaf302a524eab3b0": {
+      "title": "Kit Bolsa Maternidade Menina Celina Borboletas Pérola/Rosa - 02 Peças",
+      "posted_at": "2026-09-03T17:10:42.225607"
     }
   },
   "results": [
@@ -14309,6 +14317,22 @@
       "post_id": "736",
       "error": null,
       "at": "2026-09-03T17:01:01.739145"
+    },
+    {
+      "offer_id": "8b3a23bcf435241d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "737",
+      "error": null,
+      "at": "2026-09-03T17:10:39.438891"
+    },
+    {
+      "offer_id": "eaf302a524eab3b0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "738",
+      "error": null,
+      "at": "2026-09-03T17:10:42.225065"
     }
   ]
 }
