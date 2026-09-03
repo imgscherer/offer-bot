@@ -2891,6 +2891,10 @@
     "c8cf3abbee823e3e": {
       "title": "Huggies Fralda Pants Premium Natural Care XG 56 Un",
       "posted_at": "2026-09-03T13:00:58.924261"
+    },
+    "1cf14151ece1c7de": {
+      "title": "Personal Fralda Baby Premium Pants XG, 50 Unidades",
+      "posted_at": "2026-09-03T13:20:50.431249"
     }
   },
   "results": [
@@ -14117,6 +14121,14 @@
       "post_id": "730",
       "error": null,
       "at": "2026-09-03T13:00:58.923826"
+    },
+    {
+      "offer_id": "1cf14151ece1c7de",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "731",
+      "error": null,
+      "at": "2026-09-03T13:20:50.430491"
     }
   ]
 }

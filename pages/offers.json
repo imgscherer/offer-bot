@@ -1,5 +1,17 @@
 [
   {
+    "id": "1cf14151ece1c7de",
+    "title": "Personal Fralda Baby Premium Pants XG, 50 Unidades",
+    "price_now": 81.8,
+    "price_was": 116.89,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0BGM5LZ5D?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/251171609517884404688899104577.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-03T13:20:50.430857"
+  },
+  {
     "id": "c8cf3abbee823e3e",
     "title": "Huggies Fralda Pants Premium Natural Care XG 56 Un",
     "price_now": 83.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-02T22:50:58.104478"
-  },
-  {
-    "id": "53cef5d8b0485bf1",
-    "title": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
-    "price_now": 29.9,
-    "price_was": 43.59,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/348278027517883885675887729920.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T22:50:44.312411"
   }
 ]
