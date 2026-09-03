@@ -2859,6 +2859,10 @@
     "c4741d3338f772fa": {
       "title": "Brinquedo Infantil Carrinho 6 em 1 com Engrenagens – Educativo, Interativo e Estimula Coordenação Motora",
       "posted_at": "2026-09-03T03:00:44.149526"
+    },
+    "01b417aef7f63ddf": {
+      "title": "Kit Berço Americano Personalizado Menino/Menina 100% algodão - 08 Peças",
+      "posted_at": "2026-09-03T03:30:45.653471"
     }
   },
   "results": [
@@ -14021,6 +14025,14 @@
       "post_id": "722",
       "error": null,
       "at": "2026-09-03T03:00:44.148825"
+    },
+    {
+      "offer_id": "01b417aef7f63ddf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "723",
+      "error": null,
+      "at": "2026-09-03T03:30:45.652851"
     }
   ]
 }
