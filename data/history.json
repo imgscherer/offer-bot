@@ -2923,6 +2923,10 @@
     "eaf302a524eab3b0": {
       "title": "Kit Bolsa Maternidade Menina Celina Borboletas Pérola/Rosa - 02 Peças",
       "posted_at": "2026-09-03T17:10:42.225607"
+    },
+    "5493c0b5bb930978": {
+      "title": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
+      "posted_at": "2026-09-03T17:20:43.698712"
     }
   },
   "results": [
@@ -14333,6 +14337,14 @@
       "post_id": "738",
       "error": null,
       "at": "2026-09-03T17:10:42.225065"
+    },
+    {
+      "offer_id": "5493c0b5bb930978",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "739",
+      "error": null,
+      "at": "2026-09-03T17:20:43.697989"
     }
   ]
 }
