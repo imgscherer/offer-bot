@@ -2875,6 +2875,14 @@
     "6e685e837ec41fa4": {
       "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
       "posted_at": "2026-09-03T10:50:38.780446"
+    },
+    "608a87226af087ce": {
+      "title": "Fralda Personal Baby Premium Protection RN ao P 24 unidades",
+      "posted_at": "2026-09-03T11:50:52.238904"
+    },
+    "540436b279bef8c0": {
+      "title": "Bepantol Baby Lenço Umedecido para Bebê, Hipoalergênico 192 Unidades",
+      "posted_at": "2026-09-03T11:51:02.651494"
     }
   },
   "results": [
@@ -14069,6 +14077,22 @@
       "post_id": "726",
       "error": null,
       "at": "2026-09-03T10:50:38.779792"
+    },
+    {
+      "offer_id": "608a87226af087ce",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "727",
+      "error": null,
+      "at": "2026-09-03T11:50:52.238184"
+    },
+    {
+      "offer_id": "540436b279bef8c0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "728",
+      "error": null,
+      "at": "2026-09-03T11:51:02.650792"
     }
   ]
 }

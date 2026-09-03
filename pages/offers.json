@@ -1,5 +1,29 @@
 [
   {
+    "id": "540436b279bef8c0",
+    "title": "Bepantol Baby Lenço Umedecido para Bebê, Hipoalergênico 192 Unidades",
+    "price_now": 35.0,
+    "price_was": 55.97,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B096KDKNNQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/509199568917884353077309417820.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-03T11:51:02.651129"
+  },
+  {
+    "id": "608a87226af087ce",
+    "title": "Fralda Personal Baby Premium Protection RN ao P 24 unidades",
+    "price_now": 20.24,
+    "price_was": 33.2,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0C3FLPXG7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/340379174617884352572162773367.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-03T11:50:52.238528"
+  },
+  {
     "id": "6e685e837ec41fa4",
     "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
     "price_now": 12.3,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-02T21:30:46.301740"
-  },
-  {
-    "id": "6b78dc161bf364bc",
-    "title": "Fralda Turma da Mônica Baby Mega XXG 36 Unidades",
-    "price_now": 35.0,
-    "price_was": 50.04,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B099KPQQWF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/477633847117883812672347547055.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T20:51:19.041209"
-  },
-  {
-    "id": "82021e3fa0c42378",
-    "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
-    "price_now": 35.0,
-    "price_was": 50.04,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/292946368417883817281956990400.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T20:51:07.412716"
   }
 ]
