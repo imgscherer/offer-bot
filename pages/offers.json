@@ -1,5 +1,17 @@
 [
   {
+    "id": "e5db2459009b036b",
+    "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso, 400ml",
+    "price_now": 18.5,
+    "price_was": 34.99,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B0BFJHYD5X?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/422343179717884539246049234943.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-03T17:01:01.739502"
+  },
+  {
     "id": "2b58588b70e79772",
     "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XXG 140 unidades aberta com tecnologia Xtra-Flex canais em X",
     "price_now": 159.89,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-03T06:00:53.831051"
-  },
-  {
-    "id": "21e3814ec028e397",
-    "title": "Caminhão Dinossauro T-Rex Transporte Cegonha + Pista Carrinho Maleta Brinquedo Infantil + 4 Carrinhos",
-    "price_now": 175.0,
-    "price_was": 250.0,
-    "discount_pct": 30,
-    "url": "https://s.shopee.com.br/3g3NtabviB",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkijf5rylgcgfa",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-03T04:40:41.409713"
   }
 ]
