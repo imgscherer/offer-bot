@@ -2927,6 +2927,10 @@
     "5493c0b5bb930978": {
       "title": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
       "posted_at": "2026-09-03T17:20:43.698712"
+    },
+    "72b7bfbb08d554c3": {
+      "title": "Bota Infantil Tratorada (Tam. 21 ao 28, 3 cores)",
+      "posted_at": "2026-09-03T19:50:53.395331"
     }
   },
   "results": [
@@ -14345,6 +14349,14 @@
       "post_id": "739",
       "error": null,
       "at": "2026-09-03T17:20:43.697989"
+    },
+    {
+      "offer_id": "72b7bfbb08d554c3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "740",
+      "error": null,
+      "at": "2026-09-03T19:50:53.394647"
     }
   ]
 }
