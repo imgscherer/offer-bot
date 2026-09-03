@@ -1,5 +1,17 @@
 [
   {
+    "id": "21e3814ec028e397",
+    "title": "Caminhão Dinossauro T-Rex Transporte Cegonha + Pista Carrinho Maleta Brinquedo Infantil + 4 Carrinhos",
+    "price_now": 175.0,
+    "price_was": 250.0,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/3g3NtabviB",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkijf5rylgcgfa",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-03T04:40:41.409713"
+  },
+  {
     "id": "01b417aef7f63ddf",
     "title": "Kit Berço Americano Personalizado Menino/Menina 100% algodão - 08 Peças",
     "price_now": 385.12,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-02T20:31:25.666186"
-  },
-  {
-    "id": "0cfd03d62d921ebb",
-    "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
-    "price_now": 56.0,
-    "price_was": 101.58,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/798273497217883804105347089396.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-02T20:31:05.896904"
   }
 ]

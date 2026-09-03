@@ -2863,6 +2863,10 @@
     "01b417aef7f63ddf": {
       "title": "Kit Berço Americano Personalizado Menino/Menina 100% algodão - 08 Peças",
       "posted_at": "2026-09-03T03:30:45.653471"
+    },
+    "21e3814ec028e397": {
+      "title": "Caminhão Dinossauro T-Rex Transporte Cegonha + Pista Carrinho Maleta Brinquedo Infantil + 4 Carrinhos",
+      "posted_at": "2026-09-03T04:40:41.409983"
     }
   },
   "results": [
@@ -14033,6 +14037,14 @@
       "post_id": "723",
       "error": null,
       "at": "2026-09-03T03:30:45.652851"
+    },
+    {
+      "offer_id": "21e3814ec028e397",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "724",
+      "error": null,
+      "at": "2026-09-03T04:40:41.409381"
     }
   ]
 }
