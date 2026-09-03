@@ -2899,6 +2899,10 @@
     "895af73cc1fd8c47": {
       "title": "Kit 8pçs Talheres de Silicone p Bebê c Ventosa, Colher, Garfo, Canudo e Babador Infantil",
       "posted_at": "2026-09-03T13:31:07.753109"
+    },
+    "54fc51b7df65363e": {
+      "title": "Fralda Personal Baby Protect e Sec XG 28 Unidades",
+      "posted_at": "2026-09-03T14:10:46.439994"
     }
   },
   "results": [
@@ -14141,6 +14145,14 @@
       "post_id": "732",
       "error": null,
       "at": "2026-09-03T13:31:07.752433"
+    },
+    {
+      "offer_id": "54fc51b7df65363e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "733",
+      "error": null,
+      "at": "2026-09-03T14:10:46.439226"
     }
   ]
 }
