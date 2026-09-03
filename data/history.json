@@ -2867,6 +2867,10 @@
     "21e3814ec028e397": {
       "title": "Caminhão Dinossauro T-Rex Transporte Cegonha + Pista Carrinho Maleta Brinquedo Infantil + 4 Carrinhos",
       "posted_at": "2026-09-03T04:40:41.409983"
+    },
+    "7258a864270810d8": {
+      "title": "Kit Berço Personalizado Menina Cecília Branco/Floral - 08 Peças",
+      "posted_at": "2026-09-03T06:00:53.831393"
     }
   },
   "results": [
@@ -14045,6 +14049,14 @@
       "post_id": "724",
       "error": null,
       "at": "2026-09-03T04:40:41.409381"
+    },
+    {
+      "offer_id": "7258a864270810d8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "725",
+      "error": null,
+      "at": "2026-09-03T06:00:53.830678"
     }
   ]
 }
