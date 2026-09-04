@@ -2951,6 +2951,10 @@
     "f0e9e8f80603f2f1": {
       "title": "Kit Roupinha de Bebê 12 Peças Body Manga Longa e Mijão Vira Pé",
       "posted_at": "2026-09-04T02:00:58.355884"
+    },
+    "7f05d353ebbc0e88": {
+      "title": "95 Kits Lembrancinhas Chá Revelação, Chá de Fralda,Cha de bebe,Saida  de Maternidade",
+      "posted_at": "2026-09-04T12:10:37.149911"
     }
   },
   "results": [
@@ -14417,6 +14421,14 @@
       "post_id": "745",
       "error": null,
       "at": "2026-09-04T02:00:58.355319"
+    },
+    {
+      "offer_id": "7f05d353ebbc0e88",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "746",
+      "error": null,
+      "at": "2026-09-04T12:10:37.149205"
     }
   ]
 }
