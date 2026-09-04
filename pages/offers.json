@@ -1,5 +1,17 @@
 [
   {
+    "id": "d385633f08a4e8fe",
+    "title": "Conjunto Bebê Verão Body Estampado Carrinho e Short Telha",
+    "price_now": 40.52,
+    "price_was": 57.89,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/5foSO8L1YY",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mesne7w4mk8x7a",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-04T16:20:35.292083"
+  },
+  {
     "id": "29d3ea399d111b8a",
     "title": "Pulseira de Segurança Infantil Retrátil Ajustável com Trava 1,5m",
     "price_now": 17.98,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-03T17:20:43.698361"
-  },
-  {
-    "id": "eaf302a524eab3b0",
-    "title": "Kit Bolsa Maternidade Menina Celina Borboletas Pérola/Rosa - 02 Peças",
-    "price_now": 599.9,
-    "price_was": 999.83,
-    "discount_pct": 40,
-    "url": "https://s.shopee.com.br/8fS4gHVCZ9",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc7vqx0sqhnvad",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-03T17:10:42.225325"
   }
 ]

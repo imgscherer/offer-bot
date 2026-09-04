@@ -2967,6 +2967,10 @@
     "29d3ea399d111b8a": {
       "title": "Pulseira de Segurança Infantil Retrátil Ajustável com Trava 1,5m",
       "posted_at": "2026-09-04T16:10:50.893868"
+    },
+    "d385633f08a4e8fe": {
+      "title": "Conjunto Bebê Verão Body Estampado Carrinho e Short Telha",
+      "posted_at": "2026-09-04T16:20:35.292460"
     }
   },
   "results": [
@@ -14473,6 +14477,14 @@
       "post_id": "749",
       "error": null,
       "at": "2026-09-04T16:10:50.893101"
+    },
+    {
+      "offer_id": "d385633f08a4e8fe",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "750",
+      "error": null,
+      "at": "2026-09-04T16:20:35.291750"
     }
   ]
 }
