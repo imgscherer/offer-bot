@@ -2959,6 +2959,10 @@
     "0fba4d496d035179": {
       "title": "75 Pares Lembrancinhas Chá Revelação, Chá de Fralda,Cha de bebe,Saida  de Maternidade",
       "posted_at": "2026-09-04T12:20:45.560167"
+    },
+    "ef5a7f190dd3bb69": {
+      "title": "Tênis Infantil Capivara (Tam. 20 ao 33, 2 cores)",
+      "posted_at": "2026-09-04T12:30:53.775928"
     }
   },
   "results": [
@@ -14441,6 +14445,14 @@
       "post_id": "747",
       "error": null,
       "at": "2026-09-04T12:20:45.559435"
+    },
+    {
+      "offer_id": "ef5a7f190dd3bb69",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "748",
+      "error": null,
+      "at": "2026-09-04T12:30:53.775295"
     }
   ]
 }

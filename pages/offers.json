@@ -1,5 +1,17 @@
 [
   {
+    "id": "ef5a7f190dd3bb69",
+    "title": "Tênis Infantil Capivara (Tam. 20 ao 33, 2 cores)",
+    "price_now": 59.19,
+    "price_was": 100.32,
+    "discount_pct": 41,
+    "url": "https://s.shopee.com.br/50YnalwRTw?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/258016982817885246541380447420.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-04T12:30:53.775624"
+  },
+  {
     "id": "0fba4d496d035179",
     "title": "75 Pares Lembrancinhas Chá Revelação, Chá de Fralda,Cha de bebe,Saida  de Maternidade",
     "price_now": 102.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-03T17:10:39.439180"
-  },
-  {
-    "id": "e5db2459009b036b",
-    "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso, 400ml",
-    "price_now": 18.5,
-    "price_was": 34.99,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B0BFJHYD5X?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/422343179717884539246049234943.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-03T17:01:01.739502"
   }
 ]
