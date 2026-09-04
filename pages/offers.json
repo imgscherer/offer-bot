@@ -1,5 +1,29 @@
 [
   {
+    "id": "96b697414c3807ce",
+    "title": "Jogo Lençol Berço Americano 2 peças Menina e Menino Microfibra Alta Qualidade",
+    "price_now": 14.95,
+    "price_was": 23.0,
+    "discount_pct": 35,
+    "url": "https://s.shopee.com.br/5AsEABFr1u",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0tqsxo4yknec",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-04T18:00:39.499671"
+  },
+  {
+    "id": "07451ee34ef637ed",
+    "title": "Capa Protetor De Colchão Matelado Lençol Impermeável Berço, Solteiro, Casal, Queen, King C/ Elástico",
+    "price_now": 19.45,
+    "price_was": 38.9,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/50YnxsGUMt",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mctimalsrupe96",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-04T18:00:38.590959"
+  },
+  {
     "id": "d385633f08a4e8fe",
     "title": "Conjunto Bebê Verão Body Estampado Carrinho e Short Telha",
     "price_now": 40.52,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-04T02:00:48.745905"
-  },
-  {
-    "id": "72b7bfbb08d554c3",
-    "title": "Bota Infantil Tratorada (Tam. 21 ao 28, 3 cores)",
-    "price_now": 20.13,
-    "price_was": 70.61,
-    "discount_pct": 71,
-    "url": "https://s.shopee.com.br/1gIKVZEpF3?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/489835328917884643006870977413.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-03T19:50:53.394984"
-  },
-  {
-    "id": "5493c0b5bb930978",
-    "title": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
-    "price_now": 91.0,
-    "price_was": 131.78,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/634583722217884549914930326858.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-03T17:20:43.698361"
   }
 ]

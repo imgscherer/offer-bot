@@ -2971,6 +2971,14 @@
     "d385633f08a4e8fe": {
       "title": "Conjunto Bebê Verão Body Estampado Carrinho e Short Telha",
       "posted_at": "2026-09-04T16:20:35.292460"
+    },
+    "07451ee34ef637ed": {
+      "title": "Capa Protetor De Colchão Matelado Lençol Impermeável Berço, Solteiro, Casal, Queen, King C/ Elástico",
+      "posted_at": "2026-09-04T18:00:38.591321"
+    },
+    "96b697414c3807ce": {
+      "title": "Jogo Lençol Berço Americano 2 peças Menina e Menino Microfibra Alta Qualidade",
+      "posted_at": "2026-09-04T18:00:39.499991"
     }
   },
   "results": [
@@ -14485,6 +14493,22 @@
       "post_id": "750",
       "error": null,
       "at": "2026-09-04T16:20:35.291750"
+    },
+    {
+      "offer_id": "07451ee34ef637ed",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "751",
+      "error": null,
+      "at": "2026-09-04T18:00:38.590595"
+    },
+    {
+      "offer_id": "96b697414c3807ce",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "752",
+      "error": null,
+      "at": "2026-09-04T18:00:39.499360"
     }
   ]
 }
