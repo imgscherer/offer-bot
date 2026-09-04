@@ -1,5 +1,17 @@
 [
   {
+    "id": "0fba4d496d035179",
+    "title": "75 Pares Lembrancinhas Chá Revelação, Chá de Fralda,Cha de bebe,Saida  de Maternidade",
+    "price_now": 102.0,
+    "price_was": 170.0,
+    "discount_pct": 40,
+    "url": "https://s.shopee.com.br/7psyxj5Wah",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj1osexwjhmpdd",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-04T12:20:45.559820"
+  },
+  {
     "id": "7f05d353ebbc0e88",
     "title": "95 Kits Lembrancinhas Chá Revelação, Chá de Fralda,Cha de bebe,Saida  de Maternidade",
     "price_now": 126.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-03T17:01:01.739502"
-  },
-  {
-    "id": "2b58588b70e79772",
-    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XXG 140 unidades aberta com tecnologia Xtra-Flex canais em X",
-    "price_now": 159.89,
-    "price_was": 229.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/574125490317884518086457014982.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-03T16:20:59.481264"
   }
 ]

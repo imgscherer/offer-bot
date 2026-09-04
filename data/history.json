@@ -2955,6 +2955,10 @@
     "7f05d353ebbc0e88": {
       "title": "95 Kits Lembrancinhas Chá Revelação, Chá de Fralda,Cha de bebe,Saida  de Maternidade",
       "posted_at": "2026-09-04T12:10:37.149911"
+    },
+    "0fba4d496d035179": {
+      "title": "75 Pares Lembrancinhas Chá Revelação, Chá de Fralda,Cha de bebe,Saida  de Maternidade",
+      "posted_at": "2026-09-04T12:20:45.560167"
     }
   },
   "results": [
@@ -14429,6 +14433,14 @@
       "post_id": "746",
       "error": null,
       "at": "2026-09-04T12:10:37.149205"
+    },
+    {
+      "offer_id": "0fba4d496d035179",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "747",
+      "error": null,
+      "at": "2026-09-04T12:20:45.559435"
     }
   ]
 }
