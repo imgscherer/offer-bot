@@ -3007,6 +3007,10 @@
     "7e13ef2100291650": {
       "title": "Shorts Jeans Infantil (Tam. 8 a 12, Diversas Estampas)",
       "posted_at": "2026-09-05T15:01:08.676952"
+    },
+    "0027f8876b57e5ee": {
+      "title": "Shorts Jeans Infantil Juvenil Menina com Estampa Modinha 6 aos 10 Anos Primavera Verão",
+      "posted_at": "2026-09-05T20:41:02.795319"
     }
   },
   "results": [
@@ -14809,6 +14813,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-05T20:30:45.911068"
+    },
+    {
+      "offer_id": "f5882956505ea7f4",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-05T20:40:49.812875"
+    },
+    {
+      "offer_id": "0027f8876b57e5ee",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "760",
+      "error": null,
+      "at": "2026-09-05T20:41:02.794653"
     }
   ]
 }
