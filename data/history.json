@@ -2999,6 +2999,10 @@
     "a76a4739777c1246": {
       "title": "Kit Bolsa Maternidade Clean - 03 Peças",
       "posted_at": "2026-09-05T13:00:57.026086"
+    },
+    "9d864bbc20ecfe5e": {
+      "title": "Tapete Infantil Emborrachado Dobrável Térmico Impermeável",
+      "posted_at": "2026-09-05T13:30:50.994534"
     }
   },
   "results": [
@@ -14649,6 +14653,14 @@
       "post_id": "757",
       "error": null,
       "at": "2026-09-05T13:00:57.025543"
+    },
+    {
+      "offer_id": "9d864bbc20ecfe5e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "758",
+      "error": null,
+      "at": "2026-09-05T13:30:50.993805"
     }
   ]
 }
