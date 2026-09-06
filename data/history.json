@@ -3039,6 +3039,10 @@
     "f1a17b93e53c80c3": {
       "title": "Tenis Infantil Menina Novope Calce Facil Casual Original",
       "posted_at": "2026-09-06T18:10:38.871731"
+    },
+    "f468724f4695da1e": {
+      "title": "40 Sabonetes Perfumados Personalizados Charraia - cha de bebe - cha de fralda 20 pares",
+      "posted_at": "2026-09-06T23:10:35.793510"
     }
   },
   "results": [
@@ -15641,6 +15645,14 @@
       "post_id": "767",
       "error": null,
       "at": "2026-09-06T18:10:38.871105"
+    },
+    {
+      "offer_id": "f468724f4695da1e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "768",
+      "error": null,
+      "at": "2026-09-06T23:10:35.792838"
     }
   ]
 }
