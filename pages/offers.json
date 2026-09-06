@@ -1,5 +1,29 @@
 [
   {
+    "id": "89bbbca3c4079d4d",
+    "title": "Macacão Bebê Térmico Carrinho",
+    "price_now": 66.22,
+    "price_was": 94.6,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/1LfXeugAXY",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mr0gy1rg2xvqa4",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-06T01:01:35.219434"
+  },
+  {
+    "id": "cb3d0846037693e2",
+    "title": "Carrinho Monster Truck 4x4 – Trator de Ferro Rodão Fricção Infantil",
+    "price_now": 13.99,
+    "price_was": 43.72,
+    "discount_pct": 68,
+    "url": "https://s.shopee.com.br/80CRbAGn0z",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi93q51g3if57c",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-06T01:01:20.319958"
+  },
+  {
     "id": "0027f8876b57e5ee",
     "title": "Shorts Jeans Infantil Juvenil Menina com Estampa Modinha 6 aos 10 Anos Primavera Verão",
     "price_now": 31.0,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-04T18:00:38.590959"
-  },
-  {
-    "id": "d385633f08a4e8fe",
-    "title": "Conjunto Bebê Verão Body Estampado Carrinho e Short Telha",
-    "price_now": 40.52,
-    "price_was": 57.89,
-    "discount_pct": 30,
-    "url": "https://s.shopee.com.br/5foSO8L1YY",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mesne7w4mk8x7a",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-04T16:20:35.292083"
-  },
-  {
-    "id": "29d3ea399d111b8a",
-    "title": "Pulseira de Segurança Infantil Retrátil Ajustável com Trava 1,5m",
-    "price_now": 17.98,
-    "price_was": 31.54,
-    "discount_pct": 43,
-    "url": "https://s.shopee.com.br/8V8g0SoMid?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/491426068917885379868385065854.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-04T16:10:50.893545"
   }
 ]

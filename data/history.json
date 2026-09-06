@@ -3011,6 +3011,14 @@
     "0027f8876b57e5ee": {
       "title": "Shorts Jeans Infantil Juvenil Menina com Estampa Modinha 6 aos 10 Anos Primavera Verão",
       "posted_at": "2026-09-05T20:41:02.795319"
+    },
+    "cb3d0846037693e2": {
+      "title": "Carrinho Monster Truck 4x4 – Trator de Ferro Rodão Fricção Infantil",
+      "posted_at": "2026-09-06T01:01:20.320309"
+    },
+    "89bbbca3c4079d4d": {
+      "title": "Macacão Bebê Térmico Carrinho",
+      "posted_at": "2026-09-06T01:01:35.219944"
     }
   },
   "results": [
@@ -15029,6 +15037,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-06T00:50:44.212935"
+    },
+    {
+      "offer_id": "cb3d0846037693e2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "761",
+      "error": null,
+      "at": "2026-09-06T01:01:20.319632"
+    },
+    {
+      "offer_id": "f5882956505ea7f4",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-06T01:01:31.623716"
+    },
+    {
+      "offer_id": "89bbbca3c4079d4d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "762",
+      "error": null,
+      "at": "2026-09-06T01:01:35.218646"
     }
   ]
 }
