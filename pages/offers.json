@@ -1,5 +1,17 @@
 [
   {
+    "id": "1c1502b4faec9d9e",
+    "title": "Tapa Fralda Bebê menina e menino RN 0 à 24 meses",
+    "price_now": 42.0,
+    "price_was": 70.0,
+    "discount_pct": 40,
+    "url": "https://s.shopee.com.br/1BM8xGW7DQ",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mqgquqgz3o5d3b",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-06T23:30:41.230974"
+  },
+  {
     "id": "f468724f4695da1e",
     "title": "40 Sabonetes Perfumados Personalizados Charraia - cha de bebe - cha de fralda 20 pares",
     "price_now": 44.4,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-05T13:30:50.994196"
-  },
-  {
-    "id": "a76a4739777c1246",
-    "title": "Kit Bolsa Maternidade Clean - 03 Peças",
-    "price_now": 539.9,
-    "price_was": 843.59,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/gPq4CCdbT",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltdwv0i24we706",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-05T13:00:57.025826"
   }
 ]

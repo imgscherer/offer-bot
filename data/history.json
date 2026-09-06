@@ -3043,6 +3043,10 @@
     "f468724f4695da1e": {
       "title": "40 Sabonetes Perfumados Personalizados Charraia - cha de bebe - cha de fralda 20 pares",
       "posted_at": "2026-09-06T23:10:35.793510"
+    },
+    "1c1502b4faec9d9e": {
+      "title": "Tapa Fralda Bebê menina e menino RN 0 à 24 meses",
+      "posted_at": "2026-09-06T23:30:41.231183"
     }
   },
   "results": [
@@ -15653,6 +15657,14 @@
       "post_id": "768",
       "error": null,
       "at": "2026-09-06T23:10:35.792838"
+    },
+    {
+      "offer_id": "1c1502b4faec9d9e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "769",
+      "error": null,
+      "at": "2026-09-06T23:30:41.230737"
     }
   ]
 }
