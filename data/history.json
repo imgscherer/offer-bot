@@ -3019,6 +3019,14 @@
     "89bbbca3c4079d4d": {
       "title": "Macacão Bebê Térmico Carrinho",
       "posted_at": "2026-09-06T01:01:35.219944"
+    },
+    "3e487045ebcda750": {
+      "title": "90 Kits Lembrancinhas Chá Revelação, Chá de Fralda,Cha de bebe,Saida  de Maternidade",
+      "posted_at": "2026-09-06T15:10:40.891862"
+    },
+    "602e73a4d4d541b0": {
+      "title": "140 Pares Lembrancinhas Chá de Fralda,Chá Revelação,Cha de bebe,Saida  de Maternidade",
+      "posted_at": "2026-09-06T15:10:43.272307"
     }
   },
   "results": [
@@ -15581,6 +15589,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-06T11:50:42.231856"
+    },
+    {
+      "offer_id": "3e487045ebcda750",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "763",
+      "error": null,
+      "at": "2026-09-06T15:10:40.891130"
+    },
+    {
+      "offer_id": "602e73a4d4d541b0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "764",
+      "error": null,
+      "at": "2026-09-06T15:10:43.271647"
     }
   ]
 }
