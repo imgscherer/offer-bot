@@ -3051,6 +3051,26 @@
     "b4891e7fa7ee93c4": {
       "title": "Kit 3 Meia Calça Infantil Grossa para Frio Inverno Várias Cores e Estampas",
       "posted_at": "2026-09-07T18:50:54.422796"
+    },
+    "f4c6e631b0fe077a": {
+      "title": "60 Mini Pezinhos Lembrançinha de Chá de bebe - Saida de Materninade  Menino Menina 30 pares",
+      "posted_at": "2026-09-07T21:40:31.893375"
+    },
+    "6aa354ed4d8949ec": {
+      "title": "100 Mini Pezinhos Lembrancinhas - Chá Revelação-chá de bebê - revelacao (50 Pares)",
+      "posted_at": "2026-09-07T21:40:33.137384"
+    },
+    "dc8f904c1d3dcefe": {
+      "title": "Lembrancinha 60 Mini Pezinhos - Chá de Bebê (30 Pares) Sabonetes Perfumados, Cha Revelacao",
+      "posted_at": "2026-09-07T21:40:34.131790"
+    },
+    "ee48d8e8feb9bfa3": {
+      "title": "Tema: CHÁ DE BEBÊ URSO DOURADO  Kit de Lembrancinhas com 190/95 Itens SEM/COM NOME - Envio Imediato",
+      "posted_at": "2026-09-07T21:40:36.126558"
+    },
+    "7ec58cfbb088eae6": {
+      "title": "RWX VEST Biquíni Infantil para Bebês - Estampa de Poá Azul Charmosa 2024 B3051",
+      "posted_at": "2026-09-07T21:40:37.262588"
     }
   },
   "results": [
@@ -15677,6 +15697,46 @@
       "post_id": "770",
       "error": null,
       "at": "2026-09-07T18:50:54.422087"
+    },
+    {
+      "offer_id": "f4c6e631b0fe077a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "771",
+      "error": null,
+      "at": "2026-09-07T21:40:31.892686"
+    },
+    {
+      "offer_id": "6aa354ed4d8949ec",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "772",
+      "error": null,
+      "at": "2026-09-07T21:40:33.136694"
+    },
+    {
+      "offer_id": "dc8f904c1d3dcefe",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "773",
+      "error": null,
+      "at": "2026-09-07T21:40:34.131167"
+    },
+    {
+      "offer_id": "ee48d8e8feb9bfa3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "774",
+      "error": null,
+      "at": "2026-09-07T21:40:36.125963"
+    },
+    {
+      "offer_id": "7ec58cfbb088eae6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "775",
+      "error": null,
+      "at": "2026-09-07T21:40:37.261919"
     }
   ]
 }
