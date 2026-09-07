@@ -3047,6 +3047,10 @@
     "1c1502b4faec9d9e": {
       "title": "Tapa Fralda Bebê menina e menino RN 0 à 24 meses",
       "posted_at": "2026-09-06T23:30:41.231183"
+    },
+    "b4891e7fa7ee93c4": {
+      "title": "Kit 3 Meia Calça Infantil Grossa para Frio Inverno Várias Cores e Estampas",
+      "posted_at": "2026-09-07T18:50:54.422796"
     }
   },
   "results": [
@@ -15665,6 +15669,14 @@
       "post_id": "769",
       "error": null,
       "at": "2026-09-06T23:30:41.230737"
+    },
+    {
+      "offer_id": "b4891e7fa7ee93c4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "770",
+      "error": null,
+      "at": "2026-09-07T18:50:54.422087"
     }
   ]
 }
