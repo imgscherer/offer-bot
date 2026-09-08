@@ -1,5 +1,17 @@
 [
   {
+    "id": "3c544530fce0240c",
+    "title": "Fralda Pampers Premium Care P 40 unidades",
+    "price_now": 49.06,
+    "price_was": 71.67,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/669573602617888903475542167895.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-08T18:01:03.968952"
+  },
+  {
     "id": "7ec58cfbb088eae6",
     "title": "RWX VEST Biquíni Infantil para Bebês - Estampa de Poá Azul Charmosa 2024 B3051",
     "price_now": 52.98,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-06T18:10:35.454446"
-  },
-  {
-    "id": "602e73a4d4d541b0",
-    "title": "140 Pares Lembrancinhas Chá de Fralda,Chá Revelação,Cha de bebe,Saida  de Maternidade",
-    "price_now": 96.0,
-    "price_was": 160.0,
-    "discount_pct": 40,
-    "url": "https://s.shopee.com.br/AAGx7T4JLQ",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj1pfgoogkjq19",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-06T15:10:43.271975"
   }
 ]

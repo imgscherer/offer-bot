@@ -3071,6 +3071,10 @@
     "7ec58cfbb088eae6": {
       "title": "RWX VEST Biquíni Infantil para Bebês - Estampa de Poá Azul Charmosa 2024 B3051",
       "posted_at": "2026-09-07T21:40:37.262588"
+    },
+    "3c544530fce0240c": {
+      "title": "Fralda Pampers Premium Care P 40 unidades",
+      "posted_at": "2026-09-08T18:01:03.969273"
     }
   },
   "results": [
@@ -15817,6 +15821,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-08T13:20:43.984975"
+    },
+    {
+      "offer_id": "3c544530fce0240c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "776",
+      "error": null,
+      "at": "2026-09-08T18:01:03.968624"
     }
   ]
 }
