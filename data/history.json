@@ -3123,6 +3123,10 @@
     "5fa32bd6f7b76648": {
       "title": "Sabonete Líquido Mamãe e Bebê Flor de Laranjeira 100ml",
       "posted_at": "2026-09-09T13:40:43.055989"
+    },
+    "54bd23542c7bfda9": {
+      "title": "Suporte para Babá Eletrônica Berço Universal Ajustável Sem Furos Fácil Instalar Baby Monitor",
+      "posted_at": "2026-09-09T15:00:44.270300"
     }
   },
   "results": [
@@ -16357,6 +16361,14 @@
       "post_id": "788",
       "error": null,
       "at": "2026-09-09T13:40:43.055398"
+    },
+    {
+      "offer_id": "54bd23542c7bfda9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "789",
+      "error": null,
+      "at": "2026-09-09T15:00:44.269558"
     }
   ]
 }
