@@ -3127,6 +3127,10 @@
     "54bd23542c7bfda9": {
       "title": "Suporte para Babá Eletrônica Berço Universal Ajustável Sem Furos Fácil Instalar Baby Monitor",
       "posted_at": "2026-09-09T15:00:44.270300"
+    },
+    "03a343158cea27e6": {
+      "title": "Tapete Infantil Emborrachado Dobrável, Térmico e Impermeável",
+      "posted_at": "2026-09-09T15:30:59.180556"
     }
   },
   "results": [
@@ -16369,6 +16373,14 @@
       "post_id": "789",
       "error": null,
       "at": "2026-09-09T15:00:44.269558"
+    },
+    {
+      "offer_id": "03a343158cea27e6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "790",
+      "error": null,
+      "at": "2026-09-09T15:30:59.179838"
     }
   ]
 }
