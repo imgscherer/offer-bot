@@ -3139,6 +3139,10 @@
     "93b589d662f11fa6": {
       "title": "Fechadura de segurança infantil, gaveta de porta de armário de geladeira, fivela Anti-abertura, sem perfuração, autoades",
       "posted_at": "2026-09-09T17:40:40.816294"
+    },
+    "6c5d7054fcedef37": {
+      "title": "Kit Higiene Infantil Completo (13 Peças)",
+      "posted_at": "2026-09-09T18:20:56.345689"
     }
   },
   "results": [
@@ -16405,6 +16409,14 @@
       "post_id": "792",
       "error": null,
       "at": "2026-09-09T17:40:40.815732"
+    },
+    {
+      "offer_id": "6c5d7054fcedef37",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "793",
+      "error": null,
+      "at": "2026-09-09T18:20:56.344631"
     }
   ]
 }
