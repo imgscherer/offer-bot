@@ -3079,6 +3079,10 @@
     "e2f8741f0de2cd50": {
       "title": "Kit Berço Americano Personalizado Menino/Menina 100% algodão - 08 Peças",
       "posted_at": "2026-09-09T02:10:35.680541"
+    },
+    "b738341bcbc95999": {
+      "title": "Conjunto Talher Mágico Baby com Colher e Garfo que Mudam de Cor com a Temperatura Seguro para Bebês",
+      "posted_at": "2026-09-09T03:00:48.509824"
     }
   },
   "results": [
@@ -15841,6 +15845,14 @@
       "post_id": "777",
       "error": null,
       "at": "2026-09-09T02:10:35.679926"
+    },
+    {
+      "offer_id": "b738341bcbc95999",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "778",
+      "error": null,
+      "at": "2026-09-09T03:00:48.509172"
     }
   ]
 }
