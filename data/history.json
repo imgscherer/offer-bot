@@ -3147,6 +3147,10 @@
     "a7ce505c173cd5e9": {
       "title": "Tapete Infantil Bebê Inflável Água Atividades Sensorial",
       "posted_at": "2026-09-09T19:20:53.743859"
+    },
+    "316d139eec4a3664": {
+      "title": "Kit 2 Fraldas Descartáveis Cremer Magic Care Hiper XG 50 Tiras",
+      "posted_at": "2026-09-09T19:30:53.155800"
     }
   },
   "results": [
@@ -16429,6 +16433,14 @@
       "post_id": "794",
       "error": null,
       "at": "2026-09-09T19:20:53.743136"
+    },
+    {
+      "offer_id": "316d139eec4a3664",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "795",
+      "error": null,
+      "at": "2026-09-09T19:30:53.155092"
     }
   ]
 }
