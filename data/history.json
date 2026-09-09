@@ -3099,6 +3099,26 @@
     "eef736cafff18dc0": {
       "title": "Lenços Umedecidos Pampers Carícia de Bebê com 576 unidades",
       "posted_at": "2026-09-09T12:40:45.129310"
+    },
+    "c7d918552697abd8": {
+      "title": "60 Mini Pezinhos Lembrancinha - Chá de Bebê ( 30 Pares) Sabonetes Perfumados",
+      "posted_at": "2026-09-09T13:00:44.645980"
+    },
+    "dc15d7e8127f1f48": {
+      "title": "Tênis Infantil Preto (tam 23 ao 39)",
+      "posted_at": "2026-09-09T13:01:00.787364"
+    },
+    "a97448d788772df1": {
+      "title": "50 Mini Pezinhos de Sabonete para Chá de Bebê - Tema Ursinho Príncipe 25 pares",
+      "posted_at": "2026-09-09T13:01:01.955578"
+    },
+    "bf89f2252592fa79": {
+      "title": "90 Mini Pezinhos Lembrancinha - Chá de Bebê (45 Pares) Sabonetes Perfumados-Chá revelação",
+      "posted_at": "2026-09-09T13:01:03.256385"
+    },
+    "9c3e03c203bc7829": {
+      "title": "80 Mini Pezinhos de Sabonete Perfumado para Lembrança de Chá de Bebê Menino 40 pares lembrancinhas",
+      "posted_at": "2026-09-09T13:01:04.486565"
     }
   },
   "results": [
@@ -16285,6 +16305,46 @@
       "post_id": "782",
       "error": null,
       "at": "2026-09-09T12:40:45.128671"
+    },
+    {
+      "offer_id": "c7d918552697abd8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "783",
+      "error": null,
+      "at": "2026-09-09T13:00:44.645246"
+    },
+    {
+      "offer_id": "dc15d7e8127f1f48",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "784",
+      "error": null,
+      "at": "2026-09-09T13:01:00.786700"
+    },
+    {
+      "offer_id": "a97448d788772df1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "785",
+      "error": null,
+      "at": "2026-09-09T13:01:01.954872"
+    },
+    {
+      "offer_id": "bf89f2252592fa79",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "786",
+      "error": null,
+      "at": "2026-09-09T13:01:03.255729"
+    },
+    {
+      "offer_id": "9c3e03c203bc7829",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "787",
+      "error": null,
+      "at": "2026-09-09T13:01:04.485866"
     }
   ]
 }
