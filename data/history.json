@@ -3143,6 +3143,10 @@
     "6c5d7054fcedef37": {
       "title": "Kit Higiene Infantil Completo (13 Peças)",
       "posted_at": "2026-09-09T18:20:56.345689"
+    },
+    "a7ce505c173cd5e9": {
+      "title": "Tapete Infantil Bebê Inflável Água Atividades Sensorial",
+      "posted_at": "2026-09-09T19:20:53.743859"
     }
   },
   "results": [
@@ -16417,6 +16421,14 @@
       "post_id": "793",
       "error": null,
       "at": "2026-09-09T18:20:56.344631"
+    },
+    {
+      "offer_id": "a7ce505c173cd5e9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "794",
+      "error": null,
+      "at": "2026-09-09T19:20:53.743136"
     }
   ]
 }
