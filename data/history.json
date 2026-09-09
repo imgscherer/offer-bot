@@ -3087,6 +3087,10 @@
     "3d53bf29050f7b9e": {
       "title": "Creme Preventivo de Assaduras Para Bebês Bepantol Baby, 100g",
       "posted_at": "2026-09-09T11:20:56.223261"
+    },
+    "a2d04513656e4772": {
+      "title": "Shorts Bebe Roupa Tapa Fralda Verão Com Punho 100% Algodão Menina Menino Calor P ao G",
+      "posted_at": "2026-09-09T11:30:44.181957"
     }
   },
   "results": [
@@ -16209,6 +16213,14 @@
       "post_id": "779",
       "error": null,
       "at": "2026-09-09T11:20:56.222599"
+    },
+    {
+      "offer_id": "a2d04513656e4772",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "780",
+      "error": null,
+      "at": "2026-09-09T11:30:44.181243"
     }
   ]
 }
