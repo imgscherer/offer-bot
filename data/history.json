@@ -3131,6 +3131,14 @@
     "03a343158cea27e6": {
       "title": "Tapete Infantil Emborrachado Dobrável, Térmico e Impermeável",
       "posted_at": "2026-09-09T15:30:59.180556"
+    },
+    "fcbd269785691b59": {
+      "title": "Fechadura de segurança para geladeira infantil, porta de armário, gaveta, sem perfuração, autoadesiva, Anti @-",
+      "posted_at": "2026-09-09T17:40:38.403472"
+    },
+    "93b589d662f11fa6": {
+      "title": "Fechadura de segurança infantil, gaveta de porta de armário de geladeira, fivela Anti-abertura, sem perfuração, autoades",
+      "posted_at": "2026-09-09T17:40:40.816294"
     }
   },
   "results": [
@@ -16381,6 +16389,22 @@
       "post_id": "790",
       "error": null,
       "at": "2026-09-09T15:30:59.179838"
+    },
+    {
+      "offer_id": "fcbd269785691b59",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "791",
+      "error": null,
+      "at": "2026-09-09T17:40:38.402890"
+    },
+    {
+      "offer_id": "93b589d662f11fa6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "792",
+      "error": null,
+      "at": "2026-09-09T17:40:40.815732"
     }
   ]
 }
