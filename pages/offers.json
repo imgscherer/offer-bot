@@ -1,5 +1,17 @@
 [
   {
+    "id": "5fa32bd6f7b76648",
+    "title": "Sabonete Líquido Mamãe e Bebê Flor de Laranjeira 100ml",
+    "price_now": 13.94,
+    "price_was": 26.21,
+    "discount_pct": 47,
+    "url": "https://s.shopee.com.br/4AznDMbFuP?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/824202779417889609189004900426.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-09T13:40:43.055732"
+  },
+  {
     "id": "9c3e03c203bc7829",
     "title": "80 Mini Pezinhos de Sabonete Perfumado para Lembrança de Chá de Bebê Menino 40 pares lembrancinhas",
     "price_now": 60.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-09T02:10:35.680243"
-  },
-  {
-    "id": "3c544530fce0240c",
-    "title": "Fralda Pampers Premium Care P 40 unidades",
-    "price_now": 49.06,
-    "price_was": 71.67,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/669573602617888903475542167895.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-08T18:01:03.968952"
   }
 ]

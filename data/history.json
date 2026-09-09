@@ -3119,6 +3119,10 @@
     "9c3e03c203bc7829": {
       "title": "80 Mini Pezinhos de Sabonete Perfumado para Lembrança de Chá de Bebê Menino 40 pares lembrancinhas",
       "posted_at": "2026-09-09T13:01:04.486565"
+    },
+    "5fa32bd6f7b76648": {
+      "title": "Sabonete Líquido Mamãe e Bebê Flor de Laranjeira 100ml",
+      "posted_at": "2026-09-09T13:40:43.055989"
     }
   },
   "results": [
@@ -16345,6 +16349,14 @@
       "post_id": "787",
       "error": null,
       "at": "2026-09-09T13:01:04.485866"
+    },
+    {
+      "offer_id": "5fa32bd6f7b76648",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "788",
+      "error": null,
+      "at": "2026-09-09T13:40:43.055398"
     }
   ]
 }
