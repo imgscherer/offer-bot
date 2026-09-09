@@ -3155,6 +3155,10 @@
     "785e6fdbc8afa81e": {
       "title": "Fralda Descartável Babysec Galinha Pintadinha Ultrasec Giga XXXG 64 Unidades",
       "posted_at": "2026-09-09T19:50:43.744733"
+    },
+    "f2ae456bed40d6c6": {
+      "title": "Fralda Sumikko Total Max Fita M 100 unidades",
+      "posted_at": "2026-09-09T20:20:55.300492"
     }
   },
   "results": [
@@ -16453,6 +16457,14 @@
       "post_id": "796",
       "error": null,
       "at": "2026-09-09T19:50:43.744046"
+    },
+    {
+      "offer_id": "f2ae456bed40d6c6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "797",
+      "error": null,
+      "at": "2026-09-09T20:20:55.299677"
     }
   ]
 }
