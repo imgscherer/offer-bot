@@ -1,5 +1,17 @@
 [
   {
+    "id": "eef736cafff18dc0",
+    "title": "Lenços Umedecidos Pampers Carícia de Bebê com 576 unidades",
+    "price_now": 77.71,
+    "price_was": 154.19,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/5q82ZNAmfI?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/349409340617889571926687354852.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-09T12:40:45.128993"
+  },
+  {
     "id": "6e219f13371fad8a",
     "title": "Fralda Turma da Mônica Baby M 120 unidades",
     "price_now": 76.77,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-07T21:40:31.893062"
-  },
-  {
-    "id": "b4891e7fa7ee93c4",
-    "title": "Kit 3 Meia Calça Infantil Grossa para Frio Inverno Várias Cores e Estampas",
-    "price_now": 29.0,
-    "price_was": 69.74,
-    "discount_pct": 58,
-    "url": "https://s.shopee.com.br/6VNga9k3Ir?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/919462520217888065315474850472.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-07T18:50:54.422452"
   }
 ]

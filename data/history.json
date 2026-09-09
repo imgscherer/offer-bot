@@ -3095,6 +3095,10 @@
     "6e219f13371fad8a": {
       "title": "Fralda Turma da Mônica Baby M 120 unidades",
       "posted_at": "2026-09-09T12:30:48.173343"
+    },
+    "eef736cafff18dc0": {
+      "title": "Lenços Umedecidos Pampers Carícia de Bebê com 576 unidades",
+      "posted_at": "2026-09-09T12:40:45.129310"
     }
   },
   "results": [
@@ -16273,6 +16277,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-09T12:31:07.767676"
+    },
+    {
+      "offer_id": "eef736cafff18dc0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "782",
+      "error": null,
+      "at": "2026-09-09T12:40:45.128671"
     }
   ]
 }
