@@ -3159,6 +3159,22 @@
     "f2ae456bed40d6c6": {
       "title": "Fralda Sumikko Total Max Fita M 100 unidades",
       "posted_at": "2026-09-09T20:20:55.300492"
+    },
+    "c6c7bae47c277dc1": {
+      "title": "Kit 5 Fraldas de Pano Para Bebê Bordadas Coloridas 70x70cm Tecido Duplo 100% Algodão Menino Menina",
+      "posted_at": "2026-09-09T23:40:35.230712"
+    },
+    "d5d124937aabd3aa": {
+      "title": "Almofada Amamentação Laço e Zíper Trocador de Fraldas Portátil Várias Estampas Menino Menina",
+      "posted_at": "2026-09-09T23:40:38.397500"
+    },
+    "6b4fc2ab009383ee": {
+      "title": "Kit 5 Fraldas de Pano Para Bebê Bordadas Coloridas 70x70cm Tecido Duplo 100% Algodão Menino Menina",
+      "posted_at": "2026-09-09T23:40:41.504225"
+    },
+    "b0073ebf5e2ad6b4": {
+      "title": "Kit 2 Toalha  Banho Bebe Bordada  Capuz Tecido Fralda 100% Algodão",
+      "posted_at": "2026-09-09T23:40:44.623739"
     }
   },
   "results": [
@@ -16465,6 +16481,38 @@
       "post_id": "797",
       "error": null,
       "at": "2026-09-09T20:20:55.299677"
+    },
+    {
+      "offer_id": "c6c7bae47c277dc1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "798",
+      "error": null,
+      "at": "2026-09-09T23:40:35.230151"
+    },
+    {
+      "offer_id": "d5d124937aabd3aa",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "799",
+      "error": null,
+      "at": "2026-09-09T23:40:38.396935"
+    },
+    {
+      "offer_id": "6b4fc2ab009383ee",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "800",
+      "error": null,
+      "at": "2026-09-09T23:40:41.442139"
+    },
+    {
+      "offer_id": "b0073ebf5e2ad6b4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "801",
+      "error": null,
+      "at": "2026-09-09T23:40:44.623278"
     }
   ]
 }

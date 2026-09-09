@@ -1,5 +1,53 @@
 [
   {
+    "id": "b0073ebf5e2ad6b4",
+    "title": "Kit 2 Toalha  Banho Bebe Bordada  Capuz Tecido Fralda 100% Algodão",
+    "price_now": 61.25,
+    "price_was": 87.5,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/1AGMTTALM",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md3b3f1apueqb7",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-09T23:40:44.623532"
+  },
+  {
+    "id": "6b4fc2ab009383ee",
+    "title": "Kit 5 Fraldas de Pano Para Bebê Bordadas Coloridas 70x70cm Tecido Duplo 100% Algodão Menino Menina",
+    "price_now": 42.2,
+    "price_was": 61.16,
+    "discount_pct": 31,
+    "url": "https://s.shopee.com.br/4VcfikC2Ct",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lj-ms5lndjanv9hc5",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-09T23:40:41.442403"
+  },
+  {
+    "id": "d5d124937aabd3aa",
+    "title": "Almofada Amamentação Laço e Zíper Trocador de Fraldas Portátil Várias Estampas Menino Menina",
+    "price_now": 39.9,
+    "price_was": 59.55,
+    "discount_pct": 33,
+    "url": "https://s.shopee.com.br/qjNM0PzeT",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc2jffotow5h27",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-09T23:40:38.397219"
+  },
+  {
+    "id": "c6c7bae47c277dc1",
+    "title": "Kit 5 Fraldas de Pano Para Bebê Bordadas Coloridas 70x70cm Tecido Duplo 100% Algodão Menino Menina",
+    "price_now": 49.0,
+    "price_was": 73.13,
+    "discount_pct": 33,
+    "url": "https://s.shopee.com.br/50YwJfA8Bu",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mo5it821vegx4e",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-09T23:40:35.230466"
+  },
+  {
     "id": "f2ae456bed40d6c6",
     "title": "Fralda Sumikko Total Max Fita M 100 unidades",
     "price_now": 107.35,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-09T15:30:59.180232"
-  },
-  {
-    "id": "54bd23542c7bfda9",
-    "title": "Suporte para Babá Eletrônica Berço Universal Ajustável Sem Furos Fácil Instalar Baby Monitor",
-    "price_now": 13.87,
-    "price_was": 21.67,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/8KpNi6BZSb",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mq55lbylo076b3",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-09T15:00:44.269975"
-  },
-  {
-    "id": "5fa32bd6f7b76648",
-    "title": "Sabonete Líquido Mamãe e Bebê Flor de Laranjeira 100ml",
-    "price_now": 13.94,
-    "price_was": 26.21,
-    "discount_pct": 47,
-    "url": "https://s.shopee.com.br/4AznDMbFuP?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/824202779417889609189004900426.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-09T13:40:43.055732"
-  },
-  {
-    "id": "9c3e03c203bc7829",
-    "title": "80 Mini Pezinhos de Sabonete Perfumado para Lembrança de Chá de Bebê Menino 40 pares lembrancinhas",
-    "price_now": 60.0,
-    "price_was": 100.0,
-    "discount_pct": 40,
-    "url": "https://s.shopee.com.br/7fZgmcrbXo",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82612-mjpt8ypjcikk53",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-09T13:01:04.486193"
-  },
-  {
-    "id": "bf89f2252592fa79",
-    "title": "90 Mini Pezinhos Lembrancinha - Chá de Bebê (45 Pares) Sabonetes Perfumados-Chá revelação",
-    "price_now": 66.0,
-    "price_was": 110.0,
-    "discount_pct": 40,
-    "url": "https://s.shopee.com.br/7AdQBhtVYf",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mq583uo9zm69cd",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-09T13:01:03.256035"
   }
 ]
