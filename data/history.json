@@ -3151,6 +3151,10 @@
     "316d139eec4a3664": {
       "title": "Kit 2 Fraldas Descartáveis Cremer Magic Care Hiper XG 50 Tiras",
       "posted_at": "2026-09-09T19:30:53.155800"
+    },
+    "785e6fdbc8afa81e": {
+      "title": "Fralda Descartável Babysec Galinha Pintadinha Ultrasec Giga XXXG 64 Unidades",
+      "posted_at": "2026-09-09T19:50:43.744733"
     }
   },
   "results": [
@@ -16441,6 +16445,14 @@
       "post_id": "795",
       "error": null,
       "at": "2026-09-09T19:30:53.155092"
+    },
+    {
+      "offer_id": "785e6fdbc8afa81e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "796",
+      "error": null,
+      "at": "2026-09-09T19:50:43.744046"
     }
   ]
 }
