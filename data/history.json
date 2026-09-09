@@ -3075,6 +3075,10 @@
     "3c544530fce0240c": {
       "title": "Fralda Pampers Premium Care P 40 unidades",
       "posted_at": "2026-09-08T18:01:03.969273"
+    },
+    "e2f8741f0de2cd50": {
+      "title": "Kit Berço Americano Personalizado Menino/Menina 100% algodão - 08 Peças",
+      "posted_at": "2026-09-09T02:10:35.680541"
     }
   },
   "results": [
@@ -15829,6 +15833,14 @@
       "post_id": "776",
       "error": null,
       "at": "2026-09-08T18:01:03.968624"
+    },
+    {
+      "offer_id": "e2f8741f0de2cd50",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "777",
+      "error": null,
+      "at": "2026-09-09T02:10:35.679926"
     }
   ]
 }
