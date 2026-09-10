@@ -1,5 +1,29 @@
 [
   {
+    "id": "c54cede59eadd13e",
+    "title": "Bermuda Bebê Infantil Saruel Estampado Carrinho Menino Cós Elástico",
+    "price_now": 27.93,
+    "price_was": 39.9,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/2qUSUOjGpT",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1tw4q7be1g125",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-10T11:00:56.447048"
+  },
+  {
+    "id": "6a9b927202889c61",
+    "title": "Fralda Personal Baby Premium Protection M 34 unidades",
+    "price_now": 31.8,
+    "price_was": 46.38,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/824701622117890376305607731788.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-10T11:00:54.136051"
+  },
+  {
     "id": "b93490cfd34e48a6",
     "title": "Caminhão Dinossauro T-Rex Transporte Cegonha + Pista Carrinho Maleta Brinquedo Infantil + 4 Carrinhos",
     "price_now": 125.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-09T18:20:56.345185"
-  },
-  {
-    "id": "93b589d662f11fa6",
-    "title": "Fechadura de segurança infantil, gaveta de porta de armário de geladeira, fivela Anti-abertura, sem perfuração, autoades",
-    "price_now": 29.99,
-    "price_was": 43.46,
-    "discount_pct": 31,
-    "url": "https://s.shopee.com.br/2LYAk2wdMF",
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-msdr1pz0ukn80a",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-09T17:40:40.815996"
-  },
-  {
-    "id": "fcbd269785691b59",
-    "title": "Fechadura de segurança para geladeira infantil, porta de armário, gaveta, sem perfuração, autoadesiva, Anti @-",
-    "price_now": 29.99,
-    "price_was": 44.76,
-    "discount_pct": 33,
-    "url": "https://s.shopee.com.br/2VrawLw01G",
-    "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-msdmecill34a90",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-09T17:40:38.403211"
   }
 ]

@@ -3179,6 +3179,14 @@
     "b93490cfd34e48a6": {
       "title": "Caminhão Dinossauro T-Rex Transporte Cegonha + Pista Carrinho Maleta Brinquedo Infantil + 4 Carrinhos",
       "posted_at": "2026-09-10T03:20:36.500072"
+    },
+    "6a9b927202889c61": {
+      "title": "Fralda Personal Baby Premium Protection M 34 unidades",
+      "posted_at": "2026-09-10T11:00:54.136413"
+    },
+    "c54cede59eadd13e": {
+      "title": "Bermuda Bebê Infantil Saruel Estampado Carrinho Menino Cós Elástico",
+      "posted_at": "2026-09-10T11:00:56.447387"
     }
   },
   "results": [
@@ -16525,6 +16533,22 @@
       "post_id": "802",
       "error": null,
       "at": "2026-09-10T03:20:36.490760"
+    },
+    {
+      "offer_id": "6a9b927202889c61",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "803",
+      "error": null,
+      "at": "2026-09-10T11:00:54.135672"
+    },
+    {
+      "offer_id": "c54cede59eadd13e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "804",
+      "error": null,
+      "at": "2026-09-10T11:00:56.446684"
     }
   ]
 }
