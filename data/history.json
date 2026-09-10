@@ -3175,6 +3175,10 @@
     "b0073ebf5e2ad6b4": {
       "title": "Kit 2 Toalha  Banho Bebe Bordada  Capuz Tecido Fralda 100% Algodão",
       "posted_at": "2026-09-09T23:40:44.623739"
+    },
+    "b93490cfd34e48a6": {
+      "title": "Caminhão Dinossauro T-Rex Transporte Cegonha + Pista Carrinho Maleta Brinquedo Infantil + 4 Carrinhos",
+      "posted_at": "2026-09-10T03:20:36.500072"
     }
   },
   "results": [
@@ -16513,6 +16517,14 @@
       "post_id": "801",
       "error": null,
       "at": "2026-09-09T23:40:44.623278"
+    },
+    {
+      "offer_id": "b93490cfd34e48a6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "802",
+      "error": null,
+      "at": "2026-09-10T03:20:36.490760"
     }
   ]
 }
