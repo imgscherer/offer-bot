@@ -3187,6 +3187,10 @@
     "c54cede59eadd13e": {
       "title": "Bermuda Bebê Infantil Saruel Estampado Carrinho Menino Cós Elástico",
       "posted_at": "2026-09-10T11:00:56.447387"
+    },
+    "87aec942151adab8": {
+      "title": "Kit Higiene Bebê 4 Peças Completo Recém Nascido (2 Cores)",
+      "posted_at": "2026-09-10T18:40:47.688596"
     }
   },
   "results": [
@@ -16669,6 +16673,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-10T18:30:44.664261"
+    },
+    {
+      "offer_id": "87aec942151adab8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "805",
+      "error": null,
+      "at": "2026-09-10T18:40:47.687918"
+    },
+    {
+      "offer_id": "4f76ce2e41a16f89",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-10T18:40:54.169899"
     }
   ]
 }
