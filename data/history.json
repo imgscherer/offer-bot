@@ -3215,6 +3215,18 @@
     "e9599c0b6efe776e": {
       "title": "Kit Bolsa Maternidade Arco Íris Off/Rosa - 02 Peças",
       "posted_at": "2026-09-11T00:01:00.318162"
+    },
+    "dc5a8911df3e0ecd": {
+      "title": "Kit 6 Patrulha Canina Carrinhos Brinquedos Corrida Infantil Criança Presente",
+      "posted_at": "2026-09-11T00:30:37.179573"
+    },
+    "2a50625f1824e377": {
+      "title": "Mosquiteiro Universal Portátil Carrinho, Berço, Bebê Conforto, Cadeirinha de Carro Premium",
+      "posted_at": "2026-09-11T00:30:39.386442"
+    },
+    "430b4ff5935b5fea": {
+      "title": "Almofada Anatômica Bebê Recém-Nascido Ursinho Apoio para Cabeça Confortável",
+      "posted_at": "2026-09-11T00:30:41.172609"
     }
   },
   "results": [
@@ -16761,6 +16773,30 @@
       "post_id": "811",
       "error": null,
       "at": "2026-09-11T00:01:00.317565"
+    },
+    {
+      "offer_id": "dc5a8911df3e0ecd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "812",
+      "error": null,
+      "at": "2026-09-11T00:30:37.178974"
+    },
+    {
+      "offer_id": "2a50625f1824e377",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "813",
+      "error": null,
+      "at": "2026-09-11T00:30:39.385878"
+    },
+    {
+      "offer_id": "430b4ff5935b5fea",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "814",
+      "error": null,
+      "at": "2026-09-11T00:30:41.172052"
     }
   ]
 }
