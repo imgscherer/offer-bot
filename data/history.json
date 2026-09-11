@@ -3247,6 +3247,10 @@
     "393e1595a2992638": {
       "title": "Granado Hidratante Bebê Camomila 120ml",
       "posted_at": "2026-09-11T14:11:04.415802"
+    },
+    "30f3f7a76f592cb2": {
+      "title": "Sapato Infantil Feminino (Tam. 25 ao 32, 3 Cores)",
+      "posted_at": "2026-09-11T15:10:53.451343"
     }
   },
   "results": [
@@ -16857,6 +16861,14 @@
       "post_id": "819",
       "error": null,
       "at": "2026-09-11T14:11:04.415253"
+    },
+    {
+      "offer_id": "30f3f7a76f592cb2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "820",
+      "error": null,
+      "at": "2026-09-11T15:10:53.450591"
     }
   ]
 }

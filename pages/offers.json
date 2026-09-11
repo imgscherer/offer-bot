@@ -1,5 +1,17 @@
 [
   {
+    "id": "30f3f7a76f592cb2",
+    "title": "Sapato Infantil Feminino (Tam. 25 ao 32, 3 Cores)",
+    "price_now": 31.69,
+    "price_was": 123.04,
+    "discount_pct": 74,
+    "url": "https://s.shopee.com.br/6fhCvKRjGB?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/947010121117891392924278844230.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-11T15:10:53.450946"
+  },
+  {
     "id": "393e1595a2992638",
     "title": "Granado Hidratante Bebê Camomila 120ml",
     "price_now": 20.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-11T00:00:57.389865"
-  },
-  {
-    "id": "39c60e7231c2730b",
-    "title": "Bolsa Maternidade Roma G Preto/Bronze - 01 Peça",
-    "price_now": 274.9,
-    "price_was": 450.66,
-    "discount_pct": 39,
-    "url": "https://s.shopee.com.br/3qN0Xo1w6F",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lpgmhd8alu2te0",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-11T00:00:55.780857"
   }
 ]
