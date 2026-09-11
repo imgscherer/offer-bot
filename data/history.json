@@ -3235,6 +3235,10 @@
     "ddaee696ee1c0d9f": {
       "title": "Tênis Infantil com Sola Antiderrapante (Tam. 25 ao 36)",
       "posted_at": "2026-09-11T12:10:56.521361"
+    },
+    "bdf23aab3e963ed5": {
+      "title": "Cercadinho Bebê Chiqueirinho Infantil Dobrável Square até 20kg",
+      "posted_at": "2026-09-11T12:40:49.352649"
     }
   },
   "results": [
@@ -16821,6 +16825,14 @@
       "post_id": "816",
       "error": null,
       "at": "2026-09-11T12:10:56.520617"
+    },
+    {
+      "offer_id": "bdf23aab3e963ed5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "817",
+      "error": null,
+      "at": "2026-09-11T12:40:49.351933"
     }
   ]
 }
