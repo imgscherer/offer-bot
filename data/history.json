@@ -3251,6 +3251,10 @@
     "30f3f7a76f592cb2": {
       "title": "Sapato Infantil Feminino (Tam. 25 ao 32, 3 Cores)",
       "posted_at": "2026-09-11T15:10:53.451343"
+    },
+    "bdf3e16cb3b65130": {
+      "title": "Tapete Infantil Bebê Inflável Água Atividades Sensorial",
+      "posted_at": "2026-09-11T18:00:57.193550"
     }
   },
   "results": [
@@ -16869,6 +16873,14 @@
       "post_id": "820",
       "error": null,
       "at": "2026-09-11T15:10:53.450591"
+    },
+    {
+      "offer_id": "bdf3e16cb3b65130",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "821",
+      "error": null,
+      "at": "2026-09-11T18:00:57.192828"
     }
   ]
 }
