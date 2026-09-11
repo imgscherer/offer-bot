@@ -3255,6 +3255,10 @@
     "bdf3e16cb3b65130": {
       "title": "Tapete Infantil Bebê Inflável Água Atividades Sensorial",
       "posted_at": "2026-09-11T18:00:57.193550"
+    },
+    "a6e927b4497052c9": {
+      "title": "Kit Infantil 4 peças menina short e camiseta (Tam. 2 a 8 anos)",
+      "posted_at": "2026-09-11T20:10:49.378172"
     }
   },
   "results": [
@@ -16921,6 +16925,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-11T19:40:37.847659"
+    },
+    {
+      "offer_id": "a6e927b4497052c9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "822",
+      "error": null,
+      "at": "2026-09-11T20:10:49.377492"
     }
   ]
 }
