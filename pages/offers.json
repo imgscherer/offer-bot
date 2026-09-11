@@ -1,5 +1,29 @@
 [
   {
+    "id": "393e1595a2992638",
+    "title": "Granado Hidratante Bebê Camomila 120ml",
+    "price_now": 20.0,
+    "price_was": 31.32,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B07NPX4CX2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/583075535317891355176149034971.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-11T14:11:04.415555"
+  },
+  {
+    "id": "1d9e0c12e3e04ece",
+    "title": "Kit 2 Tênis Infantil Masculino Antiderrapante (Tam. 25 ao 36, Diversas cores)",
+    "price_now": 69.29,
+    "price_was": 157.48,
+    "discount_pct": 56,
+    "url": "https://s.shopee.com.br/5LBpGHKTbY?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/530219724517891352734525621521.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-11T14:10:56.846883"
+  },
+  {
     "id": "bdf23aab3e963ed5",
     "title": "Cercadinho Bebê Chiqueirinho Infantil Dobrável Square até 20kg",
     "price_now": 198.0,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-11T00:00:55.780857"
-  },
-  {
-    "id": "0ebad4c8fa6c37ab",
-    "title": "Mochila Maternidade Bali - 01 Peça",
-    "price_now": 229.9,
-    "price_was": 403.33,
-    "discount_pct": 43,
-    "url": "https://s.shopee.com.br/4fw7XKylPU",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mefwb8kmxvk1e1",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-11T00:00:53.951118"
-  },
-  {
-    "id": "af1d1d5b4a749a2d",
-    "title": "Kit Berço Enxoval Bebê Menina Baby Flower Rosa 9 Peças",
-    "price_now": 91.2,
-    "price_was": 139.12,
-    "discount_pct": 34,
-    "url": "https://s.shopee.com.br/9fKnFAhIzd?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/625324330217890714311848516710.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-10T20:20:56.792258"
   }
 ]

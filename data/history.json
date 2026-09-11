@@ -3239,6 +3239,14 @@
     "bdf23aab3e963ed5": {
       "title": "Cercadinho Bebê Chiqueirinho Infantil Dobrável Square até 20kg",
       "posted_at": "2026-09-11T12:40:49.352649"
+    },
+    "1d9e0c12e3e04ece": {
+      "title": "Kit 2 Tênis Infantil Masculino Antiderrapante (Tam. 25 ao 36, Diversas cores)",
+      "posted_at": "2026-09-11T14:10:56.847147"
+    },
+    "393e1595a2992638": {
+      "title": "Granado Hidratante Bebê Camomila 120ml",
+      "posted_at": "2026-09-11T14:11:04.415802"
     }
   },
   "results": [
@@ -16833,6 +16841,22 @@
       "post_id": "817",
       "error": null,
       "at": "2026-09-11T12:40:49.351933"
+    },
+    {
+      "offer_id": "1d9e0c12e3e04ece",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "818",
+      "error": null,
+      "at": "2026-09-11T14:10:56.846593"
+    },
+    {
+      "offer_id": "393e1595a2992638",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "819",
+      "error": null,
+      "at": "2026-09-11T14:11:04.415253"
     }
   ]
 }
