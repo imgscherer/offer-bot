@@ -3195,6 +3195,26 @@
     "af1d1d5b4a749a2d": {
       "title": "Kit Berço Enxoval Bebê Menina Baby Flower Rosa 9 Peças",
       "posted_at": "2026-09-10T20:20:56.792578"
+    },
+    "0ebad4c8fa6c37ab": {
+      "title": "Mochila Maternidade Bali - 01 Peça",
+      "posted_at": "2026-09-11T00:00:53.951445"
+    },
+    "39c60e7231c2730b": {
+      "title": "Bolsa Maternidade Roma G Preto/Bronze - 01 Peça",
+      "posted_at": "2026-09-11T00:00:55.781175"
+    },
+    "5aeebe97e8c0bb53": {
+      "title": "Bag Mão Maternidade New York Marinho/Bronze - 01 Peça",
+      "posted_at": "2026-09-11T00:00:57.390177"
+    },
+    "563e0a5cb281e1a3": {
+      "title": "Bag Mão Maternidade New York Preto - 01 Peça",
+      "posted_at": "2026-09-11T00:00:58.566783"
+    },
+    "e9599c0b6efe776e": {
+      "title": "Kit Bolsa Maternidade Arco Íris Off/Rosa - 02 Peças",
+      "posted_at": "2026-09-11T00:01:00.318162"
     }
   },
   "results": [
@@ -16701,6 +16721,46 @@
       "post_id": "806",
       "error": null,
       "at": "2026-09-10T20:20:56.791883"
+    },
+    {
+      "offer_id": "0ebad4c8fa6c37ab",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "807",
+      "error": null,
+      "at": "2026-09-11T00:00:53.950791"
+    },
+    {
+      "offer_id": "39c60e7231c2730b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "808",
+      "error": null,
+      "at": "2026-09-11T00:00:55.780541"
+    },
+    {
+      "offer_id": "5aeebe97e8c0bb53",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "809",
+      "error": null,
+      "at": "2026-09-11T00:00:57.389545"
+    },
+    {
+      "offer_id": "563e0a5cb281e1a3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "810",
+      "error": null,
+      "at": "2026-09-11T00:00:58.566077"
+    },
+    {
+      "offer_id": "e9599c0b6efe776e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "811",
+      "error": null,
+      "at": "2026-09-11T00:01:00.317565"
     }
   ]
 }
