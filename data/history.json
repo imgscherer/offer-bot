@@ -3227,6 +3227,10 @@
     "430b4ff5935b5fea": {
       "title": "Almofada Anatômica Bebê Recém-Nascido Ursinho Apoio para Cabeça Confortável",
       "posted_at": "2026-09-11T00:30:41.172609"
+    },
+    "3337b61c1f98c6e6": {
+      "title": "Brinquedo Pista Bombeiro Presente Veiculo Lança Ambulância Estacionamento 3 Carrinhos Criança",
+      "posted_at": "2026-09-11T05:00:48.355049"
     }
   },
   "results": [
@@ -16797,6 +16801,14 @@
       "post_id": "814",
       "error": null,
       "at": "2026-09-11T00:30:41.172052"
+    },
+    {
+      "offer_id": "3337b61c1f98c6e6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "815",
+      "error": null,
+      "at": "2026-09-11T05:00:48.354365"
     }
   ]
 }

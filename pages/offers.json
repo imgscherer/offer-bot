@@ -1,5 +1,17 @@
 [
   {
+    "id": "3337b61c1f98c6e6",
+    "title": "Brinquedo Pista Bombeiro Presente Veiculo Lança Ambulância Estacionamento 3 Carrinhos Criança",
+    "price_now": 45.99,
+    "price_was": 69.68,
+    "discount_pct": 34,
+    "url": "https://s.shopee.com.br/gPz6aLVf2",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-822xm-miaf48hi62h350",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-11T05:00:48.354692"
+  },
+  {
     "id": "430b4ff5935b5fea",
     "title": "Almofada Anatômica Bebê Recém-Nascido Ursinho Apoio para Cabeça Confortável",
     "price_now": 29.94,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-10T11:00:56.447048"
-  },
-  {
-    "id": "6a9b927202889c61",
-    "title": "Fralda Personal Baby Premium Protection M 34 unidades",
-    "price_now": 31.8,
-    "price_was": 46.38,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/824701622117890376305607731788.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-10T11:00:54.136051"
   }
 ]
