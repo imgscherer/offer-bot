@@ -1,5 +1,17 @@
 [
   {
+    "id": "ddaee696ee1c0d9f",
+    "title": "Tênis Infantil com Sola Antiderrapante (Tam. 25 ao 36)",
+    "price_now": 66.72,
+    "price_was": 109.38,
+    "discount_pct": 39,
+    "url": "https://s.shopee.com.br/3g3b92pEVv?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/351163910317891281335022828930.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-11T12:10:56.521033"
+  },
+  {
     "id": "3337b61c1f98c6e6",
     "title": "Brinquedo Pista Bombeiro Presente Veiculo Lança Ambulância Estacionamento 3 Carrinhos Criança",
     "price_now": 45.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-10T18:40:47.688266"
-  },
-  {
-    "id": "c54cede59eadd13e",
-    "title": "Bermuda Bebê Infantil Saruel Estampado Carrinho Menino Cós Elástico",
-    "price_now": 27.93,
-    "price_was": 39.9,
-    "discount_pct": 30,
-    "url": "https://s.shopee.com.br/2qUSUOjGpT",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1tw4q7be1g125",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-10T11:00:56.447048"
   }
 ]

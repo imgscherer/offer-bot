@@ -3231,6 +3231,10 @@
     "3337b61c1f98c6e6": {
       "title": "Brinquedo Pista Bombeiro Presente Veiculo Lança Ambulância Estacionamento 3 Carrinhos Criança",
       "posted_at": "2026-09-11T05:00:48.355049"
+    },
+    "ddaee696ee1c0d9f": {
+      "title": "Tênis Infantil com Sola Antiderrapante (Tam. 25 ao 36)",
+      "posted_at": "2026-09-11T12:10:56.521361"
     }
   },
   "results": [
@@ -16809,6 +16813,14 @@
       "post_id": "815",
       "error": null,
       "at": "2026-09-11T05:00:48.354365"
+    },
+    {
+      "offer_id": "ddaee696ee1c0d9f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "816",
+      "error": null,
+      "at": "2026-09-11T12:10:56.520617"
     }
   ]
 }
