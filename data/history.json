@@ -3259,6 +3259,10 @@
     "a6e927b4497052c9": {
       "title": "Kit Infantil 4 peças menina short e camiseta (Tam. 2 a 8 anos)",
       "posted_at": "2026-09-11T20:10:49.378172"
+    },
+    "b3a3a40502a3e445": {
+      "title": "Kit Leito Maternidade Algodão Personalizado Cecília Branco - 03 Peças",
+      "posted_at": "2026-09-12T18:40:39.218851"
     }
   },
   "results": [
@@ -17029,6 +17033,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-11T22:30:48.923368"
+    },
+    {
+      "offer_id": "b3a3a40502a3e445",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "823",
+      "error": null,
+      "at": "2026-09-12T18:40:39.218200"
     }
   ]
 }
