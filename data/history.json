@@ -3307,6 +3307,10 @@
     "b8274a4214669d50": {
       "title": "Conjunto de 3 Quadros Decorativos Infantis com moldura Urso Aviador em Azul Arte para Quarto de Bebê",
       "posted_at": "2026-09-13T19:00:56.214021"
+    },
+    "26e8f718c3b1ad93": {
+      "title": "Carrinho Bate e Pula Super Divertido Colorido Presente que toda criança Ama",
+      "posted_at": "2026-09-13T22:31:13.957756"
     }
   },
   "results": [
@@ -17173,6 +17177,14 @@
       "post_id": "834",
       "error": null,
       "at": "2026-09-13T19:00:56.213349"
+    },
+    {
+      "offer_id": "26e8f718c3b1ad93",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "835",
+      "error": null,
+      "at": "2026-09-13T22:31:13.957089"
     }
   ]
 }
