@@ -3283,6 +3283,10 @@
     "4465294fc6163b28": {
       "title": "Kit 2 Pçs Toalha Pano Fralda de Boca Babete Bebe Soft MENINO SORTIDO 100% Algodão",
       "posted_at": "2026-09-13T03:10:37.175567"
+    },
+    "4ef4044784e73d3a": {
+      "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+      "posted_at": "2026-09-13T17:50:50.170279"
     }
   },
   "results": [
@@ -17101,6 +17105,14 @@
       "post_id": "828",
       "error": null,
       "at": "2026-09-13T03:10:37.174844"
+    },
+    {
+      "offer_id": "4ef4044784e73d3a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "829",
+      "error": null,
+      "at": "2026-09-13T17:50:50.169686"
     }
   ]
 }
