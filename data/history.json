@@ -3263,6 +3263,22 @@
     "b3a3a40502a3e445": {
       "title": "Kit Leito Maternidade Algodão Personalizado Cecília Branco - 03 Peças",
       "posted_at": "2026-09-12T18:40:39.218851"
+    },
+    "8759c947b0bf94fb": {
+      "title": "KIT COM 180/90 ITENS LEMBRANCINHAS S/COM NOME TEMA: CHÁ DE BEBÊ URSA REALEZA(Envio Rápido)",
+      "posted_at": "2026-09-13T00:00:52.475490"
+    },
+    "627a8a22b5b0087e": {
+      "title": "KIT COM 180/90 ITENS LEMBRANCINHAS S/COM NOME TEMA: CHÁ DE BEBE AZUL E ROSA(Envio Rápido)",
+      "posted_at": "2026-09-13T00:00:55.069690"
+    },
+    "f5295889bd80d9f8": {
+      "title": "Quadros Decorativos Infantil Trio Safari Bege Bichinhos Fofos Bebê Quarto",
+      "posted_at": "2026-09-13T00:00:56.072342"
+    },
+    "cc89780af01aa3b7": {
+      "title": "Kit Higiene Cuidados Bebê Tesoura Cortador Escova Pente Recém Nascido Buba",
+      "posted_at": "2026-09-13T00:00:57.115410"
     }
   },
   "results": [
@@ -17041,6 +17057,38 @@
       "post_id": "823",
       "error": null,
       "at": "2026-09-12T18:40:39.218200"
+    },
+    {
+      "offer_id": "8759c947b0bf94fb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "824",
+      "error": null,
+      "at": "2026-09-13T00:00:52.474978"
+    },
+    {
+      "offer_id": "627a8a22b5b0087e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "825",
+      "error": null,
+      "at": "2026-09-13T00:00:55.069165"
+    },
+    {
+      "offer_id": "f5295889bd80d9f8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "826",
+      "error": null,
+      "at": "2026-09-13T00:00:56.071786"
+    },
+    {
+      "offer_id": "cc89780af01aa3b7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "827",
+      "error": null,
+      "at": "2026-09-13T00:00:57.114930"
     }
   ]
 }
