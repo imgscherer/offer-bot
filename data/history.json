@@ -3279,6 +3279,10 @@
     "cc89780af01aa3b7": {
       "title": "Kit Higiene Cuidados Bebê Tesoura Cortador Escova Pente Recém Nascido Buba",
       "posted_at": "2026-09-13T00:00:57.115410"
+    },
+    "4465294fc6163b28": {
+      "title": "Kit 2 Pçs Toalha Pano Fralda de Boca Babete Bebe Soft MENINO SORTIDO 100% Algodão",
+      "posted_at": "2026-09-13T03:10:37.175567"
     }
   },
   "results": [
@@ -17089,6 +17093,14 @@
       "post_id": "827",
       "error": null,
       "at": "2026-09-13T00:00:57.114930"
+    },
+    {
+      "offer_id": "4465294fc6163b28",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "828",
+      "error": null,
+      "at": "2026-09-13T03:10:37.174844"
     }
   ]
 }
