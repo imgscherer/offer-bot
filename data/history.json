@@ -3287,6 +3287,26 @@
     "4ef4044784e73d3a": {
       "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
       "posted_at": "2026-09-13T17:50:50.170279"
+    },
+    "3ce2f79cc1541be7": {
+      "title": "90 Pezinhos Lembrancinha - Chá de Bebê (45 Pares) Sabonetes Perfumados-Chá revelação lembrancinhas",
+      "posted_at": "2026-09-13T19:00:45.389425"
+    },
+    "14122c24ac6308a5": {
+      "title": "160 Mini Pezinhos de Sabonete Perfumado para Lembrança de Chá de Bebê Menina 80 pares lembrancinhas",
+      "posted_at": "2026-09-13T19:00:49.633038"
+    },
+    "76aa4f79b81664cc": {
+      "title": "160 Mini Pezinhos de Sabonete Perfumado para Lembrança de Chá de Bebê Safari 80 pares lembrancinhas",
+      "posted_at": "2026-09-13T19:00:53.519374"
+    },
+    "2767517b2db9f3d0": {
+      "title": "100 Mini Pezinhos Lembrancinha - Chá de Bebê (50 Pares) Sabonetes Perfumados",
+      "posted_at": "2026-09-13T19:00:55.316740"
+    },
+    "b8274a4214669d50": {
+      "title": "Conjunto de 3 Quadros Decorativos Infantis com moldura Urso Aviador em Azul Arte para Quarto de Bebê",
+      "posted_at": "2026-09-13T19:00:56.214021"
     }
   },
   "results": [
@@ -17113,6 +17133,46 @@
       "post_id": "829",
       "error": null,
       "at": "2026-09-13T17:50:50.169686"
+    },
+    {
+      "offer_id": "3ce2f79cc1541be7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "830",
+      "error": null,
+      "at": "2026-09-13T19:00:45.388736"
+    },
+    {
+      "offer_id": "14122c24ac6308a5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "831",
+      "error": null,
+      "at": "2026-09-13T19:00:49.632390"
+    },
+    {
+      "offer_id": "76aa4f79b81664cc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "832",
+      "error": null,
+      "at": "2026-09-13T19:00:53.518496"
+    },
+    {
+      "offer_id": "2767517b2db9f3d0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "833",
+      "error": null,
+      "at": "2026-09-13T19:00:55.316103"
+    },
+    {
+      "offer_id": "b8274a4214669d50",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "834",
+      "error": null,
+      "at": "2026-09-13T19:00:56.213349"
     }
   ]
 }
