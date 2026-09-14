@@ -1,5 +1,17 @@
 [
   {
+    "id": "87ebecb421a5c4da",
+    "title": "Ninho Redutor de Berço",
+    "price_now": 35.9,
+    "price_was": 51.29,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/5AsTw0O1uE?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/910262939817893991568567193162.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-14T15:31:04.304814"
+  },
+  {
     "id": "6a6326996468f3cd",
     "title": "Kit Bolsa Mala Maternidade New York Cacau/Off - 06 Peças",
     "price_now": 1239.9,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-13T19:00:45.389098"
-  },
-  {
-    "id": "4ef4044784e73d3a",
-    "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
-    "price_now": 55.0,
-    "price_was": 101.58,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/712743845917893207464394493926.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-13T17:50:50.169996"
   }
 ]

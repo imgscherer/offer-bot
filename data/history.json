@@ -3331,6 +3331,10 @@
     "6a6326996468f3cd": {
       "title": "Kit Bolsa Mala Maternidade New York Cacau/Off - 06 Peças",
       "posted_at": "2026-09-14T13:01:04.899412"
+    },
+    "87ebecb421a5c4da": {
+      "title": "Ninho Redutor de Berço",
+      "posted_at": "2026-09-14T15:31:04.305205"
     }
   },
   "results": [
@@ -17413,6 +17417,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-14T15:20:48.384534"
+    },
+    {
+      "offer_id": "18cd1a31e234d6f8",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-14T15:30:49.346816"
+    },
+    {
+      "offer_id": "87ebecb421a5c4da",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "841",
+      "error": null,
+      "at": "2026-09-14T15:31:04.304468"
     }
   ]
 }
