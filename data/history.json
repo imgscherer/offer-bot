@@ -3343,6 +3343,10 @@
     "e87664b537880ded": {
       "title": "Kit 2 Pares Chinelo Infantil Personagens Super Heróis (Tam. 25 ao 32, Diversas opções)",
       "posted_at": "2026-09-14T19:50:42.935402"
+    },
+    "9db6a3d03526af0e": {
+      "title": "Kit Lancheira Marmita Infantil com Garrafa e Talheres (3 Opções)",
+      "posted_at": "2026-09-14T20:31:40.689254"
     }
   },
   "results": [
@@ -17481,6 +17485,14 @@
       "post_id": "843",
       "error": null,
       "at": "2026-09-14T19:50:42.934775"
+    },
+    {
+      "offer_id": "9db6a3d03526af0e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "844",
+      "error": null,
+      "at": "2026-09-14T20:31:40.688542"
     }
   ]
 }
