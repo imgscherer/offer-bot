@@ -3311,6 +3311,10 @@
     "26e8f718c3b1ad93": {
       "title": "Carrinho Bate e Pula Super Divertido Colorido Presente que toda criança Ama",
       "posted_at": "2026-09-13T22:31:13.957756"
+    },
+    "7c687a4db0058c10": {
+      "title": "Kit Pares de Meias Infantil (Tam. 6 m. a 10 anos)",
+      "posted_at": "2026-09-14T11:30:53.257922"
     }
   },
   "results": [
@@ -17185,6 +17189,14 @@
       "post_id": "835",
       "error": null,
       "at": "2026-09-13T22:31:13.957089"
+    },
+    {
+      "offer_id": "7c687a4db0058c10",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "836",
+      "error": null,
+      "at": "2026-09-14T11:30:53.257177"
     }
   ]
 }
