@@ -3335,6 +3335,10 @@
     "87ebecb421a5c4da": {
       "title": "Ninho Redutor de Berço",
       "posted_at": "2026-09-14T15:31:04.305205"
+    },
+    "74039dcf2bb07f80": {
+      "title": "Kit 3 Macacões Curtos Infantil (Tam. RN ao G, Diversas cores)",
+      "posted_at": "2026-09-14T16:20:59.311985"
     }
   },
   "results": [
@@ -17457,6 +17461,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-14T16:00:52.912727"
+    },
+    {
+      "offer_id": "74039dcf2bb07f80",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "842",
+      "error": null,
+      "at": "2026-09-14T16:20:59.311282"
     }
   ]
 }
