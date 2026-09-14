@@ -3315,6 +3315,22 @@
     "7c687a4db0058c10": {
       "title": "Kit Pares de Meias Infantil (Tam. 6 m. a 10 anos)",
       "posted_at": "2026-09-14T11:30:53.257922"
+    },
+    "803f06b959088731": {
+      "title": "Mochila Maternidade 2 em 1 New York Marinho/Bronze - Belaa Baby",
+      "posted_at": "2026-09-14T13:00:48.320903"
+    },
+    "3dc802d3d5b61950": {
+      "title": "Bolsa Mãe Maternidade Linho Preto - 01 Peça",
+      "posted_at": "2026-09-14T13:00:58.032699"
+    },
+    "778602f3633f1acf": {
+      "title": "Kit Mala Maternidade + Mochila Clean Menino/Menina - 02 Peças",
+      "posted_at": "2026-09-14T13:01:03.150652"
+    },
+    "6a6326996468f3cd": {
+      "title": "Kit Bolsa Mala Maternidade New York Cacau/Off - 06 Peças",
+      "posted_at": "2026-09-14T13:01:04.899412"
     }
   },
   "results": [
@@ -17245,6 +17261,46 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-14T12:50:46.502159"
+    },
+    {
+      "offer_id": "803f06b959088731",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "837",
+      "error": null,
+      "at": "2026-09-14T13:00:48.320208"
+    },
+    {
+      "offer_id": "66adffcd183abb04",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-14T13:00:54.966727"
+    },
+    {
+      "offer_id": "3dc802d3d5b61950",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "838",
+      "error": null,
+      "at": "2026-09-14T13:00:58.031989"
+    },
+    {
+      "offer_id": "778602f3633f1acf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "839",
+      "error": null,
+      "at": "2026-09-14T13:01:03.149991"
+    },
+    {
+      "offer_id": "6a6326996468f3cd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "840",
+      "error": null,
+      "at": "2026-09-14T13:01:04.898765"
     }
   ]
 }
