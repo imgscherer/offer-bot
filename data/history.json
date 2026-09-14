@@ -3347,6 +3347,10 @@
     "9db6a3d03526af0e": {
       "title": "Kit Lancheira Marmita Infantil com Garrafa e Talheres (3 Opções)",
       "posted_at": "2026-09-14T20:31:40.689254"
+    },
+    "93621fdca215498f": {
+      "title": "Tapa Fralda Bebê menina e menino RN 0 à 24 meses",
+      "posted_at": "2026-09-14T23:50:35.292190"
     }
   },
   "results": [
@@ -17493,6 +17497,14 @@
       "post_id": "844",
       "error": null,
       "at": "2026-09-14T20:31:40.688542"
+    },
+    {
+      "offer_id": "93621fdca215498f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "845",
+      "error": null,
+      "at": "2026-09-14T23:50:35.291448"
     }
   ]
 }
