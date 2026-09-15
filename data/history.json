@@ -3383,6 +3383,10 @@
     "81f7458bf5484cd8": {
       "title": "Hidratante Granado Bebê Tradicional 120ml",
       "posted_at": "2026-09-15T14:01:14.821152"
+    },
+    "1ae1c006697e7c80": {
+      "title": "Conjuntos Infantil Juvenil Menina 6 Peças (Tam. 1 ao 16)",
+      "posted_at": "2026-09-15T19:20:58.002864"
     }
   },
   "results": [
@@ -17673,6 +17677,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-15T14:50:45.046996"
+    },
+    {
+      "offer_id": "1ae1c006697e7c80",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "854",
+      "error": null,
+      "at": "2026-09-15T19:20:58.002276"
     }
   ]
 }
