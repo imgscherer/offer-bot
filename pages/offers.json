@@ -1,5 +1,17 @@
 [
   {
+    "id": "b1ed00a498650850",
+    "title": "Lenço Umedecido Recém nascido Huggies 192 unidades",
+    "price_now": 28.15,
+    "price_was": 41.9,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B08FV6G3QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/640664690317894744689552171618.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-15T12:20:47.607051"
+  },
+  {
     "id": "a562b800930749de",
     "title": "Kit Mala Maternidade + Mochila Basic Menino/Menina - 02 Peças",
     "price_now": 384.9,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-14T13:00:48.320557"
-  },
-  {
-    "id": "7c687a4db0058c10",
-    "title": "Kit Pares de Meias Infantil (Tam. 6 m. a 10 anos)",
-    "price_now": 12.99,
-    "price_was": 19.98,
-    "discount_pct": 35,
-    "url": "https://s.shopee.com.br/1ANWZXlJ0?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/564571488917893852314119832160.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-14T11:30:53.257598"
   }
 ]
