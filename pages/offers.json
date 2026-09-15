@@ -1,5 +1,29 @@
 [
   {
+    "id": "5a3a55efdb687faf",
+    "title": "Fralda Cremer Magic Care Hiper XXG 40 unidades",
+    "price_now": 43.99,
+    "price_was": 64.69,
+    "discount_pct": 32,
+    "url": "https://s.shopee.com.br/5VVLmmYwqL?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/831385692317894779337967002754.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-15T13:31:10.927520"
+  },
+  {
+    "id": "071d10c29bc55c23",
+    "title": "Fralda Cremer Magic Care Hiper M 68 unidades",
+    "price_now": 43.99,
+    "price_was": 67.89,
+    "discount_pct": 35,
+    "url": "https://s.shopee.com.br/70K9ZXtqHC?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/809707375817894779377138650488.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-15T13:30:59.998742"
+  },
+  {
     "id": "0c9621621c51a6d6",
     "title": "Lenço Umedecido Huggies Tripla Proteção - 264 Unidades (3 pacotes 88 unidades)",
     "price_now": 31.17,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-14T13:01:04.899068"
-  },
-  {
-    "id": "778602f3633f1acf",
-    "title": "Kit Mala Maternidade + Mochila Clean Menino/Menina - 02 Peças",
-    "price_now": 354.9,
-    "price_was": 529.7,
-    "discount_pct": 33,
-    "url": "https://s.shopee.com.br/6Al0yKKxzW",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj8imaerme4m2d",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-14T13:01:03.150318"
-  },
-  {
-    "id": "3dc802d3d5b61950",
-    "title": "Bolsa Mãe Maternidade Linho Preto - 01 Peça",
-    "price_now": 274.9,
-    "price_was": 422.92,
-    "discount_pct": 35,
-    "url": "https://s.shopee.com.br/1LflDRdMnH",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lopiyvuo1s4y51",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-14T13:00:58.032346"
   }
 ]
