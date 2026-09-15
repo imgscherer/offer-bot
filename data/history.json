@@ -3363,6 +3363,10 @@
     "b1ed00a498650850": {
       "title": "Lenço Umedecido Recém nascido Huggies 192 unidades",
       "posted_at": "2026-09-15T12:20:47.607369"
+    },
+    "0c9621621c51a6d6": {
+      "title": "Lenço Umedecido Huggies Tripla Proteção - 264 Unidades (3 pacotes 88 unidades)",
+      "posted_at": "2026-09-15T13:10:50.592281"
     }
   },
   "results": [
@@ -17541,6 +17545,14 @@
       "post_id": "848",
       "error": null,
       "at": "2026-09-15T12:20:47.606678"
+    },
+    {
+      "offer_id": "0c9621621c51a6d6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "849",
+      "error": null,
+      "at": "2026-09-15T13:10:50.583809"
     }
   ]
 }
