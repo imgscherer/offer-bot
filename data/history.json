@@ -3391,6 +3391,10 @@
     "7e2883d5659d53ee": {
       "title": "Fralda Mili Love e Care RN 18 unidades",
       "posted_at": "2026-09-15T20:20:45.253063"
+    },
+    "e52cfd41ea6a58bd": {
+      "title": "Creme assaduras dermocalmante bebe, peles sensiveis, granado 50g",
+      "posted_at": "2026-09-15T20:40:44.657718"
     }
   },
   "results": [
@@ -17697,6 +17701,14 @@
       "post_id": "855",
       "error": null,
       "at": "2026-09-15T20:20:45.252320"
+    },
+    {
+      "offer_id": "e52cfd41ea6a58bd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "856",
+      "error": null,
+      "at": "2026-09-15T20:40:44.656973"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "e52cfd41ea6a58bd",
+    "title": "Creme assaduras dermocalmante bebe, peles sensiveis, granado 50g",
+    "price_now": 22.39,
+    "price_was": 40.88,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B07NPYD9KF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/281579777017895041619506741449.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-15T20:40:44.657296"
+  },
+  {
     "id": "7e2883d5659d53ee",
     "title": "Fralda Mili Love e Care RN 18 unidades",
     "price_now": 13.99,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-14T23:50:35.291835"
-  },
-  {
-    "id": "9db6a3d03526af0e",
-    "title": "Kit Lancheira Marmita Infantil com Garrafa e Talheres (3 Opções)",
-    "price_now": 39.45,
-    "price_was": 101.15,
-    "discount_pct": 61,
-    "url": "https://s.shopee.com.br/2Vrj6OG0np?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/890995264517894177557266890977.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-14T20:31:40.688895"
   }
 ]
