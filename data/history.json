@@ -3351,6 +3351,14 @@
     "93621fdca215498f": {
       "title": "Tapa Fralda Bebê menina e menino RN 0 à 24 meses",
       "posted_at": "2026-09-14T23:50:35.292190"
+    },
+    "368a964a3c3127d9": {
+      "title": "100 Mini Pezinhos  Lembrancinhas de Chá de Fralda -Revelação -saida  de Maternidade 50 pares",
+      "posted_at": "2026-09-15T11:40:39.643321"
+    },
+    "a562b800930749de": {
+      "title": "Kit Mala Maternidade + Mochila Basic Menino/Menina - 02 Peças",
+      "posted_at": "2026-09-15T11:40:42.282296"
     }
   },
   "results": [
@@ -17505,6 +17513,22 @@
       "post_id": "845",
       "error": null,
       "at": "2026-09-14T23:50:35.291448"
+    },
+    {
+      "offer_id": "368a964a3c3127d9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "846",
+      "error": null,
+      "at": "2026-09-15T11:40:39.642595"
+    },
+    {
+      "offer_id": "a562b800930749de",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "847",
+      "error": null,
+      "at": "2026-09-15T11:40:42.281622"
     }
   ]
 }
