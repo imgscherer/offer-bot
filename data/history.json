@@ -3375,6 +3375,14 @@
     "5a3a55efdb687faf": {
       "title": "Fralda Cremer Magic Care Hiper XXG 40 unidades",
       "posted_at": "2026-09-15T13:31:10.927787"
+    },
+    "c6c9f5ead62a5b63": {
+      "title": "Johnson's Baby Shampoo Infantil Para Cabelos Cacheados Cachos Dos Sonhos, 200ml",
+      "posted_at": "2026-09-15T14:00:59.698989"
+    },
+    "81f7458bf5484cd8": {
+      "title": "Hidratante Granado Bebê Tradicional 120ml",
+      "posted_at": "2026-09-15T14:01:14.821152"
     }
   },
   "results": [
@@ -17601,6 +17609,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-15T13:50:40.950221"
+    },
+    {
+      "offer_id": "c6c9f5ead62a5b63",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "852",
+      "error": null,
+      "at": "2026-09-15T14:00:59.604197"
+    },
+    {
+      "offer_id": "1b81bc0f18faf84e",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-15T14:01:04.728153"
+    },
+    {
+      "offer_id": "81f7458bf5484cd8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "853",
+      "error": null,
+      "at": "2026-09-15T14:01:14.820608"
     }
   ]
 }

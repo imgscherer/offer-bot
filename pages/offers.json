@@ -1,5 +1,29 @@
 [
   {
+    "id": "81f7458bf5484cd8",
+    "title": "Hidratante Granado Bebê Tradicional 120ml",
+    "price_now": 20.44,
+    "price_was": 31.32,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B08DPQK5K6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/325542627917894805129809979588.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-15T14:01:14.820896"
+  },
+  {
+    "id": "c6c9f5ead62a5b63",
+    "title": "Johnson's Baby Shampoo Infantil Para Cabelos Cacheados Cachos Dos Sonhos, 200ml",
+    "price_now": 12.0,
+    "price_was": 24.79,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B0789TG4TQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/199984860117894807553440539873.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-15T14:00:59.604483"
+  },
+  {
     "id": "5a3a55efdb687faf",
     "title": "Fralda Cremer Magic Care Hiper XXG 40 unidades",
     "price_now": 43.99,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-14T16:20:59.311621"
-  },
-  {
-    "id": "87ebecb421a5c4da",
-    "title": "Ninho Redutor de Berço",
-    "price_now": 35.9,
-    "price_was": 51.29,
-    "discount_pct": 30,
-    "url": "https://s.shopee.com.br/5AsTw0O1uE?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/910262939817893991568567193162.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-14T15:31:04.304814"
-  },
-  {
-    "id": "6a6326996468f3cd",
-    "title": "Kit Bolsa Mala Maternidade New York Cacau/Off - 06 Peças",
-    "price_now": 1239.9,
-    "price_was": 1796.96,
-    "discount_pct": 31,
-    "url": "https://s.shopee.com.br/8plm9EAoZm",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820md-mr099ov88ydgfb",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-14T13:01:04.899068"
   }
 ]
