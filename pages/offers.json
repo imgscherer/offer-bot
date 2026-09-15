@@ -1,5 +1,17 @@
 [
   {
+    "id": "7e2883d5659d53ee",
+    "title": "Fralda Mili Love e Care RN 18 unidades",
+    "price_now": 13.99,
+    "price_was": 27.98,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B09CDXRQJL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/424589960217895027098785125303.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-15T20:20:45.252682"
+  },
+  {
     "id": "1ae1c006697e7c80",
     "title": "Conjuntos Infantil Juvenil Menina 6 Peças (Tam. 1 ao 16)",
     "price_now": 59.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-14T20:31:40.688895"
-  },
-  {
-    "id": "e87664b537880ded",
-    "title": "Kit 2 Pares Chinelo Infantil Personagens Super Heróis (Tam. 25 ao 32, Diversas opções)",
-    "price_now": 22.99,
-    "price_was": 49.98,
-    "discount_pct": 54,
-    "url": "https://s.shopee.com.br/8KpVzoNXkP?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/503043206717894148712475574008.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-14T19:50:42.935109"
   }
 ]
