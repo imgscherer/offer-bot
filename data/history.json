@@ -3395,6 +3395,10 @@
     "e52cfd41ea6a58bd": {
       "title": "Creme assaduras dermocalmante bebe, peles sensiveis, granado 50g",
       "posted_at": "2026-09-15T20:40:44.657718"
+    },
+    "1f49f8eb59b70f31": {
+      "title": "Conjuntos Infantil Juvenil Menina 6 Peças (Tam. 1 ao 16)",
+      "posted_at": "2026-09-15T20:50:47.533885"
     }
   },
   "results": [
@@ -17709,6 +17713,14 @@
       "post_id": "856",
       "error": null,
       "at": "2026-09-15T20:40:44.656973"
+    },
+    {
+      "offer_id": "1f49f8eb59b70f31",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "857",
+      "error": null,
+      "at": "2026-09-15T20:50:47.533140"
     }
   ]
 }
