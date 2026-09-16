@@ -1,5 +1,17 @@
 [
   {
+    "id": "993c278a7443cf09",
+    "title": "Granado Refil Condicionador Bebê Camomila 250ml",
+    "price_now": 14.0,
+    "price_was": 20.1,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0D8JWLGM4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/959293739517895755745835125100.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-16T16:20:53.646347"
+  },
+  {
     "id": "561e5c345b5d5993",
     "title": "Degrau Infantil Step Dots, Clingo, BrancoCinza",
     "price_now": 28.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-15T20:40:44.657296"
-  },
-  {
-    "id": "7e2883d5659d53ee",
-    "title": "Fralda Mili Love e Care RN 18 unidades",
-    "price_now": 13.99,
-    "price_was": 27.98,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B09CDXRQJL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/424589960217895027098785125303.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-15T20:20:45.252682"
   }
 ]

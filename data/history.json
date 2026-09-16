@@ -3435,6 +3435,10 @@
     "561e5c345b5d5993": {
       "title": "Degrau Infantil Step Dots, Clingo, BrancoCinza",
       "posted_at": "2026-09-16T14:20:49.832854"
+    },
+    "993c278a7443cf09": {
+      "title": "Granado Refil Condicionador Bebê Camomila 250ml",
+      "posted_at": "2026-09-16T16:20:53.646661"
     }
   },
   "results": [
@@ -17829,6 +17833,14 @@
       "post_id": "866",
       "error": null,
       "at": "2026-09-16T14:20:49.832158"
+    },
+    {
+      "offer_id": "993c278a7443cf09",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "867",
+      "error": null,
+      "at": "2026-09-16T16:20:53.645972"
     }
   ]
 }
