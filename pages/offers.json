@@ -1,5 +1,17 @@
 [
   {
+    "id": "ac5d7b080849d653",
+    "title": "Huggies Fralda Pants Premium Natural Care XXG 52 Un",
+    "price_now": 80.0,
+    "price_was": 118.35,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BKLM298N?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/537273811617895661395751724917.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-16T13:50:53.162161"
+  },
+  {
     "id": "52bad8802f801603",
     "title": "Fralda Pants Huggies Supreme Care G 60 Unidades",
     "price_now": 71.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-15T19:20:58.002571"
-  },
-  {
-    "id": "81f7458bf5484cd8",
-    "title": "Hidratante Granado Bebê Tradicional 120ml",
-    "price_now": 20.44,
-    "price_was": 31.32,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B08DPQK5K6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/325542627917894805129809979588.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-15T14:01:14.820896"
   }
 ]

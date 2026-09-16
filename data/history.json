@@ -3427,6 +3427,10 @@
     "52bad8802f801603": {
       "title": "Fralda Pants Huggies Supreme Care G 60 Unidades",
       "posted_at": "2026-09-16T13:30:51.534224"
+    },
+    "ac5d7b080849d653": {
+      "title": "Huggies Fralda Pants Premium Natural Care XXG 52 Un",
+      "posted_at": "2026-09-16T13:50:53.162426"
     }
   },
   "results": [
@@ -17805,6 +17809,14 @@
       "post_id": "864",
       "error": null,
       "at": "2026-09-16T13:30:51.533487"
+    },
+    {
+      "offer_id": "ac5d7b080849d653",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "865",
+      "error": null,
+      "at": "2026-09-16T13:50:53.161840"
     }
   ]
 }
