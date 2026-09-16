@@ -3439,6 +3439,10 @@
     "993c278a7443cf09": {
       "title": "Granado Refil Condicionador Bebê Camomila 250ml",
       "posted_at": "2026-09-16T16:20:53.646661"
+    },
+    "4ede85e172173834": {
+      "title": "Chupeta Alimentadora para Introdução Alimentar, com Silicone (4 Cores)",
+      "posted_at": "2026-09-16T20:40:48.757482"
     }
   },
   "results": [
@@ -17841,6 +17845,14 @@
       "post_id": "867",
       "error": null,
       "at": "2026-09-16T16:20:53.645972"
+    },
+    {
+      "offer_id": "4ede85e172173834",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "868",
+      "error": null,
+      "at": "2026-09-16T20:40:48.756825"
     }
   ]
 }
