@@ -3423,6 +3423,10 @@
     "1e944cb22f4bbfee": {
       "title": "Fralda Pampers Pants Ajuste Total XXG 120 Unidades",
       "posted_at": "2026-09-16T12:11:06.697361"
+    },
+    "52bad8802f801603": {
+      "title": "Fralda Pants Huggies Supreme Care G 60 Unidades",
+      "posted_at": "2026-09-16T13:30:51.534224"
     }
   },
   "results": [
@@ -17793,6 +17797,14 @@
       "post_id": "863",
       "error": null,
       "at": "2026-09-16T12:11:06.696619"
+    },
+    {
+      "offer_id": "52bad8802f801603",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "864",
+      "error": null,
+      "at": "2026-09-16T13:30:51.533487"
     }
   ]
 }

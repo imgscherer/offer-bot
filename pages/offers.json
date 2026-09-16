@@ -1,5 +1,17 @@
 [
   {
+    "id": "52bad8802f801603",
+    "title": "Fralda Pants Huggies Supreme Care G 60 Unidades",
+    "price_now": 71.0,
+    "price_was": 113.25,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/595075020217895643874985431935.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-16T13:30:51.533853"
+  },
+  {
     "id": "1e944cb22f4bbfee",
     "title": "Fralda Pampers Pants Ajuste Total XXG 120 Unidades",
     "price_now": 154.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-15T14:01:14.820896"
-  },
-  {
-    "id": "c6c9f5ead62a5b63",
-    "title": "Johnson's Baby Shampoo Infantil Para Cabelos Cacheados Cachos Dos Sonhos, 200ml",
-    "price_now": 12.0,
-    "price_was": 24.79,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B0789TG4TQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/199984860117894807553440539873.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-15T14:00:59.604483"
   }
 ]
