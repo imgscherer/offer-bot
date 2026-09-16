@@ -3399,6 +3399,10 @@
     "1f49f8eb59b70f31": {
       "title": "Conjuntos Infantil Juvenil Menina 6 Peças (Tam. 1 ao 16)",
       "posted_at": "2026-09-15T20:50:47.533885"
+    },
+    "1415f696e5bee8f7": {
+      "title": "Fantasia Infantil Naruto Baby Brink M 6-8 Anos",
+      "posted_at": "2026-09-16T03:20:42.019615"
     }
   },
   "results": [
@@ -17721,6 +17725,14 @@
       "post_id": "857",
       "error": null,
       "at": "2026-09-15T20:50:47.533140"
+    },
+    {
+      "offer_id": "1415f696e5bee8f7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "858",
+      "error": null,
+      "at": "2026-09-16T03:20:42.018936"
     }
   ]
 }
