@@ -3443,6 +3443,10 @@
     "4ede85e172173834": {
       "title": "Chupeta Alimentadora para Introdução Alimentar, com Silicone (4 Cores)",
       "posted_at": "2026-09-16T20:40:48.757482"
+    },
+    "20237b6a38d36307": {
+      "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
+      "posted_at": "2026-09-16T21:20:49.488073"
     }
   },
   "results": [
@@ -17853,6 +17857,14 @@
       "post_id": "868",
       "error": null,
       "at": "2026-09-16T20:40:48.756825"
+    },
+    {
+      "offer_id": "20237b6a38d36307",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "869",
+      "error": null,
+      "at": "2026-09-16T21:20:49.487497"
     }
   ]
 }
