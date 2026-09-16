@@ -3431,6 +3431,10 @@
     "ac5d7b080849d653": {
       "title": "Huggies Fralda Pants Premium Natural Care XXG 52 Un",
       "posted_at": "2026-09-16T13:50:53.162426"
+    },
+    "561e5c345b5d5993": {
+      "title": "Degrau Infantil Step Dots, Clingo, BrancoCinza",
+      "posted_at": "2026-09-16T14:20:49.832854"
     }
   },
   "results": [
@@ -17817,6 +17821,14 @@
       "post_id": "865",
       "error": null,
       "at": "2026-09-16T13:50:53.161840"
+    },
+    {
+      "offer_id": "561e5c345b5d5993",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "866",
+      "error": null,
+      "at": "2026-09-16T14:20:49.832158"
     }
   ]
 }

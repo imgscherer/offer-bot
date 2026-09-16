@@ -1,5 +1,17 @@
 [
   {
+    "id": "561e5c345b5d5993",
+    "title": "Degrau Infantil Step Dots, Clingo, BrancoCinza",
+    "price_now": 28.0,
+    "price_was": 49.9,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B084HDSB5N?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/143203714917895682268199734506.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-16T14:20:49.832540"
+  },
+  {
     "id": "ac5d7b080849d653",
     "title": "Huggies Fralda Pants Premium Natural Care XXG 52 Un",
     "price_now": 80.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-15T20:20:45.252682"
-  },
-  {
-    "id": "1ae1c006697e7c80",
-    "title": "Conjuntos Infantil Juvenil Menina 6 Peças (Tam. 1 ao 16)",
-    "price_now": 59.9,
-    "price_was": 99.83,
-    "discount_pct": 40,
-    "url": "https://s.shopee.com.br/1APdCMNkr?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/340140860517894993579912127989.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-15T19:20:58.002571"
   }
 ]
