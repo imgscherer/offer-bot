@@ -3403,6 +3403,10 @@
     "1415f696e5bee8f7": {
       "title": "Fantasia Infantil Naruto Baby Brink M 6-8 Anos",
       "posted_at": "2026-09-16T03:20:42.019615"
+    },
+    "52e3f62cb6fdc770": {
+      "title": "Triciclo Infantil Empurrador Conforto Branco Ajustavel Seguro Leve",
+      "posted_at": "2026-09-16T09:00:52.283222"
     }
   },
   "results": [
@@ -17733,6 +17737,14 @@
       "post_id": "858",
       "error": null,
       "at": "2026-09-16T03:20:42.018936"
+    },
+    {
+      "offer_id": "52e3f62cb6fdc770",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "859",
+      "error": null,
+      "at": "2026-09-16T09:00:52.273073"
     }
   ]
 }
