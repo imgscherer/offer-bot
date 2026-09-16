@@ -1,5 +1,17 @@
 [
   {
+    "id": "47c04d6d71259236",
+    "title": "Buba Lixeira Antiodor para Fraldas",
+    "price_now": 167.2,
+    "price_was": 304.9,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B0C5GP554J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/585161078517896000258214729074.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-16T23:20:42.085966"
+  },
+  {
     "id": "20237b6a38d36307",
     "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
     "price_now": 416.07,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-16T09:00:52.273415"
-  },
-  {
-    "id": "1415f696e5bee8f7",
-    "title": "Fantasia Infantil Naruto Baby Brink M 6-8 Anos",
-    "price_now": 47.4,
-    "price_was": 129.9,
-    "discount_pct": 64,
-    "url": "https://www.amazon.com.br/dp/B09XTY23DY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/388696525917895281485434679896.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-16T03:20:42.019292"
   }
 ]

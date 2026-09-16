@@ -3447,6 +3447,10 @@
     "20237b6a38d36307": {
       "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
       "posted_at": "2026-09-16T21:20:49.488073"
+    },
+    "47c04d6d71259236": {
+      "title": "Buba Lixeira Antiodor para Fraldas",
+      "posted_at": "2026-09-16T23:20:42.086134"
     }
   },
   "results": [
@@ -17865,6 +17869,14 @@
       "post_id": "869",
       "error": null,
       "at": "2026-09-16T21:20:49.487497"
+    },
+    {
+      "offer_id": "47c04d6d71259236",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "870",
+      "error": null,
+      "at": "2026-09-16T23:20:42.085712"
     }
   ]
 }
