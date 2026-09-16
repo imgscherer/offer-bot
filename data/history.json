@@ -3419,6 +3419,10 @@
     "b0b370d9a54304ba": {
       "title": "Fralda Turma da Mônica XG 42 unidades",
       "posted_at": "2026-09-16T11:30:56.230381"
+    },
+    "1e944cb22f4bbfee": {
+      "title": "Fralda Pampers Pants Ajuste Total XXG 120 Unidades",
+      "posted_at": "2026-09-16T12:11:06.697361"
     }
   },
   "results": [
@@ -17781,6 +17785,14 @@
       "post_id": "862",
       "error": null,
       "at": "2026-09-16T11:30:56.229644"
+    },
+    {
+      "offer_id": "1e944cb22f4bbfee",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "863",
+      "error": null,
+      "at": "2026-09-16T12:11:06.696619"
     }
   ]
 }
