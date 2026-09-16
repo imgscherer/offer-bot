@@ -3411,6 +3411,10 @@
     "8435ff7278ef673a": {
       "title": "Fralda Pampers Supersequinha G 80 Unidades",
       "posted_at": "2026-09-16T10:30:51.611994"
+    },
+    "c9c00996d4cde7e7": {
+      "title": "Fralda Pampers Premium Care Pants M 78 Unidades",
+      "posted_at": "2026-09-16T10:40:53.866342"
     }
   },
   "results": [
@@ -17757,6 +17761,14 @@
       "post_id": "860",
       "error": null,
       "at": "2026-09-16T10:30:51.611374"
+    },
+    {
+      "offer_id": "c9c00996d4cde7e7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "861",
+      "error": null,
+      "at": "2026-09-16T10:40:53.865771"
     }
   ]
 }

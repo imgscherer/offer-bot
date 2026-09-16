@@ -1,5 +1,17 @@
 [
   {
+    "id": "c9c00996d4cde7e7",
+    "title": "Fralda Pampers Premium Care Pants M 78 Unidades",
+    "price_now": 97.0,
+    "price_was": 151.59,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B07X83FF8M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/374705178917895545514785366214.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-16T10:40:53.866082"
+  },
+  {
     "id": "8435ff7278ef673a",
     "title": "Fralda Pampers Supersequinha G 80 Unidades",
     "price_now": 74.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-15T13:30:59.998742"
-  },
-  {
-    "id": "0c9621621c51a6d6",
-    "title": "Lenço Umedecido Huggies Tripla Proteção - 264 Unidades (3 pacotes 88 unidades)",
-    "price_now": 31.17,
-    "price_was": 52.66,
-    "discount_pct": 41,
-    "url": "https://s.shopee.com.br/5folyKZq2h?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/375105699317894772706947004543.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-15T13:10:50.584137"
   }
 ]
