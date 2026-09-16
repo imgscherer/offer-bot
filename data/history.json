@@ -3407,6 +3407,10 @@
     "52e3f62cb6fdc770": {
       "title": "Triciclo Infantil Empurrador Conforto Branco Ajustavel Seguro Leve",
       "posted_at": "2026-09-16T09:00:52.283222"
+    },
+    "8435ff7278ef673a": {
+      "title": "Fralda Pampers Supersequinha G 80 Unidades",
+      "posted_at": "2026-09-16T10:30:51.611994"
     }
   },
   "results": [
@@ -17745,6 +17749,14 @@
       "post_id": "859",
       "error": null,
       "at": "2026-09-16T09:00:52.273073"
+    },
+    {
+      "offer_id": "8435ff7278ef673a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "860",
+      "error": null,
+      "at": "2026-09-16T10:30:51.611374"
     }
   ]
 }

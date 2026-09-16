@@ -1,5 +1,17 @@
 [
   {
+    "id": "8435ff7278ef673a",
+    "title": "Fralda Pampers Supersequinha G 80 Unidades",
+    "price_now": 74.0,
+    "price_was": 109.78,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/204515896917895541917191799066.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-16T10:30:51.611697"
+  },
+  {
     "id": "52e3f62cb6fdc770",
     "title": "Triciclo Infantil Empurrador Conforto Branco Ajustavel Seguro Leve",
     "price_now": 534.2,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-15T13:10:50.584137"
-  },
-  {
-    "id": "b1ed00a498650850",
-    "title": "Lenço Umedecido Recém nascido Huggies 192 unidades",
-    "price_now": 28.15,
-    "price_was": 41.9,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B08FV6G3QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/640664690317894744689552171618.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-15T12:20:47.607051"
   }
 ]
