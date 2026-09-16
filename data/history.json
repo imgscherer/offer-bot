@@ -3415,6 +3415,10 @@
     "c9c00996d4cde7e7": {
       "title": "Fralda Pampers Premium Care Pants M 78 Unidades",
       "posted_at": "2026-09-16T10:40:53.866342"
+    },
+    "b0b370d9a54304ba": {
+      "title": "Fralda Turma da Mônica XG 42 unidades",
+      "posted_at": "2026-09-16T11:30:56.230381"
     }
   },
   "results": [
@@ -17769,6 +17773,14 @@
       "post_id": "861",
       "error": null,
       "at": "2026-09-16T10:40:53.865771"
+    },
+    {
+      "offer_id": "b0b370d9a54304ba",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "862",
+      "error": null,
+      "at": "2026-09-16T11:30:56.229644"
     }
   ]
 }

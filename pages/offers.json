@@ -1,5 +1,17 @@
 [
   {
+    "id": "b0b370d9a54304ba",
+    "title": "Fralda Turma da Mônica XG 42 unidades",
+    "price_now": 34.76,
+    "price_was": 50.04,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B099KV2733?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/948902434417895579676379945300.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-16T11:30:56.230029"
+  },
+  {
     "id": "c9c00996d4cde7e7",
     "title": "Fralda Pampers Premium Care Pants M 78 Unidades",
     "price_now": 97.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-15T13:31:10.927520"
-  },
-  {
-    "id": "071d10c29bc55c23",
-    "title": "Fralda Cremer Magic Care Hiper M 68 unidades",
-    "price_now": 43.99,
-    "price_was": 67.89,
-    "discount_pct": 35,
-    "url": "https://s.shopee.com.br/70K9ZXtqHC?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/809707375817894779377138650488.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-15T13:30:59.998742"
   }
 ]
