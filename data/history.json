@@ -3503,6 +3503,10 @@
     "c3f7e458e678de24": {
       "title": "Mictório Infantil Micbaby Sapinho com Ventosa",
       "posted_at": "2026-09-17T15:20:56.633560"
+    },
+    "d03068576415ca5c": {
+      "title": "Sandália infantil com flor em Tecido Confort Soft (Tam. 13 ao 18, Diversas cores)",
+      "posted_at": "2026-09-17T15:40:51.401523"
     }
   },
   "results": [
@@ -18033,6 +18037,14 @@
       "post_id": "883",
       "error": null,
       "at": "2026-09-17T15:20:56.632907"
+    },
+    {
+      "offer_id": "d03068576415ca5c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "884",
+      "error": null,
+      "at": "2026-09-17T15:40:51.400844"
     }
   ]
 }
