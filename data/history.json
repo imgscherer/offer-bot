@@ -3467,6 +3467,10 @@
     "445507aa056526fd": {
       "title": "Personal Fralda Baby Premium Protection Xg Com 26 Unidades",
       "posted_at": "2026-09-17T10:50:57.217708"
+    },
+    "7380e03c4db8a62e": {
+      "title": "Fralda Pants Huggies Supreme Care M 36 unidades",
+      "posted_at": "2026-09-17T11:20:51.395272"
     }
   },
   "results": [
@@ -17925,6 +17929,14 @@
       "post_id": "874",
       "error": null,
       "at": "2026-09-17T10:50:57.216992"
+    },
+    {
+      "offer_id": "7380e03c4db8a62e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "875",
+      "error": null,
+      "at": "2026-09-17T11:20:51.394505"
     }
   ]
 }
