@@ -3487,6 +3487,10 @@
     "7d4871d99e62f5dc": {
       "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso 400ml",
       "posted_at": "2026-09-17T14:20:51.432640"
+    },
+    "422fa5cd07b95f43": {
+      "title": "Condicionador Para Bebê Johnson's Baby Para Cabelos Claros, 200ml",
+      "posted_at": "2026-09-17T14:40:42.077057"
     }
   },
   "results": [
@@ -17985,6 +17989,14 @@
       "post_id": "879",
       "error": null,
       "at": "2026-09-17T14:20:51.431874"
+    },
+    {
+      "offer_id": "422fa5cd07b95f43",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "880",
+      "error": null,
+      "at": "2026-09-17T14:40:42.076359"
     }
   ]
 }

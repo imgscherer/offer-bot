@@ -1,5 +1,17 @@
 [
   {
+    "id": "422fa5cd07b95f43",
+    "title": "Condicionador Para Bebê Johnson's Baby Para Cabelos Claros, 200ml",
+    "price_now": 18.39,
+    "price_was": 28.89,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B07FH9V4Q6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/967385090017896556699916539838.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T14:40:42.076694"
+  },
+  {
     "id": "7d4871d99e62f5dc",
     "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso 400ml",
     "price_now": 17.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-16T21:20:49.487809"
-  },
-  {
-    "id": "4ede85e172173834",
-    "title": "Chupeta Alimentadora para Introdução Alimentar, com Silicone (4 Cores)",
-    "price_now": 9.75,
-    "price_was": 21.89,
-    "discount_pct": 55,
-    "url": "https://s.shopee.com.br/8KpZExwzpI?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/744017149717895906172553275938.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-16T20:40:48.757167"
   }
 ]
