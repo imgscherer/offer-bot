@@ -1,5 +1,17 @@
 [
   {
+    "id": "d43925fda6906c32",
+    "title": "Fralda Cremer Jumbo P 30 Unidades",
+    "price_now": 19.99,
+    "price_was": 30.99,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B08BXQFMZK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/425172521417896616812337591797.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T16:20:51.969956"
+  },
+  {
     "id": "d03068576415ca5c",
     "title": "Sandália infantil com flor em Tecido Confort Soft (Tam. 13 ao 18, Diversas cores)",
     "price_now": 24.5,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-17T10:50:57.217335"
-  },
-  {
-    "id": "e3a6ddeee9b6a9fa",
-    "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
-    "price_now": 18.99,
-    "price_was": 46.38,
-    "discount_pct": 59,
-    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/706885367717896416089974448577.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-17T10:50:42.011728"
   }
 ]

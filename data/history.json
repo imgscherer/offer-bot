@@ -3507,6 +3507,10 @@
     "d03068576415ca5c": {
       "title": "Sandália infantil com flor em Tecido Confort Soft (Tam. 13 ao 18, Diversas cores)",
       "posted_at": "2026-09-17T15:40:51.401523"
+    },
+    "d43925fda6906c32": {
+      "title": "Fralda Cremer Jumbo P 30 Unidades",
+      "posted_at": "2026-09-17T16:20:51.970256"
     }
   },
   "results": [
@@ -18045,6 +18049,14 @@
       "post_id": "884",
       "error": null,
       "at": "2026-09-17T15:40:51.400844"
+    },
+    {
+      "offer_id": "d43925fda6906c32",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "885",
+      "error": null,
+      "at": "2026-09-17T16:20:51.969589"
     }
   ]
 }
