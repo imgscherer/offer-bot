@@ -3535,6 +3535,14 @@
     "f3e1a9f217899f54": {
       "title": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
       "posted_at": "2026-09-17T20:01:21.399031"
+    },
+    "5277dd88b35522ee": {
+      "title": "Tênis Infantil Lilo Stitch (Tam. 26 ao 33, 4 Cores)",
+      "posted_at": "2026-09-17T20:50:51.703192"
+    },
+    "d9652f8d4bb3b59a": {
+      "title": "Sandália Infantil (Tam. 17 ao 32, Diversas cores)",
+      "posted_at": "2026-09-17T20:51:07.066314"
     }
   },
   "results": [
@@ -18129,6 +18137,22 @@
       "post_id": "891",
       "error": null,
       "at": "2026-09-17T20:01:21.398433"
+    },
+    {
+      "offer_id": "5277dd88b35522ee",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "892",
+      "error": null,
+      "at": "2026-09-17T20:50:51.702620"
+    },
+    {
+      "offer_id": "d9652f8d4bb3b59a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "893",
+      "error": null,
+      "at": "2026-09-17T20:51:07.065603"
     }
   ]
 }

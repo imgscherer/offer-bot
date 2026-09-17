@@ -1,5 +1,29 @@
 [
   {
+    "id": "d9652f8d4bb3b59a",
+    "title": "Sandália Infantil (Tam. 17 ao 32, Diversas cores)",
+    "price_now": 25.9,
+    "price_was": 39.85,
+    "discount_pct": 35,
+    "url": "https://s.shopee.com.br/2Vrnu5h2HZ?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/943739754617896778548313896120.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T20:51:07.065953"
+  },
+  {
+    "id": "5277dd88b35522ee",
+    "title": "Tênis Infantil Lilo Stitch (Tam. 26 ao 33, 4 Cores)",
+    "price_now": 62.0,
+    "price_was": 99.98,
+    "discount_pct": 38,
+    "url": "https://s.shopee.com.br/9V1YBBMi9e?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/321473716117896774923846105416.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T20:50:51.702934"
+  },
+  {
     "id": "f3e1a9f217899f54",
     "title": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
     "price_now": 29.99,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-17T14:50:58.869121"
-  },
-  {
-    "id": "e6fd3e8ac6d4977c",
-    "title": "Meia Infantil Divertida 3D Cano Alto (Tam. 30 ao 42)",
-    "price_now": 19.9,
-    "price_was": 32.62,
-    "discount_pct": 39,
-    "url": "https://s.shopee.com.br/LnIurNMor?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/437825982917896557963208643039.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-17T14:50:52.479119"
-  },
-  {
-    "id": "422fa5cd07b95f43",
-    "title": "Condicionador Para Bebê Johnson's Baby Para Cabelos Claros, 200ml",
-    "price_now": 18.39,
-    "price_was": 28.89,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B07FH9V4Q6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/967385090017896556699916539838.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-17T14:40:42.076694"
   }
 ]
