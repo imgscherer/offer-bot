@@ -3475,6 +3475,10 @@
     "608f5a5025864bf7": {
       "title": "Babysec Fralda Premium M 32 Unidades",
       "posted_at": "2026-09-17T11:30:51.762881"
+    },
+    "bfb1c3db52aa403e": {
+      "title": "Fralda Pampers Premium Care Pants M 78 Unidades",
+      "posted_at": "2026-09-17T12:10:54.965801"
     }
   },
   "results": [
@@ -17949,6 +17953,14 @@
       "post_id": "876",
       "error": null,
       "at": "2026-09-17T11:30:51.762239"
+    },
+    {
+      "offer_id": "bfb1c3db52aa403e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "877",
+      "error": null,
+      "at": "2026-09-17T12:10:54.965206"
     }
   ]
 }
