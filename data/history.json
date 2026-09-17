@@ -3519,6 +3519,10 @@
     "09b78128c7777b8b": {
       "title": "Bebê Reborn Gemeas 100% Silicone + 2 Enxoval Completo Oferta",
       "posted_at": "2026-09-17T16:31:18.061523"
+    },
+    "02429cdb33f589e1": {
+      "title": "Huggies Fralda Premium Natural Care P 36 Unidades",
+      "posted_at": "2026-09-17T19:10:49.783052"
     }
   },
   "results": [
@@ -18081,6 +18085,14 @@
       "post_id": "887",
       "error": null,
       "at": "2026-09-17T16:31:18.060869"
+    },
+    {
+      "offer_id": "02429cdb33f589e1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "888",
+      "error": null,
+      "at": "2026-09-17T19:10:49.782281"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "02429cdb33f589e1",
+    "title": "Huggies Fralda Premium Natural Care P 36 Unidades",
+    "price_now": 37.0,
+    "price_was": 53.4,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/364528336817896716304875129129.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T19:10:49.782708"
+  },
+  {
     "id": "09b78128c7777b8b",
     "title": "Bebê Reborn Gemeas 100% Silicone + 2 Enxoval Completo Oferta",
     "price_now": 421.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-17T12:10:54.965544"
-  },
-  {
-    "id": "608f5a5025864bf7",
-    "title": "Babysec Fralda Premium M 32 Unidades",
-    "price_now": 32.0,
-    "price_was": 54.39,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/669712084417896437103651040974.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-17T11:30:51.762605"
   }
 ]
