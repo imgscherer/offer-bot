@@ -1,5 +1,17 @@
 [
   {
+    "id": "0ec2413149037005",
+    "title": "Huggies Fralda Premium Natural Care G - 66 Un",
+    "price_now": 88.0,
+    "price_was": 125.24,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0FBC2GVT1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/420252122517896512681693648218.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T13:30:50.202393"
+  },
+  {
     "id": "bfb1c3db52aa403e",
     "title": "Fralda Pampers Premium Care Pants M 78 Unidades",
     "price_now": 97.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-16T16:20:53.646347"
-  },
-  {
-    "id": "561e5c345b5d5993",
-    "title": "Degrau Infantil Step Dots, Clingo, BrancoCinza",
-    "price_now": 28.0,
-    "price_was": 49.9,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B084HDSB5N?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/143203714917895682268199734506.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-16T14:20:49.832540"
   }
 ]
