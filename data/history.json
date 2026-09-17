@@ -3471,6 +3471,10 @@
     "7380e03c4db8a62e": {
       "title": "Fralda Pants Huggies Supreme Care M 36 unidades",
       "posted_at": "2026-09-17T11:20:51.395272"
+    },
+    "608f5a5025864bf7": {
+      "title": "Babysec Fralda Premium M 32 Unidades",
+      "posted_at": "2026-09-17T11:30:51.762881"
     }
   },
   "results": [
@@ -17937,6 +17941,14 @@
       "post_id": "875",
       "error": null,
       "at": "2026-09-17T11:20:51.394505"
+    },
+    {
+      "offer_id": "608f5a5025864bf7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "876",
+      "error": null,
+      "at": "2026-09-17T11:30:51.762239"
     }
   ]
 }

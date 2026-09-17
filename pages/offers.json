@@ -1,5 +1,17 @@
 [
   {
+    "id": "608f5a5025864bf7",
+    "title": "Babysec Fralda Premium M 32 Unidades",
+    "price_now": 32.0,
+    "price_was": 54.39,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/669712084417896437103651040974.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T11:30:51.762605"
+  },
+  {
     "id": "7380e03c4db8a62e",
     "title": "Fralda Pants Huggies Supreme Care M 36 unidades",
     "price_now": 39.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-16T13:50:53.162161"
-  },
-  {
-    "id": "52bad8802f801603",
-    "title": "Fralda Pants Huggies Supreme Care G 60 Unidades",
-    "price_now": 71.0,
-    "price_was": 113.25,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/595075020217895643874985431935.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-16T13:30:51.533853"
   }
 ]
