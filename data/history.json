@@ -3499,6 +3499,10 @@
     "2d462bb7edb1ff8b": {
       "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
       "posted_at": "2026-09-17T14:50:58.869443"
+    },
+    "c3f7e458e678de24": {
+      "title": "Mictório Infantil Micbaby Sapinho com Ventosa",
+      "posted_at": "2026-09-17T15:20:56.633560"
     }
   },
   "results": [
@@ -18021,6 +18025,14 @@
       "post_id": "882",
       "error": null,
       "at": "2026-09-17T14:50:58.868792"
+    },
+    {
+      "offer_id": "c3f7e458e678de24",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "883",
+      "error": null,
+      "at": "2026-09-17T15:20:56.632907"
     }
   ]
 }

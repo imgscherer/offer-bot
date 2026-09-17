@@ -1,5 +1,17 @@
 [
   {
+    "id": "c3f7e458e678de24",
+    "title": "Mictório Infantil Micbaby Sapinho com Ventosa",
+    "price_now": 23.85,
+    "price_was": 39.87,
+    "discount_pct": 40,
+    "url": "https://s.shopee.com.br/9fKy4jcu2P?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/124260668817896581708238338753.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T15:20:56.633253"
+  },
+  {
     "id": "2d462bb7edb1ff8b",
     "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
     "price_now": 40.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-17T03:10:39.228307"
-  },
-  {
-    "id": "bcfe4e1e3fe663f7",
-    "title": "Caminhão Dinossauro T-Rex Transporte Cegonha + Pista Carrinho Maleta Brinquedo Infantil + 4 Carrinhos",
-    "price_now": 150.0,
-    "price_was": 250.0,
-    "discount_pct": 40,
-    "url": "https://s.shopee.com.br/9fKxGtuPx6",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkijf5rylgcgfa",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-17T03:10:37.848468"
   }
 ]
