@@ -3491,6 +3491,14 @@
     "422fa5cd07b95f43": {
       "title": "Condicionador Para Bebê Johnson's Baby Para Cabelos Claros, 200ml",
       "posted_at": "2026-09-17T14:40:42.077057"
+    },
+    "e6fd3e8ac6d4977c": {
+      "title": "Meia Infantil Divertida 3D Cano Alto (Tam. 30 ao 42)",
+      "posted_at": "2026-09-17T14:50:52.479450"
+    },
+    "2d462bb7edb1ff8b": {
+      "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
+      "posted_at": "2026-09-17T14:50:58.869443"
     }
   },
   "results": [
@@ -17997,6 +18005,22 @@
       "post_id": "880",
       "error": null,
       "at": "2026-09-17T14:40:42.076359"
+    },
+    {
+      "offer_id": "e6fd3e8ac6d4977c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "881",
+      "error": null,
+      "at": "2026-09-17T14:50:52.478766"
+    },
+    {
+      "offer_id": "2d462bb7edb1ff8b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "882",
+      "error": null,
+      "at": "2026-09-17T14:50:58.868792"
     }
   ]
 }

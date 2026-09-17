@@ -1,5 +1,29 @@
 [
   {
+    "id": "2d462bb7edb1ff8b",
+    "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
+    "price_now": 40.0,
+    "price_was": 59.99,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/574712634417896563698514479532.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T14:50:58.869121"
+  },
+  {
+    "id": "e6fd3e8ac6d4977c",
+    "title": "Meia Infantil Divertida 3D Cano Alto (Tam. 30 ao 42)",
+    "price_now": 19.9,
+    "price_was": 32.62,
+    "discount_pct": 39,
+    "url": "https://s.shopee.com.br/LnIurNMor?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/437825982917896557963208643039.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T14:50:52.479119"
+  },
+  {
     "id": "422fa5cd07b95f43",
     "title": "Condicionador Para Bebê Johnson's Baby Para Cabelos Claros, 200ml",
     "price_now": 18.39,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-17T03:10:37.848468"
-  },
-  {
-    "id": "47c04d6d71259236",
-    "title": "Buba Lixeira Antiodor para Fraldas",
-    "price_now": 167.2,
-    "price_was": 304.9,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B0C5GP554J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/585161078517896000258214729074.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-16T23:20:42.085966"
-  },
-  {
-    "id": "20237b6a38d36307",
-    "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
-    "price_now": 416.07,
-    "price_was": 799.9,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0CPN2L6MQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/807262977117895932639169517652.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-16T21:20:49.487809"
   }
 ]
