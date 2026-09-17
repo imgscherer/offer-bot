@@ -1,5 +1,17 @@
 [
   {
+    "id": "7d4871d99e62f5dc",
+    "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso 400ml",
+    "price_now": 17.0,
+    "price_was": 34.99,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B0BFJHYD5X?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/543212448117896539709233094038.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T14:20:51.432249"
+  },
+  {
     "id": "0ec2413149037005",
     "title": "Huggies Fralda Premium Natural Care G - 66 Un",
     "price_now": 88.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-16T20:40:48.757167"
-  },
-  {
-    "id": "993c278a7443cf09",
-    "title": "Granado Refil Condicionador Bebê Camomila 250ml",
-    "price_now": 14.0,
-    "price_was": 20.1,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0D8JWLGM4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/959293739517895755745835125100.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-16T16:20:53.646347"
   }
 ]

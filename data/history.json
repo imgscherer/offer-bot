@@ -3483,6 +3483,10 @@
     "0ec2413149037005": {
       "title": "Huggies Fralda Premium Natural Care G - 66 Un",
       "posted_at": "2026-09-17T13:30:50.202715"
+    },
+    "7d4871d99e62f5dc": {
+      "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso 400ml",
+      "posted_at": "2026-09-17T14:20:51.432640"
     }
   },
   "results": [
@@ -17973,6 +17977,14 @@
       "post_id": "878",
       "error": null,
       "at": "2026-09-17T13:30:50.202045"
+    },
+    {
+      "offer_id": "7d4871d99e62f5dc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "879",
+      "error": null,
+      "at": "2026-09-17T14:20:51.431874"
     }
   ]
 }
