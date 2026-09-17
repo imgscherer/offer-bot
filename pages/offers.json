@@ -1,5 +1,29 @@
 [
   {
+    "id": "445507aa056526fd",
+    "title": "Personal Fralda Baby Premium Protection Xg Com 26 Unidades",
+    "price_now": 19.99,
+    "price_was": 46.38,
+    "discount_pct": 57,
+    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/253726817717896419072576398418.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T10:50:57.217335"
+  },
+  {
+    "id": "e3a6ddeee9b6a9fa",
+    "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
+    "price_now": 18.99,
+    "price_was": 46.38,
+    "discount_pct": 59,
+    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/706885367717896416089974448577.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T10:50:42.011728"
+  },
+  {
     "id": "21b861fc02f6e564",
     "title": "Brinquedo Infantil Carrinho 6 em 1 com Engrenagens – Educativo, Interativo e Estimula Coordenação Motora",
     "price_now": 150.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-16T12:11:06.696967"
-  },
-  {
-    "id": "b0b370d9a54304ba",
-    "title": "Fralda Turma da Mônica XG 42 unidades",
-    "price_now": 34.76,
-    "price_was": 50.04,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B099KV2733?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/948902434417895579676379945300.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-16T11:30:56.230029"
-  },
-  {
-    "id": "c9c00996d4cde7e7",
-    "title": "Fralda Pampers Premium Care Pants M 78 Unidades",
-    "price_now": 97.0,
-    "price_was": 151.59,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B07X83FF8M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/374705178917895545514785366214.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-16T10:40:53.866082"
   }
 ]

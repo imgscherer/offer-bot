@@ -3459,6 +3459,14 @@
     "21b861fc02f6e564": {
       "title": "Brinquedo Infantil Carrinho 6 em 1 com Engrenagens – Educativo, Interativo e Estimula Coordenação Motora",
       "posted_at": "2026-09-17T03:10:39.228629"
+    },
+    "e3a6ddeee9b6a9fa": {
+      "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
+      "posted_at": "2026-09-17T10:50:42.012043"
+    },
+    "445507aa056526fd": {
+      "title": "Personal Fralda Baby Premium Protection Xg Com 26 Unidades",
+      "posted_at": "2026-09-17T10:50:57.217708"
     }
   },
   "results": [
@@ -17901,6 +17909,22 @@
       "post_id": "872",
       "error": null,
       "at": "2026-09-17T03:10:39.228004"
+    },
+    {
+      "offer_id": "e3a6ddeee9b6a9fa",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "873",
+      "error": null,
+      "at": "2026-09-17T10:50:42.011349"
+    },
+    {
+      "offer_id": "445507aa056526fd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "874",
+      "error": null,
+      "at": "2026-09-17T10:50:57.216992"
     }
   ]
 }
