@@ -1,5 +1,29 @@
 [
   {
+    "id": "21b861fc02f6e564",
+    "title": "Brinquedo Infantil Carrinho 6 em 1 com Engrenagens – Educativo, Interativo e Estimula Coordenação Motora",
+    "price_now": 150.0,
+    "price_was": 250.0,
+    "discount_pct": 40,
+    "url": "https://s.shopee.com.br/9peNTCtmc9",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkl4soz7oum903",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T03:10:39.228307"
+  },
+  {
+    "id": "bcfe4e1e3fe663f7",
+    "title": "Caminhão Dinossauro T-Rex Transporte Cegonha + Pista Carrinho Maleta Brinquedo Infantil + 4 Carrinhos",
+    "price_now": 150.0,
+    "price_was": 250.0,
+    "discount_pct": 40,
+    "url": "https://s.shopee.com.br/9fKxGtuPx6",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkijf5rylgcgfa",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T03:10:37.848468"
+  },
+  {
     "id": "47c04d6d71259236",
     "title": "Buba Lixeira Antiodor para Fraldas",
     "price_now": 167.2,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-16T10:40:53.866082"
-  },
-  {
-    "id": "8435ff7278ef673a",
-    "title": "Fralda Pampers Supersequinha G 80 Unidades",
-    "price_now": 74.0,
-    "price_was": 109.78,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/204515896917895541917191799066.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-16T10:30:51.611697"
-  },
-  {
-    "id": "52e3f62cb6fdc770",
-    "title": "Triciclo Infantil Empurrador Conforto Branco Ajustavel Seguro Leve",
-    "price_now": 534.2,
-    "price_was": 763.14,
-    "discount_pct": 30,
-    "url": "https://s.shopee.com.br/5q8DV14e92",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-micgyhhw68ea2e",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-16T09:00:52.273415"
   }
 ]

@@ -3451,6 +3451,14 @@
     "47c04d6d71259236": {
       "title": "Buba Lixeira Antiodor para Fraldas",
       "posted_at": "2026-09-16T23:20:42.086134"
+    },
+    "bcfe4e1e3fe663f7": {
+      "title": "Caminhão Dinossauro T-Rex Transporte Cegonha + Pista Carrinho Maleta Brinquedo Infantil + 4 Carrinhos",
+      "posted_at": "2026-09-17T03:10:37.848933"
+    },
+    "21b861fc02f6e564": {
+      "title": "Brinquedo Infantil Carrinho 6 em 1 com Engrenagens – Educativo, Interativo e Estimula Coordenação Motora",
+      "posted_at": "2026-09-17T03:10:39.228629"
     }
   },
   "results": [
@@ -17877,6 +17885,22 @@
       "post_id": "870",
       "error": null,
       "at": "2026-09-16T23:20:42.085712"
+    },
+    {
+      "offer_id": "bcfe4e1e3fe663f7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "871",
+      "error": null,
+      "at": "2026-09-17T03:10:37.848040"
+    },
+    {
+      "offer_id": "21b861fc02f6e564",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "872",
+      "error": null,
+      "at": "2026-09-17T03:10:39.228004"
     }
   ]
 }
