@@ -3511,6 +3511,14 @@
     "d43925fda6906c32": {
       "title": "Fralda Cremer Jumbo P 30 Unidades",
       "posted_at": "2026-09-17T16:20:51.970256"
+    },
+    "be9aeb3368d1b1c6": {
+      "title": "Bebê Reborn Gêmeas 100% Silicone Macio Loira e Morena + 2 Enxovais Completo",
+      "posted_at": "2026-09-17T16:31:14.365835"
+    },
+    "09b78128c7777b8b": {
+      "title": "Bebê Reborn Gemeas 100% Silicone + 2 Enxoval Completo Oferta",
+      "posted_at": "2026-09-17T16:31:18.061523"
     }
   },
   "results": [
@@ -18057,6 +18065,22 @@
       "post_id": "885",
       "error": null,
       "at": "2026-09-17T16:20:51.969589"
+    },
+    {
+      "offer_id": "be9aeb3368d1b1c6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "886",
+      "error": null,
+      "at": "2026-09-17T16:31:14.365172"
+    },
+    {
+      "offer_id": "09b78128c7777b8b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "887",
+      "error": null,
+      "at": "2026-09-17T16:31:18.060869"
     }
   ]
 }

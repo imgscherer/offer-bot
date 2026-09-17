@@ -1,5 +1,29 @@
 [
   {
+    "id": "09b78128c7777b8b",
+    "title": "Bebê Reborn Gemeas 100% Silicone + 2 Enxoval Completo Oferta",
+    "price_now": 421.0,
+    "price_was": 601.43,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/2LYNQPGXtV",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820le-mo5jd24168zl2a",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T16:31:18.061169"
+  },
+  {
+    "id": "be9aeb3368d1b1c6",
+    "title": "Bebê Reborn Gêmeas 100% Silicone Macio Loira e Morena + 2 Enxovais Completo",
+    "price_now": 389.88,
+    "price_was": 696.21,
+    "discount_pct": 44,
+    "url": "https://s.shopee.com.br/2VrnciFuYW",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mr9ix0283f9ha4",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T16:31:14.365530"
+  },
+  {
     "id": "d43925fda6906c32",
     "title": "Fralda Cremer Jumbo P 30 Unidades",
     "price_now": 19.99,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-17T11:30:51.762605"
-  },
-  {
-    "id": "7380e03c4db8a62e",
-    "title": "Fralda Pants Huggies Supreme Care M 36 unidades",
-    "price_now": 39.0,
-    "price_was": 65.29,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B07FNM9QRF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/661860190617896434148799775439.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-17T11:20:51.394854"
-  },
-  {
-    "id": "445507aa056526fd",
-    "title": "Personal Fralda Baby Premium Protection Xg Com 26 Unidades",
-    "price_now": 19.99,
-    "price_was": 46.38,
-    "discount_pct": 57,
-    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/253726817717896419072576398418.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-17T10:50:57.217335"
   }
 ]
