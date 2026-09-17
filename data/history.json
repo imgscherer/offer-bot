@@ -3523,6 +3523,18 @@
     "02429cdb33f589e1": {
       "title": "Huggies Fralda Premium Natural Care P 36 Unidades",
       "posted_at": "2026-09-17T19:10:49.783052"
+    },
+    "eba7c3ad3f179fb4": {
+      "title": "Fralda Babysec Ultra Sec G 60 Unidades",
+      "posted_at": "2026-09-17T20:01:01.415007"
+    },
+    "a1f931ffbac7c1c7": {
+      "title": "Tênis Infantil Lilo Stitch (Tam. 26 ao 33, 4 Cores)",
+      "posted_at": "2026-09-17T20:01:13.925059"
+    },
+    "f3e1a9f217899f54": {
+      "title": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
+      "posted_at": "2026-09-17T20:01:21.399031"
     }
   },
   "results": [
@@ -18093,6 +18105,30 @@
       "post_id": "888",
       "error": null,
       "at": "2026-09-17T19:10:49.782281"
+    },
+    {
+      "offer_id": "eba7c3ad3f179fb4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "889",
+      "error": null,
+      "at": "2026-09-17T20:01:01.414334"
+    },
+    {
+      "offer_id": "a1f931ffbac7c1c7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "890",
+      "error": null,
+      "at": "2026-09-17T20:01:13.924447"
+    },
+    {
+      "offer_id": "f3e1a9f217899f54",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "891",
+      "error": null,
+      "at": "2026-09-17T20:01:21.398433"
     }
   ]
 }

@@ -1,5 +1,41 @@
 [
   {
+    "id": "f3e1a9f217899f54",
+    "title": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
+    "price_now": 29.99,
+    "price_was": 47.89,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B08LK15F8N?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/686626039717896740758822482757.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T20:01:21.398732"
+  },
+  {
+    "id": "a1f931ffbac7c1c7",
+    "title": "Tênis Infantil Lilo Stitch (Tam. 26 ao 33, 4 Cores)",
+    "price_now": 62.99,
+    "price_was": 99.98,
+    "discount_pct": 37,
+    "url": "https://s.shopee.com.br/9V1YBBMi9e?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/304860536817896745658619735670.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T20:01:13.924747"
+  },
+  {
+    "id": "eba7c3ad3f179fb4",
+    "title": "Fralda Babysec Ultra Sec G 60 Unidades",
+    "price_now": 49.99,
+    "price_was": 101.58,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/392564483417896745727235839273.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-17T20:01:01.414686"
+  },
+  {
     "id": "02429cdb33f589e1",
     "title": "Huggies Fralda Premium Natural Care P 36 Unidades",
     "price_now": 37.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-17T14:40:42.076694"
-  },
-  {
-    "id": "7d4871d99e62f5dc",
-    "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso 400ml",
-    "price_now": 17.0,
-    "price_was": 34.99,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B0BFJHYD5X?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/543212448117896539709233094038.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-17T14:20:51.432249"
-  },
-  {
-    "id": "0ec2413149037005",
-    "title": "Huggies Fralda Premium Natural Care G - 66 Un",
-    "price_now": 88.0,
-    "price_was": 125.24,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0FBC2GVT1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/420252122517896512681693648218.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-17T13:30:50.202393"
-  },
-  {
-    "id": "bfb1c3db52aa403e",
-    "title": "Fralda Pampers Premium Care Pants M 78 Unidades",
-    "price_now": 97.0,
-    "price_was": 151.59,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B07X83FF8M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/814649025617896462453432004488.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-17T12:10:54.965544"
   }
 ]
