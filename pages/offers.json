@@ -1,5 +1,29 @@
 [
   {
+    "id": "332dfee152588f94",
+    "title": "Fralda Pom Pom Protek Proteção De Mãe G 68 unidades",
+    "price_now": 53.1,
+    "price_was": 77.37,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/927508898217897541307123709926.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-18T18:01:19.181769"
+  },
+  {
+    "id": "862fa6023b2b11b0",
+    "title": "Suporte de Babá Eletrônica Para Berço Universal Ajustável Flexível",
+    "price_now": 12.0,
+    "price_was": 21.97,
+    "discount_pct": 45,
+    "url": "https://s.shopee.com.br/1gIiJW6FUJ?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/554566133917897538256418760632.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-18T18:01:00.690147"
+  },
+  {
     "id": "6b4a52fa4b3c99b7",
     "title": "Escova de Dente de Bebê 360° Silicone (2 Cores)",
     "price_now": 10.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-18T11:20:48.429011"
-  },
-  {
-    "id": "6753730bcdfd7dc4",
-    "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
-    "price_now": 9.9,
-    "price_was": 19.8,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/6q0lt1HUgj",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mpxyl5yh1csja8",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-18T08:00:51.528222"
-  },
-  {
-    "id": "291dd686ba4828b8",
-    "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
-    "price_now": 9.9,
-    "price_was": 19.04,
-    "discount_pct": 48,
-    "url": "https://s.shopee.com.br/6VNvUPIlMd",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxy82d0505ccb",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-18T07:30:40.138480"
   }
 ]

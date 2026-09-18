@@ -3591,6 +3591,14 @@
     "6b4a52fa4b3c99b7": {
       "title": "Escova de Dente de Bebê 360° Silicone (2 Cores)",
       "posted_at": "2026-09-18T16:21:24.903416"
+    },
+    "862fa6023b2b11b0": {
+      "title": "Suporte de Babá Eletrônica Para Berço Universal Ajustável Flexível",
+      "posted_at": "2026-09-18T18:01:00.690384"
+    },
+    "332dfee152588f94": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe G 68 unidades",
+      "posted_at": "2026-09-18T18:01:19.182002"
     }
   },
   "results": [
@@ -18297,6 +18305,22 @@
       "post_id": "905",
       "error": null,
       "at": "2026-09-18T16:21:24.902737"
+    },
+    {
+      "offer_id": "862fa6023b2b11b0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "906",
+      "error": null,
+      "at": "2026-09-18T18:01:00.689835"
+    },
+    {
+      "offer_id": "332dfee152588f94",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "907",
+      "error": null,
+      "at": "2026-09-18T18:01:19.181488"
     }
   ]
 }
