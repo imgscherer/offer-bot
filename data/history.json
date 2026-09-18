@@ -3603,6 +3603,10 @@
     "51ecf73e4b97593f": {
       "title": "Troninho Penico Infantil Musical Princesas Rosa Maxi Baby",
       "posted_at": "2026-09-18T19:30:47.234143"
+    },
+    "923537cad6e70eaf": {
+      "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
+      "posted_at": "2026-09-18T19:50:49.741646"
     }
   },
   "results": [
@@ -18333,6 +18337,14 @@
       "post_id": "908",
       "error": null,
       "at": "2026-09-18T19:30:47.233488"
+    },
+    {
+      "offer_id": "923537cad6e70eaf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "909",
+      "error": null,
+      "at": "2026-09-18T19:50:49.741010"
     }
   ]
 }
