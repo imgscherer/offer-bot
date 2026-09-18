@@ -1,5 +1,17 @@
 [
   {
+    "id": "292424ed16d23bd2",
+    "title": "Kit 510 Cuecas Boxer Infantil (Tam. 1 a 3 anos)",
+    "price_now": 20.9,
+    "price_was": 34.83,
+    "discount_pct": 40,
+    "url": "https://s.shopee.com.br/6L4Xe07ICO?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/833633766917897415157600652498.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-18T14:30:51.227756"
+  },
+  {
     "id": "07790862121d722d",
     "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula, Dermatologicamente Testadas, 50 Unidades",
     "price_now": 5.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-17T20:50:51.702934"
-  },
-  {
-    "id": "f3e1a9f217899f54",
-    "title": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
-    "price_now": 29.99,
-    "price_was": 47.89,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B08LK15F8N?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/686626039717896740758822482757.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-17T20:01:21.398732"
   }
 ]

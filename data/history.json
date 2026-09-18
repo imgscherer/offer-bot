@@ -3579,6 +3579,10 @@
     "07790862121d722d": {
       "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula, Dermatologicamente Testadas, 50 Unidades",
       "posted_at": "2026-09-18T14:00:57.670772"
+    },
+    "292424ed16d23bd2": {
+      "title": "Kit 510 Cuecas Boxer Infantil (Tam. 1 a 3 anos)",
+      "posted_at": "2026-09-18T14:30:51.228082"
     }
   },
   "results": [
@@ -18261,6 +18265,14 @@
       "post_id": "902",
       "error": null,
       "at": "2026-09-18T14:00:57.669835"
+    },
+    {
+      "offer_id": "292424ed16d23bd2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "903",
+      "error": null,
+      "at": "2026-09-18T14:30:51.227407"
     }
   ]
 }
