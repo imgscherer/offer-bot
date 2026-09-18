@@ -1,5 +1,17 @@
 [
   {
+    "id": "ffde0173387e7317",
+    "title": "Sandália Infantil (Tam. 21 ao 28, Diversas cores)",
+    "price_now": 19.89,
+    "price_was": 39.78,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/6L4Y4Ihwf3?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/649773497017897644915250572683.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-18T20:50:51.345143"
+  },
+  {
     "id": "923537cad6e70eaf",
     "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
     "price_now": 54.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-18T11:41:02.082483"
-  },
-  {
-    "id": "d520c2cebba6b316",
-    "title": "Fralda Pampers Pants Ajuste Total XG, 66 Un",
-    "price_now": 96.0,
-    "price_was": 146.23,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B086GP4FW7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/497963662817897310273747126296.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-18T11:40:46.518682"
   }
 ]

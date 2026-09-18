@@ -3607,6 +3607,10 @@
     "923537cad6e70eaf": {
       "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
       "posted_at": "2026-09-18T19:50:49.741646"
+    },
+    "ffde0173387e7317": {
+      "title": "Sandália Infantil (Tam. 21 ao 28, Diversas cores)",
+      "posted_at": "2026-09-18T20:50:51.345455"
     }
   },
   "results": [
@@ -18345,6 +18349,14 @@
       "post_id": "909",
       "error": null,
       "at": "2026-09-18T19:50:49.741010"
+    },
+    {
+      "offer_id": "ffde0173387e7317",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "910",
+      "error": null,
+      "at": "2026-09-18T20:50:51.344816"
     }
   ]
 }
