@@ -3575,6 +3575,10 @@
     "0912156cad476a07": {
       "title": "Sandália infantil (Tam. 23 ao 34)",
       "posted_at": "2026-09-18T13:51:01.736420"
+    },
+    "07790862121d722d": {
+      "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula, Dermatologicamente Testadas, 50 Unidades",
+      "posted_at": "2026-09-18T14:00:57.670772"
     }
   },
   "results": [
@@ -18249,6 +18253,14 @@
       "post_id": "901",
       "error": null,
       "at": "2026-09-18T13:51:01.735747"
+    },
+    {
+      "offer_id": "07790862121d722d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "902",
+      "error": null,
+      "at": "2026-09-18T14:00:57.669835"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "07790862121d722d",
+    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula, Dermatologicamente Testadas, 50 Unidades",
+    "price_now": 5.99,
+    "price_was": 9.42,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/545804468017897392294197082263.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-18T14:00:57.670318"
+  },
+  {
     "id": "0912156cad476a07",
     "title": "Sandália infantil (Tam. 23 ao 34)",
     "price_now": 59.94,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-17T20:01:21.398732"
-  },
-  {
-    "id": "a1f931ffbac7c1c7",
-    "title": "Tênis Infantil Lilo Stitch (Tam. 26 ao 33, 4 Cores)",
-    "price_now": 62.99,
-    "price_was": 99.98,
-    "discount_pct": 37,
-    "url": "https://s.shopee.com.br/9V1YBBMi9e?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/304860536817896745658619735670.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-17T20:01:13.924747"
   }
 ]
