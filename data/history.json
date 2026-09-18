@@ -3543,6 +3543,10 @@
     "d9652f8d4bb3b59a": {
       "title": "Sandália Infantil (Tam. 17 ao 32, Diversas cores)",
       "posted_at": "2026-09-17T20:51:07.066314"
+    },
+    "291dd686ba4828b8": {
+      "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
+      "posted_at": "2026-09-18T07:30:40.138904"
     }
   },
   "results": [
@@ -18153,6 +18157,14 @@
       "post_id": "893",
       "error": null,
       "at": "2026-09-17T20:51:07.065603"
+    },
+    {
+      "offer_id": "291dd686ba4828b8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "894",
+      "error": null,
+      "at": "2026-09-18T07:30:40.138093"
     }
   ]
 }
