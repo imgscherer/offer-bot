@@ -3611,6 +3611,10 @@
     "ffde0173387e7317": {
       "title": "Sandália Infantil (Tam. 21 ao 28, Diversas cores)",
       "posted_at": "2026-09-18T20:50:51.345455"
+    },
+    "39c2b5be84f3f413": {
+      "title": "Cadeira de Descanso Para bebê Nap Time 0-11kgs Rosa Cinto de 3 pontos Com Acessórios Interativos Multikids Baby BB291",
+      "posted_at": "2026-09-18T22:11:15.680137"
     }
   },
   "results": [
@@ -18357,6 +18361,14 @@
       "post_id": "910",
       "error": null,
       "at": "2026-09-18T20:50:51.344816"
+    },
+    {
+      "offer_id": "39c2b5be84f3f413",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "911",
+      "error": null,
+      "at": "2026-09-18T22:11:15.679490"
     }
   ]
 }
