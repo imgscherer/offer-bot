@@ -3587,6 +3587,10 @@
     "82558494f7013928": {
       "title": "Bermuda Infantil de Sarja (Tam. 4 a 16 anos, 4 cores)",
       "posted_at": "2026-09-18T15:30:51.079999"
+    },
+    "6b4a52fa4b3c99b7": {
+      "title": "Escova de Dente de Bebê 360° Silicone (2 Cores)",
+      "posted_at": "2026-09-18T16:21:24.903416"
     }
   },
   "results": [
@@ -18285,6 +18289,14 @@
       "post_id": "904",
       "error": null,
       "at": "2026-09-18T15:30:51.079296"
+    },
+    {
+      "offer_id": "6b4a52fa4b3c99b7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "905",
+      "error": null,
+      "at": "2026-09-18T16:21:24.902737"
     }
   ]
 }
