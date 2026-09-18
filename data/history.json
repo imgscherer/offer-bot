@@ -3583,6 +3583,10 @@
     "292424ed16d23bd2": {
       "title": "Kit 510 Cuecas Boxer Infantil (Tam. 1 a 3 anos)",
       "posted_at": "2026-09-18T14:30:51.228082"
+    },
+    "82558494f7013928": {
+      "title": "Bermuda Infantil de Sarja (Tam. 4 a 16 anos, 4 cores)",
+      "posted_at": "2026-09-18T15:30:51.079999"
     }
   },
   "results": [
@@ -18273,6 +18277,14 @@
       "post_id": "903",
       "error": null,
       "at": "2026-09-18T14:30:51.227407"
+    },
+    {
+      "offer_id": "82558494f7013928",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "904",
+      "error": null,
+      "at": "2026-09-18T15:30:51.079296"
     }
   ]
 }

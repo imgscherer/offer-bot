@@ -1,5 +1,17 @@
 [
   {
+    "id": "82558494f7013928",
+    "title": "Bermuda Infantil de Sarja (Tam. 4 a 16 anos, 4 cores)",
+    "price_now": 36.48,
+    "price_was": 60.8,
+    "discount_pct": 40,
+    "url": "https://s.shopee.com.br/2LYOwYz5Tn?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/476001667617897449324539949011.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-18T15:30:51.079623"
+  },
+  {
     "id": "292424ed16d23bd2",
     "title": "Kit 510 Cuecas Boxer Infantil (Tam. 1 a 3 anos)",
     "price_now": 20.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-17T20:51:07.065953"
-  },
-  {
-    "id": "5277dd88b35522ee",
-    "title": "Tênis Infantil Lilo Stitch (Tam. 26 ao 33, 4 Cores)",
-    "price_now": 62.0,
-    "price_was": 99.98,
-    "discount_pct": 38,
-    "url": "https://s.shopee.com.br/9V1YBBMi9e?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/321473716117896774923846105416.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-17T20:50:51.702934"
   }
 ]
