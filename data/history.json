@@ -3571,6 +3571,10 @@
     "af044588a2a04294": {
       "title": "Fralda Pampers Premium Care Pants M 78 Unidades",
       "posted_at": "2026-09-18T12:30:58.132782"
+    },
+    "0912156cad476a07": {
+      "title": "Sandália infantil (Tam. 23 ao 34)",
+      "posted_at": "2026-09-18T13:51:01.736420"
     }
   },
   "results": [
@@ -18237,6 +18241,14 @@
       "post_id": "900",
       "error": null,
       "at": "2026-09-18T12:30:58.132121"
+    },
+    {
+      "offer_id": "0912156cad476a07",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "901",
+      "error": null,
+      "at": "2026-09-18T13:51:01.735747"
     }
   ]
 }

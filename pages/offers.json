@@ -1,5 +1,17 @@
 [
   {
+    "id": "0912156cad476a07",
+    "title": "Sandália infantil (Tam. 23 ao 34)",
+    "price_now": 59.94,
+    "price_was": 99.9,
+    "discount_pct": 40,
+    "url": "https://s.shopee.com.br/3qNCcaz28O?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/218257551117897390579793458058.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-18T13:51:01.736123"
+  },
+  {
     "id": "af044588a2a04294",
     "title": "Fralda Pampers Premium Care Pants M 78 Unidades",
     "price_now": 97.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-17T20:01:13.924747"
-  },
-  {
-    "id": "eba7c3ad3f179fb4",
-    "title": "Fralda Babysec Ultra Sec G 60 Unidades",
-    "price_now": 49.99,
-    "price_was": 101.58,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/392564483417896745727235839273.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-17T20:01:01.414686"
   }
 ]
