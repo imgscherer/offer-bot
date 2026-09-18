@@ -1,5 +1,29 @@
 [
   {
+    "id": "6e8b45a9f10b95d3",
+    "title": "Huggies Fralda Premium Natural Care M 78 Un",
+    "price_now": 87.0,
+    "price_was": 125.24,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/451679678917897298503435815895.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-18T11:20:57.723319"
+  },
+  {
+    "id": "39fc7a9b4be20758",
+    "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+    "price_now": 66.59,
+    "price_was": 101.58,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/480969460617897295851460229225.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-18T11:20:48.429011"
+  },
+  {
     "id": "6753730bcdfd7dc4",
     "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
     "price_now": 9.9,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-17T16:31:14.365530"
-  },
-  {
-    "id": "d43925fda6906c32",
-    "title": "Fralda Cremer Jumbo P 30 Unidades",
-    "price_now": 19.99,
-    "price_was": 30.99,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B08BXQFMZK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/425172521417896616812337591797.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-17T16:20:51.969956"
-  },
-  {
-    "id": "d03068576415ca5c",
-    "title": "Sandália infantil com flor em Tecido Confort Soft (Tam. 13 ao 18, Diversas cores)",
-    "price_now": 24.5,
-    "price_was": 59.76,
-    "discount_pct": 59,
-    "url": "https://s.shopee.com.br/3g3kwBs1dL?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/757594497117896585918373974705.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-17T15:40:51.401189"
   }
 ]

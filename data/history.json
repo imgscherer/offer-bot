@@ -3551,6 +3551,14 @@
     "6753730bcdfd7dc4": {
       "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
       "posted_at": "2026-09-18T08:00:51.528546"
+    },
+    "39fc7a9b4be20758": {
+      "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+      "posted_at": "2026-09-18T11:20:48.464697"
+    },
+    "6e8b45a9f10b95d3": {
+      "title": "Huggies Fralda Premium Natural Care M 78 Un",
+      "posted_at": "2026-09-18T11:20:57.723690"
     }
   },
   "results": [
@@ -18177,6 +18185,22 @@
       "post_id": "895",
       "error": null,
       "at": "2026-09-18T08:00:51.527888"
+    },
+    {
+      "offer_id": "39fc7a9b4be20758",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "896",
+      "error": null,
+      "at": "2026-09-18T11:20:48.428677"
+    },
+    {
+      "offer_id": "6e8b45a9f10b95d3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "897",
+      "error": null,
+      "at": "2026-09-18T11:20:57.723007"
     }
   ]
 }
