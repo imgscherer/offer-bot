@@ -3599,6 +3599,10 @@
     "332dfee152588f94": {
       "title": "Fralda Pom Pom Protek Proteção De Mãe G 68 unidades",
       "posted_at": "2026-09-18T18:01:19.182002"
+    },
+    "51ecf73e4b97593f": {
+      "title": "Troninho Penico Infantil Musical Princesas Rosa Maxi Baby",
+      "posted_at": "2026-09-18T19:30:47.234143"
     }
   },
   "results": [
@@ -18321,6 +18325,14 @@
       "post_id": "907",
       "error": null,
       "at": "2026-09-18T18:01:19.181488"
+    },
+    {
+      "offer_id": "51ecf73e4b97593f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "908",
+      "error": null,
+      "at": "2026-09-18T19:30:47.233488"
     }
   ]
 }
