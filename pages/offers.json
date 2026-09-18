@@ -1,5 +1,29 @@
 [
   {
+    "id": "ae81eea59d9b5547",
+    "title": "Huggies Fralda Premium Natural Care P - 36 Un",
+    "price_now": 37.0,
+    "price_was": 53.4,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/290146094017897305893546489578.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-18T11:41:02.082483"
+  },
+  {
+    "id": "d520c2cebba6b316",
+    "title": "Fralda Pampers Pants Ajuste Total XG, 66 Un",
+    "price_now": 96.0,
+    "price_was": 146.23,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B086GP4FW7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/497963662817897310273747126296.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-18T11:40:46.518682"
+  },
+  {
     "id": "6e8b45a9f10b95d3",
     "title": "Huggies Fralda Premium Natural Care M 78 Un",
     "price_now": 87.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-17T19:10:49.782708"
-  },
-  {
-    "id": "09b78128c7777b8b",
-    "title": "Bebê Reborn Gemeas 100% Silicone + 2 Enxoval Completo Oferta",
-    "price_now": 421.0,
-    "price_was": 601.43,
-    "discount_pct": 30,
-    "url": "https://s.shopee.com.br/2LYNQPGXtV",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820le-mo5jd24168zl2a",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-17T16:31:18.061169"
-  },
-  {
-    "id": "be9aeb3368d1b1c6",
-    "title": "Bebê Reborn Gêmeas 100% Silicone Macio Loira e Morena + 2 Enxovais Completo",
-    "price_now": 389.88,
-    "price_was": 696.21,
-    "discount_pct": 44,
-    "url": "https://s.shopee.com.br/2VrnciFuYW",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mr9ix0283f9ha4",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-17T16:31:14.365530"
   }
 ]

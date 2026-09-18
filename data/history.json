@@ -3559,6 +3559,14 @@
     "6e8b45a9f10b95d3": {
       "title": "Huggies Fralda Premium Natural Care M 78 Un",
       "posted_at": "2026-09-18T11:20:57.723690"
+    },
+    "d520c2cebba6b316": {
+      "title": "Fralda Pampers Pants Ajuste Total XG, 66 Un",
+      "posted_at": "2026-09-18T11:40:46.518979"
+    },
+    "ae81eea59d9b5547": {
+      "title": "Huggies Fralda Premium Natural Care P - 36 Un",
+      "posted_at": "2026-09-18T11:41:02.082812"
     }
   },
   "results": [
@@ -18201,6 +18209,22 @@
       "post_id": "897",
       "error": null,
       "at": "2026-09-18T11:20:57.723007"
+    },
+    {
+      "offer_id": "d520c2cebba6b316",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "898",
+      "error": null,
+      "at": "2026-09-18T11:40:46.518361"
+    },
+    {
+      "offer_id": "ae81eea59d9b5547",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "899",
+      "error": null,
+      "at": "2026-09-18T11:41:02.082169"
     }
   ]
 }
