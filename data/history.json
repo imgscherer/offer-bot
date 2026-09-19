@@ -3635,6 +3635,10 @@
     "4992dbbd46d543a3": {
       "title": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
       "posted_at": "2026-09-19T19:31:00.321654"
+    },
+    "9a90891f71879d44": {
+      "title": "Mamypoko Fralda-calça Superproteção Xg 24 Unidades",
+      "posted_at": "2026-09-19T22:50:44.810153"
     }
   },
   "results": [
@@ -18533,6 +18537,14 @@
       "post_id": "916",
       "error": null,
       "at": "2026-09-19T19:31:00.321138"
+    },
+    {
+      "offer_id": "9a90891f71879d44",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "917",
+      "error": null,
+      "at": "2026-09-19T22:50:44.809524"
     }
   ]
 }
