@@ -1,5 +1,17 @@
 [
   {
+    "id": "4992dbbd46d543a3",
+    "title": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+    "price_now": 49.99,
+    "price_was": 71.67,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/496650593617898457907579303391.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-19T19:31:00.321416"
+  },
+  {
     "id": "911f063735c3841d",
     "title": "Huggies Fralda Premium Natural Care M 78 Un",
     "price_now": 87.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-18T16:21:24.903084"
-  },
-  {
-    "id": "82558494f7013928",
-    "title": "Bermuda Infantil de Sarja (Tam. 4 a 16 anos, 4 cores)",
-    "price_now": 36.48,
-    "price_was": 60.8,
-    "discount_pct": 40,
-    "url": "https://s.shopee.com.br/2LYOwYz5Tn?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/476001667617897449324539949011.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-18T15:30:51.079623"
   }
 ]
