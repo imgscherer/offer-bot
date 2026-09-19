@@ -3619,6 +3619,10 @@
     "3b2c48b84e4095de": {
       "title": "Sandália Infantil Menino Chinelo Confortável",
       "posted_at": "2026-09-19T00:10:48.372786"
+    },
+    "94ee6ddc6b9af269": {
+      "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades",
+      "posted_at": "2026-09-19T12:51:16.429541"
     }
   },
   "results": [
@@ -18453,6 +18457,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-19T12:40:43.178166"
+    },
+    {
+      "offer_id": "a20f7ded885e963a",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-19T12:50:45.847876"
+    },
+    {
+      "offer_id": "8f4279b9878939f8",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-19T12:51:01.271394"
+    },
+    {
+      "offer_id": "94ee6ddc6b9af269",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "913",
+      "error": null,
+      "at": "2026-09-19T12:51:16.428894"
     }
   ]
 }
