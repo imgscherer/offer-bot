@@ -1,5 +1,17 @@
 [
   {
+    "id": "027a7b7c5dbc52b7",
+    "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso 400ml",
+    "price_now": 16.0,
+    "price_was": 34.99,
+    "discount_pct": 54,
+    "url": "https://www.amazon.com.br/dp/B0BFJHYD5X?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/117788905417898226909074278695.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-19T13:10:46.701231"
+  },
+  {
     "id": "94ee6ddc6b9af269",
     "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades",
     "price_now": 197.1,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-18T14:30:51.227756"
-  },
-  {
-    "id": "07790862121d722d",
-    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula, Dermatologicamente Testadas, 50 Unidades",
-    "price_now": 5.99,
-    "price_was": 9.42,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/545804468017897392294197082263.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-18T14:00:57.670318"
   }
 ]

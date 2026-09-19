@@ -3623,6 +3623,10 @@
     "94ee6ddc6b9af269": {
       "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades",
       "posted_at": "2026-09-19T12:51:16.429541"
+    },
+    "027a7b7c5dbc52b7": {
+      "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso 400ml",
+      "posted_at": "2026-09-19T13:10:46.701597"
     }
   },
   "results": [
@@ -18489,6 +18493,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-19T13:00:55.187391"
+    },
+    {
+      "offer_id": "027a7b7c5dbc52b7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "914",
+      "error": null,
+      "at": "2026-09-19T13:10:46.700873"
+    },
+    {
+      "offer_id": "8f4279b9878939f8",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-19T13:10:58.790436"
     }
   ]
 }
