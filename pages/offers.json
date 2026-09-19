@@ -1,5 +1,17 @@
 [
   {
+    "id": "911f063735c3841d",
+    "title": "Huggies Fralda Premium Natural Care M 78 Un",
+    "price_now": 87.0,
+    "price_was": 125.24,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/167864017317898445483531559926.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-19T19:10:54.080305"
+  },
+  {
     "id": "027a7b7c5dbc52b7",
     "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso 400ml",
     "price_now": 16.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-18T15:30:51.079623"
-  },
-  {
-    "id": "292424ed16d23bd2",
-    "title": "Kit 510 Cuecas Boxer Infantil (Tam. 1 a 3 anos)",
-    "price_now": 20.9,
-    "price_was": 34.83,
-    "discount_pct": 40,
-    "url": "https://s.shopee.com.br/6L4Xe07ICO?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/833633766917897415157600652498.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-18T14:30:51.227756"
   }
 ]
