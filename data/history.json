@@ -3615,6 +3615,10 @@
     "39c2b5be84f3f413": {
       "title": "Cadeira de Descanso Para bebê Nap Time 0-11kgs Rosa Cinto de 3 pontos Com Acessórios Interativos Multikids Baby BB291",
       "posted_at": "2026-09-18T22:11:15.680137"
+    },
+    "3b2c48b84e4095de": {
+      "title": "Sandália Infantil Menino Chinelo Confortável",
+      "posted_at": "2026-09-19T00:10:48.372786"
     }
   },
   "results": [
@@ -18369,6 +18373,14 @@
       "post_id": "911",
       "error": null,
       "at": "2026-09-18T22:11:15.679490"
+    },
+    {
+      "offer_id": "3b2c48b84e4095de",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "912",
+      "error": null,
+      "at": "2026-09-19T00:10:48.372310"
     }
   ]
 }

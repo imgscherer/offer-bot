@@ -1,5 +1,17 @@
 [
   {
+    "id": "3b2c48b84e4095de",
+    "title": "Sandália Infantil Menino Chinelo Confortável",
+    "price_now": 23.0,
+    "price_was": 39.78,
+    "discount_pct": 42,
+    "url": "https://s.shopee.com.br/8Kpcekg3ID?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/286038800717897756542343145979.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-19T00:10:48.372564"
+  },
+  {
     "id": "39c2b5be84f3f413",
     "title": "Cadeira de Descanso Para bebê Nap Time 0-11kgs Rosa Cinto de 3 pontos Com Acessórios Interativos Multikids Baby BB291",
     "price_now": 113.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-18T13:51:01.736123"
-  },
-  {
-    "id": "af044588a2a04294",
-    "title": "Fralda Pampers Premium Care Pants M 78 Unidades",
-    "price_now": 97.0,
-    "price_was": 151.59,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B07X83FF8M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/131836374917897343859285267654.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-18T12:30:58.132458"
   }
 ]
