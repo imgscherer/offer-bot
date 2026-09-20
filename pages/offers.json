@@ -1,5 +1,17 @@
 [
   {
+    "id": "8dd1739e3ced825a",
+    "title": "Fralda Babysec Ultrasec Mega XXXG 24 Unidades",
+    "price_now": 26.99,
+    "price_was": 39.98,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0FQPFW4X1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/715130829317899030321878121060.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-20T11:30:51.793930"
+  },
+  {
     "id": "9a90891f71879d44",
     "title": "Mamypoko Fralda-calça Superproteção Xg 24 Unidades",
     "price_now": 29.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-18T18:01:19.181769"
-  },
-  {
-    "id": "862fa6023b2b11b0",
-    "title": "Suporte de Babá Eletrônica Para Berço Universal Ajustável Flexível",
-    "price_now": 12.0,
-    "price_was": 21.97,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/1gIiJW6FUJ?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/554566133917897538256418760632.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-18T18:01:00.690147"
   }
 ]
