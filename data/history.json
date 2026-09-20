@@ -3663,6 +3663,10 @@
     "c4d65f55a27378b0": {
       "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
       "posted_at": "2026-09-20T13:20:45.902227"
+    },
+    "1d08fd882346acfb": {
+      "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
+      "posted_at": "2026-09-20T13:30:50.423451"
     }
   },
   "results": [
@@ -18689,6 +18693,14 @@
       "post_id": "923",
       "error": null,
       "at": "2026-09-20T13:20:45.901413"
+    },
+    {
+      "offer_id": "1d08fd882346acfb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "924",
+      "error": null,
+      "at": "2026-09-20T13:30:50.347010"
     }
   ]
 }
