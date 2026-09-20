@@ -3671,6 +3671,10 @@
     "f835660aacacab81": {
       "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
       "posted_at": "2026-09-20T15:10:47.032289"
+    },
+    "0d398cc8e790a1f8": {
+      "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
+      "posted_at": "2026-09-20T16:10:37.722410"
     }
   },
   "results": [
@@ -18713,6 +18717,14 @@
       "post_id": "925",
       "error": null,
       "at": "2026-09-20T15:10:47.031579"
+    },
+    {
+      "offer_id": "0d398cc8e790a1f8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "926",
+      "error": null,
+      "at": "2026-09-20T16:10:37.721817"
     }
   ]
 }

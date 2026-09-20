@@ -1,5 +1,17 @@
 [
   {
+    "id": "0d398cc8e790a1f8",
+    "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
+    "price_now": 10.0,
+    "price_was": 18.87,
+    "discount_pct": 47,
+    "url": "https://s.shopee.com.br/9peT7RXet3",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxy82d0505ccb",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-20T16:10:37.722162"
+  },
+  {
     "id": "f835660aacacab81",
     "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
     "price_now": 15.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-19T19:10:54.080305"
-  },
-  {
-    "id": "027a7b7c5dbc52b7",
-    "title": "Shampoo Infantil Para Cabelos Crespos Johnson's Blackinho Poderoso 400ml",
-    "price_now": 16.0,
-    "price_was": 34.99,
-    "discount_pct": 54,
-    "url": "https://www.amazon.com.br/dp/B0BFJHYD5X?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/117788905417898226909074278695.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-19T13:10:46.701231"
   }
 ]
