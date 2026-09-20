@@ -1,5 +1,17 @@
 [
   {
+    "id": "ff0f5c401014842f",
+    "title": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
+    "price_now": 37.0,
+    "price_was": 53.4,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/820888247617899037513737316796.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-20T11:41:02.432381"
+  },
+  {
     "id": "8dd1739e3ced825a",
     "title": "Fralda Babysec Ultrasec Mega XXXG 24 Unidades",
     "price_now": 26.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-18T19:30:47.233836"
-  },
-  {
-    "id": "332dfee152588f94",
-    "title": "Fralda Pom Pom Protek Proteção De Mãe G 68 unidades",
-    "price_now": 53.1,
-    "price_was": 77.37,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/927508898217897541307123709926.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-18T18:01:19.181769"
   }
 ]
