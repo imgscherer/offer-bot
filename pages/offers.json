@@ -1,5 +1,17 @@
 [
   {
+    "id": "f835660aacacab81",
+    "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
+    "price_now": 15.0,
+    "price_was": 22.69,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B095D664HJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/292551557117899164696608388678.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-20T15:10:47.031966"
+  },
+  {
     "id": "1d08fd882346acfb",
     "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
     "price_now": 15.49,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-19T13:10:46.701231"
-  },
-  {
-    "id": "94ee6ddc6b9af269",
-    "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades",
-    "price_now": 197.1,
-    "price_was": 289.0,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/788025140017898216693472995689.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-19T12:51:16.429219"
   }
 ]
