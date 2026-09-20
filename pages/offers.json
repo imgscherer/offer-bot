@@ -1,5 +1,29 @@
 [
   {
+    "id": "5df2897aa58e3a48",
+    "title": "Fralda Pampers Premium Care P 40 Unidades",
+    "price_now": 49.0,
+    "price_was": 71.67,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/560892673417899062094231157378.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-20T12:21:34.424608"
+  },
+  {
+    "id": "4cb6bca5017044bb",
+    "title": "Fralda-Calça MamyPoko XG, 24 Unidades",
+    "price_now": 26.0,
+    "price_was": 42.9,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/988688463817899057302830814914.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-20T12:21:21.468204"
+  },
+  {
     "id": "ce7d76e6dcbebcc0",
     "title": "Fralda Huggies Máxima Proteção P 48 unidades",
     "price_now": 47.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-18T22:11:15.679822"
-  },
-  {
-    "id": "ffde0173387e7317",
-    "title": "Sandália Infantil (Tam. 21 ao 28, Diversas cores)",
-    "price_now": 19.89,
-    "price_was": 39.78,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/6L4Y4Ihwf3?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/649773497017897644915250572683.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-18T20:50:51.345143"
-  },
-  {
-    "id": "923537cad6e70eaf",
-    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
-    "price_now": 54.99,
-    "price_was": 101.58,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/260645272517897604699377330164.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-18T19:50:49.741352"
   }
 ]
