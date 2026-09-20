@@ -1,5 +1,17 @@
 [
   {
+    "id": "c4d65f55a27378b0",
+    "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
+    "price_now": 166.0,
+    "price_was": 246.01,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/974056491117899094483160220137.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-20T13:20:45.901901"
+  },
+  {
     "id": "5df2897aa58e3a48",
     "title": "Fralda Pampers Premium Care P 40 Unidades",
     "price_now": 49.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-19T00:10:48.372564"
-  },
-  {
-    "id": "39c2b5be84f3f413",
-    "title": "Cadeira de Descanso Para bebê Nap Time 0-11kgs Rosa Cinto de 3 pontos Com Acessórios Interativos Multikids Baby BB291",
-    "price_now": 113.0,
-    "price_was": 299.9,
-    "discount_pct": 62,
-    "url": "https://www.amazon.com.br/dp/B0B2X2P3G5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/331451793917897685838898245912.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-18T22:11:15.679822"
   }
 ]
