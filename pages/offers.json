@@ -1,5 +1,29 @@
 [
   {
+    "id": "e9c5b28982405094",
+    "title": "Carrinho De Passeio Triciclo Avespa",
+    "price_now": 167.0,
+    "price_was": 358.98,
+    "discount_pct": 53,
+    "url": "https://s.shopee.com.br/5LC5MFXJot?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/838026204817900071941564346951.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-21T16:21:03.523409"
+  },
+  {
+    "id": "e609ae0de888a645",
+    "title": "Mili Fralda Infantil Love & Care M 78 Unidades",
+    "price_now": 66.0,
+    "price_was": 148.5,
+    "discount_pct": 56,
+    "url": "https://www.amazon.com.br/dp/B0CN81BZKX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/392871319017900071909455311661.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-21T16:20:49.514176"
+  },
+  {
     "id": "90cefddcf70c5378",
     "title": "Fralda Mili Love&Care M 78 Unidades",
     "price_now": 66.59,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-21T11:21:00.619947"
-  },
-  {
-    "id": "5b3925ffce0ac911",
-    "title": "Fralda Babysec UltraSec XG 56 unidades",
-    "price_now": 47.69,
-    "price_was": 101.58,
-    "discount_pct": 53,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/671321324017899888898833756329.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-21T11:20:45.705812"
-  },
-  {
-    "id": "3156544968a45549",
-    "title": "Fralda Pampers Premium Care P 40 unidades",
-    "price_now": 49.99,
-    "price_was": 71.67,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/619568621817899875901741145012.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-21T10:51:01.472778"
   }
 ]
