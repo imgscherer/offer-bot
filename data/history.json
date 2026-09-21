@@ -3747,6 +3747,10 @@
     "3af0a3e66cd420d3": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Mega M 48 Unidades",
       "posted_at": "2026-09-21T18:20:56.127445"
+    },
+    "aac5e98ecd1bde6d": {
+      "title": "Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Algodão (2 Opções)",
+      "posted_at": "2026-09-21T18:40:54.412106"
     }
   },
   "results": [
@@ -19117,6 +19121,14 @@
       "post_id": "944",
       "error": null,
       "at": "2026-09-21T18:20:56.126689"
+    },
+    {
+      "offer_id": "aac5e98ecd1bde6d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "945",
+      "error": null,
+      "at": "2026-09-21T18:40:54.312455"
     }
   ]
 }
