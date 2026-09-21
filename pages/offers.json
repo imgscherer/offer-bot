@@ -1,5 +1,17 @@
 [
   {
+    "id": "3209516700179fd5",
+    "title": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
+    "price_now": 90.0,
+    "price_was": 131.78,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/856169581517899924296699934236.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-21T12:21:01.007379"
+  },
+  {
     "id": "14f2190c15ecb48c",
     "title": "Fralda Huggies Rápida Absorção P 46 Unidades",
     "price_now": 37.17,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-20T13:20:45.901901"
-  },
-  {
-    "id": "5df2897aa58e3a48",
-    "title": "Fralda Pampers Premium Care P 40 Unidades",
-    "price_now": 49.0,
-    "price_was": 71.67,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/560892673417899062094231157378.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-20T12:21:34.424608"
   }
 ]

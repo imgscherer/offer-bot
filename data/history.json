@@ -3703,6 +3703,10 @@
     "14f2190c15ecb48c": {
       "title": "Fralda Huggies Rápida Absorção P 46 Unidades",
       "posted_at": "2026-09-21T11:41:00.698018"
+    },
+    "3209516700179fd5": {
+      "title": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
+      "posted_at": "2026-09-21T12:21:01.007702"
     }
   },
   "results": [
@@ -18865,6 +18869,14 @@
       "post_id": "933",
       "error": null,
       "at": "2026-09-21T11:41:00.697367"
+    },
+    {
+      "offer_id": "3209516700179fd5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "934",
+      "error": null,
+      "at": "2026-09-21T12:21:01.007008"
     }
   ]
 }
