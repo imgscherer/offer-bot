@@ -1,5 +1,17 @@
 [
   {
+    "id": "3af0a3e66cd420d3",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega M 48 Unidades",
+    "price_now": 35.0,
+    "price_was": 50.29,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/756345991917900137294312951664.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-21T18:20:56.127103"
+  },
+  {
     "id": "cd819e208f76fa92",
     "title": "Lenço Umedecido Bepantol Baby Hipoalergênico",
     "price_now": 105.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-21T11:41:00.697721"
-  },
-  {
-    "id": "66dc6625eed31d4f",
-    "title": "Huggies Fralda Pants Premium Natural Care XG - 56 Un",
-    "price_now": 79.0,
-    "price_was": 118.35,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/656758645517899905125755082449.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-21T11:40:48.283548"
   }
 ]

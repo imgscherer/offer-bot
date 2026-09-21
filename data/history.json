@@ -3743,6 +3743,10 @@
     "cd819e208f76fa92": {
       "title": "Lenço Umedecido Bepantol Baby Hipoalergênico",
       "posted_at": "2026-09-21T17:20:49.774200"
+    },
+    "3af0a3e66cd420d3": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Mega M 48 Unidades",
+      "posted_at": "2026-09-21T18:20:56.127445"
     }
   },
   "results": [
@@ -19105,6 +19109,14 @@
       "post_id": "943",
       "error": null,
       "at": "2026-09-21T17:20:49.754378"
+    },
+    {
+      "offer_id": "3af0a3e66cd420d3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "944",
+      "error": null,
+      "at": "2026-09-21T18:20:56.126689"
     }
   ]
 }
