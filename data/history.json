@@ -3755,6 +3755,10 @@
     "4c0c1e8b5b3ca873": {
       "title": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
       "posted_at": "2026-09-21T18:50:54.286375"
+    },
+    "28b2f84bcafd45bf": {
+      "title": "Calça Infantil Social Esporte Fino (Tam. 1 ao 16, 4 Cores)",
+      "posted_at": "2026-09-21T19:20:58.782271"
     }
   },
   "results": [
@@ -19141,6 +19145,14 @@
       "post_id": "946",
       "error": null,
       "at": "2026-09-21T18:50:54.285575"
+    },
+    {
+      "offer_id": "28b2f84bcafd45bf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "947",
+      "error": null,
+      "at": "2026-09-21T19:20:58.781581"
     }
   ]
 }

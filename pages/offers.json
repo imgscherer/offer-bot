@@ -1,5 +1,17 @@
 [
   {
+    "id": "28b2f84bcafd45bf",
+    "title": "Calça Infantil Social Esporte Fino (Tam. 1 ao 16, 4 Cores)",
+    "price_now": 59.49,
+    "price_was": 100.83,
+    "discount_pct": 41,
+    "url": "https://s.shopee.com.br/70KJXKcH9T?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/220821988517900176922395587303.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-21T19:20:58.781936"
+  },
+  {
     "id": "4c0c1e8b5b3ca873",
     "title": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
     "price_now": 29.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-21T12:50:50.372290"
-  },
-  {
-    "id": "43804ca771bea34b",
-    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
-    "price_now": 47.0,
-    "price_was": 101.58,
-    "discount_pct": 54,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/942820728217899933918260949196.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-21T12:30:52.845445"
   }
 ]
