@@ -3751,6 +3751,10 @@
     "aac5e98ecd1bde6d": {
       "title": "Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Algodão (2 Opções)",
       "posted_at": "2026-09-21T18:40:54.412106"
+    },
+    "4c0c1e8b5b3ca873": {
+      "title": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
+      "posted_at": "2026-09-21T18:50:54.286375"
     }
   },
   "results": [
@@ -19129,6 +19133,14 @@
       "post_id": "945",
       "error": null,
       "at": "2026-09-21T18:40:54.312455"
+    },
+    {
+      "offer_id": "4c0c1e8b5b3ca873",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "946",
+      "error": null,
+      "at": "2026-09-21T18:50:54.285575"
     }
   ]
 }
