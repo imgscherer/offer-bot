@@ -3763,6 +3763,10 @@
     "79766d66f63995a1": {
       "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
       "posted_at": "2026-09-21T21:50:49.526749"
+    },
+    "6eefd3e9df6bd575": {
+      "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 180ml",
+      "posted_at": "2026-09-21T23:00:57.862861"
     }
   },
   "results": [
@@ -19245,6 +19249,14 @@
       "post_id": "948",
       "error": null,
       "at": "2026-09-21T21:50:49.526112"
+    },
+    {
+      "offer_id": "6eefd3e9df6bd575",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "949",
+      "error": null,
+      "at": "2026-09-21T23:00:57.862201"
     }
   ]
 }

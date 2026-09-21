@@ -1,5 +1,17 @@
 [
   {
+    "id": "6eefd3e9df6bd575",
+    "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 180ml",
+    "price_now": 8.74,
+    "price_was": 15.13,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B08JQNDGKS?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/653156683917900308886065996327.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-21T23:00:57.862518"
+  },
+  {
     "id": "79766d66f63995a1",
     "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
     "price_now": 44.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-21T13:31:09.876965"
-  },
-  {
-    "id": "ea259d1c5c5c1c79",
-    "title": "Fralda Pampers Premium Care Pants M 78 unidades",
-    "price_now": 89.2,
-    "price_was": 151.59,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07X83FF8M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/770389214117899938166371924331.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-21T12:51:06.614058"
   }
 ]
