@@ -1,5 +1,29 @@
 [
   {
+    "id": "14f2190c15ecb48c",
+    "title": "Fralda Huggies Rápida Absorção P 46 Unidades",
+    "price_now": 37.17,
+    "price_was": 55.53,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/535830920317899904502777613023.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-21T11:41:00.697721"
+  },
+  {
+    "id": "66dc6625eed31d4f",
+    "title": "Huggies Fralda Pants Premium Natural Care XG - 56 Un",
+    "price_now": 79.0,
+    "price_was": 118.35,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/656758645517899905125755082449.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-21T11:40:48.283548"
+  },
+  {
     "id": "48eeb2d49219b58b",
     "title": "Fralda-Calça Superproteção MamyPoko XG 24 Unidades",
     "price_now": 26.91,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-20T12:21:34.424608"
-  },
-  {
-    "id": "4cb6bca5017044bb",
-    "title": "Fralda-Calça MamyPoko XG, 24 Unidades",
-    "price_now": 26.0,
-    "price_was": 42.9,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/988688463817899057302830814914.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-20T12:21:21.468204"
-  },
-  {
-    "id": "ce7d76e6dcbebcc0",
-    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
-    "price_now": 47.0,
-    "price_was": 72.65,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/367246508417899049499608332413.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-20T12:00:59.391234"
   }
 ]
