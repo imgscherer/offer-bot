@@ -1,5 +1,17 @@
 [
   {
+    "id": "cd819e208f76fa92",
+    "title": "Lenço Umedecido Bepantol Baby Hipoalergênico",
+    "price_now": 105.0,
+    "price_was": 149.99,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0CZM4Q75C?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/454426292617900102776123319156.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-21T17:20:49.754656"
+  },
+  {
     "id": "e9c5b28982405094",
     "title": "Carrinho De Passeio Triciclo Avespa",
     "price_now": 167.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-21T11:40:48.283548"
-  },
-  {
-    "id": "48eeb2d49219b58b",
-    "title": "Fralda-Calça Superproteção MamyPoko XG 24 Unidades",
-    "price_now": 26.91,
-    "price_was": 42.9,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/661561358617899888949915452465.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-21T11:21:00.619947"
   }
 ]

@@ -3739,6 +3739,10 @@
     "e9c5b28982405094": {
       "title": "Carrinho De Passeio Triciclo Avespa",
       "posted_at": "2026-09-21T16:21:03.523797"
+    },
+    "cd819e208f76fa92": {
+      "title": "Lenço Umedecido Bepantol Baby Hipoalergênico",
+      "posted_at": "2026-09-21T17:20:49.774200"
     }
   },
   "results": [
@@ -19093,6 +19097,14 @@
       "post_id": "942",
       "error": null,
       "at": "2026-09-21T16:21:03.523101"
+    },
+    {
+      "offer_id": "cd819e208f76fa92",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "943",
+      "error": null,
+      "at": "2026-09-21T17:20:49.754378"
     }
   ]
 }
