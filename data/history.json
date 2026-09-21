@@ -3675,6 +3675,10 @@
     "0d398cc8e790a1f8": {
       "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
       "posted_at": "2026-09-20T16:10:37.722410"
+    },
+    "cc22dbcac6c832d0": {
+      "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
+      "posted_at": "2026-09-21T00:00:46.484137"
     }
   },
   "results": [
@@ -18733,6 +18737,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-20T20:10:39.354134"
+    },
+    {
+      "offer_id": "cc22dbcac6c832d0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "927",
+      "error": null,
+      "at": "2026-09-21T00:00:46.483448"
     }
   ]
 }
