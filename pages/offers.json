@@ -1,5 +1,17 @@
 [
   {
+    "id": "90cefddcf70c5378",
+    "title": "Fralda Mili Love&Care M 78 Unidades",
+    "price_now": 66.59,
+    "price_was": 148.5,
+    "discount_pct": 55,
+    "url": "https://www.amazon.com.br/dp/B0CN81BZKX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/297227175617900032984649872332.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-21T15:20:50.787666"
+  },
+  {
     "id": "99f4aa7c1224bb3d",
     "title": "Kit 4 Peças 2 Conjuntos Soft Estampado Infantil",
     "price_now": 54.49,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-21T10:51:01.472778"
-  },
-  {
-    "id": "52175c0258253cd4",
-    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
-    "price_now": 52.99,
-    "price_was": 101.58,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/951265453917899532505588364561.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-21T01:20:44.377225"
   }
 ]
