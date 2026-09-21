@@ -3679,6 +3679,10 @@
     "cc22dbcac6c832d0": {
       "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
       "posted_at": "2026-09-21T00:00:46.484137"
+    },
+    "52175c0258253cd4": {
+      "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
+      "posted_at": "2026-09-21T01:20:44.377589"
     }
   },
   "results": [
@@ -18745,6 +18749,14 @@
       "post_id": "927",
       "error": null,
       "at": "2026-09-21T00:00:46.483448"
+    },
+    {
+      "offer_id": "52175c0258253cd4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "928",
+      "error": null,
+      "at": "2026-09-21T01:20:44.376846"
     }
   ]
 }

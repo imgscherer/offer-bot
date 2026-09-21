@@ -1,5 +1,17 @@
 [
   {
+    "id": "52175c0258253cd4",
+    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
+    "price_now": 52.99,
+    "price_was": 101.58,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B07Z9T391J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/951265453917899532505588364561.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-21T01:20:44.377225"
+  },
+  {
     "id": "cc22dbcac6c832d0",
     "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
     "price_now": 10.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-19T22:50:44.809853"
-  },
-  {
-    "id": "4992dbbd46d543a3",
-    "title": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
-    "price_now": 49.99,
-    "price_was": 71.67,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/496650593617898457907579303391.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-19T19:31:00.321416"
   }
 ]
