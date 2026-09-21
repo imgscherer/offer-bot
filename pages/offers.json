@@ -1,5 +1,17 @@
 [
   {
+    "id": "79766d66f63995a1",
+    "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
+    "price_now": 44.99,
+    "price_was": 77.27,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/513277144017900267115523054007.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-21T21:50:49.526445"
+  },
+  {
     "id": "28b2f84bcafd45bf",
     "title": "Calça Infantil Social Esporte Fino (Tam. 1 ao 16, 4 Cores)",
     "price_now": 59.49,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-21T12:51:06.614058"
-  },
-  {
-    "id": "7bbb9300c29b0bce",
-    "title": "Fralda Pampers Premium Care Pants G 68 unidades",
-    "price_now": 89.2,
-    "price_was": 151.59,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/312841427717899938197488812421.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-21T12:50:50.372290"
   }
 ]
