@@ -1,5 +1,17 @@
 [
   {
+    "id": "3156544968a45549",
+    "title": "Fralda Pampers Premium Care P 40 unidades",
+    "price_now": 49.99,
+    "price_was": 71.67,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/619568621817899875901741145012.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-21T10:51:01.472778"
+  },
+  {
     "id": "52175c0258253cd4",
     "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
     "price_now": 52.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-20T11:30:51.793930"
-  },
-  {
-    "id": "9a90891f71879d44",
-    "title": "Mamypoko Fralda-calça Superproteção Xg 24 Unidades",
-    "price_now": 29.9,
-    "price_was": 42.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/360272336217898572049344651393.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-19T22:50:44.809853"
   }
 ]
