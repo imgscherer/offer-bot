@@ -3711,6 +3711,14 @@
     "43804ca771bea34b": {
       "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
       "posted_at": "2026-09-21T12:30:52.845686"
+    },
+    "7bbb9300c29b0bce": {
+      "title": "Fralda Pampers Premium Care Pants G 68 unidades",
+      "posted_at": "2026-09-21T12:50:50.372633"
+    },
+    "ea259d1c5c5c1c79": {
+      "title": "Fralda Pampers Premium Care Pants M 78 unidades",
+      "posted_at": "2026-09-21T12:51:06.614391"
     }
   },
   "results": [
@@ -18889,6 +18897,22 @@
       "post_id": "935",
       "error": null,
       "at": "2026-09-21T12:30:52.845137"
+    },
+    {
+      "offer_id": "7bbb9300c29b0bce",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "936",
+      "error": null,
+      "at": "2026-09-21T12:50:50.371796"
+    },
+    {
+      "offer_id": "ea259d1c5c5c1c79",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "937",
+      "error": null,
+      "at": "2026-09-21T12:51:06.613688"
     }
   ]
 }

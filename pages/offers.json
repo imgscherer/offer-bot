@@ -1,5 +1,29 @@
 [
   {
+    "id": "ea259d1c5c5c1c79",
+    "title": "Fralda Pampers Premium Care Pants M 78 unidades",
+    "price_now": 89.2,
+    "price_was": 151.59,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07X83FF8M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/770389214117899938166371924331.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-21T12:51:06.614058"
+  },
+  {
+    "id": "7bbb9300c29b0bce",
+    "title": "Fralda Pampers Premium Care Pants G 68 unidades",
+    "price_now": 89.2,
+    "price_was": 151.59,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/312841427717899938197488812421.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-21T12:50:50.372290"
+  },
+  {
     "id": "43804ca771bea34b",
     "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
     "price_now": 47.0,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-20T16:10:37.722162"
-  },
-  {
-    "id": "f835660aacacab81",
-    "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
-    "price_now": 15.0,
-    "price_was": 22.69,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B095D664HJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/292551557117899164696608388678.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-20T15:10:47.031966"
-  },
-  {
-    "id": "1d08fd882346acfb",
-    "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
-    "price_now": 15.49,
-    "price_was": 22.69,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B095D664HJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/393924343517899100484733887637.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-20T13:30:50.347357"
   }
 ]
