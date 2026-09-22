@@ -3791,6 +3791,10 @@
     "8d1c4d41edcba6f4": {
       "title": "Lenços Umedecidos Pampers Cuidado de Bebê 192 Unidades",
       "posted_at": "2026-09-22T13:20:55.127064"
+    },
+    "4624144acf0a2266": {
+      "title": "Fralda Infantil Personal Baby Protect e Sec M Mega 40 Unidades",
+      "posted_at": "2026-09-22T14:00:53.628823"
     }
   },
   "results": [
@@ -19377,6 +19381,14 @@
       "post_id": "955",
       "error": null,
       "at": "2026-09-22T13:20:55.126367"
+    },
+    {
+      "offer_id": "4624144acf0a2266",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "956",
+      "error": null,
+      "at": "2026-09-22T14:00:53.628151"
     }
   ]
 }

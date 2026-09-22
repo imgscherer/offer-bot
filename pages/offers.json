@@ -1,5 +1,17 @@
 [
   {
+    "id": "4624144acf0a2266",
+    "title": "Fralda Infantil Personal Baby Protect e Sec M Mega 40 Unidades",
+    "price_now": 26.0,
+    "price_was": 36.96,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/751337821217900853714801055536.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-22T14:00:53.628508"
+  },
+  {
     "id": "8d1c4d41edcba6f4",
     "title": "Lenços Umedecidos Pampers Cuidado de Bebê 192 Unidades",
     "price_now": 30.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-21T18:40:54.312746"
-  },
-  {
-    "id": "3af0a3e66cd420d3",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega M 48 Unidades",
-    "price_now": 35.0,
-    "price_was": 50.29,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/756345991917900137294312951664.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-21T18:20:56.127103"
   }
 ]
