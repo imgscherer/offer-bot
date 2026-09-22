@@ -3819,6 +3819,10 @@
     "b1c6aff33d1dcc9d": {
       "title": "Kit Tênis Infantil Calce Fácil + Sandália Babuche",
       "posted_at": "2026-09-22T18:31:02.371596"
+    },
+    "ea29135e8e62901a": {
+      "title": "Shampoo Para Bebê Johnson's Baby Regular, 200ml",
+      "posted_at": "2026-09-22T19:51:23.093619"
     }
   },
   "results": [
@@ -19485,6 +19489,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-22T19:40:40.662614"
+    },
+    {
+      "offer_id": "ea29135e8e62901a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "963",
+      "error": null,
+      "at": "2026-09-22T19:51:23.092940"
+    },
+    {
+      "offer_id": "5cf931b641b89be5",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-22T19:51:30.805889"
     }
   ]
 }

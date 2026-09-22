@@ -1,5 +1,17 @@
 [
   {
+    "id": "ea29135e8e62901a",
+    "title": "Shampoo Para Bebê Johnson's Baby Regular, 200ml",
+    "price_now": 12.82,
+    "price_was": 24.79,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B00F5NZ34K?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/665897561917901054155481462722.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-22T19:51:23.093273"
+  },
+  {
     "id": "b1c6aff33d1dcc9d",
     "title": "Kit Tênis Infantil Calce Fácil + Sandália Babuche",
     "price_now": 58.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-22T11:20:49.978395"
-  },
-  {
-    "id": "6d33c7a6515df8a7",
-    "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
-    "price_now": 26.99,
-    "price_was": 39.49,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/618821947617900737316835590683.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-22T10:51:07.440704"
   }
 ]
