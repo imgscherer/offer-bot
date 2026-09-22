@@ -3823,6 +3823,26 @@
     "ea29135e8e62901a": {
       "title": "Shampoo Para Bebê Johnson's Baby Regular, 200ml",
       "posted_at": "2026-09-22T19:51:23.093619"
+    },
+    "1d643f2e9416ba1a": {
+      "title": "Kit 5 Carrinhos Miniatura Fricção Bombeiros Brinquedo Infantil DuteToys",
+      "posted_at": "2026-09-22T23:30:41.079836"
+    },
+    "58d48dd4cad92aec": {
+      "title": "Fisher-price Baby Banheira Baleia Hora Do Banho Banheira Para Bebês Em Estágio De Desenvolvimento, White, Set",
+      "posted_at": "2026-09-22T23:30:49.489588"
+    },
+    "f376ef9998da8e53": {
+      "title": "100 Mini Pezinhos Saida  de Maternidade, Chá Revelação, Chá de Fralda,Cha de bebê ( 50 PARES )",
+      "posted_at": "2026-09-22T23:30:52.937827"
+    },
+    "b76b51208d3ad0d3": {
+      "title": "Kit Comidinha Pizza 18 peças - Pura Diversao - Brinquedo Infantil",
+      "posted_at": "2026-09-22T23:30:57.590599"
+    },
+    "8e64230f7d5c4a15": {
+      "title": "Kit 12 Caixas Massinha De Modelar Leo&Leo 144UN 180g Infantil Escolar 12 Cores Não tóxica",
+      "posted_at": "2026-09-22T23:31:00.585810"
     }
   },
   "results": [
@@ -19521,6 +19541,46 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-22T20:10:45.780536"
+    },
+    {
+      "offer_id": "1d643f2e9416ba1a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "964",
+      "error": null,
+      "at": "2026-09-22T23:30:41.079270"
+    },
+    {
+      "offer_id": "58d48dd4cad92aec",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "965",
+      "error": null,
+      "at": "2026-09-22T23:30:49.489077"
+    },
+    {
+      "offer_id": "f376ef9998da8e53",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "966",
+      "error": null,
+      "at": "2026-09-22T23:30:52.937314"
+    },
+    {
+      "offer_id": "b76b51208d3ad0d3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "967",
+      "error": null,
+      "at": "2026-09-22T23:30:57.590050"
+    },
+    {
+      "offer_id": "8e64230f7d5c4a15",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "968",
+      "error": null,
+      "at": "2026-09-22T23:31:00.585252"
     }
   ]
 }
