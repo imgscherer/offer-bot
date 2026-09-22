@@ -1,5 +1,29 @@
 [
   {
+    "id": "6d33c7a6515df8a7",
+    "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
+    "price_now": 26.99,
+    "price_was": 39.49,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/618821947617900737316835590683.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-22T10:51:07.440704"
+  },
+  {
+    "id": "c961a2d00e1e8327",
+    "title": "Fralda Huggies Pants Proteção Alcochoada G 30 unidades",
+    "price_now": 33.24,
+    "price_was": 65.29,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07FN9FRVM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/589176365917900740301681072021.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-22T10:50:54.055850"
+  },
+  {
     "id": "6eefd3e9df6bd575",
     "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 180ml",
     "price_now": 8.74,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-21T15:20:50.787666"
-  },
-  {
-    "id": "99f4aa7c1224bb3d",
-    "title": "Kit 4 Peças 2 Conjuntos Soft Estampado Infantil",
-    "price_now": 54.49,
-    "price_was": 100.91,
-    "discount_pct": 46,
-    "url": "https://s.shopee.com.br/LnPFJ5otY?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/476358141717899986697410533423.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-21T14:01:03.030020"
-  },
-  {
-    "id": "acaddd7fcd955c52",
-    "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
-    "price_now": 161.0,
-    "price_was": 246.01,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/801452551817899967792454628029.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-21T13:31:09.876965"
   }
 ]

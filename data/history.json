@@ -3767,6 +3767,14 @@
     "6eefd3e9df6bd575": {
       "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 180ml",
       "posted_at": "2026-09-21T23:00:57.862861"
+    },
+    "c961a2d00e1e8327": {
+      "title": "Fralda Huggies Pants Proteção Alcochoada G 30 unidades",
+      "posted_at": "2026-09-22T10:50:54.056224"
+    },
+    "6d33c7a6515df8a7": {
+      "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
+      "posted_at": "2026-09-22T10:51:07.441058"
     }
   },
   "results": [
@@ -19257,6 +19265,22 @@
       "post_id": "949",
       "error": null,
       "at": "2026-09-21T23:00:57.862201"
+    },
+    {
+      "offer_id": "c961a2d00e1e8327",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "950",
+      "error": null,
+      "at": "2026-09-22T10:50:54.055506"
+    },
+    {
+      "offer_id": "6d33c7a6515df8a7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "951",
+      "error": null,
+      "at": "2026-09-22T10:51:07.440402"
     }
   ]
 }
