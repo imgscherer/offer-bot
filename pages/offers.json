@@ -1,5 +1,17 @@
 [
   {
+    "id": "8d1c4d41edcba6f4",
+    "title": "Lenços Umedecidos Pampers Cuidado de Bebê 192 Unidades",
+    "price_now": 30.0,
+    "price_was": 46.7,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0CGY62F23?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/620611401617900830912523426056.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-22T13:20:55.126746"
+  },
+  {
     "id": "2612f5d181b8597a",
     "title": "Huggies Fralda Pants Premium Natural Care XG - 56 Un",
     "price_now": 79.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-21T18:20:56.127103"
-  },
-  {
-    "id": "cd819e208f76fa92",
-    "title": "Lenço Umedecido Bepantol Baby Hipoalergênico",
-    "price_now": 105.0,
-    "price_was": 149.99,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0CZM4Q75C?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/454426292617900102776123319156.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-21T17:20:49.754656"
   }
 ]

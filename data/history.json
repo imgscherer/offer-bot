@@ -3787,6 +3787,10 @@
     "2612f5d181b8597a": {
       "title": "Huggies Fralda Pants Premium Natural Care XG - 56 Un",
       "posted_at": "2026-09-22T12:50:52.869378"
+    },
+    "8d1c4d41edcba6f4": {
+      "title": "Lenços Umedecidos Pampers Cuidado de Bebê 192 Unidades",
+      "posted_at": "2026-09-22T13:20:55.127064"
     }
   },
   "results": [
@@ -19365,6 +19369,14 @@
       "post_id": "954",
       "error": null,
       "at": "2026-09-22T12:50:52.868733"
+    },
+    {
+      "offer_id": "8d1c4d41edcba6f4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "955",
+      "error": null,
+      "at": "2026-09-22T13:20:55.126367"
     }
   ]
 }
