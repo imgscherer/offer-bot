@@ -1,5 +1,17 @@
 [
   {
+    "id": "2612f5d181b8597a",
+    "title": "Huggies Fralda Pants Premium Natural Care XG - 56 Un",
+    "price_now": 79.0,
+    "price_was": 118.35,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/540192810217900812904339745347.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-22T12:50:52.869084"
+  },
+  {
     "id": "7440cc2eed56bc73",
     "title": "Fralda Huggies Supreme Care P 48 unidades",
     "price_now": 37.49,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-21T17:20:49.754656"
-  },
-  {
-    "id": "e9c5b28982405094",
-    "title": "Carrinho De Passeio Triciclo Avespa",
-    "price_now": 167.0,
-    "price_was": 358.98,
-    "discount_pct": 53,
-    "url": "https://s.shopee.com.br/5LC5MFXJot?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/838026204817900071941564346951.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-21T16:21:03.523409"
   }
 ]
