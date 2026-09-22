@@ -1,5 +1,17 @@
 [
   {
+    "id": "ad7efe9fa58a26d6",
+    "title": "Kit 2 ou 3 Calças Legging Infantil (Tam. 2 a 10 anos)",
+    "price_now": 39.5,
+    "price_was": 99.75,
+    "discount_pct": 60,
+    "url": "https://s.shopee.com.br/6q0ueTRFHS?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/414960546517900888535418059047.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-22T15:01:00.073297"
+  },
+  {
     "id": "406bc657a6348886",
     "title": "Chinelo Nuvem Infantil (Tam. 26 ao 33, Diversas cores)",
     "price_now": 19.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-21T21:50:49.526445"
-  },
-  {
-    "id": "28b2f84bcafd45bf",
-    "title": "Calça Infantil Social Esporte Fino (Tam. 1 ao 16, 4 Cores)",
-    "price_now": 59.49,
-    "price_was": 100.83,
-    "discount_pct": 41,
-    "url": "https://s.shopee.com.br/70KJXKcH9T?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/220821988517900176922395587303.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-21T19:20:58.781936"
   }
 ]
