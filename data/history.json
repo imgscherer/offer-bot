@@ -3807,6 +3807,10 @@
     "ad7efe9fa58a26d6": {
       "title": "Kit 2 ou 3 Calças Legging Infantil (Tam. 2 a 10 anos)",
       "posted_at": "2026-09-22T15:01:00.073638"
+    },
+    "6f4f02e0b41170d4": {
+      "title": "Tênis Infantil Lilo Stitch (Tam. 26 ao 33, 4 Cores)",
+      "posted_at": "2026-09-22T17:00:55.743804"
     }
   },
   "results": [
@@ -19425,6 +19429,14 @@
       "post_id": "959",
       "error": null,
       "at": "2026-09-22T15:01:00.072899"
+    },
+    {
+      "offer_id": "6f4f02e0b41170d4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "960",
+      "error": null,
+      "at": "2026-09-22T17:00:55.743048"
     }
   ]
 }
