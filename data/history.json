@@ -3775,6 +3775,10 @@
     "6d33c7a6515df8a7": {
       "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
       "posted_at": "2026-09-22T10:51:07.441058"
+    },
+    "ee30e963b40833f7": {
+      "title": "Lenços Umedecidos Pampers Cuidado De Bebê 192 Unidades",
+      "posted_at": "2026-09-22T11:20:50.071852"
     }
   },
   "results": [
@@ -19281,6 +19285,14 @@
       "post_id": "951",
       "error": null,
       "at": "2026-09-22T10:51:07.440402"
+    },
+    {
+      "offer_id": "ee30e963b40833f7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "952",
+      "error": null,
+      "at": "2026-09-22T11:20:49.978121"
     }
   ]
 }

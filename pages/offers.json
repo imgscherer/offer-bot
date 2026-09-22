@@ -1,5 +1,17 @@
 [
   {
+    "id": "ee30e963b40833f7",
+    "title": "Lenços Umedecidos Pampers Cuidado De Bebê 192 Unidades",
+    "price_now": 31.99,
+    "price_was": 46.7,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0CGY62F23?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/772451932117900753526227075444.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-22T11:20:49.978395"
+  },
+  {
     "id": "6d33c7a6515df8a7",
     "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
     "price_now": 26.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-21T16:20:49.514176"
-  },
-  {
-    "id": "90cefddcf70c5378",
-    "title": "Fralda Mili Love&Care M 78 Unidades",
-    "price_now": 66.59,
-    "price_was": 148.5,
-    "discount_pct": 55,
-    "url": "https://www.amazon.com.br/dp/B0CN81BZKX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/297227175617900032984649872332.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-21T15:20:50.787666"
   }
 ]
