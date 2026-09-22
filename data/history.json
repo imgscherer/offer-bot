@@ -3795,6 +3795,10 @@
     "4624144acf0a2266": {
       "title": "Fralda Infantil Personal Baby Protect e Sec M Mega 40 Unidades",
       "posted_at": "2026-09-22T14:00:53.628823"
+    },
+    "d11a93169ece1f13": {
+      "title": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha M 72 Unidades",
+      "posted_at": "2026-09-22T14:20:49.624358"
     }
   },
   "results": [
@@ -19389,6 +19393,14 @@
       "post_id": "956",
       "error": null,
       "at": "2026-09-22T14:00:53.628151"
+    },
+    {
+      "offer_id": "d11a93169ece1f13",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "957",
+      "error": null,
+      "at": "2026-09-22T14:20:49.623615"
     }
   ]
 }
