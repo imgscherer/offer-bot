@@ -19293,6 +19293,14 @@
       "post_id": "952",
       "error": null,
       "at": "2026-09-22T11:20:49.978121"
+    },
+    {
+      "offer_id": "0c096bab0b844055",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-22T11:50:53.904360"
     }
   ]
 }
