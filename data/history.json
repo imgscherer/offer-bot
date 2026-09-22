@@ -3799,6 +3799,10 @@
     "d11a93169ece1f13": {
       "title": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha M 72 Unidades",
       "posted_at": "2026-09-22T14:20:49.624358"
+    },
+    "406bc657a6348886": {
+      "title": "Chinelo Nuvem Infantil (Tam. 26 ao 33, Diversas cores)",
+      "posted_at": "2026-09-22T14:30:57.792865"
     }
   },
   "results": [
@@ -19401,6 +19405,14 @@
       "post_id": "957",
       "error": null,
       "at": "2026-09-22T14:20:49.623615"
+    },
+    {
+      "offer_id": "406bc657a6348886",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "958",
+      "error": null,
+      "at": "2026-09-22T14:30:57.792181"
     }
   ]
 }

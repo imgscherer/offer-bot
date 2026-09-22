@@ -1,5 +1,17 @@
 [
   {
+    "id": "406bc657a6348886",
+    "title": "Chinelo Nuvem Infantil (Tam. 26 ao 33, Diversas cores)",
+    "price_now": 19.99,
+    "price_was": 39.98,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/1qcEfE0vRd?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/437301752317900870549340645648.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-22T14:30:57.792547"
+  },
+  {
     "id": "d11a93169ece1f13",
     "title": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha M 72 Unidades",
     "price_now": 62.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-21T19:20:58.781936"
-  },
-  {
-    "id": "4c0c1e8b5b3ca873",
-    "title": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
-    "price_now": 29.99,
-    "price_was": 47.89,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B08LK15F8N?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/985387856417900160119153978160.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-21T18:50:54.285941"
   }
 ]
