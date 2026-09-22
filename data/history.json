@@ -3815,6 +3815,10 @@
     "f534bf78c9ee5ff2": {
       "title": "Kit Tênis Infantil Calce Fácil + Sandália Babuche (Tam. 22 ao 32, 4 cores)",
       "posted_at": "2026-09-22T18:01:58.206179"
+    },
+    "b1c6aff33d1dcc9d": {
+      "title": "Kit Tênis Infantil Calce Fácil + Sandália Babuche",
+      "posted_at": "2026-09-22T18:31:02.371596"
     }
   },
   "results": [
@@ -19449,6 +19453,14 @@
       "post_id": "961",
       "error": null,
       "at": "2026-09-22T18:01:58.205478"
+    },
+    {
+      "offer_id": "b1c6aff33d1dcc9d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "962",
+      "error": null,
+      "at": "2026-09-22T18:31:02.370866"
     }
   ]
 }
