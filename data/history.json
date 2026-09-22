@@ -3811,6 +3811,10 @@
     "6f4f02e0b41170d4": {
       "title": "Tênis Infantil Lilo Stitch (Tam. 26 ao 33, 4 Cores)",
       "posted_at": "2026-09-22T17:00:55.743804"
+    },
+    "f534bf78c9ee5ff2": {
+      "title": "Kit Tênis Infantil Calce Fácil + Sandália Babuche (Tam. 22 ao 32, 4 cores)",
+      "posted_at": "2026-09-22T18:01:58.206179"
     }
   },
   "results": [
@@ -19437,6 +19441,14 @@
       "post_id": "960",
       "error": null,
       "at": "2026-09-22T17:00:55.743048"
+    },
+    {
+      "offer_id": "f534bf78c9ee5ff2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "961",
+      "error": null,
+      "at": "2026-09-22T18:01:58.205478"
     }
   ]
 }
