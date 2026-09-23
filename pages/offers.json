@@ -1,5 +1,53 @@
 [
   {
+    "id": "04cbd6f72c76407b",
+    "title": "Fralda Cremer Magic Care Hiper M 68 unidades",
+    "price_now": 40.72,
+    "price_was": 66.1,
+    "discount_pct": 38,
+    "url": "https://s.shopee.com.br/6fhVsUxigu?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/780656811717901660277706249452.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-23T12:31:14.843640"
+  },
+  {
+    "id": "641a2c06b2f1ad2e",
+    "title": "Fralda Cremer Magic Care Hiper XXG 40 unidades",
+    "price_now": 40.72,
+    "price_was": 66.1,
+    "discount_pct": 38,
+    "url": "https://s.shopee.com.br/6q0w4jldhl?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/811185698317901659683297607809.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-23T12:31:05.163936"
+  },
+  {
+    "id": "76286f5d91b3b868",
+    "title": "Fralda Cremer Magic Care Hiper XG 50 unidades",
+    "price_now": 40.72,
+    "price_was": 66.1,
+    "discount_pct": 38,
+    "url": "https://s.shopee.com.br/3B7di27WLq?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/999237380217901659986604570269.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-23T12:30:56.287087"
+  },
+  {
+    "id": "2c6ea051f16439b3",
+    "title": "Fralda Cremer Magic Care Hiper G 60 unidades",
+    "price_now": 40.72,
+    "price_was": 66.1,
+    "discount_pct": 38,
+    "url": "https://s.shopee.com.br/5foyghnK10?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/720227053917901660661630126198.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-23T12:30:47.909448"
+  },
+  {
     "id": "46a9a4494657ddbf",
     "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
     "price_now": 161.0,
@@ -94,53 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-22T23:30:52.937568"
-  },
-  {
-    "id": "58d48dd4cad92aec",
-    "title": "Fisher-price Baby Banheira Baleia Hora Do Banho Banheira Para Bebês Em Estágio De Desenvolvimento, White, Set",
-    "price_now": 98.99,
-    "price_was": 329.99,
-    "discount_pct": 70,
-    "url": "https://www.amazon.com.br/dp/B01K7VHOR8?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/812520094617900816666064938279.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-22T23:30:49.489355"
-  },
-  {
-    "id": "1d643f2e9416ba1a",
-    "title": "Kit 5 Carrinhos Miniatura Fricção Bombeiros Brinquedo Infantil DuteToys",
-    "price_now": 22.89,
-    "price_was": 99.52,
-    "discount_pct": 77,
-    "url": "https://s.shopee.com.br/gQHsbBnEy",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-824j3-mekb5fm66y2ufb",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-22T23:30:41.079575"
-  },
-  {
-    "id": "ea29135e8e62901a",
-    "title": "Shampoo Para Bebê Johnson's Baby Regular, 200ml",
-    "price_now": 12.82,
-    "price_was": 24.79,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B00F5NZ34K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/665897561917901054155481462722.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-22T19:51:23.093273"
-  },
-  {
-    "id": "b1c6aff33d1dcc9d",
-    "title": "Kit Tênis Infantil Calce Fácil + Sandália Babuche",
-    "price_now": 58.0,
-    "price_was": 108.91,
-    "discount_pct": 47,
-    "url": "https://s.shopee.com.br/4qFqSkH7GB?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/300017520317901012291761718006.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-22T18:31:02.371240"
   }
 ]

@@ -3863,6 +3863,22 @@
     "46a9a4494657ddbf": {
       "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
       "posted_at": "2026-09-23T11:01:10.621316"
+    },
+    "2c6ea051f16439b3": {
+      "title": "Fralda Cremer Magic Care Hiper G 60 unidades",
+      "posted_at": "2026-09-23T12:30:47.909745"
+    },
+    "76286f5d91b3b868": {
+      "title": "Fralda Cremer Magic Care Hiper XG 50 unidades",
+      "posted_at": "2026-09-23T12:30:56.287430"
+    },
+    "641a2c06b2f1ad2e": {
+      "title": "Fralda Cremer Magic Care Hiper XXG 40 unidades",
+      "posted_at": "2026-09-23T12:31:05.164244"
+    },
+    "04cbd6f72c76407b": {
+      "title": "Fralda Cremer Magic Care Hiper M 68 unidades",
+      "posted_at": "2026-09-23T12:31:14.843973"
     }
   },
   "results": [
@@ -19665,6 +19681,46 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-23T12:20:46.039775"
+    },
+    {
+      "offer_id": "2c6ea051f16439b3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "974",
+      "error": null,
+      "at": "2026-09-23T12:30:47.909078"
+    },
+    {
+      "offer_id": "76286f5d91b3b868",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "975",
+      "error": null,
+      "at": "2026-09-23T12:30:56.286789"
+    },
+    {
+      "offer_id": "641a2c06b2f1ad2e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "976",
+      "error": null,
+      "at": "2026-09-23T12:31:05.163644"
+    },
+    {
+      "offer_id": "04cbd6f72c76407b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "977",
+      "error": null,
+      "at": "2026-09-23T12:31:14.843346"
+    },
+    {
+      "offer_id": "764a8ca419f6a27f",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-23T12:31:20.882933"
     }
   ]
 }
