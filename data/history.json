@@ -3967,6 +3967,10 @@
     "7b0f64fb6186c51d": {
       "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
       "posted_at": "2026-09-23T18:00:54.203845"
+    },
+    "37c2ab4395f7057c": {
+      "title": "Personal Fralda Baby Total Protect Pants M 28 Unidades",
+      "posted_at": "2026-09-23T18:31:01.326882"
     }
   },
   "results": [
@@ -19985,6 +19989,14 @@
       "post_id": "999",
       "error": null,
       "at": "2026-09-23T18:00:54.203086"
+    },
+    {
+      "offer_id": "37c2ab4395f7057c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1000",
+      "error": null,
+      "at": "2026-09-23T18:31:01.326009"
     }
   ]
 }
