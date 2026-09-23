@@ -3851,6 +3851,10 @@
     "9f410dd5ecdcae39": {
       "title": "Kit 3 Calças Moletom Infantil Flanelada Algodão Térmico Cores Sortidas (BR Numérico 0 4 Padrão MARROM - NUDE",
       "posted_at": "2026-09-23T02:50:47.247347"
+    },
+    "5b394630896b6643": {
+      "title": "Fralda Pampers Premium Care Pants Tamanho G, Fácil De Vestir, 68 Unidades",
+      "posted_at": "2026-09-23T03:51:25.626931"
     }
   },
   "results": [
@@ -19605,6 +19609,14 @@
       "post_id": "970",
       "error": null,
       "at": "2026-09-23T02:50:47.246698"
+    },
+    {
+      "offer_id": "5b394630896b6643",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "971",
+      "error": null,
+      "at": "2026-09-23T03:51:25.626278"
     }
   ]
 }
