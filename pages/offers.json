@@ -1,5 +1,17 @@
 [
   {
+    "id": "88c68cef9410ffa7",
+    "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
+    "price_now": 21.0,
+    "price_was": 44.99,
+    "discount_pct": 53,
+    "url": "https://www.amazon.com.br/dp/B07F1Z7ZM2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/846626205317901744884933638076.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-23T14:50:43.587024"
+  },
+  {
     "id": "d1d94e8634cc412f",
     "title": "Mochila Maternidade Menina Celina Borboletas Pérola/Rosa - 01 Peça",
     "price_now": 294.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-23T12:41:04.746233"
-  },
-  {
-    "id": "8ab874bc62ea1c70",
-    "title": "Lenços Umedecidos Pampers Carícia de Bebê com 576 unidades",
-    "price_now": 71.0,
-    "price_was": 155.0,
-    "discount_pct": 54,
-    "url": "https://s.shopee.com.br/3qNKW1YSoA?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/591539880317901666674367009259.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T12:40:56.224921"
   }
 ]
