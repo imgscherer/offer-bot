@@ -3903,6 +3903,10 @@
     "e1cc5991d0238cfa": {
       "title": "Kit Pampers Lenços Umedecidos Cuidado de Bebê 576 Unidades (12 pacotes com 48 un cada)",
       "posted_at": "2026-09-23T12:51:03.752934"
+    },
+    "0549dfa10156d036": {
+      "title": "Fralda Babysec Ultrasec G 60 Unidades",
+      "posted_at": "2026-09-23T13:00:57.728539"
     }
   },
   "results": [
@@ -19793,6 +19797,14 @@
       "post_id": "983",
       "error": null,
       "at": "2026-09-23T12:51:03.752225"
+    },
+    {
+      "offer_id": "0549dfa10156d036",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "984",
+      "error": null,
+      "at": "2026-09-23T13:00:57.727737"
     }
   ]
 }

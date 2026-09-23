@@ -1,5 +1,17 @@
 [
   {
+    "id": "0549dfa10156d036",
+    "title": "Fralda Babysec Ultrasec G 60 Unidades",
+    "price_now": 53.59,
+    "price_was": 108.05,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/2VrwxDtX96?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/721423425917901681086858045032.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-23T13:00:57.728060"
+  },
+  {
     "id": "e1cc5991d0238cfa",
     "title": "Kit Pampers Lenços Umedecidos Cuidado de Bebê 576 Unidades (12 pacotes com 48 un cada)",
     "price_now": 71.92,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-23T11:01:10.620923"
-  },
-  {
-    "id": "dbcc18d3a7705d9a",
-    "title": "Personal Fralda Baby Premium Pants M, 48 Unidades",
-    "price_now": 29.99,
-    "price_was": 80.03,
-    "discount_pct": 63,
-    "url": "https://www.amazon.com.br/dp/B0BGM6P1SF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/234219728417901606707747801860.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T11:00:52.629535"
   }
 ]
