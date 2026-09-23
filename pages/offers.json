@@ -1,5 +1,17 @@
 [
   {
+    "id": "e1cc5991d0238cfa",
+    "title": "Kit Pampers Lenços Umedecidos Cuidado de Bebê 576 Unidades (12 pacotes com 48 un cada)",
+    "price_now": 71.92,
+    "price_was": 155.0,
+    "discount_pct": 54,
+    "url": "https://s.shopee.com.br/4B0Av7h4d9?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/502469120717901670913660064694.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-23T12:51:03.752562"
+  },
+  {
     "id": "e0b27a5f8bfd621e",
     "title": "Fralda Huggies Tripla Proteção P - 46 fraldas",
     "price_now": 39.13,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-23T11:00:52.629535"
-  },
-  {
-    "id": "5b394630896b6643",
-    "title": "Fralda Pampers Premium Care Pants Tamanho G, Fácil De Vestir, 68 Unidades",
-    "price_now": 93.9,
-    "price_was": 151.59,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/717779804717901353497620668869.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T03:51:25.626606"
   }
 ]

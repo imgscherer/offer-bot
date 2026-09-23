@@ -3899,6 +3899,10 @@
     "e0b27a5f8bfd621e": {
       "title": "Fralda Huggies Tripla Proteção P - 46 fraldas",
       "posted_at": "2026-09-23T12:41:47.991995"
+    },
+    "e1cc5991d0238cfa": {
+      "title": "Kit Pampers Lenços Umedecidos Cuidado de Bebê 576 Unidades (12 pacotes com 48 un cada)",
+      "posted_at": "2026-09-23T12:51:03.752934"
     }
   },
   "results": [
@@ -19781,6 +19785,14 @@
       "post_id": "982",
       "error": null,
       "at": "2026-09-23T12:41:47.991258"
+    },
+    {
+      "offer_id": "e1cc5991d0238cfa",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "983",
+      "error": null,
+      "at": "2026-09-23T12:51:03.752225"
     }
   ]
 }
