@@ -3943,6 +3943,22 @@
     "3c7896596e3a5476": {
       "title": "Huggies Fralda Premium Natural Care M 78 Un",
       "posted_at": "2026-09-23T15:01:07.032571"
+    },
+    "09006d737ae82765": {
+      "title": "Fralda Babysec Ultrasec XXG 48 unidades",
+      "posted_at": "2026-09-23T16:01:07.559054"
+    },
+    "f7f5ec7058fb7e3b": {
+      "title": "Fralda Babysec Ultrasec M 68 unidades",
+      "posted_at": "2026-09-23T16:01:20.275064"
+    },
+    "336b3294428e557a": {
+      "title": "Fralda Turma da Mônica Baby M 200 unidades",
+      "posted_at": "2026-09-23T16:01:32.870914"
+    },
+    "caac5156f7cae920": {
+      "title": "Sabonete Líquido Bebê Protex Baby Delicate Care 380ml",
+      "posted_at": "2026-09-23T16:01:40.887457"
     }
   },
   "results": [
@@ -19913,6 +19929,38 @@
       "post_id": "993",
       "error": null,
       "at": "2026-09-23T15:01:07.031902"
+    },
+    {
+      "offer_id": "09006d737ae82765",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "994",
+      "error": null,
+      "at": "2026-09-23T16:01:07.558346"
+    },
+    {
+      "offer_id": "f7f5ec7058fb7e3b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "995",
+      "error": null,
+      "at": "2026-09-23T16:01:20.274409"
+    },
+    {
+      "offer_id": "336b3294428e557a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "996",
+      "error": null,
+      "at": "2026-09-23T16:01:32.870287"
+    },
+    {
+      "offer_id": "caac5156f7cae920",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "997",
+      "error": null,
+      "at": "2026-09-23T16:01:40.886853"
     }
   ]
 }

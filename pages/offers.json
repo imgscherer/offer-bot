@@ -1,5 +1,53 @@
 [
   {
+    "id": "caac5156f7cae920",
+    "title": "Sabonete Líquido Bebê Protex Baby Delicate Care 380ml",
+    "price_now": 14.0,
+    "price_was": 25.55,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B08JQND4NB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/250461780917901787918363278471.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-23T16:01:40.887148"
+  },
+  {
+    "id": "336b3294428e557a",
+    "title": "Fralda Turma da Mônica Baby M 200 unidades",
+    "price_now": 119.61,
+    "price_was": 219.58,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/9AOr5dXYZU?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/184746394617901787345486140600.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-23T16:01:32.870576"
+  },
+  {
+    "id": "f7f5ec7058fb7e3b",
+    "title": "Fralda Babysec Ultrasec M 68 unidades",
+    "price_now": 53.59,
+    "price_was": 108.05,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/LnSYj00xr?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/697269200017901781417625086106.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-23T16:01:20.274756"
+  },
+  {
+    "id": "09006d737ae82765",
+    "title": "Fralda Babysec Ultrasec XXG 48 unidades",
+    "price_now": 53.59,
+    "price_was": 108.05,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/3VkUKYAAE4?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/818460233117901781466865352202.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-23T16:01:07.558724"
+  },
+  {
     "id": "3c7896596e3a5476",
     "title": "Huggies Fralda Premium Natural Care M 78 Un",
     "price_now": 87.0,
@@ -94,53 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-23T13:30:41.758692"
-  },
-  {
-    "id": "cb9761fb9b3a70b2",
-    "title": "Bolsa Maternidade Roma M Preto/Bronze - 01 Peça",
-    "price_now": 274.9,
-    "price_was": 450.66,
-    "discount_pct": 39,
-    "url": "https://s.shopee.com.br/20vgOjnEmH",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98r-lmjair1rv6ejd3",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T13:30:40.735503"
-  },
-  {
-    "id": "0549dfa10156d036",
-    "title": "Fralda Babysec Ultrasec G 60 Unidades",
-    "price_now": 53.59,
-    "price_was": 108.05,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/2VrwxDtX96?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/721423425917901681086858045032.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T13:00:57.728060"
-  },
-  {
-    "id": "e1cc5991d0238cfa",
-    "title": "Kit Pampers Lenços Umedecidos Cuidado de Bebê 576 Unidades (12 pacotes com 48 un cada)",
-    "price_now": 71.92,
-    "price_was": 155.0,
-    "discount_pct": 54,
-    "url": "https://s.shopee.com.br/4B0Av7h4d9?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/502469120717901670913660064694.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T12:51:03.752562"
-  },
-  {
-    "id": "e0b27a5f8bfd621e",
-    "title": "Fralda Huggies Tripla Proteção P - 46 fraldas",
-    "price_now": 39.13,
-    "price_was": 55.53,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/931169003017901664627293008454.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T12:41:47.991567"
   }
 ]
