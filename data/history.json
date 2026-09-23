@@ -3907,6 +3907,26 @@
     "0549dfa10156d036": {
       "title": "Fralda Babysec Ultrasec G 60 Unidades",
       "posted_at": "2026-09-23T13:00:57.728539"
+    },
+    "cb9761fb9b3a70b2": {
+      "title": "Bolsa Maternidade Roma M Preto/Bronze - 01 Peça",
+      "posted_at": "2026-09-23T13:30:40.735849"
+    },
+    "32347734cc3724c9": {
+      "title": "Kit Bolsa Maternidade Requinte Verde - 02 Peças",
+      "posted_at": "2026-09-23T13:30:41.759034"
+    },
+    "b7ecf23139c1eeb1": {
+      "title": "Kit Bolsa Maternidade Personalizado Arco Íris Off/Rosê - 02 Peças",
+      "posted_at": "2026-09-23T13:30:43.005304"
+    },
+    "6180ac80bc9c4690": {
+      "title": "Kit Bolsa Mala Maternidade New York Marinho/Bronze - 07 Peças",
+      "posted_at": "2026-09-23T13:30:44.187169"
+    },
+    "d1d94e8634cc412f": {
+      "title": "Mochila Maternidade Menina Celina Borboletas Pérola/Rosa - 01 Peça",
+      "posted_at": "2026-09-23T13:30:46.194613"
     }
   },
   "results": [
@@ -19805,6 +19825,46 @@
       "post_id": "984",
       "error": null,
       "at": "2026-09-23T13:00:57.727737"
+    },
+    {
+      "offer_id": "cb9761fb9b3a70b2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "985",
+      "error": null,
+      "at": "2026-09-23T13:30:40.735107"
+    },
+    {
+      "offer_id": "32347734cc3724c9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "986",
+      "error": null,
+      "at": "2026-09-23T13:30:41.758306"
+    },
+    {
+      "offer_id": "b7ecf23139c1eeb1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "987",
+      "error": null,
+      "at": "2026-09-23T13:30:43.004624"
+    },
+    {
+      "offer_id": "6180ac80bc9c4690",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "988",
+      "error": null,
+      "at": "2026-09-23T13:30:44.186508"
+    },
+    {
+      "offer_id": "d1d94e8634cc412f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "989",
+      "error": null,
+      "at": "2026-09-23T13:30:46.193919"
     }
   ]
 }
