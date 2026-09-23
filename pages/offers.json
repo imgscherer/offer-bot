@@ -1,5 +1,17 @@
 [
   {
+    "id": "5a87f6b9756131c0",
+    "title": "Johnson's Baby Shampoo Infantil Cachos Dos Sonhos 200ml",
+    "price_now": 12.0,
+    "price_was": 24.79,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B0789TG4TQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/175194224217901816092543873488.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-23T16:50:43.911498"
+  },
+  {
     "id": "caac5156f7cae920",
     "title": "Sabonete Líquido Bebê Protex Baby Delicate Care 380ml",
     "price_now": 14.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-23T13:30:43.004937"
-  },
-  {
-    "id": "32347734cc3724c9",
-    "title": "Kit Bolsa Maternidade Requinte Verde - 02 Peças",
-    "price_now": 429.9,
-    "price_was": 704.75,
-    "discount_pct": 39,
-    "url": "https://s.shopee.com.br/1Ac13uqq5",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-loo578qj5ug2ef",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T13:30:41.758692"
   }
 ]
