@@ -3931,6 +3931,18 @@
     "88c68cef9410ffa7": {
       "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
       "posted_at": "2026-09-23T14:50:43.587340"
+    },
+    "7f31c5910c12f557": {
+      "title": "100 Mini Pezinhos Saida  de Maternidade, Chá Revelação, Chá de Fralda,Cha de bebê ( 50 PARES )",
+      "posted_at": "2026-09-23T15:00:48.426720"
+    },
+    "6224cf027418b894": {
+      "title": "Calça jeans wide leg infantil juvenil 10 aos 16",
+      "posted_at": "2026-09-23T15:00:57.360136"
+    },
+    "3c7896596e3a5476": {
+      "title": "Huggies Fralda Premium Natural Care M 78 Un",
+      "posted_at": "2026-09-23T15:01:07.032571"
     }
   },
   "results": [
@@ -19877,6 +19889,30 @@
       "post_id": "990",
       "error": null,
       "at": "2026-09-23T14:50:43.586653"
+    },
+    {
+      "offer_id": "7f31c5910c12f557",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "991",
+      "error": null,
+      "at": "2026-09-23T15:00:48.426042"
+    },
+    {
+      "offer_id": "6224cf027418b894",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "992",
+      "error": null,
+      "at": "2026-09-23T15:00:57.359424"
+    },
+    {
+      "offer_id": "3c7896596e3a5476",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "993",
+      "error": null,
+      "at": "2026-09-23T15:01:07.031902"
     }
   ]
 }
