@@ -3855,6 +3855,14 @@
     "5b394630896b6643": {
       "title": "Fralda Pampers Premium Care Pants Tamanho G, Fácil De Vestir, 68 Unidades",
       "posted_at": "2026-09-23T03:51:25.626931"
+    },
+    "dbcc18d3a7705d9a": {
+      "title": "Personal Fralda Baby Premium Pants M, 48 Unidades",
+      "posted_at": "2026-09-23T11:00:52.629994"
+    },
+    "46a9a4494657ddbf": {
+      "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
+      "posted_at": "2026-09-23T11:01:10.621316"
     }
   },
   "results": [
@@ -19617,6 +19625,22 @@
       "post_id": "971",
       "error": null,
       "at": "2026-09-23T03:51:25.626278"
+    },
+    {
+      "offer_id": "dbcc18d3a7705d9a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "972",
+      "error": null,
+      "at": "2026-09-23T11:00:52.629150"
+    },
+    {
+      "offer_id": "46a9a4494657ddbf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "973",
+      "error": null,
+      "at": "2026-09-23T11:01:10.620616"
     }
   ]
 }

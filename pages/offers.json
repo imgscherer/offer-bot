@@ -1,5 +1,29 @@
 [
   {
+    "id": "46a9a4494657ddbf",
+    "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
+    "price_now": 161.0,
+    "price_was": 246.01,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/950846374017901608502021572878.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-23T11:01:10.620923"
+  },
+  {
+    "id": "dbcc18d3a7705d9a",
+    "title": "Personal Fralda Baby Premium Pants M, 48 Unidades",
+    "price_now": 29.99,
+    "price_was": 80.03,
+    "discount_pct": 63,
+    "url": "https://www.amazon.com.br/dp/B0BGM6P1SF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/234219728417901606707747801860.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-23T11:00:52.629535"
+  },
+  {
     "id": "5b394630896b6643",
     "title": "Fralda Pampers Premium Care Pants Tamanho G, Fácil De Vestir, 68 Unidades",
     "price_now": 93.9,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-22T18:31:02.371240"
-  },
-  {
-    "id": "f534bf78c9ee5ff2",
-    "title": "Kit Tênis Infantil Calce Fácil + Sandália Babuche (Tam. 22 ao 32, 4 cores)",
-    "price_now": 58.9,
-    "price_was": 108.91,
-    "discount_pct": 46,
-    "url": "https://s.shopee.com.br/4qFqSkH7GB?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/791919030317900992912524957880.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-22T18:01:58.205856"
-  },
-  {
-    "id": "6f4f02e0b41170d4",
-    "title": "Tênis Infantil Lilo Stitch (Tam. 26 ao 33, 4 Cores)",
-    "price_now": 62.0,
-    "price_was": 99.98,
-    "discount_pct": 38,
-    "url": "https://s.shopee.com.br/8fSYyHtWTh?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/589886991517900962311312631609.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-22T17:00:55.743404"
   }
 ]
