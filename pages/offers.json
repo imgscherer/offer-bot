@@ -1,5 +1,17 @@
 [
   {
+    "id": "8bfb233d92f9dae3",
+    "title": "Fantasia Infantil (Diversas Opções)",
+    "price_now": 35.99,
+    "price_was": 89.97,
+    "discount_pct": 60,
+    "url": "https://s.shopee.com.br/9AOrJ83VAZ?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/913366964117901905221824315603.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-23T19:11:01.564718"
+  },
+  {
     "id": "37c2ab4395f7057c",
     "title": "Personal Fralda Baby Total Protect Pants M 28 Unidades",
     "price_now": 26.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-23T14:50:43.587024"
-  },
-  {
-    "id": "d1d94e8634cc412f",
-    "title": "Mochila Maternidade Menina Celina Borboletas Pérola/Rosa - 01 Peça",
-    "price_now": 294.9,
-    "price_was": 427.39,
-    "discount_pct": 31,
-    "url": "https://s.shopee.com.br/1LfzbVpm8D",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc7wjdb80jqj8f",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T13:30:46.194232"
   }
 ]

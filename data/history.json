@@ -3971,6 +3971,10 @@
     "37c2ab4395f7057c": {
       "title": "Personal Fralda Baby Total Protect Pants M 28 Unidades",
       "posted_at": "2026-09-23T18:31:01.326882"
+    },
+    "8bfb233d92f9dae3": {
+      "title": "Fantasia Infantil (Diversas Opções)",
+      "posted_at": "2026-09-23T19:11:01.565034"
     }
   },
   "results": [
@@ -19997,6 +20001,14 @@
       "post_id": "1000",
       "error": null,
       "at": "2026-09-23T18:31:01.326009"
+    },
+    {
+      "offer_id": "8bfb233d92f9dae3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1001",
+      "error": null,
+      "at": "2026-09-23T19:11:01.564350"
     }
   ]
 }
