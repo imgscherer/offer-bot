@@ -3975,6 +3975,10 @@
     "8bfb233d92f9dae3": {
       "title": "Fantasia Infantil (Diversas Opções)",
       "posted_at": "2026-09-23T19:11:01.565034"
+    },
+    "0dea56ef38917c0a": {
+      "title": "Roupa Fantasia Infantil Menino Aranha C Máscara Tecido Festa",
+      "posted_at": "2026-09-23T22:50:56.018360"
     }
   },
   "results": [
@@ -20009,6 +20013,14 @@
       "post_id": "1001",
       "error": null,
       "at": "2026-09-23T19:11:01.564350"
+    },
+    {
+      "offer_id": "0dea56ef38917c0a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1002",
+      "error": null,
+      "at": "2026-09-23T22:50:56.017780"
     }
   ]
 }
