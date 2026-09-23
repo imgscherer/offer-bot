@@ -1,5 +1,17 @@
 [
   {
+    "id": "3f3e36e47423b071",
+    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
+    "price_now": 31.62,
+    "price_was": 52.65,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/341275295917901265441552183755.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-23T01:31:24.352603"
+  },
+  {
     "id": "8e64230f7d5c4a15",
     "title": "Kit 12 Caixas Massinha De Modelar Leo&Leo 144UN 180g Infantil Escolar 12 Cores Não tóxica",
     "price_now": 61.98,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-22T14:30:57.792547"
-  },
-  {
-    "id": "d11a93169ece1f13",
-    "title": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha M 72 Unidades",
-    "price_now": 62.0,
-    "price_was": 101.58,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/347994502517900862961488730089.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-22T14:20:49.624026"
   }
 ]

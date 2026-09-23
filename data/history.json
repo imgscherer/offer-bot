@@ -3843,6 +3843,10 @@
     "8e64230f7d5c4a15": {
       "title": "Kit 12 Caixas Massinha De Modelar Leo&Leo 144UN 180g Infantil Escolar 12 Cores Não tóxica",
       "posted_at": "2026-09-22T23:31:00.585810"
+    },
+    "3f3e36e47423b071": {
+      "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
+      "posted_at": "2026-09-23T01:31:24.352914"
     }
   },
   "results": [
@@ -19581,6 +19585,14 @@
       "post_id": "968",
       "error": null,
       "at": "2026-09-22T23:31:00.585252"
+    },
+    {
+      "offer_id": "3f3e36e47423b071",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "969",
+      "error": null,
+      "at": "2026-09-23T01:31:24.352263"
     }
   ]
 }
