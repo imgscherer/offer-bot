@@ -3963,6 +3963,10 @@
     "5a87f6b9756131c0": {
       "title": "Johnson's Baby Shampoo Infantil Cachos Dos Sonhos 200ml",
       "posted_at": "2026-09-23T16:50:43.911831"
+    },
+    "7b0f64fb6186c51d": {
+      "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
+      "posted_at": "2026-09-23T18:00:54.203845"
     }
   },
   "results": [
@@ -19973,6 +19977,14 @@
       "post_id": "998",
       "error": null,
       "at": "2026-09-23T16:50:43.911154"
+    },
+    {
+      "offer_id": "7b0f64fb6186c51d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "999",
+      "error": null,
+      "at": "2026-09-23T18:00:54.203086"
     }
   ]
 }
