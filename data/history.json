@@ -3879,6 +3879,26 @@
     "04cbd6f72c76407b": {
       "title": "Fralda Cremer Magic Care Hiper M 68 unidades",
       "posted_at": "2026-09-23T12:31:14.843973"
+    },
+    "8ab874bc62ea1c70": {
+      "title": "Lenços Umedecidos Pampers Carícia de Bebê com 576 unidades",
+      "posted_at": "2026-09-23T12:40:56.225401"
+    },
+    "873c645e79830939": {
+      "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
+      "posted_at": "2026-09-23T12:41:04.746674"
+    },
+    "bb195538349517a5": {
+      "title": "Fralda Pants Huggies Proteção Acolchoada G 30 Unidades",
+      "posted_at": "2026-09-23T12:41:20.932172"
+    },
+    "00e41e6125992330": {
+      "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades com absorção especial para cocô líquido e i",
+      "posted_at": "2026-09-23T12:41:34.870570"
+    },
+    "e0b27a5f8bfd621e": {
+      "title": "Fralda Huggies Tripla Proteção P - 46 fraldas",
+      "posted_at": "2026-09-23T12:41:47.991995"
     }
   },
   "results": [
@@ -19721,6 +19741,46 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-23T12:31:20.882933"
+    },
+    {
+      "offer_id": "8ab874bc62ea1c70",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "978",
+      "error": null,
+      "at": "2026-09-23T12:40:56.224563"
+    },
+    {
+      "offer_id": "873c645e79830939",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "979",
+      "error": null,
+      "at": "2026-09-23T12:41:04.745864"
+    },
+    {
+      "offer_id": "bb195538349517a5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "980",
+      "error": null,
+      "at": "2026-09-23T12:41:20.931330"
+    },
+    {
+      "offer_id": "00e41e6125992330",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "981",
+      "error": null,
+      "at": "2026-09-23T12:41:34.869765"
+    },
+    {
+      "offer_id": "e0b27a5f8bfd621e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "982",
+      "error": null,
+      "at": "2026-09-23T12:41:47.991258"
     }
   ]
 }
