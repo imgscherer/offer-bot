@@ -3979,6 +3979,10 @@
     "0dea56ef38917c0a": {
       "title": "Roupa Fantasia Infantil Menino Aranha C Máscara Tecido Festa",
       "posted_at": "2026-09-23T22:50:56.018360"
+    },
+    "a8f5ce65e804a262": {
+      "title": "Fralda Babysec UltraSec XG 56 unidades",
+      "posted_at": "2026-09-24T11:00:56.339591"
     }
   },
   "results": [
@@ -20021,6 +20025,14 @@
       "post_id": "1002",
       "error": null,
       "at": "2026-09-23T22:50:56.017780"
+    },
+    {
+      "offer_id": "a8f5ce65e804a262",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1003",
+      "error": null,
+      "at": "2026-09-24T11:00:56.338853"
     }
   ]
 }
