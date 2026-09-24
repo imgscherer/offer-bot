@@ -1,5 +1,17 @@
 [
   {
+    "id": "bd8ef68e7574d700",
+    "title": "Mili Fralda Ultra Seca Jumbinho M 1X22",
+    "price_now": 18.99,
+    "price_was": 33.22,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B07G9RQHY7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/951465644417902688462501908956.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-24T17:10:52.765293"
+  },
+  {
     "id": "085d4987d922a624",
     "title": "Condicionador Infantil Johnson&#39;s Gotas De Brilho, 200ml",
     "price_now": 13.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-23T19:11:01.564718"
-  },
-  {
-    "id": "37c2ab4395f7057c",
-    "title": "Personal Fralda Baby Total Protect Pants M 28 Unidades",
-    "price_now": 26.0,
-    "price_was": 39.49,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/943858716417901870116943643663.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T18:31:01.326395"
   }
 ]
