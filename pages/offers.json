@@ -1,5 +1,17 @@
 [
   {
+    "id": "0eeb1284a97d99ac",
+    "title": "Fralda Pom Pom Protek XG 38 unidades",
+    "price_now": 35.24,
+    "price_was": 50.29,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/455623128317902800886152918814.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-24T20:20:52.200326"
+  },
+  {
     "id": "26341eefd872e93f",
     "title": "Escorredor De Mamadeira Clingo",
     "price_now": 30.27,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-24T14:20:51.524712"
-  },
-  {
-    "id": "fa8efb57526db6e0",
-    "title": "Fralda Pampers Premium Care P 40 Unidades",
-    "price_now": 49.0,
-    "price_was": 71.67,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/868340423217902567297864475332.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-24T13:50:49.869345"
   }
 ]

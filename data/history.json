@@ -4043,6 +4043,10 @@
     "26341eefd872e93f": {
       "title": "Escorredor De Mamadeira Clingo",
       "posted_at": "2026-09-24T19:50:45.395172"
+    },
+    "0eeb1284a97d99ac": {
+      "title": "Fralda Pom Pom Protek XG 38 unidades",
+      "posted_at": "2026-09-24T20:20:52.200608"
     }
   },
   "results": [
@@ -20357,6 +20361,14 @@
       "post_id": "1018",
       "error": null,
       "at": "2026-09-24T19:50:45.394430"
+    },
+    {
+      "offer_id": "0eeb1284a97d99ac",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1019",
+      "error": null,
+      "at": "2026-09-24T20:20:52.200041"
     }
   ]
 }
