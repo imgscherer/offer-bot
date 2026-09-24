@@ -1,5 +1,17 @@
 [
   {
+    "id": "10ed1887e3fb7168",
+    "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
+    "price_now": 44.0,
+    "price_was": 77.27,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/707947621917902753883371310130.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-24T18:50:48.178249"
+  },
+  {
     "id": "fe9bb7f2da36159d",
     "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
     "price_now": 53.1,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-24T13:01:35.425125"
-  },
-  {
-    "id": "b0df84e2e9c7fc59",
-    "title": "Boia com Cobertura Inflável Infantil (Diversas cores)",
-    "price_now": 29.9,
-    "price_was": 74.75,
-    "discount_pct": 60,
-    "url": "https://s.shopee.com.br/113AhaWbug?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/584851275117902512168310887017.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-24T12:10:54.184085"
   }
 ]
