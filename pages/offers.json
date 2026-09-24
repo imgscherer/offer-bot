@@ -1,5 +1,17 @@
 [
   {
+    "id": "eef2feca0e2a1d86",
+    "title": "Johnson's Baby Shampoo Infantil Para Cabelos Cacheados Cachos Dos Sonhos, 400ml",
+    "price_now": 17.99,
+    "price_was": 26.59,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B07DHRLBBH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/747468387517902491681639334970.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-24T11:30:46.417061"
+  },
+  {
     "id": "a8f5ce65e804a262",
     "title": "Fralda Babysec UltraSec XG 56 unidades",
     "price_now": 47.69,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-23T15:01:07.032239"
-  },
-  {
-    "id": "6224cf027418b894",
-    "title": "Calça jeans wide leg infantil juvenil 10 aos 16",
-    "price_now": 31.91,
-    "price_was": 79.77,
-    "discount_pct": 60,
-    "url": "https://s.shopee.com.br/7Adme70v0o?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/945234551517901753713102365754.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T15:00:57.359770"
   }
 ]

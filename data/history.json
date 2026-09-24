@@ -3983,6 +3983,10 @@
     "a8f5ce65e804a262": {
       "title": "Fralda Babysec UltraSec XG 56 unidades",
       "posted_at": "2026-09-24T11:00:56.339591"
+    },
+    "eef2feca0e2a1d86": {
+      "title": "Johnson's Baby Shampoo Infantil Para Cabelos Cacheados Cachos Dos Sonhos, 400ml",
+      "posted_at": "2026-09-24T11:30:46.417432"
     }
   },
   "results": [
@@ -20033,6 +20037,14 @@
       "post_id": "1003",
       "error": null,
       "at": "2026-09-24T11:00:56.338853"
+    },
+    {
+      "offer_id": "eef2feca0e2a1d86",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1004",
+      "error": null,
+      "at": "2026-09-24T11:30:46.416773"
     }
   ]
 }
