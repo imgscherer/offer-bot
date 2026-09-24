@@ -4011,6 +4011,10 @@
     "aec3fa70f62b3cdc": {
       "title": "Fralda Pants Huggies Proteção Acolchoada G 30 Unidades",
       "posted_at": "2026-09-24T14:30:49.821976"
+    },
+    "085d4987d922a624": {
+      "title": "Condicionador Infantil Johnson&#39;s Gotas De Brilho, 200ml",
+      "posted_at": "2026-09-24T14:40:43.901375"
     }
   },
   "results": [
@@ -20261,6 +20265,14 @@
       "post_id": "1010",
       "error": null,
       "at": "2026-09-24T14:30:49.821393"
+    },
+    {
+      "offer_id": "085d4987d922a624",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1011",
+      "error": null,
+      "at": "2026-09-24T14:40:43.900636"
     }
   ]
 }

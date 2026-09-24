@@ -1,5 +1,17 @@
 [
   {
+    "id": "085d4987d922a624",
+    "title": "Condicionador Infantil Johnson&#39;s Gotas De Brilho, 200ml",
+    "price_now": 13.0,
+    "price_was": 28.89,
+    "discount_pct": 55,
+    "url": "https://www.amazon.com.br/dp/B077C4JWCK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/544347242617902598509987516596.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-24T14:40:43.900967"
+  },
+  {
     "id": "aec3fa70f62b3cdc",
     "title": "Fralda Pants Huggies Proteção Acolchoada G 30 Unidades",
     "price_now": 33.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-23T18:31:01.326395"
-  },
-  {
-    "id": "7b0f64fb6186c51d",
-    "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
-    "price_now": 14.99,
-    "price_was": 25.55,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B08JQND4NB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/942356613517901853896434891433.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T18:00:54.203430"
   }
 ]
