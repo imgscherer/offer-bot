@@ -1,5 +1,17 @@
 [
   {
+    "id": "8494e146fee9198a",
+    "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
+    "price_now": 166.0,
+    "price_was": 246.01,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/755843108817902538492470590534.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-24T13:01:35.425125"
+  },
+  {
     "id": "b0df84e2e9c7fc59",
     "title": "Boia com Cobertura Inflável Infantil (Diversas cores)",
     "price_now": 29.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-23T16:01:20.274756"
-  },
-  {
-    "id": "09006d737ae82765",
-    "title": "Fralda Babysec Ultrasec XXG 48 unidades",
-    "price_now": 53.59,
-    "price_was": 108.05,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/3VkUKYAAE4?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/818460233117901781466865352202.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T16:01:07.558724"
   }
 ]
