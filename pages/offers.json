@@ -1,5 +1,17 @@
 [
   {
+    "id": "fe9bb7f2da36159d",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
+    "price_now": 53.1,
+    "price_was": 77.37,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/113521143517902735898185064935.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-24T18:30:55.713424"
+  },
+  {
     "id": "08062866b49c8578",
     "title": "Carrinho de Passeio CBebê Conforto TS NIVI Maxi Baby (Preto)",
     "price_now": 685.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-24T12:10:54.184085"
-  },
-  {
-    "id": "eef2feca0e2a1d86",
-    "title": "Johnson's Baby Shampoo Infantil Para Cabelos Cacheados Cachos Dos Sonhos, 400ml",
-    "price_now": 17.99,
-    "price_was": 26.59,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B07DHRLBBH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/747468387517902491681639334970.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-24T11:30:46.417061"
   }
 ]

@@ -4031,6 +4031,10 @@
     "08062866b49c8578": {
       "title": "Carrinho de Passeio CBebê Conforto TS NIVI Maxi Baby (Preto)",
       "posted_at": "2026-09-24T18:20:42.530992"
+    },
+    "fe9bb7f2da36159d": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
+      "posted_at": "2026-09-24T18:30:55.713725"
     }
   },
   "results": [
@@ -20321,6 +20325,14 @@
       "post_id": "1015",
       "error": null,
       "at": "2026-09-24T18:20:42.530284"
+    },
+    {
+      "offer_id": "fe9bb7f2da36159d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1016",
+      "error": null,
+      "at": "2026-09-24T18:30:55.713094"
     }
   ]
 }
