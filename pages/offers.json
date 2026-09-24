@@ -1,5 +1,17 @@
 [
   {
+    "id": "fa8efb57526db6e0",
+    "title": "Fralda Pampers Premium Care P 40 Unidades",
+    "price_now": 49.0,
+    "price_was": 71.67,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/868340423217902567297864475332.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-24T13:50:49.869345"
+  },
+  {
     "id": "8494e146fee9198a",
     "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
     "price_now": 166.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-23T16:01:32.870576"
-  },
-  {
-    "id": "f7f5ec7058fb7e3b",
-    "title": "Fralda Babysec Ultrasec M 68 unidades",
-    "price_now": 53.59,
-    "price_was": 108.05,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/LnSYj00xr?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/697269200017901781417625086106.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T16:01:20.274756"
   }
 ]
