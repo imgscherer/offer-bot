@@ -4019,6 +4019,14 @@
     "bd8ef68e7574d700": {
       "title": "Mili Fralda Ultra Seca Jumbinho M 1X22",
       "posted_at": "2026-09-24T17:10:52.765733"
+    },
+    "a02b5cfd09815049": {
+      "title": "Fralda Pampers Confort Sec P 50 unidades",
+      "posted_at": "2026-09-24T18:00:57.899698"
+    },
+    "6fbf1ef76380bae7": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe M 48 unidades",
+      "posted_at": "2026-09-24T18:01:08.174990"
     }
   },
   "results": [
@@ -20285,6 +20293,22 @@
       "post_id": "1012",
       "error": null,
       "at": "2026-09-24T17:10:52.764932"
+    },
+    {
+      "offer_id": "a02b5cfd09815049",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1013",
+      "error": null,
+      "at": "2026-09-24T18:00:57.899032"
+    },
+    {
+      "offer_id": "6fbf1ef76380bae7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1014",
+      "error": null,
+      "at": "2026-09-24T18:01:08.174255"
     }
   ]
 }

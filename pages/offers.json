@@ -1,5 +1,29 @@
 [
   {
+    "id": "6fbf1ef76380bae7",
+    "title": "Fralda Pom Pom Protek Proteção De Mãe M 48 unidades",
+    "price_now": 35.24,
+    "price_was": 50.29,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/770302995617902727008644206408.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-24T18:01:08.174554"
+  },
+  {
+    "id": "a02b5cfd09815049",
+    "title": "Fralda Pampers Confort Sec P 50 unidades",
+    "price_now": 44.99,
+    "price_was": 77.27,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/949528220917902716752475967708.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-24T18:00:57.899360"
+  },
+  {
     "id": "bd8ef68e7574d700",
     "title": "Mili Fralda Ultra Seca Jumbinho M 1X22",
     "price_now": 18.99,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-24T11:00:56.339162"
-  },
-  {
-    "id": "0dea56ef38917c0a",
-    "title": "Roupa Fantasia Infantil Menino Aranha C Máscara Tecido Festa",
-    "price_now": 27.99,
-    "price_was": 66.99,
-    "discount_pct": 58,
-    "url": "https://s.shopee.com.br/2LYXOQhEWI?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/513355427617902026205667263277.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T22:50:56.018092"
-  },
-  {
-    "id": "8bfb233d92f9dae3",
-    "title": "Fantasia Infantil (Diversas Opções)",
-    "price_now": 35.99,
-    "price_was": 89.97,
-    "discount_pct": 60,
-    "url": "https://s.shopee.com.br/9AOrJ83VAZ?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/913366964117901905221824315603.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T19:11:01.564718"
   }
 ]
