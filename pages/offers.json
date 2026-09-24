@@ -1,5 +1,17 @@
 [
   {
+    "id": "aec3fa70f62b3cdc",
+    "title": "Fralda Pants Huggies Proteção Acolchoada G 30 Unidades",
+    "price_now": 33.0,
+    "price_was": 65.29,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07FN9FRVM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/453097298017902593718619632589.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-24T14:30:49.821716"
+  },
+  {
     "id": "3e1149d78cec1ac4",
     "title": "Fralda Huggies Proteção Dia XXG 44 unidades",
     "price_now": 48.48,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-23T18:00:54.203430"
-  },
-  {
-    "id": "5a87f6b9756131c0",
-    "title": "Johnson's Baby Shampoo Infantil Cachos Dos Sonhos 200ml",
-    "price_now": 12.0,
-    "price_was": 24.79,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B0789TG4TQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/175194224217901816092543873488.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T16:50:43.911498"
   }
 ]

@@ -4007,6 +4007,10 @@
     "3e1149d78cec1ac4": {
       "title": "Fralda Huggies Proteção Dia XXG 44 unidades",
       "posted_at": "2026-09-24T14:21:07.372962"
+    },
+    "aec3fa70f62b3cdc": {
+      "title": "Fralda Pants Huggies Proteção Acolchoada G 30 Unidades",
+      "posted_at": "2026-09-24T14:30:49.821976"
     }
   },
   "results": [
@@ -20249,6 +20253,14 @@
       "post_id": "1009",
       "error": null,
       "at": "2026-09-24T14:21:07.371990"
+    },
+    {
+      "offer_id": "aec3fa70f62b3cdc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1010",
+      "error": null,
+      "at": "2026-09-24T14:30:49.821393"
     }
   ]
 }
