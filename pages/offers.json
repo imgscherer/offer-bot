@@ -1,5 +1,17 @@
 [
   {
+    "id": "08062866b49c8578",
+    "title": "Carrinho de Passeio CBebê Conforto TS NIVI Maxi Baby (Preto)",
+    "price_now": 685.0,
+    "price_was": 1399.9,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B0FMFWWD8H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/951708257117902732904793559130.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-24T18:20:42.530643"
+  },
+  {
     "id": "6fbf1ef76380bae7",
     "title": "Fralda Pom Pom Protek Proteção De Mãe M 48 unidades",
     "price_now": 35.24,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-24T11:30:46.417061"
-  },
-  {
-    "id": "a8f5ce65e804a262",
-    "title": "Fralda Babysec UltraSec XG 56 unidades",
-    "price_now": 47.69,
-    "price_was": 101.58,
-    "discount_pct": 53,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/384024272017902465381542898809.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-24T11:00:56.339162"
   }
 ]

@@ -4027,6 +4027,10 @@
     "6fbf1ef76380bae7": {
       "title": "Fralda Pom Pom Protek Proteção De Mãe M 48 unidades",
       "posted_at": "2026-09-24T18:01:08.174990"
+    },
+    "08062866b49c8578": {
+      "title": "Carrinho de Passeio CBebê Conforto TS NIVI Maxi Baby (Preto)",
+      "posted_at": "2026-09-24T18:20:42.530992"
     }
   },
   "results": [
@@ -20309,6 +20313,14 @@
       "post_id": "1014",
       "error": null,
       "at": "2026-09-24T18:01:08.174255"
+    },
+    {
+      "offer_id": "08062866b49c8578",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1015",
+      "error": null,
+      "at": "2026-09-24T18:20:42.530284"
     }
   ]
 }
