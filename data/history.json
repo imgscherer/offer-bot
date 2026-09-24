@@ -4039,6 +4039,10 @@
     "10ed1887e3fb7168": {
       "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
       "posted_at": "2026-09-24T18:50:48.178652"
+    },
+    "26341eefd872e93f": {
+      "title": "Escorredor De Mamadeira Clingo",
+      "posted_at": "2026-09-24T19:50:45.395172"
     }
   },
   "results": [
@@ -20345,6 +20349,14 @@
       "post_id": "1017",
       "error": null,
       "at": "2026-09-24T18:50:48.177817"
+    },
+    {
+      "offer_id": "26341eefd872e93f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1018",
+      "error": null,
+      "at": "2026-09-24T19:50:45.394430"
     }
   ]
 }

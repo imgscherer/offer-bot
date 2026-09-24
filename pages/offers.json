@@ -1,5 +1,17 @@
 [
   {
+    "id": "26341eefd872e93f",
+    "title": "Escorredor De Mamadeira Clingo",
+    "price_now": 30.27,
+    "price_was": 49.9,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B07MWT9NND?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/268418794117902787698815937961.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-24T19:50:45.394732"
+  },
+  {
     "id": "10ed1887e3fb7168",
     "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
     "price_now": 44.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-24T13:50:49.869345"
-  },
-  {
-    "id": "8494e146fee9198a",
-    "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
-    "price_now": 166.0,
-    "price_was": 246.01,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/755843108817902538492470590534.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-24T13:01:35.425125"
   }
 ]
