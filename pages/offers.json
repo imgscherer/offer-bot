@@ -1,5 +1,29 @@
 [
   {
+    "id": "3e1149d78cec1ac4",
+    "title": "Fralda Huggies Proteção Dia XXG 44 unidades",
+    "price_now": 48.48,
+    "price_was": 72.65,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0CJCJ39JT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/421276489317902587177572105908.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-24T14:21:07.372321"
+  },
+  {
+    "id": "a175b144492dea85",
+    "title": "Carrinho Zap Metal Burigotto",
+    "price_now": 559.0,
+    "price_was": 929.0,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0C5NQFRGB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/698803458617902587093689029654.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-24T14:20:51.524712"
+  },
+  {
     "id": "fa8efb57526db6e0",
     "title": "Fralda Pampers Premium Care P 40 Unidades",
     "price_now": 49.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-23T16:50:43.911498"
-  },
-  {
-    "id": "caac5156f7cae920",
-    "title": "Sabonete Líquido Bebê Protex Baby Delicate Care 380ml",
-    "price_now": 14.0,
-    "price_was": 25.55,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B08JQND4NB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/250461780917901787918363278471.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T16:01:40.887148"
-  },
-  {
-    "id": "336b3294428e557a",
-    "title": "Fralda Turma da Mônica Baby M 200 unidades",
-    "price_now": 119.61,
-    "price_was": 219.58,
-    "discount_pct": 46,
-    "url": "https://s.shopee.com.br/9AOr5dXYZU?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/184746394617901787345486140600.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-23T16:01:32.870576"
   }
 ]

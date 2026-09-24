@@ -3999,6 +3999,14 @@
     "fa8efb57526db6e0": {
       "title": "Fralda Pampers Premium Care P 40 Unidades",
       "posted_at": "2026-09-24T13:50:49.869685"
+    },
+    "a175b144492dea85": {
+      "title": "Carrinho Zap Metal Burigotto",
+      "posted_at": "2026-09-24T14:20:51.525320"
+    },
+    "3e1149d78cec1ac4": {
+      "title": "Fralda Huggies Proteção Dia XXG 44 unidades",
+      "posted_at": "2026-09-24T14:21:07.372962"
     }
   },
   "results": [
@@ -20217,6 +20225,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-24T14:10:40.576676"
+    },
+    {
+      "offer_id": "22fa4d6175139689",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-24T14:20:42.145806"
+    },
+    {
+      "offer_id": "a175b144492dea85",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1008",
+      "error": null,
+      "at": "2026-09-24T14:20:51.524371"
+    },
+    {
+      "offer_id": "3e1149d78cec1ac4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1009",
+      "error": null,
+      "at": "2026-09-24T14:21:07.371990"
     }
   ]
 }
