@@ -1,5 +1,17 @@
 [
   {
+    "id": "44f90b925a35a00f",
+    "title": "Fralda Huggies Tripla Proteção Hiper XXG 3 x 66 Fraldas (198 Tiras)",
+    "price_now": 190.0,
+    "price_was": 275.51,
+    "discount_pct": 31,
+    "url": "https://s.shopee.com.br/9KiKDzeTUa?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/978190413617903377919672625086.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-25T12:20:57.424774"
+  },
+  {
     "id": "5118d33b3cde078a",
     "title": "Fralda Babysec Ultrasec M 68 unidades",
     "price_now": 62.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-25T00:20:46.764036"
-  },
-  {
-    "id": "0eeb1284a97d99ac",
-    "title": "Fralda Pom Pom Protek XG 38 unidades",
-    "price_now": 35.24,
-    "price_was": 50.29,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/455623128317902800886152918814.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-24T20:20:52.200326"
   }
 ]

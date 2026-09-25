@@ -4091,6 +4091,10 @@
     "5118d33b3cde078a": {
       "title": "Fralda Babysec Ultrasec M 68 unidades",
       "posted_at": "2026-09-25T12:01:05.351715"
+    },
+    "44f90b925a35a00f": {
+      "title": "Fralda Huggies Tripla Proteção Hiper XXG 3 x 66 Fraldas (198 Tiras)",
+      "posted_at": "2026-09-25T12:20:57.425102"
     }
   },
   "results": [
@@ -20501,6 +20505,14 @@
       "post_id": "1030",
       "error": null,
       "at": "2026-09-25T12:01:05.350836"
+    },
+    {
+      "offer_id": "44f90b925a35a00f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1031",
+      "error": null,
+      "at": "2026-09-25T12:20:57.424414"
     }
   ]
 }
