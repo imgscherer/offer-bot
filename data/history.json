@@ -4087,6 +4087,10 @@
     "a4de0ff6b4f563d5": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
       "posted_at": "2026-09-25T11:41:03.512605"
+    },
+    "5118d33b3cde078a": {
+      "title": "Fralda Babysec Ultrasec M 68 unidades",
+      "posted_at": "2026-09-25T12:01:05.351715"
     }
   },
   "results": [
@@ -20489,6 +20493,14 @@
       "post_id": "1029",
       "error": null,
       "at": "2026-09-25T11:41:03.511843"
+    },
+    {
+      "offer_id": "5118d33b3cde078a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1030",
+      "error": null,
+      "at": "2026-09-25T12:01:05.350836"
     }
   ]
 }
