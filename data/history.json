@@ -4119,6 +4119,10 @@
     "dca27ccb01474729": {
       "title": "Sandália Babuche Infantil com Enfeites Metalizados Especiais (Tam. 25 ao 36, Diversas cores)",
       "posted_at": "2026-09-25T18:31:05.420720"
+    },
+    "e575975869b288ba": {
+      "title": "Kit Mamadeira My 1st NUK 150ml e 300ml 2 Unidades",
+      "posted_at": "2026-09-25T19:20:47.575221"
     }
   },
   "results": [
@@ -20585,6 +20589,14 @@
       "post_id": "1037",
       "error": null,
       "at": "2026-09-25T18:31:05.419660"
+    },
+    {
+      "offer_id": "e575975869b288ba",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1038",
+      "error": null,
+      "at": "2026-09-25T19:20:47.574490"
     }
   ]
 }

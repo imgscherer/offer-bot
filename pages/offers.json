@@ -1,5 +1,17 @@
 [
   {
+    "id": "e575975869b288ba",
+    "title": "Kit Mamadeira My 1st NUK 150ml e 300ml 2 Unidades",
+    "price_now": 60.33,
+    "price_was": 120.77,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B07FPQVWNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/899730237017903637722758739480.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-25T19:20:47.574843"
+  },
+  {
     "id": "dca27ccb01474729",
     "title": "Sandália Babuche Infantil com Enfeites Metalizados Especiais (Tam. 25 ao 36, Diversas cores)",
     "price_now": 29.5,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-25T11:01:00.274448"
-  },
-  {
-    "id": "da80433f3771ce3c",
-    "title": "Carrinho Bebe Passeio Reclinável Vira Berco Leve Dobrável Compacto NIVI  Maxi Baby",
-    "price_now": 519.99,
-    "price_was": 799.98,
-    "discount_pct": 35,
-    "url": "https://s.shopee.com.br/AUuHXqbtEi",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mls87813r0uf3c",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-25T11:00:57.786567"
   }
 ]
