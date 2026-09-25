@@ -1,5 +1,17 @@
 [
   {
+    "id": "b78a277153af0b1e",
+    "title": "Mochila com Guia Infantil, Tigre",
+    "price_now": 28.0,
+    "price_was": 85.9,
+    "discount_pct": 67,
+    "url": "https://www.amazon.com.br/dp/B0CXDZKZKM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/630090796517903674893084164925.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-25T20:20:45.732874"
+  },
+  {
     "id": "e575975869b288ba",
     "title": "Kit Mamadeira My 1st NUK 150ml e 300ml 2 Unidades",
     "price_now": 60.33,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-25T11:40:46.776899"
-  },
-  {
-    "id": "5e1698df566dab1c",
-    "title": "Carrinho Bebe Passeio Travel System  Bebe Conforto Compacto Seguro Recém Nascido Nivi  Maxi Baby",
-    "price_now": 949.99,
-    "price_was": 1397.04,
-    "discount_pct": 32,
-    "url": "https://s.shopee.com.br/7AdpZioa0G",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mepp0eqcw7wha0",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-25T11:01:00.274448"
   }
 ]

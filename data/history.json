@@ -4123,6 +4123,10 @@
     "e575975869b288ba": {
       "title": "Kit Mamadeira My 1st NUK 150ml e 300ml 2 Unidades",
       "posted_at": "2026-09-25T19:20:47.575221"
+    },
+    "b78a277153af0b1e": {
+      "title": "Mochila com Guia Infantil, Tigre",
+      "posted_at": "2026-09-25T20:20:45.733425"
     }
   },
   "results": [
@@ -20597,6 +20601,14 @@
       "post_id": "1038",
       "error": null,
       "at": "2026-09-25T19:20:47.574490"
+    },
+    {
+      "offer_id": "b78a277153af0b1e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1039",
+      "error": null,
+      "at": "2026-09-25T20:20:45.732537"
     }
   ]
 }
