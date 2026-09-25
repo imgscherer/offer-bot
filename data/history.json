@@ -4127,6 +4127,10 @@
     "b78a277153af0b1e": {
       "title": "Mochila com Guia Infantil, Tigre",
       "posted_at": "2026-09-25T20:20:45.733425"
+    },
+    "e415a72aa1c1c435": {
+      "title": "Sandália Babuche Infantil com Enfeites Metalizados Especiais (25 ao 36 - 5 cores)",
+      "posted_at": "2026-09-25T20:51:01.900683"
     }
   },
   "results": [
@@ -20609,6 +20613,14 @@
       "post_id": "1039",
       "error": null,
       "at": "2026-09-25T20:20:45.732537"
+    },
+    {
+      "offer_id": "e415a72aa1c1c435",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1040",
+      "error": null,
+      "at": "2026-09-25T20:51:01.899993"
     }
   ]
 }
