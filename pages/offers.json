@@ -1,5 +1,17 @@
 [
   {
+    "id": "e67d9ec148a8dc4d",
+    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 Unidades",
+    "price_now": 39.24,
+    "price_was": 72.65,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/528291112817903766097952613619.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-25T23:01:03.755954"
+  },
+  {
     "id": "9eb75ddc9ea3c816",
     "title": "Fralda Descartável Huggies Proteção Tamanho P 48",
     "price_now": 39.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-25T14:01:00.200273"
-  },
-  {
-    "id": "7f3ec2bebde20a50",
-    "title": "Fralda Pants Huggies Supreme Care XG 48 Unidades",
-    "price_now": 71.0,
-    "price_was": 113.25,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B07GR5YBSQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/451541145917903403118880777400.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-25T12:50:51.983452"
   }
 ]

@@ -4143,6 +4143,10 @@
     "9eb75ddc9ea3c816": {
       "title": "Fralda Descartável Huggies Proteção Tamanho P 48",
       "posted_at": "2026-09-25T21:41:24.962100"
+    },
+    "e67d9ec148a8dc4d": {
+      "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 Unidades",
+      "posted_at": "2026-09-25T23:01:03.756360"
     }
   },
   "results": [
@@ -20753,6 +20757,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-25T22:50:48.990402"
+    },
+    {
+      "offer_id": "d9462ef6ca39c122",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-25T23:00:50.509020"
+    },
+    {
+      "offer_id": "e67d9ec148a8dc4d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1044",
+      "error": null,
+      "at": "2026-09-25T23:01:03.755601"
     }
   ]
 }
