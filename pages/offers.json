@@ -1,5 +1,17 @@
 [
   {
+    "id": "7f3ec2bebde20a50",
+    "title": "Fralda Pants Huggies Supreme Care XG 48 Unidades",
+    "price_now": 71.0,
+    "price_was": 113.25,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B07GR5YBSQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/451541145917903403118880777400.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-25T12:50:51.983452"
+  },
+  {
     "id": "44f90b925a35a00f",
     "title": "Fralda Huggies Tripla Proteção Hiper XXG 3 x 66 Fraldas (198 Tiras)",
     "price_now": 190.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-25T00:40:47.994195"
-  },
-  {
-    "id": "22fecb3f2538a14d",
-    "title": "Mili Fralda Ultra Seca Jumbinho M 22",
-    "price_now": 18.0,
-    "price_was": 33.22,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07G9RQHY7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/304045957817902949475587774719.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-25T00:20:46.764036"
   }
 ]

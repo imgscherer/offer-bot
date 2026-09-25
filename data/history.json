@@ -4095,6 +4095,10 @@
     "44f90b925a35a00f": {
       "title": "Fralda Huggies Tripla Proteção Hiper XXG 3 x 66 Fraldas (198 Tiras)",
       "posted_at": "2026-09-25T12:20:57.425102"
+    },
+    "7f3ec2bebde20a50": {
+      "title": "Fralda Pants Huggies Supreme Care XG 48 Unidades",
+      "posted_at": "2026-09-25T12:50:51.983783"
     }
   },
   "results": [
@@ -20513,6 +20517,14 @@
       "post_id": "1031",
       "error": null,
       "at": "2026-09-25T12:20:57.424414"
+    },
+    {
+      "offer_id": "7f3ec2bebde20a50",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1032",
+      "error": null,
+      "at": "2026-09-25T12:50:51.983080"
     }
   ]
 }
