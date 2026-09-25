@@ -4115,6 +4115,10 @@
     "3090b1a669dabe94": {
       "title": "Conjunto Infantil Ursinho Meninas (Tam 1 ao 10) várias cores",
       "posted_at": "2026-09-25T17:30:51.056282"
+    },
+    "dca27ccb01474729": {
+      "title": "Sandália Babuche Infantil com Enfeites Metalizados Especiais (Tam. 25 ao 36, Diversas cores)",
+      "posted_at": "2026-09-25T18:31:05.420720"
     }
   },
   "results": [
@@ -20573,6 +20577,14 @@
       "post_id": "1036",
       "error": null,
       "at": "2026-09-25T17:30:51.055642"
+    },
+    {
+      "offer_id": "dca27ccb01474729",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1037",
+      "error": null,
+      "at": "2026-09-25T18:31:05.419660"
     }
   ]
 }
