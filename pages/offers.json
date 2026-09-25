@@ -1,5 +1,17 @@
 [
   {
+    "id": "22fecb3f2538a14d",
+    "title": "Mili Fralda Ultra Seca Jumbinho M 22",
+    "price_now": 18.0,
+    "price_was": 33.22,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B07G9RQHY7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/304045957817902949475587774719.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-25T00:20:46.764036"
+  },
+  {
     "id": "0eeb1284a97d99ac",
     "title": "Fralda Pom Pom Protek XG 38 unidades",
     "price_now": 35.24,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-24T14:21:07.372321"
-  },
-  {
-    "id": "a175b144492dea85",
-    "title": "Carrinho Zap Metal Burigotto",
-    "price_now": 559.0,
-    "price_was": 929.0,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0C5NQFRGB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/698803458617902587093689029654.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-24T14:20:51.524712"
   }
 ]

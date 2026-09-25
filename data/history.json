@@ -4047,6 +4047,10 @@
     "0eeb1284a97d99ac": {
       "title": "Fralda Pom Pom Protek XG 38 unidades",
       "posted_at": "2026-09-24T20:20:52.200608"
+    },
+    "22fecb3f2538a14d": {
+      "title": "Mili Fralda Ultra Seca Jumbinho M 22",
+      "posted_at": "2026-09-25T00:20:46.834605"
     }
   },
   "results": [
@@ -20369,6 +20373,14 @@
       "post_id": "1019",
       "error": null,
       "at": "2026-09-24T20:20:52.200041"
+    },
+    {
+      "offer_id": "22fecb3f2538a14d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1020",
+      "error": null,
+      "at": "2026-09-25T00:20:46.763731"
     }
   ]
 }
