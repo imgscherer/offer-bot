@@ -1,5 +1,17 @@
 [
   {
+    "id": "9d9c3ae22cdf53ee",
+    "title": "Fralda Mili Baby XXG 16 unidades",
+    "price_now": 18.99,
+    "price_was": 34.89,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B07G5PQ8VH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/614321889617903446923530026621.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-25T14:01:00.200273"
+  },
+  {
     "id": "7f3ec2bebde20a50",
     "title": "Fralda Pants Huggies Supreme Care XG 48 Unidades",
     "price_now": 71.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-25T10:50:49.533177"
-  },
-  {
-    "id": "9f2a2d5d3b549212",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega XG 38 Unidades",
-    "price_now": 34.0,
-    "price_was": 50.29,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/724610990117902964496935996949.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-25T00:40:47.994195"
   }
 ]
