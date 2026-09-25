@@ -1,5 +1,17 @@
 [
   {
+    "id": "91be1595a547377f",
+    "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
+    "price_now": 35.0,
+    "price_was": 50.04,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/571618069117903482914532809301.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-25T15:00:54.244851"
+  },
+  {
     "id": "9d9c3ae22cdf53ee",
     "title": "Fralda Mili Baby XXG 16 unidades",
     "price_now": 18.99,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-25T11:00:49.653941"
-  },
-  {
-    "id": "439c0e8c04bbd78f",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
-    "price_now": 51.5,
-    "price_was": 77.37,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/779031726717903327508855766284.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-25T10:50:49.533177"
   }
 ]
