@@ -1,5 +1,29 @@
 [
   {
+    "id": "9eb75ddc9ea3c816",
+    "title": "Fralda Descartável Huggies Proteção Tamanho P 48",
+    "price_now": 39.0,
+    "price_was": 72.65,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/394702055217903719286387113613.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-25T21:41:24.961623"
+  },
+  {
+    "id": "15e344282233338d",
+    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades com absorção especial para cocô líquido e i",
+    "price_now": 39.24,
+    "price_was": 72.65,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/192892450817903719315288209447.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-25T21:41:12.303488"
+  },
+  {
     "id": "d8b2d6c5ae98d6d3",
     "title": "Lenços Umedecidos Pampers Cuidado de Bebê 576 Unidades",
     "price_now": 94.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-25T12:50:51.983452"
-  },
-  {
-    "id": "44f90b925a35a00f",
-    "title": "Fralda Huggies Tripla Proteção Hiper XXG 3 x 66 Fraldas (198 Tiras)",
-    "price_now": 190.0,
-    "price_was": 275.51,
-    "discount_pct": 31,
-    "url": "https://s.shopee.com.br/9KiKDzeTUa?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/978190413617903377919672625086.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-25T12:20:57.424774"
-  },
-  {
-    "id": "5118d33b3cde078a",
-    "title": "Fralda Babysec Ultrasec M 68 unidades",
-    "price_now": 62.99,
-    "price_was": 101.58,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/690399507517903367694830061708.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-25T12:01:05.351211"
   }
 ]
