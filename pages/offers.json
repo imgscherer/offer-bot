@@ -1,5 +1,17 @@
 [
   {
+    "id": "9f2a2d5d3b549212",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega XG 38 Unidades",
+    "price_now": 34.0,
+    "price_was": 50.29,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/724610990117902964496935996949.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-25T00:40:47.994195"
+  },
+  {
     "id": "22fecb3f2538a14d",
     "title": "Mili Fralda Ultra Seca Jumbinho M 22",
     "price_now": 18.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-24T14:30:49.821716"
-  },
-  {
-    "id": "3e1149d78cec1ac4",
-    "title": "Fralda Huggies Proteção Dia XXG 44 unidades",
-    "price_now": 48.48,
-    "price_was": 72.65,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0CJCJ39JT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/421276489317902587177572105908.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-24T14:21:07.372321"
   }
 ]
