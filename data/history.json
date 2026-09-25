@@ -4131,6 +4131,10 @@
     "e415a72aa1c1c435": {
       "title": "Sandália Babuche Infantil com Enfeites Metalizados Especiais (25 ao 36 - 5 cores)",
       "posted_at": "2026-09-25T20:51:01.900683"
+    },
+    "d8b2d6c5ae98d6d3": {
+      "title": "Lenços Umedecidos Pampers Cuidado de Bebê 576 Unidades",
+      "posted_at": "2026-09-25T21:30:58.200314"
     }
   },
   "results": [
@@ -20645,6 +20649,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-25T21:20:43.388744"
+    },
+    {
+      "offer_id": "d9462ef6ca39c122",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-25T21:30:47.932809"
+    },
+    {
+      "offer_id": "d8b2d6c5ae98d6d3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1041",
+      "error": null,
+      "at": "2026-09-25T21:30:58.198771"
     }
   ]
 }
