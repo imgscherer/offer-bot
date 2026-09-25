@@ -4111,6 +4111,10 @@
     "9203a681fafb92bb": {
       "title": "Kit 2 Short Cargo Infantil Juvenil (Tam. 2 a 16 anos)",
       "posted_at": "2026-09-25T16:20:51.721837"
+    },
+    "3090b1a669dabe94": {
+      "title": "Conjunto Infantil Ursinho Meninas (Tam 1 ao 10) várias cores",
+      "posted_at": "2026-09-25T17:30:51.056282"
     }
   },
   "results": [
@@ -20561,6 +20565,14 @@
       "post_id": "1035",
       "error": null,
       "at": "2026-09-25T16:20:51.721214"
+    },
+    {
+      "offer_id": "3090b1a669dabe94",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1036",
+      "error": null,
+      "at": "2026-09-25T17:30:51.055642"
     }
   ]
 }
