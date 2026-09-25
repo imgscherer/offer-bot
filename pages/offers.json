@@ -1,5 +1,29 @@
 [
   {
+    "id": "a4de0ff6b4f563d5",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
+    "price_now": 54.21,
+    "price_was": 77.37,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/920126369917903360678517180642.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-25T11:41:03.512193"
+  },
+  {
+    "id": "ac8e122cb8891f63",
+    "title": "Maxi Baby Assento Redutor Infantil Dobrável Cescada Mcfrog (azul)",
+    "price_now": 61.0,
+    "price_was": 179.9,
+    "discount_pct": 66,
+    "url": "https://www.amazon.com.br/dp/B0D96N45LL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/930029531717903360668831481047.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-25T11:40:46.776899"
+  },
+  {
     "id": "5e1698df566dab1c",
     "title": "Carrinho Bebe Passeio Travel System  Bebe Conforto Compacto Seguro Recém Nascido Nivi  Maxi Baby",
     "price_now": 949.99,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-24T19:50:45.394732"
-  },
-  {
-    "id": "10ed1887e3fb7168",
-    "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
-    "price_now": 44.0,
-    "price_was": 77.27,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/707947621917902753883371310130.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-24T18:50:48.178249"
-  },
-  {
-    "id": "fe9bb7f2da36159d",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
-    "price_now": 53.1,
-    "price_was": 77.37,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/113521143517902735898185064935.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-24T18:30:55.713424"
   }
 ]

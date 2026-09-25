@@ -4079,6 +4079,14 @@
     "5e1698df566dab1c": {
       "title": "Carrinho Bebe Passeio Travel System  Bebe Conforto Compacto Seguro Recém Nascido Nivi  Maxi Baby",
       "posted_at": "2026-09-25T11:01:00.274882"
+    },
+    "ac8e122cb8891f63": {
+      "title": "Maxi Baby Assento Redutor Infantil Dobrável Cescada Mcfrog (azul)",
+      "posted_at": "2026-09-25T11:40:46.777533"
+    },
+    "a4de0ff6b4f563d5": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
+      "posted_at": "2026-09-25T11:41:03.512605"
     }
   },
   "results": [
@@ -20465,6 +20473,22 @@
       "post_id": "1027",
       "error": null,
       "at": "2026-09-25T11:01:00.274182"
+    },
+    {
+      "offer_id": "ac8e122cb8891f63",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1028",
+      "error": null,
+      "at": "2026-09-25T11:40:46.776576"
+    },
+    {
+      "offer_id": "a4de0ff6b4f563d5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1029",
+      "error": null,
+      "at": "2026-09-25T11:41:03.511843"
     }
   ]
 }
