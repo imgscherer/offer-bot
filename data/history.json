@@ -4107,6 +4107,10 @@
     "91be1595a547377f": {
       "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
       "posted_at": "2026-09-25T15:00:54.245284"
+    },
+    "9203a681fafb92bb": {
+      "title": "Kit 2 Short Cargo Infantil Juvenil (Tam. 2 a 16 anos)",
+      "posted_at": "2026-09-25T16:20:51.721837"
     }
   },
   "results": [
@@ -20549,6 +20553,14 @@
       "post_id": "1034",
       "error": null,
       "at": "2026-09-25T15:00:54.244547"
+    },
+    {
+      "offer_id": "9203a681fafb92bb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1035",
+      "error": null,
+      "at": "2026-09-25T16:20:51.721214"
     }
   ]
 }
