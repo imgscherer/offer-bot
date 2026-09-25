@@ -4151,6 +4151,10 @@
     "3e2bc750b7bfa801": {
       "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
       "posted_at": "2026-09-25T23:20:44.886686"
+    },
+    "dcfbf2a5370f8724": {
+      "title": "Fralda Huggies Máxima Proteção P 48 Unidades",
+      "posted_at": "2026-09-25T23:50:43.572584"
     }
   },
   "results": [
@@ -20785,6 +20789,14 @@
       "post_id": "1045",
       "error": null,
       "at": "2026-09-25T23:20:44.885851"
+    },
+    {
+      "offer_id": "dcfbf2a5370f8724",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1046",
+      "error": null,
+      "at": "2026-09-25T23:50:43.572010"
     }
   ]
 }
