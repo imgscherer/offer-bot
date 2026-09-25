@@ -4059,6 +4059,26 @@
     "439c0e8c04bbd78f": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
       "posted_at": "2026-09-25T10:50:49.533618"
+    },
+    "6917a05ad5d0ddec": {
+      "title": "Triciclo Infantil Carrinho Bebê Empurrador Branco Capota Protege Chuva Sol Vento Passeio Ar Livre",
+      "posted_at": "2026-09-25T11:00:49.654337"
+    },
+    "6a5dc57dfce5c784": {
+      "title": "Triciclo Com Empurrador Confort Preto infantil Bebê Passeio Viagem Com Haste e Cinto Confortável",
+      "posted_at": "2026-09-25T11:00:53.877177"
+    },
+    "473773d05e3b61e9": {
+      "title": "Carrinho de Passeio com Bebê Conforto Assento Reversível Berço Moisés Elysian Maxi Baby",
+      "posted_at": "2026-09-25T11:00:55.554361"
+    },
+    "da80433f3771ce3c": {
+      "title": "Carrinho Bebe Passeio Reclinável Vira Berco Leve Dobrável Compacto NIVI  Maxi Baby",
+      "posted_at": "2026-09-25T11:00:57.787003"
+    },
+    "5e1698df566dab1c": {
+      "title": "Carrinho Bebe Passeio Travel System  Bebe Conforto Compacto Seguro Recém Nascido Nivi  Maxi Baby",
+      "posted_at": "2026-09-25T11:01:00.274882"
     }
   },
   "results": [
@@ -20405,6 +20425,46 @@
       "post_id": "1022",
       "error": null,
       "at": "2026-09-25T10:50:49.532730"
+    },
+    {
+      "offer_id": "6917a05ad5d0ddec",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1023",
+      "error": null,
+      "at": "2026-09-25T11:00:49.653639"
+    },
+    {
+      "offer_id": "6a5dc57dfce5c784",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1024",
+      "error": null,
+      "at": "2026-09-25T11:00:53.876430"
+    },
+    {
+      "offer_id": "473773d05e3b61e9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1025",
+      "error": null,
+      "at": "2026-09-25T11:00:55.553686"
+    },
+    {
+      "offer_id": "da80433f3771ce3c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1026",
+      "error": null,
+      "at": "2026-09-25T11:00:57.786297"
+    },
+    {
+      "offer_id": "5e1698df566dab1c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1027",
+      "error": null,
+      "at": "2026-09-25T11:01:00.274182"
     }
   ]
 }
