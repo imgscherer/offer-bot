@@ -1,5 +1,17 @@
 [
   {
+    "id": "3e2bc750b7bfa801",
+    "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
+    "price_now": 438.0,
+    "price_was": 799.9,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B0CPN2L6MQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/688835400317903774473115843270.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-25T23:20:44.886209"
+  },
+  {
     "id": "e67d9ec148a8dc4d",
     "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 Unidades",
     "price_now": 39.24,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-25T15:00:54.244851"
-  },
-  {
-    "id": "9d9c3ae22cdf53ee",
-    "title": "Fralda Mili Baby XXG 16 unidades",
-    "price_now": 18.99,
-    "price_was": 34.89,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07G5PQ8VH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/614321889617903446923530026621.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-25T14:01:00.200273"
   }
 ]

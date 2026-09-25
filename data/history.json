@@ -4147,6 +4147,10 @@
     "e67d9ec148a8dc4d": {
       "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 Unidades",
       "posted_at": "2026-09-25T23:01:03.756360"
+    },
+    "3e2bc750b7bfa801": {
+      "title": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
+      "posted_at": "2026-09-25T23:20:44.886686"
     }
   },
   "results": [
@@ -20773,6 +20777,14 @@
       "post_id": "1044",
       "error": null,
       "at": "2026-09-25T23:01:03.755601"
+    },
+    {
+      "offer_id": "3e2bc750b7bfa801",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1045",
+      "error": null,
+      "at": "2026-09-25T23:20:44.885851"
     }
   ]
 }
