@@ -4163,6 +4163,14 @@
     "812ef5fd6aed2a5a": {
       "title": "Maxi Baby Carrinho de Bebê Guarda Chuva LINK Até 15kgs (Preto)",
       "posted_at": "2026-09-26T01:30:46.044179"
+    },
+    "01e31dd61aed9265": {
+      "title": "100 sabonetes - 50 Lembrancinhas Saida de maternidade Chá Rifa, Chá de fraldas, Chá de bebê",
+      "posted_at": "2026-09-26T06:30:41.818588"
+    },
+    "2204ba54bb97fe37": {
+      "title": "Kit Bolsa Maternidade Encanto Off/Marinho - 03 Peças",
+      "posted_at": "2026-09-26T06:30:42.942299"
     }
   },
   "results": [
@@ -20821,6 +20829,22 @@
       "post_id": "1048",
       "error": null,
       "at": "2026-09-26T01:30:46.043371"
+    },
+    {
+      "offer_id": "01e31dd61aed9265",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1049",
+      "error": null,
+      "at": "2026-09-26T06:30:41.815943"
+    },
+    {
+      "offer_id": "2204ba54bb97fe37",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1050",
+      "error": null,
+      "at": "2026-09-26T06:30:42.941542"
     }
   ]
 }
