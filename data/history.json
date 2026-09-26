@@ -4171,6 +4171,10 @@
     "2204ba54bb97fe37": {
       "title": "Kit Bolsa Maternidade Encanto Off/Marinho - 03 Peças",
       "posted_at": "2026-09-26T06:30:42.942299"
+    },
+    "53acb45566271b9b": {
+      "title": "Brinquedo Aramado Educativo Montessori de Madeira -Carrinho de Puxar para Bebês Estimula Coordenação",
+      "posted_at": "2026-09-26T10:30:45.904162"
     }
   },
   "results": [
@@ -20845,6 +20849,14 @@
       "post_id": "1050",
       "error": null,
       "at": "2026-09-26T06:30:42.941542"
+    },
+    {
+      "offer_id": "53acb45566271b9b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1051",
+      "error": null,
+      "at": "2026-09-26T10:30:45.903285"
     }
   ]
 }
