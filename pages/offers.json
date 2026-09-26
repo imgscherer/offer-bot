@@ -1,5 +1,17 @@
 [
   {
+    "id": "9605a2d8634e7f2e",
+    "title": "Fralda Pampers Confort Sec P 50 unidades",
+    "price_now": 44.99,
+    "price_was": 77.27,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/809935611717904191517600990862.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-26T10:50:48.172923"
+  },
+  {
     "id": "53acb45566271b9b",
     "title": "Brinquedo Aramado Educativo Montessori de Madeira -Carrinho de Puxar para Bebês Estimula Coordenação",
     "price_now": 48.88,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-25T21:30:58.199108"
-  },
-  {
-    "id": "e415a72aa1c1c435",
-    "title": "Sandália Babuche Infantil com Enfeites Metalizados Especiais (25 ao 36 - 5 cores)",
-    "price_now": 29.0,
-    "price_was": 59.0,
-    "discount_pct": 51,
-    "url": "https://s.shopee.com.br/50ZLTvJnC9?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/628692825417903684534128304950.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-25T20:51:01.900288"
   }
 ]

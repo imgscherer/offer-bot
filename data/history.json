@@ -4175,6 +4175,10 @@
     "53acb45566271b9b": {
       "title": "Brinquedo Aramado Educativo Montessori de Madeira -Carrinho de Puxar para Bebês Estimula Coordenação",
       "posted_at": "2026-09-26T10:30:45.904162"
+    },
+    "9605a2d8634e7f2e": {
+      "title": "Fralda Pampers Confort Sec P 50 unidades",
+      "posted_at": "2026-09-26T10:50:48.216288"
     }
   },
   "results": [
@@ -20857,6 +20861,14 @@
       "post_id": "1051",
       "error": null,
       "at": "2026-09-26T10:30:45.903285"
+    },
+    {
+      "offer_id": "9605a2d8634e7f2e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1052",
+      "error": null,
+      "at": "2026-09-26T10:50:48.172638"
     }
   ]
 }
