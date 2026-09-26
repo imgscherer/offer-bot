@@ -4179,6 +4179,10 @@
     "9605a2d8634e7f2e": {
       "title": "Fralda Pampers Confort Sec P 50 unidades",
       "posted_at": "2026-09-26T10:50:48.216288"
+    },
+    "3754088ce72b95b1": {
+      "title": "Fralda Babysec Ultrasec P 42 unidades",
+      "posted_at": "2026-09-26T11:30:48.211433"
     }
   },
   "results": [
@@ -20869,6 +20873,14 @@
       "post_id": "1052",
       "error": null,
       "at": "2026-09-26T10:50:48.172638"
+    },
+    {
+      "offer_id": "3754088ce72b95b1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1053",
+      "error": null,
+      "at": "2026-09-26T11:30:48.210681"
     }
   ]
 }
