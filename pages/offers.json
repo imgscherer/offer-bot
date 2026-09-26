@@ -1,5 +1,17 @@
 [
   {
+    "id": "256f4089c247e9a7",
+    "title": "Fralda Babysec UltraSec XG 56 unidades",
+    "price_now": 49.0,
+    "price_was": 101.58,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B07Z9T391J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/507612306717904278513230483172.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-26T13:20:38.907554"
+  },
+  {
     "id": "4e960cdd8effd8c1",
     "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
     "price_now": 28.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-25T23:20:44.886209"
-  },
-  {
-    "id": "e67d9ec148a8dc4d",
-    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 Unidades",
-    "price_now": 39.24,
-    "price_was": 72.65,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/528291112817903766097952613619.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-25T23:01:03.755954"
   }
 ]

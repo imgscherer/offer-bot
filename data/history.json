@@ -4191,6 +4191,10 @@
     "4e960cdd8effd8c1": {
       "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
       "posted_at": "2026-09-26T13:00:55.176627"
+    },
+    "256f4089c247e9a7": {
+      "title": "Fralda Babysec UltraSec XG 56 unidades",
+      "posted_at": "2026-09-26T13:20:38.907870"
     }
   },
   "results": [
@@ -20905,6 +20909,14 @@
       "post_id": "1055",
       "error": null,
       "at": "2026-09-26T13:00:55.175979"
+    },
+    {
+      "offer_id": "256f4089c247e9a7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1056",
+      "error": null,
+      "at": "2026-09-26T13:20:38.907196"
     }
   ]
 }
