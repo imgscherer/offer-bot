@@ -4155,6 +4155,10 @@
     "dcfbf2a5370f8724": {
       "title": "Fralda Huggies Máxima Proteção P 48 Unidades",
       "posted_at": "2026-09-25T23:50:43.572584"
+    },
+    "f84c77d1edddd6e8": {
+      "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula 50 Unidades",
+      "posted_at": "2026-09-26T00:30:49.989521"
     }
   },
   "results": [
@@ -20797,6 +20801,14 @@
       "post_id": "1046",
       "error": null,
       "at": "2026-09-25T23:50:43.572010"
+    },
+    {
+      "offer_id": "f84c77d1edddd6e8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1047",
+      "error": null,
+      "at": "2026-09-26T00:30:49.988824"
     }
   ]
 }

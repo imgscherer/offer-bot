@@ -1,5 +1,17 @@
 [
   {
+    "id": "f84c77d1edddd6e8",
+    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula 50 Unidades",
+    "price_now": 5.0,
+    "price_was": 9.42,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/284585156117903820888694512634.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-26T00:30:49.989161"
+  },
+  {
     "id": "dcfbf2a5370f8724",
     "title": "Fralda Huggies Máxima Proteção P 48 Unidades",
     "price_now": 39.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-25T17:30:51.055982"
-  },
-  {
-    "id": "9203a681fafb92bb",
-    "title": "Kit 2 Short Cargo Infantil Juvenil (Tam. 2 a 16 anos)",
-    "price_now": 49.9,
-    "price_was": 99.8,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/2Vs0M7mdgo?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/946361048717903523718452546109.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-25T16:20:51.721522"
   }
 ]
