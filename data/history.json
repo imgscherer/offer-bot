@@ -4199,6 +4199,10 @@
     "7c70ee8ba0bcc818": {
       "title": "Fralda Babysec Premium Hiper XG 56 Unidades",
       "posted_at": "2026-09-26T14:01:03.204020"
+    },
+    "043aa139cbff77c4": {
+      "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
+      "posted_at": "2026-09-26T15:00:53.486846"
     }
   },
   "results": [
@@ -20929,6 +20933,14 @@
       "post_id": "1057",
       "error": null,
       "at": "2026-09-26T14:01:03.203212"
+    },
+    {
+      "offer_id": "043aa139cbff77c4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1058",
+      "error": null,
+      "at": "2026-09-26T15:00:53.486264"
     }
   ]
 }
