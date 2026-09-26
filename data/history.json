@@ -4215,6 +4215,10 @@
     "e440fdc497d88b37": {
       "title": "Trocador Infantil Impermeável Dupla Face Infantil Bebê Higiênico Portátil Macio Não Esquenta",
       "posted_at": "2026-09-26T18:31:00.905353"
+    },
+    "6ac0b7330e12f7a0": {
+      "title": "Taktark Babá Eletrônica Câmera, 4.3\" Monitor De Bebe, Sem Wi-fi, 2 Way Audio, Visão Nocturna, Zoom Digital, Economia De Energia Vox, Temperatura A",
+      "posted_at": "2026-09-26T21:31:04.701019"
     }
   },
   "results": [
@@ -21121,6 +21125,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-26T21:20:49.528363"
+    },
+    {
+      "offer_id": "f0b5102f1809bae7",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-26T21:30:54.509183"
+    },
+    {
+      "offer_id": "6ac0b7330e12f7a0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1062",
+      "error": null,
+      "at": "2026-09-26T21:31:04.700023"
     }
   ]
 }
