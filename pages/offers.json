@@ -1,5 +1,17 @@
 [
   {
+    "id": "0b49f811736bc918",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega M 48 Unidades",
+    "price_now": 35.0,
+    "price_was": 50.29,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/368389336917904432303438737794.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-26T17:30:51.113671"
+  },
+  {
     "id": "043aa139cbff77c4",
     "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
     "price_now": 38.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-26T01:30:46.043745"
-  },
-  {
-    "id": "f84c77d1edddd6e8",
-    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula 50 Unidades",
-    "price_now": 5.0,
-    "price_was": 9.42,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/284585156117903820888694512634.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-26T00:30:49.989161"
   }
 ]

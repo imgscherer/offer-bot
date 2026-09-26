@@ -4203,6 +4203,10 @@
     "043aa139cbff77c4": {
       "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
       "posted_at": "2026-09-26T15:00:53.486846"
+    },
+    "0b49f811736bc918": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Mega M 48 Unidades",
+      "posted_at": "2026-09-26T17:30:51.114061"
     }
   },
   "results": [
@@ -20941,6 +20945,14 @@
       "post_id": "1058",
       "error": null,
       "at": "2026-09-26T15:00:53.486264"
+    },
+    {
+      "offer_id": "0b49f811736bc918",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1059",
+      "error": null,
+      "at": "2026-09-26T17:30:51.113277"
     }
   ]
 }
