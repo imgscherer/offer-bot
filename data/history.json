@@ -4183,6 +4183,10 @@
     "3754088ce72b95b1": {
       "title": "Fralda Babysec Ultrasec P 42 unidades",
       "posted_at": "2026-09-26T11:30:48.211433"
+    },
+    "7353041aee10b584": {
+      "title": "Fralda Personal Baby Premium Pants M 48 unidades",
+      "posted_at": "2026-09-26T11:50:40.703477"
     }
   },
   "results": [
@@ -20881,6 +20885,14 @@
       "post_id": "1053",
       "error": null,
       "at": "2026-09-26T11:30:48.210681"
+    },
+    {
+      "offer_id": "7353041aee10b584",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1054",
+      "error": null,
+      "at": "2026-09-26T11:50:40.703058"
     }
   ]
 }

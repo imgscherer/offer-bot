@@ -1,5 +1,17 @@
 [
   {
+    "id": "7353041aee10b584",
+    "title": "Fralda Personal Baby Premium Pants M 48 unidades",
+    "price_now": 26.99,
+    "price_was": 80.03,
+    "discount_pct": 66,
+    "url": "https://www.amazon.com.br/dp/B0BGM6P1SF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/346055460817904232894394901092.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-26T11:50:40.703280"
+  },
+  {
     "id": "3754088ce72b95b1",
     "title": "Fralda Babysec Ultrasec P 42 unidades",
     "price_now": 28.34,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-25T21:41:24.961623"
-  },
-  {
-    "id": "15e344282233338d",
-    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades com absorção especial para cocô líquido e i",
-    "price_now": 39.24,
-    "price_was": 72.65,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/192892450817903719315288209447.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-25T21:41:12.303488"
   }
 ]
