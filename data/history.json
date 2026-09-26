@@ -4207,6 +4207,14 @@
     "0b49f811736bc918": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Mega M 48 Unidades",
       "posted_at": "2026-09-26T17:30:51.114061"
+    },
+    "ca767af9343c017c": {
+      "title": "Bolsa Maternidade De Bebê Organizadora de Fraldas Cesta Cesto quarto",
+      "posted_at": "2026-09-26T18:30:59.821448"
+    },
+    "e440fdc497d88b37": {
+      "title": "Trocador Infantil Impermeável Dupla Face Infantil Bebê Higiênico Portátil Macio Não Esquenta",
+      "posted_at": "2026-09-26T18:31:00.905353"
     }
   },
   "results": [
@@ -20953,6 +20961,30 @@
       "post_id": "1059",
       "error": null,
       "at": "2026-09-26T17:30:51.113277"
+    },
+    {
+      "offer_id": "f0b5102f1809bae7",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-26T18:30:58.594324"
+    },
+    {
+      "offer_id": "ca767af9343c017c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1060",
+      "error": null,
+      "at": "2026-09-26T18:30:59.820522"
+    },
+    {
+      "offer_id": "e440fdc497d88b37",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1061",
+      "error": null,
+      "at": "2026-09-26T18:31:00.904521"
     }
   ]
 }
