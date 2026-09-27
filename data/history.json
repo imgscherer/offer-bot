@@ -4275,6 +4275,10 @@
     "634ff80077142689": {
       "title": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
       "posted_at": "2026-09-27T18:50:45.404428"
+    },
+    "6093a3968a79991e": {
+      "title": "Huggies Fralda Premium Natural Care P - 36 Un",
+      "posted_at": "2026-09-27T19:00:55.866733"
     }
   },
   "results": [
@@ -21341,6 +21345,14 @@
       "post_id": "1076",
       "error": null,
       "at": "2026-09-27T18:50:45.403677"
+    },
+    {
+      "offer_id": "6093a3968a79991e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1077",
+      "error": null,
+      "at": "2026-09-27T19:00:55.866167"
     }
   ]
 }

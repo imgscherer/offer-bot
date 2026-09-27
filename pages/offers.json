@@ -1,5 +1,17 @@
 [
   {
+    "id": "6093a3968a79991e",
+    "title": "Huggies Fralda Premium Natural Care P - 36 Un",
+    "price_now": 34.0,
+    "price_was": 53.4,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/866764627617905350703621905044.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-27T19:00:55.866471"
+  },
+  {
     "id": "634ff80077142689",
     "title": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
     "price_now": 35.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-27T12:50:47.861267"
-  },
-  {
-    "id": "058cf6ee5a9c4cb5",
-    "title": "Babysec Fralda Premium M 32 Unidades",
-    "price_now": 34.0,
-    "price_was": 54.39,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/162660204617905118173696275774.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-27T12:40:45.875014"
   }
 ]
