@@ -1,5 +1,17 @@
 [
   {
+    "id": "98639233df8571c7",
+    "title": "Cadeirinha Infantil para Carro Fisher-Price GrowStages All Stages i-Size Isofix",
+    "price_now": 949.0,
+    "price_was": 1599.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0F15D4CGM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/250023748517905185916927951315.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-27T14:20:46.357822"
+  },
+  {
     "id": "8c830d3ca5573751",
     "title": "Granado Refil Shampoo Bebê Tradicional 250ml",
     "price_now": 11.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-26T14:01:03.203540"
-  },
-  {
-    "id": "256f4089c247e9a7",
-    "title": "Fralda Babysec UltraSec XG 56 unidades",
-    "price_now": 49.0,
-    "price_was": 101.58,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/507612306717904278513230483172.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-26T13:20:38.907554"
   }
 ]

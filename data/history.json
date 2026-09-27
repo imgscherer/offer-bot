@@ -4239,6 +4239,10 @@
     "8c830d3ca5573751": {
       "title": "Granado Refil Shampoo Bebê Tradicional 250ml",
       "posted_at": "2026-09-27T14:01:00.203602"
+    },
+    "98639233df8571c7": {
+      "title": "Cadeirinha Infantil para Carro Fisher-Price GrowStages All Stages i-Size Isofix",
+      "posted_at": "2026-09-27T14:20:46.362178"
     }
   },
   "results": [
@@ -21233,6 +21237,14 @@
       "post_id": "1067",
       "error": null,
       "at": "2026-09-27T14:01:00.203101"
+    },
+    {
+      "offer_id": "98639233df8571c7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1068",
+      "error": null,
+      "at": "2026-09-27T14:20:46.357493"
     }
   ]
 }
