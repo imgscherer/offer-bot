@@ -4279,6 +4279,10 @@
     "6093a3968a79991e": {
       "title": "Huggies Fralda Premium Natural Care P - 36 Un",
       "posted_at": "2026-09-27T19:00:55.866733"
+    },
+    "c89f4853b589d98d": {
+      "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
+      "posted_at": "2026-09-27T20:00:55.360214"
     }
   },
   "results": [
@@ -21353,6 +21357,14 @@
       "post_id": "1077",
       "error": null,
       "at": "2026-09-27T19:00:55.866167"
+    },
+    {
+      "offer_id": "c89f4853b589d98d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1078",
+      "error": null,
+      "at": "2026-09-27T20:00:55.359459"
     }
   ]
 }

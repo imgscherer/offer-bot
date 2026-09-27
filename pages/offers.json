@@ -1,5 +1,17 @@
 [
   {
+    "id": "c89f4853b589d98d",
+    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
+    "price_now": 37.0,
+    "price_was": 52.65,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/937185593317905387283188567731.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-27T20:00:55.359770"
+  },
+  {
     "id": "6093a3968a79991e",
     "title": "Huggies Fralda Premium Natural Care P - 36 Un",
     "price_now": 34.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-27T14:01:00.203368"
-  },
-  {
-    "id": "af76cc04a34556a4",
-    "title": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
-    "price_now": 90.0,
-    "price_was": 131.78,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/572658775317905124623137793082.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-27T12:50:47.861267"
   }
 ]
