@@ -4235,6 +4235,10 @@
     "af76cc04a34556a4": {
       "title": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
       "posted_at": "2026-09-27T12:50:47.861565"
+    },
+    "8c830d3ca5573751": {
+      "title": "Granado Refil Shampoo Bebê Tradicional 250ml",
+      "posted_at": "2026-09-27T14:01:00.203602"
     }
   },
   "results": [
@@ -21221,6 +21225,14 @@
       "post_id": "1066",
       "error": null,
       "at": "2026-09-27T12:50:47.860939"
+    },
+    {
+      "offer_id": "8c830d3ca5573751",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1067",
+      "error": null,
+      "at": "2026-09-27T14:01:00.203101"
     }
   ]
 }
