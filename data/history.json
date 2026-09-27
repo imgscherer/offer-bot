@@ -4219,6 +4219,10 @@
     "6ac0b7330e12f7a0": {
       "title": "Taktark Babá Eletrônica Câmera, 4.3\" Monitor De Bebe, Sem Wi-fi, 2 Way Audio, Visão Nocturna, Zoom Digital, Economia De Energia Vox, Temperatura A",
       "posted_at": "2026-09-26T21:31:04.701019"
+    },
+    "53bf1080a335acb3": {
+      "title": "Fralda Huggies Natural Care P 36 unidades",
+      "posted_at": "2026-09-27T11:30:55.653772"
     }
   },
   "results": [
@@ -21173,6 +21177,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-26T22:10:43.894886"
+    },
+    {
+      "offer_id": "53bf1080a335acb3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1063",
+      "error": null,
+      "at": "2026-09-27T11:30:55.652987"
     }
   ]
 }
