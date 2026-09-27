@@ -1,5 +1,17 @@
 [
   {
+    "id": "c7cb826aea43f991",
+    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
+    "price_now": 5.99,
+    "price_was": 9.42,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/138540115917905101755932684712.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-27T12:00:58.416959"
+  },
+  {
     "id": "53bf1080a335acb3",
     "title": "Fralda Huggies Natural Care P 36 unidades",
     "price_now": 34.1,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-26T11:30:48.211017"
-  },
-  {
-    "id": "9605a2d8634e7f2e",
-    "title": "Fralda Pampers Confort Sec P 50 unidades",
-    "price_now": 44.99,
-    "price_was": 77.27,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/809935611717904191517600990862.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-26T10:50:48.172923"
   }
 ]
