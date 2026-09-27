@@ -1,5 +1,17 @@
 [
   {
+    "id": "058cf6ee5a9c4cb5",
+    "title": "Babysec Fralda Premium M 32 Unidades",
+    "price_now": 34.0,
+    "price_was": 54.39,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/162660204617905118173696275774.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-27T12:40:45.875014"
+  },
+  {
     "id": "c7cb826aea43f991",
     "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
     "price_now": 5.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-26T11:50:40.703280"
-  },
-  {
-    "id": "3754088ce72b95b1",
-    "title": "Fralda Babysec Ultrasec P 42 unidades",
-    "price_now": 28.34,
-    "price_was": 52.65,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/133629268617904220913380623783.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-26T11:30:48.211017"
   }
 ]

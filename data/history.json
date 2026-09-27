@@ -4227,6 +4227,10 @@
     "c7cb826aea43f991": {
       "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
       "posted_at": "2026-09-27T12:00:58.417250"
+    },
+    "058cf6ee5a9c4cb5": {
+      "title": "Babysec Fralda Premium M 32 Unidades",
+      "posted_at": "2026-09-27T12:40:45.875443"
     }
   },
   "results": [
@@ -21197,6 +21201,14 @@
       "post_id": "1064",
       "error": null,
       "at": "2026-09-27T12:00:58.416608"
+    },
+    {
+      "offer_id": "058cf6ee5a9c4cb5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1065",
+      "error": null,
+      "at": "2026-09-27T12:40:45.874668"
     }
   ]
 }
