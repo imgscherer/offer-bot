@@ -4231,6 +4231,10 @@
     "058cf6ee5a9c4cb5": {
       "title": "Babysec Fralda Premium M 32 Unidades",
       "posted_at": "2026-09-27T12:40:45.875443"
+    },
+    "af76cc04a34556a4": {
+      "title": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
+      "posted_at": "2026-09-27T12:50:47.861565"
     }
   },
   "results": [
@@ -21209,6 +21213,14 @@
       "post_id": "1065",
       "error": null,
       "at": "2026-09-27T12:40:45.874668"
+    },
+    {
+      "offer_id": "af76cc04a34556a4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1066",
+      "error": null,
+      "at": "2026-09-27T12:50:47.860939"
     }
   ]
 }
