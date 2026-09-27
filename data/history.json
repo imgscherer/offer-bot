@@ -4247,6 +4247,18 @@
     "a941b740bb0c6101": {
       "title": "Granado Refil Shampoo Bebê, Tradicional, 250ml",
       "posted_at": "2026-09-27T14:30:51.455131"
+    },
+    "dc7f4781a0951212": {
+      "title": "Bolsa Maternidade Menina Luxo Listras Cinza Grafite - Belaa Baby",
+      "posted_at": "2026-09-27T17:30:35.232262"
+    },
+    "dba4867db4423cb2": {
+      "title": "Kit Bolsa Maternidade Menino/Menina Bag e Mochila New York - 02 Peças",
+      "posted_at": "2026-09-27T17:30:38.355820"
+    },
+    "a756da4c9139c1cd": {
+      "title": "Kit Bolsa Maternidade Bali - 05 Peças",
+      "posted_at": "2026-09-27T17:30:39.326227"
     }
   },
   "results": [
@@ -21257,6 +21269,30 @@
       "post_id": "1069",
       "error": null,
       "at": "2026-09-27T14:30:51.454320"
+    },
+    {
+      "offer_id": "dc7f4781a0951212",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1070",
+      "error": null,
+      "at": "2026-09-27T17:30:35.209163"
+    },
+    {
+      "offer_id": "dba4867db4423cb2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1071",
+      "error": null,
+      "at": "2026-09-27T17:30:38.355055"
+    },
+    {
+      "offer_id": "a756da4c9139c1cd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1072",
+      "error": null,
+      "at": "2026-09-27T17:30:39.325499"
     }
   ]
 }

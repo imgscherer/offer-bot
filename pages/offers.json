@@ -1,5 +1,41 @@
 [
   {
+    "id": "a756da4c9139c1cd",
+    "title": "Kit Bolsa Maternidade Bali - 05 Peças",
+    "price_now": 1049.9,
+    "price_was": 1499.86,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/2BFDF5Jl5F",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ln7k1xm4o11f99",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-27T17:30:39.325829"
+  },
+  {
+    "id": "dba4867db4423cb2",
+    "title": "Kit Bolsa Maternidade Menino/Menina Bag e Mochila New York - 02 Peças",
+    "price_now": 529.9,
+    "price_was": 767.97,
+    "discount_pct": 31,
+    "url": "https://s.shopee.com.br/113FqwOCRu",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m359namgbx1vd5",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-27T17:30:38.355384"
+  },
+  {
+    "id": "dc7f4781a0951212",
+    "title": "Bolsa Maternidade Menina Luxo Listras Cinza Grafite - Belaa Baby",
+    "price_now": 219.9,
+    "price_was": 399.82,
+    "discount_pct": 45,
+    "url": "https://s.shopee.com.br/2Vs3dhIUPL",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-loobk2s38iua3b",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-27T17:30:35.209614"
+  },
+  {
     "id": "a941b740bb0c6101",
     "title": "Granado Refil Shampoo Bebê, Tradicional, 250ml",
     "price_now": 11.0,
@@ -106,41 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-26T18:31:00.904846"
-  },
-  {
-    "id": "ca767af9343c017c",
-    "title": "Bolsa Maternidade De Bebê Organizadora de Fraldas Cesta Cesto quarto",
-    "price_now": 93.9,
-    "price_was": 191.63,
-    "discount_pct": 51,
-    "url": "https://s.shopee.com.br/1Lg4imcPlL",
-    "image": "https://cf.shopee.com.br/file/br-11134201-820m2-mqx5imtzg83q0d",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-26T18:30:59.820906"
-  },
-  {
-    "id": "0b49f811736bc918",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega M 48 Unidades",
-    "price_now": 35.0,
-    "price_was": 50.29,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/368389336917904432303438737794.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-26T17:30:51.113671"
-  },
-  {
-    "id": "043aa139cbff77c4",
-    "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
-    "price_now": 38.0,
-    "price_was": 59.99,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/991317164217904346286625518901.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-26T15:00:53.486560"
   }
 ]
