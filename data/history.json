@@ -4259,6 +4259,18 @@
     "a756da4c9139c1cd": {
       "title": "Kit Bolsa Maternidade Bali - 05 Peças",
       "posted_at": "2026-09-27T17:30:39.326227"
+    },
+    "d0b05032be73cb1d": {
+      "title": "Conjunto/Kit Lilobu 2 Body Manga Curta + 2 Shorts Canelado Bebê Menina Menino RN ao GG 05k2",
+      "posted_at": "2026-09-27T18:00:43.119310"
+    },
+    "ec9fa684c95afb18": {
+      "title": "Porta Fralda Portátil Infantil Bebe com Divisórias Para Bolsa Organizar Menino Menina",
+      "posted_at": "2026-09-27T18:00:50.844359"
+    },
+    "1a78cb33d6eb12db": {
+      "title": "Kit 5 conjuntos Lilobu body bebe curta e short tapa fralda canelado macio e confortável 24005-K5",
+      "posted_at": "2026-09-27T18:00:53.811659"
     }
   },
   "results": [
@@ -21293,6 +21305,30 @@
       "post_id": "1072",
       "error": null,
       "at": "2026-09-27T17:30:39.325499"
+    },
+    {
+      "offer_id": "d0b05032be73cb1d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1073",
+      "error": null,
+      "at": "2026-09-27T18:00:43.118785"
+    },
+    {
+      "offer_id": "ec9fa684c95afb18",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1074",
+      "error": null,
+      "at": "2026-09-27T18:00:50.843621"
+    },
+    {
+      "offer_id": "1a78cb33d6eb12db",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1075",
+      "error": null,
+      "at": "2026-09-27T18:00:53.810944"
     }
   ]
 }

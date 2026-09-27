@@ -1,5 +1,41 @@
 [
   {
+    "id": "1a78cb33d6eb12db",
+    "title": "Kit 5 conjuntos Lilobu body bebe curta e short tapa fralda canelado macio e confortável 24005-K5",
+    "price_now": 175.0,
+    "price_was": 250.0,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/5VVfFHClbz",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcjbuhi6wilu85",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-27T18:00:53.811188"
+  },
+  {
+    "id": "ec9fa684c95afb18",
+    "title": "Porta Fralda Portátil Infantil Bebe com Divisórias Para Bolsa Organizar Menino Menina",
+    "price_now": 24.85,
+    "price_was": 35.5,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/5fp5RaC8Gy",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mpb0oxtql3pib5",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-27T18:00:50.843888"
+  },
+  {
+    "id": "d0b05032be73cb1d",
+    "title": "Conjunto/Kit Lilobu 2 Body Manga Curta + 2 Shorts Canelado Bebê Menina Menino RN ao GG 05k2",
+    "price_now": 67.19,
+    "price_was": 119.98,
+    "discount_pct": 44,
+    "url": "https://s.shopee.com.br/4qFyS3FIxs",
+    "image": "https://cf.shopee.com.br/file/br-11134201-820mc-mqyboxrpqlfq03",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-27T18:00:43.119073"
+  },
+  {
     "id": "a756da4c9139c1cd",
     "title": "Kit Bolsa Maternidade Bali - 05 Peças",
     "price_now": 1049.9,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-27T12:00:58.416959"
-  },
-  {
-    "id": "53bf1080a335acb3",
-    "title": "Fralda Huggies Natural Care P 36 unidades",
-    "price_now": 34.1,
-    "price_was": 53.4,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/519671669717905078492864965593.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-27T11:30:55.653309"
-  },
-  {
-    "id": "6ac0b7330e12f7a0",
-    "title": "Taktark Babá Eletrônica Câmera, 4.3\" Monitor De Bebe, Sem Wi-fi, 2 Way Audio, Visão Nocturna, Zoom Digital, Economia De Energia Vox, Temperatura A",
-    "price_now": 351.48,
-    "price_was": 499.99,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0C6X3DT56?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/487091697117904570106492168866.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-26T21:31:04.700333"
-  },
-  {
-    "id": "e440fdc497d88b37",
-    "title": "Trocador Infantil Impermeável Dupla Face Infantil Bebê Higiênico Portátil Macio Não Esquenta",
-    "price_now": 14.98,
-    "price_was": 29.96,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/9zy32i5QAp",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mpau1d8oc9ohc4",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-26T18:31:00.904846"
   }
 ]
