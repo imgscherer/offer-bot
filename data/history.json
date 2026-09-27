@@ -4283,6 +4283,10 @@
     "c89f4853b589d98d": {
       "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
       "posted_at": "2026-09-27T20:00:55.360214"
+    },
+    "5188bc1a5e9846d3": {
+      "title": "Fralda Pom Pom Protek XG 38 unidades",
+      "posted_at": "2026-09-27T21:00:55.896132"
     }
   },
   "results": [
@@ -21365,6 +21369,14 @@
       "post_id": "1078",
       "error": null,
       "at": "2026-09-27T20:00:55.359459"
+    },
+    {
+      "offer_id": "5188bc1a5e9846d3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1079",
+      "error": null,
+      "at": "2026-09-27T21:00:55.795130"
     }
   ]
 }

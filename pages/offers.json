@@ -1,5 +1,17 @@
 [
   {
+    "id": "5188bc1a5e9846d3",
+    "title": "Fralda Pom Pom Protek XG 38 unidades",
+    "price_now": 33.17,
+    "price_was": 50.29,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/870046291617905420917539691441.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-27T21:00:55.795450"
+  },
+  {
     "id": "c89f4853b589d98d",
     "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
     "price_now": 37.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-27T14:20:46.357822"
-  },
-  {
-    "id": "8c830d3ca5573751",
-    "title": "Granado Refil Shampoo Bebê Tradicional 250ml",
-    "price_now": 11.0,
-    "price_was": 16.22,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0D8JVLYKT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/862250720917905174908157624092.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-27T14:01:00.203368"
   }
 ]
