@@ -4271,6 +4271,10 @@
     "1a78cb33d6eb12db": {
       "title": "Kit 5 conjuntos Lilobu body bebe curta e short tapa fralda canelado macio e confortável 24005-K5",
       "posted_at": "2026-09-27T18:00:53.811659"
+    },
+    "634ff80077142689": {
+      "title": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
+      "posted_at": "2026-09-27T18:50:45.404428"
     }
   },
   "results": [
@@ -21329,6 +21333,14 @@
       "post_id": "1075",
       "error": null,
       "at": "2026-09-27T18:00:53.810944"
+    },
+    {
+      "offer_id": "634ff80077142689",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1076",
+      "error": null,
+      "at": "2026-09-27T18:50:45.403677"
     }
   ]
 }

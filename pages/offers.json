@@ -1,5 +1,17 @@
 [
   {
+    "id": "634ff80077142689",
+    "title": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
+    "price_now": 35.0,
+    "price_was": 50.04,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/175580831217905341186255208253.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-27T18:50:45.404011"
+  },
+  {
     "id": "1a78cb33d6eb12db",
     "title": "Kit 5 conjuntos Lilobu body bebe curta e short tapa fralda canelado macio e confortável 24005-K5",
     "price_now": 175.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-27T12:40:45.875014"
-  },
-  {
-    "id": "c7cb826aea43f991",
-    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
-    "price_now": 5.99,
-    "price_was": 9.42,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/138540115917905101755932684712.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-27T12:00:58.416959"
   }
 ]
