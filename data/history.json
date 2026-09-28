@@ -4327,6 +4327,10 @@
     "db1cbd4222b4581f": {
       "title": "Lenço Umedecido Johnson's Baby Proteção da Pele 96 unidades",
       "posted_at": "2026-09-28T12:50:43.712767"
+    },
+    "952f51bb3c12f5c1": {
+      "title": "Personal Fralda Baby Total Protect Pants M 28 Unidades",
+      "posted_at": "2026-09-28T14:30:53.612266"
     }
   },
   "results": [
@@ -21921,6 +21925,14 @@
       "post_id": "1089",
       "error": null,
       "at": "2026-09-28T12:50:43.712132"
+    },
+    {
+      "offer_id": "952f51bb3c12f5c1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1090",
+      "error": null,
+      "at": "2026-09-28T14:30:53.611429"
     }
   ]
 }

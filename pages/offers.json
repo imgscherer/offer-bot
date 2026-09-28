@@ -1,5 +1,17 @@
 [
   {
+    "id": "952f51bb3c12f5c1",
+    "title": "Personal Fralda Baby Total Protect Pants M 28 Unidades",
+    "price_now": 26.0,
+    "price_was": 39.49,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/469556673717906050184008179213.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-28T14:30:53.611822"
+  },
+  {
     "id": "db1cbd4222b4581f",
     "title": "Lenço Umedecido Johnson's Baby Proteção da Pele 96 unidades",
     "price_now": 15.37,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-27T21:00:55.795450"
-  },
-  {
-    "id": "c89f4853b589d98d",
-    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
-    "price_now": 37.0,
-    "price_was": 52.65,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/937185593317905387283188567731.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-27T20:00:55.359770"
   }
 ]
