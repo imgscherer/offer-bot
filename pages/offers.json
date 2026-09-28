@@ -1,5 +1,17 @@
 [
   {
+    "id": "68e7d5f3031a5350",
+    "title": "Huggies Fralda Tripla Proteção M 92 Un",
+    "price_now": 73.47,
+    "price_was": 109.03,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/772236646817905906299395699777.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-28T10:20:57.058997"
+  },
+  {
     "id": "b17ba544185d8749",
     "title": "Kit Bolsa Maternidade Menino Luxo Laço Bernardo - 03 Peças",
     "price_now": 579.9,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-27T17:30:38.355384"
-  },
-  {
-    "id": "dc7f4781a0951212",
-    "title": "Bolsa Maternidade Menina Luxo Listras Cinza Grafite - Belaa Baby",
-    "price_now": 219.9,
-    "price_was": 399.82,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/2Vs3dhIUPL",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-loobk2s38iua3b",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-27T17:30:35.209614"
   }
 ]
