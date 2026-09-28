@@ -4303,6 +4303,10 @@
     "2ee86cc3308209be": {
       "title": "Fralda Huggies Tripla Proteção P - 46 Fraldas",
       "posted_at": "2026-09-28T10:40:59.384543"
+    },
+    "b808ae2cbb3819e3": {
+      "title": "Fralda Huggies Tripla Proteção P - 46 fraldas",
+      "posted_at": "2026-09-28T11:30:58.300415"
     }
   },
   "results": [
@@ -21809,6 +21813,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-28T11:10:43.620048"
+    },
+    {
+      "offer_id": "b808ae2cbb3819e3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1084",
+      "error": null,
+      "at": "2026-09-28T11:30:58.299542"
     }
   ]
 }
