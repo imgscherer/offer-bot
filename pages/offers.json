@@ -1,5 +1,29 @@
 [
   {
+    "id": "4fd9ad093464fd78",
+    "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
+    "price_now": 26.99,
+    "price_was": 39.49,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/663371674217905950695149033521.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-28T11:51:05.261078"
+  },
+  {
+    "id": "65e6da9ba8887ef6",
+    "title": "Huggies Fralda Tripla Proteção M 92 Un",
+    "price_now": 69.0,
+    "price_was": 109.03,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/576525365717905956096914683660.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-28T11:50:54.805148"
+  },
+  {
     "id": "b808ae2cbb3819e3",
     "title": "Fralda Huggies Tripla Proteção P - 46 fraldas",
     "price_now": 31.0,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-27T18:00:53.811188"
-  },
-  {
-    "id": "ec9fa684c95afb18",
-    "title": "Porta Fralda Portátil Infantil Bebe com Divisórias Para Bolsa Organizar Menino Menina",
-    "price_now": 24.85,
-    "price_was": 35.5,
-    "discount_pct": 30,
-    "url": "https://s.shopee.com.br/5fp5RaC8Gy",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mpb0oxtql3pib5",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-27T18:00:50.843888"
-  },
-  {
-    "id": "d0b05032be73cb1d",
-    "title": "Conjunto/Kit Lilobu 2 Body Manga Curta + 2 Shorts Canelado Bebê Menina Menino RN ao GG 05k2",
-    "price_now": 67.19,
-    "price_was": 119.98,
-    "discount_pct": 44,
-    "url": "https://s.shopee.com.br/4qFyS3FIxs",
-    "image": "https://cf.shopee.com.br/file/br-11134201-820mc-mqyboxrpqlfq03",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-27T18:00:43.119073"
   }
 ]

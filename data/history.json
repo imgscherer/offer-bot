@@ -4307,6 +4307,14 @@
     "b808ae2cbb3819e3": {
       "title": "Fralda Huggies Tripla Proteção P - 46 fraldas",
       "posted_at": "2026-09-28T11:30:58.300415"
+    },
+    "65e6da9ba8887ef6": {
+      "title": "Huggies Fralda Tripla Proteção M 92 Un",
+      "posted_at": "2026-09-28T11:50:54.805656"
+    },
+    "4fd9ad093464fd78": {
+      "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
+      "posted_at": "2026-09-28T11:51:05.261729"
     }
   },
   "results": [
@@ -21821,6 +21829,22 @@
       "post_id": "1084",
       "error": null,
       "at": "2026-09-28T11:30:58.299542"
+    },
+    {
+      "offer_id": "65e6da9ba8887ef6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1085",
+      "error": null,
+      "at": "2026-09-28T11:50:54.804801"
+    },
+    {
+      "offer_id": "4fd9ad093464fd78",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1086",
+      "error": null,
+      "at": "2026-09-28T11:51:05.260653"
     }
   ]
 }
