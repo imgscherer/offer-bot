@@ -4331,6 +4331,10 @@
     "952f51bb3c12f5c1": {
       "title": "Personal Fralda Baby Total Protect Pants M 28 Unidades",
       "posted_at": "2026-09-28T14:30:53.612266"
+    },
+    "fb6d1cd389fbed03": {
+      "title": "Lillo Chupeta Funny Animais Silicone Onça",
+      "posted_at": "2026-09-28T16:20:50.846724"
     }
   },
   "results": [
@@ -21933,6 +21937,14 @@
       "post_id": "1090",
       "error": null,
       "at": "2026-09-28T14:30:53.611429"
+    },
+    {
+      "offer_id": "fb6d1cd389fbed03",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1091",
+      "error": null,
+      "at": "2026-09-28T16:20:50.846014"
     }
   ]
 }
