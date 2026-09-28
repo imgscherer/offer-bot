@@ -1,5 +1,17 @@
 [
   {
+    "id": "db1cbd4222b4581f",
+    "title": "Lenço Umedecido Johnson's Baby Proteção da Pele 96 unidades",
+    "price_now": 15.37,
+    "price_was": 35.99,
+    "discount_pct": 57,
+    "url": "https://www.amazon.com.br/dp/B07D2FSCN5?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/789690438517905994574430630201.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-28T12:50:43.712456"
+  },
+  {
     "id": "5f65af64988b2f0a",
     "title": "Fralda Pampers Premium Care P 40 Unidades",
     "price_now": 49.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-27T20:00:55.359770"
-  },
-  {
-    "id": "6093a3968a79991e",
-    "title": "Huggies Fralda Premium Natural Care P - 36 Un",
-    "price_now": 34.0,
-    "price_was": 53.4,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/866764627617905350703621905044.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-27T19:00:55.866471"
   }
 ]

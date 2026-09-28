@@ -4323,6 +4323,10 @@
     "5f65af64988b2f0a": {
       "title": "Fralda Pampers Premium Care P 40 Unidades",
       "posted_at": "2026-09-28T12:40:55.078601"
+    },
+    "db1cbd4222b4581f": {
+      "title": "Lenço Umedecido Johnson's Baby Proteção da Pele 96 unidades",
+      "posted_at": "2026-09-28T12:50:43.712767"
     }
   },
   "results": [
@@ -21909,6 +21913,14 @@
       "post_id": "1088",
       "error": null,
       "at": "2026-09-28T12:40:55.077798"
+    },
+    {
+      "offer_id": "db1cbd4222b4581f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1089",
+      "error": null,
+      "at": "2026-09-28T12:50:43.712132"
     }
   ]
 }
