@@ -4343,6 +4343,10 @@
     "16ca8bc68625559e": {
       "title": "Fralda Babysec Ultra Sec G 60 Unidades",
       "posted_at": "2026-09-28T18:01:02.312889"
+    },
+    "09aaff5f446d2117": {
+      "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+      "posted_at": "2026-09-28T18:40:49.619934"
     }
   },
   "results": [
@@ -21969,6 +21973,14 @@
       "post_id": "1093",
       "error": null,
       "at": "2026-09-28T18:01:02.312014"
+    },
+    {
+      "offer_id": "09aaff5f446d2117",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1094",
+      "error": null,
+      "at": "2026-09-28T18:40:49.618704"
     }
   ]
 }
