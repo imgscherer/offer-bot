@@ -4291,6 +4291,10 @@
     "550eacc948102a63": {
       "title": "Fralda Pom Pom Protek Proteção De Mãe Mega Xg 38 Unidades",
       "posted_at": "2026-09-28T01:00:58.089952"
+    },
+    "b17ba544185d8749": {
+      "title": "Kit Bolsa Maternidade Menino Luxo Laço Bernardo - 03 Peças",
+      "posted_at": "2026-09-28T06:30:48.456081"
     }
   },
   "results": [
@@ -21541,6 +21545,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-28T06:20:41.419056"
+    },
+    {
+      "offer_id": "781d5b4a82eae48e",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-28T06:30:47.293542"
+    },
+    {
+      "offer_id": "b17ba544185d8749",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1081",
+      "error": null,
+      "at": "2026-09-28T06:30:48.455340"
     }
   ]
 }
