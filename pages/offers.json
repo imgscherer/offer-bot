@@ -1,5 +1,17 @@
 [
   {
+    "id": "db9354be22d0802f",
+    "title": "Fralda-Calça Superproteção MamyPoko XG 24 Unidades",
+    "price_now": 26.0,
+    "price_was": 42.9,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/818010903517906251302983859857.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-28T20:01:01.477960"
+  },
+  {
     "id": "8f1805fd22896251",
     "title": "Fralda Pampers Pants Ajuste Total",
     "price_now": 141.07,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-28T11:50:54.805148"
-  },
-  {
-    "id": "b808ae2cbb3819e3",
-    "title": "Fralda Huggies Tripla Proteção P - 46 fraldas",
-    "price_now": 31.0,
-    "price_was": 55.53,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/974229460117905942281152682076.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-28T11:30:58.299864"
   }
 ]

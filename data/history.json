@@ -4351,6 +4351,10 @@
     "8f1805fd22896251": {
       "title": "Fralda Pampers Pants Ajuste Total",
       "posted_at": "2026-09-28T18:50:54.318580"
+    },
+    "db9354be22d0802f": {
+      "title": "Fralda-Calça Superproteção MamyPoko XG 24 Unidades",
+      "posted_at": "2026-09-28T20:01:01.478482"
     }
   },
   "results": [
@@ -21993,6 +21997,14 @@
       "post_id": "1095",
       "error": null,
       "at": "2026-09-28T18:50:54.317689"
+    },
+    {
+      "offer_id": "db9354be22d0802f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1096",
+      "error": null,
+      "at": "2026-09-28T20:01:01.477584"
     }
   ]
 }
