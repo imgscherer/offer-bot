@@ -4335,6 +4335,10 @@
     "fb6d1cd389fbed03": {
       "title": "Lillo Chupeta Funny Animais Silicone Onça",
       "posted_at": "2026-09-28T16:20:50.846724"
+    },
+    "2481b294f6e679c5": {
+      "title": "Lenço Umedecido Recém nascido Huggies 192 unidades (4 pacotes com 48 unidades cada)",
+      "posted_at": "2026-09-28T17:50:51.812626"
     }
   },
   "results": [
@@ -21945,6 +21949,14 @@
       "post_id": "1091",
       "error": null,
       "at": "2026-09-28T16:20:50.846014"
+    },
+    {
+      "offer_id": "2481b294f6e679c5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1092",
+      "error": null,
+      "at": "2026-09-28T17:50:51.811878"
     }
   ]
 }
