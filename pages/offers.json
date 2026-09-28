@@ -1,5 +1,17 @@
 [
   {
+    "id": "8f1805fd22896251",
+    "title": "Fralda Pampers Pants Ajuste Total",
+    "price_now": 141.07,
+    "price_was": 229.49,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/486587966617906206658390682993.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-28T18:50:54.318092"
+  },
+  {
     "id": "09aaff5f446d2117",
     "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
     "price_now": 49.48,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-28T11:30:58.299864"
-  },
-  {
-    "id": "2ee86cc3308209be",
-    "title": "Fralda Huggies Tripla Proteção P - 46 Fraldas",
-    "price_now": 33.54,
-    "price_was": 55.53,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/129515753717905914754464450516.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-28T10:40:59.384072"
   }
 ]

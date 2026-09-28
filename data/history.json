@@ -4347,6 +4347,10 @@
     "09aaff5f446d2117": {
       "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
       "posted_at": "2026-09-28T18:40:49.619934"
+    },
+    "8f1805fd22896251": {
+      "title": "Fralda Pampers Pants Ajuste Total",
+      "posted_at": "2026-09-28T18:50:54.318580"
     }
   },
   "results": [
@@ -21981,6 +21985,14 @@
       "post_id": "1094",
       "error": null,
       "at": "2026-09-28T18:40:49.618704"
+    },
+    {
+      "offer_id": "8f1805fd22896251",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1095",
+      "error": null,
+      "at": "2026-09-28T18:50:54.317689"
     }
   ]
 }
