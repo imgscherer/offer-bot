@@ -4287,6 +4287,10 @@
     "5188bc1a5e9846d3": {
       "title": "Fralda Pom Pom Protek XG 38 unidades",
       "posted_at": "2026-09-27T21:00:55.896132"
+    },
+    "550eacc948102a63": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe Mega Xg 38 Unidades",
+      "posted_at": "2026-09-28T01:00:58.089952"
     }
   },
   "results": [
@@ -21377,6 +21381,14 @@
       "post_id": "1079",
       "error": null,
       "at": "2026-09-27T21:00:55.795130"
+    },
+    {
+      "offer_id": "550eacc948102a63",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1080",
+      "error": null,
+      "at": "2026-09-28T01:00:58.089051"
     }
   ]
 }
