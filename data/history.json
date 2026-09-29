@@ -4415,6 +4415,10 @@
     "7b0c6ff8a5461a16": {
       "title": "kit 5 Saquinhos Organizador Maternidade Multiuso para Roupas e Fraldas Estampa Safari",
       "posted_at": "2026-09-29T18:30:41.528185"
+    },
+    "895b1e04042bf17c": {
+      "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
+      "posted_at": "2026-09-29T18:40:53.408054"
     }
   },
   "results": [
@@ -22185,6 +22189,14 @@
       "post_id": "1111",
       "error": null,
       "at": "2026-09-29T18:30:41.527396"
+    },
+    {
+      "offer_id": "895b1e04042bf17c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1112",
+      "error": null,
+      "at": "2026-09-29T18:40:53.407221"
     }
   ]
 }

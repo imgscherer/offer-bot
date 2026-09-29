@@ -1,5 +1,17 @@
 [
   {
+    "id": "895b1e04042bf17c",
+    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
+    "price_now": 43.0,
+    "price_was": 62.99,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/812116027517907067966450506146.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-29T18:40:53.407555"
+  },
+  {
     "id": "7b0c6ff8a5461a16",
     "title": "kit 5 Saquinhos Organizador Maternidade Multiuso para Roupas e Fraldas Estampa Safari",
     "price_now": 35.55,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-29T11:20:47.599566"
-  },
-  {
-    "id": "982f0c64a52be40e",
-    "title": "Carrinho de Bebê e Berço Moises Napoli Preto Cobre Galzerano",
-    "price_now": 606.28,
-    "price_was": 1355.36,
-    "discount_pct": 55,
-    "url": "https://s.shopee.com.br/2gBWYzE232?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/845357928517906779284459047279.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-29T10:50:47.715898"
   }
 ]
