@@ -1,5 +1,65 @@
 [
   {
+    "id": "e58588386a4c363c",
+    "title": "Fralda Turma da Mônica Baby Mega XXG com 36",
+    "price_now": 35.0,
+    "price_was": 50.04,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KPQQWF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/885045650917907000103538949428.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-29T16:51:40.664410"
+  },
+  {
+    "id": "d98669c67187f1ac",
+    "title": "Fralda Turma da Mônica Baby Mega G com 44",
+    "price_now": 35.0,
+    "price_was": 50.04,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/621904972217907000152925666837.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-29T16:51:28.983765"
+  },
+  {
+    "id": "8a2860ee6d42842d",
+    "title": "Fralda Turma da Mônica Baby Mega P com 62",
+    "price_now": 35.0,
+    "price_was": 50.04,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/891751924417907000163370747330.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-29T16:51:13.152394"
+  },
+  {
+    "id": "47792d2080a8c9a6",
+    "title": "Fralda Turma da Mônica Baby Mega M com 50",
+    "price_now": 35.0,
+    "price_was": 50.04,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/402520858717907000177577923639.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-29T16:51:02.923654"
+  },
+  {
+    "id": "7e6d708282154f1c",
+    "title": "Fralda Turma da Mônica Baby Mega XG com 42",
+    "price_now": 35.0,
+    "price_was": 50.04,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KV2733?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/850585954817907000201527720603.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-29T16:50:53.749111"
+  },
+  {
     "id": "f5c19bfed675bfa9",
     "title": "Fralda Pampers Premium Care P 40 unidades",
     "price_now": 49.99,
@@ -82,65 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-29T03:30:48.561334"
-  },
-  {
-    "id": "1e96fa11e781ac25",
-    "title": "Papel de Parede Adesivo para Quarto Infantil Bebê Carrinho Vermelho Criança",
-    "price_now": 19.9,
-    "price_was": 39.8,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/1gIxVjdnme",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mtiqnba2w6ptab",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-29T03:30:43.198931"
-  },
-  {
-    "id": "db9354be22d0802f",
-    "title": "Fralda-Calça Superproteção MamyPoko XG 24 Unidades",
-    "price_now": 26.0,
-    "price_was": 42.9,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/818010903517906251302983859857.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-28T20:01:01.477960"
-  },
-  {
-    "id": "8f1805fd22896251",
-    "title": "Fralda Pampers Pants Ajuste Total",
-    "price_now": 141.07,
-    "price_was": 229.49,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/486587966617906206658390682993.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-28T18:50:54.318092"
-  },
-  {
-    "id": "09aaff5f446d2117",
-    "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
-    "price_now": 49.48,
-    "price_was": 101.58,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/575269048617906202283661512598.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-28T18:40:49.619047"
-  },
-  {
-    "id": "16ca8bc68625559e",
-    "title": "Fralda Babysec Ultra Sec G 60 Unidades",
-    "price_now": 44.53,
-    "price_was": 101.58,
-    "discount_pct": 56,
-    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/180454688717906182902584691398.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-28T18:01:02.312455"
   }
 ]

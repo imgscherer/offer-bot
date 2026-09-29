@@ -4387,6 +4387,26 @@
     "f5c19bfed675bfa9": {
       "title": "Fralda Pampers Premium Care P 40 unidades",
       "posted_at": "2026-09-29T15:30:54.628528"
+    },
+    "7e6d708282154f1c": {
+      "title": "Fralda Turma da Mônica Baby Mega XG com 42",
+      "posted_at": "2026-09-29T16:50:53.749589"
+    },
+    "47792d2080a8c9a6": {
+      "title": "Fralda Turma da Mônica Baby Mega M com 50",
+      "posted_at": "2026-09-29T16:51:02.924101"
+    },
+    "8a2860ee6d42842d": {
+      "title": "Fralda Turma da Mônica Baby Mega P com 62",
+      "posted_at": "2026-09-29T16:51:13.152793"
+    },
+    "d98669c67187f1ac": {
+      "title": "Fralda Turma da Mônica Baby Mega G com 44",
+      "posted_at": "2026-09-29T16:51:28.984274"
+    },
+    "e58588386a4c363c": {
+      "title": "Fralda Turma da Mônica Baby Mega XXG com 36",
+      "posted_at": "2026-09-29T16:51:40.664856"
     }
   },
   "results": [
@@ -22101,6 +22121,46 @@
       "post_id": "1104",
       "error": null,
       "at": "2026-09-29T15:30:54.627957"
+    },
+    {
+      "offer_id": "7e6d708282154f1c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1105",
+      "error": null,
+      "at": "2026-09-29T16:50:53.748755"
+    },
+    {
+      "offer_id": "47792d2080a8c9a6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1106",
+      "error": null,
+      "at": "2026-09-29T16:51:02.923337"
+    },
+    {
+      "offer_id": "8a2860ee6d42842d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1107",
+      "error": null,
+      "at": "2026-09-29T16:51:13.152071"
+    },
+    {
+      "offer_id": "d98669c67187f1ac",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1108",
+      "error": null,
+      "at": "2026-09-29T16:51:28.983476"
+    },
+    {
+      "offer_id": "e58588386a4c363c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1109",
+      "error": null,
+      "at": "2026-09-29T16:51:40.664067"
     }
   ]
 }
