@@ -1,5 +1,41 @@
 [
   {
+    "id": "d8b79ddf3e89e4ec",
+    "title": "Kit Bolsa Maternidade Menino Listras Cinza Azul - Belaa Baby",
+    "price_now": 519.9,
+    "price_was": 799.85,
+    "discount_pct": 35,
+    "url": "https://s.shopee.com.br/W71W7NzTm",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lopiyvuo8sz615",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-29T03:30:51.878144"
+  },
+  {
+    "id": "f692515e8662907a",
+    "title": "Papel de Parede Adesivo Azul Bebê para Quarto Infantil Carrinhos Colorido",
+    "price_now": 19.9,
+    "price_was": 39.8,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/6AlOGXBHmU",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mtiri41fxzb491",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-29T03:30:48.561334"
+  },
+  {
+    "id": "1e96fa11e781ac25",
+    "title": "Papel de Parede Adesivo para Quarto Infantil Bebê Carrinho Vermelho Criança",
+    "price_now": 19.9,
+    "price_was": 39.8,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/1gIxVjdnme",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mtiqnba2w6ptab",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-29T03:30:43.198931"
+  },
+  {
     "id": "db9354be22d0802f",
     "title": "Fralda-Calça Superproteção MamyPoko XG 24 Unidades",
     "price_now": 26.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-28T12:40:55.078148"
-  },
-  {
-    "id": "ddbdd6f02f0e5518",
-    "title": "Litet Berço e Cercado Nix 2 em 1 de 0 a 15Kg - BB691",
-    "price_now": 482.9,
-    "price_was": 844.0,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B0GMYCWP26?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/759222206217905967257831937215.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-28T12:00:54.875824"
-  },
-  {
-    "id": "4fd9ad093464fd78",
-    "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
-    "price_now": 26.99,
-    "price_was": 39.49,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/663371674217905950695149033521.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-28T11:51:05.261078"
-  },
-  {
-    "id": "65e6da9ba8887ef6",
-    "title": "Huggies Fralda Tripla Proteção M 92 Un",
-    "price_now": 69.0,
-    "price_was": 109.03,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/576525365717905956096914683660.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-28T11:50:54.805148"
   }
 ]

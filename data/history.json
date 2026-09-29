@@ -4355,6 +4355,18 @@
     "db9354be22d0802f": {
       "title": "Fralda-Calça Superproteção MamyPoko XG 24 Unidades",
       "posted_at": "2026-09-28T20:01:01.478482"
+    },
+    "1e96fa11e781ac25": {
+      "title": "Papel de Parede Adesivo para Quarto Infantil Bebê Carrinho Vermelho Criança",
+      "posted_at": "2026-09-29T03:30:43.199302"
+    },
+    "f692515e8662907a": {
+      "title": "Papel de Parede Adesivo Azul Bebê para Quarto Infantil Carrinhos Colorido",
+      "posted_at": "2026-09-29T03:30:48.561766"
+    },
+    "d8b79ddf3e89e4ec": {
+      "title": "Kit Bolsa Maternidade Menino Listras Cinza Azul - Belaa Baby",
+      "posted_at": "2026-09-29T03:30:51.878603"
     }
   },
   "results": [
@@ -22005,6 +22017,30 @@
       "post_id": "1096",
       "error": null,
       "at": "2026-09-28T20:01:01.477584"
+    },
+    {
+      "offer_id": "1e96fa11e781ac25",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1097",
+      "error": null,
+      "at": "2026-09-29T03:30:43.198620"
+    },
+    {
+      "offer_id": "f692515e8662907a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1098",
+      "error": null,
+      "at": "2026-09-29T03:30:48.561013"
+    },
+    {
+      "offer_id": "d8b79ddf3e89e4ec",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1099",
+      "error": null,
+      "at": "2026-09-29T03:30:51.877796"
     }
   ]
 }
