@@ -4379,6 +4379,10 @@
     "419aaf59ab417a02": {
       "title": "Mustela Água de Limpeza Sem Enxágue Bebê 300 ml",
       "posted_at": "2026-09-29T11:20:55.631638"
+    },
+    "e6f04ea58c5da5c2": {
+      "title": "Carrinho de Bebê e Berço Moises Napoli Galzerano",
+      "posted_at": "2026-09-29T11:50:52.909200"
     }
   },
   "results": [
@@ -22077,6 +22081,14 @@
       "post_id": "1102",
       "error": null,
       "at": "2026-09-29T11:20:55.630514"
+    },
+    {
+      "offer_id": "e6f04ea58c5da5c2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1103",
+      "error": null,
+      "at": "2026-09-29T11:50:52.908539"
     }
   ]
 }
