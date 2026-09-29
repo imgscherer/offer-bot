@@ -4367,6 +4367,10 @@
     "d8b79ddf3e89e4ec": {
       "title": "Kit Bolsa Maternidade Menino Listras Cinza Azul - Belaa Baby",
       "posted_at": "2026-09-29T03:30:51.878603"
+    },
+    "982f0c64a52be40e": {
+      "title": "Carrinho de Bebê e Berço Moises Napoli Preto Cobre Galzerano",
+      "posted_at": "2026-09-29T10:50:47.716687"
     }
   },
   "results": [
@@ -22041,6 +22045,14 @@
       "post_id": "1099",
       "error": null,
       "at": "2026-09-29T03:30:51.877796"
+    },
+    {
+      "offer_id": "982f0c64a52be40e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1100",
+      "error": null,
+      "at": "2026-09-29T10:50:47.715575"
     }
   ]
 }
