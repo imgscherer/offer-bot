@@ -1,5 +1,17 @@
 [
   {
+    "id": "1781b8cb638bac0a",
+    "title": "Protex Baby Delicate Care Sabonete Líquido Infantil, 200ml",
+    "price_now": 13.38,
+    "price_was": 22.78,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B08JQNSTJY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/302882823917907147084372284459.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-29T20:50:46.090545"
+  },
+  {
     "id": "02375a3d2b4c321f",
     "title": "Carrinho de Bebê com Alça Reversível YouGo Maxi Baby",
     "price_now": 429.4,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-29T15:30:54.628305"
-  },
-  {
-    "id": "e6f04ea58c5da5c2",
-    "title": "Carrinho de Bebê e Berço Moises Napoli Galzerano",
-    "price_now": 629.0,
-    "price_was": 1355.36,
-    "discount_pct": 54,
-    "url": "https://s.shopee.com.br/4fwb1KYf4w?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/964751996117906819493652949118.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-29T11:50:52.908869"
   }
 ]

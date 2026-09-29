@@ -4427,6 +4427,10 @@
     "02375a3d2b4c321f": {
       "title": "Carrinho de Bebê com Alça Reversível YouGo Maxi Baby",
       "posted_at": "2026-09-29T19:20:42.118326"
+    },
+    "1781b8cb638bac0a": {
+      "title": "Protex Baby Delicate Care Sabonete Líquido Infantil, 200ml",
+      "posted_at": "2026-09-29T20:50:46.090803"
     }
   },
   "results": [
@@ -22221,6 +22225,14 @@
       "post_id": "1114",
       "error": null,
       "at": "2026-09-29T19:20:42.117802"
+    },
+    {
+      "offer_id": "1781b8cb638bac0a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1115",
+      "error": null,
+      "at": "2026-09-29T20:50:46.090245"
     }
   ]
 }
