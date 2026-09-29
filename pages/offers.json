@@ -1,5 +1,17 @@
 [
   {
+    "id": "3491bd58aef481d9",
+    "title": "Carrinho de Bebê One4Ever Lounge até 22kg Chicco",
+    "price_now": 1899.0,
+    "price_was": 3199.0,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0DJQYH2G4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/335574952217907152176280903972.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-29T21:00:54.654363"
+  },
+  {
     "id": "1781b8cb638bac0a",
     "title": "Protex Baby Delicate Care Sabonete Líquido Infantil, 200ml",
     "price_now": 13.38,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-29T16:50:53.749111"
-  },
-  {
-    "id": "f5c19bfed675bfa9",
-    "title": "Fralda Pampers Premium Care P 40 unidades",
-    "price_now": 49.99,
-    "price_was": 71.67,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/374634044617906952118657676015.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-29T15:30:54.628305"
   }
 ]

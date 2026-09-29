@@ -4431,6 +4431,10 @@
     "1781b8cb638bac0a": {
       "title": "Protex Baby Delicate Care Sabonete Líquido Infantil, 200ml",
       "posted_at": "2026-09-29T20:50:46.090803"
+    },
+    "3491bd58aef481d9": {
+      "title": "Carrinho de Bebê One4Ever Lounge até 22kg Chicco",
+      "posted_at": "2026-09-29T21:00:54.654816"
     }
   },
   "results": [
@@ -22233,6 +22237,14 @@
       "post_id": "1115",
       "error": null,
       "at": "2026-09-29T20:50:46.090245"
+    },
+    {
+      "offer_id": "3491bd58aef481d9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1116",
+      "error": null,
+      "at": "2026-09-29T21:00:54.654016"
     }
   ]
 }
