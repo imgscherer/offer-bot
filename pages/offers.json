@@ -1,5 +1,17 @@
 [
   {
+    "id": "f5c19bfed675bfa9",
+    "title": "Fralda Pampers Premium Care P 40 unidades",
+    "price_now": 49.99,
+    "price_was": 71.67,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/374634044617906952118657676015.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-29T15:30:54.628305"
+  },
+  {
     "id": "e6f04ea58c5da5c2",
     "title": "Carrinho de Bebê e Berço Moises Napoli Galzerano",
     "price_now": 629.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-28T18:01:02.312455"
-  },
-  {
-    "id": "2481b294f6e679c5",
-    "title": "Lenço Umedecido Recém nascido Huggies 192 unidades (4 pacotes com 48 unidades cada)",
-    "price_now": 29.18,
-    "price_was": 41.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B08FV6G3QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/464191061017906176906686748665.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-28T17:50:51.812217"
   }
 ]

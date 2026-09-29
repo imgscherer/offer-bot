@@ -4383,6 +4383,10 @@
     "e6f04ea58c5da5c2": {
       "title": "Carrinho de Bebê e Berço Moises Napoli Galzerano",
       "posted_at": "2026-09-29T11:50:52.909200"
+    },
+    "f5c19bfed675bfa9": {
+      "title": "Fralda Pampers Premium Care P 40 unidades",
+      "posted_at": "2026-09-29T15:30:54.628528"
     }
   },
   "results": [
@@ -22089,6 +22093,14 @@
       "post_id": "1103",
       "error": null,
       "at": "2026-09-29T11:50:52.908539"
+    },
+    {
+      "offer_id": "f5c19bfed675bfa9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1104",
+      "error": null,
+      "at": "2026-09-29T15:30:54.627957"
     }
   ]
 }
