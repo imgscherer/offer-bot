@@ -1,5 +1,29 @@
 [
   {
+    "id": "419aaf59ab417a02",
+    "title": "Mustela Água de Limpeza Sem Enxágue Bebê 300 ml",
+    "price_now": 67.0,
+    "price_was": 99.9,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B07CTH8RTW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/211761962517906801548763039337.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-29T11:20:55.631232"
+  },
+  {
+    "id": "310a38ebc3535297",
+    "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
+    "price_now": 44.99,
+    "price_was": 77.27,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/446988268317906796123411630534.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-29T11:20:47.599566"
+  },
+  {
     "id": "982f0c64a52be40e",
     "title": "Carrinho de Bebê e Berço Moises Napoli Preto Cobre Galzerano",
     "price_now": 606.28,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-28T16:20:50.846316"
-  },
-  {
-    "id": "952f51bb3c12f5c1",
-    "title": "Personal Fralda Baby Total Protect Pants M 28 Unidades",
-    "price_now": 26.0,
-    "price_was": 39.49,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/469556673717906050184008179213.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-28T14:30:53.611822"
-  },
-  {
-    "id": "db1cbd4222b4581f",
-    "title": "Lenço Umedecido Johnson's Baby Proteção da Pele 96 unidades",
-    "price_now": 15.37,
-    "price_was": 35.99,
-    "discount_pct": 57,
-    "url": "https://www.amazon.com.br/dp/B07D2FSCN5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/789690438517905994574430630201.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-28T12:50:43.712456"
   }
 ]

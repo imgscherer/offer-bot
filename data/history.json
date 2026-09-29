@@ -4371,6 +4371,14 @@
     "982f0c64a52be40e": {
       "title": "Carrinho de Bebê e Berço Moises Napoli Preto Cobre Galzerano",
       "posted_at": "2026-09-29T10:50:47.716687"
+    },
+    "310a38ebc3535297": {
+      "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
+      "posted_at": "2026-09-29T11:20:47.599998"
+    },
+    "419aaf59ab417a02": {
+      "title": "Mustela Água de Limpeza Sem Enxágue Bebê 300 ml",
+      "posted_at": "2026-09-29T11:20:55.631638"
     }
   },
   "results": [
@@ -22053,6 +22061,22 @@
       "post_id": "1100",
       "error": null,
       "at": "2026-09-29T10:50:47.715575"
+    },
+    {
+      "offer_id": "310a38ebc3535297",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1101",
+      "error": null,
+      "at": "2026-09-29T11:20:47.599225"
+    },
+    {
+      "offer_id": "419aaf59ab417a02",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1102",
+      "error": null,
+      "at": "2026-09-29T11:20:55.630514"
     }
   ]
 }
