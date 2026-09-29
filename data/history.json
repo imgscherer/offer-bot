@@ -4435,6 +4435,10 @@
     "3491bd58aef481d9": {
       "title": "Carrinho de Bebê One4Ever Lounge até 22kg Chicco",
       "posted_at": "2026-09-29T21:00:54.654816"
+    },
+    "44dd4078ad8bd306": {
+      "title": "Berço Portátil Moisés 7 em 1 Co-Bed para Bebê com Balanço Mosquiteiro Trocador Cesto e Altura Regulável Kiumo",
+      "posted_at": "2026-09-29T22:50:51.994426"
     }
   },
   "results": [
@@ -22245,6 +22249,14 @@
       "post_id": "1116",
       "error": null,
       "at": "2026-09-29T21:00:54.654016"
+    },
+    {
+      "offer_id": "44dd4078ad8bd306",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1117",
+      "error": null,
+      "at": "2026-09-29T22:50:51.993761"
     }
   ]
 }
