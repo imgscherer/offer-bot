@@ -1,5 +1,17 @@
 [
   {
+    "id": "03c06bfc9a65735c",
+    "title": "Kit 3 Chupetas Mam",
+    "price_now": 66.4,
+    "price_was": 96.0,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0D4F4VS9M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/924258996517907081907012198445.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-29T19:00:55.699143"
+  },
+  {
     "id": "895b1e04042bf17c",
     "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
     "price_now": 43.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-29T11:20:55.631232"
-  },
-  {
-    "id": "310a38ebc3535297",
-    "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
-    "price_now": 44.99,
-    "price_was": 77.27,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/446988268317906796123411630534.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-29T11:20:47.599566"
   }
 ]
