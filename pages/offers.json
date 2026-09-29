@@ -1,5 +1,17 @@
 [
   {
+    "id": "02375a3d2b4c321f",
+    "title": "Carrinho de Bebê com Alça Reversível YouGo Maxi Baby",
+    "price_now": 429.4,
+    "price_was": 899.9,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B0DS6HRGFF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/565297578717907088934049713164.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-29T19:20:42.118084"
+  },
+  {
     "id": "03c06bfc9a65735c",
     "title": "Kit 3 Chupetas Mam",
     "price_now": 66.4,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-29T11:50:52.908869"
-  },
-  {
-    "id": "419aaf59ab417a02",
-    "title": "Mustela Água de Limpeza Sem Enxágue Bebê 300 ml",
-    "price_now": 67.0,
-    "price_was": 99.9,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B07CTH8RTW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/211761962517906801548763039337.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-29T11:20:55.631232"
   }
 ]

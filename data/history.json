@@ -4423,6 +4423,10 @@
     "03c06bfc9a65735c": {
       "title": "Kit 3 Chupetas Mam",
       "posted_at": "2026-09-29T19:00:55.699438"
+    },
+    "02375a3d2b4c321f": {
+      "title": "Carrinho de Bebê com Alça Reversível YouGo Maxi Baby",
+      "posted_at": "2026-09-29T19:20:42.118326"
     }
   },
   "results": [
@@ -22209,6 +22213,14 @@
       "post_id": "1113",
       "error": null,
       "at": "2026-09-29T19:00:55.698747"
+    },
+    {
+      "offer_id": "02375a3d2b4c321f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1114",
+      "error": null,
+      "at": "2026-09-29T19:20:42.117802"
     }
   ]
 }
