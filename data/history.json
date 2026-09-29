@@ -4407,6 +4407,10 @@
     "e58588386a4c363c": {
       "title": "Fralda Turma da Mônica Baby Mega XXG com 36",
       "posted_at": "2026-09-29T16:51:40.664856"
+    },
+    "66942ecb5acef6e5": {
+      "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
+      "posted_at": "2026-09-29T18:01:01.325066"
     }
   },
   "results": [
@@ -22161,6 +22165,14 @@
       "post_id": "1109",
       "error": null,
       "at": "2026-09-29T16:51:40.664067"
+    },
+    {
+      "offer_id": "66942ecb5acef6e5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1110",
+      "error": null,
+      "at": "2026-09-29T18:01:01.324294"
     }
   ]
 }
