@@ -4531,6 +4531,14 @@
     "921eb6f541e53c83": {
       "title": "Lenços Umedecidos Pampers Cuidado De Bebê 192 Unidades",
       "posted_at": "2026-09-30T21:01:02.950284"
+    },
+    "f83f92917c0a171b": {
+      "title": "Creme Preventivo de Assaduras para Bebês Desitin Creamy, 57g",
+      "posted_at": "2026-09-30T22:30:49.918519"
+    },
+    "5056f30dc7cfa624": {
+      "title": "Shampoo Para Bebê Johnson's Baby Regular, 200ml, Amarelo",
+      "posted_at": "2026-09-30T22:31:01.310761"
     }
   },
   "results": [
@@ -22613,6 +22621,22 @@
       "post_id": "1140",
       "error": null,
       "at": "2026-09-30T21:01:02.949482"
+    },
+    {
+      "offer_id": "f83f92917c0a171b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1141",
+      "error": null,
+      "at": "2026-09-30T22:30:49.917783"
+    },
+    {
+      "offer_id": "5056f30dc7cfa624",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1142",
+      "error": null,
+      "at": "2026-09-30T22:31:01.308549"
     }
   ]
 }
