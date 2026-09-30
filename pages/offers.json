@@ -1,5 +1,17 @@
 [
   {
+    "id": "3d7ea198cb38460e",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega M 48 Unidades",
+    "price_now": 35.0,
+    "price_was": 50.29,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/430621399117907790891381053880.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-30T14:50:51.205674"
+  },
+  {
     "id": "e08569b68cc5acde",
     "title": "Chupeta Ultra Soft Uniatária Seda Bege 6-18M Philips Avent",
     "price_now": 28.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-30T11:01:05.569646"
-  },
-  {
-    "id": "35bc1355938cb09c",
-    "title": "40 Mini Pezinhos de Sabonete Perfumado para Chá de Fralda Infantil 20 pares",
-    "price_now": 42.0,
-    "price_was": 120.0,
-    "discount_pct": 65,
-    "url": "https://s.shopee.com.br/9fLIUhJphh",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mq6p73aybn5t33",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-30T10:30:42.040329"
   }
 ]

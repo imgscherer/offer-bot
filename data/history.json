@@ -4491,6 +4491,10 @@
     "e08569b68cc5acde": {
       "title": "Chupeta Ultra Soft Uniatária Seda Bege 6-18M Philips Avent",
       "posted_at": "2026-09-30T14:00:55.916966"
+    },
+    "3d7ea198cb38460e": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Mega M 48 Unidades",
+      "posted_at": "2026-09-30T14:50:51.205914"
     }
   },
   "results": [
@@ -22453,6 +22457,14 @@
       "post_id": "1130",
       "error": null,
       "at": "2026-09-30T14:00:55.916132"
+    },
+    {
+      "offer_id": "3d7ea198cb38460e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1131",
+      "error": null,
+      "at": "2026-09-30T14:50:51.205377"
     }
   ]
 }
