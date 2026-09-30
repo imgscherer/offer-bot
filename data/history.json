@@ -4503,6 +4503,10 @@
     "0daa5db22d34fcdf": {
       "title": "Carrinho de Bebê Bytes Grey Denin Safety 1st",
       "posted_at": "2026-09-30T15:41:01.354097"
+    },
+    "b67d5e39e32df177": {
+      "title": "Chupeta MAM Supreme 0 a 6 Meses Kit com 2 Unidades",
+      "posted_at": "2026-09-30T16:33:00.937887"
     }
   },
   "results": [
@@ -22489,6 +22493,14 @@
       "post_id": "1133",
       "error": null,
       "at": "2026-09-30T15:41:01.353481"
+    },
+    {
+      "offer_id": "b67d5e39e32df177",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1134",
+      "error": null,
+      "at": "2026-09-30T16:33:00.937224"
     }
   ]
 }
