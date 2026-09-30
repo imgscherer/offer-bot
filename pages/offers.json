@@ -1,5 +1,29 @@
 [
   {
+    "id": "5273cb60937c0285",
+    "title": "Fralda Huggies Pants Proteção Alcochoada G 30 unidades",
+    "price_now": 33.24,
+    "price_was": 65.29,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07FN9FRVM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/429160781017907674078079835539.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-30T11:41:46.055305"
+  },
+  {
+    "id": "2d4e94a0046ab64f",
+    "title": "Carrinho De Passeio Zociella Infantil (2 Cores)",
+    "price_now": 152.86,
+    "price_was": 363.62,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/8AWUlZvmKS?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/776659157517907674103145648106.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-30T11:41:31.507715"
+  },
+  {
     "id": "8626e3c22d1617b4",
     "title": "Huggies Fralda Pants Premium Natural Care XXG - 52 Un",
     "price_now": 79.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-29T19:00:55.699143"
-  },
-  {
-    "id": "895b1e04042bf17c",
-    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
-    "price_now": 43.0,
-    "price_was": 62.99,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/812116027517907067966450506146.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-29T18:40:53.407555"
-  },
-  {
-    "id": "7b0c6ff8a5461a16",
-    "title": "kit 5 Saquinhos Organizador Maternidade Multiuso para Roupas e Fraldas Estampa Safari",
-    "price_now": 35.55,
-    "price_was": 69.71,
-    "discount_pct": 49,
-    "url": "https://s.shopee.com.br/905adXsPDe",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mqzck08dxb7o49",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-09-29T18:30:41.527725"
   }
 ]

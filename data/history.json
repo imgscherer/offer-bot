@@ -4459,6 +4459,14 @@
     "8626e3c22d1617b4": {
       "title": "Huggies Fralda Pants Premium Natural Care XXG - 52 Un",
       "posted_at": "2026-09-30T11:20:59.785888"
+    },
+    "2d4e94a0046ab64f": {
+      "title": "Carrinho De Passeio Zociella Infantil (2 Cores)",
+      "posted_at": "2026-09-30T11:41:31.508207"
+    },
+    "5273cb60937c0285": {
+      "title": "Fralda Huggies Pants Proteção Alcochoada G 30 unidades",
+      "posted_at": "2026-09-30T11:41:46.055743"
     }
   },
   "results": [
@@ -22317,6 +22325,22 @@
       "post_id": "1122",
       "error": null,
       "at": "2026-09-30T11:20:59.784938"
+    },
+    {
+      "offer_id": "2d4e94a0046ab64f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1123",
+      "error": null,
+      "at": "2026-09-30T11:41:31.507346"
+    },
+    {
+      "offer_id": "5273cb60937c0285",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1124",
+      "error": null,
+      "at": "2026-09-30T11:41:46.054878"
     }
   ]
 }
