@@ -1,5 +1,17 @@
 [
   {
+    "id": "300108ef10a5af04",
+    "title": "Fralda Huggies Natural Care RN 34 Unidades",
+    "price_now": 30.54,
+    "price_was": 43.59,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/326476000417907984787779200710.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-30T20:10:58.854299"
+  },
+  {
     "id": "c1cf198c7300eb4c",
     "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
     "price_now": 32.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-30T12:01:36.984708"
-  },
-  {
-    "id": "85d78adc1b896d77",
-    "title": "Fralda Mili Baby XXG 16 unidades",
-    "price_now": 18.99,
-    "price_was": 34.89,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07G5PQ8VH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/632073517217907693108137616402.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-30T12:01:05.091032"
   }
 ]

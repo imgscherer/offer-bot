@@ -4515,6 +4515,10 @@
     "c1cf198c7300eb4c": {
       "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
       "posted_at": "2026-09-30T18:50:43.158926"
+    },
+    "300108ef10a5af04": {
+      "title": "Fralda Huggies Natural Care RN 34 Unidades",
+      "posted_at": "2026-09-30T20:10:58.854754"
     }
   },
   "results": [
@@ -22557,6 +22561,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-09-30T20:00:46.519107"
+    },
+    {
+      "offer_id": "3f24ae4e5d40e4c7",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-30T20:10:46.849099"
+    },
+    {
+      "offer_id": "300108ef10a5af04",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1137",
+      "error": null,
+      "at": "2026-09-30T20:10:58.853953"
     }
   ]
 }
