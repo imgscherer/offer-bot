@@ -1,5 +1,17 @@
 [
   {
+    "id": "34c686f042992c0d",
+    "title": "Chinelo Slide Infantil Feminino masculino (Tam. 25 ao 32, Diversas opções)",
+    "price_now": 19.99,
+    "price_was": 39.98,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/3B7pOdmkbi?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/726397927917907990822499772886.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-30T20:20:45.388128"
+  },
+  {
     "id": "300108ef10a5af04",
     "title": "Fralda Huggies Natural Care RN 34 Unidades",
     "price_now": 30.54,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-30T12:01:48.058508"
-  },
-  {
-    "id": "da9d759969163bab",
-    "title": "Fralda Pants Huggies Proteção Acolchoada G com 60",
-    "price_now": 74.0,
-    "price_was": 113.25,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/423530430317907689557546660758.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-30T12:01:36.984708"
   }
 ]

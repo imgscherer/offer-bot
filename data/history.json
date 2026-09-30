@@ -4519,6 +4519,10 @@
     "300108ef10a5af04": {
       "title": "Fralda Huggies Natural Care RN 34 Unidades",
       "posted_at": "2026-09-30T20:10:58.854754"
+    },
+    "34c686f042992c0d": {
+      "title": "Chinelo Slide Infantil Feminino masculino (Tam. 25 ao 32, Diversas opções)",
+      "posted_at": "2026-09-30T20:20:45.388543"
     }
   },
   "results": [
@@ -22577,6 +22581,14 @@
       "post_id": "1137",
       "error": null,
       "at": "2026-09-30T20:10:58.853953"
+    },
+    {
+      "offer_id": "34c686f042992c0d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1138",
+      "error": null,
+      "at": "2026-09-30T20:20:45.387835"
     }
   ]
 }
