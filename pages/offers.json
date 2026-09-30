@@ -1,5 +1,29 @@
 [
   {
+    "id": "d774cb2531c01091",
+    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
+    "price_now": 36.49,
+    "price_was": 52.65,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B07C3JY2V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/605803314017907754306313450961.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-30T13:51:00.911554"
+  },
+  {
+    "id": "bfb188b6e3a4c86a",
+    "title": "Fralda Pampers Confort Sec P 50 Unidades",
+    "price_now": 44.0,
+    "price_was": 77.27,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/794299255817907761119330621712.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-30T13:50:49.352005"
+  },
+  {
     "id": "35fd173322485d2d",
     "title": "Fralda Pants Huggies Proteção Acolchoada M com 72",
     "price_now": 74.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-30T00:20:44.628918"
-  },
-  {
-    "id": "44dd4078ad8bd306",
-    "title": "Berço Portátil Moisés 7 em 1 Co-Bed para Bebê com Balanço Mosquiteiro Trocador Cesto e Altura Regulável Kiumo",
-    "price_now": 529.99,
-    "price_was": 1324.97,
-    "discount_pct": 60,
-    "url": "https://s.shopee.com.br/8V9KJVTYYP?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/836806769017907213769093541598.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-29T22:50:51.994044"
-  },
-  {
-    "id": "3491bd58aef481d9",
-    "title": "Carrinho de Bebê One4Ever Lounge até 22kg Chicco",
-    "price_now": 1899.0,
-    "price_was": 3199.0,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0DJQYH2G4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/335574952217907152176280903972.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-29T21:00:54.654363"
   }
 ]
