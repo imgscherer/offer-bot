@@ -4495,6 +4495,14 @@
     "3d7ea198cb38460e": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Mega M 48 Unidades",
       "posted_at": "2026-09-30T14:50:51.205914"
+    },
+    "ac1d31323e0b6687": {
+      "title": "Fralda Huggies Proteção Alcochoada Pants M 36 unidades",
+      "posted_at": "2026-09-30T15:40:51.850282"
+    },
+    "0daa5db22d34fcdf": {
+      "title": "Carrinho de Bebê Bytes Grey Denin Safety 1st",
+      "posted_at": "2026-09-30T15:41:01.354097"
     }
   },
   "results": [
@@ -22465,6 +22473,22 @@
       "post_id": "1131",
       "error": null,
       "at": "2026-09-30T14:50:51.205377"
+    },
+    {
+      "offer_id": "ac1d31323e0b6687",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1132",
+      "error": null,
+      "at": "2026-09-30T15:40:51.849594"
+    },
+    {
+      "offer_id": "0daa5db22d34fcdf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1133",
+      "error": null,
+      "at": "2026-09-30T15:41:01.353481"
     }
   ]
 }

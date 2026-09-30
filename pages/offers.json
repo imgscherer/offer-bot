@@ -1,5 +1,29 @@
 [
   {
+    "id": "0daa5db22d34fcdf",
+    "title": "Carrinho de Bebê Bytes Grey Denin Safety 1st",
+    "price_now": 536.36,
+    "price_was": 900.29,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0D49X477W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/469216399217907822131485936033.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-30T15:41:01.353706"
+  },
+  {
+    "id": "ac1d31323e0b6687",
+    "title": "Fralda Huggies Proteção Alcochoada Pants M 36 unidades",
+    "price_now": 33.24,
+    "price_was": 65.29,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07FNM9QRF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/813583062617907821496251576996.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-30T15:40:51.849883"
+  },
+  {
     "id": "3d7ea198cb38460e",
     "title": "Fralda Pom Pom Protek Proteção de Mãe Mega M 48 Unidades",
     "price_now": 35.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-30T11:20:59.785230"
-  },
-  {
-    "id": "82989e70d696bcde",
-    "title": "Fralda Huggies Supreme Care M 40 unidades",
-    "price_now": 36.09,
-    "price_was": 67.9,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B07FSVQZYX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/542921912117907651103851233688.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-30T11:01:19.409933"
-  },
-  {
-    "id": "124c35ceea94afd7",
-    "title": "Kit Mamadeira My 1st NUK 150ml e 300ml 2 Unidades",
-    "price_now": 61.2,
-    "price_was": 120.77,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07FPQVWNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/788163089817907658907534156354.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-30T11:01:05.569646"
   }
 ]
