@@ -1,5 +1,17 @@
 [
   {
+    "id": "8626e3c22d1617b4",
+    "title": "Huggies Fralda Pants Premium Natural Care XXG - 52 Un",
+    "price_now": 79.0,
+    "price_was": 118.35,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0BKLM298N?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/395611401417907665678014376661.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-30T11:20:59.785230"
+  },
+  {
     "id": "82989e70d696bcde",
     "title": "Fralda Huggies Supreme Care M 40 unidades",
     "price_now": 36.09,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-29T18:30:41.527725"
-  },
-  {
-    "id": "66942ecb5acef6e5",
-    "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
-    "price_now": 11.77,
-    "price_was": 22.29,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B07DHSFWBL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/184053199517907044511789729511.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-29T18:01:01.324626"
   }
 ]
