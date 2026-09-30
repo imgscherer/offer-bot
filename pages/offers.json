@@ -1,5 +1,17 @@
 [
   {
+    "id": "5122229ad65d5529",
+    "title": "Fralda Pants Huggies Supreme Care Tamanho XXG 58 Un",
+    "price_now": 73.0,
+    "price_was": 131.78,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B0BXM4ZSBD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/769879413917908006931914211874.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-30T20:50:53.217254"
+  },
+  {
     "id": "34c686f042992c0d",
     "title": "Chinelo Slide Infantil Feminino masculino (Tam. 25 ao 32, Diversas opções)",
     "price_now": 19.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-30T13:50:49.352005"
-  },
-  {
-    "id": "35fd173322485d2d",
-    "title": "Fralda Pants Huggies Proteção Acolchoada M com 72",
-    "price_now": 74.0,
-    "price_was": 113.25,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B08GZNWJ17?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/768801118317907689557607992847.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-30T12:01:48.058508"
   }
 ]

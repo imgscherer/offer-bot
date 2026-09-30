@@ -4523,6 +4523,10 @@
     "34c686f042992c0d": {
       "title": "Chinelo Slide Infantil Feminino masculino (Tam. 25 ao 32, Diversas opções)",
       "posted_at": "2026-09-30T20:20:45.388543"
+    },
+    "5122229ad65d5529": {
+      "title": "Fralda Pants Huggies Supreme Care Tamanho XXG 58 Un",
+      "posted_at": "2026-09-30T20:50:53.217716"
     }
   },
   "results": [
@@ -22589,6 +22593,14 @@
       "post_id": "1138",
       "error": null,
       "at": "2026-09-30T20:20:45.387835"
+    },
+    {
+      "offer_id": "5122229ad65d5529",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1139",
+      "error": null,
+      "at": "2026-09-30T20:50:53.216896"
     }
   ]
 }
