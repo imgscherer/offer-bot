@@ -1,5 +1,17 @@
 [
   {
+    "id": "69a406473bf67560",
+    "title": "Sabonete Líquido Bebê Protex Baby Delicate Care 200ml",
+    "price_now": 12.0,
+    "price_was": 22.78,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B08JQNSTJY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/421913938717907267689952976761.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-30T00:20:44.628918"
+  },
+  {
     "id": "44dd4078ad8bd306",
     "title": "Berço Portátil Moisés 7 em 1 Co-Bed para Bebê com Balanço Mosquiteiro Trocador Cesto e Altura Regulável Kiumo",
     "price_now": 529.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-29T16:51:13.152394"
-  },
-  {
-    "id": "47792d2080a8c9a6",
-    "title": "Fralda Turma da Mônica Baby Mega M com 50",
-    "price_now": 35.0,
-    "price_was": 50.04,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/402520858717907000177577923639.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-29T16:51:02.923654"
   }
 ]

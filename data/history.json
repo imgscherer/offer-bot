@@ -4439,6 +4439,10 @@
     "44dd4078ad8bd306": {
       "title": "Berço Portátil Moisés 7 em 1 Co-Bed para Bebê com Balanço Mosquiteiro Trocador Cesto e Altura Regulável Kiumo",
       "posted_at": "2026-09-29T22:50:51.994426"
+    },
+    "69a406473bf67560": {
+      "title": "Sabonete Líquido Bebê Protex Baby Delicate Care 200ml",
+      "posted_at": "2026-09-30T00:20:44.629405"
     }
   },
   "results": [
@@ -22257,6 +22261,14 @@
       "post_id": "1117",
       "error": null,
       "at": "2026-09-29T22:50:51.993761"
+    },
+    {
+      "offer_id": "69a406473bf67560",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1118",
+      "error": null,
+      "at": "2026-09-30T00:20:44.628618"
     }
   ]
 }
