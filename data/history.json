@@ -4443,6 +4443,10 @@
     "69a406473bf67560": {
       "title": "Sabonete Líquido Bebê Protex Baby Delicate Care 200ml",
       "posted_at": "2026-09-30T00:20:44.629405"
+    },
+    "35bc1355938cb09c": {
+      "title": "40 Mini Pezinhos de Sabonete Perfumado para Chá de Fralda Infantil 20 pares",
+      "posted_at": "2026-09-30T10:30:42.040650"
     }
   },
   "results": [
@@ -22269,6 +22273,14 @@
       "post_id": "1118",
       "error": null,
       "at": "2026-09-30T00:20:44.628618"
+    },
+    {
+      "offer_id": "35bc1355938cb09c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1119",
+      "error": null,
+      "at": "2026-09-30T10:30:42.039974"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "35bc1355938cb09c",
+    "title": "40 Mini Pezinhos de Sabonete Perfumado para Chá de Fralda Infantil 20 pares",
+    "price_now": 42.0,
+    "price_was": 120.0,
+    "discount_pct": 65,
+    "url": "https://s.shopee.com.br/9fLIUhJphh",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mq6p73aybn5t33",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-09-30T10:30:42.040329"
+  },
+  {
     "id": "69a406473bf67560",
     "title": "Sabonete Líquido Bebê Protex Baby Delicate Care 200ml",
     "price_now": 12.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-29T16:51:28.983765"
-  },
-  {
-    "id": "8a2860ee6d42842d",
-    "title": "Fralda Turma da Mônica Baby Mega P com 62",
-    "price_now": 35.0,
-    "price_was": 50.04,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/891751924417907000163370747330.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-29T16:51:13.152394"
   }
 ]
