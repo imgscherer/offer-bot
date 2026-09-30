@@ -1,5 +1,17 @@
 [
   {
+    "id": "c1cf198c7300eb4c",
+    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
+    "price_now": 32.0,
+    "price_was": 52.65,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B07C3JY2V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/708490487017907939499572544121.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-30T18:50:43.158451"
+  },
+  {
     "id": "fcac204572c8d083",
     "title": "Kit com 3 Body Bebê Em Ribana Hering Kids",
     "price_now": 63.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-30T12:01:05.091032"
-  },
-  {
-    "id": "5273cb60937c0285",
-    "title": "Fralda Huggies Pants Proteção Alcochoada G 30 unidades",
-    "price_now": 33.24,
-    "price_was": 65.29,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07FN9FRVM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/429160781017907674078079835539.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-30T11:41:46.055305"
   }
 ]

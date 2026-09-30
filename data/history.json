@@ -4511,6 +4511,10 @@
     "fcac204572c8d083": {
       "title": "Kit com 3 Body Bebê Em Ribana Hering Kids",
       "posted_at": "2026-09-30T18:20:53.066074"
+    },
+    "c1cf198c7300eb4c": {
+      "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
+      "posted_at": "2026-09-30T18:50:43.158926"
     }
   },
   "results": [
@@ -22513,6 +22517,14 @@
       "post_id": "1135",
       "error": null,
       "at": "2026-09-30T18:20:53.065142"
+    },
+    {
+      "offer_id": "c1cf198c7300eb4c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1136",
+      "error": null,
+      "at": "2026-09-30T18:50:43.158113"
     }
   ]
 }
