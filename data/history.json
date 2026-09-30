@@ -4467,6 +4467,18 @@
     "5273cb60937c0285": {
       "title": "Fralda Huggies Pants Proteção Alcochoada G 30 unidades",
       "posted_at": "2026-09-30T11:41:46.055743"
+    },
+    "85d78adc1b896d77": {
+      "title": "Fralda Mili Baby XXG 16 unidades",
+      "posted_at": "2026-09-30T12:01:05.091442"
+    },
+    "da9d759969163bab": {
+      "title": "Fralda Pants Huggies Proteção Acolchoada G com 60",
+      "posted_at": "2026-09-30T12:01:36.985118"
+    },
+    "35fd173322485d2d": {
+      "title": "Fralda Pants Huggies Proteção Acolchoada M com 72",
+      "posted_at": "2026-09-30T12:01:48.058919"
     }
   },
   "results": [
@@ -22341,6 +22353,38 @@
       "post_id": "1124",
       "error": null,
       "at": "2026-09-30T11:41:46.054878"
+    },
+    {
+      "offer_id": "85d78adc1b896d77",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1125",
+      "error": null,
+      "at": "2026-09-30T12:01:05.090695"
+    },
+    {
+      "offer_id": "27992d9dbbe257b5",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-09-30T12:01:23.530547"
+    },
+    {
+      "offer_id": "da9d759969163bab",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1126",
+      "error": null,
+      "at": "2026-09-30T12:01:36.984387"
+    },
+    {
+      "offer_id": "35fd173322485d2d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1127",
+      "error": null,
+      "at": "2026-09-30T12:01:48.058227"
     }
   ]
 }
