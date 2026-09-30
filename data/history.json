@@ -4487,6 +4487,10 @@
     "d774cb2531c01091": {
       "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
       "posted_at": "2026-09-30T13:51:00.911966"
+    },
+    "e08569b68cc5acde": {
+      "title": "Chupeta Ultra Soft Uniatária Seda Bege 6-18M Philips Avent",
+      "posted_at": "2026-09-30T14:00:55.916966"
     }
   },
   "results": [
@@ -22441,6 +22445,14 @@
       "post_id": "1129",
       "error": null,
       "at": "2026-09-30T13:51:00.911236"
+    },
+    {
+      "offer_id": "e08569b68cc5acde",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1130",
+      "error": null,
+      "at": "2026-09-30T14:00:55.916132"
     }
   ]
 }

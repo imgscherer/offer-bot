@@ -1,5 +1,17 @@
 [
   {
+    "id": "e08569b68cc5acde",
+    "title": "Chupeta Ultra Soft Uniatária Seda Bege 6-18M Philips Avent",
+    "price_now": 28.0,
+    "price_was": 55.9,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B09JZSPQCM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/723952554717907766279136022982.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-30T14:00:55.916523"
+  },
+  {
     "id": "d774cb2531c01091",
     "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
     "price_now": 36.49,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-09-30T10:30:42.040329"
-  },
-  {
-    "id": "69a406473bf67560",
-    "title": "Sabonete Líquido Bebê Protex Baby Delicate Care 200ml",
-    "price_now": 12.0,
-    "price_was": 22.78,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B08JQNSTJY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/421913938717907267689952976761.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-30T00:20:44.628918"
   }
 ]
