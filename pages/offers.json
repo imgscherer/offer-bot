@@ -1,5 +1,29 @@
 [
   {
+    "id": "82989e70d696bcde",
+    "title": "Fralda Huggies Supreme Care M 40 unidades",
+    "price_now": 36.09,
+    "price_was": 67.9,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B07FSVQZYX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/542921912117907651103851233688.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-30T11:01:19.409933"
+  },
+  {
+    "id": "124c35ceea94afd7",
+    "title": "Kit Mamadeira My 1st NUK 150ml e 300ml 2 Unidades",
+    "price_now": 61.2,
+    "price_was": 120.77,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07FPQVWNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/788163089817907658907534156354.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-30T11:01:05.569646"
+  },
+  {
     "id": "35bc1355938cb09c",
     "title": "40 Mini Pezinhos de Sabonete Perfumado para Chá de Fralda Infantil 20 pares",
     "price_now": 42.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-29T18:01:01.324626"
-  },
-  {
-    "id": "e58588386a4c363c",
-    "title": "Fralda Turma da Mônica Baby Mega XXG com 36",
-    "price_now": 35.0,
-    "price_was": 50.04,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B099KPQQWF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/885045650917907000103538949428.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-29T16:51:40.664410"
-  },
-  {
-    "id": "d98669c67187f1ac",
-    "title": "Fralda Turma da Mônica Baby Mega G com 44",
-    "price_now": 35.0,
-    "price_was": 50.04,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/621904972217907000152925666837.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-29T16:51:28.983765"
   }
 ]

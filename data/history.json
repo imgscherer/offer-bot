@@ -4447,6 +4447,14 @@
     "35bc1355938cb09c": {
       "title": "40 Mini Pezinhos de Sabonete Perfumado para Chá de Fralda Infantil 20 pares",
       "posted_at": "2026-09-30T10:30:42.040650"
+    },
+    "124c35ceea94afd7": {
+      "title": "Kit Mamadeira My 1st NUK 150ml e 300ml 2 Unidades",
+      "posted_at": "2026-09-30T11:01:05.570062"
+    },
+    "82989e70d696bcde": {
+      "title": "Fralda Huggies Supreme Care M 40 unidades",
+      "posted_at": "2026-09-30T11:01:19.410343"
     }
   },
   "results": [
@@ -22281,6 +22289,22 @@
       "post_id": "1119",
       "error": null,
       "at": "2026-09-30T10:30:42.039974"
+    },
+    {
+      "offer_id": "124c35ceea94afd7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1120",
+      "error": null,
+      "at": "2026-09-30T11:01:05.569367"
+    },
+    {
+      "offer_id": "82989e70d696bcde",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1121",
+      "error": null,
+      "at": "2026-09-30T11:01:19.409688"
     }
   ]
 }
