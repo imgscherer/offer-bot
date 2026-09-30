@@ -1,5 +1,17 @@
 [
   {
+    "id": "921eb6f541e53c83",
+    "title": "Lenços Umedecidos Pampers Cuidado De Bebê 192 Unidades",
+    "price_now": 31.99,
+    "price_was": 46.7,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0CGY62F23?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/744921331517908008112930479259.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-09-30T21:01:02.949812"
+  },
+  {
     "id": "5122229ad65d5529",
     "title": "Fralda Pants Huggies Supreme Care Tamanho XXG 58 Un",
     "price_now": 73.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-30T13:51:00.911554"
-  },
-  {
-    "id": "bfb188b6e3a4c86a",
-    "title": "Fralda Pampers Confort Sec P 50 Unidades",
-    "price_now": 44.0,
-    "price_was": 77.27,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/794299255817907761119330621712.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-30T13:50:49.352005"
   }
 ]

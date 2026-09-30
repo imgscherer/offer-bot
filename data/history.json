@@ -4527,6 +4527,10 @@
     "5122229ad65d5529": {
       "title": "Fralda Pants Huggies Supreme Care Tamanho XXG 58 Un",
       "posted_at": "2026-09-30T20:50:53.217716"
+    },
+    "921eb6f541e53c83": {
+      "title": "Lenços Umedecidos Pampers Cuidado De Bebê 192 Unidades",
+      "posted_at": "2026-09-30T21:01:02.950284"
     }
   },
   "results": [
@@ -22601,6 +22605,14 @@
       "post_id": "1139",
       "error": null,
       "at": "2026-09-30T20:50:53.216896"
+    },
+    {
+      "offer_id": "921eb6f541e53c83",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1140",
+      "error": null,
+      "at": "2026-09-30T21:01:02.949482"
     }
   ]
 }
