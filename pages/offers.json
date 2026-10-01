@@ -1,5 +1,17 @@
 [
   {
+    "id": "3704b0be90241f19",
+    "title": "Suplemento Infantil Ascenda Sem Sabor 800g",
+    "price_now": 84.0,
+    "price_was": 124.39,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B09K2Y66Q3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/186352159517908806087867301567.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-01T19:01:02.748538"
+  },
+  {
     "id": "52e6073df369f3e2",
     "title": "Higienizador de Mãos Infantil Sem Álcool BioClub 200 ml",
     "price_now": 21.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-01T10:30:56.944758"
-  },
-  {
-    "id": "5056f30dc7cfa624",
-    "title": "Shampoo Para Bebê Johnson's Baby Regular, 200ml, Amarelo",
-    "price_now": 13.49,
-    "price_was": 24.79,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B00F5NZ34K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/689741883317908069296655137032.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-30T22:31:01.308841"
   }
 ]
