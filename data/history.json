@@ -4611,6 +4611,14 @@
     "1197e961e1a55a89": {
       "title": "Bolsa Maternidade Clean P - 01 Peça",
       "posted_at": "2026-10-01T22:30:53.195941"
+    },
+    "101992f5e52212d2": {
+      "title": "Bag Mão Maternidade Bali - 01 Peça",
+      "posted_at": "2026-10-01T23:40:38.802165"
+    },
+    "e20e4e2a8479e842": {
+      "title": "Kit Bolsa Maternidade Menina/Menino Linho Marinho - 02 Peças",
+      "posted_at": "2026-10-01T23:40:41.373293"
     }
   },
   "results": [
@@ -22989,6 +22997,22 @@
       "post_id": "1160",
       "error": null,
       "at": "2026-10-01T22:30:53.195173"
+    },
+    {
+      "offer_id": "101992f5e52212d2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1161",
+      "error": null,
+      "at": "2026-10-01T23:40:38.801618"
+    },
+    {
+      "offer_id": "e20e4e2a8479e842",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1162",
+      "error": null,
+      "at": "2026-10-01T23:40:41.372553"
     }
   ]
 }
