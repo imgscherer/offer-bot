@@ -4567,6 +4567,10 @@
     "0b393de8fba7633d": {
       "title": "Fralda Pants Huggies Proteção Acolchoada XG com 64",
       "posted_at": "2026-10-01T12:10:52.090645"
+    },
+    "8e381dd7fa36b90e": {
+      "title": "Fralda Pants Huggies Supreme Care M 36 unidades",
+      "posted_at": "2026-10-01T13:30:57.026857"
     }
   },
   "results": [
@@ -22777,6 +22781,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-01T13:10:43.895087"
+    },
+    {
+      "offer_id": "8e381dd7fa36b90e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1150",
+      "error": null,
+      "at": "2026-10-01T13:30:57.026097"
     }
   ]
 }
