@@ -4591,6 +4591,10 @@
     "cdda5a631d98f030": {
       "title": "Kit 6 Faixinhas de Cabelo Para Bebê",
       "posted_at": "2026-10-01T20:01:06.383025"
+    },
+    "27a06cf17200334b": {
+      "title": "Berço Portátil Cosco Kids, Cozzy, 2 Alturas, 0 a 18 kg, Azul Pastel",
+      "posted_at": "2026-10-01T20:20:48.091261"
     }
   },
   "results": [
@@ -22929,6 +22933,14 @@
       "post_id": "1155",
       "error": null,
       "at": "2026-10-01T20:01:06.382114"
+    },
+    {
+      "offer_id": "27a06cf17200334b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1156",
+      "error": null,
+      "at": "2026-10-01T20:20:48.090553"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "27a06cf17200334b",
+    "title": "Berço Portátil Cosco Kids, Cozzy, 2 Alturas, 0 a 18 kg, Azul Pastel",
+    "price_now": 379.19,
+    "price_was": 599.0,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0F5X71QZ3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/114717819017908848727049908045.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-01T20:20:48.090946"
+  },
+  {
     "id": "cdda5a631d98f030",
     "title": "Kit 6 Faixinhas de Cabelo Para Bebê",
     "price_now": 29.39,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-01T11:00:59.165503"
-  },
-  {
-    "id": "1895c4604e0146da",
-    "title": "Fralda Huggies Tripla Proteção M 92 Fraldas",
-    "price_now": 71.0,
-    "price_was": 109.03,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/650025670217908508505709085203.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-01T10:50:54.546488"
   }
 ]
