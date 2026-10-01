@@ -4575,6 +4575,10 @@
     "a1cc5f5de9514e29": {
       "title": "Fralda Huggies Máxima Proteção P 48 Unidades",
       "posted_at": "2026-10-01T13:50:55.776797"
+    },
+    "6314df2f0cdde185": {
+      "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
+      "posted_at": "2026-10-01T14:01:08.308768"
     }
   },
   "results": [
@@ -22801,6 +22805,14 @@
       "post_id": "1151",
       "error": null,
       "at": "2026-10-01T13:50:55.775982"
+    },
+    {
+      "offer_id": "6314df2f0cdde185",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1152",
+      "error": null,
+      "at": "2026-10-01T14:01:08.307580"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "6314df2f0cdde185",
+    "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
+    "price_now": 21.0,
+    "price_was": 44.99,
+    "discount_pct": 53,
+    "url": "https://www.amazon.com.br/dp/B07F1Z7ZM2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/733982917017908623684581637047.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-01T14:01:08.307889"
+  },
+  {
     "id": "a1cc5f5de9514e29",
     "title": "Fralda Huggies Máxima Proteção P 48 Unidades",
     "price_now": 39.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-30T22:30:49.918084"
-  },
-  {
-    "id": "921eb6f541e53c83",
-    "title": "Lenços Umedecidos Pampers Cuidado De Bebê 192 Unidades",
-    "price_now": 31.99,
-    "price_was": 46.7,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0CGY62F23?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/744921331517908008112930479259.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-30T21:01:02.949812"
   }
 ]
