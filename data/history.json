@@ -4587,6 +4587,10 @@
     "3704b0be90241f19": {
       "title": "Suplemento Infantil Ascenda Sem Sabor 800g",
       "posted_at": "2026-10-01T19:01:02.748847"
+    },
+    "cdda5a631d98f030": {
+      "title": "Kit 6 Faixinhas de Cabelo Para Bebê",
+      "posted_at": "2026-10-01T20:01:06.383025"
     }
   },
   "results": [
@@ -22917,6 +22921,14 @@
       "post_id": "1154",
       "error": null,
       "at": "2026-10-01T19:01:02.748179"
+    },
+    {
+      "offer_id": "cdda5a631d98f030",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1155",
+      "error": null,
+      "at": "2026-10-01T20:01:06.382114"
     }
   ]
 }
