@@ -4563,6 +4563,10 @@
     "a7004497dd9dd0ce": {
       "title": "Fralda Pampers Pants Ajuste Total G com 144",
       "posted_at": "2026-10-01T11:50:56.721046"
+    },
+    "0b393de8fba7633d": {
+      "title": "Fralda Pants Huggies Proteção Acolchoada XG com 64",
+      "posted_at": "2026-10-01T12:10:52.090645"
     }
   },
   "results": [
@@ -22709,6 +22713,22 @@
       "post_id": "1148",
       "error": null,
       "at": "2026-10-01T11:50:56.720304"
+    },
+    {
+      "offer_id": "0b393de8fba7633d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1149",
+      "error": null,
+      "at": "2026-10-01T12:10:52.089669"
+    },
+    {
+      "offer_id": "61886fe59f45a548",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-01T12:11:08.240266"
     }
   ]
 }
