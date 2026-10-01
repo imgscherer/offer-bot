@@ -4547,6 +4547,10 @@
     "1895c4604e0146da": {
       "title": "Fralda Huggies Tripla Proteção M 92 Fraldas",
       "posted_at": "2026-10-01T10:50:54.546969"
+    },
+    "856d0e54adbc3ced": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
+      "posted_at": "2026-10-01T11:00:59.165928"
     }
   },
   "results": [
@@ -22661,6 +22665,14 @@
       "post_id": "1144",
       "error": null,
       "at": "2026-10-01T10:50:54.546115"
+    },
+    {
+      "offer_id": "856d0e54adbc3ced",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1145",
+      "error": null,
+      "at": "2026-10-01T11:00:59.165150"
     }
   ]
 }
