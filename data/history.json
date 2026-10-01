@@ -4543,6 +4543,10 @@
     "f9cad6050998fd60": {
       "title": "Huggies Fralda Premium Natural Care RN - 34 Un",
       "posted_at": "2026-10-01T10:30:56.945248"
+    },
+    "1895c4604e0146da": {
+      "title": "Fralda Huggies Tripla Proteção M 92 Fraldas",
+      "posted_at": "2026-10-01T10:50:54.546969"
     }
   },
   "results": [
@@ -22649,6 +22653,14 @@
       "post_id": "1143",
       "error": null,
       "at": "2026-10-01T10:30:56.944433"
+    },
+    {
+      "offer_id": "1895c4604e0146da",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1144",
+      "error": null,
+      "at": "2026-10-01T10:50:54.546115"
     }
   ]
 }

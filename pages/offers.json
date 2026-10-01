@@ -1,5 +1,17 @@
 [
   {
+    "id": "1895c4604e0146da",
+    "title": "Fralda Huggies Tripla Proteção M 92 Fraldas",
+    "price_now": 71.0,
+    "price_was": 109.03,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/650025670217908508505709085203.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-01T10:50:54.546488"
+  },
+  {
     "id": "f9cad6050998fd60",
     "title": "Huggies Fralda Premium Natural Care RN - 34 Un",
     "price_now": 30.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-30T15:41:01.353706"
-  },
-  {
-    "id": "ac1d31323e0b6687",
-    "title": "Fralda Huggies Proteção Alcochoada Pants M 36 unidades",
-    "price_now": 33.24,
-    "price_was": 65.29,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07FNM9QRF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/813583062617907821496251576996.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-30T15:40:51.849883"
   }
 ]
