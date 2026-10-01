@@ -4579,6 +4579,10 @@
     "6314df2f0cdde185": {
       "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
       "posted_at": "2026-10-01T14:01:08.308768"
+    },
+    "52e6073df369f3e2": {
+      "title": "Higienizador de Mãos Infantil Sem Álcool BioClub 200 ml",
+      "posted_at": "2026-10-01T15:10:58.248793"
     }
   },
   "results": [
@@ -22837,6 +22841,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-01T15:00:52.685172"
+    },
+    {
+      "offer_id": "61886fe59f45a548",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-01T15:10:49.078012"
+    },
+    {
+      "offer_id": "52e6073df369f3e2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1153",
+      "error": null,
+      "at": "2026-10-01T15:10:58.248031"
     }
   ]
 }

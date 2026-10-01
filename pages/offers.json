@@ -1,5 +1,17 @@
 [
   {
+    "id": "52e6073df369f3e2",
+    "title": "Higienizador de Mãos Infantil Sem Álcool BioClub 200 ml",
+    "price_now": 21.0,
+    "price_was": 31.66,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B078YC6B9Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/224208574317908663887073779363.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-01T15:10:58.248365"
+  },
+  {
     "id": "6314df2f0cdde185",
     "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
     "price_now": 21.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-30T22:31:01.308841"
-  },
-  {
-    "id": "f83f92917c0a171b",
-    "title": "Creme Preventivo de Assaduras para Bebês Desitin Creamy, 57g",
-    "price_now": 29.99,
-    "price_was": 57.99,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B07DHQZPZV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/380870126817908068147324363344.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-30T22:30:49.918084"
   }
 ]
