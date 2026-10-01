@@ -1,5 +1,53 @@
 [
   {
+    "id": "1197e961e1a55a89",
+    "title": "Bolsa Maternidade Clean P - 01 Peça",
+    "price_now": 182.9,
+    "price_was": 268.97,
+    "discount_pct": 32,
+    "url": "https://s.shopee.com.br/5LCLj4UBdc",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltdwv0i2srp4c4",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-01T22:30:53.195515"
+  },
+  {
+    "id": "3f04428cfdf99d4a",
+    "title": "Kit Mala Maternidade + Bolsa P Basic Menino/Menina - 02 Peças",
+    "price_now": 334.9,
+    "price_was": 523.28,
+    "discount_pct": 36,
+    "url": "https://s.shopee.com.br/70KZi8NqG6",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj8rt77s7coz66",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-01T22:30:50.326511"
+  },
+  {
+    "id": "48f8424cfb069c65",
+    "title": "Bolsa Maternidade Basic P - 01 Peça",
+    "price_now": 134.9,
+    "price_was": 249.81,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/7KxQ6kMZa4",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltdwv0i20o4pbe",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-01T22:30:46.155999"
+  },
+  {
+    "id": "f5b8752ed8dd51c9",
+    "title": "Mala Maternidade Basic - 01 Peça",
+    "price_now": 189.9,
+    "price_was": 452.14,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/7VGqJ3LwF7",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltdvuywp1naw43",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-01T22:30:41.197875"
+  },
+  {
     "id": "27a06cf17200334b",
     "title": "Berço Portátil Cosco Kids, Cozzy, 2 Alturas, 0 a 18 kg, Azul Pastel",
     "price_now": 379.19,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-01T12:10:52.090033"
-  },
-  {
-    "id": "a7004497dd9dd0ce",
-    "title": "Fralda Pampers Pants Ajuste Total G com 144",
-    "price_now": 106.0,
-    "price_was": 229.49,
-    "discount_pct": 54,
-    "url": "https://www.amazon.com.br/gp/aw/d/B0CGYR8GBT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/634055463817908546874797262163.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-01T11:50:56.720646"
-  },
-  {
-    "id": "8beaf3db1640bcad",
-    "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper G 68 Unidades",
-    "price_now": 54.21,
-    "price_was": 77.37,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/874527727017908542129458138163.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-01T11:41:04.835179"
-  },
-  {
-    "id": "bfde001d0a38928a",
-    "title": "Fralda Pom Pom Protek Proteção De Mãe M 48 unidades",
-    "price_now": 35.24,
-    "price_was": 50.29,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/151852885817908542135605858465.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-01T11:40:52.418244"
-  },
-  {
-    "id": "856d0e54adbc3ced",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
-    "price_now": 51.0,
-    "price_was": 77.37,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/867766978317908519305853032922.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-01T11:00:59.165503"
   }
 ]

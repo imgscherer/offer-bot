@@ -4595,6 +4595,22 @@
     "27a06cf17200334b": {
       "title": "Berço Portátil Cosco Kids, Cozzy, 2 Alturas, 0 a 18 kg, Azul Pastel",
       "posted_at": "2026-10-01T20:20:48.091261"
+    },
+    "f5b8752ed8dd51c9": {
+      "title": "Mala Maternidade Basic - 01 Peça",
+      "posted_at": "2026-10-01T22:30:41.198356"
+    },
+    "48f8424cfb069c65": {
+      "title": "Bolsa Maternidade Basic P - 01 Peça",
+      "posted_at": "2026-10-01T22:30:46.156453"
+    },
+    "3f04428cfdf99d4a": {
+      "title": "Kit Mala Maternidade + Bolsa P Basic Menino/Menina - 02 Peças",
+      "posted_at": "2026-10-01T22:30:50.326949"
+    },
+    "1197e961e1a55a89": {
+      "title": "Bolsa Maternidade Clean P - 01 Peça",
+      "posted_at": "2026-10-01T22:30:53.195941"
     }
   },
   "results": [
@@ -22941,6 +22957,38 @@
       "post_id": "1156",
       "error": null,
       "at": "2026-10-01T20:20:48.090553"
+    },
+    {
+      "offer_id": "f5b8752ed8dd51c9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1157",
+      "error": null,
+      "at": "2026-10-01T22:30:41.197545"
+    },
+    {
+      "offer_id": "48f8424cfb069c65",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1158",
+      "error": null,
+      "at": "2026-10-01T22:30:46.155672"
+    },
+    {
+      "offer_id": "3f04428cfdf99d4a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1159",
+      "error": null,
+      "at": "2026-10-01T22:30:50.326184"
+    },
+    {
+      "offer_id": "1197e961e1a55a89",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1160",
+      "error": null,
+      "at": "2026-10-01T22:30:53.195173"
     }
   ]
 }
