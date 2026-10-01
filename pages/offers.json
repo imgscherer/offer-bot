@@ -1,5 +1,17 @@
 [
   {
+    "id": "a7004497dd9dd0ce",
+    "title": "Fralda Pampers Pants Ajuste Total G com 144",
+    "price_now": 106.0,
+    "price_was": 229.49,
+    "discount_pct": 54,
+    "url": "https://www.amazon.com.br/gp/aw/d/B0CGYR8GBT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/634055463817908546874797262163.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-01T11:50:56.720646"
+  },
+  {
     "id": "8beaf3db1640bcad",
     "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper G 68 Unidades",
     "price_now": 54.21,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-09-30T20:10:58.854299"
-  },
-  {
-    "id": "c1cf198c7300eb4c",
-    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
-    "price_now": 32.0,
-    "price_was": 52.65,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B07C3JY2V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/708490487017907939499572544121.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-09-30T18:50:43.158451"
   }
 ]
