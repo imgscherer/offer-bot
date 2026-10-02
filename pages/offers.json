@@ -1,5 +1,29 @@
 [
   {
+    "id": "66e60ebe04920147",
+    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+    "price_now": 161.4,
+    "price_was": 229.9,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/496532121317909725404594057544.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T20:41:08.241062"
+  },
+  {
+    "id": "1ba15faed11b1161",
+    "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+    "price_now": 161.4,
+    "price_was": 246.01,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/144230677417909725317432981177.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T20:40:56.373460"
+  },
+  {
     "id": "37e233a07644e7eb",
     "title": "Fralda Turma da Mônica Baby RN 36 Unidades",
     "price_now": 19.75,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-02T14:20:57.018602"
-  },
-  {
-    "id": "8ffdb085f562408f",
-    "title": "Huggies Fralda Premium Natural Care P - 36 Un",
-    "price_now": 37.0,
-    "price_was": 53.4,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/298013375117909493098531201912.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T14:10:44.535990"
-  },
-  {
-    "id": "6f330096b3e0209b",
-    "title": "Fralda Pants Huggies Proteção Acolchoada XXG com 58",
-    "price_now": 80.0,
-    "price_was": 131.78,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0BXM4ZSBD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/940929185017909464299031564651.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T13:21:01.652634"
   }
 ]

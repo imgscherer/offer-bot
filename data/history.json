@@ -4715,6 +4715,14 @@
     "37e233a07644e7eb": {
       "title": "Fralda Turma da Mônica Baby RN 36 Unidades",
       "posted_at": "2026-10-02T20:20:53.546073"
+    },
+    "1ba15faed11b1161": {
+      "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+      "posted_at": "2026-10-02T20:40:56.374312"
+    },
+    "66e60ebe04920147": {
+      "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+      "posted_at": "2026-10-02T20:41:08.241962"
     }
   },
   "results": [
@@ -23461,6 +23469,22 @@
       "post_id": "1186",
       "error": null,
       "at": "2026-10-02T20:20:53.545039"
+    },
+    {
+      "offer_id": "1ba15faed11b1161",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1187",
+      "error": null,
+      "at": "2026-10-02T20:40:56.373142"
+    },
+    {
+      "offer_id": "66e60ebe04920147",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1188",
+      "error": null,
+      "at": "2026-10-02T20:41:08.240757"
     }
   ]
 }
