@@ -1,5 +1,17 @@
 [
   {
+    "id": "a7d772f83f5bc367",
+    "title": "Mili Fralda Ultra Seca Jumbinho M 1x22",
+    "price_now": 18.99,
+    "price_was": 33.22,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B07G9RQHY7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/459581553617909404273342590771.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T11:40:47.432811"
+  },
+  {
     "id": "f986076c0ac919d2",
     "title": "Lenço Umedecido Pampers Cuidado de Bebê 192 Unidades",
     "price_now": 30.39,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-01T22:30:41.197875"
-  },
-  {
-    "id": "27a06cf17200334b",
-    "title": "Berço Portátil Cosco Kids, Cozzy, 2 Alturas, 0 a 18 kg, Azul Pastel",
-    "price_now": 379.19,
-    "price_was": 599.0,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0F5X71QZ3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/114717819017908848727049908045.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-01T20:20:48.090946"
   }
 ]
