@@ -4707,6 +4707,10 @@
     "067f07dc26d55b94": {
       "title": "Kit Shampoo + Condicionador + Loção Hidratante 230ml Linha Suave Bebê Natureza",
       "posted_at": "2026-10-02T19:30:59.300043"
+    },
+    "0ee287b25b65bf0a": {
+      "title": "Fralda Pants Huggies Supreme Care, Tamanho M, 36 Unidades, Estilo Roupinha, Para 5,5 A 9,5 Kg",
+      "posted_at": "2026-10-02T19:50:52.139475"
     }
   },
   "results": [
@@ -23437,6 +23441,14 @@
       "post_id": "1184",
       "error": null,
       "at": "2026-10-02T19:30:59.299214"
+    },
+    {
+      "offer_id": "0ee287b25b65bf0a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1185",
+      "error": null,
+      "at": "2026-10-02T19:50:52.138595"
     }
   ]
 }

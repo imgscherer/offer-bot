@@ -1,5 +1,17 @@
 [
   {
+    "id": "0ee287b25b65bf0a",
+    "title": "Fralda Pants Huggies Supreme Care, Tamanho M, 36 Unidades, Estilo Roupinha, Para 5,5 A 9,5 Kg",
+    "price_now": 34.99,
+    "price_was": 65.29,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B07FNM9QRF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/538256477017909700127040594368.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T19:50:52.138999"
+  },
+  {
     "id": "067f07dc26d55b94",
     "title": "Kit Shampoo + Condicionador + Loção Hidratante 230ml Linha Suave Bebê Natureza",
     "price_now": 53.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-02T13:20:50.982832"
-  },
-  {
-    "id": "d153406d21747acc",
-    "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
-    "price_now": 166.0,
-    "price_was": 246.01,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/428536997117909452929103326438.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T13:01:00.904362"
   }
 ]
