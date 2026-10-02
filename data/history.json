@@ -4675,6 +4675,10 @@
     "8ffdb085f562408f": {
       "title": "Huggies Fralda Premium Natural Care P - 36 Un",
       "posted_at": "2026-10-02T14:10:44.536261"
+    },
+    "1c66e632727be3ea": {
+      "title": "Fralda Huggies Máxima Proteção P 48 Unidades",
+      "posted_at": "2026-10-02T14:20:57.019045"
     }
   },
   "results": [
@@ -23253,6 +23257,14 @@
       "post_id": "1176",
       "error": null,
       "at": "2026-10-02T14:10:44.535661"
+    },
+    {
+      "offer_id": "1c66e632727be3ea",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1177",
+      "error": null,
+      "at": "2026-10-02T14:20:57.018222"
     }
   ]
 }

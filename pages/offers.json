@@ -1,5 +1,17 @@
 [
   {
+    "id": "1c66e632727be3ea",
+    "title": "Fralda Huggies Máxima Proteção P 48 Unidades",
+    "price_now": 40.0,
+    "price_was": 72.65,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/502251511617909501486127398659.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T14:20:57.018602"
+  },
+  {
     "id": "8ffdb085f562408f",
     "title": "Huggies Fralda Premium Natural Care P - 36 Un",
     "price_now": 37.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-02T09:30:42.280002"
-  },
-  {
-    "id": "d7cf72f95b407d75",
-    "title": "Brinquedo Infantil Carrinho 6 em 1 com Engrenagens – Educativo, Interativo e Estimula Coordenação Motora",
-    "price_now": 100.0,
-    "price_was": 250.0,
-    "discount_pct": 60,
-    "url": "https://s.shopee.com.br/8AWXpbapLL",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkl4soz7oum903",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T09:30:41.072914"
   }
 ]
