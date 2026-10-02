@@ -1,5 +1,17 @@
 [
   {
+    "id": "933fa39755674e7e",
+    "title": "Huggies Fralda Tripla Proteção M 92 Un",
+    "price_now": 74.95,
+    "price_was": 109.03,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/276515073417909022694062303609.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T01:00:56.305795"
+  },
+  {
     "id": "e20e4e2a8479e842",
     "title": "Kit Bolsa Maternidade Menina/Menino Linho Marinho - 02 Peças",
     "price_now": 517.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-01T14:01:08.307889"
-  },
-  {
-    "id": "a1cc5f5de9514e29",
-    "title": "Fralda Huggies Máxima Proteção P 48 Unidades",
-    "price_now": 39.0,
-    "price_was": 72.65,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/693736124417908616473083000744.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-01T13:50:55.776357"
   }
 ]
