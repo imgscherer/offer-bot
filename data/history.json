@@ -4679,6 +4679,10 @@
     "1c66e632727be3ea": {
       "title": "Fralda Huggies Máxima Proteção P 48 Unidades",
       "posted_at": "2026-10-02T14:20:57.019045"
+    },
+    "489abf64e5984119": {
+      "title": "Fralda Pampers Confort Sec P 72 Unidades",
+      "posted_at": "2026-10-02T14:50:57.194739"
     }
   },
   "results": [
@@ -23265,6 +23269,14 @@
       "post_id": "1177",
       "error": null,
       "at": "2026-10-02T14:20:57.018222"
+    },
+    {
+      "offer_id": "489abf64e5984119",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1178",
+      "error": null,
+      "at": "2026-10-02T14:50:57.192143"
     }
   ]
 }

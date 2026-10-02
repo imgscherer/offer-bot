@@ -1,5 +1,17 @@
 [
   {
+    "id": "489abf64e5984119",
+    "title": "Fralda Pampers Confort Sec P 72 Unidades",
+    "price_now": 83.0,
+    "price_was": 118.1,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B095D5PSPG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/781375135017909521311430174003.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T14:50:57.192477"
+  },
+  {
     "id": "1c66e632727be3ea",
     "title": "Fralda Huggies Máxima Proteção P 48 Unidades",
     "price_now": 40.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-02T11:10:48.490015"
-  },
-  {
-    "id": "c560bbe0eb856f01",
-    "title": "10 Lembrancinhas Saida de maternidade Chá de fraldas, Chá de bebê - Revelação 20 sabonetes",
-    "price_now": 24.0,
-    "price_was": 40.0,
-    "discount_pct": 40,
-    "url": "https://s.shopee.com.br/80D7dIOOyK",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj1pfgoogkjq19",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T09:30:42.280002"
   }
 ]
