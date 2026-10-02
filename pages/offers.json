@@ -1,5 +1,17 @@
 [
   {
+    "id": "ab2b7064123380dd",
+    "title": "Taktark Babá Eletrônica Câmera, 4.3\" Monitor De Bebe, Sem Wi-fi, 2 Way Audio, Visão Nocturna, Zoom Digital, Economia De Energia Vox, Temperatura A",
+    "price_now": 351.0,
+    "price_was": 499.99,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0C6X3DT56?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/439174909317909639915356061591.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T18:10:51.898475"
+  },
+  {
     "id": "fb68186e39ca2623",
     "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil 380ml",
     "price_now": 14.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-02T11:50:53.401960"
-  },
-  {
-    "id": "a7d772f83f5bc367",
-    "title": "Mili Fralda Ultra Seca Jumbinho M 1x22",
-    "price_now": 18.99,
-    "price_was": 33.22,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B07G9RQHY7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/459581553617909404273342590771.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T11:40:47.432811"
   }
 ]
