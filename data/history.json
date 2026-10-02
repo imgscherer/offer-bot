@@ -4723,6 +4723,10 @@
     "66e60ebe04920147": {
       "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
       "posted_at": "2026-10-02T20:41:08.241962"
+    },
+    "63fe559640115f39": {
+      "title": "Chupeta Funny Animais Silicone Anatômico Tam. 2 lillo",
+      "posted_at": "2026-10-02T20:50:55.507441"
     }
   },
   "results": [
@@ -23485,6 +23489,14 @@
       "post_id": "1188",
       "error": null,
       "at": "2026-10-02T20:41:08.240757"
+    },
+    {
+      "offer_id": "63fe559640115f39",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1189",
+      "error": null,
+      "at": "2026-10-02T20:50:55.506616"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "63fe559640115f39",
+    "title": "Chupeta Funny Animais Silicone Anatômico Tam. 2 lillo",
+    "price_now": 9.91,
+    "price_was": 19.84,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B089M5VWXP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/852431279317909734889706995394.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T20:50:55.506954"
+  },
+  {
     "id": "66e60ebe04920147",
     "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
     "price_now": 161.4,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-02T14:50:57.192477"
-  },
-  {
-    "id": "1c66e632727be3ea",
-    "title": "Fralda Huggies Máxima Proteção P 48 Unidades",
-    "price_now": 40.0,
-    "price_was": 72.65,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/502251511617909501486127398659.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T14:20:57.018602"
   }
 ]
