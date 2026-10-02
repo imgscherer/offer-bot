@@ -4703,6 +4703,10 @@
     "afc43c691bd1cdd3": {
       "title": "Trocador portátil de bebe impermeável acolchoado com bolso para acessórios menino menina chevron",
       "posted_at": "2026-10-02T19:10:40.283014"
+    },
+    "067f07dc26d55b94": {
+      "title": "Kit Shampoo + Condicionador + Loção Hidratante 230ml Linha Suave Bebê Natureza",
+      "posted_at": "2026-10-02T19:30:59.300043"
     }
   },
   "results": [
@@ -23425,6 +23429,14 @@
       "post_id": "1183",
       "error": null,
       "at": "2026-10-02T19:10:40.282202"
+    },
+    {
+      "offer_id": "067f07dc26d55b94",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1184",
+      "error": null,
+      "at": "2026-10-02T19:30:59.299214"
     }
   ]
 }
