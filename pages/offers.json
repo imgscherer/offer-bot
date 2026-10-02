@@ -1,5 +1,17 @@
 [
   {
+    "id": "92bfd04b11f2cd29",
+    "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
+    "price_now": 19.0,
+    "price_was": 28.68,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/963291334117909657515341013174.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T18:30:52.088014"
+  },
+  {
     "id": "ab2b7064123380dd",
     "title": "Taktark Babá Eletrônica Câmera, 4.3\" Monitor De Bebe, Sem Wi-fi, 2 Way Audio, Visão Nocturna, Zoom Digital, Economia De Energia Vox, Temperatura A",
     "price_now": 351.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-02T12:01:08.413176"
-  },
-  {
-    "id": "e2212bdb7eb8b142",
-    "title": "Huggies Fralda Pants Premium Natural Care XXG - 52 Un",
-    "price_now": 78.0,
-    "price_was": 118.35,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0BKLM298N?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/587729945717909411516569262259.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T11:50:53.401960"
   }
 ]

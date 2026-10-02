@@ -4691,6 +4691,10 @@
     "ab2b7064123380dd": {
       "title": "Taktark Babá Eletrônica Câmera, 4.3\" Monitor De Bebe, Sem Wi-fi, 2 Way Audio, Visão Nocturna, Zoom Digital, Economia De Energia Vox, Temperatura A",
       "posted_at": "2026-10-02T18:10:51.898798"
+    },
+    "92bfd04b11f2cd29": {
+      "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
+      "posted_at": "2026-10-02T18:30:52.088468"
     }
   },
   "results": [
@@ -23389,6 +23393,14 @@
       "post_id": "1180",
       "error": null,
       "at": "2026-10-02T18:10:51.898136"
+    },
+    {
+      "offer_id": "92bfd04b11f2cd29",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1181",
+      "error": null,
+      "at": "2026-10-02T18:30:52.087633"
     }
   ]
 }
