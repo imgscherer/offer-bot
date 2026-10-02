@@ -4635,6 +4635,10 @@
     "c560bbe0eb856f01": {
       "title": "10 Lembrancinhas Saida de maternidade Chá de fraldas, Chá de bebê - Revelação 20 sabonetes",
       "posted_at": "2026-10-02T09:30:42.280484"
+    },
+    "f986076c0ac919d2": {
+      "title": "Lenço Umedecido Pampers Cuidado de Bebê 192 Unidades",
+      "posted_at": "2026-10-02T11:10:48.490317"
     }
   },
   "results": [
@@ -23061,6 +23065,14 @@
       "post_id": "1166",
       "error": null,
       "at": "2026-10-02T09:30:42.279748"
+    },
+    {
+      "offer_id": "f986076c0ac919d2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1167",
+      "error": null,
+      "at": "2026-10-02T11:10:48.489713"
     }
   ]
 }
