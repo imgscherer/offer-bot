@@ -1,5 +1,41 @@
 [
   {
+    "id": "c560bbe0eb856f01",
+    "title": "10 Lembrancinhas Saida de maternidade Chá de fraldas, Chá de bebê - Revelação 20 sabonetes",
+    "price_now": 24.0,
+    "price_was": 40.0,
+    "discount_pct": 40,
+    "url": "https://s.shopee.com.br/80D7dIOOyK",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj1pfgoogkjq19",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T09:30:42.280002"
+  },
+  {
+    "id": "d7cf72f95b407d75",
+    "title": "Brinquedo Infantil Carrinho 6 em 1 com Engrenagens – Educativo, Interativo e Estimula Coordenação Motora",
+    "price_now": 100.0,
+    "price_was": 250.0,
+    "discount_pct": 60,
+    "url": "https://s.shopee.com.br/8AWXpbapLL",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkl4soz7oum903",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T09:30:41.072914"
+  },
+  {
+    "id": "002167d4468c017c",
+    "title": "Caminhão Dinossauro T-Rex Transporte Cegonha + Pista Carrinho Maleta Brinquedo Infantil + 4 Carrinhos",
+    "price_now": 100.0,
+    "price_was": 250.0,
+    "discount_pct": 60,
+    "url": "https://s.shopee.com.br/80D7dIbSgI",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mtgpzb2p27lsf8",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T09:30:39.710010"
+  },
+  {
     "id": "933fa39755674e7e",
     "title": "Huggies Fralda Tripla Proteção M 92 Un",
     "price_now": 74.95,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-01T20:01:06.382507"
-  },
-  {
-    "id": "3704b0be90241f19",
-    "title": "Suplemento Infantil Ascenda Sem Sabor 800g",
-    "price_now": 84.0,
-    "price_was": 124.39,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B09K2Y66Q3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/186352159517908806087867301567.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-01T19:01:02.748538"
-  },
-  {
-    "id": "52e6073df369f3e2",
-    "title": "Higienizador de Mãos Infantil Sem Álcool BioClub 200 ml",
-    "price_now": 21.0,
-    "price_was": 31.66,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B078YC6B9Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/224208574317908663887073779363.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-01T15:10:58.248365"
-  },
-  {
-    "id": "6314df2f0cdde185",
-    "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
-    "price_now": 21.0,
-    "price_was": 44.99,
-    "discount_pct": 53,
-    "url": "https://www.amazon.com.br/dp/B07F1Z7ZM2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/733982917017908623684581637047.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-01T14:01:08.307889"
   }
 ]

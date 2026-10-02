@@ -4623,6 +4623,18 @@
     "933fa39755674e7e": {
       "title": "Huggies Fralda Tripla Proteção M 92 Un",
       "posted_at": "2026-10-02T01:00:56.306354"
+    },
+    "002167d4468c017c": {
+      "title": "Caminhão Dinossauro T-Rex Transporte Cegonha + Pista Carrinho Maleta Brinquedo Infantil + 4 Carrinhos",
+      "posted_at": "2026-10-02T09:30:39.710247"
+    },
+    "d7cf72f95b407d75": {
+      "title": "Brinquedo Infantil Carrinho 6 em 1 com Engrenagens – Educativo, Interativo e Estimula Coordenação Motora",
+      "posted_at": "2026-10-02T09:30:41.073333"
+    },
+    "c560bbe0eb856f01": {
+      "title": "10 Lembrancinhas Saida de maternidade Chá de fraldas, Chá de bebê - Revelação 20 sabonetes",
+      "posted_at": "2026-10-02T09:30:42.280484"
     }
   },
   "results": [
@@ -23025,6 +23037,30 @@
       "post_id": "1163",
       "error": null,
       "at": "2026-10-02T01:00:56.305464"
+    },
+    {
+      "offer_id": "002167d4468c017c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1164",
+      "error": null,
+      "at": "2026-10-02T09:30:39.709738"
+    },
+    {
+      "offer_id": "d7cf72f95b407d75",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1165",
+      "error": null,
+      "at": "2026-10-02T09:30:41.072636"
+    },
+    {
+      "offer_id": "c560bbe0eb856f01",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1166",
+      "error": null,
+      "at": "2026-10-02T09:30:42.279748"
     }
   ]
 }
