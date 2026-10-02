@@ -4659,6 +4659,10 @@
     "22164122c681077e": {
       "title": "Huggies Fralda Tripla Proteção G com 78",
       "posted_at": "2026-10-02T12:50:59.358329"
+    },
+    "d153406d21747acc": {
+      "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
+      "posted_at": "2026-10-02T13:01:00.904683"
     }
   },
   "results": [
@@ -23205,6 +23209,14 @@
       "post_id": "1172",
       "error": null,
       "at": "2026-10-02T12:50:59.357010"
+    },
+    {
+      "offer_id": "d153406d21747acc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1173",
+      "error": null,
+      "at": "2026-10-02T13:01:00.903963"
     }
   ]
 }
