@@ -1,5 +1,17 @@
 [
   {
+    "id": "8ffdb085f562408f",
+    "title": "Huggies Fralda Premium Natural Care P - 36 Un",
+    "price_now": 37.0,
+    "price_was": 53.4,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/298013375117909493098531201912.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T14:10:44.535990"
+  },
+  {
     "id": "6f330096b3e0209b",
     "title": "Fralda Pants Huggies Proteção Acolchoada XXG com 58",
     "price_now": 80.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-02T09:30:41.072914"
-  },
-  {
-    "id": "002167d4468c017c",
-    "title": "Caminhão Dinossauro T-Rex Transporte Cegonha + Pista Carrinho Maleta Brinquedo Infantil + 4 Carrinhos",
-    "price_now": 100.0,
-    "price_was": 250.0,
-    "discount_pct": 60,
-    "url": "https://s.shopee.com.br/80D7dIbSgI",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mtgpzb2p27lsf8",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T09:30:39.710010"
   }
 ]

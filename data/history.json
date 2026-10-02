@@ -4671,6 +4671,10 @@
     "6f330096b3e0209b": {
       "title": "Fralda Pants Huggies Proteção Acolchoada XXG com 58",
       "posted_at": "2026-10-02T13:21:01.653062"
+    },
+    "8ffdb085f562408f": {
+      "title": "Huggies Fralda Premium Natural Care P - 36 Un",
+      "posted_at": "2026-10-02T14:10:44.536261"
     }
   },
   "results": [
@@ -23241,6 +23245,14 @@
       "post_id": "1175",
       "error": null,
       "at": "2026-10-02T13:21:01.652251"
+    },
+    {
+      "offer_id": "8ffdb085f562408f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1176",
+      "error": null,
+      "at": "2026-10-02T14:10:44.535661"
     }
   ]
 }
