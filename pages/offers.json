@@ -1,5 +1,17 @@
 [
   {
+    "id": "4c91ba771eaa4d9c",
+    "title": "Cosco Kids, Berço Co-bed Pluggy, 0 A 9kg, Cinza Claro",
+    "price_now": 511.16,
+    "price_was": 829.9,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B08YMQBNRK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/436263060817909749905933965538.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T21:10:48.391376"
+  },
+  {
     "id": "63fe559640115f39",
     "title": "Chupeta Funny Animais Silicone Anatômico Tam. 2 lillo",
     "price_now": 9.91,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-02T18:01:00.030774"
-  },
-  {
-    "id": "489abf64e5984119",
-    "title": "Fralda Pampers Confort Sec P 72 Unidades",
-    "price_now": 83.0,
-    "price_was": 118.1,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B095D5PSPG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/781375135017909521311430174003.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T14:50:57.192477"
   }
 ]

@@ -4727,6 +4727,10 @@
     "63fe559640115f39": {
       "title": "Chupeta Funny Animais Silicone Anatômico Tam. 2 lillo",
       "posted_at": "2026-10-02T20:50:55.507441"
+    },
+    "4c91ba771eaa4d9c": {
+      "title": "Cosco Kids, Berço Co-bed Pluggy, 0 A 9kg, Cinza Claro",
+      "posted_at": "2026-10-02T21:10:48.391696"
     }
   },
   "results": [
@@ -23497,6 +23501,14 @@
       "post_id": "1189",
       "error": null,
       "at": "2026-10-02T20:50:55.506616"
+    },
+    {
+      "offer_id": "4c91ba771eaa4d9c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1190",
+      "error": null,
+      "at": "2026-10-02T21:10:48.391012"
     }
   ]
 }
