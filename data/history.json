@@ -4711,6 +4711,10 @@
     "0ee287b25b65bf0a": {
       "title": "Fralda Pants Huggies Supreme Care, Tamanho M, 36 Unidades, Estilo Roupinha, Para 5,5 A 9,5 Kg",
       "posted_at": "2026-10-02T19:50:52.139475"
+    },
+    "37e233a07644e7eb": {
+      "title": "Fralda Turma da Mônica Baby RN 36 Unidades",
+      "posted_at": "2026-10-02T20:20:53.546073"
     }
   },
   "results": [
@@ -23449,6 +23453,14 @@
       "post_id": "1185",
       "error": null,
       "at": "2026-10-02T19:50:52.138595"
+    },
+    {
+      "offer_id": "37e233a07644e7eb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1186",
+      "error": null,
+      "at": "2026-10-02T20:20:53.545039"
     }
   ]
 }

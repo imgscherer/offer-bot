@@ -1,5 +1,17 @@
 [
   {
+    "id": "37e233a07644e7eb",
+    "title": "Fralda Turma da Mônica Baby RN 36 Unidades",
+    "price_now": 19.75,
+    "price_was": 28.68,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/641259216717909720119922493514.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T20:20:53.545388"
+  },
+  {
     "id": "0ee287b25b65bf0a",
     "title": "Fralda Pants Huggies Supreme Care, Tamanho M, 36 Unidades, Estilo Roupinha, Para 5,5 A 9,5 Kg",
     "price_now": 34.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-02T13:21:01.652634"
-  },
-  {
-    "id": "4cca1f738c795584",
-    "title": "Fralda Pants Huggies Proteção Acolchoada XG com 64",
-    "price_now": 80.0,
-    "price_was": 131.78,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/670349589517909464308357530750.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T13:20:50.982832"
   }
 ]
