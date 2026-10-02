@@ -4731,6 +4731,26 @@
     "4c91ba771eaa4d9c": {
       "title": "Cosco Kids, Berço Co-bed Pluggy, 0 A 9kg, Cinza Claro",
       "posted_at": "2026-10-02T21:10:48.391696"
+    },
+    "a9fe92b0f9e40ca9": {
+      "title": "Fralda Huggies Supreme Care XXXG com 128",
+      "posted_at": "2026-10-02T21:50:51.851513"
+    },
+    "84e1111923ea93d0": {
+      "title": "Fralda Huggies Supreme Care XG com 140",
+      "posted_at": "2026-10-02T21:51:04.082268"
+    },
+    "a1aff5dc02926d6e": {
+      "title": "Fralda Huggies Supreme Care M com 196",
+      "posted_at": "2026-10-02T21:51:19.553551"
+    },
+    "dd2ad43a75715414": {
+      "title": "Fralda Huggies Supreme Care XXG com 140",
+      "posted_at": "2026-10-02T21:51:39.845329"
+    },
+    "73afc01d1b1f9f29": {
+      "title": "Fralda Huggies Supreme Care G com 160",
+      "posted_at": "2026-10-02T21:51:55.787177"
     }
   },
   "results": [
@@ -23509,6 +23529,46 @@
       "post_id": "1190",
       "error": null,
       "at": "2026-10-02T21:10:48.391012"
+    },
+    {
+      "offer_id": "a9fe92b0f9e40ca9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1191",
+      "error": null,
+      "at": "2026-10-02T21:50:51.835840"
+    },
+    {
+      "offer_id": "84e1111923ea93d0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1192",
+      "error": null,
+      "at": "2026-10-02T21:51:04.081219"
+    },
+    {
+      "offer_id": "a1aff5dc02926d6e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1193",
+      "error": null,
+      "at": "2026-10-02T21:51:19.552455"
+    },
+    {
+      "offer_id": "dd2ad43a75715414",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1194",
+      "error": null,
+      "at": "2026-10-02T21:51:39.844252"
+    },
+    {
+      "offer_id": "73afc01d1b1f9f29",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1195",
+      "error": null,
+      "at": "2026-10-02T21:51:55.786105"
     }
   ]
 }
