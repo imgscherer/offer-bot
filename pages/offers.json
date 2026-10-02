@@ -1,5 +1,17 @@
 [
   {
+    "id": "e2212bdb7eb8b142",
+    "title": "Huggies Fralda Pants Premium Natural Care XXG - 52 Un",
+    "price_now": 78.0,
+    "price_was": 118.35,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BKLM298N?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/587729945717909411516569262259.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T11:50:53.401960"
+  },
+  {
     "id": "a7d772f83f5bc367",
     "title": "Mili Fralda Ultra Seca Jumbinho M 1x22",
     "price_now": 18.99,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-01T22:30:46.155999"
-  },
-  {
-    "id": "f5b8752ed8dd51c9",
-    "title": "Mala Maternidade Basic - 01 Peça",
-    "price_now": 189.9,
-    "price_was": 452.14,
-    "discount_pct": 58,
-    "url": "https://s.shopee.com.br/7VGqJ3LwF7",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltdvuywp1naw43",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-01T22:30:41.197875"
   }
 ]
