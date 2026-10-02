@@ -1,5 +1,29 @@
 [
   {
+    "id": "6f330096b3e0209b",
+    "title": "Fralda Pants Huggies Proteção Acolchoada XXG com 58",
+    "price_now": 80.0,
+    "price_was": 131.78,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0BXM4ZSBD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/940929185017909464299031564651.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T13:21:01.652634"
+  },
+  {
+    "id": "4cca1f738c795584",
+    "title": "Fralda Pants Huggies Proteção Acolchoada XG com 64",
+    "price_now": 80.0,
+    "price_was": 131.78,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/670349589517909464308357530750.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T13:20:50.982832"
+  },
+  {
     "id": "d153406d21747acc",
     "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
     "price_now": 166.0,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-02T09:30:39.710010"
-  },
-  {
-    "id": "933fa39755674e7e",
-    "title": "Huggies Fralda Tripla Proteção M 92 Un",
-    "price_now": 74.95,
-    "price_was": 109.03,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/276515073417909022694062303609.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T01:00:56.305795"
-  },
-  {
-    "id": "e20e4e2a8479e842",
-    "title": "Kit Bolsa Maternidade Menina/Menino Linho Marinho - 02 Peças",
-    "price_now": 517.9,
-    "price_was": 750.58,
-    "discount_pct": 31,
-    "url": "https://s.shopee.com.br/7KxQBYC3Fk",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98s-lmiyrnyaxd1373",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-01T23:40:41.372802"
   }
 ]

@@ -4663,6 +4663,14 @@
     "d153406d21747acc": {
       "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
       "posted_at": "2026-10-02T13:01:00.904683"
+    },
+    "4cca1f738c795584": {
+      "title": "Fralda Pants Huggies Proteção Acolchoada XG com 64",
+      "posted_at": "2026-10-02T13:20:50.983286"
+    },
+    "6f330096b3e0209b": {
+      "title": "Fralda Pants Huggies Proteção Acolchoada XXG com 58",
+      "posted_at": "2026-10-02T13:21:01.653062"
     }
   },
   "results": [
@@ -23217,6 +23225,22 @@
       "post_id": "1173",
       "error": null,
       "at": "2026-10-02T13:01:00.903963"
+    },
+    {
+      "offer_id": "4cca1f738c795584",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1174",
+      "error": null,
+      "at": "2026-10-02T13:20:50.982424"
+    },
+    {
+      "offer_id": "6f330096b3e0209b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1175",
+      "error": null,
+      "at": "2026-10-02T13:21:01.652251"
     }
   ]
 }
