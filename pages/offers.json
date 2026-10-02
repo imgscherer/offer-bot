@@ -1,5 +1,29 @@
 [
   {
+    "id": "afc43c691bd1cdd3",
+    "title": "Trocador portátil de bebe impermeável acolchoado com bolso para acessórios menino menina chevron",
+    "price_now": 24.99,
+    "price_was": 40.31,
+    "discount_pct": 38,
+    "url": "https://s.shopee.com.br/5VVnIWmMxq",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6gwobf1gp11e",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T19:10:40.282562"
+  },
+  {
+    "id": "61820b9a9d42c746",
+    "title": "Ninho Redutor de Berço Com Refil e Ziper + Trocador de Fraldas Várias Estampas Menino Menina Bebe",
+    "price_now": 54.9,
+    "price_was": 119.35,
+    "discount_pct": 54,
+    "url": "https://s.shopee.com.br/70Kb5HgevF",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6m5dndtkg5e9",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T19:10:39.150444"
+  },
+  {
     "id": "92bfd04b11f2cd29",
     "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
     "price_now": 19.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-02T12:50:59.357914"
-  },
-  {
-    "id": "1232f5dc363550a8",
-    "title": "Berço Portátil Cosco Kids Cozzy até 18kg Cinza",
-    "price_now": 241.0,
-    "price_was": 599.0,
-    "discount_pct": 60,
-    "url": "https://www.amazon.com.br/dp/B0F5X826MH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/827038124817909443397804761414.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T12:50:48.689525"
-  },
-  {
-    "id": "1323b7c6fb2c97f7",
-    "title": "Fralda Pampers Pants Ajuste Total XG com 132",
-    "price_now": 106.0,
-    "price_was": 229.49,
-    "discount_pct": 54,
-    "url": "https://www.amazon.com.br/gp/aw/d/B0CGY6SGFY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/941454084517909417479183281170.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T12:01:08.413176"
   }
 ]

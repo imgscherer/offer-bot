@@ -4695,6 +4695,14 @@
     "92bfd04b11f2cd29": {
       "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
       "posted_at": "2026-10-02T18:30:52.088468"
+    },
+    "61820b9a9d42c746": {
+      "title": "Ninho Redutor de Berço Com Refil e Ziper + Trocador de Fraldas Várias Estampas Menino Menina Bebe",
+      "posted_at": "2026-10-02T19:10:39.150828"
+    },
+    "afc43c691bd1cdd3": {
+      "title": "Trocador portátil de bebe impermeável acolchoado com bolso para acessórios menino menina chevron",
+      "posted_at": "2026-10-02T19:10:40.283014"
     }
   },
   "results": [
@@ -23401,6 +23409,22 @@
       "post_id": "1181",
       "error": null,
       "at": "2026-10-02T18:30:52.087633"
+    },
+    {
+      "offer_id": "61820b9a9d42c746",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1182",
+      "error": null,
+      "at": "2026-10-02T19:10:39.150067"
+    },
+    {
+      "offer_id": "afc43c691bd1cdd3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1183",
+      "error": null,
+      "at": "2026-10-02T19:10:40.282202"
     }
   ]
 }
