@@ -1,5 +1,29 @@
 [
   {
+    "id": "22164122c681077e",
+    "title": "Huggies Fralda Tripla Proteção G com 78",
+    "price_now": 71.0,
+    "price_was": 109.03,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B07FNMB4QN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/234510222217909443376717348191.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T12:50:59.357914"
+  },
+  {
+    "id": "1232f5dc363550a8",
+    "title": "Berço Portátil Cosco Kids Cozzy até 18kg Cinza",
+    "price_now": 241.0,
+    "price_was": 599.0,
+    "discount_pct": 60,
+    "url": "https://www.amazon.com.br/dp/B0F5X826MH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/827038124817909443397804761414.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-02T12:50:48.689525"
+  },
+  {
     "id": "1323b7c6fb2c97f7",
     "title": "Fralda Pampers Pants Ajuste Total XG com 132",
     "price_now": 106.0,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-01T23:40:38.801898"
-  },
-  {
-    "id": "1197e961e1a55a89",
-    "title": "Bolsa Maternidade Clean P - 01 Peça",
-    "price_now": 182.9,
-    "price_was": 268.97,
-    "discount_pct": 32,
-    "url": "https://s.shopee.com.br/5LCLj4UBdc",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltdwv0i2srp4c4",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-01T22:30:53.195515"
-  },
-  {
-    "id": "3f04428cfdf99d4a",
-    "title": "Kit Mala Maternidade + Bolsa P Basic Menino/Menina - 02 Peças",
-    "price_now": 334.9,
-    "price_was": 523.28,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/70KZi8NqG6",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj8rt77s7coz66",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-01T22:30:50.326511"
   }
 ]

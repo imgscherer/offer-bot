@@ -4651,6 +4651,14 @@
     "1323b7c6fb2c97f7": {
       "title": "Fralda Pampers Pants Ajuste Total XG com 132",
       "posted_at": "2026-10-02T12:01:08.413941"
+    },
+    "1232f5dc363550a8": {
+      "title": "Berço Portátil Cosco Kids Cozzy até 18kg Cinza",
+      "posted_at": "2026-10-02T12:50:48.689948"
+    },
+    "22164122c681077e": {
+      "title": "Huggies Fralda Tripla Proteção G com 78",
+      "posted_at": "2026-10-02T12:50:59.358329"
     }
   },
   "results": [
@@ -23181,6 +23189,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-02T12:40:40.052555"
+    },
+    {
+      "offer_id": "1232f5dc363550a8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1171",
+      "error": null,
+      "at": "2026-10-02T12:50:48.689207"
+    },
+    {
+      "offer_id": "22164122c681077e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1172",
+      "error": null,
+      "at": "2026-10-02T12:50:59.357010"
     }
   ]
 }
