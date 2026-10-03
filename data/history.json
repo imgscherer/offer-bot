@@ -4811,6 +4811,10 @@
     "edd5040d3ecbe04c": {
       "title": "Conjunto Térmico Bebê Infantil Estamapa Carrinho Pagão Longo Quentinho Inverno Menino",
       "posted_at": "2026-10-03T16:50:36.163575"
+    },
+    "6965d75148600100": {
+      "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
+      "posted_at": "2026-10-03T19:10:43.578101"
     }
   },
   "results": [
@@ -23829,6 +23833,14 @@
       "post_id": "1210",
       "error": null,
       "at": "2026-10-03T16:50:36.162981"
+    },
+    {
+      "offer_id": "6965d75148600100",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1211",
+      "error": null,
+      "at": "2026-10-03T19:10:43.577448"
     }
   ]
 }

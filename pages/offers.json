@@ -1,5 +1,17 @@
 [
   {
+    "id": "6965d75148600100",
+    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
+    "price_now": 5.99,
+    "price_was": 9.42,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/737697826717910540888883831176.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-03T19:10:43.577777"
+  },
+  {
     "id": "edd5040d3ecbe04c",
     "title": "Conjunto Térmico Bebê Infantil Estamapa Carrinho Pagão Longo Quentinho Inverno Menino",
     "price_now": 29.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-03T11:00:57.988341"
-  },
-  {
-    "id": "24dd0a98ec24490a",
-    "title": "Fralda Pampers Premium Care P 40 Unidades",
-    "price_now": 49.0,
-    "price_was": 71.67,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/785352715017909879054089664357.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-03T00:50:50.376558"
   }
 ]
