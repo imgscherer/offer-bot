@@ -4803,6 +4803,10 @@
     "6117cb5279e74881": {
       "title": "Fralda Pants Huggies Proteção Acolchoada Tamanho XXG 24 Un",
       "posted_at": "2026-10-03T14:30:59.058131"
+    },
+    "2000854c8d3c164d": {
+      "title": "Fralda Personal Baby Total Protect Pants G 24 unidades",
+      "posted_at": "2026-10-03T15:10:52.253574"
     }
   },
   "results": [
@@ -23805,6 +23809,14 @@
       "post_id": "1208",
       "error": null,
       "at": "2026-10-03T14:30:59.057353"
+    },
+    {
+      "offer_id": "2000854c8d3c164d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1209",
+      "error": null,
+      "at": "2026-10-03T15:10:52.252827"
     }
   ]
 }
