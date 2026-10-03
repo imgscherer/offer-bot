@@ -1,5 +1,17 @@
 [
   {
+    "id": "41a88c09ed8f1332",
+    "title": "Fralda Huggies Supreme Care Roupinha XXG 24 unidades",
+    "price_now": 33.24,
+    "price_was": 65.29,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07FN5MD3Z?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/641629061617910284603190284847.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-03T12:01:12.697790"
+  },
+  {
     "id": "05fd1c9d15003b44",
     "title": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
     "price_now": 49.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-02T21:51:39.844536"
-  },
-  {
-    "id": "a1aff5dc02926d6e",
-    "title": "Fralda Huggies Supreme Care M com 196",
-    "price_now": 161.0,
-    "price_was": 229.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/452029137017909770342627047388.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T21:51:19.552750"
   }
 ]
