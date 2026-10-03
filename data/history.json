@@ -4823,6 +4823,10 @@
     "649214996c26256e": {
       "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Un",
       "posted_at": "2026-10-03T19:40:58.642247"
+    },
+    "b0c4dafaa7fc536c": {
+      "title": "Bicicleta de Equilibrio Andador Infantil sem Pedal para Crianças Rosa",
+      "posted_at": "2026-10-03T21:59:02.093790"
     }
   },
   "results": [
@@ -23865,6 +23869,14 @@
       "post_id": "1213",
       "error": null,
       "at": "2026-10-03T19:40:58.641361"
+    },
+    {
+      "offer_id": "b0c4dafaa7fc536c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1214",
+      "error": null,
+      "at": "2026-10-03T21:59:02.093000"
     }
   ]
 }
