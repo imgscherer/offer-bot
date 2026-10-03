@@ -4815,6 +4815,14 @@
     "6965d75148600100": {
       "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
       "posted_at": "2026-10-03T19:10:43.578101"
+    },
+    "7b857728a12dd1a1": {
+      "title": "Personal Fralda Baby Premium Pants M, 70 Unidades",
+      "posted_at": "2026-10-03T19:40:50.057685"
+    },
+    "649214996c26256e": {
+      "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Un",
+      "posted_at": "2026-10-03T19:40:58.642247"
     }
   },
   "results": [
@@ -23841,6 +23849,22 @@
       "post_id": "1211",
       "error": null,
       "at": "2026-10-03T19:10:43.577448"
+    },
+    {
+      "offer_id": "7b857728a12dd1a1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1212",
+      "error": null,
+      "at": "2026-10-03T19:40:50.057096"
+    },
+    {
+      "offer_id": "649214996c26256e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1213",
+      "error": null,
+      "at": "2026-10-03T19:40:58.641361"
     }
   ]
 }

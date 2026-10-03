@@ -1,5 +1,29 @@
 [
   {
+    "id": "649214996c26256e",
+    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Un",
+    "price_now": 54.0,
+    "price_was": 101.58,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B07Z9T391J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/957904803217910552939039842210.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-03T19:40:58.641643"
+  },
+  {
+    "id": "7b857728a12dd1a1",
+    "title": "Personal Fralda Baby Premium Pants M, 70 Unidades",
+    "price_now": 43.0,
+    "price_was": 116.89,
+    "discount_pct": 63,
+    "url": "https://www.amazon.com.br/dp/B0BGML4J44?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/457590830117910556306918519994.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-03T19:40:50.057435"
+  },
+  {
     "id": "6965d75148600100",
     "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
     "price_now": 5.99,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-03T11:20:45.514329"
-  },
-  {
-    "id": "5c14a4e74e2399e1",
-    "title": "Fralda Huggies Supreme Care XG 58 unidades",
-    "price_now": 66.49,
-    "price_was": 116.9,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B0BQ3YXSQD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/239037254217910241279612777780.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-03T11:01:11.808887"
-  },
-  {
-    "id": "ac40adebc374a397",
-    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
-    "price_now": 36.09,
-    "price_was": 72.65,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/254217113517910250299502594676.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-03T11:00:57.988341"
   }
 ]
