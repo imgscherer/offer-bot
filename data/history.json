@@ -4795,6 +4795,10 @@
     "dc8cc062cfbb1da9": {
       "title": "Fralda Pampers Premium Care P 40 unidades",
       "posted_at": "2026-10-03T12:31:01.394782"
+    },
+    "dc9236833fd97d27": {
+      "title": "Fralda Pampers Premium Care Tamanho P 40 Un",
+      "posted_at": "2026-10-03T14:01:01.579527"
     }
   },
   "results": [
@@ -23781,6 +23785,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-03T13:00:51.532145"
+    },
+    {
+      "offer_id": "dc9236833fd97d27",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1207",
+      "error": null,
+      "at": "2026-10-03T14:01:01.578749"
     }
   ]
 }
