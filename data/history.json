@@ -4779,6 +4779,14 @@
     "c871aaf188b9c4e8": {
       "title": "Fralda Huggies Máxima Proteção Tamanho M 40 unidades",
       "posted_at": "2026-10-03T11:20:45.514741"
+    },
+    "2de697ed9da3e015": {
+      "title": "Fralda Babysec Ultrasec P 42 unidades",
+      "posted_at": "2026-10-03T11:50:46.923675"
+    },
+    "05fd1c9d15003b44": {
+      "title": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+      "posted_at": "2026-10-03T11:51:07.629676"
     }
   },
   "results": [
@@ -23669,6 +23677,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-03T11:40:43.183681"
+    },
+    {
+      "offer_id": "2de697ed9da3e015",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1203",
+      "error": null,
+      "at": "2026-10-03T11:50:46.923110"
+    },
+    {
+      "offer_id": "c4550be07bd97c32",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-03T11:50:52.714838"
+    },
+    {
+      "offer_id": "05fd1c9d15003b44",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1204",
+      "error": null,
+      "at": "2026-10-03T11:51:07.628935"
     }
   ]
 }

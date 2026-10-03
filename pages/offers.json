@@ -1,5 +1,29 @@
 [
   {
+    "id": "05fd1c9d15003b44",
+    "title": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+    "price_now": 49.99,
+    "price_was": 71.67,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/219988559517910270687361000812.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-03T11:51:07.629232"
+  },
+  {
+    "id": "2de697ed9da3e015",
+    "title": "Fralda Babysec Ultrasec P 42 unidades",
+    "price_now": 26.99,
+    "price_was": 52.65,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/873693137117910271295324478857.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-03T11:50:46.923410"
+  },
+  {
     "id": "c871aaf188b9c4e8",
     "title": "Fralda Huggies Máxima Proteção Tamanho M 40 unidades",
     "price_now": 36.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-02T21:51:19.552750"
-  },
-  {
-    "id": "84e1111923ea93d0",
-    "title": "Fralda Huggies Supreme Care XG com 140",
-    "price_now": 161.0,
-    "price_was": 229.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/402038233617909770313152150553.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T21:51:04.081520"
-  },
-  {
-    "id": "a9fe92b0f9e40ca9",
-    "title": "Fralda Huggies Supreme Care XXXG com 128",
-    "price_now": 161.0,
-    "price_was": 246.01,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/115128352817909770952000661474.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T21:50:51.836165"
   }
 ]
