@@ -1,5 +1,29 @@
 [
   {
+    "id": "5c14a4e74e2399e1",
+    "title": "Fralda Huggies Supreme Care XG 58 unidades",
+    "price_now": 66.49,
+    "price_was": 116.9,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B0BQ3YXSQD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/239037254217910241279612777780.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-03T11:01:11.808887"
+  },
+  {
+    "id": "ac40adebc374a397",
+    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+    "price_now": 36.09,
+    "price_was": 72.65,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/254217113517910250299502594676.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-03T11:00:57.988341"
+  },
+  {
     "id": "24dd0a98ec24490a",
     "title": "Fralda Pampers Premium Care P 40 Unidades",
     "price_now": 49.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-02T21:10:48.391376"
-  },
-  {
-    "id": "63fe559640115f39",
-    "title": "Chupeta Funny Animais Silicone Anatômico Tam. 2 lillo",
-    "price_now": 9.91,
-    "price_was": 19.84,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B089M5VWXP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/852431279317909734889706995394.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T20:50:55.506954"
-  },
-  {
-    "id": "66e60ebe04920147",
-    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
-    "price_now": 161.4,
-    "price_was": 229.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/496532121317909725404594057544.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T20:41:08.241062"
   }
 ]
