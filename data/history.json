@@ -4799,6 +4799,10 @@
     "dc9236833fd97d27": {
       "title": "Fralda Pampers Premium Care Tamanho P 40 Un",
       "posted_at": "2026-10-03T14:01:01.579527"
+    },
+    "6117cb5279e74881": {
+      "title": "Fralda Pants Huggies Proteção Acolchoada Tamanho XXG 24 Un",
+      "posted_at": "2026-10-03T14:30:59.058131"
     }
   },
   "results": [
@@ -23793,6 +23797,14 @@
       "post_id": "1207",
       "error": null,
       "at": "2026-10-03T14:01:01.578749"
+    },
+    {
+      "offer_id": "6117cb5279e74881",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1208",
+      "error": null,
+      "at": "2026-10-03T14:30:59.057353"
     }
   ]
 }
