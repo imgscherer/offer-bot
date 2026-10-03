@@ -1,5 +1,17 @@
 [
   {
+    "id": "c871aaf188b9c4e8",
+    "title": "Fralda Huggies Máxima Proteção Tamanho M 40 unidades",
+    "price_now": 36.0,
+    "price_was": 67.9,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B07FSVQZYX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/415963319617910258284292715948.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-03T11:20:45.514329"
+  },
+  {
     "id": "5c14a4e74e2399e1",
     "title": "Fralda Huggies Supreme Care XG 58 unidades",
     "price_now": 66.49,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-02T21:50:51.836165"
-  },
-  {
-    "id": "4c91ba771eaa4d9c",
-    "title": "Cosco Kids, Berço Co-bed Pluggy, 0 A 9kg, Cinza Claro",
-    "price_now": 511.16,
-    "price_was": 829.9,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B08YMQBNRK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/436263060817909749905933965538.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T21:10:48.391376"
   }
 ]
