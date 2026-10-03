@@ -4751,6 +4751,18 @@
     "73afc01d1b1f9f29": {
       "title": "Fralda Huggies Supreme Care G com 160",
       "posted_at": "2026-10-02T21:51:55.787177"
+    },
+    "b0cd60cca37b5ff8": {
+      "title": "Conjunto Térmico Bebê Infantil Estamapa Carrinho Pagão Longo Quentinho Inverno Menino",
+      "posted_at": "2026-10-03T00:30:42.160989"
+    },
+    "1dfbfe02c1cec4c0": {
+      "title": "Macacão Térmico Infantil Bebê Azul Estampado Carrinhos com Zíper Menino",
+      "posted_at": "2026-10-03T00:30:45.189859"
+    },
+    "83c74b71b9f0f74e": {
+      "title": "Bermuda Bebê Infantil Saruel Estampado Carrinho Menino Cós Elástico",
+      "posted_at": "2026-10-03T00:30:46.786283"
     }
   },
   "results": [
@@ -23569,6 +23581,30 @@
       "post_id": "1195",
       "error": null,
       "at": "2026-10-02T21:51:55.786105"
+    },
+    {
+      "offer_id": "b0cd60cca37b5ff8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1196",
+      "error": null,
+      "at": "2026-10-03T00:30:42.160222"
+    },
+    {
+      "offer_id": "1dfbfe02c1cec4c0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1197",
+      "error": null,
+      "at": "2026-10-03T00:30:45.189093"
+    },
+    {
+      "offer_id": "83c74b71b9f0f74e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1198",
+      "error": null,
+      "at": "2026-10-03T00:30:46.785558"
     }
   ]
 }

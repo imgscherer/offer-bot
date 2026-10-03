@@ -1,5 +1,41 @@
 [
   {
+    "id": "83c74b71b9f0f74e",
+    "title": "Bermuda Bebê Infantil Saruel Estampado Carrinho Menino Cós Elástico",
+    "price_now": 19.99,
+    "price_was": 39.98,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/5q8e37tHgY",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1tw4q7be1g125",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-03T00:30:46.785900"
+  },
+  {
+    "id": "1dfbfe02c1cec4c0",
+    "title": "Macacão Térmico Infantil Bebê Azul Estampado Carrinhos com Zíper Menino",
+    "price_now": 39.99,
+    "price_was": 95.21,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/5LCNSCvBhR",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mr0gy1rg2xvqa4",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-03T00:30:45.189401"
+  },
+  {
+    "id": "b0cd60cca37b5ff8",
+    "title": "Conjunto Térmico Bebê Infantil Estamapa Carrinho Pagão Longo Quentinho Inverno Menino",
+    "price_now": 29.99,
+    "price_was": 88.21,
+    "discount_pct": 66,
+    "url": "https://s.shopee.com.br/5VVneVuYMS",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mpxnh7up3coxa5",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-03T00:30:42.160553"
+  },
+  {
     "id": "73afc01d1b1f9f29",
     "title": "Fralda Huggies Supreme Care G com 160",
     "price_now": 161.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-02T20:40:56.373460"
-  },
-  {
-    "id": "37e233a07644e7eb",
-    "title": "Fralda Turma da Mônica Baby RN 36 Unidades",
-    "price_now": 19.75,
-    "price_was": 28.68,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/641259216717909720119922493514.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T20:20:53.545388"
-  },
-  {
-    "id": "0ee287b25b65bf0a",
-    "title": "Fralda Pants Huggies Supreme Care, Tamanho M, 36 Unidades, Estilo Roupinha, Para 5,5 A 9,5 Kg",
-    "price_now": 34.99,
-    "price_was": 65.29,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07FNM9QRF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/538256477017909700127040594368.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T19:50:52.138999"
-  },
-  {
-    "id": "067f07dc26d55b94",
-    "title": "Kit Shampoo + Condicionador + Loção Hidratante 230ml Linha Suave Bebê Natureza",
-    "price_now": 53.9,
-    "price_was": 80.45,
-    "discount_pct": 33,
-    "url": "https://s.shopee.com.br/1VzeXm4Jow?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/181990467917909687501688128617.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T19:30:59.299613"
   }
 ]
