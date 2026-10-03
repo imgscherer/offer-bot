@@ -1,5 +1,17 @@
 [
   {
+    "id": "24dd0a98ec24490a",
+    "title": "Fralda Pampers Premium Care P 40 Unidades",
+    "price_now": 49.0,
+    "price_was": 71.67,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/785352715017909879054089664357.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-03T00:50:50.376558"
+  },
+  {
     "id": "83c74b71b9f0f74e",
     "title": "Bermuda Bebê Infantil Saruel Estampado Carrinho Menino Cós Elástico",
     "price_now": 19.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-02T20:41:08.241062"
-  },
-  {
-    "id": "1ba15faed11b1161",
-    "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
-    "price_now": 161.4,
-    "price_was": 246.01,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/144230677417909725317432981177.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-02T20:40:56.373460"
   }
 ]

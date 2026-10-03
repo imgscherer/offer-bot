@@ -4763,6 +4763,10 @@
     "83c74b71b9f0f74e": {
       "title": "Bermuda Bebê Infantil Saruel Estampado Carrinho Menino Cós Elástico",
       "posted_at": "2026-10-03T00:30:46.786283"
+    },
+    "24dd0a98ec24490a": {
+      "title": "Fralda Pampers Premium Care P 40 Unidades",
+      "posted_at": "2026-10-03T00:50:50.377130"
     }
   },
   "results": [
@@ -23605,6 +23609,14 @@
       "post_id": "1198",
       "error": null,
       "at": "2026-10-03T00:30:46.785558"
+    },
+    {
+      "offer_id": "24dd0a98ec24490a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1199",
+      "error": null,
+      "at": "2026-10-03T00:50:50.376227"
     }
   ]
 }
