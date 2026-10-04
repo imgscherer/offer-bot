@@ -1,5 +1,17 @@
 [
   {
+    "id": "584d361fb45256fb",
+    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades aberta com tecnologia Xtra-Flex canais em X",
+    "price_now": 161.4,
+    "price_was": 229.9,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/431221226517911371224265848985.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-04T18:20:52.304016"
+  },
+  {
     "id": "ccb5a7e92d2fa49d",
     "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
     "price_now": 43.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-03T19:40:50.057435"
-  },
-  {
-    "id": "6965d75148600100",
-    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
-    "price_now": 5.99,
-    "price_was": 9.42,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/737697826717910540888883831176.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-03T19:10:43.577777"
   }
 ]
