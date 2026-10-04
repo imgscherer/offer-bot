@@ -1,5 +1,17 @@
 [
   {
+    "id": "5045e2de39379ba6",
+    "title": "Fralda Turma da Mônica Baby Jumbo XG 20 Unidades",
+    "price_now": 19.0,
+    "price_was": 28.68,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KPR97P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/306630722317911194675012487938.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-04T13:30:55.670018"
+  },
+  {
     "id": "6324e4ec1e1383f8",
     "title": "Capa Colchão Impermeável Antialérgica Protetor Material Hospitalar Segura Xixi Solteiro Casal Berço",
     "price_now": 34.81,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-03T15:10:52.253137"
-  },
-  {
-    "id": "6117cb5279e74881",
-    "title": "Fralda Pants Huggies Proteção Acolchoada Tamanho XXG 24 Un",
-    "price_now": 33.0,
-    "price_was": 65.29,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07FN5MD3Z?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/882763326317910377655665554699.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-03T14:30:59.057680"
   }
 ]
