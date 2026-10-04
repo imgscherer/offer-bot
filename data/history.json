@@ -4835,6 +4835,14 @@
     "46335d553066d9d7": {
       "title": "Fralda Cremer Jumbo G 24 unidades",
       "posted_at": "2026-10-04T11:30:51.311671"
+    },
+    "deb80e0ac564914f": {
+      "title": "Fralda Pampers Pants Ajuste Total XXG 60 unidades",
+      "posted_at": "2026-10-04T12:20:51.173427"
+    },
+    "719f9cdbea9bd71c": {
+      "title": "Huggies Fralda Pants Proteção Acolchoada XG 64 Unidades",
+      "posted_at": "2026-10-04T12:21:08.266982"
     }
   },
   "results": [
@@ -23909,6 +23917,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-04T12:10:56.718274"
+    },
+    {
+      "offer_id": "deb80e0ac564914f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1217",
+      "error": null,
+      "at": "2026-10-04T12:20:51.172684"
+    },
+    {
+      "offer_id": "fe65d587ffb2b6de",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-04T12:20:57.554872"
+    },
+    {
+      "offer_id": "719f9cdbea9bd71c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1218",
+      "error": null,
+      "at": "2026-10-04T12:21:08.265933"
     }
   ]
 }

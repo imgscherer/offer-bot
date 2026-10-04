@@ -1,5 +1,29 @@
 [
   {
+    "id": "719f9cdbea9bd71c",
+    "title": "Huggies Fralda Pants Proteção Acolchoada XG 64 Unidades",
+    "price_now": 90.0,
+    "price_was": 131.78,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/494800831917911158113602658702.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-04T12:21:08.266307"
+  },
+  {
+    "id": "deb80e0ac564914f",
+    "title": "Fralda Pampers Pants Ajuste Total XXG 60 unidades",
+    "price_now": 80.66,
+    "price_was": 170.18,
+    "discount_pct": 53,
+    "url": "https://s.shopee.com.br/1gJ7SC8Kxd?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/324833717917911156307405263642.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-04T12:20:51.173056"
+  },
+  {
     "id": "46335d553066d9d7",
     "title": "Fralda Cremer Jumbo G 24 unidades",
     "price_now": 17.95,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-03T14:01:01.579103"
-  },
-  {
-    "id": "dc8cc062cfbb1da9",
-    "title": "Fralda Pampers Premium Care P 40 unidades",
-    "price_now": 49.99,
-    "price_was": 71.67,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/751824302417910295566393800926.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-03T12:31:01.389147"
-  },
-  {
-    "id": "41a88c09ed8f1332",
-    "title": "Fralda Huggies Supreme Care Roupinha XXG 24 unidades",
-    "price_now": 33.24,
-    "price_was": 65.29,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07FN5MD3Z?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/641629061617910284603190284847.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-03T12:01:12.697790"
   }
 ]
