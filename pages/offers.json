@@ -1,5 +1,17 @@
 [
   {
+    "id": "ccb5a7e92d2fa49d",
+    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
+    "price_now": 43.0,
+    "price_was": 62.99,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/449090437317911364513156193764.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-04T18:00:56.965649"
+  },
+  {
     "id": "1dbae61cb42dd07a",
     "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
     "price_now": 53.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-03T19:10:43.577777"
-  },
-  {
-    "id": "edd5040d3ecbe04c",
-    "title": "Conjunto Térmico Bebê Infantil Estamapa Carrinho Pagão Longo Quentinho Inverno Menino",
-    "price_now": 29.9,
-    "price_was": 87.94,
-    "discount_pct": 66,
-    "url": "https://s.shopee.com.br/5VVneVuYMS",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mpxnh7up3coxa5",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-03T16:50:36.163274"
   }
 ]
