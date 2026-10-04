@@ -4827,6 +4827,14 @@
     "b0c4dafaa7fc536c": {
       "title": "Bicicleta de Equilibrio Andador Infantil sem Pedal para Crianças Rosa",
       "posted_at": "2026-10-03T21:59:02.093790"
+    },
+    "edfc5d70b893497b": {
+      "title": "30 Lembrancinha Para Chá de Bebê, Chá de Fraldas - Personalizadas",
+      "posted_at": "2026-10-04T11:30:41.527139"
+    },
+    "46335d553066d9d7": {
+      "title": "Fralda Cremer Jumbo G 24 unidades",
+      "posted_at": "2026-10-04T11:30:51.311671"
     }
   },
   "results": [
@@ -23877,6 +23885,22 @@
       "post_id": "1214",
       "error": null,
       "at": "2026-10-03T21:59:02.093000"
+    },
+    {
+      "offer_id": "edfc5d70b893497b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1215",
+      "error": null,
+      "at": "2026-10-04T11:30:41.526345"
+    },
+    {
+      "offer_id": "46335d553066d9d7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1216",
+      "error": null,
+      "at": "2026-10-04T11:30:51.310892"
     }
   ]
 }
