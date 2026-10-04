@@ -4851,6 +4851,10 @@
     "5045e2de39379ba6": {
       "title": "Fralda Turma da Mônica Baby Jumbo XG 20 Unidades",
       "posted_at": "2026-10-04T13:30:55.670537"
+    },
+    "1dbae61cb42dd07a": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
+      "posted_at": "2026-10-04T15:40:44.381835"
     }
   },
   "results": [
@@ -24037,6 +24041,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-04T13:51:01.909991"
+    },
+    {
+      "offer_id": "1dbae61cb42dd07a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1221",
+      "error": null,
+      "at": "2026-10-04T15:40:44.380973"
     }
   ]
 }
