@@ -1,5 +1,29 @@
 [
   {
+    "id": "3184de87bb40007e",
+    "title": "Huggies Fralda Pants Proteção Acolchoada M com 216",
+    "price_now": 179.0,
+    "price_was": 289.0,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/812656713417912038563949251068.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T12:41:00.871918"
+  },
+  {
+    "id": "87187c982e9bfcb9",
+    "title": "Huggies Fralda Pants Proteção Acolchoada XG com 144",
+    "price_now": 179.0,
+    "price_was": 289.0,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/514424382617912038816874045506.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T12:40:50.938899"
+  },
+  {
     "id": "8905e6d2210a99e8",
     "title": "Fralda Babysec Premium XG 24 unidades",
     "price_now": 25.63,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T12:01:20.770897"
-  },
-  {
-    "id": "60773ff8f06028a1",
-    "title": "Fralda Huggies Máxima Proteção XXXG com 128",
-    "price_now": 151.0,
-    "price_was": 246.01,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/388874301017912012578681618858.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T12:01:06.857897"
-  },
-  {
-    "id": "e266f029218cb573",
-    "title": "Fralda Turma Da Mônica Baby Mega P 62 Unidades",
-    "price_now": 32.98,
-    "price_was": 50.04,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/847773988417912005934003753464.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T11:51:20.581912"
   }
 ]

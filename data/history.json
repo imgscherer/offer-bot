@@ -4995,6 +4995,14 @@
     "8905e6d2210a99e8": {
       "title": "Fralda Babysec Premium XG 24 unidades",
       "posted_at": "2026-10-05T12:31:31.011942"
+    },
+    "87187c982e9bfcb9": {
+      "title": "Huggies Fralda Pants Proteção Acolchoada XG com 144",
+      "posted_at": "2026-10-05T12:40:50.939343"
+    },
+    "3184de87bb40007e": {
+      "title": "Huggies Fralda Pants Proteção Acolchoada M com 216",
+      "posted_at": "2026-10-05T12:41:00.872384"
     }
   },
   "results": [
@@ -24509,6 +24517,22 @@
       "post_id": "1256",
       "error": null,
       "at": "2026-10-05T12:31:31.011246"
+    },
+    {
+      "offer_id": "87187c982e9bfcb9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1257",
+      "error": null,
+      "at": "2026-10-05T12:40:50.938548"
+    },
+    {
+      "offer_id": "3184de87bb40007e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1258",
+      "error": null,
+      "at": "2026-10-05T12:41:00.871590"
     }
   ]
 }
