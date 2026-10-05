@@ -1,5 +1,41 @@
 [
   {
+    "id": "71f948d5bd5b8547",
+    "title": "Carrinho + Bebê Conforto Travel System Toffy Cosco Kids",
+    "price_now": 699.0,
+    "price_was": 999.0,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0BVXB6SHF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/925636574217912309488279751154.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T20:41:51.582188"
+  },
+  {
+    "id": "3a1c8d4ebc1e8311",
+    "title": "Granado Creme Assaduras Dermocalmante Bebê Peles Sensíveis 50g",
+    "price_now": 22.39,
+    "price_was": 35.0,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B07NPYD9KF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/313985712417912313669068951820.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T20:41:41.758049"
+  },
+  {
+    "id": "c8a9fb42d0524e3a",
+    "title": "Fralda Luxo Cremer 5 Unidades (70cmx70cm)",
+    "price_now": 16.0,
+    "price_was": 41.89,
+    "discount_pct": 62,
+    "url": "https://www.amazon.com.br/dp/B07D2G1V1H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/121378204817912324113840309931.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T20:41:22.309649"
+  },
+  {
     "id": "4d61ea74edc35f2f",
     "title": "Fralda Cremer Jumbo G 24 Unidades",
     "price_now": 17.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T18:40:50.226285"
-  },
-  {
-    "id": "ef5327e33b2fd49f",
-    "title": "Carrinho De Bebê (Trio)",
-    "price_now": 1889.99,
-    "price_was": 3999.0,
-    "discount_pct": 53,
-    "url": "https://www.amazon.com.br/dp/B0BKFSZT8G?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/468934262217912240679563149079.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T18:30:53.521214"
-  },
-  {
-    "id": "902d3425cd47317b",
-    "title": "Fralda Personal Baby Total Protect Pants G 44 Unidades",
-    "price_now": 43.0,
-    "price_was": 71.99,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0BTTLYZN9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/597678188217912235717069568461.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T18:10:53.421218"
-  },
-  {
-    "id": "3b73df417c58aed0",
-    "title": "Repelente Exposis Gel Bebê 117ml (A partir de 3 meses)",
-    "price_now": 41.05,
-    "price_was": 73.9,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B08N8PWLM6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/519927329617912151793084044575.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T16:00:53.566379"
   }
 ]

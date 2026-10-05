@@ -5163,6 +5163,18 @@
     "4d61ea74edc35f2f": {
       "title": "Fralda Cremer Jumbo G 24 Unidades",
       "posted_at": "2026-10-05T20:16:45.331536"
+    },
+    "c8a9fb42d0524e3a": {
+      "title": "Fralda Luxo Cremer 5 Unidades (70cmx70cm)",
+      "posted_at": "2026-10-05T20:41:22.309971"
+    },
+    "3a1c8d4ebc1e8311": {
+      "title": "Granado Creme Assaduras Dermocalmante Bebê Peles Sensíveis 50g",
+      "posted_at": "2026-10-05T20:41:41.758504"
+    },
+    "71f948d5bd5b8547": {
+      "title": "Carrinho + Bebê Conforto Travel System Toffy Cosco Kids",
+      "posted_at": "2026-10-05T20:41:51.582623"
     }
   },
   "results": [
@@ -25013,6 +25025,38 @@
       "post_id": "1298",
       "error": null,
       "at": "2026-10-05T20:16:45.330768"
+    },
+    {
+      "offer_id": "c8a9fb42d0524e3a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1299",
+      "error": null,
+      "at": "2026-10-05T20:41:22.309261"
+    },
+    {
+      "offer_id": "944b2b10717ad0f6",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-05T20:41:35.568327"
+    },
+    {
+      "offer_id": "3a1c8d4ebc1e8311",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1300",
+      "error": null,
+      "at": "2026-10-05T20:41:41.757736"
+    },
+    {
+      "offer_id": "71f948d5bd5b8547",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1301",
+      "error": null,
+      "at": "2026-10-05T20:41:51.581870"
     }
   ]
 }
