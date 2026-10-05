@@ -5143,6 +5143,10 @@
     "4c9ec5f1522b743b": {
       "title": "Fralda Luxo Cremer 5 Unidades (70cmx70cm)",
       "posted_at": "2026-10-05T19:11:16.459350"
+    },
+    "2eb8fedfdc3ccf53": {
+      "title": "Fralda Infantil Personal Baby Protect e Sec G Mega 34 Unidades",
+      "posted_at": "2026-10-05T19:21:29.750491"
     }
   },
   "results": [
@@ -24953,6 +24957,14 @@
       "post_id": "1293",
       "error": null,
       "at": "2026-10-05T19:11:16.458846"
+    },
+    {
+      "offer_id": "2eb8fedfdc3ccf53",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1294",
+      "error": null,
+      "at": "2026-10-05T19:21:29.749843"
     }
   ]
 }

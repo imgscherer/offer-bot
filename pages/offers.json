@@ -1,5 +1,17 @@
 [
   {
+    "id": "2eb8fedfdc3ccf53",
+    "title": "Fralda Infantil Personal Baby Protect e Sec G Mega 34 Unidades",
+    "price_now": 25.0,
+    "price_was": 37.02,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/817368787717912276497949064995.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T19:21:29.750155"
+  },
+  {
     "id": "4c9ec5f1522b743b",
     "title": "Fralda Luxo Cremer 5 Unidades (70cmx70cm)",
     "price_now": 16.96,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T15:10:46.842519"
-  },
-  {
-    "id": "2e358e507c9fbb6b",
-    "title": "Personal Fralda Baby Total Protect Pants M 28 Un",
-    "price_now": 25.0,
-    "price_was": 39.49,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/793844204617912119419019746183.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T15:00:54.563365"
   }
 ]
