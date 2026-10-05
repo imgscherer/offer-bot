@@ -4967,6 +4967,14 @@
     "0d292ae5d6981d38": {
       "title": "Fralda Huggies Máxima Proteção M com 196",
       "posted_at": "2026-10-05T12:02:03.745242"
+    },
+    "0337a70fe06867fc": {
+      "title": "Fralda Huggies Máxima Proteção XXG com 140",
+      "posted_at": "2026-10-05T12:11:00.349615"
+    },
+    "2e666a481c5581ae": {
+      "title": "Fralda Huggies Máxima Proteção XG com 140",
+      "posted_at": "2026-10-05T12:11:12.442924"
     }
   },
   "results": [
@@ -24409,6 +24417,30 @@
       "post_id": "1249",
       "error": null,
       "at": "2026-10-05T12:02:03.743995"
+    },
+    {
+      "offer_id": "0a61f570ff61ef14",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-05T12:10:45.816839"
+    },
+    {
+      "offer_id": "0337a70fe06867fc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1250",
+      "error": null,
+      "at": "2026-10-05T12:11:00.348830"
+    },
+    {
+      "offer_id": "2e666a481c5581ae",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1251",
+      "error": null,
+      "at": "2026-10-05T12:11:12.442130"
     }
   ]
 }
