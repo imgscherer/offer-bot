@@ -1,5 +1,17 @@
 [
   {
+    "id": "4ae2de1699212b81",
+    "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
+    "price_now": 28.48,
+    "price_was": 46.38,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/528048674317912417063092196045.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T23:10:52.694149"
+  },
+  {
     "id": "c713ae883585ba66",
     "title": "Granado Creme Assaduras Dermocalmante Bebê Peles Sensíveis 50g",
     "price_now": 22.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T19:21:29.750155"
-  },
-  {
-    "id": "4c9ec5f1522b743b",
-    "title": "Fralda Luxo Cremer 5 Unidades (70cmx70cm)",
-    "price_now": 16.96,
-    "price_was": 41.89,
-    "discount_pct": 60,
-    "url": "https://www.amazon.com.br/dp/B07D2G1V1H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/361628669217912272912236570765.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T19:11:16.459113"
   }
 ]
