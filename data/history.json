@@ -4863,6 +4863,10 @@
     "584d361fb45256fb": {
       "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades aberta com tecnologia Xtra-Flex canais em X",
       "posted_at": "2026-10-04T18:20:52.304427"
+    },
+    "b4d9a927d60a270f": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper G 68 Unidades",
+      "posted_at": "2026-10-05T03:50:41.981653"
     }
   },
   "results": [
@@ -24073,6 +24077,14 @@
       "post_id": "1223",
       "error": null,
       "at": "2026-10-04T18:20:52.303641"
+    },
+    {
+      "offer_id": "b4d9a927d60a270f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1224",
+      "error": null,
+      "at": "2026-10-05T03:50:41.980814"
     }
   ]
 }
