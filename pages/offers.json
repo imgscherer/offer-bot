@@ -1,5 +1,29 @@
 [
   {
+    "id": "0f2421f8d082bafa",
+    "title": "Fralda Turma Da Mônica Baby Mega Xg 42 Unidades",
+    "price_now": 33.92,
+    "price_was": 50.04,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B099KV2733?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/224074470417912067739842779254.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T13:41:04.307237"
+  },
+  {
+    "id": "b0ddd2d11ff1cd4d",
+    "title": "Fralda Babysec Ultrasec Galinha Pintadinha XXG 48 unidades",
+    "price_now": 44.52,
+    "price_was": 66.99,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0B1GZMBR1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/111517190817912059891884397295.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T13:40:51.179153"
+  },
+  {
     "id": "54d12ee76a5625a3",
     "title": "Fralda Huggies Supreme Care Roupinha XXG 144 unidades",
     "price_now": 179.9,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T12:31:31.011501"
-  },
-  {
-    "id": "6d7410b131d88a70",
-    "title": "Fralda Huggies Supreme Care Roupinha Xg - 64 Fraldas",
-    "price_now": 82.9,
-    "price_was": 131.78,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/436658273417912027614331223674.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T12:31:18.150762"
-  },
-  {
-    "id": "d746acaa5557fe6b",
-    "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
-    "price_now": 26.97,
-    "price_was": 46.38,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/221733529117912024504038302927.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T12:31:04.055689"
   }
 ]

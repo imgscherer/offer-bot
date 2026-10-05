@@ -5031,6 +5031,14 @@
     "54d12ee76a5625a3": {
       "title": "Fralda Huggies Supreme Care Roupinha XXG 144 unidades",
       "posted_at": "2026-10-05T13:31:39.521478"
+    },
+    "b0ddd2d11ff1cd4d": {
+      "title": "Fralda Babysec Ultrasec Galinha Pintadinha XXG 48 unidades",
+      "posted_at": "2026-10-05T13:40:51.179424"
+    },
+    "0f2421f8d082bafa": {
+      "title": "Fralda Turma Da Mônica Baby Mega Xg 42 Unidades",
+      "posted_at": "2026-10-05T13:41:04.307606"
     }
   },
   "results": [
@@ -24617,6 +24625,22 @@
       "post_id": "1265",
       "error": null,
       "at": "2026-10-05T13:31:39.520711"
+    },
+    {
+      "offer_id": "b0ddd2d11ff1cd4d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1266",
+      "error": null,
+      "at": "2026-10-05T13:40:51.178870"
+    },
+    {
+      "offer_id": "0f2421f8d082bafa",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1267",
+      "error": null,
+      "at": "2026-10-05T13:41:04.306962"
     }
   ]
 }
