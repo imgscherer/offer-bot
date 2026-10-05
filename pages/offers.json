@@ -1,5 +1,17 @@
 [
   {
+    "id": "ef5327e33b2fd49f",
+    "title": "Carrinho De Bebê (Trio)",
+    "price_now": 1889.99,
+    "price_was": 3999.0,
+    "discount_pct": 53,
+    "url": "https://www.amazon.com.br/dp/B0BKFSZT8G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/468934262217912240679563149079.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T18:30:53.521214"
+  },
+  {
     "id": "902d3425cd47317b",
     "title": "Fralda Personal Baby Total Protect Pants G 44 Unidades",
     "price_now": 43.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T14:51:07.277866"
-  },
-  {
-    "id": "39ae371c4e55808d",
-    "title": "Cremer Fralda Luxo Estampa Feminina Pc Com 5 Unidades",
-    "price_now": 17.0,
-    "price_was": 33.29,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07J68SZ66?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/411346877317912111589751992912.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T14:50:57.083088"
   }
 ]

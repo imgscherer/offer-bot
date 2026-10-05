@@ -5123,6 +5123,10 @@
     "902d3425cd47317b": {
       "title": "Fralda Personal Baby Total Protect Pants G 44 Unidades",
       "posted_at": "2026-10-05T18:10:53.421646"
+    },
+    "ef5327e33b2fd49f": {
+      "title": "Carrinho De Bebê (Trio)",
+      "posted_at": "2026-10-05T18:30:53.521682"
     }
   },
   "results": [
@@ -24893,6 +24897,14 @@
       "post_id": "1288",
       "error": null,
       "at": "2026-10-05T18:10:53.420900"
+    },
+    {
+      "offer_id": "ef5327e33b2fd49f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1289",
+      "error": null,
+      "at": "2026-10-05T18:30:53.520771"
     }
   ]
 }
