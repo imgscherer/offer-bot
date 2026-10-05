@@ -4887,6 +4887,10 @@
     "fc18a0b660031f16": {
       "title": "Mamypoko Fralda-calça Dia&noite G 60 Unidades",
       "posted_at": "2026-10-05T04:31:18.800468"
+    },
+    "e19327aa2c0ba493": {
+      "title": "Personal 'fralda Baby Premium Protection M Com 34 Unidades",
+      "posted_at": "2026-10-05T04:40:46.494744"
     }
   },
   "results": [
@@ -24145,6 +24149,14 @@
       "post_id": "1229",
       "error": null,
       "at": "2026-10-05T04:31:18.799749"
+    },
+    {
+      "offer_id": "e19327aa2c0ba493",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1230",
+      "error": null,
+      "at": "2026-10-05T04:40:46.493978"
     }
   ]
 }
