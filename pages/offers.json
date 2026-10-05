@@ -1,5 +1,17 @@
 [
   {
+    "id": "1621ea5d5daaf050",
+    "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
+    "price_now": 19.99,
+    "price_was": 28.68,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KXW911?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/661654115817912103152660098487.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T14:30:58.287750"
+  },
+  {
     "id": "92e6f01ca72f8a78",
     "title": "Fralda Turma da Mônica Baby G com 44",
     "price_now": 31.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T13:31:39.521019"
-  },
-  {
-    "id": "eb7472380d0e6529",
-    "title": "Fralda Huggies Supreme Care Roupinha XG 144 unidades",
-    "price_now": 179.9,
-    "price_was": 289.0,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/440142620517912060568922101261.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T13:31:28.598661"
   }
 ]

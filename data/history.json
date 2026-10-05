@@ -5071,6 +5071,10 @@
     "92e6f01ca72f8a78": {
       "title": "Fralda Turma da Mônica Baby G com 44",
       "posted_at": "2026-10-05T14:21:15.463974"
+    },
+    "1621ea5d5daaf050": {
+      "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
+      "posted_at": "2026-10-05T14:30:58.288258"
     }
   },
   "results": [
@@ -24737,6 +24741,14 @@
       "post_id": "1275",
       "error": null,
       "at": "2026-10-05T14:21:15.463045"
+    },
+    {
+      "offer_id": "1621ea5d5daaf050",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1276",
+      "error": null,
+      "at": "2026-10-05T14:30:58.287229"
     }
   ]
 }
