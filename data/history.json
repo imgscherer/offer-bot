@@ -4871,6 +4871,22 @@
     "f17d663887f42abd": {
       "title": "Maxi Baby Assento Redutor Infantil Dobrável Cescada Mcfrog (azul)",
       "posted_at": "2026-10-05T04:20:50.583632"
+    },
+    "5600059eb1dc5a53": {
+      "title": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha, 72 Unidades, Tamanho M 5 - 9, 5 Kg, Babysec, Azul, M",
+      "posted_at": "2026-10-05T04:30:51.444209"
+    },
+    "78f337bf748f81c3": {
+      "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
+      "posted_at": "2026-10-05T04:30:59.607633"
+    },
+    "0a01eb438068d430": {
+      "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
+      "posted_at": "2026-10-05T04:31:07.815483"
+    },
+    "fc18a0b660031f16": {
+      "title": "Mamypoko Fralda-calça Dia&noite G 60 Unidades",
+      "posted_at": "2026-10-05T04:31:18.800468"
     }
   },
   "results": [
@@ -24097,6 +24113,38 @@
       "post_id": "1225",
       "error": null,
       "at": "2026-10-05T04:20:50.582873"
+    },
+    {
+      "offer_id": "5600059eb1dc5a53",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1226",
+      "error": null,
+      "at": "2026-10-05T04:30:51.443358"
+    },
+    {
+      "offer_id": "78f337bf748f81c3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1227",
+      "error": null,
+      "at": "2026-10-05T04:30:59.606822"
+    },
+    {
+      "offer_id": "0a01eb438068d430",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1228",
+      "error": null,
+      "at": "2026-10-05T04:31:07.814784"
+    },
+    {
+      "offer_id": "fc18a0b660031f16",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1229",
+      "error": null,
+      "at": "2026-10-05T04:31:18.799749"
     }
   ]
 }
