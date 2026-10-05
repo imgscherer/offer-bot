@@ -5075,6 +5075,26 @@
     "1621ea5d5daaf050": {
       "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
       "posted_at": "2026-10-05T14:30:58.288258"
+    },
+    "39ae371c4e55808d": {
+      "title": "Cremer Fralda Luxo Estampa Feminina Pc Com 5 Unidades",
+      "posted_at": "2026-10-05T14:50:57.083511"
+    },
+    "8e8c730520c34182": {
+      "title": "Fralda Personal Baby Premium Protection RN até P com 40",
+      "posted_at": "2026-10-05T14:51:07.278315"
+    },
+    "13f0e56c84375846": {
+      "title": "Fralda Pampers Premium Care Pants XG 64 unidades",
+      "posted_at": "2026-10-05T14:51:17.850509"
+    },
+    "851acbbc27a44242": {
+      "title": "Fralda Personal Baby Premium Protection G com 30",
+      "posted_at": "2026-10-05T14:51:39.035669"
+    },
+    "0ac12a572cebd61d": {
+      "title": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
+      "posted_at": "2026-10-05T14:51:48.788341"
     }
   },
   "results": [
@@ -24749,6 +24769,46 @@
       "post_id": "1276",
       "error": null,
       "at": "2026-10-05T14:30:58.287229"
+    },
+    {
+      "offer_id": "39ae371c4e55808d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1277",
+      "error": null,
+      "at": "2026-10-05T14:50:57.082696"
+    },
+    {
+      "offer_id": "8e8c730520c34182",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1278",
+      "error": null,
+      "at": "2026-10-05T14:51:07.277536"
+    },
+    {
+      "offer_id": "13f0e56c84375846",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1279",
+      "error": null,
+      "at": "2026-10-05T14:51:17.849716"
+    },
+    {
+      "offer_id": "851acbbc27a44242",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1280",
+      "error": null,
+      "at": "2026-10-05T14:51:39.034876"
+    },
+    {
+      "offer_id": "0ac12a572cebd61d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1281",
+      "error": null,
+      "at": "2026-10-05T14:51:48.787592"
     }
   ]
 }

@@ -1,5 +1,65 @@
 [
   {
+    "id": "0ac12a572cebd61d",
+    "title": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
+    "price_now": 29.9,
+    "price_was": 46.9,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/741365097617912112112188210536.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T14:51:48.787888"
+  },
+  {
+    "id": "851acbbc27a44242",
+    "title": "Fralda Personal Baby Premium Protection G com 30",
+    "price_now": 30.0,
+    "price_was": 48.75,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/349599183417912111579100886497.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T14:51:39.035234"
+  },
+  {
+    "id": "13f0e56c84375846",
+    "title": "Fralda Pampers Premium Care Pants XG 64 unidades",
+    "price_now": 89.28,
+    "price_was": 151.59,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07X5KWJK9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/950839751317912109117618073176.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T14:51:17.850082"
+  },
+  {
+    "id": "8e8c730520c34182",
+    "title": "Fralda Personal Baby Premium Protection RN até P com 40",
+    "price_now": 26.0,
+    "price_was": 46.38,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/941902161617912110918985195632.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T14:51:07.277866"
+  },
+  {
+    "id": "39ae371c4e55808d",
+    "title": "Cremer Fralda Luxo Estampa Feminina Pc Com 5 Unidades",
+    "price_now": 17.0,
+    "price_was": 33.29,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07J68SZ66?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/411346877317912111589751992912.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T14:50:57.083088"
+  },
+  {
     "id": "1621ea5d5daaf050",
     "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
     "price_now": 19.99,
@@ -82,65 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T14:11:06.485585"
-  },
-  {
-    "id": "04de5ea824ba2874",
-    "title": "Personal Fralda Baby Premium Pants G, 62 Unidades",
-    "price_now": 68.49,
-    "price_was": 116.89,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/326050559917912091101683955093.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T14:10:57.558204"
-  },
-  {
-    "id": "d9a6539a04a3a54d",
-    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
-    "price_now": 26.0,
-    "price_was": 52.65,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/236660322717912084501270298080.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T14:01:03.180944"
-  },
-  {
-    "id": "0f2421f8d082bafa",
-    "title": "Fralda Turma Da Mônica Baby Mega Xg 42 Unidades",
-    "price_now": 33.92,
-    "price_was": 50.04,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B099KV2733?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/224074470417912067739842779254.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T13:41:04.307237"
-  },
-  {
-    "id": "b0ddd2d11ff1cd4d",
-    "title": "Fralda Babysec Ultrasec Galinha Pintadinha XXG 48 unidades",
-    "price_now": 44.52,
-    "price_was": 66.99,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0B1GZMBR1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/111517190817912059891884397295.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T13:40:51.179153"
-  },
-  {
-    "id": "54d12ee76a5625a3",
-    "title": "Fralda Huggies Supreme Care Roupinha XXG 144 unidades",
-    "price_now": 179.9,
-    "price_was": 289.0,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0FPSX9VDZ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/896830741517912060498806536926.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T13:31:39.521019"
   }
 ]
