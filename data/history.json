@@ -5099,6 +5099,14 @@
     "2e358e507c9fbb6b": {
       "title": "Personal Fralda Baby Total Protect Pants M 28 Un",
       "posted_at": "2026-10-05T15:00:54.563718"
+    },
+    "a6049f96bf83dfe4": {
+      "title": "Granado Creme Assaduras Bebê Dermocalmante 300g",
+      "posted_at": "2026-10-05T15:10:46.842772"
+    },
+    "8b8756154c0f486c": {
+      "title": "Fralda Huggies Supreme Care Roupinha XG 64 unidades",
+      "posted_at": "2026-10-05T15:11:02.916556"
     }
   },
   "results": [
@@ -24821,6 +24829,22 @@
       "post_id": "1282",
       "error": null,
       "at": "2026-10-05T15:00:54.563022"
+    },
+    {
+      "offer_id": "a6049f96bf83dfe4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1283",
+      "error": null,
+      "at": "2026-10-05T15:10:46.842218"
+    },
+    {
+      "offer_id": "8b8756154c0f486c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1284",
+      "error": null,
+      "at": "2026-10-05T15:11:02.915868"
     }
   ]
 }

@@ -1,5 +1,29 @@
 [
   {
+    "id": "8b8756154c0f486c",
+    "title": "Fralda Huggies Supreme Care Roupinha XG 64 unidades",
+    "price_now": 78.75,
+    "price_was": 131.78,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/260203957517912124126175381581.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T15:11:02.916118"
+  },
+  {
+    "id": "a6049f96bf83dfe4",
+    "title": "Granado Creme Assaduras Bebê Dermocalmante 300g",
+    "price_now": 46.19,
+    "price_was": 91.5,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/535828668317912127202780614572.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T15:10:46.842519"
+  },
+  {
     "id": "2e358e507c9fbb6b",
     "title": "Personal Fralda Baby Total Protect Pants M 28 Un",
     "price_now": 25.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T14:20:56.153798"
-  },
-  {
-    "id": "0a109dbc192add9f",
-    "title": "Fralda Turma da Mônica Baby P com 62",
-    "price_now": 31.0,
-    "price_was": 50.04,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/769244180817912094265195902880.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T14:20:45.548530"
-  },
-  {
-    "id": "339b7290951c5c5c",
-    "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
-    "price_now": 43.76,
-    "price_was": 69.42,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/274306288417912089948500806064.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T14:11:15.686424"
   }
 ]
