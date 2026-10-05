@@ -5175,6 +5175,10 @@
     "71f948d5bd5b8547": {
       "title": "Carrinho + Bebê Conforto Travel System Toffy Cosco Kids",
       "posted_at": "2026-10-05T20:41:51.582623"
+    },
+    "08e47e27cb0ce5f9": {
+      "title": "Fralda Huggies Premium Dermacare XG 38 Un",
+      "posted_at": "2026-10-05T21:31:04.588825"
     }
   },
   "results": [
@@ -25073,6 +25077,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-05T21:21:00.872990"
+    },
+    {
+      "offer_id": "944b2b10717ad0f6",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-05T21:30:55.179441"
+    },
+    {
+      "offer_id": "08e47e27cb0ce5f9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1302",
+      "error": null,
+      "at": "2026-10-05T21:31:04.588034"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "08e47e27cb0ce5f9",
+    "title": "Fralda Huggies Premium Dermacare XG 38 Un",
+    "price_now": 71.0,
+    "price_was": 106.4,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0DSC8C4XH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/675536343617912351551878406542.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T21:31:04.588396"
+  },
+  {
     "id": "71f948d5bd5b8547",
     "title": "Carrinho + Bebê Conforto Travel System Toffy Cosco Kids",
     "price_now": 699.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T18:51:28.808561"
-  },
-  {
-    "id": "81bac3aa95c27a10",
-    "title": "Mamypoko Fralda-calça Dia&noite Xg 52 Unidades",
-    "price_now": 68.98,
-    "price_was": 107.9,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0CHZBQKTV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/878263800917912251283799901648.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T18:40:50.226285"
   }
 ]
