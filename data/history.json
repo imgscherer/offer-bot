@@ -4891,6 +4891,14 @@
     "e19327aa2c0ba493": {
       "title": "Personal 'fralda Baby Premium Protection M Com 34 Unidades",
       "posted_at": "2026-10-05T04:40:46.494744"
+    },
+    "2032a2e88c457870": {
+      "title": "Fralda-Calça MamyPoko Dia&Noite G 60 unidades",
+      "posted_at": "2026-10-05T10:51:23.401498"
+    },
+    "1ad4e0795935de15": {
+      "title": "Huggies Fralda Premium Natural Care P - 36 Un",
+      "posted_at": "2026-10-05T10:51:34.285647"
     }
   },
   "results": [
@@ -24157,6 +24165,22 @@
       "post_id": "1230",
       "error": null,
       "at": "2026-10-05T04:40:46.493978"
+    },
+    {
+      "offer_id": "2032a2e88c457870",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1231",
+      "error": null,
+      "at": "2026-10-05T10:51:23.400789"
+    },
+    {
+      "offer_id": "1ad4e0795935de15",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1232",
+      "error": null,
+      "at": "2026-10-05T10:51:34.284895"
     }
   ]
 }
