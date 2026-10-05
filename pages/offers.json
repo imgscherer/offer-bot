@@ -1,5 +1,29 @@
 [
   {
+    "id": "4d61ea74edc35f2f",
+    "title": "Fralda Cremer Jumbo G 24 Unidades",
+    "price_now": 17.0,
+    "price_was": 25.89,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B07FGNDSYL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/488720275417912297495852309095.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T20:16:45.331086"
+  },
+  {
+    "id": "f19a2b1be0436516",
+    "title": "Tênis Infantil Lilo Stitch (Tam. 26 ao 33, 4 cores)",
+    "price_now": 62.99,
+    "price_was": 99.98,
+    "discount_pct": 37,
+    "url": "https://s.shopee.com.br/5LCRwAgute?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/670564316017912302931214453079.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T20:16:30.167164"
+  },
+  {
     "id": "21798d8d5dda28af",
     "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
     "price_now": 34.18,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T16:00:53.566379"
-  },
-  {
-    "id": "f399409e5bbd11fb",
-    "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
-    "price_now": 41.0,
-    "price_was": 59.99,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/828976968117912144758306627532.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T15:40:45.044048"
-  },
-  {
-    "id": "5d930d5d5c4f78b0",
-    "title": "Huggies Fralda Pants Proteção Acolchoada XXG 144 Unidades",
-    "price_now": 179.0,
-    "price_was": 289.0,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0FPSX9VDZ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/665965761317912134304327180136.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T15:30:58.622536"
   }
 ]

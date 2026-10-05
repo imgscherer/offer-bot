@@ -5155,6 +5155,14 @@
     "21798d8d5dda28af": {
       "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
       "posted_at": "2026-10-05T19:46:11.983162"
+    },
+    "f19a2b1be0436516": {
+      "title": "Tênis Infantil Lilo Stitch (Tam. 26 ao 33, 4 cores)",
+      "posted_at": "2026-10-05T20:16:30.167473"
+    },
+    "4d61ea74edc35f2f": {
+      "title": "Fralda Cremer Jumbo G 24 Unidades",
+      "posted_at": "2026-10-05T20:16:45.331536"
     }
   },
   "results": [
@@ -24989,6 +24997,22 @@
       "post_id": "1296",
       "error": null,
       "at": "2026-10-05T19:46:11.982427"
+    },
+    {
+      "offer_id": "f19a2b1be0436516",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1297",
+      "error": null,
+      "at": "2026-10-05T20:16:30.166770"
+    },
+    {
+      "offer_id": "4d61ea74edc35f2f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1298",
+      "error": null,
+      "at": "2026-10-05T20:16:45.330768"
     }
   ]
 }
