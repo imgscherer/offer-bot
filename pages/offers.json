@@ -1,5 +1,17 @@
 [
   {
+    "id": "5d930d5d5c4f78b0",
+    "title": "Huggies Fralda Pants Proteção Acolchoada XXG 144 Unidades",
+    "price_now": 179.0,
+    "price_was": 289.0,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0FPSX9VDZ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/665965761317912134304327180136.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T15:30:58.622536"
+  },
+  {
     "id": "8b8756154c0f486c",
     "title": "Fralda Huggies Supreme Care Roupinha XG 64 unidades",
     "price_now": 78.75,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T14:21:05.022840"
-  },
-  {
-    "id": "9bd42a390db4419a",
-    "title": "Fralda Turma da Mônica Baby M com 50",
-    "price_now": 31.0,
-    "price_was": 50.04,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/474472635417912094157097514299.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T14:20:56.153798"
   }
 ]
