@@ -1,5 +1,29 @@
 [
   {
+    "id": "58ae02ee1f874abe",
+    "title": "Fralda Turma Da Mônica Baby Jumbo Rn 36 Unidades",
+    "price_now": 16.66,
+    "price_was": 28.68,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/156080329117911985651428131094.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T11:21:04.364062"
+  },
+  {
+    "id": "12840a424c7b6a55",
+    "title": "Lenço Umedecido Mamypoko Dia&Noite 200 unidades (4 Pacotes com 50 unidades)",
+    "price_now": 23.65,
+    "price_was": 42.8,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B09BBDVPB1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/565177808617911985052714642330.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T11:20:53.660856"
+  },
+  {
     "id": "8a45ae68e81bf145",
     "title": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha 72 Unidades Tamanho M 5 - 9 5 Kg Babysec Azul M",
     "price_now": 44.52,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T03:50:41.981176"
-  },
-  {
-    "id": "584d361fb45256fb",
-    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades aberta com tecnologia Xtra-Flex canais em X",
-    "price_now": 161.4,
-    "price_was": 229.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/431221226517911371224265848985.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-04T18:20:52.304016"
-  },
-  {
-    "id": "ccb5a7e92d2fa49d",
-    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
-    "price_now": 43.0,
-    "price_was": 62.99,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/449090437317911364513156193764.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-04T18:00:56.965649"
   }
 ]

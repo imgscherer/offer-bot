@@ -4903,6 +4903,14 @@
     "8a45ae68e81bf145": {
       "title": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha 72 Unidades Tamanho M 5 - 9 5 Kg Babysec Azul M",
       "posted_at": "2026-10-05T11:00:57.143911"
+    },
+    "12840a424c7b6a55": {
+      "title": "Lenço Umedecido Mamypoko Dia&Noite 200 unidades (4 Pacotes com 50 unidades)",
+      "posted_at": "2026-10-05T11:20:53.661389"
+    },
+    "58ae02ee1f874abe": {
+      "title": "Fralda Turma Da Mônica Baby Jumbo Rn 36 Unidades",
+      "posted_at": "2026-10-05T11:21:04.364480"
     }
   },
   "results": [
@@ -24193,6 +24201,22 @@
       "post_id": "1233",
       "error": null,
       "at": "2026-10-05T11:00:57.143235"
+    },
+    {
+      "offer_id": "12840a424c7b6a55",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1234",
+      "error": null,
+      "at": "2026-10-05T11:20:53.660387"
+    },
+    {
+      "offer_id": "58ae02ee1f874abe",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1235",
+      "error": null,
+      "at": "2026-10-05T11:21:04.363697"
     }
   ]
 }
