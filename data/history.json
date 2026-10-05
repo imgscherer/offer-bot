@@ -5139,6 +5139,10 @@
     "ea758ad79e98dba2": {
       "title": "Fralda Personal Baby Premium Pants G 62 unidades",
       "posted_at": "2026-10-05T18:51:39.697870"
+    },
+    "4c9ec5f1522b743b": {
+      "title": "Fralda Luxo Cremer 5 Unidades (70cmx70cm)",
+      "posted_at": "2026-10-05T19:11:16.459350"
     }
   },
   "results": [
@@ -24941,6 +24945,14 @@
       "post_id": "1292",
       "error": null,
       "at": "2026-10-05T18:51:39.696773"
+    },
+    {
+      "offer_id": "4c9ec5f1522b743b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1293",
+      "error": null,
+      "at": "2026-10-05T19:11:16.458846"
     }
   ]
 }

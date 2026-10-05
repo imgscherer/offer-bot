@@ -1,5 +1,17 @@
 [
   {
+    "id": "4c9ec5f1522b743b",
+    "title": "Fralda Luxo Cremer 5 Unidades (70cmx70cm)",
+    "price_now": 16.96,
+    "price_was": 41.89,
+    "discount_pct": 60,
+    "url": "https://www.amazon.com.br/dp/B07D2G1V1H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/361628669217912272912236570765.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T19:11:16.459113"
+  },
+  {
     "id": "ea758ad79e98dba2",
     "title": "Fralda Personal Baby Premium Pants G 62 unidades",
     "price_now": 65.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T15:00:54.563365"
-  },
-  {
-    "id": "0ac12a572cebd61d",
-    "title": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
-    "price_now": 29.9,
-    "price_was": 46.9,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/741365097617912112112188210536.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T14:51:48.787888"
   }
 ]
