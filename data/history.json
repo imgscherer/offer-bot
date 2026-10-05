@@ -5119,6 +5119,10 @@
     "3b73df417c58aed0": {
       "title": "Repelente Exposis Gel Bebê 117ml (A partir de 3 meses)",
       "posted_at": "2026-10-05T16:00:53.566786"
+    },
+    "902d3425cd47317b": {
+      "title": "Fralda Personal Baby Total Protect Pants G 44 Unidades",
+      "posted_at": "2026-10-05T18:10:53.421646"
     }
   },
   "results": [
@@ -24881,6 +24885,14 @@
       "post_id": "1287",
       "error": null,
       "at": "2026-10-05T16:00:53.566015"
+    },
+    {
+      "offer_id": "902d3425cd47317b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1288",
+      "error": null,
+      "at": "2026-10-05T18:10:53.420900"
     }
   ]
 }
