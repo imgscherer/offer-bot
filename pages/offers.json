@@ -1,5 +1,65 @@
 [
   {
+    "id": "7368b952567c60e4",
+    "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+    "price_now": 151.88,
+    "price_was": 229.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/896775975217911989828668829222.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T11:32:05.648990"
+  },
+  {
+    "id": "e0b443f88221e6fd",
+    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+    "price_now": 151.88,
+    "price_was": 229.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/596449397417911989814077694150.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T11:31:29.848293"
+  },
+  {
+    "id": "af330bb7398de1b0",
+    "title": "Fralda Pom Pom Protek Proteção De Mãe Mega Xg 38 Unidades",
+    "price_now": 31.98,
+    "price_was": 50.29,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/198216235217911989696920088334.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T11:31:15.777005"
+  },
+  {
+    "id": "e0c39c7ff8955eb5",
+    "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+    "price_now": 151.88,
+    "price_was": 246.01,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/291829131817911989708292064146.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T11:31:03.730964"
+  },
+  {
+    "id": "159da6e8936dbd61",
+    "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
+    "price_now": 36.0,
+    "price_was": 59.99,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/565143854217911990286997200187.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T11:30:51.052104"
+  },
+  {
     "id": "58ae02ee1f874abe",
     "title": "Fralda Turma Da Mônica Baby Jumbo Rn 36 Unidades",
     "price_now": 16.66,
@@ -82,65 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T04:31:18.800035"
-  },
-  {
-    "id": "0a01eb438068d430",
-    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
-    "price_now": 29.99,
-    "price_was": 52.65,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/134082461617911735317262954097.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T04:31:07.815050"
-  },
-  {
-    "id": "78f337bf748f81c3",
-    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
-    "price_now": 49.48,
-    "price_was": 101.58,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/889381291617911735306134419525.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T04:30:59.607145"
-  },
-  {
-    "id": "5600059eb1dc5a53",
-    "title": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha, 72 Unidades, Tamanho M 5 - 9, 5 Kg, Babysec, Azul, M",
-    "price_now": 49.47,
-    "price_was": 101.58,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/965958178617911735329031518695.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T04:30:51.443738"
-  },
-  {
-    "id": "f17d663887f42abd",
-    "title": "Maxi Baby Assento Redutor Infantil Dobrável Cescada Mcfrog (azul)",
-    "price_now": 61.65,
-    "price_was": 179.9,
-    "discount_pct": 66,
-    "url": "https://www.amazon.com.br/dp/B0D96N45LL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/116424249917911731122144361248.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T04:20:50.583204"
-  },
-  {
-    "id": "b4d9a927d60a270f",
-    "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper G 68 Unidades",
-    "price_now": 51.74,
-    "price_was": 77.37,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/928809837517911717297733296161.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T03:50:41.981176"
   }
 ]

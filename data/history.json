@@ -4911,6 +4911,26 @@
     "58ae02ee1f874abe": {
       "title": "Fralda Turma Da Mônica Baby Jumbo Rn 36 Unidades",
       "posted_at": "2026-10-05T11:21:04.364480"
+    },
+    "159da6e8936dbd61": {
+      "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
+      "posted_at": "2026-10-05T11:30:51.116002"
+    },
+    "e0c39c7ff8955eb5": {
+      "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+      "posted_at": "2026-10-05T11:31:03.731357"
+    },
+    "af330bb7398de1b0": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe Mega Xg 38 Unidades",
+      "posted_at": "2026-10-05T11:31:15.780561"
+    },
+    "e0b443f88221e6fd": {
+      "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+      "posted_at": "2026-10-05T11:31:29.848677"
+    },
+    "7368b952567c60e4": {
+      "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+      "posted_at": "2026-10-05T11:32:05.649429"
     }
   },
   "results": [
@@ -24217,6 +24237,46 @@
       "post_id": "1235",
       "error": null,
       "at": "2026-10-05T11:21:04.363697"
+    },
+    {
+      "offer_id": "159da6e8936dbd61",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1236",
+      "error": null,
+      "at": "2026-10-05T11:30:51.051827"
+    },
+    {
+      "offer_id": "e0c39c7ff8955eb5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1237",
+      "error": null,
+      "at": "2026-10-05T11:31:03.730711"
+    },
+    {
+      "offer_id": "af330bb7398de1b0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1238",
+      "error": null,
+      "at": "2026-10-05T11:31:15.776734"
+    },
+    {
+      "offer_id": "e0b443f88221e6fd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1239",
+      "error": null,
+      "at": "2026-10-05T11:31:29.848022"
+    },
+    {
+      "offer_id": "7368b952567c60e4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1240",
+      "error": null,
+      "at": "2026-10-05T11:32:05.648728"
     }
   ]
 }
