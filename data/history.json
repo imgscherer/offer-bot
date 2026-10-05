@@ -4931,6 +4931,18 @@
     "7368b952567c60e4": {
       "title": "Fralda Huggies Máxima Proteção G 160 unidades",
       "posted_at": "2026-10-05T11:32:05.649429"
+    },
+    "a057c371deb67be4": {
+      "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+      "posted_at": "2026-10-05T11:41:28.883953"
+    },
+    "c46ab39c6fab188b": {
+      "title": "Fralda Pampers Supersequinha XG com 70",
+      "posted_at": "2026-10-05T11:41:45.595833"
+    },
+    "9ea28c68fa67a7f1": {
+      "title": "Fralda Pampers Supersequinha G com 80",
+      "posted_at": "2026-10-05T11:41:57.783245"
     }
   },
   "results": [
@@ -24277,6 +24289,38 @@
       "post_id": "1240",
       "error": null,
       "at": "2026-10-05T11:32:05.648728"
+    },
+    {
+      "offer_id": "c27ba44a42654248",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-05T11:41:14.153360"
+    },
+    {
+      "offer_id": "a057c371deb67be4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1241",
+      "error": null,
+      "at": "2026-10-05T11:41:28.883138"
+    },
+    {
+      "offer_id": "c46ab39c6fab188b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1242",
+      "error": null,
+      "at": "2026-10-05T11:41:45.595073"
+    },
+    {
+      "offer_id": "9ea28c68fa67a7f1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1243",
+      "error": null,
+      "at": "2026-10-05T11:41:57.782422"
     }
   ]
 }

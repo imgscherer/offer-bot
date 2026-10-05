@@ -1,5 +1,41 @@
 [
   {
+    "id": "9ea28c68fa67a7f1",
+    "title": "Fralda Pampers Supersequinha G com 80",
+    "price_now": 75.0,
+    "price_was": 109.78,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/417893142917911999949787756426.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T11:41:57.782735"
+  },
+  {
+    "id": "c46ab39c6fab188b",
+    "title": "Fralda Pampers Supersequinha XG com 70",
+    "price_now": 75.0,
+    "price_was": 109.78,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0DV7BN75H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/657739113717911999871574550414.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T11:41:45.595382"
+  },
+  {
+    "id": "a057c371deb67be4",
+    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+    "price_now": 151.88,
+    "price_was": 229.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/692667383517911989755102284041.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T11:41:28.883455"
+  },
+  {
     "id": "7368b952567c60e4",
     "title": "Fralda Huggies Máxima Proteção G 160 unidades",
     "price_now": 151.88,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T10:51:34.285247"
-  },
-  {
-    "id": "2032a2e88c457870",
-    "title": "Fralda-Calça MamyPoko Dia&Noite G 60 unidades",
-    "price_now": 65.53,
-    "price_was": 107.9,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0CHZBJVVZ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/554123822617911966903445583185.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T10:51:23.401188"
-  },
-  {
-    "id": "e19327aa2c0ba493",
-    "title": "Personal 'fralda Baby Premium Protection M Com 34 Unidades",
-    "price_now": 28.39,
-    "price_was": 46.38,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/895379528617911748507683467955.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T04:40:46.494308"
-  },
-  {
-    "id": "fc18a0b660031f16",
-    "title": "Mamypoko Fralda-calça Dia&noite G 60 Unidades",
-    "price_now": 68.98,
-    "price_was": 107.9,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0CHZBJVVZ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/474779302217911737118378036989.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T04:31:18.800035"
   }
 ]
