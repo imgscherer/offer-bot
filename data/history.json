@@ -5055,6 +5055,22 @@
     "339b7290951c5c5c": {
       "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
       "posted_at": "2026-10-05T14:11:15.686873"
+    },
+    "0a109dbc192add9f": {
+      "title": "Fralda Turma da Mônica Baby P com 62",
+      "posted_at": "2026-10-05T14:20:45.548747"
+    },
+    "9bd42a390db4419a": {
+      "title": "Fralda Turma da Mônica Baby M com 50",
+      "posted_at": "2026-10-05T14:20:56.154775"
+    },
+    "732c4dc4271bfad2": {
+      "title": "Fralda Turma da Mônica Baby XG com 42",
+      "posted_at": "2026-10-05T14:21:05.023786"
+    },
+    "92e6f01ca72f8a78": {
+      "title": "Fralda Turma da Mônica Baby G com 44",
+      "posted_at": "2026-10-05T14:21:15.463974"
     }
   },
   "results": [
@@ -24689,6 +24705,38 @@
       "post_id": "1271",
       "error": null,
       "at": "2026-10-05T14:11:15.686105"
+    },
+    {
+      "offer_id": "0a109dbc192add9f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1272",
+      "error": null,
+      "at": "2026-10-05T14:20:45.548240"
+    },
+    {
+      "offer_id": "9bd42a390db4419a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1273",
+      "error": null,
+      "at": "2026-10-05T14:20:56.153429"
+    },
+    {
+      "offer_id": "732c4dc4271bfad2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1274",
+      "error": null,
+      "at": "2026-10-05T14:21:05.022534"
+    },
+    {
+      "offer_id": "92e6f01ca72f8a78",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1275",
+      "error": null,
+      "at": "2026-10-05T14:21:15.463045"
     }
   ]
 }
