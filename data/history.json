@@ -5043,6 +5043,18 @@
     "d9a6539a04a3a54d": {
       "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
       "posted_at": "2026-10-05T14:01:03.181433"
+    },
+    "04de5ea824ba2874": {
+      "title": "Personal Fralda Baby Premium Pants G, 62 Unidades",
+      "posted_at": "2026-10-05T14:10:57.558649"
+    },
+    "91064d3eb0182ea9": {
+      "title": "Fralda Personal Baby Total Protect Pants G 44 unidades",
+      "posted_at": "2026-10-05T14:11:06.486064"
+    },
+    "339b7290951c5c5c": {
+      "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
+      "posted_at": "2026-10-05T14:11:15.686873"
     }
   },
   "results": [
@@ -24653,6 +24665,30 @@
       "post_id": "1268",
       "error": null,
       "at": "2026-10-05T14:01:03.180602"
+    },
+    {
+      "offer_id": "04de5ea824ba2874",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1269",
+      "error": null,
+      "at": "2026-10-05T14:10:57.557823"
+    },
+    {
+      "offer_id": "91064d3eb0182ea9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1270",
+      "error": null,
+      "at": "2026-10-05T14:11:06.485245"
+    },
+    {
+      "offer_id": "339b7290951c5c5c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1271",
+      "error": null,
+      "at": "2026-10-05T14:11:15.686105"
     }
   ]
 }

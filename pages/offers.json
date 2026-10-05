@@ -1,5 +1,41 @@
 [
   {
+    "id": "339b7290951c5c5c",
+    "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
+    "price_now": 43.76,
+    "price_was": 69.42,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/274306288417912089948500806064.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T14:11:15.686424"
+  },
+  {
+    "id": "91064d3eb0182ea9",
+    "title": "Fralda Personal Baby Total Protect Pants G 44 unidades",
+    "price_now": 43.76,
+    "price_was": 71.99,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0BTTLYZN9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/582755514817912089905307171656.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T14:11:06.485585"
+  },
+  {
+    "id": "04de5ea824ba2874",
+    "title": "Personal Fralda Baby Premium Pants G, 62 Unidades",
+    "price_now": 68.49,
+    "price_was": 116.89,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/326050559917912091101683955093.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T14:10:57.558204"
+  },
+  {
     "id": "d9a6539a04a3a54d",
     "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
     "price_now": 26.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T13:01:04.402898"
-  },
-  {
-    "id": "ff6b4d274e7176c6",
-    "title": "Fralda Babysec Premium G 60 unidades",
-    "price_now": 53.44,
-    "price_was": 85.2,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0CCDZ9XBJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/300463193317912045307734425290.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T13:00:54.611070"
-  },
-  {
-    "id": "3184de87bb40007e",
-    "title": "Huggies Fralda Pants Proteção Acolchoada M com 216",
-    "price_now": 179.0,
-    "price_was": 289.0,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/812656713417912038563949251068.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T12:41:00.871918"
-  },
-  {
-    "id": "87187c982e9bfcb9",
-    "title": "Huggies Fralda Pants Proteção Acolchoada XG com 144",
-    "price_now": 179.0,
-    "price_was": 289.0,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/514424382617912038816874045506.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T12:40:50.938899"
   }
 ]
