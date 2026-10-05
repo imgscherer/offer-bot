@@ -5131,6 +5131,14 @@
     "81bac3aa95c27a10": {
       "title": "Mamypoko Fralda-calça Dia&noite Xg 52 Unidades",
       "posted_at": "2026-10-05T18:40:50.226603"
+    },
+    "3ee4f1368c98641b": {
+      "title": "Personal Fralda Baby Premium Pants M, 70 Unidades",
+      "posted_at": "2026-10-05T18:51:28.808810"
+    },
+    "ea758ad79e98dba2": {
+      "title": "Fralda Personal Baby Premium Pants G 62 unidades",
+      "posted_at": "2026-10-05T18:51:39.697870"
     }
   },
   "results": [
@@ -24917,6 +24925,22 @@
       "post_id": "1290",
       "error": null,
       "at": "2026-10-05T18:40:50.225920"
+    },
+    {
+      "offer_id": "3ee4f1368c98641b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1291",
+      "error": null,
+      "at": "2026-10-05T18:51:28.808244"
+    },
+    {
+      "offer_id": "ea758ad79e98dba2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1292",
+      "error": null,
+      "at": "2026-10-05T18:51:39.696773"
     }
   ]
 }

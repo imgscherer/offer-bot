@@ -1,5 +1,29 @@
 [
   {
+    "id": "ea758ad79e98dba2",
+    "title": "Fralda Personal Baby Premium Pants G 62 unidades",
+    "price_now": 65.0,
+    "price_was": 116.89,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/307268257217912253789689410836.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T18:51:39.697034"
+  },
+  {
+    "id": "3ee4f1368c98641b",
+    "title": "Personal Fralda Baby Premium Pants M, 70 Unidades",
+    "price_now": 41.0,
+    "price_was": 116.89,
+    "discount_pct": 65,
+    "url": "https://www.amazon.com.br/dp/B0BGML4J44?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/529908095817912258498912397996.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T18:51:28.808561"
+  },
+  {
     "id": "81bac3aa95c27a10",
     "title": "Mamypoko Fralda-calça Dia&noite Xg 52 Unidades",
     "price_now": 68.98,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T14:51:48.787888"
-  },
-  {
-    "id": "851acbbc27a44242",
-    "title": "Fralda Personal Baby Premium Protection G com 30",
-    "price_now": 30.0,
-    "price_was": 48.75,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/349599183417912111579100886497.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T14:51:39.035234"
-  },
-  {
-    "id": "13f0e56c84375846",
-    "title": "Fralda Pampers Premium Care Pants XG 64 unidades",
-    "price_now": 89.28,
-    "price_was": 151.59,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07X5KWJK9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/950839751317912109117618073176.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T14:51:17.850082"
   }
 ]
