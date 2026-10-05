@@ -4951,6 +4951,22 @@
     "e266f029218cb573": {
       "title": "Fralda Turma Da Mônica Baby Mega P 62 Unidades",
       "posted_at": "2026-10-05T11:51:20.582465"
+    },
+    "60773ff8f06028a1": {
+      "title": "Fralda Huggies Máxima Proteção XXXG com 128",
+      "posted_at": "2026-10-05T12:01:06.858918"
+    },
+    "caf6b5833955b22f": {
+      "title": "Fralda Turma da Mônica Baby M 50 unidades",
+      "posted_at": "2026-10-05T12:01:20.771428"
+    },
+    "3429a5129312a6f9": {
+      "title": "Fralda Turma da Mônica Baby G 44 unidades",
+      "posted_at": "2026-10-05T12:01:34.513669"
+    },
+    "0d292ae5d6981d38": {
+      "title": "Fralda Huggies Máxima Proteção M com 196",
+      "posted_at": "2026-10-05T12:02:03.745242"
     }
   },
   "results": [
@@ -24353,6 +24369,46 @@
       "post_id": "1245",
       "error": null,
       "at": "2026-10-05T11:51:20.581564"
+    },
+    {
+      "offer_id": "60773ff8f06028a1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1246",
+      "error": null,
+      "at": "2026-10-05T12:01:06.857537"
+    },
+    {
+      "offer_id": "caf6b5833955b22f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1247",
+      "error": null,
+      "at": "2026-10-05T12:01:20.770626"
+    },
+    {
+      "offer_id": "3429a5129312a6f9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1248",
+      "error": null,
+      "at": "2026-10-05T12:01:34.512840"
+    },
+    {
+      "offer_id": "0a61f570ff61ef14",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-05T12:01:52.071016"
+    },
+    {
+      "offer_id": "0d292ae5d6981d38",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1249",
+      "error": null,
+      "at": "2026-10-05T12:02:03.743995"
     }
   ]
 }
