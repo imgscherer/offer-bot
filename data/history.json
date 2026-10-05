@@ -5111,6 +5111,10 @@
     "5d930d5d5c4f78b0": {
       "title": "Huggies Fralda Pants Proteção Acolchoada XXG 144 Unidades",
       "posted_at": "2026-10-05T15:30:58.622971"
+    },
+    "f399409e5bbd11fb": {
+      "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
+      "posted_at": "2026-10-05T15:40:45.044346"
     }
   },
   "results": [
@@ -24857,6 +24861,14 @@
       "post_id": "1285",
       "error": null,
       "at": "2026-10-05T15:30:58.622144"
+    },
+    {
+      "offer_id": "f399409e5bbd11fb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1286",
+      "error": null,
+      "at": "2026-10-05T15:40:45.043761"
     }
   ]
 }

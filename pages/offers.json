@@ -1,5 +1,17 @@
 [
   {
+    "id": "f399409e5bbd11fb",
+    "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
+    "price_now": 41.0,
+    "price_was": 59.99,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/828976968117912144758306627532.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T15:40:45.044048"
+  },
+  {
     "id": "5d930d5d5c4f78b0",
     "title": "Huggies Fralda Pants Proteção Acolchoada XXG 144 Unidades",
     "price_now": 179.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T14:21:15.463287"
-  },
-  {
-    "id": "732c4dc4271bfad2",
-    "title": "Fralda Turma da Mônica Baby XG com 42",
-    "price_now": 31.0,
-    "price_was": 50.04,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B099KV2733?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/532552621717912094118136601246.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T14:21:05.022840"
   }
 ]
