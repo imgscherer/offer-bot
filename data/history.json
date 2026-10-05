@@ -5003,6 +5003,14 @@
     "3184de87bb40007e": {
       "title": "Huggies Fralda Pants Proteção Acolchoada M com 216",
       "posted_at": "2026-10-05T12:41:00.872384"
+    },
+    "ff6b4d274e7176c6": {
+      "title": "Fralda Babysec Premium G 60 unidades",
+      "posted_at": "2026-10-05T13:00:54.611284"
+    },
+    "79d1f56f77aab0a1": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
+      "posted_at": "2026-10-05T13:01:04.403312"
     }
   },
   "results": [
@@ -24533,6 +24541,22 @@
       "post_id": "1258",
       "error": null,
       "at": "2026-10-05T12:41:00.871590"
+    },
+    {
+      "offer_id": "ff6b4d274e7176c6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1259",
+      "error": null,
+      "at": "2026-10-05T13:00:54.610794"
+    },
+    {
+      "offer_id": "79d1f56f77aab0a1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1260",
+      "error": null,
+      "at": "2026-10-05T13:01:04.402627"
     }
   ]
 }

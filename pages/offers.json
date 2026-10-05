@@ -1,5 +1,29 @@
 [
   {
+    "id": "79d1f56f77aab0a1",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
+    "price_now": 49.15,
+    "price_was": 77.37,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/952584473317912045743247508483.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T13:01:04.402898"
+  },
+  {
+    "id": "ff6b4d274e7176c6",
+    "title": "Fralda Babysec Premium G 60 unidades",
+    "price_now": 53.44,
+    "price_was": 85.2,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0CCDZ9XBJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/300463193317912045307734425290.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T13:00:54.611070"
+  },
+  {
     "id": "3184de87bb40007e",
     "title": "Huggies Fralda Pants Proteção Acolchoada M com 216",
     "price_now": 179.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T12:02:03.744323"
-  },
-  {
-    "id": "3429a5129312a6f9",
-    "title": "Fralda Turma da Mônica Baby G 44 unidades",
-    "price_now": 31.33,
-    "price_was": 50.04,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/459697451017912010116315430544.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T12:01:34.513142"
-  },
-  {
-    "id": "caf6b5833955b22f",
-    "title": "Fralda Turma da Mônica Baby M 50 unidades",
-    "price_now": 31.33,
-    "price_was": 50.04,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/759562256217912010147065835999.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T12:01:20.770897"
   }
 ]
