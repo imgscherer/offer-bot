@@ -4943,6 +4943,14 @@
     "9ea28c68fa67a7f1": {
       "title": "Fralda Pampers Supersequinha G com 80",
       "posted_at": "2026-10-05T11:41:57.783245"
+    },
+    "66349dc7f590a6a6": {
+      "title": "Bepantol Baby Lenço Umedecido Hipoalergênico 192 Unidades",
+      "posted_at": "2026-10-05T11:51:03.046703"
+    },
+    "e266f029218cb573": {
+      "title": "Fralda Turma Da Mônica Baby Mega P 62 Unidades",
+      "posted_at": "2026-10-05T11:51:20.582465"
     }
   },
   "results": [
@@ -24321,6 +24329,30 @@
       "post_id": "1243",
       "error": null,
       "at": "2026-10-05T11:41:57.782422"
+    },
+    {
+      "offer_id": "c27ba44a42654248",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-05T11:50:50.321501"
+    },
+    {
+      "offer_id": "66349dc7f590a6a6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1244",
+      "error": null,
+      "at": "2026-10-05T11:51:03.045812"
+    },
+    {
+      "offer_id": "e266f029218cb573",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1245",
+      "error": null,
+      "at": "2026-10-05T11:51:20.581564"
     }
   ]
 }

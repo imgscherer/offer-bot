@@ -1,5 +1,29 @@
 [
   {
+    "id": "e266f029218cb573",
+    "title": "Fralda Turma Da Mônica Baby Mega P 62 Unidades",
+    "price_now": 32.98,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/847773988417912005934003753464.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T11:51:20.581912"
+  },
+  {
+    "id": "66349dc7f590a6a6",
+    "title": "Bepantol Baby Lenço Umedecido Hipoalergênico 192 Unidades",
+    "price_now": 35.0,
+    "price_was": 55.97,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B096KDKNNQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/172764567117912005973429374989.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T11:51:03.046181"
+  },
+  {
     "id": "9ea28c68fa67a7f1",
     "title": "Fralda Pampers Supersequinha G com 80",
     "price_now": 75.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T11:20:53.660856"
-  },
-  {
-    "id": "8a45ae68e81bf145",
-    "title": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha 72 Unidades Tamanho M 5 - 9 5 Kg Babysec Azul M",
-    "price_now": 44.52,
-    "price_was": 101.58,
-    "discount_pct": 56,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/243364784617911969901449852458.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T11:00:57.143564"
-  },
-  {
-    "id": "1ad4e0795935de15",
-    "title": "Huggies Fralda Premium Natural Care P - 36 Un",
-    "price_now": 35.0,
-    "price_was": 53.4,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/158911486717911963894444843438.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T10:51:34.285247"
   }
 ]
