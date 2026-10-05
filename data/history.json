@@ -5147,6 +5147,14 @@
     "2eb8fedfdc3ccf53": {
       "title": "Fralda Infantil Personal Baby Protect e Sec G Mega 34 Unidades",
       "posted_at": "2026-10-05T19:21:29.750491"
+    },
+    "b2c845741c2aed1d": {
+      "title": "Fralda Pampers Premium Care Pants M 78 unidades",
+      "posted_at": "2026-10-05T19:45:59.393033"
+    },
+    "21798d8d5dda28af": {
+      "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
+      "posted_at": "2026-10-05T19:46:11.983162"
     }
   },
   "results": [
@@ -24965,6 +24973,22 @@
       "post_id": "1294",
       "error": null,
       "at": "2026-10-05T19:21:29.749843"
+    },
+    {
+      "offer_id": "b2c845741c2aed1d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1295",
+      "error": null,
+      "at": "2026-10-05T19:45:59.392378"
+    },
+    {
+      "offer_id": "21798d8d5dda28af",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1296",
+      "error": null,
+      "at": "2026-10-05T19:46:11.982427"
     }
   ]
 }

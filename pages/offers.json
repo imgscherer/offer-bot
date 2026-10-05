@@ -1,5 +1,29 @@
 [
   {
+    "id": "21798d8d5dda28af",
+    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
+    "price_now": 34.18,
+    "price_was": 52.65,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B07C3JY2V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/240337275017912288508796351372.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T19:46:11.982729"
+  },
+  {
+    "id": "b2c845741c2aed1d",
+    "title": "Fralda Pampers Premium Care Pants M 78 unidades",
+    "price_now": 93.89,
+    "price_was": 151.59,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B07X83FF8M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/156256263017912282501960133183.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T19:45:59.392715"
+  },
+  {
     "id": "2eb8fedfdc3ccf53",
     "title": "Fralda Infantil Personal Baby Protect e Sec G Mega 34 Unidades",
     "price_now": 25.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T15:30:58.622536"
-  },
-  {
-    "id": "8b8756154c0f486c",
-    "title": "Fralda Huggies Supreme Care Roupinha XG 64 unidades",
-    "price_now": 78.75,
-    "price_was": 131.78,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/260203957517912124126175381581.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T15:11:02.916118"
-  },
-  {
-    "id": "a6049f96bf83dfe4",
-    "title": "Granado Creme Assaduras Bebê Dermocalmante 300g",
-    "price_now": 46.19,
-    "price_was": 91.5,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/535828668317912127202780614572.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T15:10:46.842519"
   }
 ]
