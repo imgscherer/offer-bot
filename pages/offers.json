@@ -1,5 +1,17 @@
 [
   {
+    "id": "2e358e507c9fbb6b",
+    "title": "Personal Fralda Baby Total Protect Pants M 28 Un",
+    "price_now": 25.0,
+    "price_was": 39.49,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/793844204617912119419019746183.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T15:00:54.563365"
+  },
+  {
     "id": "0ac12a572cebd61d",
     "title": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
     "price_now": 29.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T14:11:15.686424"
-  },
-  {
-    "id": "91064d3eb0182ea9",
-    "title": "Fralda Personal Baby Total Protect Pants G 44 unidades",
-    "price_now": 43.76,
-    "price_was": 71.99,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0BTTLYZN9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/582755514817912089905307171656.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T14:11:06.485585"
   }
 ]
