@@ -4899,6 +4899,10 @@
     "1ad4e0795935de15": {
       "title": "Huggies Fralda Premium Natural Care P - 36 Un",
       "posted_at": "2026-10-05T10:51:34.285647"
+    },
+    "8a45ae68e81bf145": {
+      "title": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha 72 Unidades Tamanho M 5 - 9 5 Kg Babysec Azul M",
+      "posted_at": "2026-10-05T11:00:57.143911"
     }
   },
   "results": [
@@ -24181,6 +24185,14 @@
       "post_id": "1232",
       "error": null,
       "at": "2026-10-05T10:51:34.284895"
+    },
+    {
+      "offer_id": "8a45ae68e81bf145",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1233",
+      "error": null,
+      "at": "2026-10-05T11:00:57.143235"
     }
   ]
 }

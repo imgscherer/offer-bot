@@ -1,5 +1,17 @@
 [
   {
+    "id": "8a45ae68e81bf145",
+    "title": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha 72 Unidades Tamanho M 5 - 9 5 Kg Babysec Azul M",
+    "price_now": 44.52,
+    "price_was": 101.58,
+    "discount_pct": 56,
+    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/243364784617911969901449852458.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T11:00:57.143564"
+  },
+  {
     "id": "1ad4e0795935de15",
     "title": "Huggies Fralda Premium Natural Care P - 36 Un",
     "price_now": 35.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-04T18:00:56.965649"
-  },
-  {
-    "id": "1dbae61cb42dd07a",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
-    "price_now": 53.0,
-    "price_was": 77.37,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/390876675117911277045825426198.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-04T15:40:44.381401"
   }
 ]
