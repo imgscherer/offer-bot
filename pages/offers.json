@@ -1,5 +1,53 @@
 [
   {
+    "id": "8905e6d2210a99e8",
+    "title": "Fralda Babysec Premium XG 24 unidades",
+    "price_now": 25.63,
+    "price_was": 40.13,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B07XL8XYNV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/158700364517912027505778432690.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T12:31:31.011501"
+  },
+  {
+    "id": "6d7410b131d88a70",
+    "title": "Fralda Huggies Supreme Care Roupinha Xg - 64 Fraldas",
+    "price_now": 82.9,
+    "price_was": 131.78,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/436658273417912027614331223674.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T12:31:18.150762"
+  },
+  {
+    "id": "d746acaa5557fe6b",
+    "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
+    "price_now": 26.97,
+    "price_was": 46.38,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/221733529117912024504038302927.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T12:31:04.055689"
+  },
+  {
+    "id": "a2cd25d8a280cd22",
+    "title": "Fralda Babysec Premium M 32 unidades",
+    "price_now": 25.63,
+    "price_was": 54.39,
+    "discount_pct": 53,
+    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/819910673517912027559575945323.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T12:30:54.268492"
+  },
+  {
     "id": "650dab477f3c244f",
     "title": "Fralda Turma da Mônica Baby RN 36 Unidades",
     "price_now": 15.83,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T11:51:20.581912"
-  },
-  {
-    "id": "66349dc7f590a6a6",
-    "title": "Bepantol Baby Lenço Umedecido Hipoalergênico 192 Unidades",
-    "price_now": 35.0,
-    "price_was": 55.97,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B096KDKNNQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/172764567117912005973429374989.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T11:51:03.046181"
-  },
-  {
-    "id": "9ea28c68fa67a7f1",
-    "title": "Fralda Pampers Supersequinha G com 80",
-    "price_now": 75.0,
-    "price_was": 109.78,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/417893142917911999949787756426.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T11:41:57.782735"
-  },
-  {
-    "id": "c46ab39c6fab188b",
-    "title": "Fralda Pampers Supersequinha XG com 70",
-    "price_now": 75.0,
-    "price_was": 109.78,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0DV7BN75H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/657739113717911999871574550414.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T11:41:45.595382"
-  },
-  {
-    "id": "a057c371deb67be4",
-    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
-    "price_now": 151.88,
-    "price_was": 229.9,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/692667383517911989755102284041.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T11:41:28.883455"
   }
 ]
