@@ -1,5 +1,17 @@
 [
   {
+    "id": "3b73df417c58aed0",
+    "title": "Repelente Exposis Gel Bebê 117ml (A partir de 3 meses)",
+    "price_now": 41.05,
+    "price_was": 73.9,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B08N8PWLM6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/519927329617912151793084044575.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T16:00:53.566379"
+  },
+  {
     "id": "f399409e5bbd11fb",
     "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
     "price_now": 41.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T14:30:58.287750"
-  },
-  {
-    "id": "92e6f01ca72f8a78",
-    "title": "Fralda Turma da Mônica Baby G com 44",
-    "price_now": 31.0,
-    "price_was": 50.04,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/187756427717912094096502402055.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T14:21:15.463287"
   }
 ]

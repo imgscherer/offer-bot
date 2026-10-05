@@ -5115,6 +5115,10 @@
     "f399409e5bbd11fb": {
       "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
       "posted_at": "2026-10-05T15:40:45.044346"
+    },
+    "3b73df417c58aed0": {
+      "title": "Repelente Exposis Gel Bebê 117ml (A partir de 3 meses)",
+      "posted_at": "2026-10-05T16:00:53.566786"
     }
   },
   "results": [
@@ -24869,6 +24873,14 @@
       "post_id": "1286",
       "error": null,
       "at": "2026-10-05T15:40:45.043761"
+    },
+    {
+      "offer_id": "3b73df417c58aed0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1287",
+      "error": null,
+      "at": "2026-10-05T16:00:53.566015"
     }
   ]
 }
