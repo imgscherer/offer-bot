@@ -5039,6 +5039,10 @@
     "0f2421f8d082bafa": {
       "title": "Fralda Turma Da Mônica Baby Mega Xg 42 Unidades",
       "posted_at": "2026-10-05T13:41:04.307606"
+    },
+    "d9a6539a04a3a54d": {
+      "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
+      "posted_at": "2026-10-05T14:01:03.181433"
     }
   },
   "results": [
@@ -24641,6 +24645,14 @@
       "post_id": "1267",
       "error": null,
       "at": "2026-10-05T13:41:04.306962"
+    },
+    {
+      "offer_id": "d9a6539a04a3a54d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1268",
+      "error": null,
+      "at": "2026-10-05T14:01:03.180602"
     }
   ]
 }
