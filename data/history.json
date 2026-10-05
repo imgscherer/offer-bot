@@ -4867,6 +4867,10 @@
     "b4d9a927d60a270f": {
       "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper G 68 Unidades",
       "posted_at": "2026-10-05T03:50:41.981653"
+    },
+    "f17d663887f42abd": {
+      "title": "Maxi Baby Assento Redutor Infantil Dobrável Cescada Mcfrog (azul)",
+      "posted_at": "2026-10-05T04:20:50.583632"
     }
   },
   "results": [
@@ -24085,6 +24089,14 @@
       "post_id": "1224",
       "error": null,
       "at": "2026-10-05T03:50:41.980814"
+    },
+    {
+      "offer_id": "f17d663887f42abd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1225",
+      "error": null,
+      "at": "2026-10-05T04:20:50.582873"
     }
   ]
 }

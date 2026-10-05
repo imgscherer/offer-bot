@@ -1,5 +1,17 @@
 [
   {
+    "id": "f17d663887f42abd",
+    "title": "Maxi Baby Assento Redutor Infantil Dobrável Cescada Mcfrog (azul)",
+    "price_now": 61.65,
+    "price_was": 179.9,
+    "discount_pct": 66,
+    "url": "https://www.amazon.com.br/dp/B0D96N45LL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/116424249917911731122144361248.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-05T04:20:50.583204"
+  },
+  {
     "id": "b4d9a927d60a270f",
     "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper G 68 Unidades",
     "price_now": 51.74,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-03T21:59:02.093351"
-  },
-  {
-    "id": "649214996c26256e",
-    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Un",
-    "price_now": 54.0,
-    "price_was": 101.58,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/957904803217910552939039842210.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-03T19:40:58.641643"
   }
 ]
