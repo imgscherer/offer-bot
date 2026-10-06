@@ -5195,6 +5195,10 @@
     "70ba40dab0ccb8a9": {
       "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
       "posted_at": "2026-10-06T00:40:48.745126"
+    },
+    "570d65d32c9cf0b3": {
+      "title": "Huggies Fralda Pants Descartável Proteção Acolchoada M - 216 Fraldas",
+      "posted_at": "2026-10-06T03:30:48.032277"
     }
   },
   "results": [
@@ -25309,6 +25313,14 @@
       "post_id": "1306",
       "error": null,
       "at": "2026-10-06T00:40:48.679724"
+    },
+    {
+      "offer_id": "570d65d32c9cf0b3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1307",
+      "error": null,
+      "at": "2026-10-06T03:30:48.031521"
     }
   ]
 }

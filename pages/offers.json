@@ -1,5 +1,17 @@
 [
   {
+    "id": "570d65d32c9cf0b3",
+    "title": "Huggies Fralda Pants Descartável Proteção Acolchoada M - 216 Fraldas",
+    "price_now": 199.89,
+    "price_was": 289.0,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/703854353917912570473776798802.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T03:30:48.031851"
+  },
+  {
     "id": "70ba40dab0ccb8a9",
     "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
     "price_now": 15.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T19:46:11.982729"
-  },
-  {
-    "id": "b2c845741c2aed1d",
-    "title": "Fralda Pampers Premium Care Pants M 78 unidades",
-    "price_now": 93.89,
-    "price_was": 151.59,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B07X83FF8M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/156256263017912282501960133183.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T19:45:59.392715"
   }
 ]
