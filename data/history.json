@@ -5243,6 +5243,14 @@
     "4a5a8dbe97410736": {
       "title": "Huggies Fralda Premium Natural Care P 36 Unidades",
       "posted_at": "2026-10-06T13:41:01.785794"
+    },
+    "523bdde5b6746c7e": {
+      "title": "Kit Berço Americano Personalizado Menino/Menina 100% algodão - 08 Peças",
+      "posted_at": "2026-10-06T15:00:47.852061"
+    },
+    "2f5a5f24bc42638a": {
+      "title": "Quadriciclo de Passeio Infantil Jip Jip 3 em 1, Crescimento e Diversão Garantida Vários Modelos",
+      "posted_at": "2026-10-06T15:00:52.963042"
     }
   },
   "results": [
@@ -25453,6 +25461,22 @@
       "post_id": "1318",
       "error": null,
       "at": "2026-10-06T13:41:01.785098"
+    },
+    {
+      "offer_id": "523bdde5b6746c7e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1319",
+      "error": null,
+      "at": "2026-10-06T15:00:47.851365"
+    },
+    {
+      "offer_id": "2f5a5f24bc42638a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1320",
+      "error": null,
+      "at": "2026-10-06T15:00:52.962356"
     }
   ]
 }

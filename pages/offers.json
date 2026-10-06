@@ -1,5 +1,29 @@
 [
   {
+    "id": "2f5a5f24bc42638a",
+    "title": "Quadriciclo de Passeio Infantil Jip Jip 3 em 1, Crescimento e Diversão Garantida Vários Modelos",
+    "price_now": 280.9,
+    "price_was": 413.09,
+    "discount_pct": 32,
+    "url": "https://s.shopee.com.br/80DENXGUxM",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfcytxtnc5xg5f",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T15:00:52.962591"
+  },
+  {
+    "id": "523bdde5b6746c7e",
+    "title": "Kit Berço Americano Personalizado Menino/Menina 100% algodão - 08 Peças",
+    "price_now": 362.08,
+    "price_was": 603.47,
+    "discount_pct": 40,
+    "url": "https://s.shopee.com.br/8pmJv5nYlY",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mpjgt8riosg2ec",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T15:00:47.851663"
+  },
+  {
     "id": "4a5a8dbe97410736",
     "title": "Huggies Fralda Premium Natural Care P 36 Unidades",
     "price_now": 35.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-06T10:50:53.757416"
-  },
-  {
-    "id": "542486027efcad3f",
-    "title": "Tapete de Atividades Musical com Piano e Arco de Brinquedos Interativos para Bebê (Azul)",
-    "price_now": 66.4,
-    "price_was": 99.9,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0G4B61ZJG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/872115544717912584971683336895.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T03:50:50.912493"
-  },
-  {
-    "id": "570d65d32c9cf0b3",
-    "title": "Huggies Fralda Pants Descartável Proteção Acolchoada M - 216 Fraldas",
-    "price_now": 199.89,
-    "price_was": 289.0,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/703854353917912570473776798802.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T03:30:48.031851"
   }
 ]
