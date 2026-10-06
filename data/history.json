@@ -5235,6 +5235,14 @@
     "a6bc27f83fba6159": {
       "title": "Huggies Fralda Supreme Care M 196 Un",
       "posted_at": "2026-10-06T13:00:56.321543"
+    },
+    "6debee0dc1230755": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo G 24 Unidades",
+      "posted_at": "2026-10-06T13:40:51.830573"
+    },
+    "4a5a8dbe97410736": {
+      "title": "Huggies Fralda Premium Natural Care P 36 Unidades",
+      "posted_at": "2026-10-06T13:41:01.785794"
     }
   },
   "results": [
@@ -25429,6 +25437,22 @@
       "post_id": "1316",
       "error": null,
       "at": "2026-10-06T13:00:56.320922"
+    },
+    {
+      "offer_id": "6debee0dc1230755",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1317",
+      "error": null,
+      "at": "2026-10-06T13:40:51.829845"
+    },
+    {
+      "offer_id": "4a5a8dbe97410736",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1318",
+      "error": null,
+      "at": "2026-10-06T13:41:01.785098"
     }
   ]
 }

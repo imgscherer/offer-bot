@@ -1,5 +1,29 @@
 [
   {
+    "id": "4a5a8dbe97410736",
+    "title": "Huggies Fralda Premium Natural Care P 36 Unidades",
+    "price_now": 35.0,
+    "price_was": 53.4,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/271969512117912932315953500830.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T13:41:01.785383"
+  },
+  {
+    "id": "6debee0dc1230755",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo G 24 Unidades",
+    "price_now": 19.0,
+    "price_was": 30.17,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B093G7WGYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/771009154017912932321872561094.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T13:40:51.830144"
+  },
+  {
     "id": "a6bc27f83fba6159",
     "title": "Huggies Fralda Supreme Care M 196 Un",
     "price_now": 144.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-06T03:30:48.031851"
-  },
-  {
-    "id": "70ba40dab0ccb8a9",
-    "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
-    "price_now": 15.0,
-    "price_was": 28.68,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/610071463517912463121379959712.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T00:40:48.680050"
-  },
-  {
-    "id": "4ae2de1699212b81",
-    "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
-    "price_now": 28.48,
-    "price_was": 46.38,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/528048674317912417063092196045.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T23:10:52.694149"
   }
 ]
