@@ -1,5 +1,17 @@
 [
   {
+    "id": "8e4c2d92bae92552",
+    "title": "Wrap Sling Cinza Mescla Sling Mamãe e Bebê",
+    "price_now": 32.0,
+    "price_was": 54.9,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B07SSGJ8XW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/265546104017913042702940166909.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T16:40:45.965699"
+  },
+  {
     "id": "05eab8d715963c43",
     "title": "Fralda Pampers Confort Sec P 72 Unidades",
     "price_now": 83.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-06T11:30:55.866228"
-  },
-  {
-    "id": "75854a83a4dcef72",
-    "title": "Fralda Huggies Natural Care P 36 unidades",
-    "price_now": 35.54,
-    "price_was": 53.4,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/259989123817912838689053108057.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T11:11:00.941102"
   }
 ]

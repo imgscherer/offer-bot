@@ -5259,6 +5259,10 @@
     "05eab8d715963c43": {
       "title": "Fralda Pampers Confort Sec P 72 Unidades",
       "posted_at": "2026-10-06T15:40:55.702239"
+    },
+    "8e4c2d92bae92552": {
+      "title": "Wrap Sling Cinza Mescla Sling Mamãe e Bebê",
+      "posted_at": "2026-10-06T16:40:45.966128"
     }
   },
   "results": [
@@ -25501,6 +25505,14 @@
       "post_id": "1322",
       "error": null,
       "at": "2026-10-06T15:40:55.701472"
+    },
+    {
+      "offer_id": "8e4c2d92bae92552",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1323",
+      "error": null,
+      "at": "2026-10-06T16:40:45.965369"
     }
   ]
 }
