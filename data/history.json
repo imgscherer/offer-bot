@@ -5207,6 +5207,14 @@
     "6377037d3dae0f66": {
       "title": "Fralda Pampers Premium Care P 40 Unidades",
       "posted_at": "2026-10-06T10:50:53.758274"
+    },
+    "e4bdfb9ad96080fc": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo G 24 Unidades",
+      "posted_at": "2026-10-06T11:10:49.601908"
+    },
+    "75854a83a4dcef72": {
+      "title": "Fralda Huggies Natural Care P 36 unidades",
+      "posted_at": "2026-10-06T11:11:00.941527"
     }
   },
   "results": [
@@ -25345,6 +25353,22 @@
       "post_id": "1309",
       "error": null,
       "at": "2026-10-06T10:50:53.757107"
+    },
+    {
+      "offer_id": "e4bdfb9ad96080fc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1310",
+      "error": null,
+      "at": "2026-10-06T11:10:49.601263"
+    },
+    {
+      "offer_id": "75854a83a4dcef72",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1311",
+      "error": null,
+      "at": "2026-10-06T11:11:00.940847"
     }
   ]
 }

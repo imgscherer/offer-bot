@@ -1,5 +1,29 @@
 [
   {
+    "id": "75854a83a4dcef72",
+    "title": "Fralda Huggies Natural Care P 36 unidades",
+    "price_now": 35.54,
+    "price_was": 53.4,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/259989123817912838689053108057.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T11:11:00.941102"
+  },
+  {
+    "id": "e4bdfb9ad96080fc",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo G 24 Unidades",
+    "price_now": 19.47,
+    "price_was": 30.17,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B093G7WGYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/298110977117912842871715253241.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T11:10:49.601538"
+  },
+  {
     "id": "6377037d3dae0f66",
     "title": "Fralda Pampers Premium Care P 40 Unidades",
     "price_now": 49.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T20:41:41.758049"
-  },
-  {
-    "id": "c8a9fb42d0524e3a",
-    "title": "Fralda Luxo Cremer 5 Unidades (70cmx70cm)",
-    "price_now": 16.0,
-    "price_was": 41.89,
-    "discount_pct": 62,
-    "url": "https://www.amazon.com.br/dp/B07D2G1V1H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/121378204817912324113840309931.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T20:41:22.309649"
-  },
-  {
-    "id": "4d61ea74edc35f2f",
-    "title": "Fralda Cremer Jumbo G 24 Unidades",
-    "price_now": 17.0,
-    "price_was": 25.89,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B07FGNDSYL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/488720275417912297495852309095.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T20:16:45.331086"
   }
 ]
