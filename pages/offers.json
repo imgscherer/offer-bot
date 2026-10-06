@@ -1,5 +1,17 @@
 [
   {
+    "id": "542486027efcad3f",
+    "title": "Tapete de Atividades Musical com Piano e Arco de Brinquedos Interativos para Bebê (Azul)",
+    "price_now": 66.4,
+    "price_was": 99.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0G4B61ZJG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/872115544717912584971683336895.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T03:50:50.912493"
+  },
+  {
     "id": "570d65d32c9cf0b3",
     "title": "Huggies Fralda Pants Descartável Proteção Acolchoada M - 216 Fraldas",
     "price_now": 199.89,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T20:16:30.167164"
-  },
-  {
-    "id": "21798d8d5dda28af",
-    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
-    "price_now": 34.18,
-    "price_was": 52.65,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B07C3JY2V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/240337275017912288508796351372.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T19:46:11.982729"
   }
 ]
