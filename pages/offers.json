@@ -1,5 +1,17 @@
 [
   {
+    "id": "6377037d3dae0f66",
+    "title": "Fralda Pampers Premium Care P 40 Unidades",
+    "price_now": 49.0,
+    "price_was": 71.67,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/309372348917912827892411032303.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T10:50:53.757416"
+  },
+  {
     "id": "542486027efcad3f",
     "title": "Tapete de Atividades Musical com Piano e Arco de Brinquedos Interativos para Bebê (Azul)",
     "price_now": 66.4,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T20:16:45.331086"
-  },
-  {
-    "id": "f19a2b1be0436516",
-    "title": "Tênis Infantil Lilo Stitch (Tam. 26 ao 33, 4 cores)",
-    "price_now": 62.99,
-    "price_was": 99.98,
-    "discount_pct": 37,
-    "url": "https://s.shopee.com.br/5LCRwAgute?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/670564316017912302931214453079.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T20:16:30.167164"
   }
 ]
