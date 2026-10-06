@@ -1,5 +1,17 @@
 [
   {
+    "id": "a521b6e566fd207c",
+    "title": "Fralda Pampers Supersequinha XG 70 Unidades",
+    "price_now": 75.96,
+    "price_was": 109.78,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0DV7BN75H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/608517522417912903536600684245.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T12:50:48.924517"
+  },
+  {
     "id": "b6d0c65d0b94a874",
     "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
     "price_now": 33.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T22:21:11.988957"
-  },
-  {
-    "id": "88550f654c855c1c",
-    "title": "Fralda Babysec Ultrasec Galinha Pintadinha Tam. G 8,5 a 12kg 60 Unidades",
-    "price_now": 51.0,
-    "price_was": 101.58,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/859970731317912379485368433681.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T22:20:56.968754"
   }
 ]

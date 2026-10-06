@@ -5227,6 +5227,10 @@
     "b6d0c65d0b94a874": {
       "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
       "posted_at": "2026-10-06T12:00:56.007217"
+    },
+    "a521b6e566fd207c": {
+      "title": "Fralda Pampers Supersequinha XG 70 Unidades",
+      "posted_at": "2026-10-06T12:50:48.925015"
     }
   },
   "results": [
@@ -25405,6 +25409,14 @@
       "post_id": "1314",
       "error": null,
       "at": "2026-10-06T12:00:56.006441"
+    },
+    {
+      "offer_id": "a521b6e566fd207c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1315",
+      "error": null,
+      "at": "2026-10-06T12:50:48.924151"
     }
   ]
 }
