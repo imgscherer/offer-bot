@@ -5299,6 +5299,10 @@
     "ddcedb772c1d7559": {
       "title": "Body Pacote com 8 Bodies de Manga Curta Simple Joys by Carter's Unisex Bebê",
       "posted_at": "2026-10-06T22:20:48.780888"
+    },
+    "595347780aba78ce": {
+      "title": "Bodies Bebê Simple Joys Carter's 24 Meses",
+      "posted_at": "2026-10-06T22:50:49.162951"
     }
   },
   "results": [
@@ -25621,6 +25625,14 @@
       "post_id": "1332",
       "error": null,
       "at": "2026-10-06T22:20:48.780203"
+    },
+    {
+      "offer_id": "595347780aba78ce",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1333",
+      "error": null,
+      "at": "2026-10-06T22:50:49.162079"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "595347780aba78ce",
+    "title": "Bodies Bebê Simple Joys Carter's 24 Meses",
+    "price_now": 112.0,
+    "price_was": 163.34,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B01MREC7R4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/959657839317913061392881259429.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T22:50:49.162455"
+  },
+  {
     "id": "ddcedb772c1d7559",
     "title": "Body Pacote com 8 Bodies de Manga Curta Simple Joys by Carter's Unisex Bebê",
     "price_now": 112.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-06T15:40:55.701796"
-  },
-  {
-    "id": "c419452b2fe46bb6",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
-    "price_now": 53.59,
-    "price_was": 77.37,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/923315601717912992917799747929.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T15:20:44.158002"
   }
 ]
