@@ -5279,6 +5279,14 @@
     "1af4165113d3b30a": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
       "posted_at": "2026-10-06T18:31:08.304289"
+    },
+    "4475b59fc47fc67c": {
+      "title": "Creme Preventivo de Assaduras para Bebês Desitin Creamy, 113g",
+      "posted_at": "2026-10-06T19:30:47.964729"
+    },
+    "cd913704bca5c122": {
+      "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 180ml",
+      "posted_at": "2026-10-06T19:30:55.621116"
     }
   },
   "results": [
@@ -25561,6 +25569,22 @@
       "post_id": "1327",
       "error": null,
       "at": "2026-10-06T18:31:08.303490"
+    },
+    {
+      "offer_id": "4475b59fc47fc67c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1328",
+      "error": null,
+      "at": "2026-10-06T19:30:47.963946"
+    },
+    {
+      "offer_id": "cd913704bca5c122",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1329",
+      "error": null,
+      "at": "2026-10-06T19:30:55.620416"
     }
   ]
 }
