@@ -1,5 +1,17 @@
 [
   {
+    "id": "a6bc27f83fba6159",
+    "title": "Huggies Fralda Supreme Care M 196 Un",
+    "price_now": 144.0,
+    "price_was": 229.9,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/973641438617912910548541899251.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T13:00:56.321183"
+  },
+  {
     "id": "a521b6e566fd207c",
     "title": "Fralda Pampers Supersequinha XG 70 Unidades",
     "price_now": 75.96,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T23:10:52.694149"
-  },
-  {
-    "id": "c713ae883585ba66",
-    "title": "Granado Creme Assaduras Dermocalmante Bebê Peles Sensíveis 50g",
-    "price_now": 22.0,
-    "price_was": 35.0,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B07NPYD9KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/933684906217912379436789314445.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T22:21:11.988957"
   }
 ]
