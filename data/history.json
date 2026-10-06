@@ -5287,6 +5287,10 @@
     "cd913704bca5c122": {
       "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 180ml",
       "posted_at": "2026-10-06T19:30:55.621116"
+    },
+    "3e28078fd0f71695": {
+      "title": "Kit 5 Macacão Bebê Algodão Zíper Vira Pé (P M G Menino e Menina)",
+      "posted_at": "2026-10-06T20:20:51.085160"
     }
   },
   "results": [
@@ -25585,6 +25589,14 @@
       "post_id": "1329",
       "error": null,
       "at": "2026-10-06T19:30:55.620416"
+    },
+    {
+      "offer_id": "3e28078fd0f71695",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1330",
+      "error": null,
+      "at": "2026-10-06T20:20:51.084611"
     }
   ]
 }
