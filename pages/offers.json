@@ -1,5 +1,17 @@
 [
   {
+    "id": "c419452b2fe46bb6",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
+    "price_now": 53.59,
+    "price_was": 77.37,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/923315601717912992917799747929.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T15:20:44.158002"
+  },
+  {
     "id": "2f5a5f24bc42638a",
     "title": "Quadriciclo de Passeio Infantil Jip Jip 3 em 1, Crescimento e Diversão Garantida Vários Modelos",
     "price_now": 280.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-06T11:10:49.601538"
-  },
-  {
-    "id": "6377037d3dae0f66",
-    "title": "Fralda Pampers Premium Care P 40 Unidades",
-    "price_now": 49.0,
-    "price_was": 71.67,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/309372348917912827892411032303.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T10:50:53.757416"
   }
 ]

@@ -5251,6 +5251,10 @@
     "2f5a5f24bc42638a": {
       "title": "Quadriciclo de Passeio Infantil Jip Jip 3 em 1, Crescimento e Diversão Garantida Vários Modelos",
       "posted_at": "2026-10-06T15:00:52.963042"
+    },
+    "c419452b2fe46bb6": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
+      "posted_at": "2026-10-06T15:20:44.158251"
     }
   },
   "results": [
@@ -25477,6 +25481,14 @@
       "post_id": "1320",
       "error": null,
       "at": "2026-10-06T15:00:52.962356"
+    },
+    {
+      "offer_id": "c419452b2fe46bb6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1321",
+      "error": null,
+      "at": "2026-10-06T15:20:44.157714"
     }
   ]
 }
