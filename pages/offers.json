@@ -1,5 +1,17 @@
 [
   {
+    "id": "05eab8d715963c43",
+    "title": "Fralda Pampers Confort Sec P 72 Unidades",
+    "price_now": 83.0,
+    "price_was": 118.1,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B095D5PSPG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/624233493517913006785978901767.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T15:40:55.701796"
+  },
+  {
     "id": "c419452b2fe46bb6",
     "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
     "price_now": 53.59,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-06T11:11:00.941102"
-  },
-  {
-    "id": "e4bdfb9ad96080fc",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo G 24 Unidades",
-    "price_now": 19.47,
-    "price_was": 30.17,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B093G7WGYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/298110977117912842871715253241.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T11:10:49.601538"
   }
 ]

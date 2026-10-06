@@ -5255,6 +5255,10 @@
     "c419452b2fe46bb6": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
       "posted_at": "2026-10-06T15:20:44.158251"
+    },
+    "05eab8d715963c43": {
+      "title": "Fralda Pampers Confort Sec P 72 Unidades",
+      "posted_at": "2026-10-06T15:40:55.702239"
     }
   },
   "results": [
@@ -25489,6 +25493,14 @@
       "post_id": "1321",
       "error": null,
       "at": "2026-10-06T15:20:44.157714"
+    },
+    {
+      "offer_id": "05eab8d715963c43",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1322",
+      "error": null,
+      "at": "2026-10-06T15:40:55.701472"
     }
   ]
 }
