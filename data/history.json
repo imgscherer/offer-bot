@@ -5295,6 +5295,10 @@
     "ec61ecd55092bcf1": {
       "title": "Brinox Conjunto Infantil 5 Peças Friends Club Aço Inox",
       "posted_at": "2026-10-06T22:10:40.682324"
+    },
+    "ddcedb772c1d7559": {
+      "title": "Body Pacote com 8 Bodies de Manga Curta Simple Joys by Carter's Unisex Bebê",
+      "posted_at": "2026-10-06T22:20:48.780888"
     }
   },
   "results": [
@@ -25609,6 +25613,14 @@
       "post_id": "1331",
       "error": null,
       "at": "2026-10-06T22:10:40.681455"
+    },
+    {
+      "offer_id": "ddcedb772c1d7559",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1332",
+      "error": null,
+      "at": "2026-10-06T22:20:48.780203"
     }
   ]
 }
