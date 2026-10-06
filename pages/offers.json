@@ -1,5 +1,29 @@
 [
   {
+    "id": "07cec44507c4ac09",
+    "title": "Fralda Babysec Ultrasec Mega XXXG 24 Unidades",
+    "price_now": 26.99,
+    "price_was": 39.0,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0FQPFW4X1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/258327026917913102144377306135.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T18:20:57.086071"
+  },
+  {
+    "id": "c7a6a909a9478932",
+    "title": "Carrinho De Bebê Passeio Vira Berço Nivi Maxi Baby (cinza)",
+    "price_now": 395.28,
+    "price_was": 799.9,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B0CPN2L6MQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/336860918917913100878614401115.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T18:20:45.026777"
+  },
+  {
     "id": "deb52f4da5b402e9",
     "title": "Fralda Descartável Huggies Máxima Proteção Tamanho Xg 140 Unidades – Aberta Com Tecnologia Xtra-flex, Canais Em X Que Se Adaptam Aos Movimentos",
     "price_now": 159.87,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-06T12:50:48.924517"
-  },
-  {
-    "id": "b6d0c65d0b94a874",
-    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
-    "price_now": 33.0,
-    "price_was": 62.99,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/945453577417912875904353480387.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T12:00:56.006864"
-  },
-  {
-    "id": "5736221c1e9bec6b",
-    "title": "Babysec Fralda Premium M 32 Unidades",
-    "price_now": 28.0,
-    "price_was": 54.39,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/169838518517912870093739980997.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T11:50:53.909540"
   }
 ]

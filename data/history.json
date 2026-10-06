@@ -5267,6 +5267,14 @@
     "deb52f4da5b402e9": {
       "title": "Fralda Descartável Huggies Máxima Proteção Tamanho Xg 140 Unidades – Aberta Com Tecnologia Xtra-flex, Canais Em X Que Se Adaptam Aos Movimentos",
       "posted_at": "2026-10-06T17:30:55.523286"
+    },
+    "c7a6a909a9478932": {
+      "title": "Carrinho De Bebê Passeio Vira Berço Nivi Maxi Baby (cinza)",
+      "posted_at": "2026-10-06T18:20:45.027160"
+    },
+    "07cec44507c4ac09": {
+      "title": "Fralda Babysec Ultrasec Mega XXXG 24 Unidades",
+      "posted_at": "2026-10-06T18:20:57.086509"
     }
   },
   "results": [
@@ -25525,6 +25533,22 @@
       "post_id": "1324",
       "error": null,
       "at": "2026-10-06T17:30:55.522475"
+    },
+    {
+      "offer_id": "c7a6a909a9478932",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1325",
+      "error": null,
+      "at": "2026-10-06T18:20:45.026424"
+    },
+    {
+      "offer_id": "07cec44507c4ac09",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1326",
+      "error": null,
+      "at": "2026-10-06T18:20:57.085689"
     }
   ]
 }
