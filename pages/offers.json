@@ -1,5 +1,17 @@
 [
   {
+    "id": "b6d0c65d0b94a874",
+    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
+    "price_now": 33.0,
+    "price_was": 62.99,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/945453577417912875904353480387.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T12:00:56.006864"
+  },
+  {
     "id": "5736221c1e9bec6b",
     "title": "Babysec Fralda Premium M 32 Unidades",
     "price_now": 28.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T22:20:56.968754"
-  },
-  {
-    "id": "08e47e27cb0ce5f9",
-    "title": "Fralda Huggies Premium Dermacare XG 38 Un",
-    "price_now": 71.0,
-    "price_was": 106.4,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0DSC8C4XH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/675536343617912351551878406542.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T21:31:04.588396"
   }
 ]

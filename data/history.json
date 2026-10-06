@@ -5223,6 +5223,10 @@
     "5736221c1e9bec6b": {
       "title": "Babysec Fralda Premium M 32 Unidades",
       "posted_at": "2026-10-06T11:50:53.909982"
+    },
+    "b6d0c65d0b94a874": {
+      "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
+      "posted_at": "2026-10-06T12:00:56.007217"
     }
   },
   "results": [
@@ -25393,6 +25397,14 @@
       "post_id": "1313",
       "error": null,
       "at": "2026-10-06T11:50:53.909132"
+    },
+    {
+      "offer_id": "b6d0c65d0b94a874",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1314",
+      "error": null,
+      "at": "2026-10-06T12:00:56.006441"
     }
   ]
 }
