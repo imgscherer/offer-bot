@@ -1,5 +1,17 @@
 [
   {
+    "id": "951c7fb988024db2",
+    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+    "price_now": 144.33,
+    "price_was": 229.9,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/439003542017912858492624962933.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T11:30:55.866228"
+  },
+  {
     "id": "75854a83a4dcef72",
     "title": "Fralda Huggies Natural Care P 36 unidades",
     "price_now": 35.54,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T20:41:51.582188"
-  },
-  {
-    "id": "3a1c8d4ebc1e8311",
-    "title": "Granado Creme Assaduras Dermocalmante Bebê Peles Sensíveis 50g",
-    "price_now": 22.39,
-    "price_was": 35.0,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B07NPYD9KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/313985712417912313669068951820.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T20:41:41.758049"
   }
 ]
