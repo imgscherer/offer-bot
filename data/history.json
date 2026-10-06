@@ -5219,6 +5219,10 @@
     "951c7fb988024db2": {
       "title": "Fralda Huggies Máxima Proteção M 196 unidades",
       "posted_at": "2026-10-06T11:30:55.866464"
+    },
+    "5736221c1e9bec6b": {
+      "title": "Babysec Fralda Premium M 32 Unidades",
+      "posted_at": "2026-10-06T11:50:53.909982"
     }
   },
   "results": [
@@ -25381,6 +25385,14 @@
       "post_id": "1312",
       "error": null,
       "at": "2026-10-06T11:30:55.865910"
+    },
+    {
+      "offer_id": "5736221c1e9bec6b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1313",
+      "error": null,
+      "at": "2026-10-06T11:50:53.909132"
     }
   ]
 }

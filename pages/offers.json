@@ -1,5 +1,17 @@
 [
   {
+    "id": "5736221c1e9bec6b",
+    "title": "Babysec Fralda Premium M 32 Unidades",
+    "price_now": 28.0,
+    "price_was": 54.39,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/169838518517912870093739980997.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T11:50:53.909540"
+  },
+  {
     "id": "951c7fb988024db2",
     "title": "Fralda Huggies Máxima Proteção M 196 unidades",
     "price_now": 144.33,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-05T21:31:04.588396"
-  },
-  {
-    "id": "71f948d5bd5b8547",
-    "title": "Carrinho + Bebê Conforto Travel System Toffy Cosco Kids",
-    "price_now": 699.0,
-    "price_was": 999.0,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0BVXB6SHF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/925636574217912309488279751154.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-05T20:41:51.582188"
   }
 ]
