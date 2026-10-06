@@ -1,5 +1,17 @@
 [
   {
+    "id": "deb52f4da5b402e9",
+    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho Xg 140 Unidades – Aberta Com Tecnologia Xtra-flex, Canais Em X Que Se Adaptam Aos Movimentos",
+    "price_now": 159.87,
+    "price_was": 229.9,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/653480968817913073355302053298.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-06T17:30:55.522864"
+  },
+  {
     "id": "8e4c2d92bae92552",
     "title": "Wrap Sling Cinza Mescla Sling Mamãe e Bebê",
     "price_now": 32.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-06T11:50:53.909540"
-  },
-  {
-    "id": "951c7fb988024db2",
-    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
-    "price_now": 144.33,
-    "price_was": 229.9,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/439003542017912858492624962933.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T11:30:55.866228"
   }
 ]
