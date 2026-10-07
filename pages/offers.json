@@ -1,5 +1,53 @@
 [
   {
+    "id": "309b8fd892051bda",
+    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+    "price_now": 135.91,
+    "price_was": 229.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/811867835717913945559698754204.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T17:51:56.256396"
+  },
+  {
+    "id": "46464f4782720435",
+    "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+    "price_now": 135.91,
+    "price_was": 229.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/545323559817913945572488544350.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T17:51:40.350853"
+  },
+  {
+    "id": "a0cf7a2b5138cb50",
+    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+    "price_now": 135.91,
+    "price_was": 229.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/294468354717913945674848320918.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T17:51:25.593037"
+  },
+  {
+    "id": "3fb890a350b2076a",
+    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+    "price_now": 135.91,
+    "price_was": 229.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/663805073717913945741718297751.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T17:51:11.735030"
+  },
+  {
     "id": "9e4c82cf30b06ec3",
     "title": "Óleo Hidratante Para Bebê Johnson&#039;s Baby, Puro, 200ml",
     "price_now": 44.88,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T13:50:48.185305"
-  },
-  {
-    "id": "fb12a613e3631a51",
-    "title": "Fralda Luxo Estampa Cremer - 5 Unidades (70cmx70cm)",
-    "price_now": 17.9,
-    "price_was": 33.29,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07J68SZ66?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/861811179417913796916356811080.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T13:32:07.087442"
-  },
-  {
-    "id": "9463500a38b009f7",
-    "title": "Fralda Babysec Ultrasec M 68 unidades",
-    "price_now": 44.52,
-    "price_was": 101.58,
-    "discount_pct": 56,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/456958356217913786148930744980.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T13:20:52.221015"
-  },
-  {
-    "id": "3aab58712aa41921",
-    "title": "Kit com 6 Cuecas Zorba Boxer Algodão Sem Costura Infantil 678 Branco",
-    "price_now": 29.35,
-    "price_was": 76.9,
-    "discount_pct": 62,
-    "url": "https://www.amazon.com.br/dp/B07GDRM474?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/808785294417913783109583100511.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T13:10:46.213325"
-  },
-  {
-    "id": "cdbfd066e1a5be38",
-    "title": "Cremer Fralda Luxo Estampa Feminina Pc Com 5 Unidades",
-    "price_now": 17.0,
-    "price_was": 33.29,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07J68SZ66?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/742271492117913769941607116471.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T12:51:03.848639"
   }
 ]

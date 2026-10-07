@@ -5435,6 +5435,22 @@
     "9e4c82cf30b06ec3": {
       "title": "Óleo Hidratante Para Bebê Johnson&#039;s Baby, Puro, 200ml",
       "posted_at": "2026-10-07T17:10:50.596252"
+    },
+    "3fb890a350b2076a": {
+      "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+      "posted_at": "2026-10-07T17:51:11.735482"
+    },
+    "a0cf7a2b5138cb50": {
+      "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+      "posted_at": "2026-10-07T17:51:25.593524"
+    },
+    "46464f4782720435": {
+      "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+      "posted_at": "2026-10-07T17:51:40.351256"
+    },
+    "309b8fd892051bda": {
+      "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+      "posted_at": "2026-10-07T17:51:56.256810"
     }
   },
   "results": [
@@ -26141,6 +26157,46 @@
       "post_id": "1366",
       "error": null,
       "at": "2026-10-07T17:10:50.595315"
+    },
+    {
+      "offer_id": "237c9d508e4ab894",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-07T17:51:00.199948"
+    },
+    {
+      "offer_id": "3fb890a350b2076a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1367",
+      "error": null,
+      "at": "2026-10-07T17:51:11.734702"
+    },
+    {
+      "offer_id": "a0cf7a2b5138cb50",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1368",
+      "error": null,
+      "at": "2026-10-07T17:51:25.592732"
+    },
+    {
+      "offer_id": "46464f4782720435",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1369",
+      "error": null,
+      "at": "2026-10-07T17:51:40.350552"
+    },
+    {
+      "offer_id": "309b8fd892051bda",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1370",
+      "error": null,
+      "at": "2026-10-07T17:51:56.256055"
     }
   ]
 }
