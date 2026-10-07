@@ -1,5 +1,17 @@
 [
   {
+    "id": "f6fd37e92d1b186b",
+    "title": "Huggies Fralda Premium Natural Care P 36 Unidades",
+    "price_now": 37.0,
+    "price_was": 53.4,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/854171429317913690174074111613.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T10:40:58.972029"
+  },
+  {
     "id": "dc171f8af5b8e47a",
     "title": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades aberta com tecnologia Xtra-Flex canais em X q",
     "price_now": 159.89,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-06T22:50:49.162455"
-  },
-  {
-    "id": "ddcedb772c1d7559",
-    "title": "Body Pacote com 8 Bodies de Manga Curta Simple Joys by Carter's Unisex Bebê",
-    "price_now": 112.0,
-    "price_was": 178.62,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B08G8TFQHM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/694670036617913244321782961720.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T22:20:48.780588"
   }
 ]

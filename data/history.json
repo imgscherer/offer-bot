@@ -5343,6 +5343,10 @@
     "dc171f8af5b8e47a": {
       "title": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades aberta com tecnologia Xtra-Flex canais em X q",
       "posted_at": "2026-10-07T10:10:55.867781"
+    },
+    "f6fd37e92d1b186b": {
+      "title": "Huggies Fralda Premium Natural Care P 36 Unidades",
+      "posted_at": "2026-10-07T10:40:58.972583"
     }
   },
   "results": [
@@ -25841,6 +25845,14 @@
       "post_id": "1343",
       "error": null,
       "at": "2026-10-07T10:10:55.866923"
+    },
+    {
+      "offer_id": "f6fd37e92d1b186b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1344",
+      "error": null,
+      "at": "2026-10-07T10:40:58.971576"
     }
   ]
 }
