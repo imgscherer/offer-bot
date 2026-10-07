@@ -5431,6 +5431,10 @@
     "f791029654395b25": {
       "title": "Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Azul - Premium Baby",
       "posted_at": "2026-10-07T16:40:44.949867"
+    },
+    "9e4c82cf30b06ec3": {
+      "title": "Óleo Hidratante Para Bebê Johnson&#039;s Baby, Puro, 200ml",
+      "posted_at": "2026-10-07T17:10:50.596252"
     }
   },
   "results": [
@@ -26129,6 +26133,14 @@
       "post_id": "1365",
       "error": null,
       "at": "2026-10-07T16:40:44.949311"
+    },
+    {
+      "offer_id": "9e4c82cf30b06ec3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1366",
+      "error": null,
+      "at": "2026-10-07T17:10:50.595315"
     }
   ]
 }

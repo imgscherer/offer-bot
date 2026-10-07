@@ -1,5 +1,17 @@
 [
   {
+    "id": "9e4c82cf30b06ec3",
+    "title": "Óleo Hidratante Para Bebê Johnson&#039;s Baby, Puro, 200ml",
+    "price_now": 44.88,
+    "price_was": 72.99,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B07DHSHRMG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/604340979917913914546539423850.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T17:10:50.595704"
+  },
+  {
     "id": "f791029654395b25",
     "title": "Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Azul - Premium Baby",
     "price_now": 721.08,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T12:51:03.848639"
-  },
-  {
-    "id": "24a7431fdfe23760",
-    "title": "Fralda-Calça MamyPoko Dia&Noite M+ 68 Unidades",
-    "price_now": 75.39,
-    "price_was": 107.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0CHZCB5SK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/931140200117913736921586526082.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T12:01:15.996426"
   }
 ]
