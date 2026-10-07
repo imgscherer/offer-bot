@@ -5471,6 +5471,22 @@
     "62cc02dcb4740451": {
       "title": "Fralda Pampers Pants Premium Care XG 96 unidades",
       "posted_at": "2026-10-07T18:11:14.924738"
+    },
+    "a82574d9b5761bff": {
+      "title": "Fralda Personal Baby Premium Protection G 30 unidades",
+      "posted_at": "2026-10-07T18:31:51.359067"
+    },
+    "d6afbe5b9818c73f": {
+      "title": "Fralda Personal Baby Premium Protection M 34 unidades",
+      "posted_at": "2026-10-07T18:31:59.509157"
+    },
+    "7d21ee30c226765d": {
+      "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
+      "posted_at": "2026-10-07T18:32:09.557473"
+    },
+    "ca4ec5d23d867861": {
+      "title": "Fralda Personal Baby Total Protect Pants G 44 unidades",
+      "posted_at": "2026-10-07T18:32:19.478371"
     }
   },
   "results": [
@@ -26257,6 +26273,46 @@
       "post_id": "1375",
       "error": null,
       "at": "2026-10-07T18:11:14.923888"
+    },
+    {
+      "offer_id": "8c8b94a0049205c8",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-07T18:31:38.245320"
+    },
+    {
+      "offer_id": "a82574d9b5761bff",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1376",
+      "error": null,
+      "at": "2026-10-07T18:31:51.358333"
+    },
+    {
+      "offer_id": "d6afbe5b9818c73f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1377",
+      "error": null,
+      "at": "2026-10-07T18:31:59.508349"
+    },
+    {
+      "offer_id": "7d21ee30c226765d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1378",
+      "error": null,
+      "at": "2026-10-07T18:32:09.556729"
+    },
+    {
+      "offer_id": "ca4ec5d23d867861",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1379",
+      "error": null,
+      "at": "2026-10-07T18:32:19.477650"
     }
   ]
 }
