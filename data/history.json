@@ -5519,6 +5519,26 @@
     "1d0294f6f7b430b6": {
       "title": "Fralda Personal Baby Premium Pants XG 50 Unidades",
       "posted_at": "2026-10-07T21:01:07.875205"
+    },
+    "bd02c5eeadfea0dd": {
+      "title": "Creme Preventivo de Assaduras Para Bebês Bepantol Baby, 100g",
+      "posted_at": "2026-10-07T21:20:45.606226"
+    },
+    "39f582284bba9b2e": {
+      "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+      "posted_at": "2026-10-07T21:20:57.070173"
+    },
+    "51e9d4b933d24144": {
+      "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+      "posted_at": "2026-10-07T21:21:07.614296"
+    },
+    "8091a3c3a30da430": {
+      "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+      "posted_at": "2026-10-07T21:21:21.444438"
+    },
+    "11b354bdf4997aea": {
+      "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+      "posted_at": "2026-10-07T21:21:36.347875"
     }
   },
   "results": [
@@ -26497,6 +26517,46 @@
       "post_id": "1387",
       "error": null,
       "at": "2026-10-07T21:01:07.874492"
+    },
+    {
+      "offer_id": "bd02c5eeadfea0dd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1388",
+      "error": null,
+      "at": "2026-10-07T21:20:45.605437"
+    },
+    {
+      "offer_id": "39f582284bba9b2e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1389",
+      "error": null,
+      "at": "2026-10-07T21:20:57.069361"
+    },
+    {
+      "offer_id": "51e9d4b933d24144",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1390",
+      "error": null,
+      "at": "2026-10-07T21:21:07.613578"
+    },
+    {
+      "offer_id": "8091a3c3a30da430",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1391",
+      "error": null,
+      "at": "2026-10-07T21:21:21.443703"
+    },
+    {
+      "offer_id": "11b354bdf4997aea",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1392",
+      "error": null,
+      "at": "2026-10-07T21:21:36.347154"
     }
   ]
 }

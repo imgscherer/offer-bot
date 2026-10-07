@@ -1,5 +1,65 @@
 [
   {
+    "id": "11b354bdf4997aea",
+    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+    "price_now": 135.0,
+    "price_was": 229.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/908888877017914077196311753339.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T21:21:36.347447"
+  },
+  {
+    "id": "8091a3c3a30da430",
+    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+    "price_now": 135.0,
+    "price_was": 229.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/505086155717914077239669056644.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T21:21:21.444021"
+  },
+  {
+    "id": "51e9d4b933d24144",
+    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+    "price_now": 135.0,
+    "price_was": 229.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/491487792317914077246523993605.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T21:21:07.613880"
+  },
+  {
+    "id": "39f582284bba9b2e",
+    "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+    "price_now": 135.0,
+    "price_was": 246.01,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/942528981917914077209978978524.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T21:20:57.069697"
+  },
+  {
+    "id": "bd02c5eeadfea0dd",
+    "title": "Creme Preventivo de Assaduras Para Bebês Bepantol Baby, 100g",
+    "price_now": 27.0,
+    "price_was": 59.99,
+    "discount_pct": 55,
+    "url": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/340667257117914077157695372589.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T21:20:45.605801"
+  },
+  {
     "id": "1d0294f6f7b430b6",
     "title": "Fralda Personal Baby Premium Pants XG 50 Unidades",
     "price_now": 66.05,
@@ -82,65 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T18:51:01.902844"
-  },
-  {
-    "id": "3c7036965d026d71",
-    "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
-    "price_now": 39.15,
-    "price_was": 69.42,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/834968165917913969756494307071.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T18:40:59.962229"
-  },
-  {
-    "id": "ca4ec5d23d867861",
-    "title": "Fralda Personal Baby Total Protect Pants G 44 unidades",
-    "price_now": 39.15,
-    "price_was": 71.99,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B0BTTLYZN9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/816087918717913969724205911606.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T18:32:19.477929"
-  },
-  {
-    "id": "7d21ee30c226765d",
-    "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
-    "price_now": 24.13,
-    "price_was": 46.38,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/895599589917913969701780162435.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T18:32:09.557012"
-  },
-  {
-    "id": "d6afbe5b9818c73f",
-    "title": "Fralda Personal Baby Premium Protection M 34 unidades",
-    "price_now": 24.13,
-    "price_was": 46.38,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/942959917117913969733895754342.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T18:31:59.508676"
-  },
-  {
-    "id": "a82574d9b5761bff",
-    "title": "Fralda Personal Baby Premium Protection G 30 unidades",
-    "price_now": 24.13,
-    "price_was": 48.75,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/976417482517913970394055734363.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T18:31:51.358652"
   }
 ]
