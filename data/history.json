@@ -5403,6 +5403,18 @@
     "fb12a613e3631a51": {
       "title": "Fralda Luxo Estampa Cremer - 5 Unidades (70cmx70cm)",
       "posted_at": "2026-10-07T13:32:07.087758"
+    },
+    "0f0fdc1d9cb82300": {
+      "title": "Fralda Personal Baby Premium Protection G com 30",
+      "posted_at": "2026-10-07T13:50:48.185949"
+    },
+    "e216d0afc21dda3d": {
+      "title": "Fralda Personal Baby Premium Protection RN até P com 40",
+      "posted_at": "2026-10-07T13:50:57.698968"
+    },
+    "ce58e6bb0cbe2036": {
+      "title": "Fralda Personal Baby Premium Protection M com 34",
+      "posted_at": "2026-10-07T13:51:06.481481"
     }
   },
   "results": [
@@ -26045,6 +26057,30 @@
       "post_id": "1358",
       "error": null,
       "at": "2026-10-07T13:32:07.087062"
+    },
+    {
+      "offer_id": "0f0fdc1d9cb82300",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1359",
+      "error": null,
+      "at": "2026-10-07T13:50:48.184840"
+    },
+    {
+      "offer_id": "e216d0afc21dda3d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1360",
+      "error": null,
+      "at": "2026-10-07T13:50:57.698105"
+    },
+    {
+      "offer_id": "ce58e6bb0cbe2036",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1361",
+      "error": null,
+      "at": "2026-10-07T13:51:06.480695"
     }
   ]
 }

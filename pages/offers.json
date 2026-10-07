@@ -1,5 +1,41 @@
 [
   {
+    "id": "ce58e6bb0cbe2036",
+    "title": "Fralda Personal Baby Premium Protection M com 34",
+    "price_now": 26.0,
+    "price_was": 46.38,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/870935955017913801712771682630.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T13:51:06.481024"
+  },
+  {
+    "id": "e216d0afc21dda3d",
+    "title": "Fralda Personal Baby Premium Protection RN até P com 40",
+    "price_now": 26.0,
+    "price_was": 46.38,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/887264148417913801735258110182.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T13:50:57.698518"
+  },
+  {
+    "id": "0f0fdc1d9cb82300",
+    "title": "Fralda Personal Baby Premium Protection G com 30",
+    "price_now": 26.0,
+    "price_was": 48.75,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/597666326817913801697059321108.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T13:50:48.185305"
+  },
+  {
     "id": "fb12a613e3631a51",
     "title": "Fralda Luxo Estampa Cremer - 5 Unidades (70cmx70cm)",
     "price_now": 17.9,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T11:40:57.239789"
-  },
-  {
-    "id": "e8fe4f9807503c06",
-    "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
-    "price_now": 26.97,
-    "price_was": 46.38,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/737743855617913725699298070765.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T11:31:26.922108"
-  },
-  {
-    "id": "5c96ea3273bf2895",
-    "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
-    "price_now": 26.97,
-    "price_was": 46.38,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/518157470517913725928261154338.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T11:31:13.107574"
-  },
-  {
-    "id": "78402b92d73fbc17",
-    "title": "Fralda Personal Baby Premium Protection M 34 unidades",
-    "price_now": 26.97,
-    "price_was": 46.38,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/155496375117913725939702345716.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T11:31:03.356492"
   }
 ]
