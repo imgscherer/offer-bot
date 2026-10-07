@@ -5539,6 +5539,18 @@
     "11b354bdf4997aea": {
       "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
       "posted_at": "2026-10-07T21:21:36.347875"
+    },
+    "c8691eb78d9d15ba": {
+      "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
+      "posted_at": "2026-10-07T21:31:02.480477"
+    },
+    "dbf4d2ec01d96a92": {
+      "title": "Huggies Fralda Pants Proteção Acolchoada M - 216 fraldas",
+      "posted_at": "2026-10-07T21:31:14.286334"
+    },
+    "586faf80c2d30a66": {
+      "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+      "posted_at": "2026-10-07T21:31:28.923584"
     }
   },
   "results": [
@@ -26557,6 +26569,30 @@
       "post_id": "1392",
       "error": null,
       "at": "2026-10-07T21:21:36.347154"
+    },
+    {
+      "offer_id": "c8691eb78d9d15ba",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1393",
+      "error": null,
+      "at": "2026-10-07T21:31:02.479674"
+    },
+    {
+      "offer_id": "dbf4d2ec01d96a92",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1394",
+      "error": null,
+      "at": "2026-10-07T21:31:14.285546"
+    },
+    {
+      "offer_id": "586faf80c2d30a66",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1395",
+      "error": null,
+      "at": "2026-10-07T21:31:28.922842"
     }
   ]
 }
