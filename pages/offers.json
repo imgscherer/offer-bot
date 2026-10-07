@@ -1,5 +1,17 @@
 [
   {
+    "id": "294679423a1f272c",
+    "title": "Huggies Fralda Premium Natural Care G - 66 Un",
+    "price_now": 88.0,
+    "price_was": 125.24,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0FBC2GVT1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/223441291417913819079842514893.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T14:20:49.428492"
+  },
+  {
     "id": "935876cab3140822",
     "title": "Brinquedo Infantil Carrinho 6 em 1 com Engrenagens – Educativo, Interativo e Estimula Coordenação Motora",
     "price_now": 75.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T11:50:54.078068"
-  },
-  {
-    "id": "484fad7b1b647ede",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega P com 54",
-    "price_now": 34.0,
-    "price_was": 50.29,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B093GBK61Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/664553648817913727184721105343.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T11:41:21.527609"
   }
 ]

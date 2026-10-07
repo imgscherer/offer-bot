@@ -5419,6 +5419,10 @@
     "935876cab3140822": {
       "title": "Brinquedo Infantil Carrinho 6 em 1 com Engrenagens – Educativo, Interativo e Estimula Coordenação Motora",
       "posted_at": "2026-10-07T14:00:49.295642"
+    },
+    "294679423a1f272c": {
+      "title": "Huggies Fralda Premium Natural Care G - 66 Un",
+      "posted_at": "2026-10-07T14:20:49.428946"
     }
   },
   "results": [
@@ -26093,6 +26097,14 @@
       "post_id": "1362",
       "error": null,
       "at": "2026-10-07T14:00:49.294888"
+    },
+    {
+      "offer_id": "294679423a1f272c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1363",
+      "error": null,
+      "at": "2026-10-07T14:20:49.428130"
     }
   ]
 }
