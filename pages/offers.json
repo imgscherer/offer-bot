@@ -1,5 +1,17 @@
 [
   {
+    "id": "3c7036965d026d71",
+    "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
+    "price_now": 39.15,
+    "price_was": 69.42,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/834968165917913969756494307071.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T18:40:59.962229"
+  },
+  {
     "id": "ca4ec5d23d867861",
     "title": "Fralda Personal Baby Total Protect Pants G 44 unidades",
     "price_now": 39.15,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T17:51:40.350853"
-  },
-  {
-    "id": "a0cf7a2b5138cb50",
-    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
-    "price_now": 135.91,
-    "price_was": 229.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/294468354717913945674848320918.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T17:51:25.593037"
   }
 ]
