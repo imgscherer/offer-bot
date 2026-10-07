@@ -5551,6 +5551,10 @@
     "586faf80c2d30a66": {
       "title": "Fralda Huggies Máxima Proteção G 160 unidades",
       "posted_at": "2026-10-07T21:31:28.923584"
+    },
+    "0bd8750e87a9eb5d": {
+      "title": "Fralda Descartável Huggies Proteção Máxima G 160un",
+      "posted_at": "2026-10-07T22:31:38.639877"
     }
   },
   "results": [
@@ -26593,6 +26597,14 @@
       "post_id": "1395",
       "error": null,
       "at": "2026-10-07T21:31:28.922842"
+    },
+    {
+      "offer_id": "0bd8750e87a9eb5d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1398",
+      "error": null,
+      "at": "2026-10-07T22:31:38.638922"
     }
   ]
 }

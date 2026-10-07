@@ -1,5 +1,17 @@
 [
   {
+    "id": "0bd8750e87a9eb5d",
+    "title": "Fralda Descartável Huggies Proteção Máxima G 160un",
+    "price_now": 135.0,
+    "price_was": 229.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/664245303617914120297731414530.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T22:31:38.639291"
+  },
+  {
     "id": "586faf80c2d30a66",
     "title": "Fralda Huggies Máxima Proteção G 160 unidades",
     "price_now": 135.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T20:50:56.829518"
-  },
-  {
-    "id": "1071193f60a3f516",
-    "title": "Fraldas Pampers Pants Ajuste Total XXG com 74 unidades",
-    "price_now": 75.0,
-    "price_was": 126.29,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0GW4633WC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/112541781517914014168760047907.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T19:40:59.040036"
   }
 ]
