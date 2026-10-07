@@ -5323,6 +5323,10 @@
     "608555a9fa9e952f": {
       "title": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
       "posted_at": "2026-10-07T00:50:53.854696"
+    },
+    "4e5a62b0205aed36": {
+      "title": "Berço Co-Bed Safety 1st Palace Grey",
+      "posted_at": "2026-10-07T01:20:54.906704"
     }
   },
   "results": [
@@ -25725,6 +25729,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-07T01:10:41.810282"
+    },
+    {
+      "offer_id": "81a120a0be7ff486",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-07T01:20:46.228396"
+    },
+    {
+      "offer_id": "4e5a62b0205aed36",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1339",
+      "error": null,
+      "at": "2026-10-07T01:20:54.905956"
     }
   ]
 }

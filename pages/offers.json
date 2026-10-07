@@ -1,5 +1,17 @@
 [
   {
+    "id": "4e5a62b0205aed36",
+    "title": "Berço Co-Bed Safety 1st Palace Grey",
+    "price_now": 900.0,
+    "price_was": 1299.0,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0F5X6LWJ9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/663784105517913353491229682047.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T01:20:54.906268"
+  },
+  {
     "id": "608555a9fa9e952f",
     "title": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
     "price_now": 33.14,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-06T19:30:47.964289"
-  },
-  {
-    "id": "1af4165113d3b30a",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
-    "price_now": 49.0,
-    "price_was": 77.37,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/569161128617913106388780493347.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T18:31:08.303869"
   }
 ]
