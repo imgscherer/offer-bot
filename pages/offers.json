@@ -1,5 +1,17 @@
 [
   {
+    "id": "64a1f4aa498b1cf3",
+    "title": "Babysec Fralda Galinha Pintadinha Premium XXG 24 Unidades",
+    "price_now": 27.8,
+    "price_was": 40.13,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0B1GZP34W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/213955224217914150918246291833.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T23:20:56.643160"
+  },
+  {
     "id": "0bd8750e87a9eb5d",
     "title": "Fralda Descartável Huggies Proteção Máxima G 160un",
     "price_now": 135.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T21:00:58.056226"
-  },
-  {
-    "id": "ac46db5aa835f184",
-    "title": "Fraldas Pampers Pants Ajuste Total XXG 74 unidades",
-    "price_now": 67.77,
-    "price_was": 126.29,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B0GW4633WC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/970262798817914054906586363922.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T20:50:56.829518"
   }
 ]

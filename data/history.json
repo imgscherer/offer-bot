@@ -5555,6 +5555,10 @@
     "0bd8750e87a9eb5d": {
       "title": "Fralda Descartável Huggies Proteção Máxima G 160un",
       "posted_at": "2026-10-07T22:31:38.639877"
+    },
+    "64a1f4aa498b1cf3": {
+      "title": "Babysec Fralda Galinha Pintadinha Premium XXG 24 Unidades",
+      "posted_at": "2026-10-07T23:20:56.643554"
     }
   },
   "results": [
@@ -26605,6 +26609,14 @@
       "post_id": "1398",
       "error": null,
       "at": "2026-10-07T22:31:38.638922"
+    },
+    {
+      "offer_id": "64a1f4aa498b1cf3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1399",
+      "error": null,
+      "at": "2026-10-07T23:20:56.642846"
     }
   ]
 }
