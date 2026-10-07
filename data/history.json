@@ -5367,6 +5367,14 @@
     "e8fe4f9807503c06": {
       "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
       "posted_at": "2026-10-07T11:31:26.922636"
+    },
+    "f4fda50a9f18d5f5": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Mega XG com 60",
+      "posted_at": "2026-10-07T11:40:57.240257"
+    },
+    "484fad7b1b647ede": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Mega P com 54",
+      "posted_at": "2026-10-07T11:41:21.528065"
     }
   },
   "results": [
@@ -25921,6 +25929,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-07T11:31:44.004362"
+    },
+    {
+      "offer_id": "f4fda50a9f18d5f5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1350",
+      "error": null,
+      "at": "2026-10-07T11:40:57.239431"
+    },
+    {
+      "offer_id": "9fed7dd606a6e92b",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-07T11:41:05.668309"
+    },
+    {
+      "offer_id": "484fad7b1b647ede",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1351",
+      "error": null,
+      "at": "2026-10-07T11:41:21.527258"
     }
   ]
 }
