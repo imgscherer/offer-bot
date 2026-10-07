@@ -5427,6 +5427,10 @@
     "7a8ec2aeb233e410": {
       "title": "Mili Fralda Ultra Seca Jumbinho M 1x22",
       "posted_at": "2026-10-07T16:01:05.264626"
+    },
+    "f791029654395b25": {
+      "title": "Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Azul - Premium Baby",
+      "posted_at": "2026-10-07T16:40:44.949867"
     }
   },
   "results": [
@@ -26117,6 +26121,14 @@
       "post_id": "1364",
       "error": null,
       "at": "2026-10-07T16:01:05.263771"
+    },
+    {
+      "offer_id": "f791029654395b25",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1365",
+      "error": null,
+      "at": "2026-10-07T16:40:44.949311"
     }
   ]
 }
