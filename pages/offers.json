@@ -1,5 +1,29 @@
 [
   {
+    "id": "3b1997d1219e205e",
+    "title": "Fraldas Pampers Pants Ajuste Total XXG 74 unidades",
+    "price_now": 67.77,
+    "price_was": 126.29,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B0GW4633WC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/277024768717913979998297151853.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T18:51:12.376639"
+  },
+  {
+    "id": "2962fdb1911005cd",
+    "title": "Fralda Babysec Galinha Pintadinha Premium XG com 24 Unidades",
+    "price_now": 21.0,
+    "price_was": 40.13,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B07XL8XYNV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/140029043917913983524120178707.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T18:51:01.902844"
+  },
+  {
     "id": "3c7036965d026d71",
     "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
     "price_now": 39.15,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T18:01:00.778696"
-  },
-  {
-    "id": "309b8fd892051bda",
-    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
-    "price_now": 135.91,
-    "price_was": 229.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/811867835717913945559698754204.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T17:51:56.256396"
-  },
-  {
-    "id": "46464f4782720435",
-    "title": "Fralda Huggies Máxima Proteção G 160 unidades",
-    "price_now": 135.91,
-    "price_was": 229.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/545323559817913945572488544350.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T17:51:40.350853"
   }
 ]
