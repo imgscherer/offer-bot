@@ -5395,6 +5395,10 @@
     "3aab58712aa41921": {
       "title": "Kit com 6 Cuecas Zorba Boxer Algodão Sem Costura Infantil 678 Branco",
       "posted_at": "2026-10-07T13:10:46.213592"
+    },
+    "9463500a38b009f7": {
+      "title": "Fralda Babysec Ultrasec M 68 unidades",
+      "posted_at": "2026-10-07T13:20:52.221387"
     }
   },
   "results": [
@@ -26021,6 +26025,14 @@
       "post_id": "1356",
       "error": null,
       "at": "2026-10-07T13:10:46.212984"
+    },
+    {
+      "offer_id": "9463500a38b009f7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1357",
+      "error": null,
+      "at": "2026-10-07T13:20:52.220681"
     }
   ]
 }
