@@ -5327,6 +5327,10 @@
     "4e5a62b0205aed36": {
       "title": "Berço Co-Bed Safety 1st Palace Grey",
       "posted_at": "2026-10-07T01:20:54.906704"
+    },
+    "f356a08c4b1ed674": {
+      "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+      "posted_at": "2026-10-07T02:40:48.074693"
     }
   },
   "results": [
@@ -25793,6 +25797,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-07T02:20:42.279642"
+    },
+    {
+      "offer_id": "f356a08c4b1ed674",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1340",
+      "error": null,
+      "at": "2026-10-07T02:40:48.074031"
     }
   ]
 }

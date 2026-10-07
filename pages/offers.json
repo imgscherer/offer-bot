@@ -1,5 +1,17 @@
 [
   {
+    "id": "f356a08c4b1ed674",
+    "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+    "price_now": 49.48,
+    "price_was": 101.58,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/720615992317913400885618328601.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T02:40:48.074378"
+  },
+  {
     "id": "4e5a62b0205aed36",
     "title": "Berço Co-Bed Safety 1st Palace Grey",
     "price_now": 900.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-06T19:30:55.620691"
-  },
-  {
-    "id": "4475b59fc47fc67c",
-    "title": "Creme Preventivo de Assaduras para Bebês Desitin Creamy, 113g",
-    "price_now": 42.0,
-    "price_was": 101.99,
-    "discount_pct": 59,
-    "url": "https://www.amazon.com.br/dp/B07DHSTTCN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/855314227117913139357242198978.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T19:30:47.964289"
   }
 ]
