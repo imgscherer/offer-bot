@@ -1,5 +1,17 @@
 [
   {
+    "id": "935876cab3140822",
+    "title": "Brinquedo Infantil Carrinho 6 em 1 com Engrenagens – Educativo, Interativo e Estimula Coordenação Motora",
+    "price_now": 75.0,
+    "price_was": 250.0,
+    "discount_pct": 70,
+    "url": "https://s.shopee.com.br/7KxZ753pLn",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkl4soz7oum903",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T14:00:49.295213"
+  },
+  {
     "id": "ce58e6bb0cbe2036",
     "title": "Fralda Personal Baby Premium Protection M com 34",
     "price_now": 26.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T11:41:21.527609"
-  },
-  {
-    "id": "f4fda50a9f18d5f5",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega XG com 60",
-    "price_now": 34.0,
-    "price_was": 77.37,
-    "discount_pct": 56,
-    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/430306769917913726923068681253.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T11:40:57.239789"
   }
 ]

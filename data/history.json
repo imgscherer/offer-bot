@@ -5415,6 +5415,10 @@
     "ce58e6bb0cbe2036": {
       "title": "Fralda Personal Baby Premium Protection M com 34",
       "posted_at": "2026-10-07T13:51:06.481481"
+    },
+    "935876cab3140822": {
+      "title": "Brinquedo Infantil Carrinho 6 em 1 com Engrenagens – Educativo, Interativo e Estimula Coordenação Motora",
+      "posted_at": "2026-10-07T14:00:49.295642"
     }
   },
   "results": [
@@ -26081,6 +26085,14 @@
       "post_id": "1361",
       "error": null,
       "at": "2026-10-07T13:51:06.480695"
+    },
+    {
+      "offer_id": "935876cab3140822",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1362",
+      "error": null,
+      "at": "2026-10-07T14:00:49.294888"
     }
   ]
 }
