@@ -5399,6 +5399,10 @@
     "9463500a38b009f7": {
       "title": "Fralda Babysec Ultrasec M 68 unidades",
       "posted_at": "2026-10-07T13:20:52.221387"
+    },
+    "fb12a613e3631a51": {
+      "title": "Fralda Luxo Estampa Cremer - 5 Unidades (70cmx70cm)",
+      "posted_at": "2026-10-07T13:32:07.087758"
     }
   },
   "results": [
@@ -26033,6 +26037,14 @@
       "post_id": "1357",
       "error": null,
       "at": "2026-10-07T13:20:52.220681"
+    },
+    {
+      "offer_id": "fb12a613e3631a51",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1358",
+      "error": null,
+      "at": "2026-10-07T13:32:07.087062"
     }
   ]
 }
