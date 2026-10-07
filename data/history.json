@@ -5511,6 +5511,14 @@
     "ac46db5aa835f184": {
       "title": "Fraldas Pampers Pants Ajuste Total XXG 74 unidades",
       "posted_at": "2026-10-07T20:50:56.830007"
+    },
+    "d52073d0b1ff1598": {
+      "title": "Fralda Huggies Proteção Acolchoada Pants M 216 unidades",
+      "posted_at": "2026-10-07T21:00:58.056538"
+    },
+    "1d0294f6f7b430b6": {
+      "title": "Fralda Personal Baby Premium Pants XG 50 Unidades",
+      "posted_at": "2026-10-07T21:01:07.875205"
     }
   },
   "results": [
@@ -26473,6 +26481,22 @@
       "post_id": "1385",
       "error": null,
       "at": "2026-10-07T20:50:56.829160"
+    },
+    {
+      "offer_id": "d52073d0b1ff1598",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1386",
+      "error": null,
+      "at": "2026-10-07T21:00:58.055852"
+    },
+    {
+      "offer_id": "1d0294f6f7b430b6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1387",
+      "error": null,
+      "at": "2026-10-07T21:01:07.874492"
     }
   ]
 }

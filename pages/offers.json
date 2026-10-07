@@ -1,5 +1,29 @@
 [
   {
+    "id": "1d0294f6f7b430b6",
+    "title": "Fralda Personal Baby Premium Pants XG 50 Unidades",
+    "price_now": 66.05,
+    "price_was": 116.89,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B0BGM5LZ5D?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/203556598817914061707524930317.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T21:01:07.874779"
+  },
+  {
+    "id": "d52073d0b1ff1598",
+    "title": "Fralda Huggies Proteção Acolchoada Pants M 216 unidades",
+    "price_now": 159.91,
+    "price_was": 289.0,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/454107759117914061663853352546.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T21:00:58.056226"
+  },
+  {
     "id": "ac46db5aa835f184",
     "title": "Fraldas Pampers Pants Ajuste Total XXG 74 unidades",
     "price_now": 67.77,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T18:31:51.358652"
-  },
-  {
-    "id": "62cc02dcb4740451",
-    "title": "Fralda Pampers Pants Premium Care XG 96 unidades",
-    "price_now": 126.0,
-    "price_was": 182.45,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B08K4JSQ2M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/137952550217913963119111785819.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T18:11:14.924214"
-  },
-  {
-    "id": "5f0c35c37cd28ed8",
-    "title": "Huggies Fralda Pants Proteção Acolchoada M - 216 fraldas",
-    "price_now": 170.0,
-    "price_was": 289.0,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/131084138717913963738737097448.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T18:11:01.752637"
   }
 ]
