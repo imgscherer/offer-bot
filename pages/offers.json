@@ -1,5 +1,17 @@
 [
   {
+    "id": "608555a9fa9e952f",
+    "title": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
+    "price_now": 33.14,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/837669389117913328896052992152.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T00:50:53.854279"
+  },
+  {
     "id": "5e0417b5bb033edf",
     "title": "Fralda Huggies Máxima Proteção M com 196",
     "price_now": 147.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-06T18:31:08.303869"
-  },
-  {
-    "id": "07cec44507c4ac09",
-    "title": "Fralda Babysec Ultrasec Mega XXXG 24 Unidades",
-    "price_now": 26.99,
-    "price_was": 39.0,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0FQPFW4X1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/258327026917913102144377306135.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T18:20:57.086071"
   }
 ]

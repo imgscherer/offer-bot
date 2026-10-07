@@ -5319,6 +5319,10 @@
     "5e0417b5bb033edf": {
       "title": "Fralda Huggies Máxima Proteção M com 196",
       "posted_at": "2026-10-07T00:41:41.041925"
+    },
+    "608555a9fa9e952f": {
+      "title": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
+      "posted_at": "2026-10-07T00:50:53.854696"
     }
   },
   "results": [
@@ -25689,6 +25693,22 @@
       "post_id": "1337",
       "error": null,
       "at": "2026-10-07T00:41:41.041124"
+    },
+    {
+      "offer_id": "81a120a0be7ff486",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-07T00:50:44.118741"
+    },
+    {
+      "offer_id": "608555a9fa9e952f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1338",
+      "error": null,
+      "at": "2026-10-07T00:50:53.853918"
     }
   ]
 }
