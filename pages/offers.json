@@ -1,5 +1,17 @@
 [
   {
+    "id": "20951706953caff5",
+    "title": "Fraldas Pampers Pants Ajuste Total XXG 74 unidades",
+    "price_now": 75.3,
+    "price_was": 126.29,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0GW4633WC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/678795419517913987794615330902.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T19:01:12.735726"
+  },
+  {
     "id": "3b1997d1219e205e",
     "title": "Fraldas Pampers Pants Ajuste Total XXG 74 unidades",
     "price_now": 67.77,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T18:01:12.904553"
-  },
-  {
-    "id": "d3be55f4eeba4b85",
-    "title": "Fralda Pampers Premium Care Pants M 78 unidades",
-    "price_now": 84.5,
-    "price_was": 151.59,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B07X83FF8M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/398416095717913959033894219283.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T18:01:00.778696"
   }
 ]

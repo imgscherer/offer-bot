@@ -5499,6 +5499,10 @@
     "3b1997d1219e205e": {
       "title": "Fraldas Pampers Pants Ajuste Total XXG 74 unidades",
       "posted_at": "2026-10-07T18:51:12.377101"
+    },
+    "20951706953caff5": {
+      "title": "Fraldas Pampers Pants Ajuste Total XXG 74 unidades",
+      "posted_at": "2026-10-07T19:01:12.736367"
     }
   },
   "results": [
@@ -26365,6 +26369,22 @@
       "post_id": "1382",
       "error": null,
       "at": "2026-10-07T18:51:12.376269"
+    },
+    {
+      "offer_id": "8c8b94a0049205c8",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-07T19:00:58.525545"
+    },
+    {
+      "offer_id": "20951706953caff5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1383",
+      "error": null,
+      "at": "2026-10-07T19:01:12.735337"
     }
   ]
 }
