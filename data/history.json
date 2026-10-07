@@ -5387,6 +5387,10 @@
     "24a7431fdfe23760": {
       "title": "Fralda-Calça MamyPoko Dia&Noite M+ 68 Unidades",
       "posted_at": "2026-10-07T12:01:15.996881"
+    },
+    "cdbfd066e1a5be38": {
+      "title": "Cremer Fralda Luxo Estampa Feminina Pc Com 5 Unidades",
+      "posted_at": "2026-10-07T12:51:03.849093"
     }
   },
   "results": [
@@ -25997,6 +26001,14 @@
       "post_id": "1354",
       "error": null,
       "at": "2026-10-07T12:01:15.996159"
+    },
+    {
+      "offer_id": "cdbfd066e1a5be38",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1355",
+      "error": null,
+      "at": "2026-10-07T12:51:03.848319"
     }
   ]
 }
