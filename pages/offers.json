@@ -1,5 +1,29 @@
 [
   {
+    "id": "27535794c98d6fa8",
+    "title": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
+    "price_now": 33.0,
+    "price_was": 53.4,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/231923527717913949302220202757.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T18:01:12.904553"
+  },
+  {
+    "id": "d3be55f4eeba4b85",
+    "title": "Fralda Pampers Premium Care Pants M 78 unidades",
+    "price_now": 84.5,
+    "price_was": 151.59,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B07X83FF8M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/398416095717913959033894219283.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T18:01:00.778696"
+  },
+  {
     "id": "309b8fd892051bda",
     "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
     "price_now": 135.91,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T13:51:06.481024"
-  },
-  {
-    "id": "e216d0afc21dda3d",
-    "title": "Fralda Personal Baby Premium Protection RN até P com 40",
-    "price_now": 26.0,
-    "price_was": 46.38,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/887264148417913801735258110182.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T13:50:57.698518"
-  },
-  {
-    "id": "0f0fdc1d9cb82300",
-    "title": "Fralda Personal Baby Premium Protection G com 30",
-    "price_now": 26.0,
-    "price_was": 48.75,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/597666326817913801697059321108.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T13:50:48.185305"
   }
 ]

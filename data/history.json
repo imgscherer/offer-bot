@@ -5451,6 +5451,14 @@
     "309b8fd892051bda": {
       "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
       "posted_at": "2026-10-07T17:51:56.256810"
+    },
+    "d3be55f4eeba4b85": {
+      "title": "Fralda Pampers Premium Care Pants M 78 unidades",
+      "posted_at": "2026-10-07T18:01:00.779026"
+    },
+    "27535794c98d6fa8": {
+      "title": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
+      "posted_at": "2026-10-07T18:01:12.904957"
     }
   },
   "results": [
@@ -26197,6 +26205,22 @@
       "post_id": "1370",
       "error": null,
       "at": "2026-10-07T17:51:56.256055"
+    },
+    {
+      "offer_id": "d3be55f4eeba4b85",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1371",
+      "error": null,
+      "at": "2026-10-07T18:01:00.778319"
+    },
+    {
+      "offer_id": "27535794c98d6fa8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1372",
+      "error": null,
+      "at": "2026-10-07T18:01:12.904222"
     }
   ]
 }
