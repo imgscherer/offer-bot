@@ -1,5 +1,53 @@
 [
   {
+    "id": "5e0417b5bb033edf",
+    "title": "Fralda Huggies Máxima Proteção M com 196",
+    "price_now": 147.0,
+    "price_was": 229.9,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/877878044117913332542041402948.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T00:41:41.041452"
+  },
+  {
+    "id": "488b13a9e6ca9589",
+    "title": "Fralda Huggies Máxima Proteção XXG com 140",
+    "price_now": 147.0,
+    "price_was": 229.9,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/690035747817913332558641413469.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T00:41:28.822288"
+  },
+  {
+    "id": "8dbab1391b7f5866",
+    "title": "Fralda Huggies Máxima Proteção XG com 140",
+    "price_now": 147.0,
+    "price_was": 229.9,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/381286063817913332598752478914.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T00:41:15.136260"
+  },
+  {
+    "id": "88b9d35869fa8324",
+    "title": "Fralda Huggies Máxima Proteção G com 160",
+    "price_now": 147.0,
+    "price_was": 229.9,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/320461049017913332609159559222.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T00:41:03.127260"
+  },
+  {
     "id": "595347780aba78ce",
     "title": "Bodies Bebê Simple Joys Carter's 24 Meses",
     "price_now": 112.0,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-06T18:20:57.086071"
-  },
-  {
-    "id": "c7a6a909a9478932",
-    "title": "Carrinho De Bebê Passeio Vira Berço Nivi Maxi Baby (cinza)",
-    "price_now": 395.28,
-    "price_was": 799.9,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B0CPN2L6MQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/336860918917913100878614401115.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T18:20:45.026777"
-  },
-  {
-    "id": "deb52f4da5b402e9",
-    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho Xg 140 Unidades – Aberta Com Tecnologia Xtra-flex, Canais Em X Que Se Adaptam Aos Movimentos",
-    "price_now": 159.87,
-    "price_was": 229.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/653480968817913073355302053298.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T17:30:55.522864"
-  },
-  {
-    "id": "8e4c2d92bae92552",
-    "title": "Wrap Sling Cinza Mescla Sling Mamãe e Bebê",
-    "price_now": 32.0,
-    "price_was": 54.9,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B07SSGJ8XW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/265546104017913042702940166909.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T16:40:45.965699"
-  },
-  {
-    "id": "05eab8d715963c43",
-    "title": "Fralda Pampers Confort Sec P 72 Unidades",
-    "price_now": 83.0,
-    "price_was": 118.1,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B095D5PSPG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/624233493517913006785978901767.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T15:40:55.701796"
   }
 ]

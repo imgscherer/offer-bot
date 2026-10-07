@@ -5303,6 +5303,22 @@
     "595347780aba78ce": {
       "title": "Bodies Bebê Simple Joys Carter's 24 Meses",
       "posted_at": "2026-10-06T22:50:49.162951"
+    },
+    "88b9d35869fa8324": {
+      "title": "Fralda Huggies Máxima Proteção G com 160",
+      "posted_at": "2026-10-07T00:41:03.127712"
+    },
+    "8dbab1391b7f5866": {
+      "title": "Fralda Huggies Máxima Proteção XG com 140",
+      "posted_at": "2026-10-07T00:41:15.136716"
+    },
+    "488b13a9e6ca9589": {
+      "title": "Fralda Huggies Máxima Proteção XXG com 140",
+      "posted_at": "2026-10-07T00:41:28.822725"
+    },
+    "5e0417b5bb033edf": {
+      "title": "Fralda Huggies Máxima Proteção M com 196",
+      "posted_at": "2026-10-07T00:41:41.041925"
     }
   },
   "results": [
@@ -25633,6 +25649,46 @@
       "post_id": "1333",
       "error": null,
       "at": "2026-10-06T22:50:49.162079"
+    },
+    {
+      "offer_id": "81a120a0be7ff486",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-07T00:40:51.031926"
+    },
+    {
+      "offer_id": "88b9d35869fa8324",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1334",
+      "error": null,
+      "at": "2026-10-07T00:41:03.126881"
+    },
+    {
+      "offer_id": "8dbab1391b7f5866",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1335",
+      "error": null,
+      "at": "2026-10-07T00:41:15.135849"
+    },
+    {
+      "offer_id": "488b13a9e6ca9589",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1336",
+      "error": null,
+      "at": "2026-10-07T00:41:28.821952"
+    },
+    {
+      "offer_id": "5e0417b5bb033edf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1337",
+      "error": null,
+      "at": "2026-10-07T00:41:41.041124"
     }
   ]
 }
