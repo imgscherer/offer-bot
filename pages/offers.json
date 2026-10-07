@@ -1,5 +1,29 @@
 [
   {
+    "id": "819bc4cca83a1037",
+    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XXG 140 unidades aberta com tecnologia Xtra-Flex canais em X",
+    "price_now": 159.88,
+    "price_was": 229.9,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/953556601517913408109773620231.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T03:01:02.156081"
+  },
+  {
+    "id": "218af62c4c8e8a04",
+    "title": "Kit Bolsa Maternidade Menino/Menina Personalizado - 02 Peças",
+    "price_now": 492.9,
+    "price_was": 896.18,
+    "discount_pct": 45,
+    "url": "https://s.shopee.com.br/6fhmnqwPau",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mr8tkgfuomx0b2",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T03:00:47.488523"
+  },
+  {
     "id": "f356a08c4b1ed674",
     "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
     "price_now": 49.48,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-06T22:10:40.681833"
-  },
-  {
-    "id": "3e28078fd0f71695",
-    "title": "Kit 5 Macacão Bebê Algodão Zíper Vira Pé (P M G Menino e Menina)",
-    "price_now": 78.0,
-    "price_was": 120.58,
-    "discount_pct": 35,
-    "url": "https://s.shopee.com.br/3g4FY8ffK7?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/529538740417913168156986032254.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T20:20:51.084892"
-  },
-  {
-    "id": "cd913704bca5c122",
-    "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 180ml",
-    "price_now": 8.74,
-    "price_was": 15.13,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B08JQNDGKS?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/671211147417913144103753904934.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T19:30:55.620691"
   }
 ]
