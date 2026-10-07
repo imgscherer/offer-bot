@@ -1,5 +1,29 @@
 [
   {
+    "id": "24a7431fdfe23760",
+    "title": "Fralda-Calça MamyPoko Dia&Noite M+ 68 Unidades",
+    "price_now": 75.39,
+    "price_was": 107.9,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0CHZCB5SK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/931140200117913736921586526082.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T12:01:15.996426"
+  },
+  {
+    "id": "de517bca21ddc720",
+    "title": "Fralda-Calça MamyPoko Cuidado Real M 68 Unidades",
+    "price_now": 85.4,
+    "price_was": 129.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B08DJSPFFX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/597018913417913736917535296613.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T12:01:02.888281"
+  },
+  {
     "id": "e3bd8f40692f2f64",
     "title": "Fralda Turma da Mônica Baby G com 44",
     "price_now": 31.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T10:10:55.867321"
-  },
-  {
-    "id": "819bc4cca83a1037",
-    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XXG 140 unidades aberta com tecnologia Xtra-Flex canais em X",
-    "price_now": 159.88,
-    "price_was": 229.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/953556601517913408109773620231.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T03:01:02.156081"
-  },
-  {
-    "id": "218af62c4c8e8a04",
-    "title": "Kit Bolsa Maternidade Menino/Menina Personalizado - 02 Peças",
-    "price_now": 492.9,
-    "price_was": 896.18,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/6fhmnqwPau",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mr8tkgfuomx0b2",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T03:00:47.488523"
   }
 ]
