@@ -5391,6 +5391,10 @@
     "cdbfd066e1a5be38": {
       "title": "Cremer Fralda Luxo Estampa Feminina Pc Com 5 Unidades",
       "posted_at": "2026-10-07T12:51:03.849093"
+    },
+    "3aab58712aa41921": {
+      "title": "Kit com 6 Cuecas Zorba Boxer Algodão Sem Costura Infantil 678 Branco",
+      "posted_at": "2026-10-07T13:10:46.213592"
     }
   },
   "results": [
@@ -26009,6 +26013,14 @@
       "post_id": "1355",
       "error": null,
       "at": "2026-10-07T12:51:03.848319"
+    },
+    {
+      "offer_id": "3aab58712aa41921",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1356",
+      "error": null,
+      "at": "2026-10-07T13:10:46.212984"
     }
   ]
 }
