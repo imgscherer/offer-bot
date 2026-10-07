@@ -1,5 +1,17 @@
 [
   {
+    "id": "1071193f60a3f516",
+    "title": "Fraldas Pampers Pants Ajuste Total XXG com 74 unidades",
+    "price_now": 75.0,
+    "price_was": 126.29,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0GW4633WC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/112541781517914014168760047907.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T19:40:59.040036"
+  },
+  {
     "id": "20951706953caff5",
     "title": "Fraldas Pampers Pants Ajuste Total XXG 74 unidades",
     "price_now": 75.3,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T18:10:46.500866"
-  },
-  {
-    "id": "27535794c98d6fa8",
-    "title": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
-    "price_now": 33.0,
-    "price_was": 53.4,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/231923527717913949302220202757.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T18:01:12.904553"
   }
 ]
