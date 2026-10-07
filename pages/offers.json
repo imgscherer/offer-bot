@@ -1,5 +1,17 @@
 [
   {
+    "id": "e3bd8f40692f2f64",
+    "title": "Fralda Turma da Mônica Baby G com 44",
+    "price_now": 31.0,
+    "price_was": 50.04,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/509384181217913732766149033204.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T11:50:54.078068"
+  },
+  {
     "id": "484fad7b1b647ede",
     "title": "Fralda Pom Pom Protek Proteção de Mãe Mega P com 54",
     "price_now": 34.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-07T03:00:47.488523"
-  },
-  {
-    "id": "f356a08c4b1ed674",
-    "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
-    "price_now": 49.48,
-    "price_was": 101.58,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/720615992317913400885618328601.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T02:40:48.074378"
   }
 ]
