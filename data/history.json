@@ -5347,6 +5347,10 @@
     "f6fd37e92d1b186b": {
       "title": "Huggies Fralda Premium Natural Care P 36 Unidades",
       "posted_at": "2026-10-07T10:40:58.972583"
+    },
+    "cc79857272393834": {
+      "title": "Fralda Huggies Supreme Care Roupinha M 80 unidades",
+      "posted_at": "2026-10-07T11:01:01.416372"
     }
   },
   "results": [
@@ -25853,6 +25857,14 @@
       "post_id": "1344",
       "error": null,
       "at": "2026-10-07T10:40:58.971576"
+    },
+    {
+      "offer_id": "cc79857272393834",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1345",
+      "error": null,
+      "at": "2026-10-07T11:01:01.415651"
     }
   ]
 }

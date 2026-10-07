@@ -1,5 +1,17 @@
 [
   {
+    "id": "cc79857272393834",
+    "title": "Fralda Huggies Supreme Care Roupinha M 80 unidades",
+    "price_now": 78.75,
+    "price_was": 131.78,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0BXM2Q9SQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/848331520317913700915179373128.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T11:01:01.416023"
+  },
+  {
     "id": "f6fd37e92d1b186b",
     "title": "Huggies Fralda Premium Natural Care P 36 Unidades",
     "price_now": 37.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T00:41:03.127260"
-  },
-  {
-    "id": "595347780aba78ce",
-    "title": "Bodies Bebê Simple Joys Carter's 24 Meses",
-    "price_now": 112.0,
-    "price_was": 163.34,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B01MREC7R4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/959657839317913061392881259429.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-06T22:50:49.162455"
   }
 ]
