@@ -1,5 +1,17 @@
 [
   {
+    "id": "7a8ec2aeb233e410",
+    "title": "Mili Fralda Ultra Seca Jumbinho M 1x22",
+    "price_now": 17.66,
+    "price_was": 33.22,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B07G9RQHY7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/322486097117913885109993667222.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-07T16:01:05.264143"
+  },
+  {
     "id": "294679423a1f272c",
     "title": "Huggies Fralda Premium Natural Care G - 66 Un",
     "price_now": 88.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T12:01:02.888281"
-  },
-  {
-    "id": "e3bd8f40692f2f64",
-    "title": "Fralda Turma da Mônica Baby G com 44",
-    "price_now": 31.0,
-    "price_was": 50.04,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/509384181217913732766149033204.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T11:50:54.078068"
   }
 ]

@@ -5423,6 +5423,10 @@
     "294679423a1f272c": {
       "title": "Huggies Fralda Premium Natural Care G - 66 Un",
       "posted_at": "2026-10-07T14:20:49.428946"
+    },
+    "7a8ec2aeb233e410": {
+      "title": "Mili Fralda Ultra Seca Jumbinho M 1x22",
+      "posted_at": "2026-10-07T16:01:05.264626"
     }
   },
   "results": [
@@ -26105,6 +26109,14 @@
       "post_id": "1363",
       "error": null,
       "at": "2026-10-07T14:20:49.428130"
+    },
+    {
+      "offer_id": "7a8ec2aeb233e410",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1364",
+      "error": null,
+      "at": "2026-10-07T16:01:05.263771"
     }
   ]
 }
