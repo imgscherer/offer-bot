@@ -5459,6 +5459,18 @@
     "27535794c98d6fa8": {
       "title": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
       "posted_at": "2026-10-07T18:01:12.904957"
+    },
+    "963b71f2512ca71f": {
+      "title": "Fralda Personal Baby Premium Protection XG Com 26 Unidades",
+      "posted_at": "2026-10-07T18:10:46.501274"
+    },
+    "5f0c35c37cd28ed8": {
+      "title": "Huggies Fralda Pants Proteção Acolchoada M - 216 fraldas",
+      "posted_at": "2026-10-07T18:11:01.753054"
+    },
+    "62cc02dcb4740451": {
+      "title": "Fralda Pampers Pants Premium Care XG 96 unidades",
+      "posted_at": "2026-10-07T18:11:14.924738"
     }
   },
   "results": [
@@ -26221,6 +26233,30 @@
       "post_id": "1372",
       "error": null,
       "at": "2026-10-07T18:01:12.904222"
+    },
+    {
+      "offer_id": "963b71f2512ca71f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1373",
+      "error": null,
+      "at": "2026-10-07T18:10:46.500542"
+    },
+    {
+      "offer_id": "5f0c35c37cd28ed8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1374",
+      "error": null,
+      "at": "2026-10-07T18:11:01.752309"
+    },
+    {
+      "offer_id": "62cc02dcb4740451",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1375",
+      "error": null,
+      "at": "2026-10-07T18:11:14.923888"
     }
   ]
 }
