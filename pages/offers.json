@@ -1,5 +1,17 @@
 [
   {
+    "id": "c0699e9278edb9e2",
+    "title": "Fralda Babysec Ultrasec P 42 unidades",
+    "price_now": 25.63,
+    "price_was": 52.65,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/125299941817914590128556734262.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T11:40:54.429844"
+  },
+  {
     "id": "a36c94e9378bee87",
     "title": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
     "price_now": 80.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T21:31:28.923176"
-  },
-  {
-    "id": "dbf4d2ec01d96a92",
-    "title": "Huggies Fralda Pants Proteção Acolchoada M - 216 fraldas",
-    "price_now": 159.0,
-    "price_was": 289.0,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/438791058217914083129559605982.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T21:31:14.285912"
   }
 ]
