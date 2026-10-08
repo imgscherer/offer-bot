@@ -5723,6 +5723,10 @@
     "b6abf11baac26427": {
       "title": "Personal Fralda Descartável Infantil Pants Baby Premium XXG, 30 Unidades",
       "posted_at": "2026-10-08T20:00:57.400779"
+    },
+    "b40a22be0ad0fcdd": {
+      "title": "Sapatênis Slipe Baby infantil (Tam. 18 ao 25, Diversas cores)",
+      "posted_at": "2026-10-08T20:50:52.181676"
     }
   },
   "results": [
@@ -27813,6 +27817,14 @@
       "post_id": "1440",
       "error": null,
       "at": "2026-10-08T20:00:57.399977"
+    },
+    {
+      "offer_id": "b40a22be0ad0fcdd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1441",
+      "error": null,
+      "at": "2026-10-08T20:50:52.180612"
     }
   ]
 }
