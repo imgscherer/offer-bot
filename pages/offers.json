@@ -1,5 +1,17 @@
 [
   {
+    "id": "9eb23a85c5f55290",
+    "title": "Fralda Pampers Premium Care P 40 unidades",
+    "price_now": 49.49,
+    "price_was": 71.67,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/808955261717914820504773143523.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T18:10:47.196460"
+  },
+  {
     "id": "61cf7b83e81baf58",
     "title": "Troninho Infantil Cinza Buba",
     "price_now": 34.62,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-08T16:01:31.739431"
-  },
-  {
-    "id": "3b3cc2d3a78948f8",
-    "title": "Maxi Baby Assento Redutor Infantil Dobrável CEscada Mcfrog (Azul)",
-    "price_now": 61.0,
-    "price_was": 179.9,
-    "discount_pct": 66,
-    "url": "https://www.amazon.com.br/dp/B0D96N45LL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/274798625817914746102354050157.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T16:01:20.553004"
   }
 ]

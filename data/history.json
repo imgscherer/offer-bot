@@ -5687,6 +5687,10 @@
     "61cf7b83e81baf58": {
       "title": "Troninho Infantil Cinza Buba",
       "posted_at": "2026-10-08T18:00:43.415041"
+    },
+    "9eb23a85c5f55290": {
+      "title": "Fralda Pampers Premium Care P 40 unidades",
+      "posted_at": "2026-10-08T18:10:47.196774"
     }
   },
   "results": [
@@ -27705,6 +27709,14 @@
       "post_id": "1431",
       "error": null,
       "at": "2026-10-08T18:00:43.414519"
+    },
+    {
+      "offer_id": "9eb23a85c5f55290",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1432",
+      "error": null,
+      "at": "2026-10-08T18:10:47.196095"
     }
   ]
 }
