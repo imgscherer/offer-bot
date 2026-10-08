@@ -5703,6 +5703,10 @@
     "459a5672ad8e4ea3": {
       "title": "Fralda Babysec Premium XG 24 unidades",
       "posted_at": "2026-10-08T18:31:07.308777"
+    },
+    "4909ea79b61a3219": {
+      "title": "Fralda Huggies Rápida Absorção P 46 Unidades",
+      "posted_at": "2026-10-08T18:50:41.156274"
     }
   },
   "results": [
@@ -27753,6 +27757,14 @@
       "post_id": "1435",
       "error": null,
       "at": "2026-10-08T18:31:07.307839"
+    },
+    {
+      "offer_id": "4909ea79b61a3219",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1436",
+      "error": null,
+      "at": "2026-10-08T18:50:41.155612"
     }
   ]
 }
