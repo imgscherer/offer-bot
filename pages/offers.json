@@ -1,5 +1,29 @@
 [
   {
+    "id": "a36c94e9378bee87",
+    "title": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
+    "price_now": 80.0,
+    "price_was": 131.78,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/516458823417914581694310028710.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T11:31:28.877591"
+  },
+  {
+    "id": "9ea2210bd6a2ff1a",
+    "title": "Fralda Babysec Ultrasec Galinha Pintadinha M",
+    "price_now": 29.0,
+    "price_was": 52.65,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B07C3JSRDX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/376257943717914584129159425059.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T11:31:14.395514"
+  },
+  {
     "id": "c8a4c26f58e72446",
     "title": "Huggies Fralda Supreme Care M 196 Un",
     "price_now": 147.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T21:31:14.285912"
-  },
-  {
-    "id": "c8691eb78d9d15ba",
-    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
-    "price_now": 28.48,
-    "price_was": 52.65,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/464706953517914083695017668952.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T21:31:02.480049"
-  },
-  {
-    "id": "11b354bdf4997aea",
-    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
-    "price_now": 135.0,
-    "price_was": 229.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/908888877017914077196311753339.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T21:21:36.347447"
   }
 ]

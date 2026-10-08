@@ -5583,6 +5583,14 @@
     "c8a4c26f58e72446": {
       "title": "Huggies Fralda Supreme Care M 196 Un",
       "posted_at": "2026-10-08T11:01:14.043631"
+    },
+    "9ea2210bd6a2ff1a": {
+      "title": "Fralda Babysec Ultrasec Galinha Pintadinha M",
+      "posted_at": "2026-10-08T11:31:14.395993"
+    },
+    "a36c94e9378bee87": {
+      "title": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
+      "posted_at": "2026-10-08T11:31:28.878056"
     }
   },
   "results": [
@@ -27225,6 +27233,38 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-08T11:20:54.107398"
+    },
+    {
+      "offer_id": "4e3692eb04de2d05",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-08T11:30:53.081819"
+    },
+    {
+      "offer_id": "226af84dda72e814",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-08T11:31:03.968837"
+    },
+    {
+      "offer_id": "9ea2210bd6a2ff1a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1406",
+      "error": null,
+      "at": "2026-10-08T11:31:14.395191"
+    },
+    {
+      "offer_id": "a36c94e9378bee87",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1407",
+      "error": null,
+      "at": "2026-10-08T11:31:28.877269"
     }
   ]
 }
