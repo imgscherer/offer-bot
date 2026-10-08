@@ -5595,6 +5595,10 @@
     "c0699e9278edb9e2": {
       "title": "Fralda Babysec Ultrasec P 42 unidades",
       "posted_at": "2026-10-08T11:40:54.430271"
+    },
+    "a13782bb6638ddd6": {
+      "title": "Fralda Pampers Pants Ajuste Total XXG 120 Unidades",
+      "posted_at": "2026-10-08T12:11:03.953385"
     }
   },
   "results": [
@@ -27301,6 +27305,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-08T12:00:46.800096"
+    },
+    {
+      "offer_id": "4e3692eb04de2d05",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-08T12:10:46.292547"
+    },
+    {
+      "offer_id": "a13782bb6638ddd6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1409",
+      "error": null,
+      "at": "2026-10-08T12:11:03.952609"
     }
   ]
 }

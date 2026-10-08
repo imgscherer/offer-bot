@@ -1,5 +1,17 @@
 [
   {
+    "id": "a13782bb6638ddd6",
+    "title": "Fralda Pampers Pants Ajuste Total XXG 120 Unidades",
+    "price_now": 157.49,
+    "price_was": 229.49,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/295834791917914604499010198709.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T12:11:03.952945"
+  },
+  {
     "id": "c0699e9278edb9e2",
     "title": "Fralda Babysec Ultrasec P 42 unidades",
     "price_now": 25.63,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T22:31:38.639291"
-  },
-  {
-    "id": "586faf80c2d30a66",
-    "title": "Fralda Huggies Máxima Proteção G 160 unidades",
-    "price_now": 135.0,
-    "price_was": 229.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/154426319317914077187085342169.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T21:31:28.923176"
   }
 ]
