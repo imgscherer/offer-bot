@@ -1,5 +1,29 @@
 [
   {
+    "id": "0147a7fbf846d43b",
+    "title": "Fralda Personal Baby Protect&Sec XXG 50 unidades",
+    "price_now": 44.4,
+    "price_was": 64.98,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0B7K83GYL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/302960298517914936905531575824.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T21:20:56.214297"
+  },
+  {
+    "id": "6f197dbf75fcde79",
+    "title": "Fórmula Infantil Aptanutri Premium 3 800g",
+    "price_now": 46.79,
+    "price_was": 68.99,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B07M73V8JD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/570644037117914936917878146856.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T21:20:45.110437"
+  },
+  {
     "id": "af1acf1ef4f3b798",
     "title": "Fralda Pampers Premium Care Tamanho P 40 Un",
     "price_now": 49.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-08T18:31:07.308243"
-  },
-  {
-    "id": "d2187077a67a749a",
-    "title": "Fralda Babysec Premium M 32 unidades",
-    "price_now": 22.79,
-    "price_was": 54.39,
-    "discount_pct": 58,
-    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/928368252917914839188130122959.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T18:30:52.968801"
-  },
-  {
-    "id": "ddc79348f7db9998",
-    "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
-    "price_now": 42.41,
-    "price_was": 62.9,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/984022012117914832487947443773.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T18:20:43.307273"
   }
 ]

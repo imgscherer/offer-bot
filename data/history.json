@@ -5739,6 +5739,14 @@
     "af1acf1ef4f3b798": {
       "title": "Fralda Pampers Premium Care Tamanho P 40 Un",
       "posted_at": "2026-10-08T21:10:59.073236"
+    },
+    "6f197dbf75fcde79": {
+      "title": "Fórmula Infantil Aptanutri Premium 3 800g",
+      "posted_at": "2026-10-08T21:20:45.110850"
+    },
+    "0147a7fbf846d43b": {
+      "title": "Fralda Personal Baby Protect&Sec XXG 50 unidades",
+      "posted_at": "2026-10-08T21:20:56.219421"
     }
   },
   "results": [
@@ -27861,6 +27869,22 @@
       "post_id": "1444",
       "error": null,
       "at": "2026-10-08T21:10:59.072542"
+    },
+    {
+      "offer_id": "6f197dbf75fcde79",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1445",
+      "error": null,
+      "at": "2026-10-08T21:20:45.110110"
+    },
+    {
+      "offer_id": "0147a7fbf846d43b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1446",
+      "error": null,
+      "at": "2026-10-08T21:20:56.214004"
     }
   ]
 }
