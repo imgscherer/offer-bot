@@ -1,5 +1,17 @@
 [
   {
+    "id": "f433548cb2337d4f",
+    "title": "Fralda Pampers Supersequinha G 80 unidades",
+    "price_now": 76.91,
+    "price_was": 109.78,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/653240472117914970526247389790.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T22:20:52.568226"
+  },
+  {
     "id": "0147a7fbf846d43b",
     "title": "Fralda Personal Baby Protect&Sec XXG 50 unidades",
     "price_now": 44.4,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-08T18:50:41.155967"
-  },
-  {
-    "id": "459a5672ad8e4ea3",
-    "title": "Fralda Babysec Premium XG 24 unidades",
-    "price_now": 22.79,
-    "price_was": 40.13,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B07XL8XYNV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/319562580917914839171208293589.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T18:31:07.308243"
   }
 ]

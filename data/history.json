@@ -5747,6 +5747,10 @@
     "0147a7fbf846d43b": {
       "title": "Fralda Personal Baby Protect&Sec XXG 50 unidades",
       "posted_at": "2026-10-08T21:20:56.219421"
+    },
+    "f433548cb2337d4f": {
+      "title": "Fralda Pampers Supersequinha G 80 unidades",
+      "posted_at": "2026-10-08T22:20:52.568679"
     }
   },
   "results": [
@@ -27885,6 +27889,14 @@
       "post_id": "1446",
       "error": null,
       "at": "2026-10-08T21:20:56.214004"
+    },
+    {
+      "offer_id": "f433548cb2337d4f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1447",
+      "error": null,
+      "at": "2026-10-08T22:20:52.567899"
     }
   ]
 }
