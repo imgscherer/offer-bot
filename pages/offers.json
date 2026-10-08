@@ -1,5 +1,53 @@
 [
   {
+    "id": "20e7e0991e306900",
+    "title": "Kit 4 Blusinhas Regata Canelada Infantil (Tam. P ao GG)",
+    "price_now": 39.99,
+    "price_was": 70.16,
+    "discount_pct": 43,
+    "url": "https://s.shopee.com.br/1LgNg7wKaP?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/165664492517914743206063551502.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T16:01:54.510786"
+  },
+  {
+    "id": "4aa5233366ac97c9",
+    "title": "Fralda Babysec Ultrasec P 42 unidades",
+    "price_now": 21.36,
+    "price_was": 52.65,
+    "discount_pct": 59,
+    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/159487183017914751496645976879.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T16:01:43.189065"
+  },
+  {
+    "id": "6c3d0327326cde2e",
+    "title": "Fralda Babysec Ultrasec M 68 unidades",
+    "price_now": 39.58,
+    "price_was": 101.58,
+    "discount_pct": 61,
+    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/473491229317914751505891097756.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T16:01:31.739431"
+  },
+  {
+    "id": "3b3cc2d3a78948f8",
+    "title": "Maxi Baby Assento Redutor Infantil Dobrável CEscada Mcfrog (Azul)",
+    "price_now": 61.0,
+    "price_was": 179.9,
+    "discount_pct": 66,
+    "url": "https://www.amazon.com.br/dp/B0D96N45LL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/274798625817914746102354050157.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T16:01:20.553004"
+  },
+  {
     "id": "b12ddfae5694d466",
     "title": "Fraldas Pampers Pants Ajuste Total XXG, 120 Unidades",
     "price_now": 157.0,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-08T14:50:52.387933"
-  },
-  {
-    "id": "962bfaeba24763b7",
-    "title": "Fralda Turma da Mônica Baby Mega G 44 Unidades",
-    "price_now": 31.0,
-    "price_was": 50.04,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/691914344217914700529235855156.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T14:50:43.296691"
-  },
-  {
-    "id": "ad8cd71a85426c5a",
-    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula 50 Unidades",
-    "price_now": 5.0,
-    "price_was": 9.42,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/130093409617914689695531921080.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T14:30:58.531171"
-  },
-  {
-    "id": "a13782bb6638ddd6",
-    "title": "Fralda Pampers Pants Ajuste Total XXG 120 Unidades",
-    "price_now": 157.49,
-    "price_was": 229.49,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/295834791917914604499010198709.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T12:11:03.952945"
-  },
-  {
-    "id": "c0699e9278edb9e2",
-    "title": "Fralda Babysec Ultrasec P 42 unidades",
-    "price_now": 25.63,
-    "price_was": 52.65,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/125299941817914590128556734262.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T11:40:54.429844"
   }
 ]

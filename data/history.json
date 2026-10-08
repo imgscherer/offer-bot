@@ -5639,6 +5639,22 @@
     "b12ddfae5694d466": {
       "title": "Fraldas Pampers Pants Ajuste Total XXG, 120 Unidades",
       "posted_at": "2026-10-08T15:50:53.208843"
+    },
+    "3b3cc2d3a78948f8": {
+      "title": "Maxi Baby Assento Redutor Infantil Dobrável CEscada Mcfrog (Azul)",
+      "posted_at": "2026-10-08T16:01:20.553406"
+    },
+    "6c3d0327326cde2e": {
+      "title": "Fralda Babysec Ultrasec M 68 unidades",
+      "posted_at": "2026-10-08T16:01:31.739874"
+    },
+    "4aa5233366ac97c9": {
+      "title": "Fralda Babysec Ultrasec P 42 unidades",
+      "posted_at": "2026-10-08T16:01:43.189455"
+    },
+    "20e7e0991e306900": {
+      "title": "Kit 4 Blusinhas Regata Canelada Infantil (Tam. P ao GG)",
+      "posted_at": "2026-10-08T16:01:54.511200"
     }
   },
   "results": [
@@ -27457,6 +27473,46 @@
       "post_id": "1419",
       "error": null,
       "at": "2026-10-08T15:50:53.208118"
+    },
+    {
+      "offer_id": "3b3cc2d3a78948f8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1420",
+      "error": null,
+      "at": "2026-10-08T16:01:20.552671"
+    },
+    {
+      "offer_id": "6c3d0327326cde2e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1421",
+      "error": null,
+      "at": "2026-10-08T16:01:31.739122"
+    },
+    {
+      "offer_id": "4aa5233366ac97c9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1422",
+      "error": null,
+      "at": "2026-10-08T16:01:43.188760"
+    },
+    {
+      "offer_id": "20e7e0991e306900",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1423",
+      "error": null,
+      "at": "2026-10-08T16:01:54.510463"
+    },
+    {
+      "offer_id": "606170ee94d9f6d2",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-08T16:02:09.091524"
     }
   ]
 }
