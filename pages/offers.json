@@ -1,5 +1,29 @@
 [
   {
+    "id": "a42dd8f3880e0f6e",
+    "title": "Personal Fralda Baby Premium Protection M, 62 Unidades",
+    "price_now": 42.0,
+    "price_was": 94.84,
+    "discount_pct": 56,
+    "url": "https://www.amazon.com.br/dp/B0C3FS2GXX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/312291258217914188098941760734.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T00:31:01.517410"
+  },
+  {
+    "id": "e15502f339a969cf",
+    "title": "Personal Fralda Baby Premium Protection Extra Grande, 50 unidades",
+    "price_now": 43.07,
+    "price_was": 99.68,
+    "discount_pct": 57,
+    "url": "https://www.amazon.com.br/dp/B09MZVK5W6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/684129228717914189361672146691.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T00:30:51.341471"
+  },
+  {
     "id": "bf922f86bd8208f3",
     "title": "MamyPoko Fralda-Calça Dia&Noite XXG 44 Unidades",
     "price_now": 64.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T21:20:57.069697"
-  },
-  {
-    "id": "bd02c5eeadfea0dd",
-    "title": "Creme Preventivo de Assaduras Para Bebês Bepantol Baby, 100g",
-    "price_now": 27.0,
-    "price_was": 59.99,
-    "discount_pct": 55,
-    "url": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/340667257117914077157695372589.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T21:20:45.605801"
-  },
-  {
-    "id": "1d0294f6f7b430b6",
-    "title": "Fralda Personal Baby Premium Pants XG 50 Unidades",
-    "price_now": 66.05,
-    "price_was": 116.89,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B0BGM5LZ5D?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/203556598817914061707524930317.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T21:01:07.874779"
   }
 ]

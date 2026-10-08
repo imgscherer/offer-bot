@@ -5563,6 +5563,14 @@
     "bf922f86bd8208f3": {
       "title": "MamyPoko Fralda-Calça Dia&Noite XXG 44 Unidades",
       "posted_at": "2026-10-08T00:00:55.739642"
+    },
+    "e15502f339a969cf": {
+      "title": "Personal Fralda Baby Premium Protection Extra Grande, 50 unidades",
+      "posted_at": "2026-10-08T00:30:51.341927"
+    },
+    "a42dd8f3880e0f6e": {
+      "title": "Personal Fralda Baby Premium Protection M, 62 Unidades",
+      "posted_at": "2026-10-08T00:31:01.517834"
     }
   },
   "results": [
@@ -26629,6 +26637,22 @@
       "post_id": "1400",
       "error": null,
       "at": "2026-10-08T00:00:55.739116"
+    },
+    {
+      "offer_id": "e15502f339a969cf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1401",
+      "error": null,
+      "at": "2026-10-08T00:30:51.341134"
+    },
+    {
+      "offer_id": "a42dd8f3880e0f6e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1402",
+      "error": null,
+      "at": "2026-10-08T00:31:01.517097"
     }
   ]
 }
