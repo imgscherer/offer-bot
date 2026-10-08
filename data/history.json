@@ -5635,6 +5635,10 @@
     "c30a6c7544509892": {
       "title": "Fralda Pampers Pants Ajuste Total XG 82 Unidades",
       "posted_at": "2026-10-08T15:40:55.735807"
+    },
+    "b12ddfae5694d466": {
+      "title": "Fraldas Pampers Pants Ajuste Total XXG, 120 Unidades",
+      "posted_at": "2026-10-08T15:50:53.208843"
     }
   },
   "results": [
@@ -27445,6 +27449,14 @@
       "post_id": "1418",
       "error": null,
       "at": "2026-10-08T15:40:55.679006"
+    },
+    {
+      "offer_id": "b12ddfae5694d466",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1419",
+      "error": null,
+      "at": "2026-10-08T15:50:53.208118"
     }
   ]
 }
