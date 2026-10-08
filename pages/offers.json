@@ -1,5 +1,29 @@
 [
   {
+    "id": "af1acf1ef4f3b798",
+    "title": "Fralda Pampers Premium Care Tamanho P 40 Un",
+    "price_now": 49.0,
+    "price_was": 71.67,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/812319877117914932152189634915.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T21:10:59.072812"
+  },
+  {
+    "id": "62fe9ff7371d6b18",
+    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+    "price_now": 131.0,
+    "price_was": 229.9,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/254556530217914932732962070794.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T21:10:45.775268"
+  },
+  {
     "id": "9efedda33571a5f4",
     "title": "Fralda Huggies Máxima Proteção M 196 unidades",
     "price_now": 131.83,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-08T18:20:43.307273"
-  },
-  {
-    "id": "9eb23a85c5f55290",
-    "title": "Fralda Pampers Premium Care P 40 unidades",
-    "price_now": 49.49,
-    "price_was": 71.67,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/808955261717914820504773143523.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T18:10:47.196460"
-  },
-  {
-    "id": "61cf7b83e81baf58",
-    "title": "Troninho Infantil Cinza Buba",
-    "price_now": 34.62,
-    "price_was": 82.9,
-    "discount_pct": 58,
-    "url": "https://www.amazon.com.br/dp/B087NNJ55R?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/163413719317914815676352664852.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T18:00:43.414801"
   }
 ]

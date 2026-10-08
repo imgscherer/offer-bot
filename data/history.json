@@ -5731,6 +5731,14 @@
     "9efedda33571a5f4": {
       "title": "Fralda Huggies Máxima Proteção M 196 unidades",
       "posted_at": "2026-10-08T21:00:57.951775"
+    },
+    "62fe9ff7371d6b18": {
+      "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+      "posted_at": "2026-10-08T21:10:45.775508"
+    },
+    "af1acf1ef4f3b798": {
+      "title": "Fralda Pampers Premium Care Tamanho P 40 Un",
+      "posted_at": "2026-10-08T21:10:59.073236"
     }
   },
   "results": [
@@ -27837,6 +27845,22 @@
       "post_id": "1442",
       "error": null,
       "at": "2026-10-08T21:00:57.951020"
+    },
+    {
+      "offer_id": "62fe9ff7371d6b18",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1443",
+      "error": null,
+      "at": "2026-10-08T21:10:45.775000"
+    },
+    {
+      "offer_id": "af1acf1ef4f3b798",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1444",
+      "error": null,
+      "at": "2026-10-08T21:10:59.072542"
     }
   ]
 }
