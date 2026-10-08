@@ -5727,6 +5727,10 @@
     "b40a22be0ad0fcdd": {
       "title": "Sapatênis Slipe Baby infantil (Tam. 18 ao 25, Diversas cores)",
       "posted_at": "2026-10-08T20:50:52.181676"
+    },
+    "9efedda33571a5f4": {
+      "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+      "posted_at": "2026-10-08T21:00:57.951775"
     }
   },
   "results": [
@@ -27825,6 +27829,14 @@
       "post_id": "1441",
       "error": null,
       "at": "2026-10-08T20:50:52.180612"
+    },
+    {
+      "offer_id": "9efedda33571a5f4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1442",
+      "error": null,
+      "at": "2026-10-08T21:00:57.951020"
     }
   ]
 }

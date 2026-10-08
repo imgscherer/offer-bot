@@ -1,5 +1,17 @@
 [
   {
+    "id": "9efedda33571a5f4",
+    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+    "price_now": 131.83,
+    "price_was": 229.9,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/873307631417914929768803092573.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T21:00:57.951323"
+  },
+  {
     "id": "b40a22be0ad0fcdd",
     "title": "Sapatênis Slipe Baby infantil (Tam. 18 ao 25, Diversas cores)",
     "price_now": 34.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-08T18:00:43.414801"
-  },
-  {
-    "id": "307e7e8f9f8ff4f5",
-    "title": "Fralda Turma Da Mônica Baby Mega M 50 Unidades",
-    "price_now": 28.17,
-    "price_was": 50.04,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/491488933717914811564513475274.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T17:50:39.864468"
   }
 ]
