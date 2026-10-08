@@ -5631,6 +5631,10 @@
     "0b7fa1f3156074ef": {
       "title": "Fralda Huggies Máxima Proteção M 196 unidades",
       "posted_at": "2026-10-08T15:31:51.093316"
+    },
+    "c30a6c7544509892": {
+      "title": "Fralda Pampers Pants Ajuste Total XG 82 Unidades",
+      "posted_at": "2026-10-08T15:40:55.735807"
     }
   },
   "results": [
@@ -27425,6 +27429,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-08T15:32:08.264017"
+    },
+    {
+      "offer_id": "97e90da88f475abe",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-08T15:40:42.553996"
+    },
+    {
+      "offer_id": "c30a6c7544509892",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1418",
+      "error": null,
+      "at": "2026-10-08T15:40:55.679006"
     }
   ]
 }
