@@ -1,5 +1,17 @@
 [
   {
+    "id": "61cf7b83e81baf58",
+    "title": "Troninho Infantil Cinza Buba",
+    "price_now": 34.62,
+    "price_was": 82.9,
+    "discount_pct": 58,
+    "url": "https://www.amazon.com.br/dp/B087NNJ55R?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/163413719317914815676352664852.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T18:00:43.414801"
+  },
+  {
     "id": "307e7e8f9f8ff4f5",
     "title": "Fralda Turma Da Mônica Baby Mega M 50 Unidades",
     "price_now": 28.17,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-08T16:01:20.553004"
-  },
-  {
-    "id": "b12ddfae5694d466",
-    "title": "Fraldas Pampers Pants Ajuste Total XXG, 120 Unidades",
-    "price_now": 157.0,
-    "price_was": 229.49,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/198434353417914737709918877499.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T15:50:53.208422"
   }
 ]
