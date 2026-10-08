@@ -5719,6 +5719,10 @@
     "2343bf9eecf71653": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe XG com 60",
       "posted_at": "2026-10-08T19:20:58.806323"
+    },
+    "b6abf11baac26427": {
+      "title": "Personal Fralda Descartável Infantil Pants Baby Premium XXG, 30 Unidades",
+      "posted_at": "2026-10-08T20:00:57.400779"
     }
   },
   "results": [
@@ -27801,6 +27805,14 @@
       "post_id": "1439",
       "error": null,
       "at": "2026-10-08T19:20:58.805333"
+    },
+    {
+      "offer_id": "b6abf11baac26427",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1440",
+      "error": null,
+      "at": "2026-10-08T20:00:57.399977"
     }
   ]
 }
