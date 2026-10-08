@@ -5667,6 +5667,10 @@
     "194e8ae8eb5ee8c0": {
       "title": "Personal Fralda Baby Premium Protection Grande 30Pads",
       "posted_at": "2026-10-08T16:21:10.294779"
+    },
+    "ddb8109c47834469": {
+      "title": "Personal Fralda Baby Premium Protection Xg Com 26 Unidades",
+      "posted_at": "2026-10-08T16:40:42.305331"
     }
   },
   "results": [
@@ -27557,6 +27561,14 @@
       "post_id": "1426",
       "error": null,
       "at": "2026-10-08T16:21:10.293997"
+    },
+    {
+      "offer_id": "ddb8109c47834469",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1427",
+      "error": null,
+      "at": "2026-10-08T16:40:42.304649"
     }
   ]
 }
