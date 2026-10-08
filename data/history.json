@@ -5707,6 +5707,10 @@
     "4909ea79b61a3219": {
       "title": "Fralda Huggies Rápida Absorção P 46 Unidades",
       "posted_at": "2026-10-08T18:50:41.156274"
+    },
+    "d49c9f8afcd9241f": {
+      "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
+      "posted_at": "2026-10-08T19:00:43.700216"
     }
   },
   "results": [
@@ -27765,6 +27769,14 @@
       "post_id": "1436",
       "error": null,
       "at": "2026-10-08T18:50:41.155612"
+    },
+    {
+      "offer_id": "d49c9f8afcd9241f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1437",
+      "error": null,
+      "at": "2026-10-08T19:00:43.699364"
     }
   ]
 }
