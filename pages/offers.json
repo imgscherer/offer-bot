@@ -1,5 +1,53 @@
 [
   {
+    "id": "0b7fa1f3156074ef",
+    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+    "price_now": 135.91,
+    "price_was": 229.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/920701016217914731118300193458.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T15:31:51.092924"
+  },
+  {
+    "id": "60f87c8b2114ffa6",
+    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+    "price_now": 135.91,
+    "price_was": 229.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/234506608617914731762830883023.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T15:31:28.210007"
+  },
+  {
+    "id": "0791b7fc28eb2af9",
+    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+    "price_now": 135.91,
+    "price_was": 229.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/408298731417914731779468901150.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T15:31:13.820317"
+  },
+  {
+    "id": "633e3fa58732cebd",
+    "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+    "price_now": 135.91,
+    "price_was": 246.01,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/716370152517914731781930663352.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T15:31:00.892232"
+  },
+  {
     "id": "a2981f1a4d4bb94c",
     "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
     "price_now": 43.0,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-08T11:31:14.395514"
-  },
-  {
-    "id": "c8a4c26f58e72446",
-    "title": "Huggies Fralda Supreme Care M 196 Un",
-    "price_now": 147.0,
-    "price_was": 229.9,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/477968942617914569942997994615.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T11:01:14.043159"
-  },
-  {
-    "id": "ea6b40d632692cb5",
-    "title": "Mochila Maternidade Luxo Menina/Menino Personalizado Sonho - 01 Peça",
-    "price_now": 289.9,
-    "price_was": 452.97,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/5VVvh57wD5",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbmp4xhkaj1eaa",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T01:30:48.429151"
-  },
-  {
-    "id": "454125b624d0c5a9",
-    "title": "Almofada de Amamentação Trocador Portátil Acolchoado Para Bebê Menino Menina",
-    "price_now": 39.9,
-    "price_was": 110.83,
-    "discount_pct": 64,
-    "url": "https://s.shopee.com.br/7VH04l0K9P",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc2jffotow5h27",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T01:30:40.373304"
-  },
-  {
-    "id": "a42dd8f3880e0f6e",
-    "title": "Personal Fralda Baby Premium Protection M, 62 Unidades",
-    "price_now": 42.0,
-    "price_was": 94.84,
-    "discount_pct": 56,
-    "url": "https://www.amazon.com.br/dp/B0C3FS2GXX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/312291258217914188098941760734.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T00:31:01.517410"
   }
 ]

@@ -5615,6 +5615,22 @@
     "a2981f1a4d4bb94c": {
       "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
       "posted_at": "2026-10-08T15:20:42.907671"
+    },
+    "633e3fa58732cebd": {
+      "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
+      "posted_at": "2026-10-08T15:31:00.892625"
+    },
+    "0791b7fc28eb2af9": {
+      "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+      "posted_at": "2026-10-08T15:31:13.820766"
+    },
+    "60f87c8b2114ffa6": {
+      "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
+      "posted_at": "2026-10-08T15:31:28.211446"
+    },
+    "0b7fa1f3156074ef": {
+      "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+      "posted_at": "2026-10-08T15:31:51.093316"
     }
   },
   "results": [
@@ -27369,6 +27385,46 @@
       "post_id": "1413",
       "error": null,
       "at": "2026-10-08T15:20:42.906825"
+    },
+    {
+      "offer_id": "633e3fa58732cebd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1414",
+      "error": null,
+      "at": "2026-10-08T15:31:00.891954"
+    },
+    {
+      "offer_id": "0791b7fc28eb2af9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1415",
+      "error": null,
+      "at": "2026-10-08T15:31:13.820066"
+    },
+    {
+      "offer_id": "60f87c8b2114ffa6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1416",
+      "error": null,
+      "at": "2026-10-08T15:31:28.209753"
+    },
+    {
+      "offer_id": "0b7fa1f3156074ef",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1417",
+      "error": null,
+      "at": "2026-10-08T15:31:51.092695"
+    },
+    {
+      "offer_id": "97e90da88f475abe",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-08T15:32:08.264017"
     }
   ]
 }
