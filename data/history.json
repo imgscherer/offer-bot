@@ -5711,6 +5711,14 @@
     "d49c9f8afcd9241f": {
       "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
       "posted_at": "2026-10-08T19:00:43.700216"
+    },
+    "188308d70b62e396": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe G com 68",
+      "posted_at": "2026-10-08T19:20:45.309445"
+    },
+    "2343bf9eecf71653": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe XG com 60",
+      "posted_at": "2026-10-08T19:20:58.806323"
     }
   },
   "results": [
@@ -27777,6 +27785,22 @@
       "post_id": "1437",
       "error": null,
       "at": "2026-10-08T19:00:43.699364"
+    },
+    {
+      "offer_id": "188308d70b62e396",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1438",
+      "error": null,
+      "at": "2026-10-08T19:20:45.308348"
+    },
+    {
+      "offer_id": "2343bf9eecf71653",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1439",
+      "error": null,
+      "at": "2026-10-08T19:20:58.805333"
     }
   ]
 }

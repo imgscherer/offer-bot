@@ -1,5 +1,29 @@
 [
   {
+    "id": "2343bf9eecf71653",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe XG com 60",
+    "price_now": 43.0,
+    "price_was": 77.37,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/194503998417914868579142843487.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T19:20:58.805603"
+  },
+  {
+    "id": "188308d70b62e396",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe G com 68",
+    "price_now": 43.0,
+    "price_was": 77.37,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/140041599217914868581646758740.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T19:20:45.308698"
+  },
+  {
     "id": "d49c9f8afcd9241f",
     "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
     "price_now": 11.99,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-08T16:50:43.389343"
-  },
-  {
-    "id": "ddb8109c47834469",
-    "title": "Personal Fralda Baby Premium Protection Xg Com 26 Unidades",
-    "price_now": 18.0,
-    "price_was": 46.38,
-    "discount_pct": 61,
-    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/545413318517914765307028386596.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T16:40:42.304985"
-  },
-  {
-    "id": "194e8ae8eb5ee8c0",
-    "title": "Personal Fralda Baby Premium Protection Grande 30Pads",
-    "price_now": 31.56,
-    "price_was": 48.75,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/565696076717914758736413798900.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T16:21:10.294304"
   }
 ]
