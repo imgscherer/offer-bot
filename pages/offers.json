@@ -1,5 +1,17 @@
 [
   {
+    "id": "c8a4c26f58e72446",
+    "title": "Huggies Fralda Supreme Care M 196 Un",
+    "price_now": 147.0,
+    "price_was": 229.9,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/477968942617914569942997994615.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T11:01:14.043159"
+  },
+  {
     "id": "ea6b40d632692cb5",
     "title": "Mochila Maternidade Luxo Menina/Menino Personalizado Sonho - 01 Peça",
     "price_now": 289.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T21:21:36.347447"
-  },
-  {
-    "id": "8091a3c3a30da430",
-    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
-    "price_now": 135.0,
-    "price_was": 229.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/505086155717914077239669056644.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T21:21:21.444021"
   }
 ]
