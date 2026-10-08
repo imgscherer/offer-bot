@@ -5571,6 +5571,14 @@
     "a42dd8f3880e0f6e": {
       "title": "Personal Fralda Baby Premium Protection M, 62 Unidades",
       "posted_at": "2026-10-08T00:31:01.517834"
+    },
+    "454125b624d0c5a9": {
+      "title": "Almofada de Amamentação Trocador Portátil Acolchoado Para Bebê Menino Menina",
+      "posted_at": "2026-10-08T01:30:40.373556"
+    },
+    "ea6b40d632692cb5": {
+      "title": "Mochila Maternidade Luxo Menina/Menino Personalizado Sonho - 01 Peça",
+      "posted_at": "2026-10-08T01:30:48.430478"
     }
   },
   "results": [
@@ -26685,6 +26693,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-08T01:20:43.240185"
+    },
+    {
+      "offer_id": "454125b624d0c5a9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1403",
+      "error": null,
+      "at": "2026-10-08T01:30:40.372981"
+    },
+    {
+      "offer_id": "226af84dda72e814",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-08T01:30:46.111179"
+    },
+    {
+      "offer_id": "ea6b40d632692cb5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1404",
+      "error": null,
+      "at": "2026-10-08T01:30:48.428495"
     }
   ]
 }

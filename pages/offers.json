@@ -1,5 +1,29 @@
 [
   {
+    "id": "ea6b40d632692cb5",
+    "title": "Mochila Maternidade Luxo Menina/Menino Personalizado Sonho - 01 Peça",
+    "price_now": 289.9,
+    "price_was": 452.97,
+    "discount_pct": 36,
+    "url": "https://s.shopee.com.br/5VVvh57wD5",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbmp4xhkaj1eaa",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T01:30:48.429151"
+  },
+  {
+    "id": "454125b624d0c5a9",
+    "title": "Almofada de Amamentação Trocador Portátil Acolchoado Para Bebê Menino Menina",
+    "price_now": 39.9,
+    "price_was": 110.83,
+    "discount_pct": 64,
+    "url": "https://s.shopee.com.br/7VH04l0K9P",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc2jffotow5h27",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T01:30:40.373304"
+  },
+  {
     "id": "a42dd8f3880e0f6e",
     "title": "Personal Fralda Baby Premium Protection M, 62 Unidades",
     "price_now": 42.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T21:21:21.444021"
-  },
-  {
-    "id": "51e9d4b933d24144",
-    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
-    "price_now": 135.0,
-    "price_was": 229.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/491487792317914077246523993605.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T21:21:07.613880"
-  },
-  {
-    "id": "39f582284bba9b2e",
-    "title": "Fralda Huggies Máxima Proteção XXXG 128 unidades",
-    "price_now": 135.0,
-    "price_was": 246.01,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/942528981917914077209978978524.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T21:20:57.069697"
   }
 ]
