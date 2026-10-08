@@ -1,5 +1,17 @@
 [
   {
+    "id": "307e7e8f9f8ff4f5",
+    "title": "Fralda Turma Da Mônica Baby Mega M 50 Unidades",
+    "price_now": 28.17,
+    "price_was": 50.04,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/491488933717914811564513475274.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T17:50:39.864468"
+  },
+  {
     "id": "f6d12e1d519eb827",
     "title": "Cosco Kids, Berço Co-bed Pluggy, 0 A 9kg, Cinza Claro",
     "price_now": 486.67,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-08T15:50:53.208422"
-  },
-  {
-    "id": "c30a6c7544509892",
-    "title": "Fralda Pampers Pants Ajuste Total XG 82 Unidades",
-    "price_now": 76.73,
-    "price_was": 109.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0GW3ZTXHF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/636024649217914731737800280032.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T15:40:55.679302"
   }
 ]

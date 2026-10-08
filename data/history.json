@@ -5679,6 +5679,10 @@
     "f6d12e1d519eb827": {
       "title": "Cosco Kids, Berço Co-bed Pluggy, 0 A 9kg, Cinza Claro",
       "posted_at": "2026-10-08T16:50:53.424248"
+    },
+    "307e7e8f9f8ff4f5": {
+      "title": "Fralda Turma Da Mônica Baby Mega M 50 Unidades",
+      "posted_at": "2026-10-08T17:50:39.864778"
     }
   },
   "results": [
@@ -27665,6 +27669,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-08T17:40:50.575555"
+    },
+    {
+      "offer_id": "307e7e8f9f8ff4f5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1430",
+      "error": null,
+      "at": "2026-10-08T17:50:39.864046"
+    },
+    {
+      "offer_id": "606170ee94d9f6d2",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-08T17:50:53.262503"
+    },
+    {
+      "offer_id": "9016ed8eab928dbc",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-08T17:50:59.831551"
     }
   ]
 }
