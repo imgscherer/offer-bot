@@ -5655,6 +5655,18 @@
     "20e7e0991e306900": {
       "title": "Kit 4 Blusinhas Regata Canelada Infantil (Tam. P ao GG)",
       "posted_at": "2026-10-08T16:01:54.511200"
+    },
+    "731d7e016df9ecdf": {
+      "title": "Kit 3 Pares Sandália Babuche Infantil Menino (Tam 21 ao 28)",
+      "posted_at": "2026-10-08T16:20:47.732354"
+    },
+    "9587b05fe2b8541a": {
+      "title": "Mamypoko Fralda-calça Superproteção M 34 Unidades",
+      "posted_at": "2026-10-08T16:20:56.651091"
+    },
+    "194e8ae8eb5ee8c0": {
+      "title": "Personal Fralda Baby Premium Protection Grande 30Pads",
+      "posted_at": "2026-10-08T16:21:10.294779"
     }
   },
   "results": [
@@ -27521,6 +27533,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-08T16:10:42.737073"
+    },
+    {
+      "offer_id": "731d7e016df9ecdf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1424",
+      "error": null,
+      "at": "2026-10-08T16:20:47.731675"
+    },
+    {
+      "offer_id": "9587b05fe2b8541a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1425",
+      "error": null,
+      "at": "2026-10-08T16:20:56.650349"
+    },
+    {
+      "offer_id": "194e8ae8eb5ee8c0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1426",
+      "error": null,
+      "at": "2026-10-08T16:21:10.293997"
     }
   ]
 }
