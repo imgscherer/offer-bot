@@ -1,5 +1,29 @@
 [
   {
+    "id": "442c63696daa10c5",
+    "title": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
+    "price_now": 31.0,
+    "price_was": 50.04,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/506987905317914700517187290359.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T14:50:52.387933"
+  },
+  {
+    "id": "962bfaeba24763b7",
+    "title": "Fralda Turma da Mônica Baby Mega G 44 Unidades",
+    "price_now": 31.0,
+    "price_was": 50.04,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/691914344217914700529235855156.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T14:50:43.296691"
+  },
+  {
     "id": "ad8cd71a85426c5a",
     "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula 50 Unidades",
     "price_now": 5.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-08T00:30:51.341471"
-  },
-  {
-    "id": "bf922f86bd8208f3",
-    "title": "MamyPoko Fralda-Calça Dia&Noite XXG 44 Unidades",
-    "price_now": 64.0,
-    "price_was": 107.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0CHZJPGZB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/201997106317914172556743194263.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T00:00:55.739405"
-  },
-  {
-    "id": "64a1f4aa498b1cf3",
-    "title": "Babysec Fralda Galinha Pintadinha Premium XXG 24 Unidades",
-    "price_now": 27.8,
-    "price_was": 40.13,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0B1GZP34W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/213955224217914150918246291833.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T23:20:56.643160"
   }
 ]

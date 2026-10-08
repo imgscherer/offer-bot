@@ -5603,6 +5603,14 @@
     "ad8cd71a85426c5a": {
       "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula 50 Unidades",
       "posted_at": "2026-10-08T14:30:58.531601"
+    },
+    "962bfaeba24763b7": {
+      "title": "Fralda Turma da Mônica Baby Mega G 44 Unidades",
+      "posted_at": "2026-10-08T14:50:43.297106"
+    },
+    "442c63696daa10c5": {
+      "title": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
+      "posted_at": "2026-10-08T14:50:52.392483"
     }
   },
   "results": [
@@ -27333,6 +27341,22 @@
       "post_id": "1410",
       "error": null,
       "at": "2026-10-08T14:30:58.530842"
+    },
+    {
+      "offer_id": "962bfaeba24763b7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1411",
+      "error": null,
+      "at": "2026-10-08T14:50:43.296388"
+    },
+    {
+      "offer_id": "442c63696daa10c5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1412",
+      "error": null,
+      "at": "2026-10-08T14:50:52.387687"
     }
   ]
 }
