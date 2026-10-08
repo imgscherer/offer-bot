@@ -1,5 +1,29 @@
 [
   {
+    "id": "f6d12e1d519eb827",
+    "title": "Cosco Kids, Berço Co-bed Pluggy, 0 A 9kg, Cinza Claro",
+    "price_now": 486.67,
+    "price_was": 829.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B08YMQBNRK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/741485761617914773746952215197.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T16:50:53.423843"
+  },
+  {
+    "id": "c27286e83ced65d1",
+    "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
+    "price_now": 15.19,
+    "price_was": 46.38,
+    "discount_pct": 67,
+    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/293438028717914777896895900661.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T16:50:43.389343"
+  },
+  {
     "id": "ddb8109c47834469",
     "title": "Personal Fralda Baby Premium Protection Xg Com 26 Unidades",
     "price_now": 18.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-08T15:40:55.679302"
-  },
-  {
-    "id": "0b7fa1f3156074ef",
-    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
-    "price_now": 135.91,
-    "price_was": 229.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/920701016217914731118300193458.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T15:31:51.092924"
-  },
-  {
-    "id": "60f87c8b2114ffa6",
-    "title": "Fralda Huggies Máxima Proteção XXG 140 unidades",
-    "price_now": 135.91,
-    "price_was": 229.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/234506608617914731762830883023.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T15:31:28.210007"
   }
 ]
