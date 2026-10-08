@@ -5599,6 +5599,10 @@
     "a13782bb6638ddd6": {
       "title": "Fralda Pampers Pants Ajuste Total XXG 120 Unidades",
       "posted_at": "2026-10-08T12:11:03.953385"
+    },
+    "ad8cd71a85426c5a": {
+      "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula 50 Unidades",
+      "posted_at": "2026-10-08T14:30:58.531601"
     }
   },
   "results": [
@@ -27321,6 +27325,14 @@
       "post_id": "1409",
       "error": null,
       "at": "2026-10-08T12:11:03.952609"
+    },
+    {
+      "offer_id": "ad8cd71a85426c5a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1410",
+      "error": null,
+      "at": "2026-10-08T14:30:58.530842"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "ad8cd71a85426c5a",
+    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula 50 Unidades",
+    "price_now": 5.0,
+    "price_was": 9.42,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/130093409617914689695531921080.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T14:30:58.531171"
+  },
+  {
     "id": "a13782bb6638ddd6",
     "title": "Fralda Pampers Pants Ajuste Total XXG 120 Unidades",
     "price_now": 157.49,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-07T23:20:56.643160"
-  },
-  {
-    "id": "0bd8750e87a9eb5d",
-    "title": "Fralda Descartável Huggies Proteção Máxima G 160un",
-    "price_now": 135.0,
-    "price_was": 229.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/664245303617914120297731414530.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-07T22:31:38.639291"
   }
 ]
