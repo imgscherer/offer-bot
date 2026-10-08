@@ -1,5 +1,29 @@
 [
   {
+    "id": "459a5672ad8e4ea3",
+    "title": "Fralda Babysec Premium XG 24 unidades",
+    "price_now": 22.79,
+    "price_was": 40.13,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B07XL8XYNV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/319562580917914839171208293589.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T18:31:07.308243"
+  },
+  {
+    "id": "d2187077a67a749a",
+    "title": "Fralda Babysec Premium M 32 unidades",
+    "price_now": 22.79,
+    "price_was": 54.39,
+    "discount_pct": 58,
+    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/928368252917914839188130122959.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-08T18:30:52.968801"
+  },
+  {
     "id": "ddc79348f7db9998",
     "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
     "price_now": 42.41,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-08T16:20:47.732043"
-  },
-  {
-    "id": "20e7e0991e306900",
-    "title": "Kit 4 Blusinhas Regata Canelada Infantil (Tam. P ao GG)",
-    "price_now": 39.99,
-    "price_was": 70.16,
-    "discount_pct": 43,
-    "url": "https://s.shopee.com.br/1LgNg7wKaP?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/165664492517914743206063551502.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T16:01:54.510786"
-  },
-  {
-    "id": "4aa5233366ac97c9",
-    "title": "Fralda Babysec Ultrasec P 42 unidades",
-    "price_now": 21.36,
-    "price_was": 52.65,
-    "discount_pct": 59,
-    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/159487183017914751496645976879.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T16:01:43.189065"
   }
 ]
