@@ -1,5 +1,53 @@
 [
   {
+    "id": "cbd6e4c6db685641",
+    "title": "Tênis Infantil Ortopasso Wave (Tam. 27 ao 36, 2 Cores)",
+    "price_now": 101.34,
+    "price_was": 144.59,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/4qGHSbglCV?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/447645752817915617313459345426.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T16:21:43.086326"
+  },
+  {
+    "id": "bd9f3ada2909635d",
+    "title": "Babysec Fralda Premium Hiper G 60 Un",
+    "price_now": 59.0,
+    "price_was": 85.2,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0CCDZ9XBJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/281884579917915620913276719671.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T16:21:27.978229"
+  },
+  {
+    "id": "6fc1f4339bcdb552",
+    "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
+    "price_now": 39.0,
+    "price_was": 62.9,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/218165181917915620891197052653.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T16:20:59.209630"
+  },
+  {
+    "id": "e0013ed15d47c26c",
+    "title": "Personal Fralda Protect E Sec M Hiper 70 Unidades",
+    "price_now": 39.0,
+    "price_was": 64.64,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/368776878517915620972422736290.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T16:20:48.315432"
+  },
+  {
     "id": "6faf7dd0149a4098",
     "title": "Fralda Babysec Galinha Pintadinha Premium XXG com 24",
     "price_now": 21.0,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-09T15:41:08.669868"
-  },
-  {
-    "id": "489f1ce39bb742a2",
-    "title": "Mamadeira Buba Easy Flow 330ml",
-    "price_now": 24.49,
-    "price_was": 36.9,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0DH7357F1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/571634465117915572271536075170.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T14:50:58.905354"
-  },
-  {
-    "id": "51cc14d196670daf",
-    "title": "Fralda Pampers Confort Sec G 92 Unidades",
-    "price_now": 87.01,
-    "price_was": 189.9,
-    "discount_pct": 54,
-    "url": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/274533856617915561483806455938.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T14:50:53.221063"
-  },
-  {
-    "id": "578450ec584eefbb",
-    "title": "Fralda Huggies Máxima Proteção G 160 unidades",
-    "price_now": 124.08,
-    "price_was": 229.9,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/441730995217915549332128425424.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T14:21:28.596352"
-  },
-  {
-    "id": "5555c1b541d886b4",
-    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
-    "price_now": 124.08,
-    "price_was": 229.9,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/121915379717915549603437256547.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T14:21:15.235907"
   }
 ]
