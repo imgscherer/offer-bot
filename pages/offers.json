@@ -1,5 +1,29 @@
 [
   {
+    "id": "489f1ce39bb742a2",
+    "title": "Mamadeira Buba Easy Flow 330ml",
+    "price_now": 24.49,
+    "price_was": 36.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0DH7357F1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/571634465117915572271536075170.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T14:50:58.905354"
+  },
+  {
+    "id": "51cc14d196670daf",
+    "title": "Fralda Pampers Confort Sec G 92 Unidades",
+    "price_now": 87.01,
+    "price_was": 189.9,
+    "discount_pct": 54,
+    "url": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/274533856617915561483806455938.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T14:50:53.221063"
+  },
+  {
     "id": "578450ec584eefbb",
     "title": "Fralda Huggies Máxima Proteção G 160 unidades",
     "price_now": 124.08,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-09T13:50:59.293267"
-  },
-  {
-    "id": "25683116c2fdbbd7",
-    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos",
-    "price_now": 135.89,
-    "price_was": 229.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/140430181817915518912487619527.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T13:31:46.448783"
-  },
-  {
-    "id": "8e337603408a9302",
-    "title": "Huggies Fralda Supreme Care M 196 Un",
-    "price_now": 124.0,
-    "price_was": 229.9,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/592672958517915521956704451203.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T13:31:33.564199"
   }
 ]

@@ -5859,6 +5859,14 @@
     "578450ec584eefbb": {
       "title": "Fralda Huggies Máxima Proteção G 160 unidades",
       "posted_at": "2026-10-09T14:21:28.596807"
+    },
+    "51cc14d196670daf": {
+      "title": "Fralda Pampers Confort Sec G 92 Unidades",
+      "posted_at": "2026-10-09T14:50:53.221502"
+    },
+    "489f1ce39bb742a2": {
+      "title": "Mamadeira Buba Easy Flow 330ml",
+      "posted_at": "2026-10-09T14:50:58.905787"
     }
   },
   "results": [
@@ -28405,6 +28413,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-09T14:40:45.187866"
+    },
+    {
+      "offer_id": "51cc14d196670daf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1475",
+      "error": null,
+      "at": "2026-10-09T14:50:53.220753"
+    },
+    {
+      "offer_id": "489f1ce39bb742a2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1476",
+      "error": null,
+      "at": "2026-10-09T14:50:58.905034"
     }
   ]
 }
