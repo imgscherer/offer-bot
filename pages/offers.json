@@ -1,5 +1,17 @@
 [
   {
+    "id": "0fd763df38b25382",
+    "title": "Fralda-Calça MamyPoko Premium Seca G 60 Unidades",
+    "price_now": 79.91,
+    "price_was": 129.9,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B08DJTXZ2B?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/862378863217915634092771539582.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T16:50:48.278612"
+  },
+  {
     "id": "cbd6e4c6db685641",
     "title": "Tênis Infantil Ortopasso Wave (Tam. 27 ao 36, 2 Cores)",
     "price_now": 101.34,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-09T15:41:28.101251"
-  },
-  {
-    "id": "0511fa4f0bb4511f",
-    "title": "Huggies Fralda Premium Natural Care G - 66 Un",
-    "price_now": 65.0,
-    "price_was": 125.24,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0FBC2GVT1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/522586816717915601076680852180.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T15:41:08.669868"
   }
 ]
