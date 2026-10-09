@@ -1,5 +1,29 @@
 [
   {
+    "id": "2d53a0c0fd88a494",
+    "title": "Fórmula Infantil Aptanutri Premium 3 800g",
+    "price_now": 44.19,
+    "price_was": 68.99,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B07M73V8JD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/314040710417915531653195671781.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T13:51:09.960698"
+  },
+  {
+    "id": "e3dd4596a2015cd6",
+    "title": "Fraldas Pampers Pants Ajuste Total XXG 74 unidades",
+    "price_now": 74.49,
+    "price_was": 126.29,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0GW4633WC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/719711688817915530916170935737.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T13:50:59.293267"
+  },
+  {
     "id": "25683116c2fdbbd7",
     "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos",
     "price_now": 135.89,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-09T11:30:59.444463"
-  },
-  {
-    "id": "30009dee897f71fc",
-    "title": "Fralda Cremer Magic Care P 36 unidades",
-    "price_now": 22.47,
-    "price_was": 32.79,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0D92N963G?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/872488546517915440891519827203.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T11:21:08.255031"
-  },
-  {
-    "id": "3e55a1ec1026e888",
-    "title": "Fralda Pom Pom Derma Protek P com 54",
-    "price_now": 32.0,
-    "price_was": 50.29,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B093GBK61Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/223099359817915446327732406481.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T11:20:46.704870"
   }
 ]

@@ -5819,6 +5819,14 @@
     "25683116c2fdbbd7": {
       "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos",
       "posted_at": "2026-10-09T13:31:46.449238"
+    },
+    "e3dd4596a2015cd6": {
+      "title": "Fraldas Pampers Pants Ajuste Total XXG 74 unidades",
+      "posted_at": "2026-10-09T13:50:59.293670"
+    },
+    "2d53a0c0fd88a494": {
+      "title": "Fórmula Infantil Aptanutri Premium 3 800g",
+      "posted_at": "2026-10-09T13:51:09.961136"
     }
   },
   "results": [
@@ -28245,6 +28253,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-09T13:40:40.136190"
+    },
+    {
+      "offer_id": "760c010a77a99f33",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-09T13:50:47.596273"
+    },
+    {
+      "offer_id": "e3dd4596a2015cd6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1465",
+      "error": null,
+      "at": "2026-10-09T13:50:59.292973"
+    },
+    {
+      "offer_id": "2d53a0c0fd88a494",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1466",
+      "error": null,
+      "at": "2026-10-09T13:51:09.960437"
     }
   ]
 }
