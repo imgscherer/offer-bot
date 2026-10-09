@@ -1,5 +1,41 @@
 [
   {
+    "id": "59e6aeba7cdcc3b7",
+    "title": "Fralda Pampers Supersequinha",
+    "price_now": 72.0,
+    "price_was": 109.78,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/176967893317915733239377918357.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T19:21:11.582123"
+  },
+  {
+    "id": "0a736bbbf18cfec7",
+    "title": "Fralda Personal Baby Premium Protection M com 34",
+    "price_now": 24.0,
+    "price_was": 46.38,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/354552221717915733161477584991.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T19:20:56.033918"
+  },
+  {
+    "id": "cda27a3e40f70b67",
+    "title": "Fralda Personal Baby Premium Protection G com 30",
+    "price_now": 24.0,
+    "price_was": 48.75,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/168370127617915733148358592758.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T19:20:47.627313"
+  },
+  {
     "id": "f7dae49527bfa161",
     "title": "Fralda Huggies Supreme Care Roupinha Xg - 64 Fraldas",
     "price_now": 68.44,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-09T15:51:37.002131"
-  },
-  {
-    "id": "9e1c56af562e5447",
-    "title": "Fralda Pampers Premium Care P 40 unidades",
-    "price_now": 46.74,
-    "price_was": 71.67,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/578929937317915607867057417124.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T15:50:58.088076"
-  },
-  {
-    "id": "de9433c22d9bd81d",
-    "title": "Huggies Fralda Pants Premium Natural Care XG com 56",
-    "price_now": 74.0,
-    "price_was": 118.35,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/596457623217915601151579473052.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T15:42:11.536832"
-  },
-  {
-    "id": "c31426d0de09e83d",
-    "title": "Huggies Fralda Pants Premium Natural Care G com 60",
-    "price_now": 74.0,
-    "price_was": 118.35,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/334012430717915601163933089184.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T15:41:55.072153"
   }
 ]

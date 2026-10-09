@@ -5923,6 +5923,18 @@
     "f7dae49527bfa161": {
       "title": "Fralda Huggies Supreme Care Roupinha Xg - 64 Fraldas",
       "posted_at": "2026-10-09T17:20:44.822560"
+    },
+    "cda27a3e40f70b67": {
+      "title": "Fralda Personal Baby Premium Protection G com 30",
+      "posted_at": "2026-10-09T19:20:47.627672"
+    },
+    "0a736bbbf18cfec7": {
+      "title": "Fralda Personal Baby Premium Protection M com 34",
+      "posted_at": "2026-10-09T19:20:56.034343"
+    },
+    "59e6aeba7cdcc3b7": {
+      "title": "Fralda Pampers Supersequinha",
+      "posted_at": "2026-10-09T19:21:11.582515"
     }
   },
   "results": [
@@ -28749,6 +28761,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-09T17:21:02.194204"
+    },
+    {
+      "offer_id": "cda27a3e40f70b67",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1491",
+      "error": null,
+      "at": "2026-10-09T19:20:47.627007"
+    },
+    {
+      "offer_id": "0a736bbbf18cfec7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1492",
+      "error": null,
+      "at": "2026-10-09T19:20:56.033582"
+    },
+    {
+      "offer_id": "59e6aeba7cdcc3b7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1493",
+      "error": null,
+      "at": "2026-10-09T19:21:11.581820"
     }
   ]
 }
