@@ -5767,6 +5767,10 @@
     "942e324a6e16af9c": {
       "title": "Carrinho Bate e Pula Super Divertido Colorido Presente que toda criança Ama",
       "posted_at": "2026-10-09T11:00:41.088668"
+    },
+    "c8f26bdaf7c9c024": {
+      "title": "Kit Berço Americano Personalizado Menino/Menina 100% algodão - 08 Peças",
+      "posted_at": "2026-10-09T11:10:31.526851"
     }
   },
   "results": [
@@ -27953,6 +27957,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-09T11:01:01.379491"
+    },
+    {
+      "offer_id": "c8f26bdaf7c9c024",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1452",
+      "error": null,
+      "at": "2026-10-09T11:10:31.526306"
+    },
+    {
+      "offer_id": "c416f99e8473ed73",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-09T11:10:39.083115"
     }
   ]
 }
