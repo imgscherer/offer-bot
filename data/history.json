@@ -5839,6 +5839,26 @@
     "403f56435d17553d": {
       "title": "Fralda Pampers Premium Care Pants M 78 Unidades",
       "posted_at": "2026-10-09T14:11:16.608645"
+    },
+    "2b56c2699bf699e0": {
+      "title": "Fralda Personal Baby Premium Protection G 30 unidades",
+      "posted_at": "2026-10-09T14:20:42.945687"
+    },
+    "796a7ab207d002d4": {
+      "title": "Fralda Personal Baby Premium Protection M 34 unidades",
+      "posted_at": "2026-10-09T14:20:53.010987"
+    },
+    "f3736c9c3783d519": {
+      "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
+      "posted_at": "2026-10-09T14:21:01.193929"
+    },
+    "5555c1b541d886b4": {
+      "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+      "posted_at": "2026-10-09T14:21:15.236328"
+    },
+    "578450ec584eefbb": {
+      "title": "Fralda Huggies Máxima Proteção G 160 unidades",
+      "posted_at": "2026-10-09T14:21:28.596807"
     }
   },
   "results": [
@@ -28329,6 +28349,46 @@
       "post_id": "1469",
       "error": null,
       "at": "2026-10-09T14:11:16.607878"
+    },
+    {
+      "offer_id": "2b56c2699bf699e0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1470",
+      "error": null,
+      "at": "2026-10-09T14:20:42.944819"
+    },
+    {
+      "offer_id": "796a7ab207d002d4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1471",
+      "error": null,
+      "at": "2026-10-09T14:20:53.010151"
+    },
+    {
+      "offer_id": "f3736c9c3783d519",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1472",
+      "error": null,
+      "at": "2026-10-09T14:21:01.193076"
+    },
+    {
+      "offer_id": "5555c1b541d886b4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1473",
+      "error": null,
+      "at": "2026-10-09T14:21:15.235593"
+    },
+    {
+      "offer_id": "578450ec584eefbb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1474",
+      "error": null,
+      "at": "2026-10-09T14:21:28.596043"
     }
   ]
 }
