@@ -1,5 +1,17 @@
 [
   {
+    "id": "3db41c12cd917dba",
+    "title": "Fralda Pom Pom Protek Proteção De Mãe Mega M 48 Unidades",
+    "price_now": 35.24,
+    "price_was": 50.29,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/653891552517915061708009426789.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T00:50:50.527114"
+  },
+  {
     "id": "0d290900649ce773",
     "title": "Kit Tênis Infantil Feminino Minnie Chinelo Com Mochila Relógio e Óculos (Tam.20 ao 34)",
     "price_now": 85.41,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-08T19:20:45.308698"
-  },
-  {
-    "id": "d49c9f8afcd9241f",
-    "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
-    "price_now": 11.99,
-    "price_was": 19.98,
-    "discount_pct": 40,
-    "url": "https://s.shopee.com.br/4B0YyDCsMI",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mpxyl5yh1csja8",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T19:00:43.699729"
   }
 ]

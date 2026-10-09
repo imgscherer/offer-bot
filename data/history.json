@@ -5755,6 +5755,10 @@
     "0d290900649ce773": {
       "title": "Kit Tênis Infantil Feminino Minnie Chinelo Com Mochila Relógio e Óculos (Tam.20 ao 34)",
       "posted_at": "2026-10-08T23:30:56.974608"
+    },
+    "3db41c12cd917dba": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe Mega M 48 Unidades",
+      "posted_at": "2026-10-09T00:50:50.527555"
     }
   },
   "results": [
@@ -27909,6 +27913,14 @@
       "post_id": "1448",
       "error": null,
       "at": "2026-10-08T23:30:56.973308"
+    },
+    {
+      "offer_id": "3db41c12cd917dba",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1449",
+      "error": null,
+      "at": "2026-10-09T00:50:50.526748"
     }
   ]
 }
