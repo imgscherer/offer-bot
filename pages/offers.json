@@ -1,5 +1,17 @@
 [
   {
+    "id": "942e324a6e16af9c",
+    "title": "Carrinho Bate e Pula Super Divertido Colorido Presente que toda criança Ama",
+    "price_now": 21.87,
+    "price_was": 57.55,
+    "discount_pct": 62,
+    "url": "https://s.shopee.com.br/8pmPtFDpzg",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk3qdc4yv01v67",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T11:00:41.088300"
+  },
+  {
     "id": "750deb03ab4ef7be",
     "title": "Cremer Fralda Luxo Branca 70 X 70 Cm Pc Com 5 Unidades (embalagem Pode Variar)",
     "price_now": 28.29,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-08T20:00:57.400341"
-  },
-  {
-    "id": "2343bf9eecf71653",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe XG com 60",
-    "price_now": 43.0,
-    "price_was": 77.37,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/194503998417914868579142843487.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T19:20:58.805603"
   }
 ]
