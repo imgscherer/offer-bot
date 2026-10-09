@@ -5963,6 +5963,10 @@
     "780783118695fb59": {
       "title": "Fralda Babysec Premium Hiper XG 56 Unidades",
       "posted_at": "2026-10-09T22:21:15.425361"
+    },
+    "997353915be547fc": {
+      "title": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha, 72 Unidades, Tamanho M 5 - 9, 5 Kg, Babysec, Azul, M",
+      "posted_at": "2026-10-09T22:50:43.180949"
     }
   },
   "results": [
@@ -28901,6 +28905,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-09T22:30:42.270996"
+    },
+    {
+      "offer_id": "997353915be547fc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1501",
+      "error": null,
+      "at": "2026-10-09T22:50:43.180274"
     }
   ]
 }

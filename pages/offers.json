@@ -1,5 +1,17 @@
 [
   {
+    "id": "997353915be547fc",
+    "title": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha, 72 Unidades, Tamanho M 5 - 9, 5 Kg, Babysec, Azul, M",
+    "price_now": 49.47,
+    "price_was": 101.58,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/497474220317915852578536417165.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T22:50:43.180640"
+  },
+  {
     "id": "780783118695fb59",
     "title": "Fralda Babysec Premium Hiper XG 56 Unidades",
     "price_now": 52.89,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-09T17:20:44.822298"
-  },
-  {
-    "id": "0fd763df38b25382",
-    "title": "Fralda-Calça MamyPoko Premium Seca G 60 Unidades",
-    "price_now": 79.91,
-    "price_was": 129.9,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B08DJTXZ2B?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/862378863217915634092771539582.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T16:50:48.278612"
   }
 ]
