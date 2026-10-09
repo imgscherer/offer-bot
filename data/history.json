@@ -28525,6 +28525,22 @@
       "post_id": "1482",
       "error": null,
       "at": "2026-10-09T15:51:37.001783"
+    },
+    {
+      "offer_id": "dbf2e089c7f79831",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-09T16:00:48.648521"
+    },
+    {
+      "offer_id": "68c16b0d972e0953",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-09T16:00:56.194928"
     }
   ]
 }
