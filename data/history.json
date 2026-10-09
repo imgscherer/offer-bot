@@ -5951,6 +5951,10 @@
     "346449f31033a51a": {
       "title": "Fralda Pampers Pants Ajuste Total XXG 120 Unidades",
       "posted_at": "2026-10-09T20:01:02.522894"
+    },
+    "f50827953ea09faa": {
+      "title": "Fralda Pampers Confort Sec Tamanho P 72 Unidades",
+      "posted_at": "2026-10-09T22:01:18.212096"
     }
   },
   "results": [
@@ -28833,6 +28837,22 @@
       "post_id": "1497",
       "error": null,
       "at": "2026-10-09T20:01:02.522186"
+    },
+    {
+      "offer_id": "aa3905d9205725c0",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-09T22:01:00.683462"
+    },
+    {
+      "offer_id": "f50827953ea09faa",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1498",
+      "error": null,
+      "at": "2026-10-09T22:01:18.211352"
     }
   ]
 }
