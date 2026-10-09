@@ -1,5 +1,17 @@
 [
   {
+    "id": "f7dae49527bfa161",
+    "title": "Fralda Huggies Supreme Care Roupinha Xg - 64 Fraldas",
+    "price_now": 68.44,
+    "price_was": 131.78,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/440911774517915658727448804526.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T17:20:44.822298"
+  },
+  {
     "id": "0fd763df38b25382",
     "title": "Fralda-Calça MamyPoko Premium Seca G 60 Unidades",
     "price_now": 79.91,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-09T15:41:55.072153"
-  },
-  {
-    "id": "0cad26c2e72930b0",
-    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
-    "price_now": 127.0,
-    "price_was": 229.9,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/270779282917915601172154871148.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T15:41:28.101251"
   }
 ]
