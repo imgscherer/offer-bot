@@ -5807,6 +5807,18 @@
     "85d2417324b80863": {
       "title": "Fralda Pants Huggies Proteção Acolchoada XG com 48",
       "posted_at": "2026-10-09T12:01:26.308650"
+    },
+    "c30b700f73838b98": {
+      "title": "Huggies Fralda Premium Natural Care M - 78 Un",
+      "posted_at": "2026-10-09T13:31:10.162993"
+    },
+    "8e337603408a9302": {
+      "title": "Huggies Fralda Supreme Care M 196 Un",
+      "posted_at": "2026-10-09T13:31:33.567460"
+    },
+    "25683116c2fdbbd7": {
+      "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos",
+      "posted_at": "2026-10-09T13:31:46.449238"
     }
   },
   "results": [
@@ -28193,6 +28205,38 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-09T13:20:46.362243"
+    },
+    {
+      "offer_id": "9223a0d5c5c571bd",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-09T13:30:56.051963"
+    },
+    {
+      "offer_id": "c30b700f73838b98",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1462",
+      "error": null,
+      "at": "2026-10-09T13:31:10.162232"
+    },
+    {
+      "offer_id": "8e337603408a9302",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1463",
+      "error": null,
+      "at": "2026-10-09T13:31:33.563934"
+    },
+    {
+      "offer_id": "25683116c2fdbbd7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1464",
+      "error": null,
+      "at": "2026-10-09T13:31:46.448504"
     }
   ]
 }
