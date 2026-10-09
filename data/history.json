@@ -5883,6 +5883,14 @@
     "de9433c22d9bd81d": {
       "title": "Huggies Fralda Pants Premium Natural Care XG com 56",
       "posted_at": "2026-10-09T15:42:11.537257"
+    },
+    "9e1c56af562e5447": {
+      "title": "Fralda Pampers Premium Care P 40 unidades",
+      "posted_at": "2026-10-09T15:50:58.088534"
+    },
+    "6028a858d3761b77": {
+      "title": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
+      "posted_at": "2026-10-09T15:51:37.002571"
     }
   },
   "results": [
@@ -28485,6 +28493,38 @@
       "post_id": "1480",
       "error": null,
       "at": "2026-10-09T15:42:11.536511"
+    },
+    {
+      "offer_id": "dbf2e089c7f79831",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-09T15:50:40.155781"
+    },
+    {
+      "offer_id": "9e1c56af562e5447",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1481",
+      "error": null,
+      "at": "2026-10-09T15:50:58.087703"
+    },
+    {
+      "offer_id": "68c16b0d972e0953",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-09T15:51:22.696293"
+    },
+    {
+      "offer_id": "6028a858d3761b77",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1482",
+      "error": null,
+      "at": "2026-10-09T15:51:37.001783"
     }
   ]
 }

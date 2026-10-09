@@ -1,5 +1,29 @@
 [
   {
+    "id": "6028a858d3761b77",
+    "title": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
+    "price_now": 76.92,
+    "price_was": 109.78,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/774710105617915608502542780341.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T15:51:37.002131"
+  },
+  {
+    "id": "9e1c56af562e5447",
+    "title": "Fralda Pampers Premium Care P 40 unidades",
+    "price_now": 46.74,
+    "price_was": 71.67,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/578929937317915607867057417124.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T15:50:58.088076"
+  },
+  {
     "id": "de9433c22d9bd81d",
     "title": "Huggies Fralda Pants Premium Natural Care XG com 56",
     "price_now": 74.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-09T14:20:53.010477"
-  },
-  {
-    "id": "2b56c2699bf699e0",
-    "title": "Fralda Personal Baby Premium Protection G 30 unidades",
-    "price_now": 22.71,
-    "price_was": 48.75,
-    "discount_pct": 53,
-    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/212644528917915549068698737933.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T14:20:42.945180"
-  },
-  {
-    "id": "403f56435d17553d",
-    "title": "Fralda Pampers Premium Care Pants M 78 Unidades",
-    "price_now": 97.0,
-    "price_was": 151.59,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B07X83FF8M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/231500986617915542054937004915.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T14:11:16.608173"
   }
 ]
