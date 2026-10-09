@@ -5955,6 +5955,14 @@
     "f50827953ea09faa": {
       "title": "Fralda Pampers Confort Sec Tamanho P 72 Unidades",
       "posted_at": "2026-10-09T22:01:18.212096"
+    },
+    "a3c98cb147b97e31": {
+      "title": "Huggies Fralda Supreme Care M 196 Un",
+      "posted_at": "2026-10-09T22:21:01.613306"
+    },
+    "780783118695fb59": {
+      "title": "Fralda Babysec Premium Hiper XG 56 Unidades",
+      "posted_at": "2026-10-09T22:21:15.425361"
     }
   },
   "results": [
@@ -28861,6 +28869,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-09T22:10:38.175141"
+    },
+    {
+      "offer_id": "aa3905d9205725c0",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-09T22:20:47.776052"
+    },
+    {
+      "offer_id": "a3c98cb147b97e31",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1499",
+      "error": null,
+      "at": "2026-10-09T22:21:01.612588"
+    },
+    {
+      "offer_id": "780783118695fb59",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1500",
+      "error": null,
+      "at": "2026-10-09T22:21:15.424531"
     }
   ]
 }

@@ -1,5 +1,29 @@
 [
   {
+    "id": "780783118695fb59",
+    "title": "Fralda Babysec Premium Hiper XG 56 Unidades",
+    "price_now": 52.89,
+    "price_was": 85.2,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0CCF1WTB1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/208067321117915842368419533131.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T22:21:15.424851"
+  },
+  {
+    "id": "a3c98cb147b97e31",
+    "title": "Huggies Fralda Supreme Care M 196 Un",
+    "price_now": 135.91,
+    "price_was": 229.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/206598661117915836313219596000.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T22:21:01.612897"
+  },
+  {
     "id": "f50827953ea09faa",
     "title": "Fralda Pampers Confort Sec Tamanho P 72 Unidades",
     "price_now": 76.49,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-09T16:50:48.278612"
-  },
-  {
-    "id": "cbd6e4c6db685641",
-    "title": "Tênis Infantil Ortopasso Wave (Tam. 27 ao 36, 2 Cores)",
-    "price_now": 101.34,
-    "price_was": 144.59,
-    "discount_pct": 30,
-    "url": "https://s.shopee.com.br/4qGHSbglCV?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/447645752817915617313459345426.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T16:21:43.086326"
-  },
-  {
-    "id": "bd9f3ada2909635d",
-    "title": "Babysec Fralda Premium Hiper G 60 Un",
-    "price_now": 59.0,
-    "price_was": 85.2,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0CCDZ9XBJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/281884579917915620913276719671.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T16:21:27.978229"
   }
 ]
