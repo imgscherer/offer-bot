@@ -1,5 +1,17 @@
 [
   {
+    "id": "b3bb8bf1f24d9e11",
+    "title": "Fralda Turma da Monica Baby Giga XXG 50 Unidades",
+    "price_now": 47.69,
+    "price_was": 69.67,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0GT2CBBBR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/553043363417915735649093247189.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T19:30:50.164295"
+  },
+  {
     "id": "59e6aeba7cdcc3b7",
     "title": "Fralda Pampers Supersequinha",
     "price_now": 72.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-09T16:10:47.543437"
-  },
-  {
-    "id": "6028a858d3761b77",
-    "title": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
-    "price_now": 76.92,
-    "price_was": 109.78,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/774710105617915608502542780341.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T15:51:37.002131"
   }
 ]

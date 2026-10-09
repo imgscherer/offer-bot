@@ -5935,6 +5935,10 @@
     "59e6aeba7cdcc3b7": {
       "title": "Fralda Pampers Supersequinha",
       "posted_at": "2026-10-09T19:21:11.582515"
+    },
+    "b3bb8bf1f24d9e11": {
+      "title": "Fralda Turma da Monica Baby Giga XXG 50 Unidades",
+      "posted_at": "2026-10-09T19:30:50.230847"
     }
   },
   "results": [
@@ -28785,6 +28789,14 @@
       "post_id": "1493",
       "error": null,
       "at": "2026-10-09T19:21:11.581820"
+    },
+    {
+      "offer_id": "b3bb8bf1f24d9e11",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1494",
+      "error": null,
+      "at": "2026-10-09T19:30:50.164021"
     }
   ]
 }
