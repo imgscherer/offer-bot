@@ -1,5 +1,17 @@
 [
   {
+    "id": "dab08683783befec",
+    "title": "Mamypoko Fralda-calça Superproteção Xxg 22 Unidades",
+    "price_now": 29.9,
+    "price_was": 46.9,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/956438489017915742901829514646.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T19:50:37.512348"
+  },
+  {
     "id": "b3bb8bf1f24d9e11",
     "title": "Fralda Turma da Monica Baby Giga XXG 50 Unidades",
     "price_now": 47.69,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-09T16:11:01.260258"
-  },
-  {
-    "id": "cb92bde8c13ca412",
-    "title": "Fralda Babysec Galinha Pintadinha Premium XG com 24",
-    "price_now": 21.0,
-    "price_was": 40.13,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B07XL8XYNV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/634318507317915612311705107277.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T16:10:47.543437"
   }
 ]

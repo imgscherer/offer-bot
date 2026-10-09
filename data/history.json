@@ -5939,6 +5939,10 @@
     "b3bb8bf1f24d9e11": {
       "title": "Fralda Turma da Monica Baby Giga XXG 50 Unidades",
       "posted_at": "2026-10-09T19:30:50.230847"
+    },
+    "dab08683783befec": {
+      "title": "Mamypoko Fralda-calça Superproteção Xxg 22 Unidades",
+      "posted_at": "2026-10-09T19:50:37.559879"
     }
   },
   "results": [
@@ -28797,6 +28801,14 @@
       "post_id": "1494",
       "error": null,
       "at": "2026-10-09T19:30:50.164021"
+    },
+    {
+      "offer_id": "dab08683783befec",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1495",
+      "error": null,
+      "at": "2026-10-09T19:50:37.512014"
     }
   ]
 }
