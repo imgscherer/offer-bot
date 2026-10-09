@@ -5967,6 +5967,10 @@
     "997353915be547fc": {
       "title": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha, 72 Unidades, Tamanho M 5 - 9, 5 Kg, Babysec, Azul, M",
       "posted_at": "2026-10-09T22:50:43.180949"
+    },
+    "69f6218d9c1afb5d": {
+      "title": "Fralda Huggies Supreme Care Roupinha Xg - 64 Fraldas",
+      "posted_at": "2026-10-09T23:00:53.317086"
     }
   },
   "results": [
@@ -28913,6 +28917,14 @@
       "post_id": "1501",
       "error": null,
       "at": "2026-10-09T22:50:43.180274"
+    },
+    {
+      "offer_id": "69f6218d9c1afb5d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1502",
+      "error": null,
+      "at": "2026-10-09T23:00:53.316268"
     }
   ]
 }
