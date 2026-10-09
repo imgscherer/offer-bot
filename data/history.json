@@ -5759,6 +5759,10 @@
     "3db41c12cd917dba": {
       "title": "Fralda Pom Pom Protek Proteção De Mãe Mega M 48 Unidades",
       "posted_at": "2026-10-09T00:50:50.527555"
+    },
+    "750deb03ab4ef7be": {
+      "title": "Cremer Fralda Luxo Branca 70 X 70 Cm Pc Com 5 Unidades (embalagem Pode Variar)",
+      "posted_at": "2026-10-09T01:50:47.829754"
     }
   },
   "results": [
@@ -27921,6 +27925,14 @@
       "post_id": "1449",
       "error": null,
       "at": "2026-10-09T00:50:50.526748"
+    },
+    {
+      "offer_id": "750deb03ab4ef7be",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1450",
+      "error": null,
+      "at": "2026-10-09T01:50:47.829329"
     }
   ]
 }
