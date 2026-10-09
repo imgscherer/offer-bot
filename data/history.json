@@ -5771,6 +5771,14 @@
     "c8f26bdaf7c9c024": {
       "title": "Kit Berço Americano Personalizado Menino/Menina 100% algodão - 08 Peças",
       "posted_at": "2026-10-09T11:10:31.526851"
+    },
+    "3e55a1ec1026e888": {
+      "title": "Fralda Pom Pom Derma Protek P com 54",
+      "posted_at": "2026-10-09T11:20:46.705180"
+    },
+    "30009dee897f71fc": {
+      "title": "Fralda Cremer Magic Care P 36 unidades",
+      "posted_at": "2026-10-09T11:21:08.255455"
     }
   },
   "results": [
@@ -27973,6 +27981,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-09T11:10:39.083115"
+    },
+    {
+      "offer_id": "3e55a1ec1026e888",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1453",
+      "error": null,
+      "at": "2026-10-09T11:20:46.704506"
+    },
+    {
+      "offer_id": "30009dee897f71fc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1454",
+      "error": null,
+      "at": "2026-10-09T11:21:08.254703"
+    },
+    {
+      "offer_id": "c416f99e8473ed73",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-09T11:21:16.281189"
     }
   ]
 }
