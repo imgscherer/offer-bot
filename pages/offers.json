@@ -1,5 +1,41 @@
 [
   {
+    "id": "403f56435d17553d",
+    "title": "Fralda Pampers Premium Care Pants M 78 Unidades",
+    "price_now": 97.0,
+    "price_was": 151.59,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B07X83FF8M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/231500986617915542054937004915.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T14:11:16.608173"
+  },
+  {
+    "id": "854c4d8e0047d990",
+    "title": "Mustela Hidratante e Calmante sem Fragrância Bebê Rosa 200ml",
+    "price_now": 63.0,
+    "price_was": 105.81,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B072MTS8VQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/366807554417915541828609067885.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T14:11:06.841318"
+  },
+  {
+    "id": "9f7b7a2c5ffcc4a5",
+    "title": "Fralda Pampers Pants Ajuste Total M 84 unidades",
+    "price_now": 69.63,
+    "price_was": 146.23,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B086DR4Q6Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/233887981917915537523234020548.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T14:10:58.992634"
+  },
+  {
     "id": "2d53a0c0fd88a494",
     "title": "Fórmula Infantil Aptanutri Premium 3 800g",
     "price_now": 44.19,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-09T11:51:52.800799"
-  },
-  {
-    "id": "51924a02fa4a6c31",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidade",
-    "price_now": 32.58,
-    "price_was": 50.29,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/178058620817915456504994591369.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T11:51:35.964561"
-  },
-  {
-    "id": "0df2f04964bed0f6",
-    "title": "Conjunto Infantil Camisa com Botões + Short (Tam. 1 a 4 anos, Diversas cores)",
-    "price_now": 39.99,
-    "price_was": 79.98,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/6AlelL1r5E?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/923979116317915462492428324663.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T11:51:02.092371"
-  },
-  {
-    "id": "1b02426f5b53f37c",
-    "title": "Fralda Pampers Pants Ajuste Total XXG 74 Unidades",
-    "price_now": 88.0,
-    "price_was": 126.29,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0GW4633WC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/312928081717915451087036477504.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T11:30:59.444463"
   }
 ]

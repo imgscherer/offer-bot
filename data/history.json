@@ -5827,6 +5827,18 @@
     "2d53a0c0fd88a494": {
       "title": "Fórmula Infantil Aptanutri Premium 3 800g",
       "posted_at": "2026-10-09T13:51:09.961136"
+    },
+    "9f7b7a2c5ffcc4a5": {
+      "title": "Fralda Pampers Pants Ajuste Total M 84 unidades",
+      "posted_at": "2026-10-09T14:10:58.993079"
+    },
+    "854c4d8e0047d990": {
+      "title": "Mustela Hidratante e Calmante sem Fragrância Bebê Rosa 200ml",
+      "posted_at": "2026-10-09T14:11:06.841737"
+    },
+    "403f56435d17553d": {
+      "title": "Fralda Pampers Premium Care Pants M 78 Unidades",
+      "posted_at": "2026-10-09T14:11:16.608645"
     }
   },
   "results": [
@@ -28285,6 +28297,38 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-09T14:00:50.047632"
+    },
+    {
+      "offer_id": "760c010a77a99f33",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-09T14:10:42.411279"
+    },
+    {
+      "offer_id": "9f7b7a2c5ffcc4a5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1467",
+      "error": null,
+      "at": "2026-10-09T14:10:58.992312"
+    },
+    {
+      "offer_id": "854c4d8e0047d990",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1468",
+      "error": null,
+      "at": "2026-10-09T14:11:06.841040"
+    },
+    {
+      "offer_id": "403f56435d17553d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1469",
+      "error": null,
+      "at": "2026-10-09T14:11:16.607878"
     }
   ]
 }
