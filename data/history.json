@@ -5943,6 +5943,14 @@
     "dab08683783befec": {
       "title": "Mamypoko Fralda-calça Superproteção Xxg 22 Unidades",
       "posted_at": "2026-10-09T19:50:37.559879"
+    },
+    "1336db84df7f7c17": {
+      "title": "Garrafa Infantil De Inox Sereia Com Bebedor Silicone 350 Ml Lillo",
+      "posted_at": "2026-10-09T20:00:49.015622"
+    },
+    "346449f31033a51a": {
+      "title": "Fralda Pampers Pants Ajuste Total XXG 120 Unidades",
+      "posted_at": "2026-10-09T20:01:02.522894"
     }
   },
   "results": [
@@ -28809,6 +28817,22 @@
       "post_id": "1495",
       "error": null,
       "at": "2026-10-09T19:50:37.512014"
+    },
+    {
+      "offer_id": "1336db84df7f7c17",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1496",
+      "error": null,
+      "at": "2026-10-09T20:00:49.015043"
+    },
+    {
+      "offer_id": "346449f31033a51a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1497",
+      "error": null,
+      "at": "2026-10-09T20:01:02.522186"
     }
   ]
 }
