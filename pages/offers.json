@@ -1,5 +1,29 @@
 [
   {
+    "id": "6faf7dd0149a4098",
+    "title": "Fralda Babysec Galinha Pintadinha Premium XXG com 24",
+    "price_now": 21.0,
+    "price_was": 40.13,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0B1GZP34W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/452138062917915612398778122010.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T16:11:01.260258"
+  },
+  {
+    "id": "cb92bde8c13ca412",
+    "title": "Fralda Babysec Galinha Pintadinha Premium XG com 24",
+    "price_now": 21.0,
+    "price_was": 40.13,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B07XL8XYNV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/634318507317915612311705107277.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T16:10:47.543437"
+  },
+  {
     "id": "6028a858d3761b77",
     "title": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
     "price_now": 76.92,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-09T14:21:15.235907"
-  },
-  {
-    "id": "f3736c9c3783d519",
-    "title": "Fralda Personal Baby Premium Protection RN ao P 40 unidades",
-    "price_now": 22.71,
-    "price_was": 46.38,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/440718243417915549415639356951.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T14:21:01.193421"
-  },
-  {
-    "id": "796a7ab207d002d4",
-    "title": "Fralda Personal Baby Premium Protection M 34 unidades",
-    "price_now": 22.71,
-    "price_was": 46.38,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/279795685717915549129524250617.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T14:20:53.010477"
   }
 ]
