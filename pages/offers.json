@@ -1,5 +1,17 @@
 [
   {
+    "id": "1b02426f5b53f37c",
+    "title": "Fralda Pampers Pants Ajuste Total XXG 74 Unidades",
+    "price_now": 88.0,
+    "price_was": 126.29,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0GW4633WC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/312928081717915451087036477504.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T11:30:59.444463"
+  },
+  {
     "id": "30009dee897f71fc",
     "title": "Fralda Cremer Magic Care P 36 unidades",
     "price_now": 22.47,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-08T21:10:59.072812"
-  },
-  {
-    "id": "62fe9ff7371d6b18",
-    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
-    "price_now": 131.0,
-    "price_was": 229.9,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/254556530217914932732962070794.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T21:10:45.775268"
   }
 ]
