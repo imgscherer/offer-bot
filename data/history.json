@@ -5867,6 +5867,22 @@
     "489f1ce39bb742a2": {
       "title": "Mamadeira Buba Easy Flow 330ml",
       "posted_at": "2026-10-09T14:50:58.905787"
+    },
+    "0511fa4f0bb4511f": {
+      "title": "Huggies Fralda Premium Natural Care G - 66 Un",
+      "posted_at": "2026-10-09T15:41:08.670295"
+    },
+    "0cad26c2e72930b0": {
+      "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+      "posted_at": "2026-10-09T15:41:28.101707"
+    },
+    "c31426d0de09e83d": {
+      "title": "Huggies Fralda Pants Premium Natural Care G com 60",
+      "posted_at": "2026-10-09T15:41:55.072575"
+    },
+    "de9433c22d9bd81d": {
+      "title": "Huggies Fralda Pants Premium Natural Care XG com 56",
+      "posted_at": "2026-10-09T15:42:11.537257"
     }
   },
   "results": [
@@ -28429,6 +28445,46 @@
       "post_id": "1476",
       "error": null,
       "at": "2026-10-09T14:50:58.905034"
+    },
+    {
+      "offer_id": "dbf2e089c7f79831",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-09T15:40:56.642326"
+    },
+    {
+      "offer_id": "0511fa4f0bb4511f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1477",
+      "error": null,
+      "at": "2026-10-09T15:41:08.669506"
+    },
+    {
+      "offer_id": "0cad26c2e72930b0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1478",
+      "error": null,
+      "at": "2026-10-09T15:41:28.100940"
+    },
+    {
+      "offer_id": "c31426d0de09e83d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1479",
+      "error": null,
+      "at": "2026-10-09T15:41:55.071861"
+    },
+    {
+      "offer_id": "de9433c22d9bd81d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1480",
+      "error": null,
+      "at": "2026-10-09T15:42:11.536511"
     }
   ]
 }

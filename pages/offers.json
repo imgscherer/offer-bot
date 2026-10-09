@@ -1,5 +1,53 @@
 [
   {
+    "id": "de9433c22d9bd81d",
+    "title": "Huggies Fralda Pants Premium Natural Care XG com 56",
+    "price_now": 74.0,
+    "price_was": 118.35,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/596457623217915601151579473052.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T15:42:11.536832"
+  },
+  {
+    "id": "c31426d0de09e83d",
+    "title": "Huggies Fralda Pants Premium Natural Care G com 60",
+    "price_now": 74.0,
+    "price_was": 118.35,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/334012430717915601163933089184.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T15:41:55.072153"
+  },
+  {
+    "id": "0cad26c2e72930b0",
+    "title": "Fralda Huggies Máxima Proteção XG 140 unidades",
+    "price_now": 127.0,
+    "price_was": 229.9,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/270779282917915601172154871148.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T15:41:28.101251"
+  },
+  {
+    "id": "0511fa4f0bb4511f",
+    "title": "Huggies Fralda Premium Natural Care G - 66 Un",
+    "price_now": 65.0,
+    "price_was": 125.24,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0FBC2GVT1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/522586816717915601076680852180.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T15:41:08.669868"
+  },
+  {
     "id": "489f1ce39bb742a2",
     "title": "Mamadeira Buba Easy Flow 330ml",
     "price_now": 24.49,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-09T14:11:16.608173"
-  },
-  {
-    "id": "854c4d8e0047d990",
-    "title": "Mustela Hidratante e Calmante sem Fragrância Bebê Rosa 200ml",
-    "price_now": 63.0,
-    "price_was": 105.81,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B072MTS8VQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/366807554417915541828609067885.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T14:11:06.841318"
-  },
-  {
-    "id": "9f7b7a2c5ffcc4a5",
-    "title": "Fralda Pampers Pants Ajuste Total M 84 unidades",
-    "price_now": 69.63,
-    "price_was": 146.23,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B086DR4Q6Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/233887981917915537523234020548.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T14:10:58.992634"
-  },
-  {
-    "id": "2d53a0c0fd88a494",
-    "title": "Fórmula Infantil Aptanutri Premium 3 800g",
-    "price_now": 44.19,
-    "price_was": 68.99,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B07M73V8JD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/314040710417915531653195671781.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T13:51:09.960698"
-  },
-  {
-    "id": "e3dd4596a2015cd6",
-    "title": "Fraldas Pampers Pants Ajuste Total XXG 74 unidades",
-    "price_now": 74.49,
-    "price_was": 126.29,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0GW4633WC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/719711688817915530916170935737.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T13:50:59.293267"
   }
 ]
