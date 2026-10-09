@@ -5795,6 +5795,18 @@
     "0abbfc4de675fce8": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe XG 38 unidade",
       "posted_at": "2026-10-09T11:51:52.801229"
+    },
+    "3eb1a1f0582889d1": {
+      "title": "Fralda Pants Huggies Proteção Acolchoada M com 80",
+      "posted_at": "2026-10-09T12:00:56.601241"
+    },
+    "fb3dcb141b2aee59": {
+      "title": "Fralda Pants Huggies Proteção Acolchoada G com 70",
+      "posted_at": "2026-10-09T12:01:10.632143"
+    },
+    "85d2417324b80863": {
+      "title": "Fralda Pants Huggies Proteção Acolchoada XG com 48",
+      "posted_at": "2026-10-09T12:01:26.308650"
     }
   },
   "results": [
@@ -28085,6 +28097,46 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-09T11:52:01.889557"
+    },
+    {
+      "offer_id": "3eb1a1f0582889d1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1459",
+      "error": null,
+      "at": "2026-10-09T12:00:56.600550"
+    },
+    {
+      "offer_id": "fb3dcb141b2aee59",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1460",
+      "error": null,
+      "at": "2026-10-09T12:01:10.631450"
+    },
+    {
+      "offer_id": "85d2417324b80863",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1461",
+      "error": null,
+      "at": "2026-10-09T12:01:26.307911"
+    },
+    {
+      "offer_id": "8abccb2a9da9bcaf",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-09T12:01:33.543003"
+    },
+    {
+      "offer_id": "c416f99e8473ed73",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-09T12:01:40.276378"
     }
   ]
 }

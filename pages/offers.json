@@ -1,5 +1,41 @@
 [
   {
+    "id": "85d2417324b80863",
+    "title": "Fralda Pants Huggies Proteção Acolchoada XG com 48",
+    "price_now": 71.0,
+    "price_was": 113.25,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B07GR5YBSQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/122881177117915464915361072917.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T12:01:26.308185"
+  },
+  {
+    "id": "fb3dcb141b2aee59",
+    "title": "Fralda Pants Huggies Proteção Acolchoada G com 70",
+    "price_now": 71.0,
+    "price_was": 131.78,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B0BXM1CSC2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/577659762717915465005388336703.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T12:01:10.631718"
+  },
+  {
+    "id": "3eb1a1f0582889d1",
+    "title": "Fralda Pants Huggies Proteção Acolchoada M com 80",
+    "price_now": 71.0,
+    "price_was": 131.78,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B0BXM2Q9SQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/507780943217915465022749909699.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-09T12:00:56.600838"
+  },
+  {
     "id": "0abbfc4de675fce8",
     "title": "Fralda Pom Pom Protek Proteção de Mãe XG 38 unidade",
     "price_now": 32.58,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-09T01:50:47.829554"
-  },
-  {
-    "id": "3db41c12cd917dba",
-    "title": "Fralda Pom Pom Protek Proteção De Mãe Mega M 48 Unidades",
-    "price_now": 35.24,
-    "price_was": 50.29,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/653891552517915061708009426789.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T00:50:50.527114"
-  },
-  {
-    "id": "0d290900649ce773",
-    "title": "Kit Tênis Infantil Feminino Minnie Chinelo Com Mochila Relógio e Óculos (Tam.20 ao 34)",
-    "price_now": 85.41,
-    "price_was": 140.47,
-    "discount_pct": 39,
-    "url": "https://s.shopee.com.br/9KifiHEfNg?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/332883171917915017964737034472.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T23:30:56.973622"
-  },
-  {
-    "id": "f433548cb2337d4f",
-    "title": "Fralda Pampers Supersequinha G 80 unidades",
-    "price_now": 76.91,
-    "price_was": 109.78,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/653240472117914970526247389790.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-08T22:20:52.568226"
   }
 ]
