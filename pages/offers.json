@@ -1,5 +1,53 @@
 [
   {
+    "id": "47485779fcfe7eb6",
+    "title": "Fralda Turma da Mônica Baby XXG 36 unidades",
+    "price_now": 33.53,
+    "price_was": 50.04,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B099KPQQWF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/647821038017916294718211623946.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T11:01:33.525540"
+  },
+  {
+    "id": "8b4191bf5db5b990",
+    "title": "Fralda Turma da Mônica Baby M 50 unidades",
+    "price_now": 33.53,
+    "price_was": 50.04,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/901278662017916294753354734278.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T11:01:21.897481"
+  },
+  {
+    "id": "b8fff67f04adc71a",
+    "title": "Fralda Turma da Mônica Baby G 44 unidades",
+    "price_now": 33.53,
+    "price_was": 50.04,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/337650378117916294777597664068.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T11:01:10.925895"
+  },
+  {
+    "id": "bf54a9fd3038fe14",
+    "title": "Fralda Turma da Mônica Baby P 62 unidades",
+    "price_now": 33.53,
+    "price_was": 50.04,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/437710752117916294803665483169.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T11:00:46.840711"
+  },
+  {
     "id": "cef0782d850fb5c1",
     "title": "Fralda-Calça MamyPoko Superproteção XXG 22 unidades",
     "price_now": 28.4,
@@ -94,53 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-10T00:00:41.265723"
-  },
-  {
-    "id": "5c4aa5330915b2e3",
-    "title": "Gancho Para Carrinho De Bebê , Organizador Ajustável De Couro PU Bolsas De Fraldas , Viagem Essencial",
-    "price_now": 23.49,
-    "price_was": 55.93,
-    "discount_pct": 58,
-    "url": "https://s.shopee.com.br/5fpOyzi6JV",
-    "image": "https://cf.shopee.com.br/file/sg-11134301-7rdyq-lz8iyzmtcm4n95",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T00:00:39.999517"
-  },
-  {
-    "id": "69f6218d9c1afb5d",
-    "title": "Fralda Huggies Supreme Care Roupinha Xg - 64 Fraldas",
-    "price_now": 58.17,
-    "price_was": 131.78,
-    "discount_pct": 56,
-    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/197923812217915856683050682913.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T23:00:53.316649"
-  },
-  {
-    "id": "997353915be547fc",
-    "title": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha, 72 Unidades, Tamanho M 5 - 9, 5 Kg, Babysec, Azul, M",
-    "price_now": 49.47,
-    "price_was": 101.58,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/497474220317915852578536417165.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T22:50:43.180640"
-  },
-  {
-    "id": "780783118695fb59",
-    "title": "Fralda Babysec Premium Hiper XG 56 Unidades",
-    "price_now": 52.89,
-    "price_was": 85.2,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0CCF1WTB1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/208067321117915842368419533131.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T22:21:15.424851"
   }
 ]

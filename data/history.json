@@ -6007,6 +6007,22 @@
     "cef0782d850fb5c1": {
       "title": "Fralda-Calça MamyPoko Superproteção XXG 22 unidades",
       "posted_at": "2026-10-10T10:50:41.765153"
+    },
+    "bf54a9fd3038fe14": {
+      "title": "Fralda Turma da Mônica Baby P 62 unidades",
+      "posted_at": "2026-10-10T11:00:46.841135"
+    },
+    "b8fff67f04adc71a": {
+      "title": "Fralda Turma da Mônica Baby G 44 unidades",
+      "posted_at": "2026-10-10T11:01:10.926626"
+    },
+    "8b4191bf5db5b990": {
+      "title": "Fralda Turma da Mônica Baby M 50 unidades",
+      "posted_at": "2026-10-10T11:01:21.897908"
+    },
+    "47485779fcfe7eb6": {
+      "title": "Fralda Turma da Mônica Baby XXG 36 unidades",
+      "posted_at": "2026-10-10T11:01:33.525957"
     }
   },
   "results": [
@@ -29033,6 +29049,46 @@
       "post_id": "1511",
       "error": null,
       "at": "2026-10-10T10:50:41.764400"
+    },
+    {
+      "offer_id": "bf54a9fd3038fe14",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1512",
+      "error": null,
+      "at": "2026-10-10T11:00:46.840423"
+    },
+    {
+      "offer_id": "639cecf85ed8c224",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-10T11:00:59.684204"
+    },
+    {
+      "offer_id": "b8fff67f04adc71a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1513",
+      "error": null,
+      "at": "2026-10-10T11:01:10.925632"
+    },
+    {
+      "offer_id": "8b4191bf5db5b990",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1514",
+      "error": null,
+      "at": "2026-10-10T11:01:21.897250"
+    },
+    {
+      "offer_id": "47485779fcfe7eb6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1515",
+      "error": null,
+      "at": "2026-10-10T11:01:33.525277"
     }
   ]
 }
