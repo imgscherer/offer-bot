@@ -6083,6 +6083,10 @@
     "d6c2a2fd60d47fee": {
       "title": "Fralda Turma da Mônica Baby G 44 unidades",
       "posted_at": "2026-10-10T14:10:54.282782"
+    },
+    "cce44cf01c9b2b78": {
+      "title": "Fralda Babysec Ultrasec M 68 Unidades",
+      "posted_at": "2026-10-10T14:30:44.737888"
     }
   },
   "results": [
@@ -29349,6 +29353,14 @@
       "post_id": "1530",
       "error": null,
       "at": "2026-10-10T14:10:54.271245"
+    },
+    {
+      "offer_id": "cce44cf01c9b2b78",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1531",
+      "error": null,
+      "at": "2026-10-10T14:30:44.737126"
     }
   ]
 }
