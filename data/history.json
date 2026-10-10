@@ -5971,6 +5971,22 @@
     "69f6218d9c1afb5d": {
       "title": "Fralda Huggies Supreme Care Roupinha Xg - 64 Fraldas",
       "posted_at": "2026-10-09T23:00:53.317086"
+    },
+    "5c4aa5330915b2e3": {
+      "title": "Gancho Para Carrinho De Bebê , Organizador Ajustável De Couro PU Bolsas De Fraldas , Viagem Essencial",
+      "posted_at": "2026-10-10T00:00:39.999967"
+    },
+    "94c8aa41d50dbfc6": {
+      "title": "Kit Berço Americano Personalizado Menino/Menina 100% algodão - 08 Peças",
+      "posted_at": "2026-10-10T00:00:41.266133"
+    },
+    "65c5bd7a822d53cd": {
+      "title": "Pista de Resgate Bombeiro Brinquedo Veículos Ambulância Lança Garagem 3 Carrinhos Criança Achadinhos",
+      "posted_at": "2026-10-10T00:00:45.181546"
+    },
+    "f40d1b152b8d8327": {
+      "title": "Carrinho de boneca de bebê rosa infantil Para Passeio Meninas Brinquedo",
+      "posted_at": "2026-10-10T00:00:46.251864"
     }
   },
   "results": [
@@ -28925,6 +28941,38 @@
       "post_id": "1502",
       "error": null,
       "at": "2026-10-09T23:00:53.316268"
+    },
+    {
+      "offer_id": "5c4aa5330915b2e3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1503",
+      "error": null,
+      "at": "2026-10-10T00:00:39.999245"
+    },
+    {
+      "offer_id": "94c8aa41d50dbfc6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1504",
+      "error": null,
+      "at": "2026-10-10T00:00:41.265472"
+    },
+    {
+      "offer_id": "65c5bd7a822d53cd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1505",
+      "error": null,
+      "at": "2026-10-10T00:00:45.138876"
+    },
+    {
+      "offer_id": "f40d1b152b8d8327",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1506",
+      "error": null,
+      "at": "2026-10-10T00:00:46.196155"
     }
   ]
 }

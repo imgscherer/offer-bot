@@ -1,5 +1,53 @@
 [
   {
+    "id": "f40d1b152b8d8327",
+    "title": "Carrinho de boneca de bebê rosa infantil Para Passeio Meninas Brinquedo",
+    "price_now": 21.0,
+    "price_was": 30.0,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/5q8pBIhSyW",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxjx3ruhm0u76e",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T00:00:46.196441"
+  },
+  {
+    "id": "65c5bd7a822d53cd",
+    "title": "Pista de Resgate Bombeiro Brinquedo Veículos Ambulância Lança Garagem 3 Carrinhos Criança Achadinhos",
+    "price_now": 47.13,
+    "price_was": 70.34,
+    "discount_pct": 33,
+    "url": "https://s.shopee.com.br/3qNkncp51x",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-82626-mls6a8fkqfb859",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T00:00:45.139118"
+  },
+  {
+    "id": "94c8aa41d50dbfc6",
+    "title": "Kit Berço Americano Personalizado Menino/Menina 100% algodão - 08 Peças",
+    "price_now": 352.08,
+    "price_was": 596.75,
+    "discount_pct": 41,
+    "url": "https://s.shopee.com.br/9APH9QdMwh",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mpjgt8riosg2ec",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T00:00:41.265723"
+  },
+  {
+    "id": "5c4aa5330915b2e3",
+    "title": "Gancho Para Carrinho De Bebê , Organizador Ajustável De Couro PU Bolsas De Fraldas , Viagem Essencial",
+    "price_now": 23.49,
+    "price_was": 55.93,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/5fpOyzi6JV",
+    "image": "https://cf.shopee.com.br/file/sg-11134301-7rdyq-lz8iyzmtcm4n95",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T00:00:39.999517"
+  },
+  {
     "id": "69f6218d9c1afb5d",
     "title": "Fralda Huggies Supreme Care Roupinha Xg - 64 Fraldas",
     "price_now": 58.17,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-09T19:50:37.512348"
-  },
-  {
-    "id": "b3bb8bf1f24d9e11",
-    "title": "Fralda Turma da Monica Baby Giga XXG 50 Unidades",
-    "price_now": 47.69,
-    "price_was": 69.67,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0GT2CBBBR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/553043363417915735649093247189.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T19:30:50.164295"
-  },
-  {
-    "id": "59e6aeba7cdcc3b7",
-    "title": "Fralda Pampers Supersequinha",
-    "price_now": 72.0,
-    "price_was": 109.78,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/176967893317915733239377918357.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T19:21:11.582123"
-  },
-  {
-    "id": "0a736bbbf18cfec7",
-    "title": "Fralda Personal Baby Premium Protection M com 34",
-    "price_now": 24.0,
-    "price_was": 46.38,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/354552221717915733161477584991.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T19:20:56.033918"
-  },
-  {
-    "id": "cda27a3e40f70b67",
-    "title": "Fralda Personal Baby Premium Protection G com 30",
-    "price_now": 24.0,
-    "price_was": 48.75,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/168370127617915733148358592758.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T19:20:47.627313"
   }
 ]
