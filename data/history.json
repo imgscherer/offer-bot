@@ -6035,6 +6035,18 @@
     "c46436d97ae90752": {
       "title": "Fralda Pampers Confort Sec M 148 Unidades",
       "posted_at": "2026-10-10T12:41:00.126418"
+    },
+    "224d1b0acaf241e0": {
+      "title": "Fralda Babysec Ultrasec G 60 Unidades",
+      "posted_at": "2026-10-10T13:10:45.878948"
+    },
+    "574bf177b9ba0ee0": {
+      "title": "Fralda Babysec Ultrasec M 68 Unidades",
+      "posted_at": "2026-10-10T13:10:58.313102"
+    },
+    "a9788c88fe509435": {
+      "title": "Creme para Assadura Granado Bebê Dermocalmante 50g",
+      "posted_at": "2026-10-10T13:11:11.792323"
     }
   },
   "results": [
@@ -29189,6 +29201,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-10T12:41:05.804356"
+    },
+    {
+      "offer_id": "224d1b0acaf241e0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1519",
+      "error": null,
+      "at": "2026-10-10T13:10:45.878380"
+    },
+    {
+      "offer_id": "574bf177b9ba0ee0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1520",
+      "error": null,
+      "at": "2026-10-10T13:10:58.312345"
+    },
+    {
+      "offer_id": "a9788c88fe509435",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1521",
+      "error": null,
+      "at": "2026-10-10T13:11:11.791649"
     }
   ]
 }

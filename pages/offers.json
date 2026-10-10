@@ -1,5 +1,41 @@
 [
   {
+    "id": "a9788c88fe509435",
+    "title": "Creme para Assadura Granado Bebê Dermocalmante 50g",
+    "price_now": 22.39,
+    "price_was": 35.0,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B07NPYD9KF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/524624799917916370907243064033.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T13:11:11.791905"
+  },
+  {
+    "id": "574bf177b9ba0ee0",
+    "title": "Fralda Babysec Ultrasec M 68 Unidades",
+    "price_now": 44.53,
+    "price_was": 101.58,
+    "discount_pct": 56,
+    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/338166504217916370297932858134.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T13:10:58.312630"
+  },
+  {
+    "id": "224d1b0acaf241e0",
+    "title": "Fralda Babysec Ultrasec G 60 Unidades",
+    "price_now": 44.53,
+    "price_was": 101.58,
+    "discount_pct": 56,
+    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/318245281017916370326528862019.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T13:10:45.878696"
+  },
+  {
     "id": "c46436d97ae90752",
     "title": "Fralda Pampers Confort Sec M 148 Unidades",
     "price_now": 113.91,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T04:50:45.461752"
-  },
-  {
-    "id": "589bbf54deb504f3",
-    "title": "Personal Fralda Baby Premium Protection Grande 30 Unidades",
-    "price_now": 29.0,
-    "price_was": 48.75,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/359617024217916042109322385236.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T04:01:05.320726"
-  },
-  {
-    "id": "0e9daeed7db39aa8",
-    "title": "Kit Lenço Umedecido Infantil Huggies Rosto e Corpo 4 Pacotes com 48 Unidades",
-    "price_now": 18.0,
-    "price_was": 38.81,
-    "discount_pct": 54,
-    "url": "https://s.shopee.com.br/8V9abtnNSN?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/582935892617916041522762730613.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T04:00:51.621470"
-  },
-  {
-    "id": "8131398183659831",
-    "title": "Kit Lenço Umedecido para Limpeza Pampers Cuidado do Bebê 12 Pacotes",
-    "price_now": 62.0,
-    "price_was": 139.52,
-    "discount_pct": 56,
-    "url": "https://s.shopee.com.br/9zyOMf9pM1?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/743957824617916024116271063192.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T03:40:41.460997"
   }
 ]
