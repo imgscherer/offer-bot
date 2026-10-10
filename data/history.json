@@ -6107,6 +6107,10 @@
     "a2a3a7274860dbd6": {
       "title": "Fralda Turma da Mônica Baby Jumbo RN com 36 Unidades",
       "posted_at": "2026-10-10T16:10:44.244357"
+    },
+    "8839f73abf20df37": {
+      "title": "Fralda Turma da Mônica Baby Mega XXG 36 Unidades",
+      "posted_at": "2026-10-10T16:30:43.935845"
     }
   },
   "results": [
@@ -29421,6 +29425,14 @@
       "post_id": "1536",
       "error": null,
       "at": "2026-10-10T16:10:44.243846"
+    },
+    {
+      "offer_id": "8839f73abf20df37",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1537",
+      "error": null,
+      "at": "2026-10-10T16:30:43.935287"
     }
   ]
 }

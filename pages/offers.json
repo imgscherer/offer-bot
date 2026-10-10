@@ -1,5 +1,17 @@
 [
   {
+    "id": "8839f73abf20df37",
+    "title": "Fralda Turma da Mônica Baby Mega XXG 36 Unidades",
+    "price_now": 30.0,
+    "price_was": 50.04,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B099KPQQWF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/210442361717916491502094964922.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T16:30:43.935595"
+  },
+  {
     "id": "a2a3a7274860dbd6",
     "title": "Fralda Turma da Mônica Baby Jumbo RN com 36 Unidades",
     "price_now": 15.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T14:01:31.665362"
-  },
-  {
-    "id": "6c85b99f36373a6b",
-    "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
-    "price_now": 39.15,
-    "price_was": 69.42,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/512738053817916403195331220922.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T14:01:18.399317"
   }
 ]
