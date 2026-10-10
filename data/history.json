@@ -6003,6 +6003,10 @@
     "ada3fea517a5f403": {
       "title": "Fralda Pants Personal Baby Premium XXG 30 Unidades",
       "posted_at": "2026-10-10T04:50:45.462361"
+    },
+    "cef0782d850fb5c1": {
+      "title": "Fralda-Calça MamyPoko Superproteção XXG 22 unidades",
+      "posted_at": "2026-10-10T10:50:41.765153"
     }
   },
   "results": [
@@ -29021,6 +29025,14 @@
       "post_id": "1510",
       "error": null,
       "at": "2026-10-10T04:50:45.461435"
+    },
+    {
+      "offer_id": "cef0782d850fb5c1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1511",
+      "error": null,
+      "at": "2026-10-10T10:50:41.764400"
     }
   ]
 }
