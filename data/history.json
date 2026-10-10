@@ -6047,6 +6047,10 @@
     "a9788c88fe509435": {
       "title": "Creme para Assadura Granado Bebê Dermocalmante 50g",
       "posted_at": "2026-10-10T13:11:11.792323"
+    },
+    "9356ed3f50c0c950": {
+      "title": "Shampoo Mamãe e Bebê 200ml",
+      "posted_at": "2026-10-10T13:20:39.851155"
     }
   },
   "results": [
@@ -29225,6 +29229,14 @@
       "post_id": "1521",
       "error": null,
       "at": "2026-10-10T13:11:11.791649"
+    },
+    {
+      "offer_id": "9356ed3f50c0c950",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1522",
+      "error": null,
+      "at": "2026-10-10T13:20:39.827575"
     }
   ]
 }
