@@ -5987,6 +5987,10 @@
     "f40d1b152b8d8327": {
       "title": "Carrinho de boneca de bebê rosa infantil Para Passeio Meninas Brinquedo",
       "posted_at": "2026-10-10T00:00:46.251864"
+    },
+    "8131398183659831": {
+      "title": "Kit Lenço Umedecido para Limpeza Pampers Cuidado do Bebê 12 Pacotes",
+      "posted_at": "2026-10-10T03:40:41.461305"
     }
   },
   "results": [
@@ -28973,6 +28977,14 @@
       "post_id": "1506",
       "error": null,
       "at": "2026-10-10T00:00:46.196155"
+    },
+    {
+      "offer_id": "8131398183659831",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1507",
+      "error": null,
+      "at": "2026-10-10T03:40:41.460620"
     }
   ]
 }
