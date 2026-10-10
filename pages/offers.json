@@ -1,5 +1,17 @@
 [
   {
+    "id": "d27856a97595c344",
+    "title": "Fralda Descartável Pampers Premium Care Tamanho G 94 Unidades",
+    "price_now": 123.72,
+    "price_was": 189.43,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0DWYJMD7Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/785512755617916614497944657656.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T19:50:45.485310"
+  },
+  {
     "id": "7e01d763481f31a2",
     "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
     "price_now": 19.94,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T18:11:05.883155"
-  },
-  {
-    "id": "532b1e8bd328b3f5",
-    "title": "Babysec Fralda Premium M 32 Unidades",
-    "price_now": 28.0,
-    "price_was": 54.39,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/406665561117916540269538230073.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T18:00:52.305676"
   }
 ]

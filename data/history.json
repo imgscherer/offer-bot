@@ -6175,6 +6175,10 @@
     "7e01d763481f31a2": {
       "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
       "posted_at": "2026-10-10T19:40:53.773459"
+    },
+    "d27856a97595c344": {
+      "title": "Fralda Descartável Pampers Premium Care Tamanho G 94 Unidades",
+      "posted_at": "2026-10-10T19:50:45.485646"
     }
   },
   "results": [
@@ -29689,6 +29693,14 @@
       "post_id": "1553",
       "error": null,
       "at": "2026-10-10T19:40:53.772760"
+    },
+    {
+      "offer_id": "d27856a97595c344",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1554",
+      "error": null,
+      "at": "2026-10-10T19:50:45.484963"
     }
   ]
 }
