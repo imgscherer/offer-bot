@@ -6119,6 +6119,10 @@
     "bf49e311f62233fd": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
       "posted_at": "2026-10-10T17:20:53.672229"
+    },
+    "babc0239123609ba": {
+      "title": "Cosco Kids, Carrinho De Bebê, Toffy, Preto Absoluto",
+      "posted_at": "2026-10-10T17:40:41.959329"
     }
   },
   "results": [
@@ -29457,6 +29461,14 @@
       "post_id": "1539",
       "error": null,
       "at": "2026-10-10T17:20:53.671412"
+    },
+    {
+      "offer_id": "babc0239123609ba",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1540",
+      "error": null,
+      "at": "2026-10-10T17:40:41.958490"
     }
   ]
 }

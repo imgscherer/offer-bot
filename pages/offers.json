@@ -1,5 +1,17 @@
 [
   {
+    "id": "babc0239123609ba",
+    "title": "Cosco Kids, Carrinho De Bebê, Toffy, Preto Absoluto",
+    "price_now": 349.4,
+    "price_was": 599.0,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B09ZNX93JK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/798637771017916536891183904596.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T17:40:41.958809"
+  },
+  {
     "id": "bf49e311f62233fd",
     "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
     "price_now": 47.94,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T14:10:46.016424"
-  },
-  {
-    "id": "5b74e78056dece20",
-    "title": "Fralda Turma da Mônica Baby M 50 unidades",
-    "price_now": 30.0,
-    "price_was": 50.04,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/348900391917916403171583753779.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T14:01:55.274512"
   }
 ]
