@@ -6103,6 +6103,10 @@
     "44a8bbbbf74acf7e": {
       "title": "Fralda Babysec UltraSec XG 56 unidades",
       "posted_at": "2026-10-10T15:50:44.207434"
+    },
+    "a2a3a7274860dbd6": {
+      "title": "Fralda Turma da Mônica Baby Jumbo RN com 36 Unidades",
+      "posted_at": "2026-10-10T16:10:44.244357"
     }
   },
   "results": [
@@ -29409,6 +29413,14 @@
       "post_id": "1535",
       "error": null,
       "at": "2026-10-10T15:50:44.206639"
+    },
+    {
+      "offer_id": "a2a3a7274860dbd6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1536",
+      "error": null,
+      "at": "2026-10-10T16:10:44.243846"
     }
   ]
 }

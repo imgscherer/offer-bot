@@ -1,5 +1,17 @@
 [
   {
+    "id": "a2a3a7274860dbd6",
+    "title": "Fralda Turma da Mônica Baby Jumbo RN com 36 Unidades",
+    "price_now": 15.0,
+    "price_was": 40.61,
+    "discount_pct": 63,
+    "url": "https://s.shopee.com.br/8fT1bwCp6C?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/337521879917916476032334088339.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T16:10:44.244119"
+  },
+  {
     "id": "44a8bbbbf74acf7e",
     "title": "Fralda Babysec UltraSec XG 56 unidades",
     "price_now": 39.92,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T14:01:18.399317"
-  },
-  {
-    "id": "fd9f29c644f2bae7",
-    "title": "Fralda Pampers Supersec G 80 Unidades",
-    "price_now": 76.0,
-    "price_was": 109.78,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/820421633217916395498478398755.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T13:50:52.656094"
   }
 ]
