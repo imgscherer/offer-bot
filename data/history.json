@@ -6167,6 +6167,14 @@
     "efd7ddc230c2d739": {
       "title": "Huggies Fralda Premium Natural Care P 36 Unidades",
       "posted_at": "2026-10-10T19:01:29.092820"
+    },
+    "e031813cca943649": {
+      "title": "Mustela Hidratante e Calmante sem Fragrância Bebê Rosa 200ml",
+      "posted_at": "2026-10-10T19:40:45.736191"
+    },
+    "7e01d763481f31a2": {
+      "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
+      "posted_at": "2026-10-10T19:40:53.773459"
     }
   },
   "results": [
@@ -29657,6 +29665,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-10T19:30:51.653333"
+    },
+    {
+      "offer_id": "29118b6327cb76ba",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-10T19:40:38.793839"
+    },
+    {
+      "offer_id": "e031813cca943649",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1552",
+      "error": null,
+      "at": "2026-10-10T19:40:45.735639"
+    },
+    {
+      "offer_id": "7e01d763481f31a2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1553",
+      "error": null,
+      "at": "2026-10-10T19:40:53.772760"
     }
   ]
 }

@@ -1,5 +1,29 @@
 [
   {
+    "id": "7e01d763481f31a2",
+    "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
+    "price_now": 19.94,
+    "price_was": 28.68,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/255841034317916605616005632521.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T19:40:53.773024"
+  },
+  {
+    "id": "e031813cca943649",
+    "title": "Mustela Hidratante e Calmante sem Fragrância Bebê Rosa 200ml",
+    "price_now": 52.0,
+    "price_was": 105.81,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B072MTS8VQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/320533722417916608608812783958.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T19:40:45.735936"
+  },
+  {
     "id": "efd7ddc230c2d739",
     "title": "Huggies Fralda Premium Natural Care P 36 Unidades",
     "price_now": 31.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T18:00:52.305676"
-  },
-  {
-    "id": "3a0cfc635e7c840c",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega P 54 Unidades",
-    "price_now": 34.3,
-    "price_was": 50.29,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B093GBK61Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/947418894117916537857481449595.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T17:50:42.978192"
-  },
-  {
-    "id": "babc0239123609ba",
-    "title": "Cosco Kids, Carrinho De Bebê, Toffy, Preto Absoluto",
-    "price_now": 349.4,
-    "price_was": 599.0,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B09ZNX93JK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/798637771017916536891183904596.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T17:40:41.958809"
   }
 ]
