@@ -1,5 +1,29 @@
 [
   {
+    "id": "fd9f29c644f2bae7",
+    "title": "Fralda Pampers Supersec G 80 Unidades",
+    "price_now": 76.0,
+    "price_was": 109.78,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/820421633217916395498478398755.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T13:50:52.656094"
+  },
+  {
+    "id": "014b006a403c5209",
+    "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+    "price_now": 39.0,
+    "price_was": 101.58,
+    "discount_pct": 62,
+    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/631204779617916396152786388253.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T13:50:38.372201"
+  },
+  {
     "id": "9356ed3f50c0c950",
     "title": "Shampoo Mamãe e Bebê 200ml",
     "price_now": 23.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T11:01:10.925895"
-  },
-  {
-    "id": "bf54a9fd3038fe14",
-    "title": "Fralda Turma da Mônica Baby P 62 unidades",
-    "price_now": 33.53,
-    "price_was": 50.04,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/437710752117916294803665483169.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T11:00:46.840711"
-  },
-  {
-    "id": "cef0782d850fb5c1",
-    "title": "Fralda-Calça MamyPoko Superproteção XXG 22 unidades",
-    "price_now": 28.4,
-    "price_was": 46.9,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/331351836517916289897536578762.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T10:50:41.764687"
   }
 ]

@@ -6051,6 +6051,14 @@
     "9356ed3f50c0c950": {
       "title": "Shampoo Mamãe e Bebê 200ml",
       "posted_at": "2026-10-10T13:20:39.851155"
+    },
+    "014b006a403c5209": {
+      "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+      "posted_at": "2026-10-10T13:50:38.373029"
+    },
+    "fd9f29c644f2bae7": {
+      "title": "Fralda Pampers Supersec G 80 Unidades",
+      "posted_at": "2026-10-10T13:50:52.657073"
     }
   },
   "results": [
@@ -29237,6 +29245,22 @@
       "post_id": "1522",
       "error": null,
       "at": "2026-10-10T13:20:39.827575"
+    },
+    {
+      "offer_id": "014b006a403c5209",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1523",
+      "error": null,
+      "at": "2026-10-10T13:50:38.371889"
+    },
+    {
+      "offer_id": "fd9f29c644f2bae7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1524",
+      "error": null,
+      "at": "2026-10-10T13:50:52.655780"
     }
   ]
 }
