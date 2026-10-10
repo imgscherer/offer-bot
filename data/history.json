@@ -6183,6 +6183,10 @@
     "416bdf67305886e7": {
       "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
       "posted_at": "2026-10-10T20:20:42.742022"
+    },
+    "2aad3266319062e6": {
+      "title": "Fralda Turma da Monica Baby Giga XG 60 Unidades",
+      "posted_at": "2026-10-10T21:00:49.935247"
     }
   },
   "results": [
@@ -29713,6 +29717,14 @@
       "post_id": "1555",
       "error": null,
       "at": "2026-10-10T20:20:42.741385"
+    },
+    {
+      "offer_id": "2aad3266319062e6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1556",
+      "error": null,
+      "at": "2026-10-10T21:00:49.934541"
     }
   ]
 }

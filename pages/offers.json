@@ -1,5 +1,17 @@
 [
   {
+    "id": "2aad3266319062e6",
+    "title": "Fralda Turma da Monica Baby Giga XG 60 Unidades",
+    "price_now": 46.0,
+    "price_was": 69.67,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0GT26DW1Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/740377143317916655507730541397.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T21:00:49.934876"
+  },
+  {
     "id": "416bdf67305886e7",
     "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
     "price_now": 37.42,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T18:11:41.700098"
-  },
-  {
-    "id": "401db4bed0c9f738",
-    "title": "Fralda Pampers Confort Sec G 92 Unidades",
-    "price_now": 87.01,
-    "price_was": 189.9,
-    "discount_pct": 54,
-    "url": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/367381827817916546742864359004.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T18:11:28.465063"
   }
 ]
