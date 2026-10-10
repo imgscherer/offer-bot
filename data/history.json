@@ -6187,6 +6187,14 @@
     "2aad3266319062e6": {
       "title": "Fralda Turma da Monica Baby Giga XG 60 Unidades",
       "posted_at": "2026-10-10T21:00:49.935247"
+    },
+    "132d98b0d3e39685": {
+      "title": "Fralda Turma da Mônica Baby Mega XG 42 Unidades",
+      "posted_at": "2026-10-10T22:20:42.735754"
+    },
+    "e2df723afa0bc94c": {
+      "title": "Fralda Pants Huggies Supreme Care G 60 Unidades",
+      "posted_at": "2026-10-10T22:20:56.426778"
     }
   },
   "results": [
@@ -29725,6 +29733,22 @@
       "post_id": "1556",
       "error": null,
       "at": "2026-10-10T21:00:49.934541"
+    },
+    {
+      "offer_id": "132d98b0d3e39685",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1557",
+      "error": null,
+      "at": "2026-10-10T22:20:42.734874"
+    },
+    {
+      "offer_id": "e2df723afa0bc94c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1558",
+      "error": null,
+      "at": "2026-10-10T22:20:56.426083"
     }
   ]
 }
