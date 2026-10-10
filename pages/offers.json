@@ -1,5 +1,17 @@
 [
   {
+    "id": "416bdf67305886e7",
+    "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
+    "price_now": 37.42,
+    "price_was": 62.9,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/275788458117916623505673634081.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T20:20:42.741667"
+  },
+  {
     "id": "d27856a97595c344",
     "title": "Fralda Descartável Pampers Premium Care Tamanho G 94 Unidades",
     "price_now": 123.72,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T18:11:28.465063"
-  },
-  {
-    "id": "28f8ace465634924",
-    "title": "Tênis Infantil Masculino Aranha (Tam. 23 ao 36)",
-    "price_now": 59.97,
-    "price_was": 199.91,
-    "discount_pct": 70,
-    "url": "https://s.shopee.com.br/9KiiXFjUXi?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/813763470317916546716485037543.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T18:11:05.883155"
   }
 ]

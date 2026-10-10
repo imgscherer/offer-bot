@@ -6179,6 +6179,10 @@
     "d27856a97595c344": {
       "title": "Fralda Descartável Pampers Premium Care Tamanho G 94 Unidades",
       "posted_at": "2026-10-10T19:50:45.485646"
+    },
+    "416bdf67305886e7": {
+      "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
+      "posted_at": "2026-10-10T20:20:42.742022"
     }
   },
   "results": [
@@ -29701,6 +29705,14 @@
       "post_id": "1554",
       "error": null,
       "at": "2026-10-10T19:50:45.484963"
+    },
+    {
+      "offer_id": "416bdf67305886e7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1555",
+      "error": null,
+      "at": "2026-10-10T20:20:42.741385"
     }
   ]
 }
