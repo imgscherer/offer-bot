@@ -1,5 +1,17 @@
 [
   {
+    "id": "22fdc06a8a1a0de5",
+    "title": "Carrinho de Bebê Toffy Cosco",
+    "price_now": 349.4,
+    "price_was": 599.0,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B09ZNX93JK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/954484052717916430313150851373.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T14:50:37.082083"
+  },
+  {
     "id": "cce44cf01c9b2b78",
     "title": "Fralda Babysec Ultrasec M 68 Unidades",
     "price_now": 39.59,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T13:11:11.791905"
-  },
-  {
-    "id": "574bf177b9ba0ee0",
-    "title": "Fralda Babysec Ultrasec M 68 Unidades",
-    "price_now": 44.53,
-    "price_was": 101.58,
-    "discount_pct": 56,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/338166504217916370297932858134.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T13:10:58.312630"
   }
 ]

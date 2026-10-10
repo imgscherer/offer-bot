@@ -6087,6 +6087,10 @@
     "cce44cf01c9b2b78": {
       "title": "Fralda Babysec Ultrasec M 68 Unidades",
       "posted_at": "2026-10-10T14:30:44.737888"
+    },
+    "22fdc06a8a1a0de5": {
+      "title": "Carrinho de Bebê Toffy Cosco",
+      "posted_at": "2026-10-10T14:50:37.082363"
     }
   },
   "results": [
@@ -29361,6 +29365,14 @@
       "post_id": "1531",
       "error": null,
       "at": "2026-10-10T14:30:44.737126"
+    },
+    {
+      "offer_id": "22fdc06a8a1a0de5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1532",
+      "error": null,
+      "at": "2026-10-10T14:50:37.081803"
     }
   ]
 }
