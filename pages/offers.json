@@ -1,5 +1,53 @@
 [
   {
+    "id": "5b74e78056dece20",
+    "title": "Fralda Turma da Mônica Baby M 50 unidades",
+    "price_now": 30.0,
+    "price_was": 50.04,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/348900391917916403171583753779.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T14:01:55.274512"
+  },
+  {
+    "id": "9ac060e85111903a",
+    "title": "Fralda Turma da Mônica Baby P 62 unidades",
+    "price_now": 30.0,
+    "price_was": 50.04,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/425093121217916403381844985810.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T14:01:42.808549"
+  },
+  {
+    "id": "3da0a0fbae73ed3e",
+    "title": "Fralda Turma da Mônica Baby XXG 36 unidades",
+    "price_now": 30.0,
+    "price_was": 50.04,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B099KPQQWF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/425736611517916402926128895128.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T14:01:31.665362"
+  },
+  {
+    "id": "6c85b99f36373a6b",
+    "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
+    "price_now": 39.15,
+    "price_was": 69.42,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/512738053817916403195331220922.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T14:01:18.399317"
+  },
+  {
     "id": "fd9f29c644f2bae7",
     "title": "Fralda Pampers Supersec G 80 Unidades",
     "price_now": 76.0,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T12:10:47.457988"
-  },
-  {
-    "id": "0e54cd5e64ca37c9",
-    "title": "Fralda-Calça MamyPoko Superproteção XXG 22 unidades",
-    "price_now": 28.0,
-    "price_was": 46.9,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/259729408617916309132934675484.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T11:30:45.269919"
-  },
-  {
-    "id": "47485779fcfe7eb6",
-    "title": "Fralda Turma da Mônica Baby XXG 36 unidades",
-    "price_now": 33.53,
-    "price_was": 50.04,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B099KPQQWF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/647821038017916294718211623946.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T11:01:33.525540"
-  },
-  {
-    "id": "8b4191bf5db5b990",
-    "title": "Fralda Turma da Mônica Baby M 50 unidades",
-    "price_now": 33.53,
-    "price_was": 50.04,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/901278662017916294753354734278.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T11:01:21.897481"
-  },
-  {
-    "id": "b8fff67f04adc71a",
-    "title": "Fralda Turma da Mônica Baby G 44 unidades",
-    "price_now": 33.53,
-    "price_was": 50.04,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/337650378117916294777597664068.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T11:01:10.925895"
   }
 ]
