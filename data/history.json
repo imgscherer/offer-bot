@@ -6075,6 +6075,14 @@
     "5b74e78056dece20": {
       "title": "Fralda Turma da Mônica Baby M 50 unidades",
       "posted_at": "2026-10-10T14:01:55.274951"
+    },
+    "b541c74dd0968cf1": {
+      "title": "Fralda Turma da Mônica Baby XG 42 unidades",
+      "posted_at": "2026-10-10T14:10:46.016694"
+    },
+    "d6c2a2fd60d47fee": {
+      "title": "Fralda Turma da Mônica Baby G 44 unidades",
+      "posted_at": "2026-10-10T14:10:54.282782"
     }
   },
   "results": [
@@ -29317,6 +29325,30 @@
       "post_id": "1528",
       "error": null,
       "at": "2026-10-10T14:01:55.274213"
+    },
+    {
+      "offer_id": "a57623533af57b23",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-10T14:10:35.779126"
+    },
+    {
+      "offer_id": "b541c74dd0968cf1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1529",
+      "error": null,
+      "at": "2026-10-10T14:10:46.016138"
+    },
+    {
+      "offer_id": "d6c2a2fd60d47fee",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1530",
+      "error": null,
+      "at": "2026-10-10T14:10:54.271245"
     }
   ]
 }
