@@ -1,5 +1,17 @@
 [
   {
+    "id": "ada3fea517a5f403",
+    "title": "Fralda Pants Personal Baby Premium XXG 30 Unidades",
+    "price_now": 54.0,
+    "price_was": 80.03,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0BGMB1SFZ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/820170950617916071542800588858.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T04:50:45.461752"
+  },
+  {
     "id": "589bbf54deb504f3",
     "title": "Personal Fralda Baby Premium Protection Grande 30 Unidades",
     "price_now": 29.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-09T22:21:01.612897"
-  },
-  {
-    "id": "f50827953ea09faa",
-    "title": "Fralda Pampers Confort Sec Tamanho P 72 Unidades",
-    "price_now": 76.49,
-    "price_was": 118.1,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B095D5PSPG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/925801274517915824965686727800.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T22:01:18.211645"
   }
 ]

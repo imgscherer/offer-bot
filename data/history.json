@@ -5999,6 +5999,10 @@
     "589bbf54deb504f3": {
       "title": "Personal Fralda Baby Premium Protection Grande 30 Unidades",
       "posted_at": "2026-10-10T04:01:05.321156"
+    },
+    "ada3fea517a5f403": {
+      "title": "Fralda Pants Personal Baby Premium XXG 30 Unidades",
+      "posted_at": "2026-10-10T04:50:45.462361"
     }
   },
   "results": [
@@ -29009,6 +29013,14 @@
       "post_id": "1509",
       "error": null,
       "at": "2026-10-10T04:01:05.320352"
+    },
+    {
+      "offer_id": "ada3fea517a5f403",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1510",
+      "error": null,
+      "at": "2026-10-10T04:50:45.461435"
     }
   ]
 }
