@@ -6131,6 +6131,22 @@
     "532b1e8bd328b3f5": {
       "title": "Babysec Fralda Premium M 32 Unidades",
       "posted_at": "2026-10-10T18:00:52.306039"
+    },
+    "28f8ace465634924": {
+      "title": "Tênis Infantil Masculino Aranha (Tam. 23 ao 36)",
+      "posted_at": "2026-10-10T18:11:05.883633"
+    },
+    "401db4bed0c9f738": {
+      "title": "Fralda Pampers Confort Sec G 92 Unidades",
+      "posted_at": "2026-10-10T18:11:28.465486"
+    },
+    "ac38900e074ea093": {
+      "title": "Fraldas Pampers Pants Ajuste Total XXG 74 unidades",
+      "posted_at": "2026-10-10T18:11:41.700519"
+    },
+    "efe321cb72bd79fb": {
+      "title": "Fralda Cremer Jumbo M 26 Unidades",
+      "posted_at": "2026-10-10T18:11:52.502876"
     }
   },
   "results": [
@@ -29501,6 +29517,46 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-10T18:01:08.502652"
+    },
+    {
+      "offer_id": "28f8ace465634924",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1543",
+      "error": null,
+      "at": "2026-10-10T18:11:05.882809"
+    },
+    {
+      "offer_id": "401db4bed0c9f738",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1544",
+      "error": null,
+      "at": "2026-10-10T18:11:28.464764"
+    },
+    {
+      "offer_id": "ac38900e074ea093",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1545",
+      "error": null,
+      "at": "2026-10-10T18:11:41.699775"
+    },
+    {
+      "offer_id": "efe321cb72bd79fb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1546",
+      "error": null,
+      "at": "2026-10-10T18:11:52.502109"
+    },
+    {
+      "offer_id": "068d278d4ce899b1",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-10T18:11:57.921946"
     }
   ]
 }

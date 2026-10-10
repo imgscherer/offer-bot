@@ -1,5 +1,53 @@
 [
   {
+    "id": "efe321cb72bd79fb",
+    "title": "Fralda Cremer Jumbo M 26 Unidades",
+    "price_now": 18.89,
+    "price_was": 30.99,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B084GY1CGY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/488118735917916547994523944683.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T18:11:52.502422"
+  },
+  {
+    "id": "ac38900e074ea093",
+    "title": "Fraldas Pampers Pants Ajuste Total XXG 74 unidades",
+    "price_now": 74.49,
+    "price_was": 126.29,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0GW4633WC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/321750339617916546765030150764.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T18:11:41.700098"
+  },
+  {
+    "id": "401db4bed0c9f738",
+    "title": "Fralda Pampers Confort Sec G 92 Unidades",
+    "price_now": 87.01,
+    "price_was": 189.9,
+    "discount_pct": 54,
+    "url": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/367381827817916546742864359004.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T18:11:28.465063"
+  },
+  {
+    "id": "28f8ace465634924",
+    "title": "Tênis Infantil Masculino Aranha (Tam. 23 ao 36)",
+    "price_now": 59.97,
+    "price_was": 199.91,
+    "discount_pct": 70,
+    "url": "https://s.shopee.com.br/9KiiXFjUXi?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/813763470317916546716485037543.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T18:11:05.883155"
+  },
+  {
     "id": "532b1e8bd328b3f5",
     "title": "Babysec Fralda Premium M 32 Unidades",
     "price_now": 28.0,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T15:50:44.206999"
-  },
-  {
-    "id": "c0fd172a9c64cb98",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper XG 60 Unidades",
-    "price_now": 47.0,
-    "price_was": 77.37,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/556158238817916459093724958351.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T15:30:49.976908"
-  },
-  {
-    "id": "945d7cd16602dd86",
-    "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
-    "price_now": 25.19,
-    "price_was": 39.49,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/567094489317916449514540486075.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T15:20:39.361691"
-  },
-  {
-    "id": "22fdc06a8a1a0de5",
-    "title": "Carrinho de Bebê Toffy Cosco",
-    "price_now": 349.4,
-    "price_was": 599.0,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B09ZNX93JK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/954484052717916430313150851373.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T14:50:37.082083"
-  },
-  {
-    "id": "cce44cf01c9b2b78",
-    "title": "Fralda Babysec Ultrasec M 68 Unidades",
-    "price_now": 39.59,
-    "price_was": 101.58,
-    "discount_pct": 61,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/890467683817916417509119033834.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T14:30:44.737467"
   }
 ]
