@@ -1,5 +1,17 @@
 [
   {
+    "id": "08b5719da869ffbb",
+    "title": "Huggies Fralda Premium Natural Care M - 78 Un",
+    "price_now": 88.0,
+    "price_was": 125.24,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/625216581417916332288247173551.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T12:10:47.457988"
+  },
+  {
     "id": "0e54cd5e64ca37c9",
     "title": "Fralda-Calça MamyPoko Superproteção XXG 22 unidades",
     "price_now": 28.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-10T00:00:46.196441"
-  },
-  {
-    "id": "65c5bd7a822d53cd",
-    "title": "Pista de Resgate Bombeiro Brinquedo Veículos Ambulância Lança Garagem 3 Carrinhos Criança Achadinhos",
-    "price_now": 47.13,
-    "price_was": 70.34,
-    "discount_pct": 33,
-    "url": "https://s.shopee.com.br/3qNkncp51x",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82626-mls6a8fkqfb859",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T00:00:45.139118"
   }
 ]

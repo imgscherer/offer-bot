@@ -6027,6 +6027,10 @@
     "0e54cd5e64ca37c9": {
       "title": "Fralda-Calça MamyPoko Superproteção XXG 22 unidades",
       "posted_at": "2026-10-10T11:30:45.270622"
+    },
+    "08b5719da869ffbb": {
+      "title": "Huggies Fralda Premium Natural Care M - 78 Un",
+      "posted_at": "2026-10-10T12:10:47.458443"
     }
   },
   "results": [
@@ -29141,6 +29145,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-10T11:50:40.609079"
+    },
+    {
+      "offer_id": "08b5719da869ffbb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1517",
+      "error": null,
+      "at": "2026-10-10T12:10:47.457713"
     }
   ]
 }
