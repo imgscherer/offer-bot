@@ -6127,6 +6127,10 @@
     "3a0cfc635e7c840c": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Mega P 54 Unidades",
       "posted_at": "2026-10-10T17:50:42.978569"
+    },
+    "532b1e8bd328b3f5": {
+      "title": "Babysec Fralda Premium M 32 Unidades",
+      "posted_at": "2026-10-10T18:00:52.306039"
     }
   },
   "results": [
@@ -29481,6 +29485,22 @@
       "post_id": "1541",
       "error": null,
       "at": "2026-10-10T17:50:42.977850"
+    },
+    {
+      "offer_id": "532b1e8bd328b3f5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1542",
+      "error": null,
+      "at": "2026-10-10T18:00:52.305319"
+    },
+    {
+      "offer_id": "068d278d4ce899b1",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-10T18:01:08.502652"
     }
   ]
 }
