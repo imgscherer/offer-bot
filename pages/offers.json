@@ -1,5 +1,17 @@
 [
   {
+    "id": "945d7cd16602dd86",
+    "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
+    "price_now": 25.19,
+    "price_was": 39.49,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/567094489317916449514540486075.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T15:20:39.361691"
+  },
+  {
     "id": "22fdc06a8a1a0de5",
     "title": "Carrinho de Bebê Toffy Cosco",
     "price_now": 349.4,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T13:20:39.827874"
-  },
-  {
-    "id": "a9788c88fe509435",
-    "title": "Creme para Assadura Granado Bebê Dermocalmante 50g",
-    "price_now": 22.39,
-    "price_was": 35.0,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B07NPYD9KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/524624799917916370907243064033.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T13:11:11.791905"
   }
 ]
