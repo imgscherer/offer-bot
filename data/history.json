@@ -6095,6 +6095,10 @@
     "945d7cd16602dd86": {
       "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
       "posted_at": "2026-10-10T15:20:39.362110"
+    },
+    "c0fd172a9c64cb98": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper XG 60 Unidades",
+      "posted_at": "2026-10-10T15:30:49.977835"
     }
   },
   "results": [
@@ -29385,6 +29389,14 @@
       "post_id": "1533",
       "error": null,
       "at": "2026-10-10T15:20:39.361371"
+    },
+    {
+      "offer_id": "c0fd172a9c64cb98",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1534",
+      "error": null,
+      "at": "2026-10-10T15:30:49.976618"
     }
   ]
 }
