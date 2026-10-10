@@ -6111,6 +6111,14 @@
     "8839f73abf20df37": {
       "title": "Fralda Turma da Mônica Baby Mega XXG 36 Unidades",
       "posted_at": "2026-10-10T16:30:43.935845"
+    },
+    "726730e20ee8776a": {
+      "title": "Toalha Umedecida Meu Bebê Ultra 500 Folhas (10 pacotes 50 unidades cada)",
+      "posted_at": "2026-10-10T17:20:41.189438"
+    },
+    "bf49e311f62233fd": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
+      "posted_at": "2026-10-10T17:20:53.672229"
     }
   },
   "results": [
@@ -29433,6 +29441,22 @@
       "post_id": "1537",
       "error": null,
       "at": "2026-10-10T16:30:43.935287"
+    },
+    {
+      "offer_id": "726730e20ee8776a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1538",
+      "error": null,
+      "at": "2026-10-10T17:20:41.188488"
+    },
+    {
+      "offer_id": "bf49e311f62233fd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1539",
+      "error": null,
+      "at": "2026-10-10T17:20:53.671412"
     }
   ]
 }

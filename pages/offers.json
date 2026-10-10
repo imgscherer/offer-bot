@@ -1,5 +1,29 @@
 [
   {
+    "id": "bf49e311f62233fd",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
+    "price_now": 47.94,
+    "price_was": 77.37,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/683728620817916518503807984208.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T17:20:53.671723"
+  },
+  {
+    "id": "726730e20ee8776a",
+    "title": "Toalha Umedecida Meu Bebê Ultra 500 Folhas (10 pacotes 50 unidades cada)",
+    "price_now": 37.44,
+    "price_was": 60.1,
+    "discount_pct": 38,
+    "url": "https://s.shopee.com.br/LntlUNgBn?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/942433111317916518547899859759.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T17:20:41.188885"
+  },
+  {
     "id": "8839f73abf20df37",
     "title": "Fralda Turma da Mônica Baby Mega XXG 36 Unidades",
     "price_now": 30.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T14:01:55.274512"
-  },
-  {
-    "id": "9ac060e85111903a",
-    "title": "Fralda Turma da Mônica Baby P 62 unidades",
-    "price_now": 30.0,
-    "price_was": 50.04,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/425093121217916403381844985810.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T14:01:42.808549"
-  },
-  {
-    "id": "3da0a0fbae73ed3e",
-    "title": "Fralda Turma da Mônica Baby XXG 36 unidades",
-    "price_now": 30.0,
-    "price_was": 50.04,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B099KPQQWF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/425736611517916402926128895128.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T14:01:31.665362"
   }
 ]
