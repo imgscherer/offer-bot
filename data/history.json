@@ -5991,6 +5991,14 @@
     "8131398183659831": {
       "title": "Kit Lenço Umedecido para Limpeza Pampers Cuidado do Bebê 12 Pacotes",
       "posted_at": "2026-10-10T03:40:41.461305"
+    },
+    "0e9daeed7db39aa8": {
+      "title": "Kit Lenço Umedecido Infantil Huggies Rosto e Corpo 4 Pacotes com 48 Unidades",
+      "posted_at": "2026-10-10T04:00:51.621920"
+    },
+    "589bbf54deb504f3": {
+      "title": "Personal Fralda Baby Premium Protection Grande 30 Unidades",
+      "posted_at": "2026-10-10T04:01:05.321156"
     }
   },
   "results": [
@@ -28985,6 +28993,22 @@
       "post_id": "1507",
       "error": null,
       "at": "2026-10-10T03:40:41.460620"
+    },
+    {
+      "offer_id": "0e9daeed7db39aa8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1508",
+      "error": null,
+      "at": "2026-10-10T04:00:51.621128"
+    },
+    {
+      "offer_id": "589bbf54deb504f3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1509",
+      "error": null,
+      "at": "2026-10-10T04:01:05.320352"
     }
   ]
 }

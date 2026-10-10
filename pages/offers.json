@@ -1,5 +1,29 @@
 [
   {
+    "id": "589bbf54deb504f3",
+    "title": "Personal Fralda Baby Premium Protection Grande 30 Unidades",
+    "price_now": 29.0,
+    "price_was": 48.75,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/359617024217916042109322385236.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T04:01:05.320726"
+  },
+  {
+    "id": "0e9daeed7db39aa8",
+    "title": "Kit Lenço Umedecido Infantil Huggies Rosto e Corpo 4 Pacotes com 48 Unidades",
+    "price_now": 18.0,
+    "price_was": 38.81,
+    "discount_pct": 54,
+    "url": "https://s.shopee.com.br/8V9abtnNSN?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/582935892617916041522762730613.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-10T04:00:51.621470"
+  },
+  {
     "id": "8131398183659831",
     "title": "Kit Lenço Umedecido para Limpeza Pampers Cuidado do Bebê 12 Pacotes",
     "price_now": 62.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-09T22:01:18.211645"
-  },
-  {
-    "id": "346449f31033a51a",
-    "title": "Fralda Pampers Pants Ajuste Total XXG 120 Unidades",
-    "price_now": 150.4,
-    "price_was": 229.49,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/334372939317915751251586708883.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T20:01:02.522468"
-  },
-  {
-    "id": "1336db84df7f7c17",
-    "title": "Garrafa Infantil De Inox Sereia Com Bebedor Silicone 350 Ml Lillo",
-    "price_now": 42.65,
-    "price_was": 139.9,
-    "discount_pct": 70,
-    "url": "https://www.amazon.com.br/dp/B0F3YXC3L7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/460886938517915756726389709852.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-09T20:00:49.015346"
   }
 ]
