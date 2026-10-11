@@ -1,5 +1,53 @@
 [
   {
+    "id": "e51b488ae5f56d2c",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
+    "price_now": 34.19,
+    "price_was": 50.29,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/556732674717917503174542520189.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T20:32:11.748636"
+  },
+  {
+    "id": "ae7a40a4dd62c4b3",
+    "title": "Personal Fralda Soft & Protect Hiper Xxg, 50 Unidades",
+    "price_now": 34.0,
+    "price_was": 64.98,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0B7K83GYL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/463567644817917502604424125984.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T20:31:53.719002"
+  },
+  {
+    "id": "c28d0e987dbc5269",
+    "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+    "price_now": 49.48,
+    "price_was": 101.58,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/898109769717917502035826642381.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T20:31:35.276110"
+  },
+  {
+    "id": "00e1c5cd330007f4",
+    "title": "Fralda Pampers Confort Sec G 92 Unidades",
+    "price_now": 87.37,
+    "price_was": 189.9,
+    "discount_pct": 54,
+    "url": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/602679073817917501993273808167.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T20:31:15.988390"
+  },
+  {
     "id": "64419d4907eb5d1f",
     "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper Xg 60 Unidades",
     "price_now": 50.77,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-11T17:40:53.981048"
-  },
-  {
-    "id": "719ce6d8f3c849d2",
-    "title": "Huggies Fralda Tripla Proteção M 92 Un",
-    "price_now": 74.95,
-    "price_was": 109.03,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/176447017317917383137493698800.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T17:21:01.688014"
-  },
-  {
-    "id": "60cca06ed25ff458",
-    "title": "Personal 'fralda Baby Premium Protection M Com 34 Unidades",
-    "price_now": 28.39,
-    "price_was": 46.38,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/650735177617917381302002971291.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T17:20:50.098368"
-  },
-  {
-    "id": "8adeeb6f2b5a7985",
-    "title": "Fralda Pampers Confort Sec XG 86 Unidades",
-    "price_now": 97.0,
-    "price_was": 189.9,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B0GW3XSY4W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/529588870417917264932382978569.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T14:00:55.670383"
-  },
-  {
-    "id": "f684161608907893",
-    "title": "Fralda Personal Baby Premium Pants G 4 pacotes 168 unidades",
-    "price_now": 182.19,
-    "price_was": 297.71,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0DF9PBG3B?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/578833182617917244502367047662.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T13:20:42.027779"
   }
 ]

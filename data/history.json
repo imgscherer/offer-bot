@@ -6255,6 +6255,22 @@
     "64419d4907eb5d1f": {
       "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper Xg 60 Unidades",
       "posted_at": "2026-10-11T20:10:45.526742"
+    },
+    "00e1c5cd330007f4": {
+      "title": "Fralda Pampers Confort Sec G 92 Unidades",
+      "posted_at": "2026-10-11T20:31:15.988874"
+    },
+    "c28d0e987dbc5269": {
+      "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+      "posted_at": "2026-10-11T20:31:35.276520"
+    },
+    "ae7a40a4dd62c4b3": {
+      "title": "Personal Fralda Soft & Protect Hiper Xxg, 50 Unidades",
+      "posted_at": "2026-10-11T20:31:53.719402"
+    },
+    "e51b488ae5f56d2c": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
+      "posted_at": "2026-10-11T20:32:11.749052"
     }
   },
   "results": [
@@ -30009,6 +30025,38 @@
       "post_id": "1573",
       "error": null,
       "at": "2026-10-11T20:10:45.526199"
+    },
+    {
+      "offer_id": "00e1c5cd330007f4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1575",
+      "error": null,
+      "at": "2026-10-11T20:31:15.988055"
+    },
+    {
+      "offer_id": "c28d0e987dbc5269",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1576",
+      "error": null,
+      "at": "2026-10-11T20:31:35.275810"
+    },
+    {
+      "offer_id": "ae7a40a4dd62c4b3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1577",
+      "error": null,
+      "at": "2026-10-11T20:31:53.718685"
+    },
+    {
+      "offer_id": "e51b488ae5f56d2c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1578",
+      "error": null,
+      "at": "2026-10-11T20:32:11.748327"
     }
   ]
 }
