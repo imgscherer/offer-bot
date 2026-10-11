@@ -6203,6 +6203,10 @@
     "33f7b5ae6e3f2465": {
       "title": "Fralda Huggies Máxima Proteção P 48 unidades",
       "posted_at": "2026-10-11T12:40:43.680223"
+    },
+    "ad14283aaf588dc9": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
+      "posted_at": "2026-10-11T13:01:02.312387"
     }
   },
   "results": [
@@ -29773,6 +29777,14 @@
       "post_id": "1560",
       "error": null,
       "at": "2026-10-11T12:40:43.679499"
+    },
+    {
+      "offer_id": "ad14283aaf588dc9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1561",
+      "error": null,
+      "at": "2026-10-11T13:01:02.311592"
     }
   ]
 }
