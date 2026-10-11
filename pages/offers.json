@@ -1,5 +1,17 @@
 [
   {
+    "id": "e26ef39a471eca8d",
+    "title": "Fralda Infantil Personal Baby Protect e Sec G Mega 34 Unidades",
+    "price_now": 25.0,
+    "price_was": 37.02,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/539185750717917426481369290926.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T18:30:54.432957"
+  },
+  {
     "id": "c80a961bcc86538d",
     "title": "Fórmula Infantil Aptanutri Premium 3 800g",
     "price_now": 44.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T22:20:56.426378"
-  },
-  {
-    "id": "132d98b0d3e39685",
-    "title": "Fralda Turma da Mônica Baby Mega XG 42 Unidades",
-    "price_now": 30.0,
-    "price_was": 50.04,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B099KV2733?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/342924881717916703891469330904.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T22:20:42.735244"
   }
 ]
