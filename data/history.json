@@ -6215,6 +6215,14 @@
     "8adeeb6f2b5a7985": {
       "title": "Fralda Pampers Confort Sec XG 86 Unidades",
       "posted_at": "2026-10-11T14:00:55.670743"
+    },
+    "60cca06ed25ff458": {
+      "title": "Personal 'fralda Baby Premium Protection M Com 34 Unidades",
+      "posted_at": "2026-10-11T17:20:50.098797"
+    },
+    "719ce6d8f3c849d2": {
+      "title": "Huggies Fralda Tripla Proteção M 92 Un",
+      "posted_at": "2026-10-11T17:21:01.688474"
     }
   },
   "results": [
@@ -29809,6 +29817,22 @@
       "post_id": "1563",
       "error": null,
       "at": "2026-10-11T14:00:55.670061"
+    },
+    {
+      "offer_id": "60cca06ed25ff458",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1564",
+      "error": null,
+      "at": "2026-10-11T17:20:50.097953"
+    },
+    {
+      "offer_id": "719ce6d8f3c849d2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1565",
+      "error": null,
+      "at": "2026-10-11T17:21:01.687661"
     }
   ]
 }

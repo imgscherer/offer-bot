@@ -1,5 +1,29 @@
 [
   {
+    "id": "719ce6d8f3c849d2",
+    "title": "Huggies Fralda Tripla Proteção M 92 Un",
+    "price_now": 74.95,
+    "price_was": 109.03,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/176447017317917383137493698800.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T17:21:01.688014"
+  },
+  {
+    "id": "60cca06ed25ff458",
+    "title": "Personal 'fralda Baby Premium Protection M Com 34 Unidades",
+    "price_now": 28.39,
+    "price_was": 46.38,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/650735177617917381302002971291.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T17:20:50.098368"
+  },
+  {
     "id": "8adeeb6f2b5a7985",
     "title": "Fralda Pampers Confort Sec XG 86 Unidades",
     "price_now": 97.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T19:50:45.485310"
-  },
-  {
-    "id": "7e01d763481f31a2",
-    "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
-    "price_now": 19.94,
-    "price_was": 28.68,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/255841034317916605616005632521.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T19:40:53.773024"
-  },
-  {
-    "id": "e031813cca943649",
-    "title": "Mustela Hidratante e Calmante sem Fragrância Bebê Rosa 200ml",
-    "price_now": 52.0,
-    "price_was": 105.81,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B072MTS8VQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/320533722417916608608812783958.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T19:40:45.735936"
   }
 ]
