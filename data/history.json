@@ -6295,6 +6295,10 @@
     "45637e13f80f477d": {
       "title": "Fralda-Calça MamyPoko Dia&Noite M+ 58 Unidades",
       "posted_at": "2026-10-11T21:01:01.742634"
+    },
+    "a5e5b281d1b811a6": {
+      "title": "Fralda Personal Baby Protect&Sec M 70 unidades",
+      "posted_at": "2026-10-11T22:00:49.461178"
     }
   },
   "results": [
@@ -30129,6 +30133,14 @@
       "post_id": "1584",
       "error": null,
       "at": "2026-10-11T21:01:01.741831"
+    },
+    {
+      "offer_id": "a5e5b281d1b811a6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1585",
+      "error": null,
+      "at": "2026-10-11T22:00:49.460622"
     }
   ]
 }

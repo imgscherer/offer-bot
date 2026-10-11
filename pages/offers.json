@@ -1,5 +1,17 @@
 [
   {
+    "id": "a5e5b281d1b811a6",
+    "title": "Fralda Personal Baby Protect&Sec M 70 unidades",
+    "price_now": 36.87,
+    "price_was": 64.64,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/462517727917917553511243689196.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T22:00:49.460913"
+  },
+  {
     "id": "45637e13f80f477d",
     "title": "Fralda-Calça MamyPoko Dia&Noite M+ 58 Unidades",
     "price_now": 49.03,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-11T20:10:45.526512"
-  },
-  {
-    "id": "f73fc8a00bac2a4c",
-    "title": "Fralda Personal Baby Total Protect Pants XXG 36 Unidades",
-    "price_now": 46.0,
-    "price_was": 69.42,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0BTTMTDBK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/460751307217917457501236249050.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T19:20:57.856906"
   }
 ]
