@@ -1,5 +1,17 @@
 [
   {
+    "id": "f684161608907893",
+    "title": "Fralda Personal Baby Premium Pants G 4 pacotes 168 unidades",
+    "price_now": 182.19,
+    "price_was": 297.71,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0DF9PBG3B?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/578833182617917244502367047662.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T13:20:42.027779"
+  },
+  {
     "id": "ad14283aaf588dc9",
     "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
     "price_now": 51.49,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T19:01:29.092445"
-  },
-  {
-    "id": "e99ff9739d21b7e2",
-    "title": "Fralda Personal Baby Premium Pants G 42 Unidades",
-    "price_now": 43.61,
-    "price_was": 80.03,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B0BGM63H7R?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/451460132617916583905791981239.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T19:01:17.158004"
   }
 ]
