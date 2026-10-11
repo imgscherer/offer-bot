@@ -1,5 +1,29 @@
 [
   {
+    "id": "45637e13f80f477d",
+    "title": "Fralda-Calça MamyPoko Dia&Noite M+ 58 Unidades",
+    "price_now": 49.03,
+    "price_was": 74.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B086BVN842?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/310829712117917523725599052300.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T21:01:01.742136"
+  },
+  {
+    "id": "4bd1b1a9c21bdbbb",
+    "title": "Carrinho De Bebê Passeio Vira Berço Nivi Maxi Baby (cinza)",
+    "price_now": 380.28,
+    "price_was": 799.9,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B0CPN2L6MQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/935034684117917516879762854900.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T21:00:49.933601"
+  },
+  {
     "id": "e5975211f3e7ff89",
     "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper G 68 Unidades",
     "price_now": 54.2,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-11T19:20:57.856906"
-  },
-  {
-    "id": "41638a331cbdc2db",
-    "title": "Fralda Turma Da Mônica Baby Mega Xxg 36 Unidades",
-    "price_now": 31.77,
-    "price_was": 50.04,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B099KPQQWF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/369775789417917461703913921854.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T19:20:44.356517"
-  },
-  {
-    "id": "43327b10b6cff655",
-    "title": "Mamypoko Fralda-calça Superproteção Xxg 22 Unidades",
-    "price_now": 26.91,
-    "price_was": 46.9,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/460582421417917452098732267713.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T19:10:44.427853"
   }
 ]

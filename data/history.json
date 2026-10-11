@@ -6287,6 +6287,14 @@
     "e5975211f3e7ff89": {
       "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper G 68 Unidades",
       "posted_at": "2026-10-11T20:50:46.685472"
+    },
+    "4bd1b1a9c21bdbbb": {
+      "title": "Carrinho De Bebê Passeio Vira Berço Nivi Maxi Baby (cinza)",
+      "posted_at": "2026-10-11T21:00:49.933963"
+    },
+    "45637e13f80f477d": {
+      "title": "Fralda-Calça MamyPoko Dia&Noite M+ 58 Unidades",
+      "posted_at": "2026-10-11T21:01:01.742634"
     }
   },
   "results": [
@@ -30105,6 +30113,22 @@
       "post_id": "1582",
       "error": null,
       "at": "2026-10-11T20:50:46.680046"
+    },
+    {
+      "offer_id": "4bd1b1a9c21bdbbb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1583",
+      "error": null,
+      "at": "2026-10-11T21:00:49.933175"
+    },
+    {
+      "offer_id": "45637e13f80f477d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1584",
+      "error": null,
+      "at": "2026-10-11T21:01:01.741831"
     }
   ]
 }
