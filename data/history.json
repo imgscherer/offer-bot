@@ -6271,6 +6271,18 @@
     "e51b488ae5f56d2c": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
       "posted_at": "2026-10-11T20:32:11.749052"
+    },
+    "604a6be3b64e3621": {
+      "title": "Fórmula Infantil Aptanutri Premium 3 800g",
+      "posted_at": "2026-10-11T20:40:44.659158"
+    },
+    "2eefa934d9ef4ce4": {
+      "title": "Huggies Fralda Tripla Proteção G 78 Un",
+      "posted_at": "2026-10-11T20:40:59.026083"
+    },
+    "579583a4b34cb1bd": {
+      "title": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
+      "posted_at": "2026-10-11T20:41:13.616689"
     }
   },
   "results": [
@@ -30057,6 +30069,30 @@
       "post_id": "1578",
       "error": null,
       "at": "2026-10-11T20:32:11.748327"
+    },
+    {
+      "offer_id": "604a6be3b64e3621",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1579",
+      "error": null,
+      "at": "2026-10-11T20:40:44.658336"
+    },
+    {
+      "offer_id": "2eefa934d9ef4ce4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1580",
+      "error": null,
+      "at": "2026-10-11T20:40:59.025330"
+    },
+    {
+      "offer_id": "579583a4b34cb1bd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1581",
+      "error": null,
+      "at": "2026-10-11T20:41:13.615455"
     }
   ]
 }

@@ -1,5 +1,41 @@
 [
   {
+    "id": "579583a4b34cb1bd",
+    "title": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
+    "price_now": 75.0,
+    "price_was": 109.78,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/503631783417917506719841826252.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T20:41:13.615981"
+  },
+  {
+    "id": "2eefa934d9ef4ce4",
+    "title": "Huggies Fralda Tripla Proteção G 78 Un",
+    "price_now": 65.0,
+    "price_was": 109.03,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B07FNMB4QN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/317245207517917506662332247734.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T20:40:59.025634"
+  },
+  {
+    "id": "604a6be3b64e3621",
+    "title": "Fórmula Infantil Aptanutri Premium 3 800g",
+    "price_now": 36.99,
+    "price_was": 68.99,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B07M73V8JD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/385395443117917507957779931862.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T20:40:44.658658"
+  },
+  {
     "id": "e51b488ae5f56d2c",
     "title": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
     "price_now": 34.19,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-11T18:30:54.432957"
-  },
-  {
-    "id": "c80a961bcc86538d",
-    "title": "Fórmula Infantil Aptanutri Premium 3 800g",
-    "price_now": 44.0,
-    "price_was": 68.99,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B07M73V8JD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/666138494517917395724114820114.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T17:41:18.565529"
-  },
-  {
-    "id": "9ca7359d9eaac26f",
-    "title": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
-    "price_now": 74.0,
-    "price_was": 118.35,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/681268862117917396514867530746.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T17:41:06.191440"
-  },
-  {
-    "id": "5d44fadfe8280a24",
-    "title": "Sandália Babuche Infantil com Enfeites Metalizados (25 ao 36 - 5 cores)",
-    "price_now": 29.0,
-    "price_was": 59.0,
-    "discount_pct": 51,
-    "url": "https://s.shopee.com.br/8KqCufxsPn?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/579601240017917396473929357371.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T17:40:53.981048"
   }
 ]
