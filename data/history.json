@@ -6283,6 +6283,10 @@
     "579583a4b34cb1bd": {
       "title": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
       "posted_at": "2026-10-11T20:41:13.616689"
+    },
+    "e5975211f3e7ff89": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper G 68 Unidades",
+      "posted_at": "2026-10-11T20:50:46.685472"
     }
   },
   "results": [
@@ -30093,6 +30097,14 @@
       "post_id": "1581",
       "error": null,
       "at": "2026-10-11T20:41:13.615455"
+    },
+    {
+      "offer_id": "e5975211f3e7ff89",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1582",
+      "error": null,
+      "at": "2026-10-11T20:50:46.680046"
     }
   ]
 }
