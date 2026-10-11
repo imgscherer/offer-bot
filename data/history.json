@@ -6211,6 +6211,10 @@
     "f684161608907893": {
       "title": "Fralda Personal Baby Premium Pants G 4 pacotes 168 unidades",
       "posted_at": "2026-10-11T13:20:42.028021"
+    },
+    "8adeeb6f2b5a7985": {
+      "title": "Fralda Pampers Confort Sec XG 86 Unidades",
+      "posted_at": "2026-10-11T14:00:55.670743"
     }
   },
   "results": [
@@ -29797,6 +29801,14 @@
       "post_id": "1562",
       "error": null,
       "at": "2026-10-11T13:20:42.027486"
+    },
+    {
+      "offer_id": "8adeeb6f2b5a7985",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1563",
+      "error": null,
+      "at": "2026-10-11T14:00:55.670061"
     }
   ]
 }

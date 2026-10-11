@@ -1,5 +1,17 @@
 [
   {
+    "id": "8adeeb6f2b5a7985",
+    "title": "Fralda Pampers Confort Sec XG 86 Unidades",
+    "price_now": 97.0,
+    "price_was": 189.9,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B0GW3XSY4W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/529588870417917264932382978569.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T14:00:55.670383"
+  },
+  {
     "id": "f684161608907893",
     "title": "Fralda Personal Baby Premium Pants G 4 pacotes 168 unidades",
     "price_now": 182.19,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T19:40:45.735936"
-  },
-  {
-    "id": "efd7ddc230c2d739",
-    "title": "Huggies Fralda Premium Natural Care P 36 Unidades",
-    "price_now": 31.0,
-    "price_was": 53.4,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/631132958317916576803540181355.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T19:01:29.092445"
   }
 ]
