@@ -6223,6 +6223,18 @@
     "719ce6d8f3c849d2": {
       "title": "Huggies Fralda Tripla Proteção M 92 Un",
       "posted_at": "2026-10-11T17:21:01.688474"
+    },
+    "5d44fadfe8280a24": {
+      "title": "Sandália Babuche Infantil com Enfeites Metalizados (25 ao 36 - 5 cores)",
+      "posted_at": "2026-10-11T17:40:53.981491"
+    },
+    "9ca7359d9eaac26f": {
+      "title": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
+      "posted_at": "2026-10-11T17:41:06.191878"
+    },
+    "c80a961bcc86538d": {
+      "title": "Fórmula Infantil Aptanutri Premium 3 800g",
+      "posted_at": "2026-10-11T17:41:18.565953"
     }
   },
   "results": [
@@ -29833,6 +29845,38 @@
       "post_id": "1565",
       "error": null,
       "at": "2026-10-11T17:21:01.687661"
+    },
+    {
+      "offer_id": "5d44fadfe8280a24",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1566",
+      "error": null,
+      "at": "2026-10-11T17:40:53.980722"
+    },
+    {
+      "offer_id": "9ca7359d9eaac26f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1567",
+      "error": null,
+      "at": "2026-10-11T17:41:06.191079"
+    },
+    {
+      "offer_id": "c80a961bcc86538d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1568",
+      "error": null,
+      "at": "2026-10-11T17:41:18.565210"
+    },
+    {
+      "offer_id": "ddb9ef8b5b07087a",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-11T17:41:34.083902"
     }
   ]
 }

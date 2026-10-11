@@ -1,5 +1,41 @@
 [
   {
+    "id": "c80a961bcc86538d",
+    "title": "Fórmula Infantil Aptanutri Premium 3 800g",
+    "price_now": 44.0,
+    "price_was": 68.99,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B07M73V8JD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/666138494517917395724114820114.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T17:41:18.565529"
+  },
+  {
+    "id": "9ca7359d9eaac26f",
+    "title": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
+    "price_now": 74.0,
+    "price_was": 118.35,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/681268862117917396514867530746.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T17:41:06.191440"
+  },
+  {
+    "id": "5d44fadfe8280a24",
+    "title": "Sandália Babuche Infantil com Enfeites Metalizados (25 ao 36 - 5 cores)",
+    "price_now": 29.0,
+    "price_was": 59.0,
+    "discount_pct": 51,
+    "url": "https://s.shopee.com.br/8KqCufxsPn?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/579601240017917396473929357371.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T17:40:53.981048"
+  },
+  {
     "id": "719ce6d8f3c849d2",
     "title": "Huggies Fralda Tripla Proteção M 92 Un",
     "price_now": 74.95,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T22:20:42.735244"
-  },
-  {
-    "id": "2aad3266319062e6",
-    "title": "Fralda Turma da Monica Baby Giga XG 60 Unidades",
-    "price_now": 46.0,
-    "price_was": 69.67,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0GT26DW1Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/740377143317916655507730541397.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T21:00:49.934876"
-  },
-  {
-    "id": "416bdf67305886e7",
-    "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
-    "price_now": 37.42,
-    "price_was": 62.9,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/275788458117916623505673634081.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T20:20:42.741667"
-  },
-  {
-    "id": "d27856a97595c344",
-    "title": "Fralda Descartável Pampers Premium Care Tamanho G 94 Unidades",
-    "price_now": 123.72,
-    "price_was": 189.43,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0DWYJMD7Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/785512755617916614497944657656.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T19:50:45.485310"
   }
 ]
