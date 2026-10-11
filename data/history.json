@@ -6239,6 +6239,10 @@
     "e26ef39a471eca8d": {
       "title": "Fralda Infantil Personal Baby Protect e Sec G Mega 34 Unidades",
       "posted_at": "2026-10-11T18:30:54.433576"
+    },
+    "43327b10b6cff655": {
+      "title": "Mamypoko Fralda-calça Superproteção Xxg 22 Unidades",
+      "posted_at": "2026-10-11T19:10:44.428193"
     }
   },
   "results": [
@@ -29953,6 +29957,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-11T19:00:45.354864"
+    },
+    {
+      "offer_id": "43327b10b6cff655",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1570",
+      "error": null,
+      "at": "2026-10-11T19:10:44.427529"
+    },
+    {
+      "offer_id": "ddb9ef8b5b07087a",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-11T19:10:51.622828"
     }
   ]
 }
