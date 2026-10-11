@@ -1,5 +1,17 @@
 [
   {
+    "id": "33f7b5ae6e3f2465",
+    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+    "price_now": 41.0,
+    "price_was": 72.65,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/660806980517917216603743081425.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T12:40:43.679788"
+  },
+  {
     "id": "3f0e1f8cc06cefcd",
     "title": "Fralda Pom Pom Protek Proteção de Mãe P 54 unidades",
     "price_now": 32.48,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T19:01:04.324242"
-  },
-  {
-    "id": "17528cd2ef5eee1d",
-    "title": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
-    "price_now": 49.49,
-    "price_was": 71.67,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B07GQ136TS?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/200977137917916562316054259509.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T18:30:58.441107"
   }
 ]
