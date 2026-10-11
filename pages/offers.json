@@ -1,5 +1,17 @@
 [
   {
+    "id": "3f0e1f8cc06cefcd",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe P 54 unidades",
+    "price_now": 32.48,
+    "price_was": 50.29,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B093GBK61Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/207435539617917212715197252344.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-11T12:30:46.710560"
+  },
+  {
     "id": "e2df723afa0bc94c",
     "title": "Fralda Pants Huggies Supreme Care G 60 Unidades",
     "price_now": 71.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-10T18:30:58.441107"
-  },
-  {
-    "id": "2d6f54146a6be951",
-    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
-    "price_now": 27.0,
-    "price_was": 62.99,
-    "discount_pct": 57,
-    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/466797744717916562988344465344.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-10T18:30:46.795244"
   }
 ]

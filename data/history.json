@@ -6195,6 +6195,10 @@
     "e2df723afa0bc94c": {
       "title": "Fralda Pants Huggies Supreme Care G 60 Unidades",
       "posted_at": "2026-10-10T22:20:56.426778"
+    },
+    "3f0e1f8cc06cefcd": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe P 54 unidades",
+      "posted_at": "2026-10-11T12:30:46.769715"
     }
   },
   "results": [
@@ -29749,6 +29753,14 @@
       "post_id": "1558",
       "error": null,
       "at": "2026-10-10T22:20:56.426083"
+    },
+    {
+      "offer_id": "3f0e1f8cc06cefcd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1559",
+      "error": null,
+      "at": "2026-10-11T12:30:46.710233"
     }
   ]
 }
