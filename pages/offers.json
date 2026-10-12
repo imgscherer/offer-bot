@@ -1,5 +1,17 @@
 [
   {
+    "id": "dd10a97bd5dc8d07",
+    "title": "Fralda Turma da Mônica Baby Jumbo RN com 36 Unidades",
+    "price_now": 19.0,
+    "price_was": 28.68,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/846887285117918042501925483598.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-12T11:40:43.735911"
+  },
+  {
     "id": "bc5728efedf371ef",
     "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
     "price_now": 36.95,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-11T20:31:35.276110"
-  },
-  {
-    "id": "00e1c5cd330007f4",
-    "title": "Fralda Pampers Confort Sec G 92 Unidades",
-    "price_now": 87.37,
-    "price_was": 189.9,
-    "discount_pct": 54,
-    "url": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/602679073817917501993273808167.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T20:31:15.988390"
   }
 ]
