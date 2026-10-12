@@ -6311,6 +6311,10 @@
     "dc1ff76f33d55abc": {
       "title": "Personal Fralda Baby Premium Pants M, 48 Unidades",
       "posted_at": "2026-10-12T11:50:46.629729"
+    },
+    "24365560656bd631": {
+      "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
+      "posted_at": "2026-10-12T12:00:59.707444"
     }
   },
   "results": [
@@ -30177,6 +30181,14 @@
       "post_id": "1588",
       "error": null,
       "at": "2026-10-12T11:50:46.628922"
+    },
+    {
+      "offer_id": "24365560656bd631",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1589",
+      "error": null,
+      "at": "2026-10-12T12:00:59.706682"
     }
   ]
 }

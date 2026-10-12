@@ -1,5 +1,17 @@
 [
   {
+    "id": "24365560656bd631",
+    "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
+    "price_now": 19.99,
+    "price_was": 28.68,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KXW911?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/812548110617918055694352298983.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-12T12:00:59.706967"
+  },
+  {
     "id": "dc1ff76f33d55abc",
     "title": "Personal Fralda Baby Premium Pants M, 48 Unidades",
     "price_now": 26.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-11T20:32:11.748636"
-  },
-  {
-    "id": "ae7a40a4dd62c4b3",
-    "title": "Personal Fralda Soft & Protect Hiper Xxg, 50 Unidades",
-    "price_now": 34.0,
-    "price_was": 64.98,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0B7K83GYL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/463567644817917502604424125984.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T20:31:53.719002"
   }
 ]
