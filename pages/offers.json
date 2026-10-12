@@ -1,5 +1,29 @@
 [
   {
+    "id": "cdf5baac00131f89",
+    "title": "Kit 4 Toalha Paninho Pano Boca Bebe Soft 100% Algodão Sortido Menino Menina Com Prendedor de chupeta",
+    "price_now": 29.33,
+    "price_was": 41.9,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/4B0fsjBi7A",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mt8jolaqfdhcaf",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-12T22:30:49.746699"
+  },
+  {
+    "id": "002c1e9b4af7d742",
+    "title": "Kit 6 Toalha Pano Fralda de Boca Babete Bebe Soft 100% Algodão Macio Sortido Prendedor de Chupeta",
+    "price_now": 39.09,
+    "price_was": 65.15,
+    "discount_pct": 40,
+    "url": "https://s.shopee.com.br/50ZmsG8XQJ",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mtifqa8b2lflc8",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-12T22:30:46.711956"
+  },
+  {
     "id": "9add40405d761b1a",
     "title": "Fralda Infantil Personal Baby Protect e Sec M Mega 40 Unidades",
     "price_now": 26.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-11T21:00:49.933601"
-  },
-  {
-    "id": "e5975211f3e7ff89",
-    "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper G 68 Unidades",
-    "price_now": 54.2,
-    "price_was": 77.37,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/671931075317917514601274017222.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T20:50:46.680370"
-  },
-  {
-    "id": "579583a4b34cb1bd",
-    "title": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
-    "price_now": 75.0,
-    "price_was": 109.78,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/503631783417917506719841826252.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T20:41:13.615981"
   }
 ]

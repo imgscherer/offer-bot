@@ -6327,6 +6327,14 @@
     "9add40405d761b1a": {
       "title": "Fralda Infantil Personal Baby Protect e Sec M Mega 40 Unidades",
       "posted_at": "2026-10-12T14:40:44.213923"
+    },
+    "002c1e9b4af7d742": {
+      "title": "Kit 6 Toalha Pano Fralda de Boca Babete Bebe Soft 100% Algodão Macio Sortido Prendedor de Chupeta",
+      "posted_at": "2026-10-12T22:30:46.712442"
+    },
+    "cdf5baac00131f89": {
+      "title": "Kit 4 Toalha Paninho Pano Boca Bebe Soft 100% Algodão Sortido Menino Menina Com Prendedor de chupeta",
+      "posted_at": "2026-10-12T22:30:49.747101"
     }
   },
   "results": [
@@ -30225,6 +30233,22 @@
       "post_id": "1594",
       "error": null,
       "at": "2026-10-12T14:40:44.213131"
+    },
+    {
+      "offer_id": "002c1e9b4af7d742",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1595",
+      "error": null,
+      "at": "2026-10-12T22:30:46.711641"
+    },
+    {
+      "offer_id": "cdf5baac00131f89",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1596",
+      "error": null,
+      "at": "2026-10-12T22:30:49.746396"
     }
   ]
 }
