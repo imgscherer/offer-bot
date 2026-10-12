@@ -6307,6 +6307,10 @@
     "dd10a97bd5dc8d07": {
       "title": "Fralda Turma da Mônica Baby Jumbo RN com 36 Unidades",
       "posted_at": "2026-10-12T11:40:43.736397"
+    },
+    "dc1ff76f33d55abc": {
+      "title": "Personal Fralda Baby Premium Pants M, 48 Unidades",
+      "posted_at": "2026-10-12T11:50:46.629729"
     }
   },
   "results": [
@@ -30165,6 +30169,14 @@
       "post_id": "1587",
       "error": null,
       "at": "2026-10-12T11:40:43.735548"
+    },
+    {
+      "offer_id": "dc1ff76f33d55abc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1588",
+      "error": null,
+      "at": "2026-10-12T11:50:46.628922"
     }
   ]
 }
