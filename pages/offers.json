@@ -1,5 +1,29 @@
 [
   {
+    "id": "c62180e4269e71fe",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
+    "price_now": 53.0,
+    "price_was": 77.37,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/336489442417918089306853990300.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-12T13:00:53.173754"
+  },
+  {
+    "id": "6037027057096205",
+    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+    "price_now": 41.0,
+    "price_was": 72.65,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/283413287717918089345359217632.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-12T13:00:47.963230"
+  },
+  {
     "id": "24365560656bd631",
     "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
     "price_now": 19.99,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-11T20:40:59.025634"
-  },
-  {
-    "id": "604a6be3b64e3621",
-    "title": "Fórmula Infantil Aptanutri Premium 3 800g",
-    "price_now": 36.99,
-    "price_was": 68.99,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07M73V8JD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/385395443117917507957779931862.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T20:40:44.658658"
-  },
-  {
-    "id": "e51b488ae5f56d2c",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
-    "price_now": 34.19,
-    "price_was": 50.29,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/556732674717917503174542520189.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T20:32:11.748636"
   }
 ]

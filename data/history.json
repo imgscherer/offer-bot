@@ -6315,6 +6315,14 @@
     "24365560656bd631": {
       "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
       "posted_at": "2026-10-12T12:00:59.707444"
+    },
+    "6037027057096205": {
+      "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+      "posted_at": "2026-10-12T13:00:47.963548"
+    },
+    "c62180e4269e71fe": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
+      "posted_at": "2026-10-12T13:00:53.174207"
     }
   },
   "results": [
@@ -30189,6 +30197,22 @@
       "post_id": "1589",
       "error": null,
       "at": "2026-10-12T12:00:59.706682"
+    },
+    {
+      "offer_id": "6037027057096205",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1592",
+      "error": null,
+      "at": "2026-10-12T13:00:47.962857"
+    },
+    {
+      "offer_id": "c62180e4269e71fe",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1593",
+      "error": null,
+      "at": "2026-10-12T13:00:53.173448"
     }
   ]
 }
