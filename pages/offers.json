@@ -1,5 +1,29 @@
 [
   {
+    "id": "3cd8bdc2a565953e",
+    "title": "Fralda Huggies Proteção Acolchoada Pants M 216 unidades",
+    "price_now": 197.1,
+    "price_was": 289.0,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/766677354917919336703362077280.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-13T23:31:20.301439"
+  },
+  {
+    "id": "e6a9dab9408fe500",
+    "title": "Fralda Huggies Proteção Acolchoada Pants XXG 144 unidades",
+    "price_now": 197.1,
+    "price_was": 289.0,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0FPSX9VDZ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/784374130017919337291280162034.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-13T23:30:59.750181"
+  },
+  {
     "id": "77932989db1223d0",
     "title": "Sandália Infantil Antiderrapante (Tam. 21 ao 28, Diversas cores)",
     "price_now": 39.2,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-13T12:20:55.260061"
-  },
-  {
-    "id": "b0def2c38570b16f",
-    "title": "Creme Assaduras Bebê Pele Sensíveis Granado 300g",
-    "price_now": 46.19,
-    "price_was": 91.5,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/307065075217918916161887661768.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-13T11:50:41.392075"
-  },
-  {
-    "id": "6a48e56bcbd257ab",
-    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
-    "price_now": 41.0,
-    "price_was": 72.65,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/600552560217918902433009690628.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-13T11:30:52.693748"
   }
 ]

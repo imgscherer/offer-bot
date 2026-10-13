@@ -6399,6 +6399,14 @@
     "77932989db1223d0": {
       "title": "Sandália Infantil Antiderrapante (Tam. 21 ao 28, Diversas cores)",
       "posted_at": "2026-10-13T18:50:56.264680"
+    },
+    "e6a9dab9408fe500": {
+      "title": "Fralda Huggies Proteção Acolchoada Pants XXG 144 unidades",
+      "posted_at": "2026-10-13T23:30:59.750583"
+    },
+    "3cd8bdc2a565953e": {
+      "title": "Fralda Huggies Proteção Acolchoada Pants M 216 unidades",
+      "posted_at": "2026-10-13T23:31:20.301904"
     }
   },
   "results": [
@@ -30441,6 +30449,22 @@
       "post_id": "1612",
       "error": null,
       "at": "2026-10-13T18:50:56.264039"
+    },
+    {
+      "offer_id": "e6a9dab9408fe500",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1613",
+      "error": null,
+      "at": "2026-10-13T23:30:59.749825"
+    },
+    {
+      "offer_id": "3cd8bdc2a565953e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1614",
+      "error": null,
+      "at": "2026-10-13T23:31:20.301133"
     }
   ]
 }
