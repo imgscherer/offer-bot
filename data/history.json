@@ -6395,6 +6395,10 @@
     "9911a2151d258928": {
       "title": "Fralda Personal Baby Protect & Sec Grande Promo - 78 Unidades",
       "posted_at": "2026-10-13T17:50:53.994324"
+    },
+    "77932989db1223d0": {
+      "title": "Sandália Infantil Antiderrapante (Tam. 21 ao 28, Diversas cores)",
+      "posted_at": "2026-10-13T18:50:56.264680"
     }
   },
   "results": [
@@ -30429,6 +30433,14 @@
       "post_id": "1611",
       "error": null,
       "at": "2026-10-13T17:50:53.993518"
+    },
+    {
+      "offer_id": "77932989db1223d0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1612",
+      "error": null,
+      "at": "2026-10-13T18:50:56.264039"
     }
   ]
 }

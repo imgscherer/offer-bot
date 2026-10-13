@@ -1,5 +1,17 @@
 [
   {
+    "id": "77932989db1223d0",
+    "title": "Sandália Infantil Antiderrapante (Tam. 21 ao 28, Diversas cores)",
+    "price_now": 39.2,
+    "price_was": 70.0,
+    "discount_pct": 44,
+    "url": "https://s.shopee.com.br/1BN5eDLDnF?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/905359706617919167522955404553.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-13T18:50:56.264284"
+  },
+  {
     "id": "9911a2151d258928",
     "title": "Fralda Personal Baby Protect & Sec Grande Promo - 78 Unidades",
     "price_now": 63.14,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-13T11:30:52.693748"
-  },
-  {
-    "id": "33cc9b04509829da",
-    "title": "Fralda Huggies Natural Care P 36 unidades",
-    "price_now": 35.44,
-    "price_was": 53.4,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/991054025917918897092139620962.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-13T11:21:02.826105"
   }
 ]
