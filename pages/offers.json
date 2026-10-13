@@ -1,5 +1,17 @@
 [
   {
+    "id": "10611732979c3bee",
+    "title": "Babuche infantil Personagem (Tam. 21 ao 32)",
+    "price_now": 23.9,
+    "price_was": 70.29,
+    "discount_pct": 66,
+    "url": "https://s.shopee.com.br/9pf3YntX5z?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/374296323317918946248149296537.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-13T12:41:06.828519"
+  },
+  {
     "id": "3bb7e5b0cea4d9ab",
     "title": "Granado Refil Sabonete Líquido Bebê, Tradicional, 250ml",
     "price_now": 13.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-12T14:40:44.213496"
-  },
-  {
-    "id": "c62180e4269e71fe",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
-    "price_now": 53.0,
-    "price_was": 77.37,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/336489442417918089306853990300.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-12T13:00:53.173754"
   }
 ]

@@ -6367,6 +6367,10 @@
     "3bb7e5b0cea4d9ab": {
       "title": "Granado Refil Sabonete Líquido Bebê, Tradicional, 250ml",
       "posted_at": "2026-10-13T12:30:45.040482"
+    },
+    "10611732979c3bee": {
+      "title": "Babuche infantil Personagem (Tam. 21 ao 32)",
+      "posted_at": "2026-10-13T12:41:06.828952"
     }
   },
   "results": [
@@ -30345,6 +30349,14 @@
       "post_id": "1604",
       "error": null,
       "at": "2026-10-13T12:30:45.039640"
+    },
+    {
+      "offer_id": "10611732979c3bee",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1605",
+      "error": null,
+      "at": "2026-10-13T12:41:06.828195"
     }
   ]
 }
