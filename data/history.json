@@ -6351,6 +6351,10 @@
     "33cc9b04509829da": {
       "title": "Fralda Huggies Natural Care P 36 unidades",
       "posted_at": "2026-10-13T11:21:02.829873"
+    },
+    "6a48e56bcbd257ab": {
+      "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+      "posted_at": "2026-10-13T11:30:52.694061"
     }
   },
   "results": [
@@ -30297,6 +30301,14 @@
       "post_id": "1600",
       "error": null,
       "at": "2026-10-13T11:21:02.825772"
+    },
+    {
+      "offer_id": "6a48e56bcbd257ab",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1601",
+      "error": null,
+      "at": "2026-10-13T11:30:52.693400"
     }
   ]
 }
