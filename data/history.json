@@ -6359,6 +6359,10 @@
     "b0def2c38570b16f": {
       "title": "Creme Assaduras Bebê Pele Sensíveis Granado 300g",
       "posted_at": "2026-10-13T11:50:41.392476"
+    },
+    "073d7cdd72a004f9": {
+      "title": "Fralda Pants Huggies Supreme Care XXG 58 Unidades",
+      "posted_at": "2026-10-13T12:20:55.260598"
     }
   },
   "results": [
@@ -30321,6 +30325,14 @@
       "post_id": "1602",
       "error": null,
       "at": "2026-10-13T11:50:41.391798"
+    },
+    {
+      "offer_id": "073d7cdd72a004f9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1603",
+      "error": null,
+      "at": "2026-10-13T12:20:55.259747"
     }
   ]
 }

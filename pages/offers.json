@@ -1,5 +1,17 @@
 [
   {
+    "id": "073d7cdd72a004f9",
+    "title": "Fralda Pants Huggies Supreme Care XXG 58 Unidades",
+    "price_now": 78.0,
+    "price_was": 131.78,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0BXM4ZSBD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/758562977617918928707472933024.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-13T12:20:55.260061"
+  },
+  {
     "id": "b0def2c38570b16f",
     "title": "Creme Assaduras Bebê Pele Sensíveis Granado 300g",
     "price_now": 46.19,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-12T13:00:47.963230"
-  },
-  {
-    "id": "24365560656bd631",
-    "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
-    "price_now": 19.99,
-    "price_was": 28.68,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B099KXW911?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/812548110617918055694352298983.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-12T12:00:59.706967"
   }
 ]
