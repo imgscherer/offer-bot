@@ -1,5 +1,29 @@
 [
   {
+    "id": "33cc9b04509829da",
+    "title": "Fralda Huggies Natural Care P 36 unidades",
+    "price_now": 35.44,
+    "price_was": 53.4,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/991054025917918897092139620962.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-13T11:21:02.826105"
+  },
+  {
+    "id": "9d971811c389767b",
+    "title": "Fralda Mili Baby XXG 16 unidades",
+    "price_now": 17.66,
+    "price_was": 34.89,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07G5PQ8VH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/776857279517918892322229655310.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-13T11:20:49.315400"
+  },
+  {
     "id": "9630446f7ee6bc41",
     "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
     "price_now": 4.77,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-12T11:40:43.735911"
-  },
-  {
-    "id": "bc5728efedf371ef",
-    "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
-    "price_now": 36.95,
-    "price_was": 69.42,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/365234459017917571666451197323.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T22:30:50.717830"
-  },
-  {
-    "id": "a5e5b281d1b811a6",
-    "title": "Fralda Personal Baby Protect&Sec M 70 unidades",
-    "price_now": 36.87,
-    "price_was": 64.64,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/462517727917917553511243689196.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T22:00:49.460913"
   }
 ]

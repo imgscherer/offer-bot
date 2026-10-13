@@ -6343,6 +6343,14 @@
     "9630446f7ee6bc41": {
       "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
       "posted_at": "2026-10-13T11:00:56.026497"
+    },
+    "9d971811c389767b": {
+      "title": "Fralda Mili Baby XXG 16 unidades",
+      "posted_at": "2026-10-13T11:20:49.315762"
+    },
+    "33cc9b04509829da": {
+      "title": "Fralda Huggies Natural Care P 36 unidades",
+      "posted_at": "2026-10-13T11:21:02.829873"
     }
   },
   "results": [
@@ -30273,6 +30281,22 @@
       "post_id": "1598",
       "error": null,
       "at": "2026-10-13T11:00:56.025753"
+    },
+    {
+      "offer_id": "9d971811c389767b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1599",
+      "error": null,
+      "at": "2026-10-13T11:20:49.315046"
+    },
+    {
+      "offer_id": "33cc9b04509829da",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1600",
+      "error": null,
+      "at": "2026-10-13T11:21:02.825772"
     }
   ]
 }
