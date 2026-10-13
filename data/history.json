@@ -6339,6 +6339,10 @@
     "f8f4dc7f8967ed84": {
       "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
       "posted_at": "2026-10-13T10:50:45.324449"
+    },
+    "9630446f7ee6bc41": {
+      "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
+      "posted_at": "2026-10-13T11:00:56.026497"
     }
   },
   "results": [
@@ -30261,6 +30265,14 @@
       "post_id": "1597",
       "error": null,
       "at": "2026-10-13T10:50:45.323639"
+    },
+    {
+      "offer_id": "9630446f7ee6bc41",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1598",
+      "error": null,
+      "at": "2026-10-13T11:00:56.025753"
     }
   ]
 }

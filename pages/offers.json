@@ -1,5 +1,17 @@
 [
   {
+    "id": "9630446f7ee6bc41",
+    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
+    "price_now": 4.77,
+    "price_was": 9.42,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/504760585917918882503875514908.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-13T11:00:56.026096"
+  },
+  {
     "id": "f8f4dc7f8967ed84",
     "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
     "price_now": 18.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-11T22:00:49.460913"
-  },
-  {
-    "id": "45637e13f80f477d",
-    "title": "Fralda-Calça MamyPoko Dia&Noite M+ 58 Unidades",
-    "price_now": 49.03,
-    "price_was": 74.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B086BVN842?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/310829712117917523725599052300.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-11T21:01:01.742136"
   }
 ]
