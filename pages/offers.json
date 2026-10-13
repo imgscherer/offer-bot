@@ -1,5 +1,17 @@
 [
   {
+    "id": "f046e938c72d5e17",
+    "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
+    "price_now": 15.49,
+    "price_was": 22.69,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B095D664HJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/578754702317919066123559829495.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-13T16:00:53.286209"
+  },
+  {
     "id": "39a5de898c0c7cbf",
     "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
     "price_now": 54.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-13T11:00:56.026096"
-  },
-  {
-    "id": "f8f4dc7f8967ed84",
-    "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
-    "price_now": 18.0,
-    "price_was": 28.68,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B099KXW911?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/816532369017918877093501438109.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-13T10:50:45.323988"
   }
 ]

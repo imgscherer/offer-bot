@@ -6383,6 +6383,10 @@
     "39a5de898c0c7cbf": {
       "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
       "posted_at": "2026-10-13T15:10:43.667416"
+    },
+    "f046e938c72d5e17": {
+      "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
+      "posted_at": "2026-10-13T16:00:53.286525"
     }
   },
   "results": [
@@ -30393,6 +30397,14 @@
       "post_id": "1608",
       "error": null,
       "at": "2026-10-13T15:10:43.666869"
+    },
+    {
+      "offer_id": "f046e938c72d5e17",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1609",
+      "error": null,
+      "at": "2026-10-13T16:00:53.285877"
     }
   ]
 }
