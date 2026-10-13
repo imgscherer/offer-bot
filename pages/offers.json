@@ -1,5 +1,29 @@
 [
   {
+    "id": "9911a2151d258928",
+    "title": "Fralda Personal Baby Protect & Sec Grande Promo - 78 Unidades",
+    "price_now": 63.14,
+    "price_was": 89.99,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0DF9RCVYY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/881635138317919132322692484576.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-13T17:50:53.993830"
+  },
+  {
+    "id": "48ddb42bd6a104e3",
+    "title": "Carrinho de Passeio com Bebê Conforto TS NIVI Maxi Baby",
+    "price_now": 685.9,
+    "price_was": 1399.9,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B0FMFWWD8H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/510404662917919133818732280534.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-13T17:50:45.369945"
+  },
+  {
     "id": "f046e938c72d5e17",
     "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
     "price_now": 15.49,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-13T11:21:02.826105"
-  },
-  {
-    "id": "9d971811c389767b",
-    "title": "Fralda Mili Baby XXG 16 unidades",
-    "price_now": 17.66,
-    "price_was": 34.89,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07G5PQ8VH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/776857279517918892322229655310.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-13T11:20:49.315400"
-  },
-  {
-    "id": "9630446f7ee6bc41",
-    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
-    "price_now": 4.77,
-    "price_was": 9.42,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/504760585917918882503875514908.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-13T11:00:56.026096"
   }
 ]

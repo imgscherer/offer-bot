@@ -6387,6 +6387,14 @@
     "f046e938c72d5e17": {
       "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
       "posted_at": "2026-10-13T16:00:53.286525"
+    },
+    "48ddb42bd6a104e3": {
+      "title": "Carrinho de Passeio com Bebê Conforto TS NIVI Maxi Baby",
+      "posted_at": "2026-10-13T17:50:45.370283"
+    },
+    "9911a2151d258928": {
+      "title": "Fralda Personal Baby Protect & Sec Grande Promo - 78 Unidades",
+      "posted_at": "2026-10-13T17:50:53.994324"
     }
   },
   "results": [
@@ -30405,6 +30413,22 @@
       "post_id": "1609",
       "error": null,
       "at": "2026-10-13T16:00:53.285877"
+    },
+    {
+      "offer_id": "48ddb42bd6a104e3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1610",
+      "error": null,
+      "at": "2026-10-13T17:50:45.369617"
+    },
+    {
+      "offer_id": "9911a2151d258928",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1611",
+      "error": null,
+      "at": "2026-10-13T17:50:53.993518"
     }
   ]
 }
