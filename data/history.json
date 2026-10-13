@@ -6335,6 +6335,10 @@
     "cdf5baac00131f89": {
       "title": "Kit 4 Toalha Paninho Pano Boca Bebe Soft 100% Algodão Sortido Menino Menina Com Prendedor de chupeta",
       "posted_at": "2026-10-12T22:30:49.747101"
+    },
+    "f8f4dc7f8967ed84": {
+      "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
+      "posted_at": "2026-10-13T10:50:45.324449"
     }
   },
   "results": [
@@ -30249,6 +30253,14 @@
       "post_id": "1596",
       "error": null,
       "at": "2026-10-12T22:30:49.746396"
+    },
+    {
+      "offer_id": "f8f4dc7f8967ed84",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1597",
+      "error": null,
+      "at": "2026-10-13T10:50:45.323639"
     }
   ]
 }
