@@ -6355,6 +6355,10 @@
     "6a48e56bcbd257ab": {
       "title": "Fralda Huggies Máxima Proteção P 48 unidades",
       "posted_at": "2026-10-13T11:30:52.694061"
+    },
+    "b0def2c38570b16f": {
+      "title": "Creme Assaduras Bebê Pele Sensíveis Granado 300g",
+      "posted_at": "2026-10-13T11:50:41.392476"
     }
   },
   "results": [
@@ -30309,6 +30313,14 @@
       "post_id": "1601",
       "error": null,
       "at": "2026-10-13T11:30:52.693400"
+    },
+    {
+      "offer_id": "b0def2c38570b16f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1602",
+      "error": null,
+      "at": "2026-10-13T11:50:41.391798"
     }
   ]
 }

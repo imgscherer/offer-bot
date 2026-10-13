@@ -1,5 +1,17 @@
 [
   {
+    "id": "b0def2c38570b16f",
+    "title": "Creme Assaduras Bebê Pele Sensíveis Granado 300g",
+    "price_now": 46.19,
+    "price_was": 91.5,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/307065075217918916161887661768.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-13T11:50:41.392075"
+  },
+  {
     "id": "6a48e56bcbd257ab",
     "title": "Fralda Huggies Máxima Proteção P 48 unidades",
     "price_now": 41.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-12T12:00:59.706967"
-  },
-  {
-    "id": "dc1ff76f33d55abc",
-    "title": "Personal Fralda Baby Premium Pants M, 48 Unidades",
-    "price_now": 26.99,
-    "price_was": 80.03,
-    "discount_pct": 66,
-    "url": "https://www.amazon.com.br/dp/B0BGM6P1SF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/296013328917918054016531091816.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-12T11:50:46.629277"
   }
 ]
