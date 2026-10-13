@@ -6371,6 +6371,10 @@
     "10611732979c3bee": {
       "title": "Babuche infantil Personagem (Tam. 21 ao 32)",
       "posted_at": "2026-10-13T12:41:06.828952"
+    },
+    "e03985a57d93f6ba": {
+      "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula 50 Unidades",
+      "posted_at": "2026-10-13T13:00:52.236740"
     }
   },
   "results": [
@@ -30357,6 +30361,14 @@
       "post_id": "1605",
       "error": null,
       "at": "2026-10-13T12:41:06.828195"
+    },
+    {
+      "offer_id": "e03985a57d93f6ba",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1606",
+      "error": null,
+      "at": "2026-10-13T13:00:52.236002"
     }
   ]
 }

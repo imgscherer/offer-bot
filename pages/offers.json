@@ -1,5 +1,17 @@
 [
   {
+    "id": "e03985a57d93f6ba",
+    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula 50 Unidades",
+    "price_now": 4.0,
+    "price_was": 9.42,
+    "discount_pct": 58,
+    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/474025297117918953303502353095.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-13T13:00:52.236370"
+  },
+  {
     "id": "10611732979c3bee",
     "title": "Babuche infantil Personagem (Tam. 21 ao 32)",
     "price_now": 23.9,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-12T22:30:46.711956"
-  },
-  {
-    "id": "9add40405d761b1a",
-    "title": "Fralda Infantil Personal Baby Protect e Sec M Mega 40 Unidades",
-    "price_now": 26.0,
-    "price_was": 36.96,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/839500052717918155315314910537.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-12T14:40:44.213496"
   }
 ]
