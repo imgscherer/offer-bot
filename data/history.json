@@ -6379,6 +6379,10 @@
     "741b3f2d4b7867ec": {
       "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
       "posted_at": "2026-10-13T13:50:46.736717"
+    },
+    "39a5de898c0c7cbf": {
+      "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
+      "posted_at": "2026-10-13T15:10:43.667416"
     }
   },
   "results": [
@@ -30381,6 +30385,14 @@
       "post_id": "1607",
       "error": null,
       "at": "2026-10-13T13:50:46.736035"
+    },
+    {
+      "offer_id": "39a5de898c0c7cbf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1608",
+      "error": null,
+      "at": "2026-10-13T15:10:43.666869"
     }
   ]
 }
