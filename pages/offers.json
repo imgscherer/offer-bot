@@ -1,5 +1,17 @@
 [
   {
+    "id": "c75610b636ac1851",
+    "title": "Burigotto Carrinho De Bebê Zap Metal, Prata",
+    "price_now": 539.39,
+    "price_was": 929.0,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0C4VJ5DCQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/804846065617919476473254472804.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-14T03:20:44.477748"
+  },
+  {
     "id": "f1733382664c4be4",
     "title": "Granado Creme Assaduras Dermocalmante Bebê Peles Sensíveis 50g",
     "price_now": 22.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-13T12:41:06.828519"
-  },
-  {
-    "id": "3bb7e5b0cea4d9ab",
-    "title": "Granado Refil Sabonete Líquido Bebê, Tradicional, 250ml",
-    "price_now": 13.9,
-    "price_was": 22.0,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B07D2FXHM1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/997442999317918934666896357356.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-13T12:30:45.039992"
   }
 ]

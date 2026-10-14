@@ -6411,6 +6411,10 @@
     "f1733382664c4be4": {
       "title": "Granado Creme Assaduras Dermocalmante Bebê Peles Sensíveis 50g",
       "posted_at": "2026-10-14T00:30:49.626168"
+    },
+    "c75610b636ac1851": {
+      "title": "Burigotto Carrinho De Bebê Zap Metal, Prata",
+      "posted_at": "2026-10-14T03:20:44.478032"
     }
   },
   "results": [
@@ -30477,6 +30481,14 @@
       "post_id": "1615",
       "error": null,
       "at": "2026-10-14T00:30:49.625650"
+    },
+    {
+      "offer_id": "c75610b636ac1851",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1616",
+      "error": null,
+      "at": "2026-10-14T03:20:44.477402"
     }
   ]
 }
