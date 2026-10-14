@@ -6483,6 +6483,26 @@
     "ffbc44d1bdd7c2f9": {
       "title": "Fralda Huggies Supreme Care Roupinha M com 80",
       "posted_at": "2026-10-14T18:00:58.671393"
+    },
+    "b71b166b9bded34a": {
+      "title": "Carrinho Carro De Brinquedo Infantil Speed Presente Criança Menino Caminhonete Pick Up",
+      "posted_at": "2026-10-14T19:30:46.089772"
+    },
+    "cf795d46d828648d": {
+      "title": "Carrinho Bate e Pula Infantil Brinquedo Educativo Colorido e Resistente Presente Perfeito",
+      "posted_at": "2026-10-14T19:30:48.512004"
+    },
+    "6e87c37a8ee76e0d": {
+      "title": "kit 40 Mini pezinhos (20 pares) Chá de Fralda- bebe -saida de maternidade",
+      "posted_at": "2026-10-14T19:30:51.345640"
+    },
+    "81a9a8d2cb98dd7f": {
+      "title": "100 Mini Pezinhos  Lembrancinhas de Chá de Fralda -Revelação -saida  de Maternidade 50 pares",
+      "posted_at": "2026-10-14T19:30:52.661871"
+    },
+    "c552ffcdec610789": {
+      "title": "50 Sabonetes Perfumados com Mini Pezinhos para Lembrança de Chá de Fralda Infantil 25 pares",
+      "posted_at": "2026-10-14T19:30:54.945923"
     }
   },
   "results": [
@@ -30765,6 +30785,46 @@
       "post_id": "1633",
       "error": null,
       "at": "2026-10-14T18:00:58.670536"
+    },
+    {
+      "offer_id": "b71b166b9bded34a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1634",
+      "error": null,
+      "at": "2026-10-14T19:30:46.089203"
+    },
+    {
+      "offer_id": "cf795d46d828648d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1635",
+      "error": null,
+      "at": "2026-10-14T19:30:48.511301"
+    },
+    {
+      "offer_id": "6e87c37a8ee76e0d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1636",
+      "error": null,
+      "at": "2026-10-14T19:30:51.344935"
+    },
+    {
+      "offer_id": "81a9a8d2cb98dd7f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1637",
+      "error": null,
+      "at": "2026-10-14T19:30:52.661187"
+    },
+    {
+      "offer_id": "c552ffcdec610789",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1638",
+      "error": null,
+      "at": "2026-10-14T19:30:54.945240"
     }
   ]
 }
