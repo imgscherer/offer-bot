@@ -1,5 +1,29 @@
 [
   {
+    "id": "d3270e21c7eb5df2",
+    "title": "Huggies Fralda Pants Proteção Acolchoada XG com 144",
+    "price_now": 197.0,
+    "price_was": 289.0,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/994370911517919778294379721496.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-14T11:51:01.967382"
+  },
+  {
+    "id": "691fb3c57df09c4f",
+    "title": "Huggies Fralda Pants Proteção Acolchoada M com 216",
+    "price_now": 197.0,
+    "price_was": 289.0,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/871964230917919778309247592114.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-14T11:50:48.683134"
+  },
+  {
     "id": "74909b93e042e842",
     "title": "Graco Carrinho de Bebê Gêmeos Passeio Ready2Grow LX 2.0 CZ",
     "price_now": 1969.9,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-13T23:31:20.301439"
-  },
-  {
-    "id": "e6a9dab9408fe500",
-    "title": "Fralda Huggies Proteção Acolchoada Pants XXG 144 unidades",
-    "price_now": 197.1,
-    "price_was": 289.0,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0FPSX9VDZ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/784374130017919337291280162034.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-13T23:30:59.750181"
-  },
-  {
-    "id": "77932989db1223d0",
-    "title": "Sandália Infantil Antiderrapante (Tam. 21 ao 28, Diversas cores)",
-    "price_now": 39.2,
-    "price_was": 70.0,
-    "discount_pct": 44,
-    "url": "https://s.shopee.com.br/1BN5eDLDnF?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/905359706617919167522955404553.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-13T18:50:56.264284"
   }
 ]

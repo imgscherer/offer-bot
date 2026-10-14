@@ -6443,6 +6443,14 @@
     "74909b93e042e842": {
       "title": "Graco Carrinho de Bebê Gêmeos Passeio Ready2Grow LX 2.0 CZ",
       "posted_at": "2026-10-14T11:40:48.018160"
+    },
+    "691fb3c57df09c4f": {
+      "title": "Huggies Fralda Pants Proteção Acolchoada M com 216",
+      "posted_at": "2026-10-14T11:50:48.683397"
+    },
+    "d3270e21c7eb5df2": {
+      "title": "Huggies Fralda Pants Proteção Acolchoada XG com 144",
+      "posted_at": "2026-10-14T11:51:01.967858"
     }
   },
   "results": [
@@ -30573,6 +30581,22 @@
       "post_id": "1623",
       "error": null,
       "at": "2026-10-14T11:40:48.017532"
+    },
+    {
+      "offer_id": "691fb3c57df09c4f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1624",
+      "error": null,
+      "at": "2026-10-14T11:50:48.682856"
+    },
+    {
+      "offer_id": "d3270e21c7eb5df2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1625",
+      "error": null,
+      "at": "2026-10-14T11:51:01.967127"
     }
   ]
 }
