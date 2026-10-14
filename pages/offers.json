@@ -1,5 +1,17 @@
 [
   {
+    "id": "ce7d746c31376e88",
+    "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
+    "price_now": 12.6,
+    "price_was": 20.0,
+    "discount_pct": 37,
+    "url": "https://s.shopee.com.br/6VOd9X4lJn",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mpxyl5yh1csja8",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-14T13:10:34.998206"
+  },
+  {
     "id": "d3270e21c7eb5df2",
     "title": "Huggies Fralda Pants Proteção Acolchoada XG com 144",
     "price_now": 197.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-14T00:30:49.625919"
-  },
-  {
-    "id": "3cd8bdc2a565953e",
-    "title": "Fralda Huggies Proteção Acolchoada Pants M 216 unidades",
-    "price_now": 197.1,
-    "price_was": 289.0,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/766677354917919336703362077280.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-13T23:31:20.301439"
   }
 ]
