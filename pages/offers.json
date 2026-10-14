@@ -1,5 +1,17 @@
 [
   {
+    "id": "5b35f32c96e5a2a1",
+    "title": "Protex Baby Delicate Care Sabonete Líquido Infantil 200ml",
+    "price_now": 12.0,
+    "price_was": 22.78,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B08JQNSTJY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/562853447917919999151481683429.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-14T17:50:46.878369"
+  },
+  {
     "id": "ba546929862eab35",
     "title": "Carrinho de Bebê Cosco Kids Bross Preto Estrela",
     "price_now": 386.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-14T11:20:49.323434"
-  },
-  {
-    "id": "806139b4a919f57d",
-    "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
-    "price_now": 9.18,
-    "price_was": 22.29,
-    "discount_pct": 59,
-    "url": "https://www.amazon.com.br/dp/B07DHSFWBL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/450192465417919753248315619189.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-14T11:10:43.540264"
   }
 ]

@@ -6475,6 +6475,10 @@
     "ba546929862eab35": {
       "title": "Carrinho de Bebê Cosco Kids Bross Preto Estrela",
       "posted_at": "2026-10-14T17:30:48.907243"
+    },
+    "5b35f32c96e5a2a1": {
+      "title": "Protex Baby Delicate Care Sabonete Líquido Infantil 200ml",
+      "posted_at": "2026-10-14T17:50:46.878698"
     }
   },
   "results": [
@@ -30741,6 +30745,14 @@
       "post_id": "1631",
       "error": null,
       "at": "2026-10-14T17:30:48.906504"
+    },
+    {
+      "offer_id": "5b35f32c96e5a2a1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1632",
+      "error": null,
+      "at": "2026-10-14T17:50:46.878010"
     }
   ]
 }
