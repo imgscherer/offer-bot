@@ -6419,6 +6419,14 @@
     "36b0200f5e826d4a": {
       "title": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
       "posted_at": "2026-10-14T10:40:54.398638"
+    },
+    "044caa76989f2edf": {
+      "title": "Brinquedo Infantil Carrinho 6 em 1 com Engrenagens – Educativo, Interativo e Estimula Coordenação Motora",
+      "posted_at": "2026-10-14T11:00:41.086335"
+    },
+    "ad9bae8e48eed8d1": {
+      "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
+      "posted_at": "2026-10-14T11:00:41.989537"
     }
   },
   "results": [
@@ -30501,6 +30509,22 @@
       "post_id": "1617",
       "error": null,
       "at": "2026-10-14T10:40:54.397811"
+    },
+    {
+      "offer_id": "044caa76989f2edf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1618",
+      "error": null,
+      "at": "2026-10-14T11:00:41.085765"
+    },
+    {
+      "offer_id": "ad9bae8e48eed8d1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1619",
+      "error": null,
+      "at": "2026-10-14T11:00:41.988798"
     }
   ]
 }

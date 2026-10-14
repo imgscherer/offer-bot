@@ -1,5 +1,29 @@
 [
   {
+    "id": "ad9bae8e48eed8d1",
+    "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
+    "price_now": 11.62,
+    "price_was": 19.05,
+    "discount_pct": 39,
+    "url": "https://s.shopee.com.br/qkDLa8IcB",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxy82d0505ccb",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-14T11:00:41.989083"
+  },
+  {
+    "id": "044caa76989f2edf",
+    "title": "Brinquedo Infantil Carrinho 6 em 1 com Engrenagens – Educativo, Interativo e Estimula Coordenação Motora",
+    "price_now": 60.0,
+    "price_was": 150.0,
+    "discount_pct": 60,
+    "url": "https://s.shopee.com.br/9zyVFqOSIF",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkl4soz7oum903",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-14T11:00:41.086080"
+  },
+  {
     "id": "36b0200f5e826d4a",
     "title": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
     "price_now": 159.25,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-13T15:10:43.667174"
-  },
-  {
-    "id": "741b3f2d4b7867ec",
-    "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
-    "price_now": 19.0,
-    "price_was": 28.68,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/319912773817918988693293532108.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-13T13:50:46.736365"
-  },
-  {
-    "id": "e03985a57d93f6ba",
-    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula 50 Unidades",
-    "price_now": 4.0,
-    "price_was": 9.42,
-    "discount_pct": 58,
-    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/474025297117918953303502353095.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-13T13:00:52.236370"
   }
 ]
