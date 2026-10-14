@@ -1,5 +1,17 @@
 [
   {
+    "id": "f1733382664c4be4",
+    "title": "Granado Creme Assaduras Dermocalmante Bebê Peles Sensíveis 50g",
+    "price_now": 22.0,
+    "price_was": 35.0,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B07NPYD9KF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/878477915517919373368912202806.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-14T00:30:49.625919"
+  },
+  {
     "id": "3cd8bdc2a565953e",
     "title": "Fralda Huggies Proteção Acolchoada Pants M 216 unidades",
     "price_now": 197.1,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-13T12:30:45.039992"
-  },
-  {
-    "id": "073d7cdd72a004f9",
-    "title": "Fralda Pants Huggies Supreme Care XXG 58 Unidades",
-    "price_now": 78.0,
-    "price_was": 131.78,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0BXM4ZSBD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/758562977617918928707472933024.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-13T12:20:55.260061"
   }
 ]

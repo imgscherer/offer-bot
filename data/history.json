@@ -6407,6 +6407,10 @@
     "3cd8bdc2a565953e": {
       "title": "Fralda Huggies Proteção Acolchoada Pants M 216 unidades",
       "posted_at": "2026-10-13T23:31:20.301904"
+    },
+    "f1733382664c4be4": {
+      "title": "Granado Creme Assaduras Dermocalmante Bebê Peles Sensíveis 50g",
+      "posted_at": "2026-10-14T00:30:49.626168"
     }
   },
   "results": [
@@ -30465,6 +30469,14 @@
       "post_id": "1614",
       "error": null,
       "at": "2026-10-13T23:31:20.301133"
+    },
+    {
+      "offer_id": "f1733382664c4be4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1615",
+      "error": null,
+      "at": "2026-10-14T00:30:49.625650"
     }
   ]
 }
