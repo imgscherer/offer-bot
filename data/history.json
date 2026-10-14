@@ -6459,6 +6459,10 @@
     "418d249cd78b22ff": {
       "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
       "posted_at": "2026-10-14T13:30:47.193104"
+    },
+    "3e4c6b55cb9bc9bf": {
+      "title": "Fralda Pampers Confort Sec G 92 Unidades",
+      "posted_at": "2026-10-14T15:51:10.089996"
     }
   },
   "results": [
@@ -30693,6 +30697,14 @@
       "post_id": "1627",
       "error": null,
       "at": "2026-10-14T13:30:47.192313"
+    },
+    {
+      "offer_id": "3e4c6b55cb9bc9bf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1628",
+      "error": null,
+      "at": "2026-10-14T15:51:10.088848"
     }
   ]
 }

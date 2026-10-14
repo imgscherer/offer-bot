@@ -1,5 +1,17 @@
 [
   {
+    "id": "3e4c6b55cb9bc9bf",
+    "title": "Fralda Pampers Confort Sec G 92 Unidades",
+    "price_now": 129.0,
+    "price_was": 189.9,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/604998356417919923644648346503.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-14T15:51:10.089365"
+  },
+  {
     "id": "418d249cd78b22ff",
     "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
     "price_now": 20.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-14T10:40:54.398158"
-  },
-  {
-    "id": "c75610b636ac1851",
-    "title": "Burigotto Carrinho De Bebê Zap Metal, Prata",
-    "price_now": 539.39,
-    "price_was": 929.0,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0C4VJ5DCQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/804846065617919476473254472804.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-14T03:20:44.477748"
   }
 ]
