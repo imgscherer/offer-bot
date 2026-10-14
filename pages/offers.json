@@ -1,5 +1,17 @@
 [
   {
+    "id": "418d249cd78b22ff",
+    "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
+    "price_now": 20.0,
+    "price_was": 44.99,
+    "discount_pct": 56,
+    "url": "https://www.amazon.com.br/dp/B07F1Z7ZM2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/234735759717919842373254401610.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-14T13:30:47.192651"
+  },
+  {
     "id": "ce7d746c31376e88",
     "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
     "price_now": 12.6,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-14T03:20:44.477748"
-  },
-  {
-    "id": "f1733382664c4be4",
-    "title": "Granado Creme Assaduras Dermocalmante Bebê Peles Sensíveis 50g",
-    "price_now": 22.0,
-    "price_was": 35.0,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B07NPYD9KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/878477915517919373368912202806.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-14T00:30:49.625919"
   }
 ]
