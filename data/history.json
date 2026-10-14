@@ -6479,6 +6479,10 @@
     "5b35f32c96e5a2a1": {
       "title": "Protex Baby Delicate Care Sabonete Líquido Infantil 200ml",
       "posted_at": "2026-10-14T17:50:46.878698"
+    },
+    "ffbc44d1bdd7c2f9": {
+      "title": "Fralda Huggies Supreme Care Roupinha M com 80",
+      "posted_at": "2026-10-14T18:00:58.671393"
     }
   },
   "results": [
@@ -30753,6 +30757,14 @@
       "post_id": "1632",
       "error": null,
       "at": "2026-10-14T17:50:46.878010"
+    },
+    {
+      "offer_id": "ffbc44d1bdd7c2f9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1633",
+      "error": null,
+      "at": "2026-10-14T18:00:58.670536"
     }
   ]
 }

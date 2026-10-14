@@ -1,5 +1,17 @@
 [
   {
+    "id": "ffbc44d1bdd7c2f9",
+    "title": "Fralda Huggies Supreme Care Roupinha M com 80",
+    "price_now": 73.0,
+    "price_was": 131.78,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B0BXM2Q9SQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/972849699417920005729038635747.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-14T18:00:58.670891"
+  },
+  {
     "id": "5b35f32c96e5a2a1",
     "title": "Protex Baby Delicate Care Sabonete Líquido Infantil 200ml",
     "price_now": 12.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-14T11:21:01.890799"
-  },
-  {
-    "id": "10808704c7351595",
-    "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
-    "price_now": 25.19,
-    "price_was": 39.49,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/408350603617919761279226272919.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-14T11:20:49.323434"
   }
 ]
