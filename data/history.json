@@ -6427,6 +6427,10 @@
     "ad9bae8e48eed8d1": {
       "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
       "posted_at": "2026-10-14T11:00:41.989537"
+    },
+    "806139b4a919f57d": {
+      "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
+      "posted_at": "2026-10-14T11:10:43.540591"
     }
   },
   "results": [
@@ -30525,6 +30529,14 @@
       "post_id": "1619",
       "error": null,
       "at": "2026-10-14T11:00:41.988798"
+    },
+    {
+      "offer_id": "806139b4a919f57d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1620",
+      "error": null,
+      "at": "2026-10-14T11:10:43.539887"
     }
   ]
 }
