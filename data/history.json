@@ -6471,6 +6471,10 @@
     "2a920b1929e35531": {
       "title": "Fralda Pampers Confort Sec Tamanho Xxg 148 Unidades",
       "posted_at": "2026-10-14T17:11:03.743964"
+    },
+    "ba546929862eab35": {
+      "title": "Carrinho de Bebê Cosco Kids Bross Preto Estrela",
+      "posted_at": "2026-10-14T17:30:48.907243"
     }
   },
   "results": [
@@ -30729,6 +30733,14 @@
       "post_id": "1630",
       "error": null,
       "at": "2026-10-14T17:11:03.742972"
+    },
+    {
+      "offer_id": "ba546929862eab35",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1631",
+      "error": null,
+      "at": "2026-10-14T17:30:48.906504"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "ba546929862eab35",
+    "title": "Carrinho de Bebê Cosco Kids Bross Preto Estrela",
+    "price_now": 386.0,
+    "price_was": 659.0,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0F38KYPJN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/550259434917919982347680516911.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-14T17:30:48.906846"
+  },
+  {
     "id": "2a920b1929e35531",
     "title": "Fralda Pampers Confort Sec Tamanho Xxg 148 Unidades",
     "price_now": 162.61,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-14T11:10:43.540264"
-  },
-  {
-    "id": "ad9bae8e48eed8d1",
-    "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
-    "price_now": 11.62,
-    "price_was": 19.05,
-    "discount_pct": 39,
-    "url": "https://s.shopee.com.br/qkDLa8IcB",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxy82d0505ccb",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-14T11:00:41.989083"
   }
 ]
