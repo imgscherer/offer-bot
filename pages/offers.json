@@ -1,5 +1,17 @@
 [
   {
+    "id": "74909b93e042e842",
+    "title": "Graco Carrinho de Bebê Gêmeos Passeio Ready2Grow LX 2.0 CZ",
+    "price_now": 1969.9,
+    "price_was": 2990.0,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B08K2YFNDW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/656161838017919775505919454235.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-14T11:40:48.017866"
+  },
+  {
     "id": "1a52b790a9528dea",
     "title": "Fralda Turma Da Mônica Baby Jumbo M 28 Unidades",
     "price_now": 18.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-13T18:50:56.264284"
-  },
-  {
-    "id": "9911a2151d258928",
-    "title": "Fralda Personal Baby Protect & Sec Grande Promo - 78 Unidades",
-    "price_now": 63.14,
-    "price_was": 89.99,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0DF9RCVYY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/881635138317919132322692484576.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-13T17:50:53.993830"
   }
 ]
