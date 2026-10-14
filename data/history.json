@@ -6431,6 +6431,14 @@
     "806139b4a919f57d": {
       "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
       "posted_at": "2026-10-14T11:10:43.540591"
+    },
+    "10808704c7351595": {
+      "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
+      "posted_at": "2026-10-14T11:20:49.323937"
+    },
+    "1a52b790a9528dea": {
+      "title": "Fralda Turma Da Mônica Baby Jumbo M 28 Unidades",
+      "posted_at": "2026-10-14T11:21:01.891220"
     }
   },
   "results": [
@@ -30537,6 +30545,22 @@
       "post_id": "1620",
       "error": null,
       "at": "2026-10-14T11:10:43.539887"
+    },
+    {
+      "offer_id": "10808704c7351595",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1621",
+      "error": null,
+      "at": "2026-10-14T11:20:49.323073"
+    },
+    {
+      "offer_id": "1a52b790a9528dea",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1622",
+      "error": null,
+      "at": "2026-10-14T11:21:01.890420"
     }
   ]
 }

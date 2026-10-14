@@ -1,5 +1,29 @@
 [
   {
+    "id": "1a52b790a9528dea",
+    "title": "Fralda Turma Da Mônica Baby Jumbo M 28 Unidades",
+    "price_now": 18.99,
+    "price_was": 28.68,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KXW911?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/758687620517919760474088806505.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-14T11:21:01.890799"
+  },
+  {
+    "id": "10808704c7351595",
+    "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
+    "price_now": 25.19,
+    "price_was": 39.49,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/408350603617919761279226272919.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-14T11:20:49.323434"
+  },
+  {
     "id": "806139b4a919f57d",
     "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
     "price_now": 9.18,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-13T17:50:53.993830"
-  },
-  {
-    "id": "48ddb42bd6a104e3",
-    "title": "Carrinho de Passeio com Bebê Conforto TS NIVI Maxi Baby",
-    "price_now": 685.9,
-    "price_was": 1399.9,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B0FMFWWD8H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/510404662917919133818732280534.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-13T17:50:45.369945"
-  },
-  {
-    "id": "f046e938c72d5e17",
-    "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
-    "price_now": 15.49,
-    "price_was": 22.69,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B095D664HJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/578754702317919066123559829495.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-13T16:00:53.286209"
   }
 ]
