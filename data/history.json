@@ -6415,6 +6415,10 @@
     "c75610b636ac1851": {
       "title": "Burigotto Carrinho De Bebê Zap Metal, Prata",
       "posted_at": "2026-10-14T03:20:44.478032"
+    },
+    "36b0200f5e826d4a": {
+      "title": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
+      "posted_at": "2026-10-14T10:40:54.398638"
     }
   },
   "results": [
@@ -30489,6 +30493,14 @@
       "post_id": "1616",
       "error": null,
       "at": "2026-10-14T03:20:44.477402"
+    },
+    {
+      "offer_id": "36b0200f5e826d4a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1617",
+      "error": null,
+      "at": "2026-10-14T10:40:54.397811"
     }
   ]
 }

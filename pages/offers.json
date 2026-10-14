@@ -1,5 +1,17 @@
 [
   {
+    "id": "36b0200f5e826d4a",
+    "title": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
+    "price_now": 159.25,
+    "price_was": 235.87,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B09DQ6CMG2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/552596478017919739031883213021.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-14T10:40:54.398158"
+  },
+  {
     "id": "c75610b636ac1851",
     "title": "Burigotto Carrinho De Bebê Zap Metal, Prata",
     "price_now": 539.39,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-13T13:00:52.236370"
-  },
-  {
-    "id": "10611732979c3bee",
-    "title": "Babuche infantil Personagem (Tam. 21 ao 32)",
-    "price_now": 23.9,
-    "price_was": 70.29,
-    "discount_pct": 66,
-    "url": "https://s.shopee.com.br/9pf3YntX5z?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/374296323317918946248149296537.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-13T12:41:06.828519"
   }
 ]
