@@ -6463,6 +6463,14 @@
     "3e4c6b55cb9bc9bf": {
       "title": "Fralda Pampers Confort Sec G 92 Unidades",
       "posted_at": "2026-10-14T15:51:10.089996"
+    },
+    "ef50157905d65e7d": {
+      "title": "Tênis Infantil Lilo Stitch (Tam. 26 ao 33, 4 cores)",
+      "posted_at": "2026-10-14T17:10:49.285454"
+    },
+    "2a920b1929e35531": {
+      "title": "Fralda Pampers Confort Sec Tamanho Xxg 148 Unidades",
+      "posted_at": "2026-10-14T17:11:03.743964"
     }
   },
   "results": [
@@ -30705,6 +30713,22 @@
       "post_id": "1628",
       "error": null,
       "at": "2026-10-14T15:51:10.088848"
+    },
+    {
+      "offer_id": "ef50157905d65e7d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1629",
+      "error": null,
+      "at": "2026-10-14T17:10:49.284646"
+    },
+    {
+      "offer_id": "2a920b1929e35531",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1630",
+      "error": null,
+      "at": "2026-10-14T17:11:03.742972"
     }
   ]
 }

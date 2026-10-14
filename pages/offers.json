@@ -1,5 +1,29 @@
 [
   {
+    "id": "2a920b1929e35531",
+    "title": "Fralda Pampers Confort Sec Tamanho Xxg 148 Unidades",
+    "price_now": 162.61,
+    "price_was": 235.87,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0DDV1QKW7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/203072312817919975799434663886.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-14T17:11:03.743412"
+  },
+  {
+    "id": "ef50157905d65e7d",
+    "title": "Tênis Infantil Lilo Stitch (Tam. 26 ao 33, 4 cores)",
+    "price_now": 62.0,
+    "price_was": 99.98,
+    "discount_pct": 38,
+    "url": "https://s.shopee.com.br/60SMt5dYL5?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/835613282117919971264453656154.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-14T17:10:49.285056"
+  },
+  {
     "id": "3e4c6b55cb9bc9bf",
     "title": "Fralda Pampers Confort Sec G 92 Unidades",
     "price_now": 129.0,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-14T11:00:41.989083"
-  },
-  {
-    "id": "044caa76989f2edf",
-    "title": "Brinquedo Infantil Carrinho 6 em 1 com Engrenagens – Educativo, Interativo e Estimula Coordenação Motora",
-    "price_now": 60.0,
-    "price_was": 150.0,
-    "discount_pct": 60,
-    "url": "https://s.shopee.com.br/9zyVFqOSIF",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkl4soz7oum903",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-14T11:00:41.086080"
-  },
-  {
-    "id": "36b0200f5e826d4a",
-    "title": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
-    "price_now": 159.25,
-    "price_was": 235.87,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B09DQ6CMG2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/552596478017919739031883213021.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-14T10:40:54.398158"
   }
 ]
