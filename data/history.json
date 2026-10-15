@@ -6535,6 +6535,10 @@
     "38ceb4396cae3900": {
       "title": "Huggies Fralda Premium Natural Care M - 78 Un",
       "posted_at": "2026-10-15T11:11:00.188023"
+    },
+    "d451d3ad4e7b7741": {
+      "title": "Rasteirinha Infantil Pedraria (Tam. 25 ao 34, 4 Cores)",
+      "posted_at": "2026-10-15T12:10:54.371925"
     }
   },
   "results": [
@@ -31025,6 +31029,14 @@
       "post_id": "1646",
       "error": null,
       "at": "2026-10-15T11:11:00.187296"
+    },
+    {
+      "offer_id": "d451d3ad4e7b7741",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1647",
+      "error": null,
+      "at": "2026-10-15T12:10:54.371091"
     }
   ]
 }
