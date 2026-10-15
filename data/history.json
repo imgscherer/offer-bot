@@ -6551,6 +6551,10 @@
     "231f20a1a2d91def": {
       "title": "Babysec Fraldas Ultrasec Galinha Pintadinha M 72 Unidades",
       "posted_at": "2026-10-15T12:50:51.543442"
+    },
+    "4ff9f926ce70a9fe": {
+      "title": "Personal Fralda Baby Total Protect Pants M 28 Unidades",
+      "posted_at": "2026-10-15T13:50:44.178522"
     }
   },
   "results": [
@@ -31073,6 +31077,14 @@
       "post_id": "1650",
       "error": null,
       "at": "2026-10-15T12:50:51.542574"
+    },
+    {
+      "offer_id": "4ff9f926ce70a9fe",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1651",
+      "error": null,
+      "at": "2026-10-15T13:50:44.177827"
     }
   ]
 }
