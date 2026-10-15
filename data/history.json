@@ -6599,6 +6599,22 @@
     "bb9ea348c908ef84": {
       "title": "Fralda Huggies Little Swimmers GXG 10 Unidades",
       "posted_at": "2026-10-15T22:40:46.621610"
+    },
+    "1759e6a17d041a3c": {
+      "title": "Suporte de Baba Eletrônica Para Berço Camera Yoosee 360 Giratória Baby Monitor VB603 Taktark Bm813 Intelbras IM4C",
+      "posted_at": "2026-10-15T23:00:46.637426"
+    },
+    "94fbdcd2b87fcc6a": {
+      "title": "Capa de Colchão Impermeável Antialérgica Protetor colchão Solteiro Berço Casal e Queen Hospitalar",
+      "posted_at": "2026-10-15T23:01:11.952688"
+    },
+    "2874e98cd12b145c": {
+      "title": "Lençol Conforto de berço com elástico + Leve 1 Fronha de Brinde 400 Fios Toque Macio e Aveludado",
+      "posted_at": "2026-10-15T23:01:13.545548"
+    },
+    "45be2314e1556754": {
+      "title": "Capa Colchão Impermeável Protetor Berço Mini Cama Solteiro Fronha Travesseiro Impermeável Antixixi",
+      "posted_at": "2026-10-15T23:01:15.147072"
     }
   },
   "results": [
@@ -31217,6 +31233,46 @@
       "post_id": "1662",
       "error": null,
       "at": "2026-10-15T22:40:46.620944"
+    },
+    {
+      "offer_id": "1759e6a17d041a3c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1663",
+      "error": null,
+      "at": "2026-10-15T23:00:46.636610"
+    },
+    {
+      "offer_id": "401708019e1c88dd",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-15T23:01:09.821664"
+    },
+    {
+      "offer_id": "94fbdcd2b87fcc6a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1664",
+      "error": null,
+      "at": "2026-10-15T23:01:11.951910"
+    },
+    {
+      "offer_id": "2874e98cd12b145c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1665",
+      "error": null,
+      "at": "2026-10-15T23:01:13.544749"
+    },
+    {
+      "offer_id": "45be2314e1556754",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1666",
+      "error": null,
+      "at": "2026-10-15T23:01:15.146303"
     }
   ]
 }
