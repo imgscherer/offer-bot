@@ -6567,6 +6567,14 @@
     "2745acfdb3aca498": {
       "title": "Granado Refil Sabonete Líquido Bebê Tradicional 250ml",
       "posted_at": "2026-10-15T17:00:51.660449"
+    },
+    "467503ef791e6c6a": {
+      "title": "Burigotto Banheira Millenia, Azul Bebê",
+      "posted_at": "2026-10-15T18:00:48.399876"
+    },
+    "2d1b0d567c14f52d": {
+      "title": "Kit Conjunto 2 Body Manga Curta + 2 Tapa Fralda Bebê Gola Envelope Menino Menina 0 a 18 meses",
+      "posted_at": "2026-10-15T18:00:49.456235"
     }
   },
   "results": [
@@ -31121,6 +31129,22 @@
       "post_id": "1654",
       "error": null,
       "at": "2026-10-15T17:00:51.659623"
+    },
+    {
+      "offer_id": "467503ef791e6c6a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1655",
+      "error": null,
+      "at": "2026-10-15T18:00:48.399060"
+    },
+    {
+      "offer_id": "2d1b0d567c14f52d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1656",
+      "error": null,
+      "at": "2026-10-15T18:00:49.455526"
     }
   ]
 }

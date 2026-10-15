@@ -1,5 +1,29 @@
 [
   {
+    "id": "2d1b0d567c14f52d",
+    "title": "Kit Conjunto 2 Body Manga Curta + 2 Tapa Fralda Bebê Gola Envelope Menino Menina 0 a 18 meses",
+    "price_now": 68.12,
+    "price_was": 103.21,
+    "discount_pct": 34,
+    "url": "https://s.shopee.com.br/3qNsyR6tBa",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8258s-mg2f5jpvcr9ob5",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-15T18:00:49.455859"
+  },
+  {
+    "id": "467503ef791e6c6a",
+    "title": "Burigotto Banheira Millenia, Azul Bebê",
+    "price_now": 249.91,
+    "price_was": 419.0,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0964FR2L8?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/291145387617920868065786732441.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-15T18:00:48.399403"
+  },
+  {
     "id": "2745acfdb3aca498",
     "title": "Granado Refil Sabonete Líquido Bebê Tradicional 250ml",
     "price_now": 13.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-15T11:10:47.938189"
-  },
-  {
-    "id": "03b7c64193f58abe",
-    "title": "Cadeirinha Infantil para Carro Fisher-Price GrowStages All Stages i-Size Isofix 40150 cm BB724",
-    "price_now": 930.0,
-    "price_was": 1599.9,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0F15D4CGM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/533520098117920291919774205531.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-15T02:00:50.047295"
-  },
-  {
-    "id": "70cfe880ed5fe34f",
-    "title": "Fralda Premium Huggies Natural Care RN 34 Unidades",
-    "price_now": 35.12,
-    "price_was": 54.87,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/7AeKnXr9Vh?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/978488318117920253563632664152.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-15T01:01:02.946668"
   }
 ]
