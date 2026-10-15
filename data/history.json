@@ -6555,6 +6555,10 @@
     "4ff9f926ce70a9fe": {
       "title": "Personal Fralda Baby Total Protect Pants M 28 Unidades",
       "posted_at": "2026-10-15T13:50:44.178522"
+    },
+    "efb889cd19777a54": {
+      "title": "Buba Troninho Infantil Cinza",
+      "posted_at": "2026-10-15T15:30:45.046481"
     }
   },
   "results": [
@@ -31085,6 +31089,14 @@
       "post_id": "1651",
       "error": null,
       "at": "2026-10-15T13:50:44.177827"
+    },
+    {
+      "offer_id": "efb889cd19777a54",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1652",
+      "error": null,
+      "at": "2026-10-15T15:30:45.045885"
     }
   ]
 }
