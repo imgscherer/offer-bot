@@ -1,5 +1,17 @@
 [
   {
+    "id": "45134be18521a596",
+    "title": "Fralda Personal Baby Protect & Sec G 78 Unidades",
+    "price_now": 62.0,
+    "price_was": 89.99,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0DF9RCVYY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/445891120217920218718428946286.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-15T00:00:56.053233"
+  },
+  {
     "id": "e0e5db98ee357ee7",
     "title": "Fralda Descartável Cremer Magic Care Hiper G 60 Unidades",
     "price_now": 43.19,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-14T17:11:03.743412"
-  },
-  {
-    "id": "ef50157905d65e7d",
-    "title": "Tênis Infantil Lilo Stitch (Tam. 26 ao 33, 4 cores)",
-    "price_now": 62.0,
-    "price_was": 99.98,
-    "discount_pct": 38,
-    "url": "https://s.shopee.com.br/60SMt5dYL5?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/835613282117919971264453656154.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-14T17:10:49.285056"
   }
 ]
