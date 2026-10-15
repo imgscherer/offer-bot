@@ -6527,6 +6527,14 @@
     "03b7c64193f58abe": {
       "title": "Cadeirinha Infantil para Carro Fisher-Price GrowStages All Stages i-Size Isofix 40150 cm BB724",
       "posted_at": "2026-10-15T02:00:50.047645"
+    },
+    "8d6f4f66c0f36f61": {
+      "title": "Fralda Mili Love&Care P 56 Unidades",
+      "posted_at": "2026-10-15T11:10:47.938770"
+    },
+    "38ceb4396cae3900": {
+      "title": "Huggies Fralda Premium Natural Care M - 78 Un",
+      "posted_at": "2026-10-15T11:11:00.188023"
     }
   },
   "results": [
@@ -31001,6 +31009,22 @@
       "post_id": "1644",
       "error": null,
       "at": "2026-10-15T02:00:50.046967"
+    },
+    {
+      "offer_id": "8d6f4f66c0f36f61",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1645",
+      "error": null,
+      "at": "2026-10-15T11:10:47.937858"
+    },
+    {
+      "offer_id": "38ceb4396cae3900",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1646",
+      "error": null,
+      "at": "2026-10-15T11:11:00.187296"
     }
   ]
 }

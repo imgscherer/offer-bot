@@ -1,5 +1,29 @@
 [
   {
+    "id": "38ceb4396cae3900",
+    "title": "Huggies Fralda Premium Natural Care M - 78 Un",
+    "price_now": 84.0,
+    "price_was": 125.24,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/523363591517920620184616152389.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-15T11:11:00.187570"
+  },
+  {
+    "id": "8d6f4f66c0f36f61",
+    "title": "Fralda Mili Love&Care P 56 Unidades",
+    "price_now": 44.59,
+    "price_was": 85.6,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B07GG1YT1W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/360414242717920620399747142888.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-15T11:10:47.938189"
+  },
+  {
     "id": "03b7c64193f58abe",
     "title": "Cadeirinha Infantil para Carro Fisher-Price GrowStages All Stages i-Size Isofix 40150 cm BB724",
     "price_now": 930.0,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-14T19:30:48.511574"
-  },
-  {
-    "id": "b71b166b9bded34a",
-    "title": "Carrinho Carro De Brinquedo Infantil Speed Presente Criança Menino Caminhonete Pick Up",
-    "price_now": 15.48,
-    "price_was": 70.36,
-    "discount_pct": 78,
-    "url": "https://s.shopee.com.br/2gBv5OJoXo",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7ratj-maiidk73bgwh21",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-14T19:30:46.089511"
-  },
-  {
-    "id": "ffbc44d1bdd7c2f9",
-    "title": "Fralda Huggies Supreme Care Roupinha M com 80",
-    "price_now": 73.0,
-    "price_was": 131.78,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B0BXM2Q9SQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/972849699417920005729038635747.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-14T18:00:58.670891"
   }
 ]
