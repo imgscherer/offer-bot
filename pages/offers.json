@@ -1,5 +1,17 @@
 [
   {
+    "id": "8af80ec915a468d3",
+    "title": "Escorredor De Mamadeira Clingo",
+    "price_now": 33.39,
+    "price_was": 49.9,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B07MWT9NND?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/695349038817920912911495514704.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-15T19:20:45.026891"
+  },
+  {
     "id": "2d1b0d567c14f52d",
     "title": "Kit Conjunto 2 Body Manga Curta + 2 Tapa Fralda Bebê Gola Envelope Menino Menina 0 a 18 meses",
     "price_now": 68.12,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-15T11:11:00.187570"
-  },
-  {
-    "id": "8d6f4f66c0f36f61",
-    "title": "Fralda Mili Love&Care P 56 Unidades",
-    "price_now": 44.59,
-    "price_was": 85.6,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B07GG1YT1W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/360414242717920620399747142888.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-15T11:10:47.938189"
   }
 ]

@@ -6575,6 +6575,10 @@
     "2d1b0d567c14f52d": {
       "title": "Kit Conjunto 2 Body Manga Curta + 2 Tapa Fralda Bebê Gola Envelope Menino Menina 0 a 18 meses",
       "posted_at": "2026-10-15T18:00:49.456235"
+    },
+    "8af80ec915a468d3": {
+      "title": "Escorredor De Mamadeira Clingo",
+      "posted_at": "2026-10-15T19:20:45.027200"
     }
   },
   "results": [
@@ -31145,6 +31149,14 @@
       "post_id": "1656",
       "error": null,
       "at": "2026-10-15T18:00:49.455526"
+    },
+    {
+      "offer_id": "8af80ec915a468d3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1657",
+      "error": null,
+      "at": "2026-10-15T19:20:45.026533"
     }
   ]
 }
