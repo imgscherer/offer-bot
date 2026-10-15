@@ -6547,6 +6547,10 @@
     "55b9e21a030f16dd": {
       "title": "Fralda Pom Pom Protek Proteção De Mãe Jumbo M 28 Unidades",
       "posted_at": "2026-10-15T12:30:52.720199"
+    },
+    "231f20a1a2d91def": {
+      "title": "Babysec Fraldas Ultrasec Galinha Pintadinha M 72 Unidades",
+      "posted_at": "2026-10-15T12:50:51.543442"
     }
   },
   "results": [
@@ -31061,6 +31065,14 @@
       "post_id": "1649",
       "error": null,
       "at": "2026-10-15T12:30:52.719631"
+    },
+    {
+      "offer_id": "231f20a1a2d91def",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1650",
+      "error": null,
+      "at": "2026-10-15T12:50:51.542574"
     }
   ]
 }
