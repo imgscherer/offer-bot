@@ -6579,6 +6579,14 @@
     "8af80ec915a468d3": {
       "title": "Escorredor De Mamadeira Clingo",
       "posted_at": "2026-10-15T19:20:45.027200"
+    },
+    "2fd78d32ff959ddb": {
+      "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
+      "posted_at": "2026-10-15T19:50:50.536481"
+    },
+    "125684f6da9d3fee": {
+      "title": "Fralda Mili XG 22 unidades",
+      "posted_at": "2026-10-15T19:51:06.887323"
     }
   },
   "results": [
@@ -31157,6 +31165,22 @@
       "post_id": "1657",
       "error": null,
       "at": "2026-10-15T19:20:45.026533"
+    },
+    {
+      "offer_id": "2fd78d32ff959ddb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1658",
+      "error": null,
+      "at": "2026-10-15T19:50:50.535791"
+    },
+    {
+      "offer_id": "125684f6da9d3fee",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1659",
+      "error": null,
+      "at": "2026-10-15T19:51:06.886600"
     }
   ]
 }

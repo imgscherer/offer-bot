@@ -1,5 +1,29 @@
 [
   {
+    "id": "125684f6da9d3fee",
+    "title": "Fralda Mili XG 22 unidades",
+    "price_now": 23.63,
+    "price_was": 42.48,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B07GB468ZM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/703928379817920931135555022651.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-15T19:51:06.886926"
+  },
+  {
+    "id": "2fd78d32ff959ddb",
+    "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
+    "price_now": 17.67,
+    "price_was": 33.22,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B07GB34N8Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/665576717917920931552656284286.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-15T19:50:50.536149"
+  },
+  {
     "id": "8af80ec915a468d3",
     "title": "Escorredor De Mamadeira Clingo",
     "price_now": 33.39,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-15T12:20:48.433658"
-  },
-  {
-    "id": "d451d3ad4e7b7741",
-    "title": "Rasteirinha Infantil Pedraria (Tam. 25 ao 34, 4 Cores)",
-    "price_now": 63.9,
-    "price_was": 99.85,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/40hJlWiOTA?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/918708545317920653723344989969.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-15T12:10:54.371428"
-  },
-  {
-    "id": "38ceb4396cae3900",
-    "title": "Huggies Fralda Premium Natural Care M - 78 Un",
-    "price_now": 84.0,
-    "price_was": 125.24,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/523363591517920620184616152389.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-15T11:11:00.187570"
   }
 ]
