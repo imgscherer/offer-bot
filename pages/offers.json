@@ -1,5 +1,17 @@
 [
   {
+    "id": "2745acfdb3aca498",
+    "title": "Granado Refil Sabonete Líquido Bebê Tradicional 250ml",
+    "price_now": 13.0,
+    "price_was": 22.0,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07D2FXHM1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/240362022517920832092741403668.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-15T17:00:51.659958"
+  },
+  {
     "id": "3b5449e54baa159f",
     "title": "Granado Água De Limpeza Bebê, Peles Sensíveis, 500ml",
     "price_now": 49.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-15T01:01:02.946668"
-  },
-  {
-    "id": "37016269976f3da7",
-    "title": "Maxi Baby Carrinho de Bebê Guarda Chuva LINK Até 15kgs (Preto)",
-    "price_now": 313.4,
-    "price_was": 469.9,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0CPN7TJ4F?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/447204134417920228437300730028.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-15T00:30:42.234208"
   }
 ]

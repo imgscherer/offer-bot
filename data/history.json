@@ -6563,6 +6563,10 @@
     "3b5449e54baa159f": {
       "title": "Granado Água De Limpeza Bebê, Peles Sensíveis, 500ml",
       "posted_at": "2026-10-15T16:00:52.550250"
+    },
+    "2745acfdb3aca498": {
+      "title": "Granado Refil Sabonete Líquido Bebê Tradicional 250ml",
+      "posted_at": "2026-10-15T17:00:51.660449"
     }
   },
   "results": [
@@ -31109,6 +31113,14 @@
       "post_id": "1653",
       "error": null,
       "at": "2026-10-15T16:00:52.549559"
+    },
+    {
+      "offer_id": "2745acfdb3aca498",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1654",
+      "error": null,
+      "at": "2026-10-15T17:00:51.659623"
     }
   ]
 }
