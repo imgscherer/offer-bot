@@ -6543,6 +6543,10 @@
     "30968e0b02c89dd7": {
       "title": "Fralda baby premium pants m, 48 unidades &#8211; personal",
       "posted_at": "2026-10-15T12:20:48.433921"
+    },
+    "55b9e21a030f16dd": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe Jumbo M 28 Unidades",
+      "posted_at": "2026-10-15T12:30:52.720199"
     }
   },
   "results": [
@@ -31049,6 +31053,14 @@
       "post_id": "1648",
       "error": null,
       "at": "2026-10-15T12:20:48.433338"
+    },
+    {
+      "offer_id": "55b9e21a030f16dd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1649",
+      "error": null,
+      "at": "2026-10-15T12:30:52.719631"
     }
   ]
 }
