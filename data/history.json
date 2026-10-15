@@ -6591,6 +6591,10 @@
     "7bbfb249bb158e77": {
       "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula 50 Unidades",
       "posted_at": "2026-10-15T20:10:42.037716"
+    },
+    "ac878186cba658ec": {
+      "title": "Kit 6 Cuecas Boxer Infantil Polo Cotton 100% Algodão (Tam. P ao GG, 4 Cores)",
+      "posted_at": "2026-10-15T21:10:42.525179"
     }
   },
   "results": [
@@ -31193,6 +31197,14 @@
       "post_id": "1660",
       "error": null,
       "at": "2026-10-15T20:10:41.935142"
+    },
+    {
+      "offer_id": "ac878186cba658ec",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1661",
+      "error": null,
+      "at": "2026-10-15T21:10:42.524660"
     }
   ]
 }
