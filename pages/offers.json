@@ -1,5 +1,17 @@
 [
   {
+    "id": "7bbfb249bb158e77",
+    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula 50 Unidades",
+    "price_now": 4.0,
+    "price_was": 9.42,
+    "discount_pct": 58,
+    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/644847881017920944912477215125.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-15T20:10:41.935431"
+  },
+  {
     "id": "125684f6da9d3fee",
     "title": "Fralda Mili XG 22 unidades",
     "price_now": 23.63,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-15T12:30:52.719923"
-  },
-  {
-    "id": "30968e0b02c89dd7",
-    "title": "Fralda baby premium pants m, 48 unidades &#8211; personal",
-    "price_now": 29.99,
-    "price_was": 80.03,
-    "discount_pct": 63,
-    "url": "https://www.amazon.com.br/dp/B0BGM6P1SF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/292048072817920662115138486156.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-15T12:20:48.433658"
   }
 ]
