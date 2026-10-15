@@ -6539,6 +6539,10 @@
     "d451d3ad4e7b7741": {
       "title": "Rasteirinha Infantil Pedraria (Tam. 25 ao 34, 4 Cores)",
       "posted_at": "2026-10-15T12:10:54.371925"
+    },
+    "30968e0b02c89dd7": {
+      "title": "Fralda baby premium pants m, 48 unidades &#8211; personal",
+      "posted_at": "2026-10-15T12:20:48.433921"
     }
   },
   "results": [
@@ -31037,6 +31041,14 @@
       "post_id": "1647",
       "error": null,
       "at": "2026-10-15T12:10:54.371091"
+    },
+    {
+      "offer_id": "30968e0b02c89dd7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1648",
+      "error": null,
+      "at": "2026-10-15T12:20:48.433338"
     }
   ]
 }
