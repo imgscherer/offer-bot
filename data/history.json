@@ -6519,6 +6519,10 @@
     "37016269976f3da7": {
       "title": "Maxi Baby Carrinho de Bebê Guarda Chuva LINK Até 15kgs (Preto)",
       "posted_at": "2026-10-15T00:30:42.234552"
+    },
+    "70cfe880ed5fe34f": {
+      "title": "Fralda Premium Huggies Natural Care RN 34 Unidades",
+      "posted_at": "2026-10-15T01:01:02.947103"
     }
   },
   "results": [
@@ -30977,6 +30981,14 @@
       "post_id": "1642",
       "error": null,
       "at": "2026-10-15T00:30:42.233955"
+    },
+    {
+      "offer_id": "70cfe880ed5fe34f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1643",
+      "error": null,
+      "at": "2026-10-15T01:01:02.946296"
     }
   ]
 }
