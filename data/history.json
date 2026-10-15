@@ -6595,6 +6595,10 @@
     "ac878186cba658ec": {
       "title": "Kit 6 Cuecas Boxer Infantil Polo Cotton 100% Algodão (Tam. P ao GG, 4 Cores)",
       "posted_at": "2026-10-15T21:10:42.525179"
+    },
+    "bb9ea348c908ef84": {
+      "title": "Fralda Huggies Little Swimmers GXG 10 Unidades",
+      "posted_at": "2026-10-15T22:40:46.621610"
     }
   },
   "results": [
@@ -31205,6 +31209,14 @@
       "post_id": "1661",
       "error": null,
       "at": "2026-10-15T21:10:42.524660"
+    },
+    {
+      "offer_id": "bb9ea348c908ef84",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1662",
+      "error": null,
+      "at": "2026-10-15T22:40:46.620944"
     }
   ]
 }
