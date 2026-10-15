@@ -1,5 +1,17 @@
 [
   {
+    "id": "3b5449e54baa159f",
+    "title": "Granado Água De Limpeza Bebê, Peles Sensíveis, 500ml",
+    "price_now": 49.0,
+    "price_was": 74.19,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B07NPWTYJT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/412666310717920795311868327106.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-15T16:00:52.549937"
+  },
+  {
     "id": "efb889cd19777a54",
     "title": "Buba Troninho Infantil Cinza",
     "price_now": 38.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-15T00:30:42.234208"
-  },
-  {
-    "id": "45134be18521a596",
-    "title": "Fralda Personal Baby Protect & Sec G 78 Unidades",
-    "price_now": 62.0,
-    "price_was": 89.99,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0DF9RCVYY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/445891120217920218718428946286.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-15T00:00:56.053233"
   }
 ]

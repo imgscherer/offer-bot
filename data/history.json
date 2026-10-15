@@ -6559,6 +6559,10 @@
     "efb889cd19777a54": {
       "title": "Buba Troninho Infantil Cinza",
       "posted_at": "2026-10-15T15:30:45.046481"
+    },
+    "3b5449e54baa159f": {
+      "title": "Granado Água De Limpeza Bebê, Peles Sensíveis, 500ml",
+      "posted_at": "2026-10-15T16:00:52.550250"
     }
   },
   "results": [
@@ -31097,6 +31101,14 @@
       "post_id": "1652",
       "error": null,
       "at": "2026-10-15T15:30:45.045885"
+    },
+    {
+      "offer_id": "3b5449e54baa159f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1653",
+      "error": null,
+      "at": "2026-10-15T16:00:52.549559"
     }
   ]
 }
