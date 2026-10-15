@@ -6515,6 +6515,10 @@
     "45134be18521a596": {
       "title": "Fralda Personal Baby Protect & Sec G 78 Unidades",
       "posted_at": "2026-10-15T00:00:56.053698"
+    },
+    "37016269976f3da7": {
+      "title": "Maxi Baby Carrinho de Bebê Guarda Chuva LINK Até 15kgs (Preto)",
+      "posted_at": "2026-10-15T00:30:42.234552"
     }
   },
   "results": [
@@ -30965,6 +30969,14 @@
       "post_id": "1641",
       "error": null,
       "at": "2026-10-15T00:00:56.052902"
+    },
+    {
+      "offer_id": "37016269976f3da7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1642",
+      "error": null,
+      "at": "2026-10-15T00:30:42.233955"
     }
   ]
 }
