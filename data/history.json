@@ -6663,6 +6663,14 @@
     "53710c8df0d5fea9": {
       "title": "Fralda Personal Baby Total Protect Pants G 24 unidades",
       "posted_at": "2026-10-16T18:00:52.375146"
+    },
+    "c884f7998bcebad4": {
+      "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil 380ml",
+      "posted_at": "2026-10-16T18:50:45.136783"
+    },
+    "e60dd8f0190ba564": {
+      "title": "Kit com 10 Calcinhas infantil (Tam. P ao GG)",
+      "posted_at": "2026-10-16T18:50:59.156570"
     }
   },
   "results": [
@@ -31745,6 +31753,22 @@
       "post_id": "1678",
       "error": null,
       "at": "2026-10-16T18:00:52.374542"
+    },
+    {
+      "offer_id": "c884f7998bcebad4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1679",
+      "error": null,
+      "at": "2026-10-16T18:50:45.135851"
+    },
+    {
+      "offer_id": "e60dd8f0190ba564",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1680",
+      "error": null,
+      "at": "2026-10-16T18:50:59.155768"
     }
   ]
 }
