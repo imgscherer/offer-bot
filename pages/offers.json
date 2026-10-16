@@ -1,5 +1,17 @@
 [
   {
+    "id": "4f6f6c3bc31c4ebd",
+    "title": "Carrinho de Bebê Zap Burigotto",
+    "price_now": 556.07,
+    "price_was": 929.0,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0C4VJ5DCQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/393290864517921646854877026492.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-16T15:40:42.991056"
+  },
+  {
     "id": "c9d02bc3b53aeaa7",
     "title": "Fralda Huggies Little Swimmers GXG 10 Un",
     "price_now": 33.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-15T23:00:46.636949"
-  },
-  {
-    "id": "bb9ea348c908ef84",
-    "title": "Fralda Huggies Little Swimmers GXG 10 Unidades",
-    "price_now": 33.38,
-    "price_was": 49.43,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0C2B4F83D?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/325831023617921033541355934126.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-15T22:40:46.621279"
   }
 ]
