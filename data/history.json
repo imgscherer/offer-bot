@@ -6631,6 +6631,14 @@
     "fd583872028e7b94": {
       "title": "Chupeta Ultra Philips Avent Air 6-18 Meses Unitária",
       "posted_at": "2026-10-16T12:20:46.252663"
+    },
+    "120e2b1357c8bc75": {
+      "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
+      "posted_at": "2026-10-16T12:40:43.935357"
+    },
+    "0a316b6990599f1d": {
+      "title": "Chupeta Avent Ultra Air 6-18M",
+      "posted_at": "2026-10-16T12:41:01.088295"
     }
   },
   "results": [
@@ -31457,6 +31465,22 @@
       "post_id": "1670",
       "error": null,
       "at": "2026-10-16T12:20:46.251940"
+    },
+    {
+      "offer_id": "120e2b1357c8bc75",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1671",
+      "error": null,
+      "at": "2026-10-16T12:40:43.934540"
+    },
+    {
+      "offer_id": "0a316b6990599f1d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1672",
+      "error": null,
+      "at": "2026-10-16T12:41:01.087545"
     }
   ]
 }

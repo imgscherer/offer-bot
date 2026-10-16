@@ -1,5 +1,29 @@
 [
   {
+    "id": "0a316b6990599f1d",
+    "title": "Chupeta Avent Ultra Air 6-18M",
+    "price_now": 19.91,
+    "price_was": 28.62,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0C4M7G358?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/156432383717921534516581733717.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-16T12:41:01.087879"
+  },
+  {
+    "id": "120e2b1357c8bc75",
+    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
+    "price_now": 26.0,
+    "price_was": 52.65,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/788720006917921541107716108887.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-16T12:40:43.934930"
+  },
+  {
     "id": "fd583872028e7b94",
     "title": "Chupeta Ultra Philips Avent Air 6-18 Meses Unitária",
     "price_now": 26.26,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-15T21:10:42.524944"
-  },
-  {
-    "id": "7bbfb249bb158e77",
-    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula 50 Unidades",
-    "price_now": 4.0,
-    "price_was": 9.42,
-    "discount_pct": 58,
-    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/644847881017920944912477215125.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-15T20:10:41.935431"
-  },
-  {
-    "id": "125684f6da9d3fee",
-    "title": "Fralda Mili XG 22 unidades",
-    "price_now": 23.63,
-    "price_was": 42.48,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B07GB468ZM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/703928379817920931135555022651.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-15T19:51:06.886926"
   }
 ]
