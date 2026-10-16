@@ -6675,6 +6675,10 @@
     "9a24f5c0f6730290": {
       "title": "Sandália Infantil Club Happy (Tam. 23 ao 31)",
       "posted_at": "2026-10-16T21:01:02.573035"
+    },
+    "67b41739b6d76322": {
+      "title": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
+      "posted_at": "2026-10-16T22:40:53.329803"
     }
   },
   "results": [
@@ -31781,6 +31785,14 @@
       "post_id": "1681",
       "error": null,
       "at": "2026-10-16T21:01:02.572210"
+    },
+    {
+      "offer_id": "67b41739b6d76322",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1682",
+      "error": null,
+      "at": "2026-10-16T22:40:53.328976"
     }
   ]
 }

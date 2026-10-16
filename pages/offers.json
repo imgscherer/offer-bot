@@ -1,5 +1,17 @@
 [
   {
+    "id": "67b41739b6d76322",
+    "title": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
+    "price_now": 75.71,
+    "price_was": 109.78,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/353062251117921893363529785234.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-16T22:40:53.329303"
+  },
+  {
     "id": "9a24f5c0f6730290",
     "title": "Sandália Infantil Club Happy (Tam. 23 ao 31)",
     "price_now": 44.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-16T12:40:43.934930"
-  },
-  {
-    "id": "fd583872028e7b94",
-    "title": "Chupeta Ultra Philips Avent Air 6-18 Meses Unitária",
-    "price_now": 26.26,
-    "price_was": 40.9,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0C4MDRHF7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/124245424917921525074011098428.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-16T12:20:46.252282"
   }
 ]
