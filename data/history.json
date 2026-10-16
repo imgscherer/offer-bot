@@ -6651,6 +6651,10 @@
     "eb559f2a18061721": {
       "title": "Kit 3 Fraldas Turma Da Mônica M - 120 Tiras",
       "posted_at": "2026-10-16T15:51:09.001684"
+    },
+    "187df9207fa38748": {
+      "title": "Chupeta Funny Animais Silicone Anatômico Tam. 2 lillo",
+      "posted_at": "2026-10-16T16:30:48.963976"
     }
   },
   "results": [
@@ -31685,6 +31689,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-16T16:20:44.554397"
+    },
+    {
+      "offer_id": "187df9207fa38748",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1676",
+      "error": null,
+      "at": "2026-10-16T16:30:48.963089"
+    },
+    {
+      "offer_id": "dd277c8edd90c073",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-16T16:30:58.391956"
     }
   ]
 }
