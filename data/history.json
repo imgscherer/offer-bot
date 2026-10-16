@@ -6659,6 +6659,10 @@
     "d64af8ccd566ab59": {
       "title": "Kit Tênis Infantil Calce Fácil + Sandália Babuche (Tam. 22 ao 32, 4 cores)",
       "posted_at": "2026-10-16T17:00:56.202683"
+    },
+    "53710c8df0d5fea9": {
+      "title": "Fralda Personal Baby Total Protect Pants G 24 unidades",
+      "posted_at": "2026-10-16T18:00:52.375146"
     }
   },
   "results": [
@@ -31733,6 +31737,14 @@
       "post_id": "1677",
       "error": null,
       "at": "2026-10-16T17:00:56.201871"
+    },
+    {
+      "offer_id": "53710c8df0d5fea9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1678",
+      "error": null,
+      "at": "2026-10-16T18:00:52.374542"
     }
   ]
 }
