@@ -6615,6 +6615,10 @@
     "45be2314e1556754": {
       "title": "Capa Colchão Impermeável Protetor Berço Mini Cama Solteiro Fronha Travesseiro Impermeável Antixixi",
       "posted_at": "2026-10-15T23:01:15.147072"
+    },
+    "88fb534f2d894bd5": {
+      "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
+      "posted_at": "2026-10-16T00:01:01.449029"
     }
   },
   "results": [
@@ -31313,6 +31317,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-15T23:50:41.676561"
+    },
+    {
+      "offer_id": "88fb534f2d894bd5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1667",
+      "error": null,
+      "at": "2026-10-16T00:01:01.448256"
+    },
+    {
+      "offer_id": "401708019e1c88dd",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-16T00:01:08.813866"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "88fb534f2d894bd5",
+    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
+    "price_now": 26.99,
+    "price_was": 52.65,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/323963824717921086319500248313.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-16T00:01:01.448596"
+  },
+  {
     "id": "45be2314e1556754",
     "title": "Capa Colchão Impermeável Protetor Berço Mini Cama Solteiro Fronha Travesseiro Impermeável Antixixi",
     "price_now": 49.98,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-15T18:00:49.455859"
-  },
-  {
-    "id": "467503ef791e6c6a",
-    "title": "Burigotto Banheira Millenia, Azul Bebê",
-    "price_now": 249.91,
-    "price_was": 419.0,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0964FR2L8?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/291145387617920868065786732441.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-15T18:00:48.399403"
   }
 ]
