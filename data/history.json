@@ -6655,6 +6655,10 @@
     "187df9207fa38748": {
       "title": "Chupeta Funny Animais Silicone Anatômico Tam. 2 lillo",
       "posted_at": "2026-10-16T16:30:48.963976"
+    },
+    "d64af8ccd566ab59": {
+      "title": "Kit Tênis Infantil Calce Fácil + Sandália Babuche (Tam. 22 ao 32, 4 cores)",
+      "posted_at": "2026-10-16T17:00:56.202683"
     }
   },
   "results": [
@@ -31721,6 +31725,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-16T16:50:52.490842"
+    },
+    {
+      "offer_id": "d64af8ccd566ab59",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1677",
+      "error": null,
+      "at": "2026-10-16T17:00:56.201871"
     }
   ]
 }
