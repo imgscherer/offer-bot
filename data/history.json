@@ -6671,6 +6671,10 @@
     "e60dd8f0190ba564": {
       "title": "Kit com 10 Calcinhas infantil (Tam. P ao GG)",
       "posted_at": "2026-10-16T18:50:59.156570"
+    },
+    "9a24f5c0f6730290": {
+      "title": "Sandália Infantil Club Happy (Tam. 23 ao 31)",
+      "posted_at": "2026-10-16T21:01:02.573035"
     }
   },
   "results": [
@@ -31769,6 +31773,14 @@
       "post_id": "1680",
       "error": null,
       "at": "2026-10-16T18:50:59.155768"
+    },
+    {
+      "offer_id": "9a24f5c0f6730290",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1681",
+      "error": null,
+      "at": "2026-10-16T21:01:02.572210"
     }
   ]
 }

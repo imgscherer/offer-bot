@@ -1,5 +1,17 @@
 [
   {
+    "id": "9a24f5c0f6730290",
+    "title": "Sandália Infantil Club Happy (Tam. 23 ao 31)",
+    "price_now": 44.9,
+    "price_was": 99.78,
+    "discount_pct": 55,
+    "url": "https://s.shopee.com.br/2BFhleJC3A?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/120600530117921837517003420697.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-16T21:01:02.572549"
+  },
+  {
     "id": "e60dd8f0190ba564",
     "title": "Kit com 10 Calcinhas infantil (Tam. P ao GG)",
     "price_now": 22.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-16T12:20:46.252282"
-  },
-  {
-    "id": "4e4d9be3e4c467cf",
-    "title": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
-    "price_now": 76.0,
-    "price_was": 131.78,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/714507603517921469109779240068.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-16T10:50:48.183058"
   }
 ]
