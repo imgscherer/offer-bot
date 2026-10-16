@@ -1,5 +1,17 @@
 [
   {
+    "id": "0f816f70ac2f540f",
+    "title": "Garrafa Infantil De Inox Sereia Com Bebedor Silicone 350 Ml Lillo",
+    "price_now": 42.65,
+    "price_was": 139.9,
+    "discount_pct": 70,
+    "url": "https://www.amazon.com.br/dp/B0F3YXC3L7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/295999688417921924486109086777.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-16T23:30:49.340081"
+  },
+  {
     "id": "67b41739b6d76322",
     "title": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
     "price_now": 75.71,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-16T12:41:01.087879"
-  },
-  {
-    "id": "120e2b1357c8bc75",
-    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
-    "price_now": 26.0,
-    "price_was": 52.65,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/788720006917921541107716108887.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-16T12:40:43.934930"
   }
 ]
