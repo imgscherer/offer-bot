@@ -6619,6 +6619,10 @@
     "88fb534f2d894bd5": {
       "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
       "posted_at": "2026-10-16T00:01:01.449029"
+    },
+    "29d05e3ab1d1e768": {
+      "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 Un",
+      "posted_at": "2026-10-16T00:30:56.557589"
     }
   },
   "results": [
@@ -31349,6 +31353,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-16T00:20:43.995174"
+    },
+    {
+      "offer_id": "401708019e1c88dd",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-16T00:30:45.254719"
+    },
+    {
+      "offer_id": "29d05e3ab1d1e768",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1668",
+      "error": null,
+      "at": "2026-10-16T00:30:56.556567"
     }
   ]
 }

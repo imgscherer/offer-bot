@@ -1,5 +1,17 @@
 [
   {
+    "id": "29d05e3ab1d1e768",
+    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 Un",
+    "price_now": 48.0,
+    "price_was": 72.65,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/115944430417921100101448471375.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-16T00:30:56.556824"
+  },
+  {
     "id": "88fb534f2d894bd5",
     "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
     "price_now": 26.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-15T19:20:45.026891"
-  },
-  {
-    "id": "2d1b0d567c14f52d",
-    "title": "Kit Conjunto 2 Body Manga Curta + 2 Tapa Fralda Bebê Gola Envelope Menino Menina 0 a 18 meses",
-    "price_now": 68.12,
-    "price_was": 103.21,
-    "discount_pct": 34,
-    "url": "https://s.shopee.com.br/3qNsyR6tBa",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8258s-mg2f5jpvcr9ob5",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-15T18:00:49.455859"
   }
 ]
