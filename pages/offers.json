@@ -1,5 +1,17 @@
 [
   {
+    "id": "4e4d9be3e4c467cf",
+    "title": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
+    "price_now": 76.0,
+    "price_was": 131.78,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/714507603517921469109779240068.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-16T10:50:48.183058"
+  },
+  {
     "id": "29d05e3ab1d1e768",
     "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 Un",
     "price_now": 48.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-15T19:50:50.536149"
-  },
-  {
-    "id": "8af80ec915a468d3",
-    "title": "Escorredor De Mamadeira Clingo",
-    "price_now": 33.39,
-    "price_was": 49.9,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B07MWT9NND?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/695349038817920912911495514704.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-15T19:20:45.026891"
   }
 ]
