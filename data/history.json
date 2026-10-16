@@ -6639,6 +6639,10 @@
     "0a316b6990599f1d": {
       "title": "Chupeta Avent Ultra Air 6-18M",
       "posted_at": "2026-10-16T12:41:01.088295"
+    },
+    "c9d02bc3b53aeaa7": {
+      "title": "Fralda Huggies Little Swimmers GXG 10 Un",
+      "posted_at": "2026-10-16T13:01:06.069515"
     }
   },
   "results": [
@@ -31481,6 +31485,14 @@
       "post_id": "1672",
       "error": null,
       "at": "2026-10-16T12:41:01.087545"
+    },
+    {
+      "offer_id": "c9d02bc3b53aeaa7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1673",
+      "error": null,
+      "at": "2026-10-16T13:01:06.068710"
     }
   ]
 }
