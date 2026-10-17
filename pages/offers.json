@@ -1,5 +1,41 @@
 [
   {
+    "id": "caf1596ce2f05f26",
+    "title": "Triciclo Infantil Comfort  Empurrador e Capota Branco Preto Passeio Bebê Pedal 3 Rodas",
+    "price_now": 479.99,
+    "price_was": 695.64,
+    "discount_pct": 31,
+    "url": "https://s.shopee.com.br/8AWw3VZN8o",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mu2bpc5a0poie9",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-17T14:00:48.951311"
+  },
+  {
+    "id": "34fe382e861360ee",
+    "title": "Triciclo Avespa Spider Carrinho De Passeio Infantil Motoquinha Com Buzina Pedal Haste",
+    "price_now": 339.99,
+    "price_was": 566.65,
+    "discount_pct": 40,
+    "url": "https://s.shopee.com.br/9pfA2ZT1lE",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-megi1lx0txqbb6",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-17T14:00:44.367175"
+  },
+  {
+    "id": "473f9294c00bd573",
+    "title": "Carrinho de Bebê Passeio Compacto Reclinável Dobravel World Baby",
+    "price_now": 597.54,
+    "price_was": 1299.0,
+    "discount_pct": 54,
+    "url": "https://s.shopee.com.br/AUuqpnQUPI",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mrrr8uvr8umcdf",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-17T14:00:41.449753"
+  },
+  {
     "id": "bb5d5587bc8c87ca",
     "title": "Mili Toalhas Umedecidas Love &amp; Care Premium, Para Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 96 Unidades",
     "price_now": 12.59,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-16T18:00:52.374798"
-  },
-  {
-    "id": "d64af8ccd566ab59",
-    "title": "Kit Tênis Infantil Calce Fácil + Sandália Babuche (Tam. 22 ao 32, 4 cores)",
-    "price_now": 59.0,
-    "price_was": 110.74,
-    "discount_pct": 47,
-    "url": "https://s.shopee.com.br/7Kxnf0clft?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/165825372517921696534495985207.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-16T17:00:56.202243"
-  },
-  {
-    "id": "187df9207fa38748",
-    "title": "Chupeta Funny Animais Silicone Anatômico Tam. 2 lillo",
-    "price_now": 9.0,
-    "price_was": 19.84,
-    "discount_pct": 55,
-    "url": "https://www.amazon.com.br/dp/B089M5VWXP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/176453013917921674424373633708.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-16T16:30:48.963556"
-  },
-  {
-    "id": "eb559f2a18061721",
-    "title": "Kit 3 Fraldas Turma Da Mônica M - 120 Tiras",
-    "price_now": 96.51,
-    "price_was": 137.67,
-    "discount_pct": 30,
-    "url": "https://s.shopee.com.br/9fLiMHRmce?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/853992593317921652718209297957.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-16T15:51:09.001269"
   }
 ]

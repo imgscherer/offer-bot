@@ -6695,6 +6695,18 @@
     "bb5d5587bc8c87ca": {
       "title": "Mili Toalhas Umedecidas Love &amp; Care Premium, Para Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 96 Unidades",
       "posted_at": "2026-10-17T12:40:41.980088"
+    },
+    "473f9294c00bd573": {
+      "title": "Carrinho de Bebê Passeio Compacto Reclinável Dobravel World Baby",
+      "posted_at": "2026-10-17T14:00:41.451521"
+    },
+    "34fe382e861360ee": {
+      "title": "Triciclo Avespa Spider Carrinho De Passeio Infantil Motoquinha Com Buzina Pedal Haste",
+      "posted_at": "2026-10-17T14:00:44.399390"
+    },
+    "caf1596ce2f05f26": {
+      "title": "Triciclo Infantil Comfort  Empurrador e Capota Branco Preto Passeio Bebê Pedal 3 Rodas",
+      "posted_at": "2026-10-17T14:00:48.951753"
     }
   },
   "results": [
@@ -31841,6 +31853,30 @@
       "post_id": "1686",
       "error": null,
       "at": "2026-10-17T12:40:41.979636"
+    },
+    {
+      "offer_id": "473f9294c00bd573",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1687",
+      "error": null,
+      "at": "2026-10-17T14:00:41.449469"
+    },
+    {
+      "offer_id": "34fe382e861360ee",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1688",
+      "error": null,
+      "at": "2026-10-17T14:00:44.366869"
+    },
+    {
+      "offer_id": "caf1596ce2f05f26",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1689",
+      "error": null,
+      "at": "2026-10-17T14:00:48.951018"
     }
   ]
 }
