@@ -6715,6 +6715,14 @@
     "a0c7fb8f4e729128": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Un",
       "posted_at": "2026-10-17T18:40:38.876793"
+    },
+    "c98f92a11fe6fbfa": {
+      "title": "Chapéu Bucket Infantil Proteção Solar (Diversas Cores)",
+      "posted_at": "2026-10-17T18:50:40.571067"
+    },
+    "456ed3c09c72ccde": {
+      "title": "Bepantol Baby Pomada Assadura Bebê Hipoalergênica 100g",
+      "posted_at": "2026-10-17T18:50:48.156872"
     }
   },
   "results": [
@@ -31933,6 +31941,22 @@
       "post_id": "1691",
       "error": null,
       "at": "2026-10-17T18:40:38.876185"
+    },
+    {
+      "offer_id": "c98f92a11fe6fbfa",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1692",
+      "error": null,
+      "at": "2026-10-17T18:50:40.570293"
+    },
+    {
+      "offer_id": "456ed3c09c72ccde",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1693",
+      "error": null,
+      "at": "2026-10-17T18:50:48.156112"
     }
   ]
 }

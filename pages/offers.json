@@ -1,5 +1,29 @@
 [
   {
+    "id": "456ed3c09c72ccde",
+    "title": "Bepantol Baby Pomada Assadura Bebê Hipoalergênica 100g",
+    "price_now": 39.0,
+    "price_was": 59.99,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/479811538117922623516923546072.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-17T18:50:48.156420"
+  },
+  {
+    "id": "c98f92a11fe6fbfa",
+    "title": "Chapéu Bucket Infantil Proteção Solar (Diversas Cores)",
+    "price_now": 20.5,
+    "price_was": 60.29,
+    "discount_pct": 66,
+    "url": "https://s.shopee.com.br/4qGUOJDnWx?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/854397445017922621729061854606.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-17T18:50:40.570642"
+  },
+  {
     "id": "a0c7fb8f4e729128",
     "title": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Un",
     "price_now": 34.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-16T22:40:53.329303"
-  },
-  {
-    "id": "9a24f5c0f6730290",
-    "title": "Sandália Infantil Club Happy (Tam. 23 ao 31)",
-    "price_now": 44.9,
-    "price_was": 99.78,
-    "discount_pct": 55,
-    "url": "https://s.shopee.com.br/2BFhleJC3A?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/120600530117921837517003420697.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-16T21:01:02.572549"
-  },
-  {
-    "id": "e60dd8f0190ba564",
-    "title": "Kit com 10 Calcinhas infantil (Tam. P ao GG)",
-    "price_now": 22.9,
-    "price_was": 40.18,
-    "discount_pct": 43,
-    "url": "https://s.shopee.com.br/4LKCCrSNGR?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/185838716617921760889455704355.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-16T18:50:59.156100"
   }
 ]
