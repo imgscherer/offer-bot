@@ -6683,6 +6683,10 @@
     "0f816f70ac2f540f": {
       "title": "Garrafa Infantil De Inox Sereia Com Bebedor Silicone 350 Ml Lillo",
       "posted_at": "2026-10-16T23:30:49.340356"
+    },
+    "011845daaf2827d6": {
+      "title": "Fralda Pampers Supersequinha XG 70 Unidades",
+      "posted_at": "2026-10-17T10:50:50.379676"
     }
   },
   "results": [
@@ -31805,6 +31809,14 @@
       "post_id": "1683",
       "error": null,
       "at": "2026-10-16T23:30:49.339805"
+    },
+    {
+      "offer_id": "011845daaf2827d6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1684",
+      "error": null,
+      "at": "2026-10-17T10:50:50.378889"
     }
   ]
 }
