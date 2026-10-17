@@ -6711,6 +6711,10 @@
     "cf0824f05115a1c0": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidades",
       "posted_at": "2026-10-17T14:20:45.317150"
+    },
+    "a0c7fb8f4e729128": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Un",
+      "posted_at": "2026-10-17T18:40:38.876793"
     }
   },
   "results": [
@@ -31921,6 +31925,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-17T17:20:43.381955"
+    },
+    {
+      "offer_id": "a0c7fb8f4e729128",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1691",
+      "error": null,
+      "at": "2026-10-17T18:40:38.876185"
     }
   ]
 }

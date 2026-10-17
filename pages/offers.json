@@ -1,5 +1,17 @@
 [
   {
+    "id": "a0c7fb8f4e729128",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Un",
+    "price_now": 34.0,
+    "price_was": 50.29,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/223900533817922612708315393954.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-17T18:40:38.876493"
+  },
+  {
     "id": "cf0824f05115a1c0",
     "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidades",
     "price_now": 34.19,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-16T18:50:59.156100"
-  },
-  {
-    "id": "c884f7998bcebad4",
-    "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil 380ml",
-    "price_now": 13.0,
-    "price_was": 25.55,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B08JQND4NB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/234284917117921756486207392161.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-16T18:50:45.136245"
   }
 ]
