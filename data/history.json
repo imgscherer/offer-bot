@@ -6687,6 +6687,10 @@
     "011845daaf2827d6": {
       "title": "Fralda Pampers Supersequinha XG 70 Unidades",
       "posted_at": "2026-10-17T10:50:50.379676"
+    },
+    "2c2c62c843599a6e": {
+      "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
+      "posted_at": "2026-10-17T11:40:46.901559"
     }
   },
   "results": [
@@ -31817,6 +31821,14 @@
       "post_id": "1684",
       "error": null,
       "at": "2026-10-17T10:50:50.378889"
+    },
+    {
+      "offer_id": "2c2c62c843599a6e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1685",
+      "error": null,
+      "at": "2026-10-17T11:40:46.900906"
     }
   ]
 }

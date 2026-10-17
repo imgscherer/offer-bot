@@ -1,5 +1,17 @@
 [
   {
+    "id": "2c2c62c843599a6e",
+    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
+    "price_now": 4.77,
+    "price_was": 9.42,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/305538298317922364953579243471.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-17T11:40:46.901234"
+  },
+  {
     "id": "011845daaf2827d6",
     "title": "Fralda Pampers Supersequinha XG 70 Unidades",
     "price_now": 66.25,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-16T15:40:42.991056"
-  },
-  {
-    "id": "c9d02bc3b53aeaa7",
-    "title": "Fralda Huggies Little Swimmers GXG 10 Un",
-    "price_now": 33.0,
-    "price_was": 49.43,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0C2B4F83D?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/913194539217921554296328567494.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-16T13:01:06.069079"
   }
 ]
