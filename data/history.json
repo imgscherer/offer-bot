@@ -6691,6 +6691,10 @@
     "2c2c62c843599a6e": {
       "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
       "posted_at": "2026-10-17T11:40:46.901559"
+    },
+    "bb5d5587bc8c87ca": {
+      "title": "Mili Toalhas Umedecidas Love &amp; Care Premium, Para Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 96 Unidades",
+      "posted_at": "2026-10-17T12:40:41.980088"
     }
   },
   "results": [
@@ -31829,6 +31833,14 @@
       "post_id": "1685",
       "error": null,
       "at": "2026-10-17T11:40:46.900906"
+    },
+    {
+      "offer_id": "bb5d5587bc8c87ca",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1686",
+      "error": null,
+      "at": "2026-10-17T12:40:41.979636"
     }
   ]
 }

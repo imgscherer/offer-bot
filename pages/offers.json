@@ -1,5 +1,17 @@
 [
   {
+    "id": "bb5d5587bc8c87ca",
+    "title": "Mili Toalhas Umedecidas Love &amp; Care Premium, Para Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 96 Unidades",
+    "price_now": 12.59,
+    "price_was": 17.9,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B07GFFW1LN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/515521362817922401506824909094.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-17T12:40:41.979898"
+  },
+  {
     "id": "2c2c62c843599a6e",
     "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
     "price_now": 4.77,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-16T15:51:09.001269"
-  },
-  {
-    "id": "4f6f6c3bc31c4ebd",
-    "title": "Carrinho de Bebê Zap Burigotto",
-    "price_now": 556.07,
-    "price_was": 929.0,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0C4VJ5DCQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/393290864517921646854877026492.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-16T15:40:42.991056"
   }
 ]
