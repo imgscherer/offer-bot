@@ -6707,6 +6707,10 @@
     "caf1596ce2f05f26": {
       "title": "Triciclo Infantil Comfort  Empurrador e Capota Branco Preto Passeio Bebê Pedal 3 Rodas",
       "posted_at": "2026-10-17T14:00:48.951753"
+    },
+    "cf0824f05115a1c0": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidades",
+      "posted_at": "2026-10-17T14:20:45.317150"
     }
   },
   "results": [
@@ -31877,6 +31881,14 @@
       "post_id": "1689",
       "error": null,
       "at": "2026-10-17T14:00:48.951018"
+    },
+    {
+      "offer_id": "cf0824f05115a1c0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1690",
+      "error": null,
+      "at": "2026-10-17T14:20:45.316462"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "cf0824f05115a1c0",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidades",
+    "price_now": 34.19,
+    "price_was": 50.29,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/283966343317922462863427522899.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-17T14:20:45.316829"
+  },
+  {
     "id": "caf1596ce2f05f26",
     "title": "Triciclo Infantil Comfort  Empurrador e Capota Branco Preto Passeio Bebê Pedal 3 Rodas",
     "price_now": 479.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-16T18:50:45.136245"
-  },
-  {
-    "id": "53710c8df0d5fea9",
-    "title": "Fralda Personal Baby Total Protect Pants G 24 unidades",
-    "price_now": 25.19,
-    "price_was": 40.63,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0BTTKQV4P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/244516296217921728318865322442.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-16T18:00:52.374798"
   }
 ]
