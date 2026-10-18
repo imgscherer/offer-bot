@@ -6759,6 +6759,10 @@
     "62a0cc1bd0b400aa": {
       "title": "Fralda Pampers Confort Sec XXG 82 unidades",
       "posted_at": "2026-10-18T14:50:43.035315"
+    },
+    "760943c8b49b4233": {
+      "title": "Fralda Pampers Supersequinha M 90 Unidades",
+      "posted_at": "2026-10-18T15:20:43.187084"
     }
   },
   "results": [
@@ -32065,6 +32069,14 @@
       "post_id": "1702",
       "error": null,
       "at": "2026-10-18T14:50:43.034637"
+    },
+    {
+      "offer_id": "760943c8b49b4233",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1703",
+      "error": null,
+      "at": "2026-10-18T15:20:43.186366"
     }
   ]
 }
