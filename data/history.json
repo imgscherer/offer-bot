@@ -6755,6 +6755,10 @@
     "672d4d6d93ff8ff2": {
       "title": "Fralda Pampers Pants Ajuste Total G 90 Unidades",
       "posted_at": "2026-10-18T14:00:59.407300"
+    },
+    "62a0cc1bd0b400aa": {
+      "title": "Fralda Pampers Confort Sec XXG 82 unidades",
+      "posted_at": "2026-10-18T14:50:43.035315"
     }
   },
   "results": [
@@ -32053,6 +32057,14 @@
       "post_id": "1701",
       "error": null,
       "at": "2026-10-18T14:00:59.406454"
+    },
+    {
+      "offer_id": "62a0cc1bd0b400aa",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1702",
+      "error": null,
+      "at": "2026-10-18T14:50:43.034637"
     }
   ]
 }
