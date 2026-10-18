@@ -6735,6 +6735,18 @@
     "2b71dacab1617a06": {
       "title": "Huggies Fralda Premium Natural Care RN 34 Un",
       "posted_at": "2026-10-18T11:31:07.928830"
+    },
+    "78d45866a11aca6d": {
+      "title": "Fralda Pampers Supersequinha XXG 66 Unidades",
+      "posted_at": "2026-10-18T11:50:48.967613"
+    },
+    "21605ab7e46a4995": {
+      "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+      "posted_at": "2026-10-18T11:51:04.787658"
+    },
+    "7bb933b5c0ae1046": {
+      "title": "Fralda Pampers Supersequinha G 80 Unidades",
+      "posted_at": "2026-10-18T11:51:18.654795"
     }
   },
   "results": [
@@ -31993,6 +32005,30 @@
       "post_id": "1696",
       "error": null,
       "at": "2026-10-18T11:31:07.927999"
+    },
+    {
+      "offer_id": "78d45866a11aca6d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1697",
+      "error": null,
+      "at": "2026-10-18T11:50:48.966827"
+    },
+    {
+      "offer_id": "21605ab7e46a4995",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1698",
+      "error": null,
+      "at": "2026-10-18T11:51:04.786965"
+    },
+    {
+      "offer_id": "7bb933b5c0ae1046",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1699",
+      "error": null,
+      "at": "2026-10-18T11:51:18.654054"
     }
   ]
 }
