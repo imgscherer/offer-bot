@@ -1,5 +1,17 @@
 [
   {
+    "id": "f1dfe34e7594f408",
+    "title": "Fralda Pampers Pants Ajuste Total XXXG 66 unidades",
+    "price_now": 101.63,
+    "price_was": 194.9,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0GW94VXKG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/930573998817923596701413211553.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-18T21:50:59.039694"
+  },
+  {
     "id": "691fa37f33d3e2a9",
     "title": "Carrinho de Bebe Passeio Berço Reversível com até 15kg Dobrável Confortável Ajustável De Bebê Completo 3 EM 1 e C",
     "price_now": 621.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-18T06:10:47.295998"
-  },
-  {
-    "id": "456ed3c09c72ccde",
-    "title": "Bepantol Baby Pomada Assadura Bebê Hipoalergênica 100g",
-    "price_now": 39.0,
-    "price_was": 59.99,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/479811538117922623516923546072.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-17T18:50:48.156420"
   }
 ]

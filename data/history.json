@@ -6767,6 +6767,10 @@
     "691fa37f33d3e2a9": {
       "title": "Carrinho de Bebe Passeio Berço Reversível com até 15kg Dobrável Confortável Ajustável De Bebê Completo 3 EM 1 e C",
       "posted_at": "2026-10-18T16:20:46.233278"
+    },
+    "f1dfe34e7594f408": {
+      "title": "Fralda Pampers Pants Ajuste Total XXXG 66 unidades",
+      "posted_at": "2026-10-18T21:50:59.041008"
     }
   },
   "results": [
@@ -32089,6 +32093,14 @@
       "post_id": "1704",
       "error": null,
       "at": "2026-10-18T16:20:46.232419"
+    },
+    {
+      "offer_id": "f1dfe34e7594f408",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1705",
+      "error": null,
+      "at": "2026-10-18T21:50:59.039331"
     }
   ]
 }
