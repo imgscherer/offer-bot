@@ -6763,6 +6763,10 @@
     "760943c8b49b4233": {
       "title": "Fralda Pampers Supersequinha M 90 Unidades",
       "posted_at": "2026-10-18T15:20:43.187084"
+    },
+    "691fa37f33d3e2a9": {
+      "title": "Carrinho de Bebe Passeio Berço Reversível com até 15kg Dobrável Confortável Ajustável De Bebê Completo 3 EM 1 e C",
+      "posted_at": "2026-10-18T16:20:46.233278"
     }
   },
   "results": [
@@ -32077,6 +32081,14 @@
       "post_id": "1703",
       "error": null,
       "at": "2026-10-18T15:20:43.186366"
+    },
+    {
+      "offer_id": "691fa37f33d3e2a9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1704",
+      "error": null,
+      "at": "2026-10-18T16:20:46.232419"
     }
   ]
 }
