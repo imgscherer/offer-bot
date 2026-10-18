@@ -1,5 +1,17 @@
 [
   {
+    "id": "672d4d6d93ff8ff2",
+    "title": "Fralda Pampers Pants Ajuste Total G 90 Unidades",
+    "price_now": 101.68,
+    "price_was": 194.9,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/209348561417923313124700926196.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-18T14:00:59.406809"
+  },
+  {
     "id": "efff9a8cc35da90e",
     "title": "Fralda Huggies Natural Care RN 34 Unidades",
     "price_now": 30.51,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-17T14:20:45.316829"
-  },
-  {
-    "id": "caf1596ce2f05f26",
-    "title": "Triciclo Infantil Comfort  Empurrador e Capota Branco Preto Passeio Bebê Pedal 3 Rodas",
-    "price_now": 479.99,
-    "price_was": 695.64,
-    "discount_pct": 31,
-    "url": "https://s.shopee.com.br/8AWw3VZN8o",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mu2bpc5a0poie9",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-17T14:00:48.951311"
   }
 ]
