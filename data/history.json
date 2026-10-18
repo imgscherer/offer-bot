@@ -6723,6 +6723,10 @@
     "456ed3c09c72ccde": {
       "title": "Bepantol Baby Pomada Assadura Bebê Hipoalergênica 100g",
       "posted_at": "2026-10-17T18:50:48.156872"
+    },
+    "9aa5fa4603b43508": {
+      "title": "Conjunto UV proteção solar Camisa sunga piscina praia infantil H A AZUL",
+      "posted_at": "2026-10-18T06:10:47.296442"
     }
   },
   "results": [
@@ -31957,6 +31961,14 @@
       "post_id": "1693",
       "error": null,
       "at": "2026-10-17T18:50:48.156112"
+    },
+    {
+      "offer_id": "9aa5fa4603b43508",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1694",
+      "error": null,
+      "at": "2026-10-18T06:10:47.295666"
     }
   ]
 }
