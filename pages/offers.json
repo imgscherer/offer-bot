@@ -1,5 +1,29 @@
 [
   {
+    "id": "2b71dacab1617a06",
+    "title": "Huggies Fralda Premium Natural Care RN 34 Un",
+    "price_now": 30.0,
+    "price_was": 43.59,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/376650186617923227673755238596.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-18T11:31:07.928300"
+  },
+  {
+    "id": "01f722e038ad5f33",
+    "title": "Fralda Personal Baby Premium Pants M 48 unidades",
+    "price_now": 26.99,
+    "price_was": 80.03,
+    "discount_pct": 66,
+    "url": "https://www.amazon.com.br/dp/B0BGM6P1SF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/324616824617923224116707399812.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-18T11:30:53.788276"
+  },
+  {
     "id": "9aa5fa4603b43508",
     "title": "Conjunto UV proteção solar Camisa sunga piscina praia infantil H A AZUL",
     "price_now": 49.6,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-17T11:40:46.901234"
-  },
-  {
-    "id": "011845daaf2827d6",
-    "title": "Fralda Pampers Supersequinha XG 70 Unidades",
-    "price_now": 66.25,
-    "price_was": 109.78,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0DV7BN75H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/596776143417922335689065502658.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-17T10:50:50.379197"
-  },
-  {
-    "id": "0f816f70ac2f540f",
-    "title": "Garrafa Infantil De Inox Sereia Com Bebedor Silicone 350 Ml Lillo",
-    "price_now": 42.65,
-    "price_was": 139.9,
-    "discount_pct": 70,
-    "url": "https://www.amazon.com.br/dp/B0F3YXC3L7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/295999688417921924486109086777.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-16T23:30:49.340081"
   }
 ]

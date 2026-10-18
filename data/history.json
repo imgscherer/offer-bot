@@ -6727,6 +6727,14 @@
     "9aa5fa4603b43508": {
       "title": "Conjunto UV proteção solar Camisa sunga piscina praia infantil H A AZUL",
       "posted_at": "2026-10-18T06:10:47.296442"
+    },
+    "01f722e038ad5f33": {
+      "title": "Fralda Personal Baby Premium Pants M 48 unidades",
+      "posted_at": "2026-10-18T11:30:53.788623"
+    },
+    "2b71dacab1617a06": {
+      "title": "Huggies Fralda Premium Natural Care RN 34 Un",
+      "posted_at": "2026-10-18T11:31:07.928830"
     }
   },
   "results": [
@@ -31969,6 +31977,22 @@
       "post_id": "1694",
       "error": null,
       "at": "2026-10-18T06:10:47.295666"
+    },
+    {
+      "offer_id": "01f722e038ad5f33",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1695",
+      "error": null,
+      "at": "2026-10-18T11:30:53.787963"
+    },
+    {
+      "offer_id": "2b71dacab1617a06",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1696",
+      "error": null,
+      "at": "2026-10-18T11:31:07.927999"
     }
   ]
 }
