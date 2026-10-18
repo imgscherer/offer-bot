@@ -6771,6 +6771,10 @@
     "f1dfe34e7594f408": {
       "title": "Fralda Pampers Pants Ajuste Total XXXG 66 unidades",
       "posted_at": "2026-10-18T21:50:59.041008"
+    },
+    "5bf2a08659a28f68": {
+      "title": "Kit Conjunto 2 Body Sem Manga + 2 Tapa Fralda Bebê Gola Envelope Menino Menina 0 a 18 meses",
+      "posted_at": "2026-10-18T22:30:40.199161"
     }
   },
   "results": [
@@ -32101,6 +32105,14 @@
       "post_id": "1705",
       "error": null,
       "at": "2026-10-18T21:50:59.039331"
+    },
+    {
+      "offer_id": "5bf2a08659a28f68",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1706",
+      "error": null,
+      "at": "2026-10-18T22:30:40.198439"
     }
   ]
 }
