@@ -1,5 +1,17 @@
 [
   {
+    "id": "ae5577bec703cbb4",
+    "title": "Fralda Mili XG 22 unidades",
+    "price_now": 23.63,
+    "price_was": 42.48,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B07GB468ZM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/374738818717924169097088178960.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-19T13:50:44.339645"
+  },
+  {
     "id": "ba9c4232500a529b",
     "title": "Fralda Pampers Confort Sec XXG 148 Unidades",
     "price_now": 164.03,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-18T11:51:18.654393"
-  },
-  {
-    "id": "21605ab7e46a4995",
-    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
-    "price_now": 48.0,
-    "price_was": 72.65,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/783711606217923239097830281451.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-18T11:51:04.787263"
   }
 ]
