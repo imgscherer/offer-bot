@@ -1,5 +1,17 @@
 [
   {
+    "id": "878752d37d2959c9",
+    "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
+    "price_now": 17.67,
+    "price_was": 33.22,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B07GB34N8Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/244322874017924399473336333742.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-19T20:11:28.964168"
+  },
+  {
     "id": "370bdab091fdeceb",
     "title": "Fralda Pampers Confort Sec G 92 Unidades",
     "price_now": 101.76,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-18T16:20:46.232764"
-  },
-  {
-    "id": "760943c8b49b4233",
-    "title": "Fralda Pampers Supersequinha M 90 Unidades",
-    "price_now": 76.0,
-    "price_was": 109.78,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/151129475617923362813577128230.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-18T15:20:43.186714"
   }
 ]
