@@ -6775,6 +6775,10 @@
     "5bf2a08659a28f68": {
       "title": "Kit Conjunto 2 Body Sem Manga + 2 Tapa Fralda Bebê Gola Envelope Menino Menina 0 a 18 meses",
       "posted_at": "2026-10-18T22:30:40.199161"
+    },
+    "b2c32cf944b19d2d": {
+      "title": "Kit 5 Tags de Identificações de Trocas para Saquinhos Organizadores de Mala de maternidade",
+      "posted_at": "2026-10-19T00:30:39.384953"
     }
   },
   "results": [
@@ -32113,6 +32117,14 @@
       "post_id": "1706",
       "error": null,
       "at": "2026-10-18T22:30:40.198439"
+    },
+    {
+      "offer_id": "b2c32cf944b19d2d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1707",
+      "error": null,
+      "at": "2026-10-19T00:30:39.384394"
     }
   ]
 }
