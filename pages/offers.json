@@ -1,5 +1,17 @@
 [
   {
+    "id": "370bdab091fdeceb",
+    "title": "Fralda Pampers Confort Sec G 92 Unidades",
+    "price_now": 101.76,
+    "price_was": 189.9,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/561881715217924362318335150147.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-19T19:10:54.101277"
+  },
+  {
     "id": "76703528938dcd1a",
     "title": "Fralda Pampers Confort Sec G 92 Unidades",
     "price_now": 101.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-18T15:20:43.186714"
-  },
-  {
-    "id": "62a0cc1bd0b400aa",
-    "title": "Fralda Pampers Confort Sec XXG 82 unidades",
-    "price_now": 98.63,
-    "price_was": 189.9,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0GW3YY6FY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/871166007717923341105745967609.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-18T14:50:43.034997"
   }
 ]
