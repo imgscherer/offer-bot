@@ -6779,6 +6779,10 @@
     "b2c32cf944b19d2d": {
       "title": "Kit 5 Tags de Identificações de Trocas para Saquinhos Organizadores de Mala de maternidade",
       "posted_at": "2026-10-19T00:30:39.384953"
+    },
+    "66a33886fc1ae75c": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
+      "posted_at": "2026-10-19T10:50:47.837245"
     }
   },
   "results": [
@@ -32125,6 +32129,14 @@
       "post_id": "1707",
       "error": null,
       "at": "2026-10-19T00:30:39.384394"
+    },
+    {
+      "offer_id": "66a33886fc1ae75c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1708",
+      "error": null,
+      "at": "2026-10-19T10:50:47.836448"
     }
   ]
 }
