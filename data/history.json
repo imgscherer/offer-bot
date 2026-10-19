@@ -6799,6 +6799,10 @@
     "a857b3a93394ccf8": {
       "title": "Shampoo Infantil Camomila 210ml",
       "posted_at": "2026-10-19T17:10:58.648669"
+    },
+    "76703528938dcd1a": {
+      "title": "Fralda Pampers Confort Sec G 92 Unidades",
+      "posted_at": "2026-10-19T18:30:47.342237"
     }
   },
   "results": [
@@ -32337,6 +32341,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-19T18:20:46.289934"
+    },
+    {
+      "offer_id": "76703528938dcd1a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1713",
+      "error": null,
+      "at": "2026-10-19T18:30:47.341653"
+    },
+    {
+      "offer_id": "1a1c600a1e3f7ba1",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-19T18:30:56.813048"
     }
   ]
 }

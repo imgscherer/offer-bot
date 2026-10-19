@@ -1,5 +1,17 @@
 [
   {
+    "id": "76703528938dcd1a",
+    "title": "Fralda Pampers Confort Sec G 92 Unidades",
+    "price_now": 101.0,
+    "price_was": 189.9,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/963610489717924339513357676924.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-19T18:30:47.341974"
+  },
+  {
     "id": "a857b3a93394ccf8",
     "title": "Shampoo Infantil Camomila 210ml",
     "price_now": 8.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-18T14:50:43.034997"
-  },
-  {
-    "id": "672d4d6d93ff8ff2",
-    "title": "Fralda Pampers Pants Ajuste Total G 90 Unidades",
-    "price_now": 101.68,
-    "price_was": 194.9,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/209348561417923313124700926196.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-18T14:00:59.406809"
   }
 ]
