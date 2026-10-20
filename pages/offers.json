@@ -1,5 +1,17 @@
 [
   {
+    "id": "95510c3f1feef426",
+    "title": "Fralda Mili XXG 20 unidades",
+    "price_now": 22.44,
+    "price_was": 34.09,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B07G9ZSW3M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/979077499717924979882714541351.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-20T12:20:50.952337"
+  },
+  {
     "id": "9f895b171380ca42",
     "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
     "price_now": 25.19,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-18T22:30:40.198789"
-  },
-  {
-    "id": "f1dfe34e7594f408",
-    "title": "Fralda Pampers Pants Ajuste Total XXXG 66 unidades",
-    "price_now": 101.63,
-    "price_was": 194.9,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0GW94VXKG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/930573998817923596701413211553.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-18T21:50:59.039694"
   }
 ]
