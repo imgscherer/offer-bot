@@ -6823,6 +6823,10 @@
     "e0d4dc401dac737b": {
       "title": "Kit 2 Pares: Tênis Iate + Chinelo Infantil Ploc (Tam. 25 ao 32)",
       "posted_at": "2026-10-20T13:31:00.245242"
+    },
+    "2dd59e875d578943": {
+      "title": "Cadeira de Alimentação Bebê 6 a 36 Meses Kidino com Bandeja Removível",
+      "posted_at": "2026-10-20T13:50:43.704962"
     }
   },
   "results": [
@@ -32761,6 +32765,14 @@
       "post_id": "1718",
       "error": null,
       "at": "2026-10-20T13:31:00.244368"
+    },
+    {
+      "offer_id": "2dd59e875d578943",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1719",
+      "error": null,
+      "at": "2026-10-20T13:50:43.655443"
     }
   ]
 }

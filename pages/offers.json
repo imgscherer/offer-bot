@@ -1,5 +1,17 @@
 [
   {
+    "id": "2dd59e875d578943",
+    "title": "Cadeira de Alimentação Bebê 6 a 36 Meses Kidino com Bandeja Removível",
+    "price_now": 122.0,
+    "price_was": 189.9,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0H311V8QJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/525250987517925035298927927561.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-20T13:50:43.655726"
+  },
+  {
     "id": "e0d4dc401dac737b",
     "title": "Kit 2 Pares: Tênis Iate + Chinelo Infantil Ploc (Tam. 25 ao 32)",
     "price_now": 39.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-19T10:50:47.836799"
-  },
-  {
-    "id": "b2c32cf944b19d2d",
-    "title": "Kit 5 Tags de Identificações de Trocas para Saquinhos Organizadores de Mala de maternidade",
-    "price_now": 13.8,
-    "price_was": 23.0,
-    "discount_pct": 40,
-    "url": "https://s.shopee.com.br/1BNE0nH07V",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mo5ibufg9fr664",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-19T00:30:39.384717"
   }
 ]
