@@ -1,5 +1,17 @@
 [
   {
+    "id": "cae4c9d1568562ce",
+    "title": "Fralda Turma Da Mônica Baby Jumbo Xg 20 Unidades",
+    "price_now": 19.94,
+    "price_was": 28.68,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KPR97P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/364815159917925155074107833192.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-20T17:10:56.367424"
+  },
+  {
     "id": "46a2bd749785959b",
     "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
     "price_now": 26.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-19T16:10:50.081317"
-  },
-  {
-    "id": "ae5577bec703cbb4",
-    "title": "Fralda Mili XG 22 unidades",
-    "price_now": 23.63,
-    "price_was": 42.48,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B07GB468ZM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/374738818717924169097088178960.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-19T13:50:44.339645"
   }
 ]
