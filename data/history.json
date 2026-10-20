@@ -6851,6 +6851,10 @@
     "80b346d2b8acf179": {
       "title": "Kit Meias e Pulseiras com Chocalho para Bebê 4 Peças Infantis",
       "posted_at": "2026-10-20T19:00:59.504505"
+    },
+    "3f1e08d953b22d96": {
+      "title": "Granado Talco Infantil Bebê, 100g",
+      "posted_at": "2026-10-20T20:10:38.727920"
     }
   },
   "results": [
@@ -32909,6 +32913,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-20T19:50:38.222719"
+    },
+    {
+      "offer_id": "3f1e08d953b22d96",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1726",
+      "error": null,
+      "at": "2026-10-20T20:10:38.727102"
     }
   ]
 }
