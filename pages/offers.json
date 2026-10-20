@@ -1,5 +1,17 @@
 [
   {
+    "id": "c94ce031952b6099",
+    "title": "Hidratante Granado Bebê Tradicional 120ml",
+    "price_now": 21.52,
+    "price_was": 34.0,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B08DPQK5K6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/981282928817925179573170632683.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-20T17:50:41.167814"
+  },
+  {
     "id": "cae4c9d1568562ce",
     "title": "Fralda Turma Da Mônica Baby Jumbo Xg 20 Unidades",
     "price_now": 19.94,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-19T17:10:58.648116"
-  },
-  {
-    "id": "60579337be5e276d",
-    "title": "Chupeta Funny Animais Silicone Anatômico Tam 2 Lillo",
-    "price_now": 9.91,
-    "price_was": 19.84,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B089M5VWXP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/822553239917924254493030797041.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-19T16:10:50.081317"
   }
 ]

@@ -6839,6 +6839,10 @@
     "cae4c9d1568562ce": {
       "title": "Fralda Turma Da Mônica Baby Jumbo Xg 20 Unidades",
       "posted_at": "2026-10-20T17:10:56.367840"
+    },
+    "c94ce031952b6099": {
+      "title": "Hidratante Granado Bebê Tradicional 120ml",
+      "posted_at": "2026-10-20T17:50:41.322477"
     }
   },
   "results": [
@@ -32809,6 +32813,14 @@
       "post_id": "1722",
       "error": null,
       "at": "2026-10-20T17:10:56.367052"
+    },
+    {
+      "offer_id": "c94ce031952b6099",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1723",
+      "error": null,
+      "at": "2026-10-20T17:50:41.167521"
     }
   ]
 }
