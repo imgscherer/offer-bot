@@ -1,5 +1,17 @@
 [
   {
+    "id": "36ddb16842f5149f",
+    "title": "Fralda Personal Baby Protect & Sec Grande Promo - 78 Unidades",
+    "price_now": 62.0,
+    "price_was": 89.99,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0DF9RCVYY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/152136329717925041608621334142.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-20T14:00:53.025115"
+  },
+  {
     "id": "2dd59e875d578943",
     "title": "Cadeira de Alimentação Bebê 6 a 36 Meses Kidino com Bandeja Removível",
     "price_now": 122.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-19T13:00:55.753910"
-  },
-  {
-    "id": "66a33886fc1ae75c",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
-    "price_now": 53.96,
-    "price_was": 77.37,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/560518914217924064196703429325.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-19T10:50:47.836799"
   }
 ]
