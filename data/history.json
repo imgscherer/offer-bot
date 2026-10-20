@@ -6831,6 +6831,10 @@
     "36ddb16842f5149f": {
       "title": "Fralda Personal Baby Protect & Sec Grande Promo - 78 Unidades",
       "posted_at": "2026-10-20T14:00:53.025563"
+    },
+    "46a2bd749785959b": {
+      "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
+      "posted_at": "2026-10-20T15:30:50.627251"
     }
   },
   "results": [
@@ -32785,6 +32789,14 @@
       "post_id": "1720",
       "error": null,
       "at": "2026-10-20T14:00:53.024724"
+    },
+    {
+      "offer_id": "46a2bd749785959b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1721",
+      "error": null,
+      "at": "2026-10-20T15:30:50.626322"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "46a2bd749785959b",
+    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
+    "price_now": 26.0,
+    "price_was": 52.65,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/741726703317925091898261632928.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-20T15:30:50.626681"
+  },
+  {
     "id": "36ddb16842f5149f",
     "title": "Fralda Personal Baby Protect & Sec Grande Promo - 78 Unidades",
     "price_now": 62.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-19T13:50:44.339645"
-  },
-  {
-    "id": "ba9c4232500a529b",
-    "title": "Fralda Pampers Confort Sec XXG 148 Unidades",
-    "price_now": 164.03,
-    "price_was": 235.87,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0DDV1QKW7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/956749094117924144008706337005.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-19T13:00:55.753910"
   }
 ]
