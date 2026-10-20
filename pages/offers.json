@@ -1,5 +1,17 @@
 [
   {
+    "id": "07995c80fd17e3b3",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XXG 18 Unidades",
+    "price_now": 19.07,
+    "price_was": 30.17,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B093GD56WR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/520194519217925295088884164085.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-20T21:00:57.276325"
+  },
+  {
     "id": "8c557161580d1fde",
     "title": "Fralda Pom Pom Protek Proteção De Mãe Jumbo P 30 Unidades",
     "price_now": 18.86,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-20T13:31:00.244722"
-  },
-  {
-    "id": "95510c3f1feef426",
-    "title": "Fralda Mili XXG 20 unidades",
-    "price_now": 22.44,
-    "price_was": 34.09,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B07G9ZSW3M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/979077499717924979882714541351.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-20T12:20:50.952337"
   }
 ]
