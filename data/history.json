@@ -6871,6 +6871,10 @@
     "2bd12e3ccc48dd01": {
       "title": "MamyPoko Fralda-Calça Superproteção M 34 Unidades",
       "posted_at": "2026-10-20T22:50:54.198439"
+    },
+    "059e5c175de35a86": {
+      "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
+      "posted_at": "2026-10-20T23:01:11.866260"
     }
   },
   "results": [
@@ -33297,6 +33301,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-20T22:51:00.784421"
+    },
+    {
+      "offer_id": "f15aec29cf6ae7cc",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-20T23:00:51.789588"
+    },
+    {
+      "offer_id": "a8823fe3c6b07a7e",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-20T23:00:57.866138"
+    },
+    {
+      "offer_id": "059e5c175de35a86",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1731",
+      "error": null,
+      "at": "2026-10-20T23:01:11.865396"
     }
   ]
 }

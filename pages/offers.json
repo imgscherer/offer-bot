@@ -1,5 +1,17 @@
 [
   {
+    "id": "059e5c175de35a86",
+    "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
+    "price_now": 43.52,
+    "price_was": 62.9,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/804775523517925370292769196488.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-20T23:01:11.865784"
+  },
+  {
     "id": "2bd12e3ccc48dd01",
     "title": "MamyPoko Fralda-Calça Superproteção M 34 Unidades",
     "price_now": 31.92,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-20T14:00:53.025115"
-  },
-  {
-    "id": "2dd59e875d578943",
-    "title": "Cadeira de Alimentação Bebê 6 a 36 Meses Kidino com Bandeja Removível",
-    "price_now": 122.0,
-    "price_was": 189.9,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0H311V8QJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/525250987517925035298927927561.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-20T13:50:43.655726"
   }
 ]
