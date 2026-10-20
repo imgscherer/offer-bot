@@ -6859,6 +6859,10 @@
     "02efae85ca1c7b12": {
       "title": "Fralda Turma da Mônica Baby Jumbo XG 20 Unidades",
       "posted_at": "2026-10-20T20:20:46.907029"
+    },
+    "8c557161580d1fde": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe Jumbo P 30 Unidades",
+      "posted_at": "2026-10-20T20:40:57.740372"
     }
   },
   "results": [
@@ -32949,6 +32953,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-20T20:30:40.458779"
+    },
+    {
+      "offer_id": "c431d546a6c736a4",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-20T20:40:47.635550"
+    },
+    {
+      "offer_id": "8c557161580d1fde",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1728",
+      "error": null,
+      "at": "2026-10-20T20:40:57.739552"
+    },
+    {
+      "offer_id": "c83dfe8233b9a264",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-20T20:41:01.708243"
     }
   ]
 }
