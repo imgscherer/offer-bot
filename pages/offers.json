@@ -1,5 +1,17 @@
 [
   {
+    "id": "a845e488439eed51",
+    "title": "Sabonete Líquido Bebê Glicerina Baruel Baby 400ml",
+    "price_now": 15.49,
+    "price_was": 22.69,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B095D664HJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/251241938017925191537539680648.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-20T18:10:44.020657"
+  },
+  {
     "id": "c94ce031952b6099",
     "title": "Hidratante Granado Bebê Tradicional 120ml",
     "price_now": 21.52,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-19T18:30:47.341974"
-  },
-  {
-    "id": "a857b3a93394ccf8",
-    "title": "Shampoo Infantil Camomila 210ml",
-    "price_now": 8.0,
-    "price_was": 12.69,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B08XYLBZL1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/152633590817924295103851915081.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-19T17:10:58.648116"
   }
 ]

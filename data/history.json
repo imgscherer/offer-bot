@@ -6843,6 +6843,10 @@
     "c94ce031952b6099": {
       "title": "Hidratante Granado Bebê Tradicional 120ml",
       "posted_at": "2026-10-20T17:50:41.322477"
+    },
+    "a845e488439eed51": {
+      "title": "Sabonete Líquido Bebê Glicerina Baruel Baby 400ml",
+      "posted_at": "2026-10-20T18:10:44.021077"
     }
   },
   "results": [
@@ -32821,6 +32825,14 @@
       "post_id": "1723",
       "error": null,
       "at": "2026-10-20T17:50:41.167521"
+    },
+    {
+      "offer_id": "a845e488439eed51",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1724",
+      "error": null,
+      "at": "2026-10-20T18:10:44.020301"
     }
   ]
 }
