@@ -6855,6 +6855,10 @@
     "3f1e08d953b22d96": {
       "title": "Granado Talco Infantil Bebê, 100g",
       "posted_at": "2026-10-20T20:10:38.727920"
+    },
+    "02efae85ca1c7b12": {
+      "title": "Fralda Turma da Mônica Baby Jumbo XG 20 Unidades",
+      "posted_at": "2026-10-20T20:20:46.907029"
     }
   },
   "results": [
@@ -32921,6 +32925,22 @@
       "post_id": "1726",
       "error": null,
       "at": "2026-10-20T20:10:38.727102"
+    },
+    {
+      "offer_id": "02efae85ca1c7b12",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1727",
+      "error": null,
+      "at": "2026-10-20T20:20:46.906227"
+    },
+    {
+      "offer_id": "c83dfe8233b9a264",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-20T20:21:01.533664"
     }
   ]
 }

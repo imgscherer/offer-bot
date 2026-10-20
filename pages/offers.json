@@ -1,5 +1,17 @@
 [
   {
+    "id": "02efae85ca1c7b12",
+    "title": "Fralda Turma da Mônica Baby Jumbo XG 20 Unidades",
+    "price_now": 12.83,
+    "price_was": 28.68,
+    "discount_pct": 55,
+    "url": "https://www.amazon.com.br/dp/B099KPR97P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/704971694017925274892495854828.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-20T20:20:46.906562"
+  },
+  {
     "id": "3f1e08d953b22d96",
     "title": "Granado Talco Infantil Bebê, 100g",
     "price_now": 14.45,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-20T11:40:56.275997"
-  },
-  {
-    "id": "878752d37d2959c9",
-    "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
-    "price_now": 17.67,
-    "price_was": 33.22,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B07GB34N8Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/244322874017924399473336333742.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-19T20:11:28.964168"
   }
 ]
