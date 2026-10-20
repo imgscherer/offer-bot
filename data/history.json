@@ -6847,6 +6847,10 @@
     "a845e488439eed51": {
       "title": "Sabonete Líquido Bebê Glicerina Baruel Baby 400ml",
       "posted_at": "2026-10-20T18:10:44.021077"
+    },
+    "80b346d2b8acf179": {
+      "title": "Kit Meias e Pulseiras com Chocalho para Bebê 4 Peças Infantis",
+      "posted_at": "2026-10-20T19:00:59.504505"
     }
   },
   "results": [
@@ -32849,6 +32853,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-20T18:50:41.007861"
+    },
+    {
+      "offer_id": "80b346d2b8acf179",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1725",
+      "error": null,
+      "at": "2026-10-20T19:00:59.503701"
+    },
+    {
+      "offer_id": "ea8ad9011c7ab993",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-20T19:01:06.602762"
     }
   ]
 }

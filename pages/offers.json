@@ -1,5 +1,17 @@
 [
   {
+    "id": "80b346d2b8acf179",
+    "title": "Kit Meias e Pulseiras com Chocalho para Bebê 4 Peças Infantis",
+    "price_now": 40.0,
+    "price_was": 62.21,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0FKHFY1WG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/737677503817925220531462608665.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-20T19:00:59.504025"
+  },
+  {
     "id": "a845e488439eed51",
     "title": "Sabonete Líquido Bebê Glicerina Baruel Baby 400ml",
     "price_now": 15.49,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-19T19:10:54.101277"
-  },
-  {
-    "id": "76703528938dcd1a",
-    "title": "Fralda Pampers Confort Sec G 92 Unidades",
-    "price_now": 101.0,
-    "price_was": 189.9,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/963610489717924339513357676924.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-19T18:30:47.341974"
   }
 ]
