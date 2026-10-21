@@ -6875,6 +6875,10 @@
     "059e5c175de35a86": {
       "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
       "posted_at": "2026-10-20T23:01:11.866260"
+    },
+    "452400c378fb6cb6": {
+      "title": "Gancho Para Carrinho De Bebê , Organizador Ajustável De Couro PU Bolsas De Fraldas , Viagem Essencial",
+      "posted_at": "2026-10-21T00:00:52.856467"
     }
   },
   "results": [
@@ -33365,6 +33369,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-20T23:40:40.541557"
+    },
+    {
+      "offer_id": "452400c378fb6cb6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1732",
+      "error": null,
+      "at": "2026-10-21T00:00:52.855713"
     }
   ]
 }
