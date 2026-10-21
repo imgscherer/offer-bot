@@ -1,5 +1,17 @@
 [
   {
+    "id": "07018c62107703be",
+    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
+    "price_now": 30.0,
+    "price_was": 62.99,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/832550931517926033996693753805.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-21T17:40:44.199717"
+  },
+  {
     "id": "054a603d3b1ded50",
     "title": "Fralda Cremer Magic Care Hiper XG 50 unidades",
     "price_now": 41.59,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-21T13:20:59.852661"
-  },
-  {
-    "id": "9e6b24348397a94b",
-    "title": "Lixeira Antiodor Bebê para Fraldas 10L",
-    "price_now": 92.0,
-    "price_was": 209.0,
-    "discount_pct": 56,
-    "url": "https://www.amazon.com.br/dp/B0FLZSKSXB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/817208884417925876704994602085.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-21T13:20:51.247790"
   }
 ]

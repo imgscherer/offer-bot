@@ -6943,6 +6943,10 @@
     "054a603d3b1ded50": {
       "title": "Fralda Cremer Magic Care Hiper XG 50 unidades",
       "posted_at": "2026-10-21T17:11:00.376646"
+    },
+    "07018c62107703be": {
+      "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
+      "posted_at": "2026-10-21T17:40:44.200115"
     }
   },
   "results": [
@@ -33929,6 +33933,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-21T17:30:41.818522"
+    },
+    {
+      "offer_id": "07018c62107703be",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1749",
+      "error": null,
+      "at": "2026-10-21T17:40:44.199428"
+    },
+    {
+      "offer_id": "4336e049faceb51c",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-21T17:40:50.220395"
     }
   ]
 }
