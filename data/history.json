@@ -6923,6 +6923,14 @@
     "1204e9174d293eb5": {
       "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
       "posted_at": "2026-10-21T14:20:50.818617"
+    },
+    "87556de262911430": {
+      "title": "Almofada Para Carrinhos, Safety 1st, SafeComfort Orgânica, Off White",
+      "posted_at": "2026-10-21T15:50:47.061360"
+    },
+    "1df52f8c06e4c84d": {
+      "title": "Tênis Infantil Menino Aranha (Tam. 23 ao 36)",
+      "posted_at": "2026-10-21T15:51:25.857113"
     }
   },
   "results": [
@@ -33773,6 +33781,46 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-21T15:40:51.941786"
+    },
+    {
+      "offer_id": "87556de262911430",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1744",
+      "error": null,
+      "at": "2026-10-21T15:50:47.060761"
+    },
+    {
+      "offer_id": "d67d7555dec8c1d0",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-21T15:50:55.413215"
+    },
+    {
+      "offer_id": "1df52f8c06e4c84d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1745",
+      "error": null,
+      "at": "2026-10-21T15:51:25.856370"
+    },
+    {
+      "offer_id": "2cd63057a6a88471",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-21T15:51:39.626489"
+    },
+    {
+      "offer_id": "5378381d3e072e34",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-21T15:51:44.392550"
     }
   ]
 }
