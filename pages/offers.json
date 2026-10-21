@@ -1,5 +1,17 @@
 [
   {
+    "id": "fb7bd9954e5e0637",
+    "title": "Fralda Pampers Confort Sec G 92 Unidades",
+    "price_now": 97.25,
+    "price_was": 189.9,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/327076300417926054312689834265.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-21T18:10:49.249171"
+  },
+  {
     "id": "07018c62107703be",
     "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
     "price_now": 30.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-21T13:21:13.678591"
-  },
-  {
-    "id": "5ed62f4e8c280af1",
-    "title": "Fralda-Calça MamyPoko Superproteção XXG 22 Unidades",
-    "price_now": 27.0,
-    "price_was": 46.9,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/292468401917925876845608809795.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-21T13:20:59.852661"
   }
 ]
