@@ -6935,6 +6935,10 @@
     "bbebcb7f5b6e41ad": {
       "title": "Granado Hidratante Bebê, Peles Sensíveis, 120ml",
       "posted_at": "2026-10-21T16:30:56.186295"
+    },
+    "50c6a5db68054ff0": {
+      "title": "Fralda Descartável Cremer Magic Care G 60 Unidades",
+      "posted_at": "2026-10-21T16:50:45.894522"
     }
   },
   "results": [
@@ -33881,6 +33885,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-21T16:40:43.775497"
+    },
+    {
+      "offer_id": "50c6a5db68054ff0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1747",
+      "error": null,
+      "at": "2026-10-21T16:50:45.893707"
     }
   ]
 }

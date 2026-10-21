@@ -1,5 +1,17 @@
 [
   {
+    "id": "50c6a5db68054ff0",
+    "title": "Fralda Descartável Cremer Magic Care G 60 Unidades",
+    "price_now": 41.59,
+    "price_was": 74.27,
+    "discount_pct": 44,
+    "url": "https://s.shopee.com.br/60SY1UqoEX?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/294527725517926003294603516896.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-21T16:50:45.894058"
+  },
+  {
     "id": "bbebcb7f5b6e41ad",
     "title": "Granado Hidratante Bebê, Peles Sensíveis, 120ml",
     "price_now": 32.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-21T11:51:04.821066"
-  },
-  {
-    "id": "11ee6531f4c1a923",
-    "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
-    "price_now": 103.0,
-    "price_was": 151.59,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/697262427217925804847755988024.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-21T11:21:00.060782"
   }
 ]
