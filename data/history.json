@@ -6879,6 +6879,10 @@
     "452400c378fb6cb6": {
       "title": "Gancho Para Carrinho De Bebê , Organizador Ajustável De Couro PU Bolsas De Fraldas , Viagem Essencial",
       "posted_at": "2026-10-21T00:00:52.856467"
+    },
+    "4ac61860d1db1a95": {
+      "title": "Fralda Pom Pom Protek Tam. M 28 Unidades",
+      "posted_at": "2026-10-21T10:30:53.146746"
     }
   },
   "results": [
@@ -33377,6 +33381,14 @@
       "post_id": "1732",
       "error": null,
       "at": "2026-10-21T00:00:52.855713"
+    },
+    {
+      "offer_id": "4ac61860d1db1a95",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1733",
+      "error": null,
+      "at": "2026-10-21T10:30:53.146029"
     }
   ]
 }

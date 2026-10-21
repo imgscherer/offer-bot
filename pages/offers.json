@@ -1,5 +1,17 @@
 [
   {
+    "id": "4ac61860d1db1a95",
+    "title": "Fralda Pom Pom Protek Tam. M 28 Unidades",
+    "price_now": 18.04,
+    "price_was": 30.17,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B093G83Q3P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/492532572817925781907653255027.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-21T10:30:53.146410"
+  },
+  {
     "id": "452400c378fb6cb6",
     "title": "Gancho Para Carrinho De Bebê , Organizador Ajustável De Couro PU Bolsas De Fraldas , Viagem Essencial",
     "price_now": 23.71,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-20T17:10:56.367424"
-  },
-  {
-    "id": "46a2bd749785959b",
-    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
-    "price_now": 26.0,
-    "price_was": 52.65,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/741726703317925091898261632928.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-20T15:30:50.626681"
   }
 ]
