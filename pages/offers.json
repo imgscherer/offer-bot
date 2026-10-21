@@ -1,5 +1,17 @@
 [
   {
+    "id": "bbebcb7f5b6e41ad",
+    "title": "Granado Hidratante Bebê, Peles Sensíveis, 120ml",
+    "price_now": 32.0,
+    "price_was": 50.41,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B08DPMH51D?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/892294335117925999236921573256.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-21T16:30:56.185834"
+  },
+  {
     "id": "1df52f8c06e4c84d",
     "title": "Tênis Infantil Menino Aranha (Tam. 23 ao 36)",
     "price_now": 63.93,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-21T11:21:00.060782"
-  },
-  {
-    "id": "9419c0058f3c581a",
-    "title": "Fralda Pom Pom Protek Proteção De Mãe Jumbo P 30 Unidades",
-    "price_now": 19.85,
-    "price_was": 30.17,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B093G7B8CN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/405293512917925809069059609077.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-21T11:20:48.141306"
   }
 ]

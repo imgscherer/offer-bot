@@ -6931,6 +6931,10 @@
     "1df52f8c06e4c84d": {
       "title": "Tênis Infantil Menino Aranha (Tam. 23 ao 36)",
       "posted_at": "2026-10-21T15:51:25.857113"
+    },
+    "bbebcb7f5b6e41ad": {
+      "title": "Granado Hidratante Bebê, Peles Sensíveis, 120ml",
+      "posted_at": "2026-10-21T16:30:56.186295"
     }
   },
   "results": [
@@ -33853,6 +33857,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-21T16:20:42.224120"
+    },
+    {
+      "offer_id": "d67d7555dec8c1d0",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-21T16:30:47.320025"
+    },
+    {
+      "offer_id": "bbebcb7f5b6e41ad",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1746",
+      "error": null,
+      "at": "2026-10-21T16:30:56.185502"
     }
   ]
 }
