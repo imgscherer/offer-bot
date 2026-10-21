@@ -1,5 +1,17 @@
 [
   {
+    "id": "1204e9174d293eb5",
+    "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
+    "price_now": 43.0,
+    "price_was": 62.9,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/749769396917925918828719728666.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-21T14:20:50.818144"
+  },
+  {
     "id": "f5b117926eb8e0d7",
     "title": "Kit 6 Cuecas Boxer Infantil Polo Cotton 100% Algodão Forro Duplo (Tam. 1 a 9 anos)",
     "price_now": 49.52,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-21T00:00:52.856050"
-  },
-  {
-    "id": "059e5c175de35a86",
-    "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
-    "price_now": 43.52,
-    "price_was": 62.9,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/804775523517925370292769196488.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-20T23:01:11.865784"
   }
 ]
