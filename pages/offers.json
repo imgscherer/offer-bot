@@ -1,5 +1,17 @@
 [
   {
+    "id": "d19e879a5aade3ea",
+    "title": "Kit Lenço Umedecido Baby Club Aloe Vera Caixa",
+    "price_now": 46.9,
+    "price_was": 79.99,
+    "discount_pct": 41,
+    "url": "https://s.shopee.com.br/2BFpstKxQs?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/171914421017926234293314388690.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-21T23:01:02.411710"
+  },
+  {
     "id": "93116c788ebc7842",
     "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
     "price_now": 39.51,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-21T15:50:47.061068"
-  },
-  {
-    "id": "1204e9174d293eb5",
-    "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
-    "price_now": 43.0,
-    "price_was": 62.9,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/749769396917925918828719728666.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-21T14:20:50.818144"
   }
 ]

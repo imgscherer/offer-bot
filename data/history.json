@@ -6967,6 +6967,10 @@
     "93116c788ebc7842": {
       "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
       "posted_at": "2026-10-21T22:30:46.190136"
+    },
+    "d19e879a5aade3ea": {
+      "title": "Kit Lenço Umedecido Baby Club Aloe Vera Caixa",
+      "posted_at": "2026-10-21T23:01:02.412161"
     }
   },
   "results": [
@@ -34345,6 +34349,14 @@
       "post_id": "1754",
       "error": null,
       "at": "2026-10-21T22:30:46.189157"
+    },
+    {
+      "offer_id": "d19e879a5aade3ea",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1755",
+      "error": null,
+      "at": "2026-10-21T23:01:02.411335"
     }
   ]
 }
