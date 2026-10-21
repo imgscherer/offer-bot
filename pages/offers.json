@@ -1,5 +1,17 @@
 [
   {
+    "id": "21148489e11a6390",
+    "title": "Burigotto Carrinho De Bebê Zap Metal, Prata",
+    "price_now": 452.7,
+    "price_was": 929.0,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B0C4VJ5DCQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/325216976717926069287882500376.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-21T18:30:53.305039"
+  },
+  {
     "id": "fb7bd9954e5e0637",
     "title": "Fralda Pampers Confort Sec G 92 Unidades",
     "price_now": 97.25,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-21T13:31:19.634598"
-  },
-  {
-    "id": "b9c576858c6953ee",
-    "title": "Fralda-Calça MamyPoko Superproteção G 28 Unidades",
-    "price_now": 27.0,
-    "price_was": 42.9,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0D4363KSD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/987008259517925876876185700640.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-21T13:21:13.678591"
   }
 ]

@@ -6951,6 +6951,10 @@
     "fb7bd9954e5e0637": {
       "title": "Fralda Pampers Confort Sec G 92 Unidades",
       "posted_at": "2026-10-21T18:10:49.249552"
+    },
+    "21148489e11a6390": {
+      "title": "Burigotto Carrinho De Bebê Zap Metal, Prata",
+      "posted_at": "2026-10-21T18:30:53.306703"
     }
   },
   "results": [
@@ -34113,6 +34117,46 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-21T18:21:09.522998"
+    },
+    {
+      "offer_id": "21148489e11a6390",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1751",
+      "error": null,
+      "at": "2026-10-21T18:30:53.304677"
+    },
+    {
+      "offer_id": "b500c79211d0daf7",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-21T18:30:57.516373"
+    },
+    {
+      "offer_id": "8115c7acde97591c",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-21T18:31:02.462035"
+    },
+    {
+      "offer_id": "58937c2a68cf043b",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-21T18:31:06.654860"
+    },
+    {
+      "offer_id": "c05a948dbcd86b3f",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-21T18:31:11.699218"
     }
   ]
 }
