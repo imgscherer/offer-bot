@@ -1,5 +1,29 @@
 [
   {
+    "id": "9838838075cf3c7c",
+    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+    "price_now": 47.0,
+    "price_was": 72.65,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/831700131017925876862519758238.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-21T13:31:34.338418"
+  },
+  {
+    "id": "0f25234a8753d5d8",
+    "title": "Kit Portátil Para Limpeza De Mamadeira - Buba",
+    "price_now": 68.78,
+    "price_was": 108.9,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0DJG4SRZ2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/720467923217925884628512548166.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-21T13:31:19.634598"
+  },
+  {
     "id": "b9c576858c6953ee",
     "title": "Fralda-Calça MamyPoko Superproteção G 28 Unidades",
     "price_now": 27.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-20T22:50:54.197939"
-  },
-  {
-    "id": "07995c80fd17e3b3",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XXG 18 Unidades",
-    "price_now": 19.07,
-    "price_was": 30.17,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B093GD56WR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/520194519217925295088884164085.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-20T21:00:57.276325"
-  },
-  {
-    "id": "8c557161580d1fde",
-    "title": "Fralda Pom Pom Protek Proteção De Mãe Jumbo P 30 Unidades",
-    "price_now": 18.86,
-    "price_was": 30.17,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B093G7B8CN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/490456796717925280296954182839.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-20T20:40:57.739897"
   }
 ]
