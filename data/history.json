@@ -6963,6 +6963,10 @@
     "57b0cc66c976d2fc": {
       "title": "Chupeta Avent Ultra Air 0-6M",
       "posted_at": "2026-10-21T20:50:41.427339"
+    },
+    "93116c788ebc7842": {
+      "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
+      "posted_at": "2026-10-21T22:30:46.190136"
     }
   },
   "results": [
@@ -34333,6 +34337,14 @@
       "post_id": "1753",
       "error": null,
       "at": "2026-10-21T20:50:41.426634"
+    },
+    {
+      "offer_id": "93116c788ebc7842",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1754",
+      "error": null,
+      "at": "2026-10-21T22:30:46.189157"
     }
   ]
 }
