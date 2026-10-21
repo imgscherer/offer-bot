@@ -1,5 +1,41 @@
 [
   {
+    "id": "b9c576858c6953ee",
+    "title": "Fralda-Calça MamyPoko Superproteção G 28 Unidades",
+    "price_now": 27.0,
+    "price_was": 42.9,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0D4363KSD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/987008259517925876876185700640.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-21T13:21:13.678591"
+  },
+  {
+    "id": "5ed62f4e8c280af1",
+    "title": "Fralda-Calça MamyPoko Superproteção XXG 22 Unidades",
+    "price_now": 27.0,
+    "price_was": 46.9,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/292468401917925876845608809795.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-21T13:20:59.852661"
+  },
+  {
+    "id": "9e6b24348397a94b",
+    "title": "Lixeira Antiodor Bebê para Fraldas 10L",
+    "price_now": 92.0,
+    "price_was": 209.0,
+    "discount_pct": 56,
+    "url": "https://www.amazon.com.br/dp/B0FLZSKSXB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/817208884417925876704994602085.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-21T13:20:51.247790"
+  },
+  {
     "id": "a57432acad7fbab9",
     "title": "Fralda Pampers Confort Sec Tamanho Xxg, 82 Unidades",
     "price_now": 119.65,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-20T20:40:57.739897"
-  },
-  {
-    "id": "02efae85ca1c7b12",
-    "title": "Fralda Turma da Mônica Baby Jumbo XG 20 Unidades",
-    "price_now": 12.83,
-    "price_was": 28.68,
-    "discount_pct": 55,
-    "url": "https://www.amazon.com.br/dp/B099KPR97P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/704971694017925274892495854828.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-20T20:20:46.906562"
-  },
-  {
-    "id": "3f1e08d953b22d96",
-    "title": "Granado Talco Infantil Bebê, 100g",
-    "price_now": 14.45,
-    "price_was": 20.7,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B07FFC3YTN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/780147936017925261707598268658.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-20T20:10:38.727439"
-  },
-  {
-    "id": "80b346d2b8acf179",
-    "title": "Kit Meias e Pulseiras com Chocalho para Bebê 4 Peças Infantis",
-    "price_now": 40.0,
-    "price_was": 62.21,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0FKHFY1WG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/737677503817925220531462608665.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-20T19:00:59.504025"
   }
 ]
