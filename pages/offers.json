@@ -1,5 +1,17 @@
 [
   {
+    "id": "57b0cc66c976d2fc",
+    "title": "Chupeta Avent Ultra Air 0-6M",
+    "price_now": 19.91,
+    "price_was": 40.9,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B0C4M7PXSZ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/537013611917926156355642430493.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-21T20:50:41.427020"
+  },
+  {
     "id": "e7f4015668190eee",
     "title": "Pijama Infantil Menina Americano (Tam. 1 a 10 anos, Diversas Estampas)",
     "price_now": 47.4,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-21T13:40:45.439463"
-  },
-  {
-    "id": "9838838075cf3c7c",
-    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
-    "price_now": 47.0,
-    "price_was": 72.65,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/831700131017925876862519758238.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-21T13:31:34.338418"
   }
 ]

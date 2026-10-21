@@ -6959,6 +6959,10 @@
     "e7f4015668190eee": {
       "title": "Pijama Infantil Menina Americano (Tam. 1 a 10 anos, Diversas Estampas)",
       "posted_at": "2026-10-21T20:30:50.432862"
+    },
+    "57b0cc66c976d2fc": {
+      "title": "Chupeta Avent Ultra Air 0-6M",
+      "posted_at": "2026-10-21T20:50:41.427339"
     }
   },
   "results": [
@@ -34321,6 +34325,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-21T20:40:36.625763"
+    },
+    {
+      "offer_id": "57b0cc66c976d2fc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1753",
+      "error": null,
+      "at": "2026-10-21T20:50:41.426634"
     }
   ]
 }
