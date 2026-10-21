@@ -1,5 +1,17 @@
 [
   {
+    "id": "a57432acad7fbab9",
+    "title": "Fralda Pampers Confort Sec Tamanho Xxg, 82 Unidades",
+    "price_now": 119.65,
+    "price_was": 189.9,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0GW3YY6FY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/737012012017925823901921620603.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-21T11:51:04.821066"
+  },
+  {
     "id": "11ee6531f4c1a923",
     "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
     "price_now": 103.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-20T19:00:59.504025"
-  },
-  {
-    "id": "a845e488439eed51",
-    "title": "Sabonete Líquido Bebê Glicerina Baruel Baby 400ml",
-    "price_now": 15.49,
-    "price_was": 22.69,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B095D664HJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/251241938017925191537539680648.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-20T18:10:44.020657"
   }
 ]

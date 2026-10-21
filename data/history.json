@@ -6891,6 +6891,10 @@
     "11ee6531f4c1a923": {
       "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
       "posted_at": "2026-10-21T11:21:00.061230"
+    },
+    "a57432acad7fbab9": {
+      "title": "Fralda Pampers Confort Sec Tamanho Xxg, 82 Unidades",
+      "posted_at": "2026-10-21T11:51:04.821502"
     }
   },
   "results": [
@@ -33413,6 +33417,22 @@
       "post_id": "1735",
       "error": null,
       "at": "2026-10-21T11:21:00.060490"
+    },
+    {
+      "offer_id": "e872450c696ef47d",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-21T11:50:48.912996"
+    },
+    {
+      "offer_id": "a57432acad7fbab9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1736",
+      "error": null,
+      "at": "2026-10-21T11:51:04.820785"
     }
   ]
 }
