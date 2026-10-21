@@ -1,5 +1,29 @@
 [
   {
+    "id": "11ee6531f4c1a923",
+    "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
+    "price_now": 103.0,
+    "price_was": 151.59,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/697262427217925804847755988024.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-21T11:21:00.060782"
+  },
+  {
+    "id": "9419c0058f3c581a",
+    "title": "Fralda Pom Pom Protek Proteção De Mãe Jumbo P 30 Unidades",
+    "price_now": 19.85,
+    "price_was": 30.17,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B093G7B8CN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/405293512917925809069059609077.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-21T11:20:48.141306"
+  },
+  {
     "id": "4ac61860d1db1a95",
     "title": "Fralda Pom Pom Protek Tam. M 28 Unidades",
     "price_now": 18.04,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-20T18:10:44.020657"
-  },
-  {
-    "id": "c94ce031952b6099",
-    "title": "Hidratante Granado Bebê Tradicional 120ml",
-    "price_now": 21.52,
-    "price_was": 34.0,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B08DPQK5K6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/981282928817925179573170632683.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-20T17:50:41.167814"
-  },
-  {
-    "id": "cae4c9d1568562ce",
-    "title": "Fralda Turma Da Mônica Baby Jumbo Xg 20 Unidades",
-    "price_now": 19.94,
-    "price_was": 28.68,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B099KPR97P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/364815159917925155074107833192.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-20T17:10:56.367424"
   }
 ]

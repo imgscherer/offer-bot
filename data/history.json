@@ -6883,6 +6883,14 @@
     "4ac61860d1db1a95": {
       "title": "Fralda Pom Pom Protek Tam. M 28 Unidades",
       "posted_at": "2026-10-21T10:30:53.146746"
+    },
+    "9419c0058f3c581a": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe Jumbo P 30 Unidades",
+      "posted_at": "2026-10-21T11:20:48.141617"
+    },
+    "11ee6531f4c1a923": {
+      "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
+      "posted_at": "2026-10-21T11:21:00.061230"
     }
   },
   "results": [
@@ -33389,6 +33397,22 @@
       "post_id": "1733",
       "error": null,
       "at": "2026-10-21T10:30:53.146029"
+    },
+    {
+      "offer_id": "9419c0058f3c581a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1734",
+      "error": null,
+      "at": "2026-10-21T11:20:48.140963"
+    },
+    {
+      "offer_id": "11ee6531f4c1a923",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1735",
+      "error": null,
+      "at": "2026-10-21T11:21:00.060490"
     }
   ]
 }
