@@ -33433,6 +33433,14 @@
       "post_id": "1736",
       "error": null,
       "at": "2026-10-21T11:51:04.820785"
+    },
+    {
+      "offer_id": "0ea275c0ec6bc04f",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-21T12:01:01.797671"
     }
   ]
 }
