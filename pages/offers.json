@@ -1,5 +1,17 @@
 [
   {
+    "id": "66ffc2fe7ae07263",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo G 24 Unidades",
+    "price_now": 20.67,
+    "price_was": 30.17,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B093G7WGYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/114611344317926678897137519261.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-22T11:31:18.025034"
+  },
+  {
     "id": "712dbe082f4dc2fa",
     "title": "Suplemento Infantil Ascenda 800g Sem Sabor",
     "price_now": 62.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-21T16:30:56.185834"
-  },
-  {
-    "id": "1df52f8c06e4c84d",
-    "title": "Tênis Infantil Menino Aranha (Tam. 23 ao 36)",
-    "price_now": 63.93,
-    "price_was": 99.9,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/4fxANYmPbZ?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/724399971517925972839050631860.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-21T15:51:25.856669"
   }
 ]
