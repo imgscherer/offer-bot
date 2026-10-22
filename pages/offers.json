@@ -1,5 +1,17 @@
 [
   {
+    "id": "0635381b9da471ef",
+    "title": "Brinquedo Educativo Infantil Carrinho de Montar com Engrenagens 6 Peças Interativo para Crianças a Partir de 3 Anos",
+    "price_now": 41.93,
+    "price_was": 59.9,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/LoCfVCYXA",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-muchip0n6aypf2",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-22T13:30:56.243251"
+  },
+  {
     "id": "008612e0d4b62282",
     "title": "Fralda Descartável Huggies Máxima Proteção, Tamanho Xxg, 58 Unidades",
     "price_now": 64.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-21T18:30:53.305039"
-  },
-  {
-    "id": "fb7bd9954e5e0637",
-    "title": "Fralda Pampers Confort Sec G 92 Unidades",
-    "price_now": 97.25,
-    "price_was": 189.9,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/327076300417926054312689834265.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-21T18:10:49.249171"
   }
 ]
