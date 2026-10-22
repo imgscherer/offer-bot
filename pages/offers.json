@@ -1,5 +1,17 @@
 [
   {
+    "id": "9623d7b1c7f01093",
+    "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
+    "price_now": 34.79,
+    "price_was": 50.04,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/913297055417927008952244970405.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-22T20:40:50.306530"
+  },
+  {
     "id": "2ae1361ead143456",
     "title": "Sandália Infantil Menina (Tam. 19 ao 32, 3 Cores)",
     "price_now": 20.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-22T00:30:51.013004"
-  },
-  {
-    "id": "d19e879a5aade3ea",
-    "title": "Kit Lenço Umedecido Baby Club Aloe Vera Caixa",
-    "price_now": 46.9,
-    "price_was": 79.99,
-    "discount_pct": 41,
-    "url": "https://s.shopee.com.br/2BFpstKxQs?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/171914421017926234293314388690.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-21T23:01:02.411710"
   }
 ]
