@@ -7003,6 +7003,10 @@
     "00d3e035227b84da": {
       "title": "Fralda Huggies Máxima Proteção Tamanho XXG 58un",
       "posted_at": "2026-10-22T14:10:51.696217"
+    },
+    "17bbedab5b0caef1": {
+      "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
+      "posted_at": "2026-10-22T16:10:42.856850"
     }
   },
   "results": [
@@ -34765,6 +34769,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-22T16:00:55.398188"
+    },
+    {
+      "offer_id": "17bbedab5b0caef1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1764",
+      "error": null,
+      "at": "2026-10-22T16:10:42.856199"
+    },
+    {
+      "offer_id": "7cfd3b9ea2c1b3c6",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-22T16:10:52.015543"
+    },
+    {
+      "offer_id": "4f03d6aadcf34df9",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-22T16:11:00.615141"
     }
   ]
 }
