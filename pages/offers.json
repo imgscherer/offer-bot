@@ -1,5 +1,17 @@
 [
   {
+    "id": "2ae1361ead143456",
+    "title": "Sandália Infantil Menina (Tam. 19 ao 32, 3 Cores)",
+    "price_now": 20.9,
+    "price_was": 49.77,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/9fLsCaeqAL?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/189180843317926984935406305626.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-22T19:50:48.652519"
+  },
+  {
     "id": "014327359d0d23e2",
     "title": "Carrinho de Bebê Toffy Cosco Cinza Mescla",
     "price_now": 399.89,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-21T23:01:02.411710"
-  },
-  {
-    "id": "93116c788ebc7842",
-    "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
-    "price_now": 39.51,
-    "price_was": 59.99,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/451931533917926211521571023043.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-21T22:30:46.189477"
   }
 ]

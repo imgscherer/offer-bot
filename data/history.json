@@ -7011,6 +7011,10 @@
     "014327359d0d23e2": {
       "title": "Carrinho de Bebê Toffy Cosco Cinza Mescla",
       "posted_at": "2026-10-22T17:50:52.192911"
+    },
+    "2ae1361ead143456": {
+      "title": "Sandália Infantil Menina (Tam. 19 ao 32, 3 Cores)",
+      "posted_at": "2026-10-22T19:50:48.652960"
     }
   },
   "results": [
@@ -34813,6 +34817,14 @@
       "post_id": "1765",
       "error": null,
       "at": "2026-10-22T17:50:52.192126"
+    },
+    {
+      "offer_id": "2ae1361ead143456",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1766",
+      "error": null,
+      "at": "2026-10-22T19:50:48.652216"
     }
   ]
 }
