@@ -1,5 +1,29 @@
 [
   {
+    "id": "cee1f53a0a8f53b3",
+    "title": "Assento Redutor Infantil Vaso Sanitário Privada com Escada Troninho",
+    "price_now": 61.0,
+    "price_was": 95.57,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0CH3ZLGZK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/785993055117927031141473171551.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-22T21:10:56.961032"
+  },
+  {
+    "id": "156b7cbfbc653428",
+    "title": "Kit 5 Camisetas Infantil (Tam. 1 ao 12)",
+    "price_now": 49.9,
+    "price_was": 99.8,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/60SZunRVpq?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/283982270217927028137390652018.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-22T21:10:47.875830"
+  },
+  {
     "id": "bc242c153f4bc1e6",
     "title": "Almofada de Amamentação Travesseiro Amamentar Trocador Portátil Acolchoado Para Bebê Menino Menina",
     "price_now": 36.9,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-22T12:50:44.620314"
-  },
-  {
-    "id": "2b3adf6504ecc340",
-    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
-    "price_now": 37.0,
-    "price_was": 52.65,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/168190141417926699378447983729.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-22T12:01:06.909698"
-  },
-  {
-    "id": "1aa3db6c896b575f",
-    "title": "2pcs trava de segurança infantil trava de proteção de segurança infantil",
-    "price_now": 9.99,
-    "price_was": 20.81,
-    "discount_pct": 52,
-    "url": "https://s.shopee.com.br/6AlzW34PHE",
-    "image": "https://cf.shopee.com.br/file/cn-11134211-820l4-mhh41bnqi9s450",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-22T12:00:46.074515"
   }
 ]

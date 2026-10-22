@@ -7027,6 +7027,14 @@
     "bc242c153f4bc1e6": {
       "title": "Almofada de Amamentação Travesseiro Amamentar Trocador Portátil Acolchoado Para Bebê Menino Menina",
       "posted_at": "2026-10-22T21:00:47.956095"
+    },
+    "156b7cbfbc653428": {
+      "title": "Kit 5 Camisetas Infantil (Tam. 1 ao 12)",
+      "posted_at": "2026-10-22T21:10:47.876191"
+    },
+    "cee1f53a0a8f53b3": {
+      "title": "Assento Redutor Infantil Vaso Sanitário Privada com Escada Troninho",
+      "posted_at": "2026-10-22T21:10:56.961884"
     }
   },
   "results": [
@@ -34861,6 +34869,22 @@
       "post_id": "1769",
       "error": null,
       "at": "2026-10-22T21:00:47.955406"
+    },
+    {
+      "offer_id": "156b7cbfbc653428",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1770",
+      "error": null,
+      "at": "2026-10-22T21:10:47.875482"
+    },
+    {
+      "offer_id": "cee1f53a0a8f53b3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1771",
+      "error": null,
+      "at": "2026-10-22T21:10:56.960727"
     }
   ]
 }
