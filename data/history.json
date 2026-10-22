@@ -6991,6 +6991,10 @@
     "1d9c6ba6839ee968": {
       "title": "Biramar Baby Toalha De Banho Para Bebê Fralda Com Capuz Brooklyn Chevron",
       "posted_at": "2026-10-22T12:50:44.620548"
+    },
+    "008612e0d4b62282": {
+      "title": "Fralda Descartável Huggies Máxima Proteção, Tamanho Xxg, 58 Unidades",
+      "posted_at": "2026-10-22T13:10:47.340050"
     }
   },
   "results": [
@@ -34497,6 +34501,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-22T13:00:55.434719"
+    },
+    {
+      "offer_id": "008612e0d4b62282",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1761",
+      "error": null,
+      "at": "2026-10-22T13:10:47.339353"
     }
   ]
 }
