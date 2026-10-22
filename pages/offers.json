@@ -1,5 +1,29 @@
 [
   {
+    "id": "2b3adf6504ecc340",
+    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
+    "price_now": 37.0,
+    "price_was": 52.65,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/168190141417926699378447983729.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-22T12:01:06.909698"
+  },
+  {
+    "id": "1aa3db6c896b575f",
+    "title": "2pcs trava de segurança infantil trava de proteção de segurança infantil",
+    "price_now": 9.99,
+    "price_was": 20.81,
+    "discount_pct": 52,
+    "url": "https://s.shopee.com.br/6AlzW34PHE",
+    "image": "https://cf.shopee.com.br/file/cn-11134211-820l4-mhh41bnqi9s450",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-22T12:00:46.074515"
+  },
+  {
     "id": "66ffc2fe7ae07263",
     "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo G 24 Unidades",
     "price_now": 20.67,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-21T17:11:00.376200"
-  },
-  {
-    "id": "50c6a5db68054ff0",
-    "title": "Fralda Descartável Cremer Magic Care G 60 Unidades",
-    "price_now": 41.59,
-    "price_was": 74.27,
-    "discount_pct": 44,
-    "url": "https://s.shopee.com.br/60SY1UqoEX?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/294527725517926003294603516896.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-21T16:50:45.894058"
-  },
-  {
-    "id": "bbebcb7f5b6e41ad",
-    "title": "Granado Hidratante Bebê, Peles Sensíveis, 120ml",
-    "price_now": 32.0,
-    "price_was": 50.41,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B08DPMH51D?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/892294335117925999236921573256.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-21T16:30:56.185834"
   }
 ]

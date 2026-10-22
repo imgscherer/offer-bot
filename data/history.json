@@ -6979,6 +6979,14 @@
     "66ffc2fe7ae07263": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo G 24 Unidades",
       "posted_at": "2026-10-22T11:31:18.025493"
+    },
+    "1aa3db6c896b575f": {
+      "title": "2pcs trava de segurança infantil trava de proteção de segurança infantil",
+      "posted_at": "2026-10-22T12:00:46.074771"
+    },
+    "2b3adf6504ecc340": {
+      "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
+      "posted_at": "2026-10-22T12:01:06.910166"
     }
   },
   "results": [
@@ -34405,6 +34413,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-22T11:50:45.271586"
+    },
+    {
+      "offer_id": "1aa3db6c896b575f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1758",
+      "error": null,
+      "at": "2026-10-22T12:00:46.074198"
+    },
+    {
+      "offer_id": "ba59f10df2565b20",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-22T12:00:55.718076"
+    },
+    {
+      "offer_id": "2b3adf6504ecc340",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1759",
+      "error": null,
+      "at": "2026-10-22T12:01:06.909409"
     }
   ]
 }
