@@ -7035,6 +7035,14 @@
     "cee1f53a0a8f53b3": {
       "title": "Assento Redutor Infantil Vaso Sanitário Privada com Escada Troninho",
       "posted_at": "2026-10-22T21:10:56.961884"
+    },
+    "09d6adaebedc426d": {
+      "title": "Sandália infantil com flor em Tecido Confort Soft (Tam. 13 ao 18, Diversas cores)",
+      "posted_at": "2026-10-22T22:01:00.548170"
+    },
+    "e40537615f3cc5a6": {
+      "title": "Conjunto Infantil Blusa Meia Malha com Estampa de Limão e Shorts Moletinho (Tam. 1 a 12 Anos)",
+      "posted_at": "2026-10-22T22:01:16.401217"
     }
   },
   "results": [
@@ -34885,6 +34893,22 @@
       "post_id": "1771",
       "error": null,
       "at": "2026-10-22T21:10:56.960727"
+    },
+    {
+      "offer_id": "09d6adaebedc426d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1772",
+      "error": null,
+      "at": "2026-10-22T22:01:00.547334"
+    },
+    {
+      "offer_id": "e40537615f3cc5a6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1773",
+      "error": null,
+      "at": "2026-10-22T22:01:16.400434"
     }
   ]
 }
