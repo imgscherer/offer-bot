@@ -1,5 +1,17 @@
 [
   {
+    "id": "712dbe082f4dc2fa",
+    "title": "Suplemento Infantil Ascenda 800g Sem Sabor",
+    "price_now": 62.0,
+    "price_was": 124.39,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B09K2Y66Q3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/704958534717926286713581166054.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-22T00:30:51.013004"
+  },
+  {
     "id": "d19e879a5aade3ea",
     "title": "Kit Lenço Umedecido Baby Club Aloe Vera Caixa",
     "price_now": 46.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-21T15:51:25.856669"
-  },
-  {
-    "id": "87556de262911430",
-    "title": "Almofada Para Carrinhos, Safety 1st, SafeComfort Orgânica, Off White",
-    "price_now": 94.64,
-    "price_was": 179.89,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B0GPY3YC8F?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/920163669717925969189335089959.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-21T15:50:47.061068"
   }
 ]

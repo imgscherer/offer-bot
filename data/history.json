@@ -6971,6 +6971,10 @@
     "d19e879a5aade3ea": {
       "title": "Kit Lenço Umedecido Baby Club Aloe Vera Caixa",
       "posted_at": "2026-10-21T23:01:02.412161"
+    },
+    "712dbe082f4dc2fa": {
+      "title": "Suplemento Infantil Ascenda 800g Sem Sabor",
+      "posted_at": "2026-10-22T00:30:51.013421"
     }
   },
   "results": [
@@ -34357,6 +34361,14 @@
       "post_id": "1755",
       "error": null,
       "at": "2026-10-21T23:01:02.411335"
+    },
+    {
+      "offer_id": "712dbe082f4dc2fa",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1756",
+      "error": null,
+      "at": "2026-10-22T00:30:51.012666"
     }
   ]
 }
