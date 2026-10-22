@@ -1,5 +1,17 @@
 [
   {
+    "id": "00d3e035227b84da",
+    "title": "Fralda Huggies Máxima Proteção Tamanho XXG 58un",
+    "price_now": 61.0,
+    "price_was": 116.9,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0BQ4113GM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/817851447517926775513096598841.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-22T14:10:51.695754"
+  },
+  {
     "id": "0635381b9da471ef",
     "title": "Brinquedo Educativo Infantil Carrinho de Montar com Engrenagens 6 Peças Interativo para Crianças a Partir de 3 Anos",
     "price_now": 41.93,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-21T20:30:50.432120"
-  },
-  {
-    "id": "21148489e11a6390",
-    "title": "Burigotto Carrinho De Bebê Zap Metal, Prata",
-    "price_now": 452.7,
-    "price_was": 929.0,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B0C4VJ5DCQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/325216976717926069287882500376.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-21T18:30:53.305039"
   }
 ]

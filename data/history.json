@@ -6999,6 +6999,10 @@
     "0635381b9da471ef": {
       "title": "Brinquedo Educativo Infantil Carrinho de Montar com Engrenagens 6 Peças Interativo para Crianças a Partir de 3 Anos",
       "posted_at": "2026-10-22T13:30:56.243673"
+    },
+    "00d3e035227b84da": {
+      "title": "Fralda Huggies Máxima Proteção Tamanho XXG 58un",
+      "posted_at": "2026-10-22T14:10:51.696217"
     }
   },
   "results": [
@@ -34553,6 +34557,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-22T14:00:50.999214"
+    },
+    {
+      "offer_id": "00d3e035227b84da",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1763",
+      "error": null,
+      "at": "2026-10-22T14:10:51.695414"
+    },
+    {
+      "offer_id": "6bafa4c22e7ca5ef",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-22T14:11:08.472083"
+    },
+    {
+      "offer_id": "620f806c0d31d82e",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-22T14:11:21.566158"
     }
   ]
 }
