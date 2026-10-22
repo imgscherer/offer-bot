@@ -7019,6 +7019,14 @@
     "9623d7b1c7f01093": {
       "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
       "posted_at": "2026-10-22T20:40:50.306795"
+    },
+    "82920639d2d1421f": {
+      "title": "Fralda de Ombro Baby Algodão – Proteção Conforto e Praticidade",
+      "posted_at": "2026-10-22T21:00:46.494267"
+    },
+    "bc242c153f4bc1e6": {
+      "title": "Almofada de Amamentação Travesseiro Amamentar Trocador Portátil Acolchoado Para Bebê Menino Menina",
+      "posted_at": "2026-10-22T21:00:47.956095"
     }
   },
   "results": [
@@ -34837,6 +34845,22 @@
       "post_id": "1767",
       "error": null,
       "at": "2026-10-22T20:40:50.306229"
+    },
+    {
+      "offer_id": "82920639d2d1421f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1768",
+      "error": null,
+      "at": "2026-10-22T21:00:46.493538"
+    },
+    {
+      "offer_id": "bc242c153f4bc1e6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1769",
+      "error": null,
+      "at": "2026-10-22T21:00:47.955406"
     }
   ]
 }

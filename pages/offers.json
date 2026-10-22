@@ -1,5 +1,29 @@
 [
   {
+    "id": "bc242c153f4bc1e6",
+    "title": "Almofada de Amamentação Travesseiro Amamentar Trocador Portátil Acolchoado Para Bebê Menino Menina",
+    "price_now": 36.9,
+    "price_was": 59.52,
+    "discount_pct": 38,
+    "url": "https://s.shopee.com.br/4qGcWgI0z6",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc2jffotow5h27",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-22T21:00:47.955650"
+  },
+  {
+    "id": "82920639d2d1421f",
+    "title": "Fralda de Ombro Baby Algodão – Proteção Conforto e Praticidade",
+    "price_now": 26.9,
+    "price_was": 89.67,
+    "discount_pct": 70,
+    "url": "https://s.shopee.com.br/6Am078CwHU",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8261d-mkmfdchufshv4e",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-22T21:00:46.493847"
+  },
+  {
     "id": "9623d7b1c7f01093",
     "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
     "price_now": 34.79,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-22T12:00:46.074515"
-  },
-  {
-    "id": "66ffc2fe7ae07263",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo G 24 Unidades",
-    "price_now": 20.67,
-    "price_was": 30.17,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B093G7WGYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/114611344317926678897137519261.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-22T11:31:18.025034"
-  },
-  {
-    "id": "712dbe082f4dc2fa",
-    "title": "Suplemento Infantil Ascenda 800g Sem Sabor",
-    "price_now": 62.0,
-    "price_was": 124.39,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B09K2Y66Q3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/704958534717926286713581166054.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-22T00:30:51.013004"
   }
 ]
