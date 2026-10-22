@@ -1,5 +1,17 @@
 [
   {
+    "id": "014327359d0d23e2",
+    "title": "Carrinho de Bebê Toffy Cosco Cinza Mescla",
+    "price_now": 399.89,
+    "price_was": 659.0,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0CCG9KL19?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/852597522417926908108132117569.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-22T17:50:52.192484"
+  },
+  {
     "id": "17bbedab5b0caef1",
     "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
     "price_now": 46.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-21T22:30:46.189477"
-  },
-  {
-    "id": "57b0cc66c976d2fc",
-    "title": "Chupeta Avent Ultra Air 0-6M",
-    "price_now": 19.91,
-    "price_was": 40.9,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B0C4M7PXSZ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/537013611917926156355642430493.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-21T20:50:41.427020"
   }
 ]
