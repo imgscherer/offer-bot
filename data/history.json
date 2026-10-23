@@ -7087,6 +7087,10 @@
     "0e8fd3f6b7babe8f": {
       "title": "Personal Fralda Baby Total Protect Pants Grande, 24 Unidades",
       "posted_at": "2026-10-23T14:30:45.861877"
+    },
+    "05a90d70878e1e18": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe Jumbo P 30 Unidades",
+      "posted_at": "2026-10-23T16:40:55.879993"
     }
   },
   "results": [
@@ -35209,6 +35213,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-23T16:20:41.575222"
+    },
+    {
+      "offer_id": "05a90d70878e1e18",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1785",
+      "error": null,
+      "at": "2026-10-23T16:40:55.879160"
     }
   ]
 }
