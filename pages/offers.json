@@ -1,5 +1,17 @@
 [
   {
+    "id": "a4559e825661e32c",
+    "title": "Fralda Turma da Mônica Baby Jumbo M com 28 unidades",
+    "price_now": 19.29,
+    "price_was": 41.04,
+    "discount_pct": 53,
+    "url": "https://s.shopee.com.br/3VlGWKuJgo?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/608522155717927885529977954368.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-23T21:00:58.328811"
+  },
+  {
     "id": "ce22152d6f0e205f",
     "title": "Fralda Turma da Mônica Baby Jumbo M com 28un",
     "price_now": 19.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-23T11:51:00.086564"
-  },
-  {
-    "id": "3e81ea8beb9a3f22",
-    "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
-    "price_now": 34.0,
-    "price_was": 50.04,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/665762165517927554438794330893.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-23T11:50:45.645453"
   }
 ]
