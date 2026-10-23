@@ -1,5 +1,29 @@
 [
   {
+    "id": "8a4242c04949efb1",
+    "title": "MamyPoko Fralda-Calça Superproteção XG com 24",
+    "price_now": 27.0,
+    "price_was": 42.9,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/465971988517927583213657722179.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-23T12:40:50.232988"
+  },
+  {
+    "id": "37be31aa90a8b47e",
+    "title": "MamyPoko Fralda-Calça Superproteção M com 34",
+    "price_now": 27.0,
+    "price_was": 42.9,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0DK3M6161?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/464825395917927583268862077508.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-23T12:40:42.291843"
+  },
+  {
     "id": "0af9902ed34f3f27",
     "title": "Fralda Pampers Confort Sec Ultra G 168 Unidades",
     "price_now": 162.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-22T21:10:47.875830"
-  },
-  {
-    "id": "bc242c153f4bc1e6",
-    "title": "Almofada de Amamentação Travesseiro Amamentar Trocador Portátil Acolchoado Para Bebê Menino Menina",
-    "price_now": 36.9,
-    "price_was": 59.52,
-    "discount_pct": 38,
-    "url": "https://s.shopee.com.br/4qGcWgI0z6",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc2jffotow5h27",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-22T21:00:47.955650"
-  },
-  {
-    "id": "82920639d2d1421f",
-    "title": "Fralda de Ombro Baby Algodão – Proteção Conforto e Praticidade",
-    "price_now": 26.9,
-    "price_was": 89.67,
-    "discount_pct": 70,
-    "url": "https://s.shopee.com.br/6Am078CwHU",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8261d-mkmfdchufshv4e",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-22T21:00:46.493847"
   }
 ]

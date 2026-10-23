@@ -7067,6 +7067,14 @@
     "0af9902ed34f3f27": {
       "title": "Fralda Pampers Confort Sec Ultra G 168 Unidades",
       "posted_at": "2026-10-23T12:00:59.152770"
+    },
+    "37be31aa90a8b47e": {
+      "title": "MamyPoko Fralda-Calça Superproteção M com 34",
+      "posted_at": "2026-10-23T12:40:42.295980"
+    },
+    "8a4242c04949efb1": {
+      "title": "MamyPoko Fralda-Calça Superproteção XG com 24",
+      "posted_at": "2026-10-23T12:40:50.233420"
     }
   },
   "results": [
@@ -35045,6 +35053,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-23T12:10:41.949088"
+    },
+    {
+      "offer_id": "37be31aa90a8b47e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1780",
+      "error": null,
+      "at": "2026-10-23T12:40:42.291561"
+    },
+    {
+      "offer_id": "8a4242c04949efb1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1781",
+      "error": null,
+      "at": "2026-10-23T12:40:50.232746"
     }
   ]
 }
