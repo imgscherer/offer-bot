@@ -1,5 +1,17 @@
 [
   {
+    "id": "a8dcd9901e1c5e47",
+    "title": "Huggies Fralda Premium Natural Care RN 34 Un",
+    "price_now": 30.0,
+    "price_was": 43.59,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/320675822317927602956575516322.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-23T13:11:10.972987"
+  },
+  {
     "id": "8a4242c04949efb1",
     "title": "MamyPoko Fralda-Calça Superproteção XG com 24",
     "price_now": 27.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-22T21:10:56.961032"
-  },
-  {
-    "id": "156b7cbfbc653428",
-    "title": "Kit 5 Camisetas Infantil (Tam. 1 ao 12)",
-    "price_now": 49.9,
-    "price_was": 99.8,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/60SZunRVpq?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/283982270217927028137390652018.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-22T21:10:47.875830"
   }
 ]
