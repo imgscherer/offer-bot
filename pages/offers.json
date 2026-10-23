@@ -1,5 +1,17 @@
 [
   {
+    "id": "ce22152d6f0e205f",
+    "title": "Fralda Turma da Mônica Baby Jumbo M com 28un",
+    "price_now": 19.0,
+    "price_was": 41.04,
+    "discount_pct": 54,
+    "url": "https://s.shopee.com.br/4B0xIJwU31?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/435786031717927874683904427874.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-23T20:40:47.216113"
+  },
+  {
     "id": "257aebc69a6791e9",
     "title": "Mili Fralda Infantil Baby Tamanho M 88 Unidades",
     "price_now": 68.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-23T11:50:45.645453"
-  },
-  {
-    "id": "4bb7475dd6a93519",
-    "title": "Burigotto Carrinho de Bebê Zap Metal, Prata",
-    "price_now": 528.0,
-    "price_was": 929.0,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B0C4VJ5DCQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/799794275417927358693535008493.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-23T06:20:39.575217"
   }
 ]

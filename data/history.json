@@ -7099,6 +7099,10 @@
     "257aebc69a6791e9": {
       "title": "Mili Fralda Infantil Baby Tamanho M 88 Unidades",
       "posted_at": "2026-10-23T18:50:49.739102"
+    },
+    "ce22152d6f0e205f": {
+      "title": "Fralda Turma da Mônica Baby Jumbo M com 28un",
+      "posted_at": "2026-10-23T20:40:47.216468"
     }
   },
   "results": [
@@ -35245,6 +35249,14 @@
       "post_id": "1787",
       "error": null,
       "at": "2026-10-23T18:50:49.738288"
+    },
+    {
+      "offer_id": "ce22152d6f0e205f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1788",
+      "error": null,
+      "at": "2026-10-23T20:40:47.215773"
     }
   ]
 }
