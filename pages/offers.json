@@ -1,5 +1,17 @@
 [
   {
+    "id": "a455766eedd64c39",
+    "title": "Huggies Fralda Pants Premium Natural Care XXG 52 Un",
+    "price_now": 75.0,
+    "price_was": 118.35,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0BKLM298N?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/981492377217927619881234383557.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-23T13:30:57.097958"
+  },
+  {
     "id": "a8dcd9901e1c5e47",
     "title": "Huggies Fralda Premium Natural Care RN 34 Un",
     "price_now": 30.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-22T22:01:00.547662"
-  },
-  {
-    "id": "cee1f53a0a8f53b3",
-    "title": "Assento Redutor Infantil Vaso Sanitário Privada com Escada Troninho",
-    "price_now": 61.0,
-    "price_was": 95.57,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0CH3ZLGZK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/785993055117927031141473171551.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-22T21:10:56.961032"
   }
 ]
