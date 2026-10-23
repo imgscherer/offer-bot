@@ -1,5 +1,17 @@
 [
   {
+    "id": "257aebc69a6791e9",
+    "title": "Mili Fralda Infantil Baby Tamanho M 88 Unidades",
+    "price_now": 68.0,
+    "price_was": 145.75,
+    "discount_pct": 53,
+    "url": "https://www.amazon.com.br/dp/B0CN9NKM9L?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/173349141517927811118714283431.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-23T18:50:49.738636"
+  },
+  {
     "id": "9928c72f3285e38d",
     "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidades",
     "price_now": 32.68,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-23T06:20:39.575217"
-  },
-  {
-    "id": "1aed458e51dfc81d",
-    "title": "Fralda Pampers Confort Sec Tamanho G 92 Unidades",
-    "price_now": 102.37,
-    "price_was": 189.9,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/static/p/120/481970252917927188276725730066.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-23T01:30:42.310990"
   }
 ]

@@ -7095,6 +7095,10 @@
     "9928c72f3285e38d": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidades",
       "posted_at": "2026-10-23T17:50:53.188880"
+    },
+    "257aebc69a6791e9": {
+      "title": "Mili Fralda Infantil Baby Tamanho M 88 Unidades",
+      "posted_at": "2026-10-23T18:50:49.739102"
     }
   },
   "results": [
@@ -35233,6 +35237,14 @@
       "post_id": "1786",
       "error": null,
       "at": "2026-10-23T17:50:53.188116"
+    },
+    {
+      "offer_id": "257aebc69a6791e9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1787",
+      "error": null,
+      "at": "2026-10-23T18:50:49.738288"
     }
   ]
 }
