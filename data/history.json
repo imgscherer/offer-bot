@@ -7063,6 +7063,10 @@
     "443f2cf3c856c364": {
       "title": "Fralda Pampers Confort Sec XG 148 unidades",
       "posted_at": "2026-10-23T11:51:00.086982"
+    },
+    "0af9902ed34f3f27": {
+      "title": "Fralda Pampers Confort Sec Ultra G 168 Unidades",
+      "posted_at": "2026-10-23T12:00:59.152770"
     }
   },
   "results": [
@@ -35017,6 +35021,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-23T11:51:08.393774"
+    },
+    {
+      "offer_id": "0af9902ed34f3f27",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1779",
+      "error": null,
+      "at": "2026-10-23T12:00:59.152059"
+    },
+    {
+      "offer_id": "b1591fee4078fb39",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-23T12:01:07.381260"
     }
   ]
 }

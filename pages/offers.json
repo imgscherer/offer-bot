@@ -1,5 +1,17 @@
 [
   {
+    "id": "0af9902ed34f3f27",
+    "title": "Fralda Pampers Confort Sec Ultra G 168 Unidades",
+    "price_now": 162.0,
+    "price_was": 235.87,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/824739469617927564558470729154.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-23T12:00:59.152367"
+  },
+  {
     "id": "443f2cf3c856c364",
     "title": "Fralda Pampers Confort Sec XG 148 unidades",
     "price_now": 162.48,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-22T21:00:46.493847"
-  },
-  {
-    "id": "9623d7b1c7f01093",
-    "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
-    "price_now": 34.79,
-    "price_was": 50.04,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/913297055417927008952244970405.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-22T20:40:50.306530"
   }
 ]
