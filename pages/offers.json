@@ -1,5 +1,17 @@
 [
   {
+    "id": "0e8fd3f6b7babe8f",
+    "title": "Personal Fralda Baby Total Protect Pants Grande, 24 Unidades",
+    "price_now": 27.99,
+    "price_was": 40.63,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0BTTKQV4P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/836628732517927651643231736965.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-23T14:30:45.860872"
+  },
+  {
     "id": "a455766eedd64c39",
     "title": "Huggies Fralda Pants Premium Natural Care XXG 52 Un",
     "price_now": 75.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-22T22:01:16.400786"
-  },
-  {
-    "id": "09d6adaebedc426d",
-    "title": "Sandália infantil com flor em Tecido Confort Soft (Tam. 13 ao 18, Diversas cores)",
-    "price_now": 26.99,
-    "price_was": 59.98,
-    "discount_pct": 55,
-    "url": "https://s.shopee.com.br/1BNKDmJI5w?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/196180981017927061895243627209.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-22T22:01:00.547662"
   }
 ]
