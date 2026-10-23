@@ -7051,6 +7051,10 @@
     "1aed458e51dfc81d": {
       "title": "Fralda Pampers Confort Sec Tamanho G 92 Unidades",
       "posted_at": "2026-10-23T01:30:42.311198"
+    },
+    "4bb7475dd6a93519": {
+      "title": "Burigotto Carrinho de Bebê Zap Metal, Prata",
+      "posted_at": "2026-10-23T06:20:39.575700"
     }
   },
   "results": [
@@ -34933,6 +34937,14 @@
       "post_id": "1775",
       "error": null,
       "at": "2026-10-23T01:30:42.310797"
+    },
+    {
+      "offer_id": "4bb7475dd6a93519",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1776",
+      "error": null,
+      "at": "2026-10-23T06:20:39.574869"
     }
   ]
 }

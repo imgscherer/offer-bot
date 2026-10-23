@@ -1,5 +1,17 @@
 [
   {
+    "id": "4bb7475dd6a93519",
+    "title": "Burigotto Carrinho de Bebê Zap Metal, Prata",
+    "price_now": 528.0,
+    "price_was": 929.0,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B0C4VJ5DCQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/799794275417927358693535008493.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-23T06:20:39.575217"
+  },
+  {
     "id": "1aed458e51dfc81d",
     "title": "Fralda Pampers Confort Sec Tamanho G 92 Unidades",
     "price_now": 102.37,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-22T17:50:52.192484"
-  },
-  {
-    "id": "17bbedab5b0caef1",
-    "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
-    "price_now": 46.0,
-    "price_was": 91.5,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/476781649017926848213573570455.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-22T16:10:42.856548"
   }
 ]
