@@ -7107,6 +7107,10 @@
     "a4559e825661e32c": {
       "title": "Fralda Turma da Mônica Baby Jumbo M com 28 unidades",
       "posted_at": "2026-10-23T21:00:58.329219"
+    },
+    "db52c79eb7804a26": {
+      "title": "Kit 6 Peças Bebê RD Kids: 3 Bodies Manga Curta + 3 Shorts Canelados Algodão Unissex Verão Tamanhos P M G Menino Menina",
+      "posted_at": "2026-10-23T22:50:41.216875"
     }
   },
   "results": [
@@ -35317,6 +35321,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-23T22:10:41.202243"
+    },
+    {
+      "offer_id": "db52c79eb7804a26",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1790",
+      "error": null,
+      "at": "2026-10-23T22:50:41.216226"
     }
   ]
 }
