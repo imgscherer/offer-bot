@@ -7115,6 +7115,10 @@
     "6edd662f8705e962": {
       "title": "Kit 3 Fraldas Turma da Mônica Baby Mega P com 62un cada",
       "posted_at": "2026-10-24T01:30:39.485028"
+    },
+    "75f494a6fde3c01b": {
+      "title": "Brinquedo Educativo Infantil Carrinho de Montar com Engrenagens 6 Peças Interativo para Crianças a Partir de 3 Anos",
+      "posted_at": "2026-10-24T09:30:41.334601"
     }
   },
   "results": [
@@ -35341,6 +35345,14 @@
       "post_id": "1791",
       "error": null,
       "at": "2026-10-24T01:30:39.484322"
+    },
+    {
+      "offer_id": "75f494a6fde3c01b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1792",
+      "error": null,
+      "at": "2026-10-24T09:30:41.333912"
     }
   ]
 }
