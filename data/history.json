@@ -7163,6 +7163,10 @@
     "f1d1e3cf62137dfa": {
       "title": "Carrinho de Passeio CBebê Conforto TS NIVI Maxi Baby",
       "posted_at": "2026-10-24T16:00:55.378986"
+    },
+    "1ae4df65c212cd70": {
+      "title": "Travel System Burigotto Carrinho de Bebê RIO 22",
+      "posted_at": "2026-10-24T17:30:48.148274"
     }
   },
   "results": [
@@ -35485,6 +35489,14 @@
       "post_id": "1803",
       "error": null,
       "at": "2026-10-24T16:00:55.378322"
+    },
+    {
+      "offer_id": "1ae4df65c212cd70",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1804",
+      "error": null,
+      "at": "2026-10-24T17:30:48.147575"
     }
   ]
 }
