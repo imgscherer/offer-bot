@@ -7167,6 +7167,10 @@
     "1ae4df65c212cd70": {
       "title": "Travel System Burigotto Carrinho de Bebê RIO 22",
       "posted_at": "2026-10-24T17:30:48.148274"
+    },
+    "a77341fece1e484f": {
+      "title": "Granado Talco Infantil Bebê, 100g",
+      "posted_at": "2026-10-24T18:10:41.041990"
     }
   },
   "results": [
@@ -35497,6 +35501,14 @@
       "post_id": "1804",
       "error": null,
       "at": "2026-10-24T17:30:48.147575"
+    },
+    {
+      "offer_id": "a77341fece1e484f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1805",
+      "error": null,
+      "at": "2026-10-24T18:10:41.041456"
     }
   ]
 }
