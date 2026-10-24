@@ -7171,6 +7171,10 @@
     "a77341fece1e484f": {
       "title": "Granado Talco Infantil Bebê, 100g",
       "posted_at": "2026-10-24T18:10:41.041990"
+    },
+    "0398113357ab19fe": {
+      "title": "Lenço Umedecido Turminha da Bagunça (5 Pacotes com 48 Unidades em cada)",
+      "posted_at": "2026-10-24T19:40:51.185195"
     }
   },
   "results": [
@@ -35509,6 +35513,14 @@
       "post_id": "1805",
       "error": null,
       "at": "2026-10-24T18:10:41.041456"
+    },
+    {
+      "offer_id": "0398113357ab19fe",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1806",
+      "error": null,
+      "at": "2026-10-24T19:40:51.184403"
     }
   ]
 }
