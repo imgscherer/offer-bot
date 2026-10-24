@@ -1,5 +1,29 @@
 [
   {
+    "id": "9d9d05090cc91fcc",
+    "title": "Suporte para mamadeira para almofada de amamentação com autoalimentação Cus HWIC",
+    "price_now": 43.47,
+    "price_was": 86.94,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/7puGcma1F4",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259y-mu6isyupw7pfbf",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-24T11:00:54.976454"
+  },
+  {
+    "id": "56cfcfd978677991",
+    "title": "Suporte para mamadeira para almofada de amamentação com autoalimentação Cus 3971 3821 N2BP",
+    "price_now": 42.81,
+    "price_was": 85.62,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/7Ky01rbvFx",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-8259l-mu8gwck6htz6b1",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-24T11:00:52.853649"
+  },
+  {
     "id": "75f494a6fde3c01b",
     "title": "Brinquedo Educativo Infantil Carrinho de Montar com Engrenagens 6 Peças Interativo para Crianças a Partir de 3 Anos",
     "price_now": 35.94,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-23T13:30:57.097958"
-  },
-  {
-    "id": "a8dcd9901e1c5e47",
-    "title": "Huggies Fralda Premium Natural Care RN 34 Un",
-    "price_now": 30.0,
-    "price_was": 43.59,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/320675822317927602956575516322.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-23T13:11:10.972987"
-  },
-  {
-    "id": "8a4242c04949efb1",
-    "title": "MamyPoko Fralda-Calça Superproteção XG com 24",
-    "price_now": 27.0,
-    "price_was": 42.9,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/465971988517927583213657722179.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-23T12:40:50.232988"
   }
 ]

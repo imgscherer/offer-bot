@@ -7119,6 +7119,14 @@
     "75f494a6fde3c01b": {
       "title": "Brinquedo Educativo Infantil Carrinho de Montar com Engrenagens 6 Peças Interativo para Crianças a Partir de 3 Anos",
       "posted_at": "2026-10-24T09:30:41.334601"
+    },
+    "56cfcfd978677991": {
+      "title": "Suporte para mamadeira para almofada de amamentação com autoalimentação Cus 3971 3821 N2BP",
+      "posted_at": "2026-10-24T11:00:52.853908"
+    },
+    "9d9d05090cc91fcc": {
+      "title": "Suporte para mamadeira para almofada de amamentação com autoalimentação Cus HWIC",
+      "posted_at": "2026-10-24T11:00:54.976862"
     }
   },
   "results": [
@@ -35353,6 +35361,22 @@
       "post_id": "1792",
       "error": null,
       "at": "2026-10-24T09:30:41.333912"
+    },
+    {
+      "offer_id": "56cfcfd978677991",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1793",
+      "error": null,
+      "at": "2026-10-24T11:00:52.853353"
+    },
+    {
+      "offer_id": "9d9d05090cc91fcc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1794",
+      "error": null,
+      "at": "2026-10-24T11:00:54.976207"
     }
   ]
 }
