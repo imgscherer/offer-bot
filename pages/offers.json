@@ -1,5 +1,17 @@
 [
   {
+    "id": "cd0e632fb98f51ad",
+    "title": "Fralda Pampers Pants Ajuste Total G 72 Unidades",
+    "price_now": 90.0,
+    "price_was": 146.23,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B086Q35748?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/356334237917928550908977847377.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-24T15:30:48.012128"
+  },
+  {
     "id": "84c79c1498e2fcc2",
     "title": "Personal Fralda Baby Total Protect Pants G 24 Unidades",
     "price_now": 25.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-23T22:50:41.216572"
-  },
-  {
-    "id": "a4559e825661e32c",
-    "title": "Fralda Turma da Mônica Baby Jumbo M com 28 unidades",
-    "price_now": 19.29,
-    "price_was": 41.04,
-    "discount_pct": 53,
-    "url": "https://s.shopee.com.br/3VlGWKuJgo?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/608522155717927885529977954368.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-23T21:00:58.328811"
   }
 ]

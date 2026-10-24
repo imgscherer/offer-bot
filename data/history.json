@@ -7151,6 +7151,10 @@
     "84c79c1498e2fcc2": {
       "title": "Personal Fralda Baby Total Protect Pants G 24 Unidades",
       "posted_at": "2026-10-24T12:50:44.217229"
+    },
+    "cd0e632fb98f51ad": {
+      "title": "Fralda Pampers Pants Ajuste Total G 72 Unidades",
+      "posted_at": "2026-10-24T15:30:48.012476"
     }
   },
   "results": [
@@ -35449,6 +35453,14 @@
       "post_id": "1800",
       "error": null,
       "at": "2026-10-24T12:50:44.216531"
+    },
+    {
+      "offer_id": "cd0e632fb98f51ad",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1801",
+      "error": null,
+      "at": "2026-10-24T15:30:48.011754"
     }
   ]
 }
