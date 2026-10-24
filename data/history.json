@@ -7135,6 +7135,10 @@
     "75a657f04a27a9ed": {
       "title": "Fralda Huggies Rápida Absorção P 46 Unidades",
       "posted_at": "2026-10-24T11:41:05.829618"
+    },
+    "c9816a100f762075": {
+      "title": "Kit 5 Regatas Ribana Infantil (Tam. 6 a 14 anos)",
+      "posted_at": "2026-10-24T11:50:48.916945"
     }
   },
   "results": [
@@ -35401,6 +35405,14 @@
       "post_id": "1796",
       "error": null,
       "at": "2026-10-24T11:41:05.828895"
+    },
+    {
+      "offer_id": "c9816a100f762075",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1797",
+      "error": null,
+      "at": "2026-10-24T11:50:48.916286"
     }
   ]
 }
