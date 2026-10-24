@@ -7155,6 +7155,10 @@
     "cd0e632fb98f51ad": {
       "title": "Fralda Pampers Pants Ajuste Total G 72 Unidades",
       "posted_at": "2026-10-24T15:30:48.012476"
+    },
+    "743da6e3c607c62b": {
+      "title": "Kit Mamadeira My 1st NUK 150ml e 300ml 2 Unidades",
+      "posted_at": "2026-10-24T15:50:47.589988"
     }
   },
   "results": [
@@ -35461,6 +35465,14 @@
       "post_id": "1801",
       "error": null,
       "at": "2026-10-24T15:30:48.011754"
+    },
+    {
+      "offer_id": "743da6e3c607c62b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1802",
+      "error": null,
+      "at": "2026-10-24T15:50:47.589371"
     }
   ]
 }
