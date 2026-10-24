@@ -7159,6 +7159,10 @@
     "743da6e3c607c62b": {
       "title": "Kit Mamadeira My 1st NUK 150ml e 300ml 2 Unidades",
       "posted_at": "2026-10-24T15:50:47.589988"
+    },
+    "f1d1e3cf62137dfa": {
+      "title": "Carrinho de Passeio CBebê Conforto TS NIVI Maxi Baby",
+      "posted_at": "2026-10-24T16:00:55.378986"
     }
   },
   "results": [
@@ -35473,6 +35477,14 @@
       "post_id": "1802",
       "error": null,
       "at": "2026-10-24T15:50:47.589371"
+    },
+    {
+      "offer_id": "f1d1e3cf62137dfa",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1803",
+      "error": null,
+      "at": "2026-10-24T16:00:55.378322"
     }
   ]
 }
