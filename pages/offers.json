@@ -1,5 +1,29 @@
 [
   {
+    "id": "75a657f04a27a9ed",
+    "title": "Fralda Huggies Rápida Absorção P 46 Unidades",
+    "price_now": 37.99,
+    "price_was": 55.53,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/608734378017928412903931959366.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-24T11:41:05.829217"
+  },
+  {
+    "id": "c15a4e86e5888db1",
+    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
+    "price_now": 35.0,
+    "price_was": 52.65,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/886390326517928413498335320455.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-24T11:40:55.263112"
+  },
+  {
     "id": "9d9d05090cc91fcc",
     "title": "Suporte para mamadeira para almofada de amamentação com autoalimentação Cus HWIC",
     "price_now": 43.47,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-23T16:40:55.879563"
-  },
-  {
-    "id": "0e8fd3f6b7babe8f",
-    "title": "Personal Fralda Baby Total Protect Pants Grande, 24 Unidades",
-    "price_now": 27.99,
-    "price_was": 40.63,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0BTTKQV4P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/836628732517927651643231736965.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-23T14:30:45.860872"
-  },
-  {
-    "id": "a455766eedd64c39",
-    "title": "Huggies Fralda Pants Premium Natural Care XXG 52 Un",
-    "price_now": 75.0,
-    "price_was": 118.35,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0BKLM298N?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/981492377217927619881234383557.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-23T13:30:57.097958"
   }
 ]

@@ -7127,6 +7127,14 @@
     "9d9d05090cc91fcc": {
       "title": "Suporte para mamadeira para almofada de amamentação com autoalimentação Cus HWIC",
       "posted_at": "2026-10-24T11:00:54.976862"
+    },
+    "c15a4e86e5888db1": {
+      "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
+      "posted_at": "2026-10-24T11:40:55.263528"
+    },
+    "75a657f04a27a9ed": {
+      "title": "Fralda Huggies Rápida Absorção P 46 Unidades",
+      "posted_at": "2026-10-24T11:41:05.829618"
     }
   },
   "results": [
@@ -35377,6 +35385,22 @@
       "post_id": "1794",
       "error": null,
       "at": "2026-10-24T11:00:54.976207"
+    },
+    {
+      "offer_id": "c15a4e86e5888db1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1795",
+      "error": null,
+      "at": "2026-10-24T11:40:55.262757"
+    },
+    {
+      "offer_id": "75a657f04a27a9ed",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1796",
+      "error": null,
+      "at": "2026-10-24T11:41:05.828895"
     }
   ]
 }
