@@ -7111,6 +7111,10 @@
     "db52c79eb7804a26": {
       "title": "Kit 6 Peças Bebê RD Kids: 3 Bodies Manga Curta + 3 Shorts Canelados Algodão Unissex Verão Tamanhos P M G Menino Menina",
       "posted_at": "2026-10-23T22:50:41.216875"
+    },
+    "6edd662f8705e962": {
+      "title": "Kit 3 Fraldas Turma da Mônica Baby Mega P com 62un cada",
+      "posted_at": "2026-10-24T01:30:39.485028"
     }
   },
   "results": [
@@ -35329,6 +35333,14 @@
       "post_id": "1790",
       "error": null,
       "at": "2026-10-23T22:50:41.216226"
+    },
+    {
+      "offer_id": "6edd662f8705e962",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1791",
+      "error": null,
+      "at": "2026-10-24T01:30:39.484322"
     }
   ]
 }
