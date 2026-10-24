@@ -7147,6 +7147,10 @@
     "3680ed8430cbc1eb": {
       "title": "Alinhavos Formas Geométricas 24 Peças Em Madeira Educativos Brinquedo Coordenação Motora Criança",
       "posted_at": "2026-10-24T12:30:47.871516"
+    },
+    "84c79c1498e2fcc2": {
+      "title": "Personal Fralda Baby Total Protect Pants G 24 Unidades",
+      "posted_at": "2026-10-24T12:50:44.217229"
     }
   },
   "results": [
@@ -35437,6 +35441,14 @@
       "post_id": "1799",
       "error": null,
       "at": "2026-10-24T12:30:47.870783"
+    },
+    {
+      "offer_id": "84c79c1498e2fcc2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1800",
+      "error": null,
+      "at": "2026-10-24T12:50:44.216531"
     }
   ]
 }
