@@ -7139,6 +7139,14 @@
     "c9816a100f762075": {
       "title": "Kit 5 Regatas Ribana Infantil (Tam. 6 a 14 anos)",
       "posted_at": "2026-10-24T11:50:48.916945"
+    },
+    "f4c94c232c15063e": {
+      "title": "Tabuada 54 peças Infantil Material Escolar Em Madeira Educativo Pedagógico Jott Play Em Mdf Original",
+      "posted_at": "2026-10-24T12:30:45.460873"
+    },
+    "3680ed8430cbc1eb": {
+      "title": "Alinhavos Formas Geométricas 24 Peças Em Madeira Educativos Brinquedo Coordenação Motora Criança",
+      "posted_at": "2026-10-24T12:30:47.871516"
     }
   },
   "results": [
@@ -35413,6 +35421,22 @@
       "post_id": "1797",
       "error": null,
       "at": "2026-10-24T11:50:48.916286"
+    },
+    {
+      "offer_id": "f4c94c232c15063e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1798",
+      "error": null,
+      "at": "2026-10-24T12:30:45.460217"
+    },
+    {
+      "offer_id": "3680ed8430cbc1eb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1799",
+      "error": null,
+      "at": "2026-10-24T12:30:47.870783"
     }
   ]
 }
