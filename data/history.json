@@ -7215,6 +7215,10 @@
     "4ea9c3b521d99d71": {
       "title": "Fralda Huggies Máxima Proteção XXG 26 Unidades",
       "posted_at": "2026-10-25T18:20:52.869036"
+    },
+    "0f30464ace9698ce": {
+      "title": "Kit 8 Fraldas Turma da Mônica Baby Jumbo RN com 36un cada",
+      "posted_at": "2026-10-25T18:30:38.136876"
     }
   },
   "results": [
@@ -35641,6 +35645,14 @@
       "post_id": "1816",
       "error": null,
       "at": "2026-10-25T18:20:52.868206"
+    },
+    {
+      "offer_id": "0f30464ace9698ce",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1817",
+      "error": null,
+      "at": "2026-10-25T18:30:38.136064"
     }
   ]
 }

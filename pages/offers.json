@@ -1,5 +1,17 @@
 [
   {
+    "id": "0f30464ace9698ce",
+    "title": "Kit 8 Fraldas Turma da Mônica Baby Jumbo RN com 36un cada",
+    "price_now": 197.94,
+    "price_was": 309.28,
+    "discount_pct": 36,
+    "url": "https://s.shopee.com.br/8pmpuOXEiw",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-820lk-mo04aqahp0jk46",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-25T18:30:38.136437"
+  },
+  {
     "id": "4ea9c3b521d99d71",
     "title": "Fralda Huggies Máxima Proteção XXG 26 Unidades",
     "price_now": 77.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-24T19:40:51.184757"
-  },
-  {
-    "id": "a77341fece1e484f",
-    "title": "Granado Talco Infantil Bebê, 100g",
-    "price_now": 14.0,
-    "price_was": 20.7,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B07FFC3YTN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/634409548917928650563035890117.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-24T18:10:41.041745"
   }
 ]
