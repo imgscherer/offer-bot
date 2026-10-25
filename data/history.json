@@ -7199,6 +7199,18 @@
     "07ecea06d4b02fdb": {
       "title": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
       "posted_at": "2026-10-25T14:30:50.481393"
+    },
+    "413b765e893c0880": {
+      "title": "Kit 3 Paninho de Boca Fraldinha Enxoval Maternidade Macio 100% Algodão",
+      "posted_at": "2026-10-25T16:30:40.745682"
+    },
+    "3db944a64f93463a": {
+      "title": "Kit 1 Toalha Banho Soft Bebe Capuz Fralda Grossa + 3 paninhos boca 100% Algodão Menino Menina",
+      "posted_at": "2026-10-25T16:30:41.717409"
+    },
+    "48c0d854607a1a81": {
+      "title": "Kit  6 Pano de Boca Paninho Soft 100% Algodão Alta absorção Enxoval Infantil",
+      "posted_at": "2026-10-25T16:30:44.507629"
     }
   },
   "results": [
@@ -35593,6 +35605,30 @@
       "post_id": "1812",
       "error": null,
       "at": "2026-10-25T14:30:50.441780"
+    },
+    {
+      "offer_id": "413b765e893c0880",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1813",
+      "error": null,
+      "at": "2026-10-25T16:30:40.670830"
+    },
+    {
+      "offer_id": "3db944a64f93463a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1814",
+      "error": null,
+      "at": "2026-10-25T16:30:41.692057"
+    },
+    {
+      "offer_id": "48c0d854607a1a81",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1815",
+      "error": null,
+      "at": "2026-10-25T16:30:44.507142"
     }
   ]
 }

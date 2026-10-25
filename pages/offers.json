@@ -1,5 +1,41 @@
 [
   {
+    "id": "48c0d854607a1a81",
+    "title": "Kit  6 Pano de Boca Paninho Soft 100% Algodão Alta absorção Enxoval Infantil",
+    "price_now": 50.05,
+    "price_was": 71.5,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/30p2pQtDA9",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mtqylb8gfapsbc",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-25T16:30:44.507310"
+  },
+  {
+    "id": "3db944a64f93463a",
+    "title": "Kit 1 Toalha Banho Soft Bebe Capuz Fralda Grossa + 3 paninhos boca 100% Algodão Menino Menina",
+    "price_now": 41.65,
+    "price_was": 59.5,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/2LZM2CvkVx",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mspl3qtqhtz9bd",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-25T16:30:41.692249"
+  },
+  {
+    "id": "413b765e893c0880",
+    "title": "Kit 3 Paninho de Boca Fraldinha Enxoval Maternidade Macio 100% Algodão",
+    "price_now": 15.33,
+    "price_was": 21.9,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/8pmpm9X0Jq",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-825a9-mti7jfrsn37k9b",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-25T16:30:40.671050"
+  },
+  {
     "id": "07ecea06d4b02fdb",
     "title": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
     "price_now": 19.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-24T17:30:48.147898"
-  },
-  {
-    "id": "f1d1e3cf62137dfa",
-    "title": "Carrinho de Passeio CBebê Conforto TS NIVI Maxi Baby",
-    "price_now": 685.0,
-    "price_was": 1399.9,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B0FMFWWD8H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/261574170217928573696689335068.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-24T16:00:55.378667"
-  },
-  {
-    "id": "743da6e3c607c62b",
-    "title": "Kit Mamadeira My 1st NUK 150ml e 300ml 2 Unidades",
-    "price_now": 59.0,
-    "price_was": 120.77,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B07FPQVWNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/486816793817928562291901221810.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-24T15:50:47.589695"
-  },
-  {
-    "id": "cd0e632fb98f51ad",
-    "title": "Fralda Pampers Pants Ajuste Total G 72 Unidades",
-    "price_now": 90.0,
-    "price_was": 146.23,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B086Q35748?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/356334237917928550908977847377.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-24T15:30:48.012128"
   }
 ]
