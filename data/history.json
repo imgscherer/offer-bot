@@ -7211,6 +7211,10 @@
     "48c0d854607a1a81": {
       "title": "Kit  6 Pano de Boca Paninho Soft 100% Algodão Alta absorção Enxoval Infantil",
       "posted_at": "2026-10-25T16:30:44.507629"
+    },
+    "4ea9c3b521d99d71": {
+      "title": "Fralda Huggies Máxima Proteção XXG 26 Unidades",
+      "posted_at": "2026-10-25T18:20:52.869036"
     }
   },
   "results": [
@@ -35629,6 +35633,14 @@
       "post_id": "1815",
       "error": null,
       "at": "2026-10-25T16:30:44.507142"
+    },
+    {
+      "offer_id": "4ea9c3b521d99d71",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1816",
+      "error": null,
+      "at": "2026-10-25T18:20:52.868206"
     }
   ]
 }

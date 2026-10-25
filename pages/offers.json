@@ -1,5 +1,17 @@
 [
   {
+    "id": "4ea9c3b521d99d71",
+    "title": "Fralda Huggies Máxima Proteção XXG 26 Unidades",
+    "price_now": 77.0,
+    "price_was": 116.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BQ4113GM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/684151305517929512746417372717.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-25T18:20:52.868599"
+  },
+  {
     "id": "48c0d854607a1a81",
     "title": "Kit  6 Pano de Boca Paninho Soft 100% Algodão Alta absorção Enxoval Infantil",
     "price_now": 50.05,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-24T18:10:41.041745"
-  },
-  {
-    "id": "1ae4df65c212cd70",
-    "title": "Travel System Burigotto Carrinho de Bebê RIO 22",
-    "price_now": 879.0,
-    "price_was": 1595.01,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B0FXXPB5LN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/182784414817928621117427961291.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-24T17:30:48.147898"
   }
 ]
