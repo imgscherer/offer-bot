@@ -1,5 +1,17 @@
 [
   {
+    "id": "ae1dcd9ca4adacf1",
+    "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
+    "price_now": 17.65,
+    "price_was": 33.22,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B07GB34N8Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/143926547517928858849496070639.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-25T00:01:02.998263"
+  },
+  {
     "id": "0398113357ab19fe",
     "title": "Lenço Umedecido Turminha da Bagunça (5 Pacotes com 48 Unidades em cada)",
     "price_now": 19.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-24T11:41:05.829217"
-  },
-  {
-    "id": "c15a4e86e5888db1",
-    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
-    "price_now": 35.0,
-    "price_was": 52.65,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/886390326517928413498335320455.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-24T11:40:55.263112"
   }
 ]

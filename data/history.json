@@ -7175,6 +7175,10 @@
     "0398113357ab19fe": {
       "title": "Lenço Umedecido Turminha da Bagunça (5 Pacotes com 48 Unidades em cada)",
       "posted_at": "2026-10-24T19:40:51.185195"
+    },
+    "ae1dcd9ca4adacf1": {
+      "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
+      "posted_at": "2026-10-25T00:01:02.998712"
     }
   },
   "results": [
@@ -35521,6 +35525,14 @@
       "post_id": "1806",
       "error": null,
       "at": "2026-10-24T19:40:51.184403"
+    },
+    {
+      "offer_id": "ae1dcd9ca4adacf1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1807",
+      "error": null,
+      "at": "2026-10-25T00:01:02.997945"
     }
   ]
 }
