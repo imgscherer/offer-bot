@@ -1,5 +1,17 @@
 [
   {
+    "id": "679d3f07237b47a9",
+    "title": "Lixeira Antiodor Bebê para Fraldas 10L",
+    "price_now": 92.0,
+    "price_was": 209.0,
+    "discount_pct": 56,
+    "url": "https://www.amazon.com.br/dp/B0FLZSKSXB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/532814526117929345357194484414.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-25T13:30:46.964945"
+  },
+  {
     "id": "2f476730a79e9c5e",
     "title": "Fralda Pampers Pants Ajuste Total G 90 Unidades",
     "price_now": 103.09,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-24T12:30:45.460548"
-  },
-  {
-    "id": "c9816a100f762075",
-    "title": "Kit 5 Regatas Ribana Infantil (Tam. 6 a 14 anos)",
-    "price_now": 52.9,
-    "price_was": 82.66,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/8pmnqyucjT?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/475244173717928417114713069238.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-24T11:50:48.916561"
   }
 ]
