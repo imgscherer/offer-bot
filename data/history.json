@@ -7187,6 +7187,14 @@
     "679d3f07237b47a9": {
       "title": "Lixeira Antiodor Bebê para Fraldas 10L",
       "posted_at": "2026-10-25T13:30:46.965265"
+    },
+    "cfdbd3835f9203d5": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo M 28",
+      "posted_at": "2026-10-25T13:50:47.426485"
+    },
+    "bca3d109a07afdb8": {
+      "title": "Fralda Turma da Mônica Baby P 30 Unidades",
+      "posted_at": "2026-10-25T13:50:59.004027"
     }
   },
   "results": [
@@ -35557,6 +35565,22 @@
       "post_id": "1809",
       "error": null,
       "at": "2026-10-25T13:30:46.964619"
+    },
+    {
+      "offer_id": "cfdbd3835f9203d5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1810",
+      "error": null,
+      "at": "2026-10-25T13:50:47.425849"
+    },
+    {
+      "offer_id": "bca3d109a07afdb8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1811",
+      "error": null,
+      "at": "2026-10-25T13:50:59.003284"
     }
   ]
 }
