@@ -7179,6 +7179,10 @@
     "ae1dcd9ca4adacf1": {
       "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
       "posted_at": "2026-10-25T00:01:02.998712"
+    },
+    "2f476730a79e9c5e": {
+      "title": "Fralda Pampers Pants Ajuste Total G 90 Unidades",
+      "posted_at": "2026-10-25T11:20:44.292779"
     }
   },
   "results": [
@@ -35533,6 +35537,14 @@
       "post_id": "1807",
       "error": null,
       "at": "2026-10-25T00:01:02.997945"
+    },
+    {
+      "offer_id": "2f476730a79e9c5e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1808",
+      "error": null,
+      "at": "2026-10-25T11:20:44.292126"
     }
   ]
 }

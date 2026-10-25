@@ -1,5 +1,17 @@
 [
   {
+    "id": "2f476730a79e9c5e",
+    "title": "Fralda Pampers Pants Ajuste Total G 90 Unidades",
+    "price_now": 103.09,
+    "price_was": 194.9,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/457311084817929265664878658213.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-25T11:20:44.292471"
+  },
+  {
     "id": "ae1dcd9ca4adacf1",
     "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
     "price_now": 17.65,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-24T11:50:48.916561"
-  },
-  {
-    "id": "75a657f04a27a9ed",
-    "title": "Fralda Huggies Rápida Absorção P 46 Unidades",
-    "price_now": 37.99,
-    "price_was": 55.53,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/608734378017928412903931959366.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-24T11:41:05.829217"
   }
 ]
