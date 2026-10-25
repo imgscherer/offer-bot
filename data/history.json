@@ -7219,6 +7219,10 @@
     "0f30464ace9698ce": {
       "title": "Kit 8 Fraldas Turma da Mônica Baby Jumbo RN com 36un cada",
       "posted_at": "2026-10-25T18:30:38.136876"
+    },
+    "c555ca66f5223591": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe Jumbo Xxg 18 Unidades",
+      "posted_at": "2026-10-25T23:00:49.344404"
     }
   },
   "results": [
@@ -35653,6 +35657,14 @@
       "post_id": "1817",
       "error": null,
       "at": "2026-10-25T18:30:38.136064"
+    },
+    {
+      "offer_id": "c555ca66f5223591",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1818",
+      "error": null,
+      "at": "2026-10-25T23:00:49.256701"
     }
   ]
 }
