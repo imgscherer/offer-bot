@@ -1,5 +1,17 @@
 [
   {
+    "id": "4541e730f9e1b8d2",
+    "title": "Granado Refil Sabonete Líquido Bebê Tradicional 250ml",
+    "price_now": 13.0,
+    "price_was": 22.0,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07D2FXHM1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/441211948517930316879912273330.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-26T16:30:53.290232"
+  },
+  {
     "id": "d58394bc43d42ebf",
     "title": "Fralda pampers pants premium care g 68 unidades",
     "price_now": 89.2,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-26T11:50:43.980633"
-  },
-  {
-    "id": "9d5c221d1dd6f7d1",
-    "title": "Babysec Fralda Premium M 32 Unidades",
-    "price_now": 33.0,
-    "price_was": 54.39,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/765609323617930143308248490138.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-26T11:40:59.241507"
   }
 ]
