@@ -7295,6 +7295,10 @@
     "e9562476fef6f3e2": {
       "title": "Assento Redutor Infantil Vaso Sanitário Privada com Escada Troninho",
       "posted_at": "2026-10-26T21:00:58.093795"
+    },
+    "8449761061f3e2e8": {
+      "title": "Fralda Pants Huggies Supreme Care M 72 Unidades",
+      "posted_at": "2026-10-26T21:40:45.082530"
     }
   },
   "results": [
@@ -35881,6 +35885,14 @@
       "post_id": "1836",
       "error": null,
       "at": "2026-10-26T21:00:58.092988"
+    },
+    {
+      "offer_id": "8449761061f3e2e8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1837",
+      "error": null,
+      "at": "2026-10-26T21:40:45.081845"
     }
   ]
 }
