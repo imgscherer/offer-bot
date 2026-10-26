@@ -7235,6 +7235,10 @@
     "986e6eca709d7f43": {
       "title": "Fralda Huggies Máxima Proteção P 48 unidades",
       "posted_at": "2026-10-26T11:50:43.981076"
+    },
+    "0094b02828372bf6": {
+      "title": "Lenço Umedecido Johnson's Baby Proteção da Pele 96 unidades",
+      "posted_at": "2026-10-26T12:00:59.054465"
     }
   },
   "results": [
@@ -35701,6 +35705,14 @@
       "post_id": "1821",
       "error": null,
       "at": "2026-10-26T11:50:43.980361"
+    },
+    {
+      "offer_id": "0094b02828372bf6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1822",
+      "error": null,
+      "at": "2026-10-26T12:00:59.053580"
     }
   ]
 }
