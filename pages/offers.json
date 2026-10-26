@@ -1,5 +1,17 @@
 [
   {
+    "id": "327d5b96a2546e7c",
+    "title": "Carrinho de Bebê Passeio Com Alça Reversível YouGo Maxi Baby (Cinza)",
+    "price_now": 379.0,
+    "price_was": 899.9,
+    "discount_pct": 58,
+    "url": "https://www.amazon.com.br/dp/B0DS6HRGFF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/537165030117930472303277706150.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-26T20:50:46.863015"
+  },
+  {
     "id": "695ab20064e00e85",
     "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
     "price_now": 89.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-26T12:21:01.986157"
-  },
-  {
-    "id": "aafb8ac2296525cb",
-    "title": "Fralda Pants Huggies Supreme Care M 36 Unidades",
-    "price_now": 42.0,
-    "price_was": 65.29,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B07FNM9QRF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/572185473317930166109672863862.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-26T12:20:50.537841"
   }
 ]

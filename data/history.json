@@ -7287,6 +7287,10 @@
     "695ab20064e00e85": {
       "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
       "posted_at": "2026-10-26T19:50:47.494219"
+    },
+    "327d5b96a2546e7c": {
+      "title": "Carrinho de Bebê Passeio Com Alça Reversível YouGo Maxi Baby (Cinza)",
+      "posted_at": "2026-10-26T20:50:46.863519"
     }
   },
   "results": [
@@ -35857,6 +35861,14 @@
       "post_id": "1834",
       "error": null,
       "at": "2026-10-26T19:50:47.493586"
+    },
+    {
+      "offer_id": "327d5b96a2546e7c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1835",
+      "error": null,
+      "at": "2026-10-26T20:50:46.862718"
     }
   ]
 }
