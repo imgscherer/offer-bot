@@ -7291,6 +7291,10 @@
     "327d5b96a2546e7c": {
       "title": "Carrinho de Bebê Passeio Com Alça Reversível YouGo Maxi Baby (Cinza)",
       "posted_at": "2026-10-26T20:50:46.863519"
+    },
+    "e9562476fef6f3e2": {
+      "title": "Assento Redutor Infantil Vaso Sanitário Privada com Escada Troninho",
+      "posted_at": "2026-10-26T21:00:58.093795"
     }
   },
   "results": [
@@ -35869,6 +35873,14 @@
       "post_id": "1835",
       "error": null,
       "at": "2026-10-26T20:50:46.862718"
+    },
+    {
+      "offer_id": "e9562476fef6f3e2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1836",
+      "error": null,
+      "at": "2026-10-26T21:00:58.092988"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "e9562476fef6f3e2",
+    "title": "Assento Redutor Infantil Vaso Sanitário Privada com Escada Troninho",
+    "price_now": 61.0,
+    "price_was": 95.57,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0CH3ZLGZK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/651174997017930478685189573823.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-26T21:00:58.093320"
+  },
+  {
     "id": "327d5b96a2546e7c",
     "title": "Carrinho de Bebê Passeio Com Alça Reversível YouGo Maxi Baby (Cinza)",
     "price_now": 379.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-26T12:30:57.562027"
-  },
-  {
-    "id": "bbaf37c1e5b7e331",
-    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
-    "price_now": 35.0,
-    "price_was": 52.65,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/889235351917930164286716292938.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-26T12:21:01.986157"
   }
 ]
