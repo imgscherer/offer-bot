@@ -7239,6 +7239,14 @@
     "0094b02828372bf6": {
       "title": "Lenço Umedecido Johnson's Baby Proteção da Pele 96 unidades",
       "posted_at": "2026-10-26T12:00:59.054465"
+    },
+    "aafb8ac2296525cb": {
+      "title": "Fralda Pants Huggies Supreme Care M 36 Unidades",
+      "posted_at": "2026-10-26T12:20:50.538310"
+    },
+    "bbaf37c1e5b7e331": {
+      "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
+      "posted_at": "2026-10-26T12:21:01.986669"
     }
   },
   "results": [
@@ -35713,6 +35721,22 @@
       "post_id": "1822",
       "error": null,
       "at": "2026-10-26T12:00:59.053580"
+    },
+    {
+      "offer_id": "aafb8ac2296525cb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1823",
+      "error": null,
+      "at": "2026-10-26T12:20:50.537495"
+    },
+    {
+      "offer_id": "bbaf37c1e5b7e331",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1824",
+      "error": null,
+      "at": "2026-10-26T12:21:01.985838"
     }
   ]
 }
