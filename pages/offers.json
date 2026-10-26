@@ -1,5 +1,17 @@
 [
   {
+    "id": "591badd0d7f4e9f6",
+    "title": "Fralda Descartável Huggies Máxima Proteção, Tamanho Xxg, 58 Unidades",
+    "price_now": 62.95,
+    "price_was": 116.9,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B0BQ4113GM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/338124685117930528617794169125.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-26T22:30:54.349722"
+  },
+  {
     "id": "8449761061f3e2e8",
     "title": "Fralda Pants Huggies Supreme Care M 72 Unidades",
     "price_now": 75.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-26T13:01:08.566143"
-  },
-  {
-    "id": "e902e68612925572",
-    "title": "Bepantol Baby Pomada Assadura Bebê Hipoalergênica 100g",
-    "price_now": 38.0,
-    "price_was": 59.99,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/827042001417930173894753413668.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-26T12:31:04.053044"
   }
 ]

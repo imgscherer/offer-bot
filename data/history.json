@@ -7299,6 +7299,10 @@
     "8449761061f3e2e8": {
       "title": "Fralda Pants Huggies Supreme Care M 72 Unidades",
       "posted_at": "2026-10-26T21:40:45.082530"
+    },
+    "591badd0d7f4e9f6": {
+      "title": "Fralda Descartável Huggies Máxima Proteção, Tamanho Xxg, 58 Unidades",
+      "posted_at": "2026-10-26T22:30:54.431437"
     }
   },
   "results": [
@@ -35893,6 +35897,14 @@
       "post_id": "1837",
       "error": null,
       "at": "2026-10-26T21:40:45.081845"
+    },
+    {
+      "offer_id": "591badd0d7f4e9f6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1838",
+      "error": null,
+      "at": "2026-10-26T22:30:54.349424"
     }
   ]
 }
