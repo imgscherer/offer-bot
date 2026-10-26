@@ -7263,6 +7263,10 @@
     "5421f5469d70c16f": {
       "title": "Sabonete Líquido Bebê Glicerina Refil 210ml",
       "posted_at": "2026-10-26T13:40:38.733373"
+    },
+    "009f273623913821": {
+      "title": "Guta Guti Tapete de Atividades Infantil",
+      "posted_at": "2026-10-26T13:50:48.622861"
     }
   },
   "results": [
@@ -35785,6 +35789,14 @@
       "post_id": "1828",
       "error": null,
       "at": "2026-10-26T13:40:38.732542"
+    },
+    {
+      "offer_id": "009f273623913821",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1829",
+      "error": null,
+      "at": "2026-10-26T13:50:48.622132"
     }
   ]
 }
