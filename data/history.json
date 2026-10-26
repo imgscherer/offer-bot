@@ -7303,6 +7303,10 @@
     "591badd0d7f4e9f6": {
       "title": "Fralda Descartável Huggies Máxima Proteção, Tamanho Xxg, 58 Unidades",
       "posted_at": "2026-10-26T22:30:54.431437"
+    },
+    "9e0eb62d334d3f04": {
+      "title": "Fralda-Calça Superproteção MamyPoko XXG 22 Unidades",
+      "posted_at": "2026-10-26T23:10:39.055586"
     }
   },
   "results": [
@@ -35905,6 +35909,14 @@
       "post_id": "1838",
       "error": null,
       "at": "2026-10-26T22:30:54.349424"
+    },
+    {
+      "offer_id": "9e0eb62d334d3f04",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1839",
+      "error": null,
+      "at": "2026-10-26T23:10:39.055207"
     }
   ]
 }

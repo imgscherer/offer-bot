@@ -1,5 +1,17 @@
 [
   {
+    "id": "9e0eb62d334d3f04",
+    "title": "Fralda-Calça Superproteção MamyPoko XXG 22 Unidades",
+    "price_now": 29.92,
+    "price_was": 46.9,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/162180879417930560919754126484.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-26T23:10:39.055409"
+  },
+  {
     "id": "591badd0d7f4e9f6",
     "title": "Fralda Descartável Huggies Máxima Proteção, Tamanho Xxg, 58 Unidades",
     "price_now": 62.95,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-26T13:40:38.732910"
-  },
-  {
-    "id": "8733d53e8f627f32",
-    "title": "Fralda Cremer Magic Care XG 20 Unidades",
-    "price_now": 15.19,
-    "price_was": 31.99,
-    "discount_pct": 53,
-    "url": "https://www.amazon.com.br/dp/B07DX7N8VR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/209890381417930185894174446194.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-26T13:01:08.566143"
   }
 ]
