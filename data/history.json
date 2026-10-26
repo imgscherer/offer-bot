@@ -7267,6 +7267,10 @@
     "009f273623913821": {
       "title": "Guta Guti Tapete de Atividades Infantil",
       "posted_at": "2026-10-26T13:50:48.622861"
+    },
+    "bd71120a807bd299": {
+      "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
+      "posted_at": "2026-10-26T14:40:42.865389"
     }
   },
   "results": [
@@ -35797,6 +35801,14 @@
       "post_id": "1829",
       "error": null,
       "at": "2026-10-26T13:50:48.622132"
+    },
+    {
+      "offer_id": "bd71120a807bd299",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1830",
+      "error": null,
+      "at": "2026-10-26T14:40:42.864824"
     }
   ]
 }
