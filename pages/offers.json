@@ -1,5 +1,17 @@
 [
   {
+    "id": "986e6eca709d7f43",
+    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+    "price_now": 47.0,
+    "price_was": 72.65,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/370244296417930148124130054522.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-26T11:50:43.980633"
+  },
+  {
     "id": "9d5c221d1dd6f7d1",
     "title": "Babysec Fralda Premium M 32 Unidades",
     "price_now": 33.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-25T13:50:47.426174"
-  },
-  {
-    "id": "679d3f07237b47a9",
-    "title": "Lixeira Antiodor Bebê para Fraldas 10L",
-    "price_now": 92.0,
-    "price_was": 209.0,
-    "discount_pct": 56,
-    "url": "https://www.amazon.com.br/dp/B0FLZSKSXB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/532814526117929345357194484414.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-25T13:30:46.964945"
   }
 ]
