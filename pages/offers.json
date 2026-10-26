@@ -1,5 +1,17 @@
 [
   {
+    "id": "8733d53e8f627f32",
+    "title": "Fralda Cremer Magic Care XG 20 Unidades",
+    "price_now": 15.19,
+    "price_was": 31.99,
+    "discount_pct": 53,
+    "url": "https://www.amazon.com.br/dp/B07DX7N8VR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/209890381417930185894174446194.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-26T13:01:08.566143"
+  },
+  {
     "id": "e902e68612925572",
     "title": "Bepantol Baby Pomada Assadura Bebê Hipoalergênica 100g",
     "price_now": 38.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-25T18:20:52.868599"
-  },
-  {
-    "id": "48c0d854607a1a81",
-    "title": "Kit  6 Pano de Boca Paninho Soft 100% Algodão Alta absorção Enxoval Infantil",
-    "price_now": 50.05,
-    "price_was": 71.5,
-    "discount_pct": 30,
-    "url": "https://s.shopee.com.br/30p2pQtDA9",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mtqylb8gfapsbc",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-25T16:30:44.507310"
   }
 ]

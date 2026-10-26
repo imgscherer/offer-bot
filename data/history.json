@@ -7255,6 +7255,10 @@
     "e902e68612925572": {
       "title": "Bepantol Baby Pomada Assadura Bebê Hipoalergênica 100g",
       "posted_at": "2026-10-26T12:31:04.053463"
+    },
+    "8733d53e8f627f32": {
+      "title": "Fralda Cremer Magic Care XG 20 Unidades",
+      "posted_at": "2026-10-26T13:01:08.566378"
     }
   },
   "results": [
@@ -35761,6 +35765,14 @@
       "post_id": "1826",
       "error": null,
       "at": "2026-10-26T12:31:04.052327"
+    },
+    {
+      "offer_id": "8733d53e8f627f32",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1827",
+      "error": null,
+      "at": "2026-10-26T13:01:08.565792"
     }
   ]
 }
