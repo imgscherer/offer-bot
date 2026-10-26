@@ -7307,6 +7307,10 @@
     "9e0eb62d334d3f04": {
       "title": "Fralda-Calça Superproteção MamyPoko XXG 22 Unidades",
       "posted_at": "2026-10-26T23:10:39.055586"
+    },
+    "5edaed13500a0078": {
+      "title": "Macacão Bebê Térmico Infantil Quentinho Menino Inverno com Estampa de Carrinho Azul",
+      "posted_at": "2026-10-26T23:30:37.131274"
     }
   },
   "results": [
@@ -35917,6 +35921,14 @@
       "post_id": "1839",
       "error": null,
       "at": "2026-10-26T23:10:39.055207"
+    },
+    {
+      "offer_id": "5edaed13500a0078",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1840",
+      "error": null,
+      "at": "2026-10-26T23:30:37.130908"
     }
   ]
 }

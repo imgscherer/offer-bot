@@ -1,5 +1,17 @@
 [
   {
+    "id": "5edaed13500a0078",
+    "title": "Macacão Bebê Térmico Infantil Quentinho Menino Inverno com Estampa de Carrinho Azul",
+    "price_now": 51.0,
+    "price_was": 76.12,
+    "discount_pct": 33,
+    "url": "https://s.shopee.com.br/9Kj8Qo423v",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mr91iju4sxdw80",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-26T23:30:37.131093"
+  },
+  {
     "id": "9e0eb62d334d3f04",
     "title": "Fralda-Calça Superproteção MamyPoko XXG 22 Unidades",
     "price_now": 29.92,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-26T13:50:48.622470"
-  },
-  {
-    "id": "5421f5469d70c16f",
-    "title": "Sabonete Líquido Bebê Glicerina Refil 210ml",
-    "price_now": 7.0,
-    "price_was": 11.19,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0DS6CK89Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/784890734617930213495792762806.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-26T13:40:38.732910"
   }
 ]
