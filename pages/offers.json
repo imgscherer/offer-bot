@@ -1,5 +1,17 @@
 [
   {
+    "id": "27251f3700f75844",
+    "title": "Fralda Pampers Premium Care Pants XG 64 unidades",
+    "price_now": 89.2,
+    "price_was": 151.59,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07X5KWJK9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/766689092617930402514082449794.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-26T18:51:02.586164"
+  },
+  {
     "id": "4541e730f9e1b8d2",
     "title": "Granado Refil Sabonete Líquido Bebê Tradicional 250ml",
     "price_now": 13.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-26T12:00:59.053973"
-  },
-  {
-    "id": "986e6eca709d7f43",
-    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
-    "price_now": 47.0,
-    "price_was": 72.65,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/370244296417930148124130054522.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-26T11:50:43.980633"
   }
 ]

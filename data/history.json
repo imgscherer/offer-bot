@@ -7279,6 +7279,10 @@
     "4541e730f9e1b8d2": {
       "title": "Granado Refil Sabonete Líquido Bebê Tradicional 250ml",
       "posted_at": "2026-10-26T16:30:53.290680"
+    },
+    "27251f3700f75844": {
+      "title": "Fralda Pampers Premium Care Pants XG 64 unidades",
+      "posted_at": "2026-10-26T18:51:02.586595"
     }
   },
   "results": [
@@ -35833,6 +35837,14 @@
       "post_id": "1832",
       "error": null,
       "at": "2026-10-26T16:30:53.289886"
+    },
+    {
+      "offer_id": "27251f3700f75844",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1833",
+      "error": null,
+      "at": "2026-10-26T18:51:02.585780"
     }
   ]
 }
