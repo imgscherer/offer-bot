@@ -1,5 +1,17 @@
 [
   {
+    "id": "d58394bc43d42ebf",
+    "title": "Fralda pampers pants premium care g 68 unidades",
+    "price_now": 89.2,
+    "price_was": 151.59,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/869899643417930296461882734827.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-26T16:00:58.442273"
+  },
+  {
     "id": "bd71120a807bd299",
     "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
     "price_now": 10.43,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-26T11:40:59.241507"
-  },
-  {
-    "id": "535c2a47a5ccacf4",
-    "title": "Burigotto Berço New Aconchego Rosa",
-    "price_now": 498.99,
-    "price_was": 899.0,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B095Z135KC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/443171654217930145087063088015.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-26T11:40:47.021415"
   }
 ]

@@ -7271,6 +7271,10 @@
     "bd71120a807bd299": {
       "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
       "posted_at": "2026-10-26T14:40:42.865389"
+    },
+    "d58394bc43d42ebf": {
+      "title": "Fralda pampers pants premium care g 68 unidades",
+      "posted_at": "2026-10-26T16:00:58.442681"
     }
   },
   "results": [
@@ -35809,6 +35813,14 @@
       "post_id": "1830",
       "error": null,
       "at": "2026-10-26T14:40:42.864824"
+    },
+    {
+      "offer_id": "d58394bc43d42ebf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1831",
+      "error": null,
+      "at": "2026-10-26T16:00:58.441931"
     }
   ]
 }
