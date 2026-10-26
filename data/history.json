@@ -7259,6 +7259,10 @@
     "8733d53e8f627f32": {
       "title": "Fralda Cremer Magic Care XG 20 Unidades",
       "posted_at": "2026-10-26T13:01:08.566378"
+    },
+    "5421f5469d70c16f": {
+      "title": "Sabonete Líquido Bebê Glicerina Refil 210ml",
+      "posted_at": "2026-10-26T13:40:38.733373"
     }
   },
   "results": [
@@ -35773,6 +35777,14 @@
       "post_id": "1827",
       "error": null,
       "at": "2026-10-26T13:01:08.565792"
+    },
+    {
+      "offer_id": "5421f5469d70c16f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1828",
+      "error": null,
+      "at": "2026-10-26T13:40:38.732542"
     }
   ]
 }

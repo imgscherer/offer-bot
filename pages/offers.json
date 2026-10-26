@@ -1,5 +1,17 @@
 [
   {
+    "id": "5421f5469d70c16f",
+    "title": "Sabonete Líquido Bebê Glicerina Refil 210ml",
+    "price_now": 7.0,
+    "price_was": 11.19,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0DS6CK89Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/784890734617930213495792762806.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-26T13:40:38.732910"
+  },
+  {
     "id": "8733d53e8f627f32",
     "title": "Fralda Cremer Magic Care XG 20 Unidades",
     "price_now": 15.19,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-25T18:30:38.136437"
-  },
-  {
-    "id": "4ea9c3b521d99d71",
-    "title": "Fralda Huggies Máxima Proteção XXG 26 Unidades",
-    "price_now": 77.0,
-    "price_was": 116.9,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0BQ4113GM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/684151305517929512746417372717.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-25T18:20:52.868599"
   }
 ]
