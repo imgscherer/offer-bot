@@ -7247,6 +7247,14 @@
     "bbaf37c1e5b7e331": {
       "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
       "posted_at": "2026-10-26T12:21:01.986669"
+    },
+    "9c603fdc791f243b": {
+      "title": "Kit de Mamadeira Primeiros Passos 50150240ml Lillo",
+      "posted_at": "2026-10-26T12:30:57.562450"
+    },
+    "e902e68612925572": {
+      "title": "Bepantol Baby Pomada Assadura Bebê Hipoalergênica 100g",
+      "posted_at": "2026-10-26T12:31:04.053463"
     }
   },
   "results": [
@@ -35737,6 +35745,22 @@
       "post_id": "1824",
       "error": null,
       "at": "2026-10-26T12:21:01.985838"
+    },
+    {
+      "offer_id": "9c603fdc791f243b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1825",
+      "error": null,
+      "at": "2026-10-26T12:30:57.561682"
+    },
+    {
+      "offer_id": "e902e68612925572",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1826",
+      "error": null,
+      "at": "2026-10-26T12:31:04.052327"
     }
   ]
 }
