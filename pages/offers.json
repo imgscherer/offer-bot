@@ -1,5 +1,29 @@
 [
   {
+    "id": "9d5c221d1dd6f7d1",
+    "title": "Babysec Fralda Premium M 32 Unidades",
+    "price_now": 33.0,
+    "price_was": 54.39,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/765609323617930143308248490138.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-26T11:40:59.241507"
+  },
+  {
+    "id": "535c2a47a5ccacf4",
+    "title": "Burigotto Berço New Aconchego Rosa",
+    "price_now": 498.99,
+    "price_was": 899.0,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B095Z135KC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/443171654217930145087063088015.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-26T11:40:47.021415"
+  },
+  {
     "id": "c555ca66f5223591",
     "title": "Fralda Pom Pom Protek Proteção De Mãe Jumbo Xxg 18 Unidades",
     "price_now": 19.07,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-25T13:30:46.964945"
-  },
-  {
-    "id": "2f476730a79e9c5e",
-    "title": "Fralda Pampers Pants Ajuste Total G 90 Unidades",
-    "price_now": 103.09,
-    "price_was": 194.9,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/457311084817929265664878658213.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-25T11:20:44.292471"
-  },
-  {
-    "id": "ae1dcd9ca4adacf1",
-    "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
-    "price_now": 17.65,
-    "price_was": 33.22,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B07GB34N8Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/143926547517928858849496070639.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-25T00:01:02.998263"
   }
 ]

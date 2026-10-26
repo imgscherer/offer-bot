@@ -7223,6 +7223,14 @@
     "c555ca66f5223591": {
       "title": "Fralda Pom Pom Protek Proteção De Mãe Jumbo Xxg 18 Unidades",
       "posted_at": "2026-10-25T23:00:49.344404"
+    },
+    "535c2a47a5ccacf4": {
+      "title": "Burigotto Berço New Aconchego Rosa",
+      "posted_at": "2026-10-26T11:40:47.021720"
+    },
+    "9d5c221d1dd6f7d1": {
+      "title": "Babysec Fralda Premium M 32 Unidades",
+      "posted_at": "2026-10-26T11:40:59.241907"
     }
   },
   "results": [
@@ -35665,6 +35673,22 @@
       "post_id": "1818",
       "error": null,
       "at": "2026-10-25T23:00:49.256701"
+    },
+    {
+      "offer_id": "535c2a47a5ccacf4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1819",
+      "error": null,
+      "at": "2026-10-26T11:40:47.021071"
+    },
+    {
+      "offer_id": "9d5c221d1dd6f7d1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1820",
+      "error": null,
+      "at": "2026-10-26T11:40:59.241191"
     }
   ]
 }
