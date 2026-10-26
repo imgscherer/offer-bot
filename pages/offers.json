@@ -1,5 +1,17 @@
 [
   {
+    "id": "695ab20064e00e85",
+    "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
+    "price_now": 89.0,
+    "price_was": 151.59,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/344399683817930436114064799596.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-26T19:50:47.493913"
+  },
+  {
     "id": "27251f3700f75844",
     "title": "Fralda Pampers Premium Care Pants XG 64 unidades",
     "price_now": 89.2,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-26T12:20:50.537841"
-  },
-  {
-    "id": "0094b02828372bf6",
-    "title": "Lenço Umedecido Johnson's Baby Proteção da Pele 96 unidades",
-    "price_now": 13.42,
-    "price_was": 35.99,
-    "discount_pct": 63,
-    "url": "https://www.amazon.com.br/dp/B07D2FSCN5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/642922231617930151691492566649.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-26T12:00:59.053973"
   }
 ]

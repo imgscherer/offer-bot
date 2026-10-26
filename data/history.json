@@ -7283,6 +7283,10 @@
     "27251f3700f75844": {
       "title": "Fralda Pampers Premium Care Pants XG 64 unidades",
       "posted_at": "2026-10-26T18:51:02.586595"
+    },
+    "695ab20064e00e85": {
+      "title": "Fralda Pampers Premium Care Pants G 68 Unidades",
+      "posted_at": "2026-10-26T19:50:47.494219"
     }
   },
   "results": [
@@ -35845,6 +35849,14 @@
       "post_id": "1833",
       "error": null,
       "at": "2026-10-26T18:51:02.585780"
+    },
+    {
+      "offer_id": "695ab20064e00e85",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1834",
+      "error": null,
+      "at": "2026-10-26T19:50:47.493586"
     }
   ]
 }
