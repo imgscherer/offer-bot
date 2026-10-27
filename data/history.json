@@ -7419,6 +7419,10 @@
     "fbc48d5552cbfb80": {
       "title": "Fralda Pants Huggies Supreme Care G 60 Unidades",
       "posted_at": "2026-10-27T20:50:49.029245"
+    },
+    "15194cd20ae2ae34": {
+      "title": "Lillo Kit de Mamadeira Primeiros Passos Rosa",
+      "posted_at": "2026-10-27T21:10:48.448853"
     }
   },
   "results": [
@@ -36309,6 +36313,14 @@
       "post_id": "1867",
       "error": null,
       "at": "2026-10-27T20:50:49.028551"
+    },
+    {
+      "offer_id": "15194cd20ae2ae34",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1868",
+      "error": null,
+      "at": "2026-10-27T21:10:48.448150"
     }
   ]
 }
