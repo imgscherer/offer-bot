@@ -7395,6 +7395,10 @@
     "8a79d1bca66ec218": {
       "title": "Fralda Cremer XG 24 Unidades",
       "posted_at": "2026-10-27T17:00:49.975547"
+    },
+    "1684bfef3853db11": {
+      "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
+      "posted_at": "2026-10-27T17:40:53.901701"
     }
   },
   "results": [
@@ -36237,6 +36241,14 @@
       "post_id": "1861",
       "error": null,
       "at": "2026-10-27T17:00:49.974978"
+    },
+    {
+      "offer_id": "1684bfef3853db11",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1862",
+      "error": null,
+      "at": "2026-10-27T17:40:53.900831"
     }
   ]
 }

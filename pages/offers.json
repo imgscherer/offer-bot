@@ -1,5 +1,17 @@
 [
   {
+    "id": "1684bfef3853db11",
+    "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
+    "price_now": 39.51,
+    "price_was": 59.99,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/781580266417931219718359150242.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-27T17:40:53.901209"
+  },
+  {
     "id": "8a79d1bca66ec218",
     "title": "Fralda Cremer XG 24 Unidades",
     "price_now": 20.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-27T12:40:42.422628"
-  },
-  {
-    "id": "14be941e3f21fa52",
-    "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
-    "price_now": 34.0,
-    "price_was": 50.04,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/424916477517931035729619019427.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-27T12:30:48.390163"
   }
 ]
