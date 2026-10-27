@@ -7311,6 +7311,10 @@
     "5edaed13500a0078": {
       "title": "Macacão Bebê Térmico Infantil Quentinho Menino Inverno com Estampa de Carrinho Azul",
       "posted_at": "2026-10-26T23:30:37.131274"
+    },
+    "88cf5f61f522a799": {
+      "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
+      "posted_at": "2026-10-27T00:50:59.787330"
     }
   },
   "results": [
@@ -35929,6 +35933,14 @@
       "post_id": "1840",
       "error": null,
       "at": "2026-10-26T23:30:37.130908"
+    },
+    {
+      "offer_id": "88cf5f61f522a799",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1841",
+      "error": null,
+      "at": "2026-10-27T00:50:59.786542"
     }
   ]
 }
