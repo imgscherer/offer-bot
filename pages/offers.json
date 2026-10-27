@@ -1,5 +1,17 @@
 [
   {
+    "id": "279eece644f42787",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo G 24 Unidades",
+    "price_now": 20.67,
+    "price_was": 30.17,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B093G7WGYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/920268987417931043387159790814.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-27T12:40:42.422628"
+  },
+  {
     "id": "14be941e3f21fa52",
     "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
     "price_now": 34.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-26T23:30:37.131093"
-  },
-  {
-    "id": "9e0eb62d334d3f04",
-    "title": "Fralda-Calça Superproteção MamyPoko XXG 22 Unidades",
-    "price_now": 29.92,
-    "price_was": 46.9,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/162180879417930560919754126484.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-26T23:10:39.055409"
   }
 ]
