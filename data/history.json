@@ -7403,6 +7403,10 @@
     "da18a4ddb5f51a82": {
       "title": "Johnson's Baby Shampoo Infantil Cheirinho Prolongado 200ml",
       "posted_at": "2026-10-27T18:40:43.956544"
+    },
+    "5665d529893ea697": {
+      "title": "Cueiro Estampado Flanelado Bebê Kit 3 Unidades 80X50cm",
+      "posted_at": "2026-10-27T19:30:56.609393"
     }
   },
   "results": [
@@ -36261,6 +36265,14 @@
       "post_id": "1863",
       "error": null,
       "at": "2026-10-27T18:40:43.955839"
+    },
+    {
+      "offer_id": "5665d529893ea697",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1864",
+      "error": null,
+      "at": "2026-10-27T19:30:56.608616"
     }
   ]
 }
