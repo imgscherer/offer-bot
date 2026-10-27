@@ -7355,6 +7355,10 @@
     "279eece644f42787": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo G 24 Unidades",
       "posted_at": "2026-10-27T12:40:42.422806"
+    },
+    "b9f18535042d0af6": {
+      "title": "Huggies Fralda Pants Premium Natural Care XG 52 Un",
+      "posted_at": "2026-10-27T12:51:01.857850"
     }
   },
   "results": [
@@ -36109,6 +36113,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-27T12:40:49.692216"
+    },
+    {
+      "offer_id": "b9f18535042d0af6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1852",
+      "error": null,
+      "at": "2026-10-27T12:51:01.857114"
+    },
+    {
+      "offer_id": "c8973a76c34a5ad9",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-27T12:51:10.340275"
     }
   ]
 }
