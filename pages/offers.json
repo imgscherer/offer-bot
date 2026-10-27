@@ -1,5 +1,17 @@
 [
   {
+    "id": "6ef6e9bff01b57ce",
+    "title": "Conjunto de 5 peças de macacão para bebê (P ao G)",
+    "price_now": 76.9,
+    "price_was": 123.28,
+    "discount_pct": 38,
+    "url": "https://s.shopee.com.br/4LKTMjxLko?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/328630248617931055914567330273.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-27T13:01:01.206307"
+  },
+  {
     "id": "b9f18535042d0af6",
     "title": "Huggies Fralda Pants Premium Natural Care XG 52 Un",
     "price_now": 75.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-27T11:01:03.885963"
-  },
-  {
-    "id": "88cf5f61f522a799",
-    "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
-    "price_now": 43.0,
-    "price_was": 62.9,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/771226887617930614893654308410.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-27T00:50:59.786924"
   }
 ]

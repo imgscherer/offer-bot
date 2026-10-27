@@ -7359,6 +7359,10 @@
     "b9f18535042d0af6": {
       "title": "Huggies Fralda Pants Premium Natural Care XG 52 Un",
       "posted_at": "2026-10-27T12:51:01.857850"
+    },
+    "6ef6e9bff01b57ce": {
+      "title": "Conjunto de 5 peças de macacão para bebê (P ao G)",
+      "posted_at": "2026-10-27T13:01:01.206717"
     }
   },
   "results": [
@@ -36129,6 +36133,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-27T12:51:10.340275"
+    },
+    {
+      "offer_id": "6ef6e9bff01b57ce",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1853",
+      "error": null,
+      "at": "2026-10-27T13:01:01.206002"
     }
   ]
 }
