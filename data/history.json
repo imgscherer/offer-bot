@@ -7423,6 +7423,10 @@
     "15194cd20ae2ae34": {
       "title": "Lillo Kit de Mamadeira Primeiros Passos Rosa",
       "posted_at": "2026-10-27T21:10:48.448853"
+    },
+    "c6e331ec96b866a2": {
+      "title": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
+      "posted_at": "2026-10-27T22:30:54.391172"
     }
   },
   "results": [
@@ -36321,6 +36325,14 @@
       "post_id": "1868",
       "error": null,
       "at": "2026-10-27T21:10:48.448150"
+    },
+    {
+      "offer_id": "c6e331ec96b866a2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1869",
+      "error": null,
+      "at": "2026-10-27T22:30:54.390292"
     }
   ]
 }
