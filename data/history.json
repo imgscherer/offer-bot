@@ -7427,6 +7427,14 @@
     "c6e331ec96b866a2": {
       "title": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
       "posted_at": "2026-10-27T22:30:54.391172"
+    },
+    "6c6f88964181fcd3": {
+      "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
+      "posted_at": "2026-10-27T22:40:43.234539"
+    },
+    "d8e50f13bfc483ff": {
+      "title": "Granado Talco Infantil Bebê, 100g",
+      "posted_at": "2026-10-27T22:40:48.666986"
     }
   },
   "results": [
@@ -36333,6 +36341,22 @@
       "post_id": "1869",
       "error": null,
       "at": "2026-10-27T22:30:54.390292"
+    },
+    {
+      "offer_id": "6c6f88964181fcd3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1870",
+      "error": null,
+      "at": "2026-10-27T22:40:43.233894"
+    },
+    {
+      "offer_id": "d8e50f13bfc483ff",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1871",
+      "error": null,
+      "at": "2026-10-27T22:40:48.663118"
     }
   ]
 }

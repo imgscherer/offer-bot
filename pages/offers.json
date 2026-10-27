@@ -1,5 +1,29 @@
 [
   {
+    "id": "d8e50f13bfc483ff",
+    "title": "Granado Talco Infantil Bebê, 100g",
+    "price_now": 14.45,
+    "price_was": 20.7,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B07FFC3YTN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/543948323517931406308761752820.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-27T22:40:48.663397"
+  },
+  {
+    "id": "6c6f88964181fcd3",
+    "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
+    "price_now": 15.49,
+    "price_was": 22.69,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B095D664HJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/240084133817931407511228980010.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-27T22:40:43.234154"
+  },
+  {
     "id": "c6e331ec96b866a2",
     "title": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
     "price_now": 76.58,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-27T16:10:43.573428"
-  },
-  {
-    "id": "29ffe6863d782773",
-    "title": "Fralda Turma da Mônica Baby Mega XXG 36 unid.",
-    "price_now": 33.53,
-    "price_was": 59.87,
-    "discount_pct": 44,
-    "url": "https://s.shopee.com.br/7VHVL5F0eX?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/983794223717931165357356216800.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-27T16:02:26.908477"
-  },
-  {
-    "id": "887b17137c1162cd",
-    "title": "Sandália Babuche Infantil Menina Enfeite de Jardim (Tam 17 ao 32)",
-    "price_now": 18.0,
-    "price_was": 60.0,
-    "discount_pct": 70,
-    "url": "https://s.shopee.com.br/gRB9xuzbr?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/974415030717931142965936948207.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-27T15:31:01.870556"
   }
 ]
