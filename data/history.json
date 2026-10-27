@@ -7435,6 +7435,10 @@
     "d8e50f13bfc483ff": {
       "title": "Granado Talco Infantil Bebê, 100g",
       "posted_at": "2026-10-27T22:40:48.666986"
+    },
+    "e4e29f2cdf084c22": {
+      "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
+      "posted_at": "2026-10-27T23:00:56.455903"
     }
   },
   "results": [
@@ -36357,6 +36361,14 @@
       "post_id": "1871",
       "error": null,
       "at": "2026-10-27T22:40:48.663118"
+    },
+    {
+      "offer_id": "e4e29f2cdf084c22",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1872",
+      "error": null,
+      "at": "2026-10-27T23:00:56.455198"
     }
   ]
 }
