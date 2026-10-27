@@ -1,5 +1,17 @@
 [
   {
+    "id": "14be941e3f21fa52",
+    "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
+    "price_now": 34.0,
+    "price_was": 50.04,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/424916477517931035729619019427.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-27T12:30:48.390163"
+  },
+  {
     "id": "8271c126caaf5e4f",
     "title": "Fralda Huggies Supreme Care Roupinha XG 64 Unidades",
     "price_now": 84.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-26T23:10:39.055409"
-  },
-  {
-    "id": "591badd0d7f4e9f6",
-    "title": "Fralda Descartável Huggies Máxima Proteção, Tamanho Xxg, 58 Unidades",
-    "price_now": 62.95,
-    "price_was": 116.9,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B0BQ4113GM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/338124685117930528617794169125.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-26T22:30:54.349722"
   }
 ]
