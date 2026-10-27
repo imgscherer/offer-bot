@@ -7383,6 +7383,10 @@
     "887b17137c1162cd": {
       "title": "Sandália Babuche Infantil Menina Enfeite de Jardim (Tam 17 ao 32)",
       "posted_at": "2026-10-27T15:31:01.870997"
+    },
+    "29ffe6863d782773": {
+      "title": "Fralda Turma da Mônica Baby Mega XXG 36 unid.",
+      "posted_at": "2026-10-27T16:02:26.910506"
     }
   },
   "results": [
@@ -36201,6 +36205,14 @@
       "post_id": "1858",
       "error": null,
       "at": "2026-10-27T15:31:01.870248"
+    },
+    {
+      "offer_id": "29ffe6863d782773",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1859",
+      "error": null,
+      "at": "2026-10-27T16:02:26.908173"
     }
   ]
 }
