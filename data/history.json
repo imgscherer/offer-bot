@@ -7399,6 +7399,10 @@
     "1684bfef3853db11": {
       "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
       "posted_at": "2026-10-27T17:40:53.901701"
+    },
+    "da18a4ddb5f51a82": {
+      "title": "Johnson's Baby Shampoo Infantil Cheirinho Prolongado 200ml",
+      "posted_at": "2026-10-27T18:40:43.956544"
     }
   },
   "results": [
@@ -36249,6 +36253,14 @@
       "post_id": "1862",
       "error": null,
       "at": "2026-10-27T17:40:53.900831"
+    },
+    {
+      "offer_id": "da18a4ddb5f51a82",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1863",
+      "error": null,
+      "at": "2026-10-27T18:40:43.955839"
     }
   ]
 }
