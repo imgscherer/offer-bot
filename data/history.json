@@ -7331,6 +7331,22 @@
     "f79f797271bc353c": {
       "title": "MamyPoko Fralda-Calça Superproteção XG 24 unidades",
       "posted_at": "2026-10-27T11:40:45.247851"
+    },
+    "0ea6c18d51c3fec0": {
+      "title": "Kit Bebê (Diversas cores) - Redutor de Berço, Almofada de Amamentação, Trocador Portátil",
+      "posted_at": "2026-10-27T11:50:50.597159"
+    },
+    "4ab774d74529e729": {
+      "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
+      "posted_at": "2026-10-27T11:51:02.699828"
+    },
+    "1451a2bca7546c42": {
+      "title": "Sandália Infantil Menina Brilho Strass (20 ao 27, 2 cores)",
+      "posted_at": "2026-10-27T11:51:15.650229"
+    },
+    "8271c126caaf5e4f": {
+      "title": "Fralda Huggies Supreme Care Roupinha XG 64 Unidades",
+      "posted_at": "2026-10-27T11:51:28.627858"
     }
   },
   "results": [
@@ -35989,6 +36005,46 @@
       "post_id": "1845",
       "error": null,
       "at": "2026-10-27T11:40:45.247085"
+    },
+    {
+      "offer_id": "0ea6c18d51c3fec0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1846",
+      "error": null,
+      "at": "2026-10-27T11:50:50.596413"
+    },
+    {
+      "offer_id": "4ab774d74529e729",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1847",
+      "error": null,
+      "at": "2026-10-27T11:51:02.699143"
+    },
+    {
+      "offer_id": "1451a2bca7546c42",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1848",
+      "error": null,
+      "at": "2026-10-27T11:51:15.649558"
+    },
+    {
+      "offer_id": "8271c126caaf5e4f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1849",
+      "error": null,
+      "at": "2026-10-27T11:51:28.627155"
+    },
+    {
+      "offer_id": "c8973a76c34a5ad9",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-27T11:51:46.073789"
     }
   ]
 }
