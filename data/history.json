@@ -7363,6 +7363,10 @@
     "6ef6e9bff01b57ce": {
       "title": "Conjunto de 5 peças de macacão para bebê (P ao G)",
       "posted_at": "2026-10-27T13:01:01.206717"
+    },
+    "15d46e49c42edc6e": {
+      "title": "Personal Fralda Baby Total Protect Pants G 24 Unidades",
+      "posted_at": "2026-10-27T13:20:43.229695"
     }
   },
   "results": [
@@ -36141,6 +36145,14 @@
       "post_id": "1853",
       "error": null,
       "at": "2026-10-27T13:01:01.206002"
+    },
+    {
+      "offer_id": "15d46e49c42edc6e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1854",
+      "error": null,
+      "at": "2026-10-27T13:20:43.228970"
     }
   ]
 }
