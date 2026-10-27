@@ -7379,6 +7379,10 @@
     "9fa28bc28e8017bf": {
       "title": "Garrafa Infantil De Inox Sereia Com Bebedor Silicone 350 Ml Lillo",
       "posted_at": "2026-10-27T15:00:52.942175"
+    },
+    "887b17137c1162cd": {
+      "title": "Sandália Babuche Infantil Menina Enfeite de Jardim (Tam 17 ao 32)",
+      "posted_at": "2026-10-27T15:31:01.870997"
     }
   },
   "results": [
@@ -36189,6 +36193,14 @@
       "post_id": "1857",
       "error": null,
       "at": "2026-10-27T15:00:52.941597"
+    },
+    {
+      "offer_id": "887b17137c1162cd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1858",
+      "error": null,
+      "at": "2026-10-27T15:31:01.870248"
     }
   ]
 }
