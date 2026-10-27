@@ -1,5 +1,17 @@
 [
   {
+    "id": "783b1b36f85ac522",
+    "title": "Fralda Pampers Premium Care Pants M 78 unidades",
+    "price_now": 89.2,
+    "price_was": 151.59,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07X83FF8M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/558754280117930980911445401326.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-27T11:01:03.885963"
+  },
+  {
     "id": "88cf5f61f522a799",
     "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
     "price_now": 43.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-26T16:00:58.442273"
-  },
-  {
-    "id": "bd71120a807bd299",
-    "title": "Lenço Umedecido Johnson's Baby Recém-Nascido Sem Perfume 48 unidades",
-    "price_now": 10.43,
-    "price_was": 22.29,
-    "discount_pct": 53,
-    "url": "https://www.amazon.com.br/dp/B07DHSFWBL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/771096259217930249725139144098.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-26T14:40:42.865145"
   }
 ]

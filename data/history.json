@@ -7315,6 +7315,10 @@
     "88cf5f61f522a799": {
       "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
       "posted_at": "2026-10-27T00:50:59.787330"
+    },
+    "783b1b36f85ac522": {
+      "title": "Fralda Pampers Premium Care Pants M 78 unidades",
+      "posted_at": "2026-10-27T11:01:03.886441"
     }
   },
   "results": [
@@ -35941,6 +35945,14 @@
       "post_id": "1841",
       "error": null,
       "at": "2026-10-27T00:50:59.786542"
+    },
+    {
+      "offer_id": "783b1b36f85ac522",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1842",
+      "error": null,
+      "at": "2026-10-27T11:01:03.885632"
     }
   ]
 }
