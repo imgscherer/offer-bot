@@ -1,5 +1,29 @@
 [
   {
+    "id": "f8b6a2fd42b6efec",
+    "title": "Fralda Huggies Supreme Care Pants G 60 unidades",
+    "price_now": 62.69,
+    "price_was": 113.25,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/372128139717931308526963841697.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-27T20:10:51.756712"
+  },
+  {
+    "id": "c0d831c068da8c47",
+    "title": "Johnson's Baby Shampoo Infantil Cachos Dos Sonhos 200ml",
+    "price_now": 12.0,
+    "price_was": 24.79,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B0789TG4TQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/869387774517931312235377859523.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-27T20:10:41.159801"
+  },
+  {
     "id": "5665d529893ea697",
     "title": "Cueiro Estampado Flanelado Bebê Kit 3 Unidades 80X50cm",
     "price_now": 18.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-27T13:30:53.960592"
-  },
-  {
-    "id": "15d46e49c42edc6e",
-    "title": "Personal Fralda Baby Total Protect Pants G 24 Unidades",
-    "price_now": 25.0,
-    "price_was": 40.63,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0BTTKQV4P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/699328624117931062567687295301.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-27T13:20:43.229382"
-  },
-  {
-    "id": "6ef6e9bff01b57ce",
-    "title": "Conjunto de 5 peças de macacão para bebê (P ao G)",
-    "price_now": 76.9,
-    "price_was": 123.28,
-    "discount_pct": 38,
-    "url": "https://s.shopee.com.br/4LKTMjxLko?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/328630248617931055914567330273.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-27T13:01:01.206307"
   }
 ]
