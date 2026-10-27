@@ -1,5 +1,29 @@
 [
   {
+    "id": "e4d61042d4004ee2",
+    "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
+    "price_now": 34.79,
+    "price_was": 50.04,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/160950782517930992901634835340.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-27T11:20:58.989858"
+  },
+  {
+    "id": "0b9c8074dd35d05f",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo G 24 Unidades",
+    "price_now": 20.0,
+    "price_was": 30.17,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B093G7WGYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/206330518017930989349579383272.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-27T11:20:46.574163"
+  },
+  {
     "id": "783b1b36f85ac522",
     "title": "Fralda Pampers Premium Care Pants M 78 unidades",
     "price_now": 89.2,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-26T18:51:02.586164"
-  },
-  {
-    "id": "4541e730f9e1b8d2",
-    "title": "Granado Refil Sabonete Líquido Bebê Tradicional 250ml",
-    "price_now": 13.0,
-    "price_was": 22.0,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07D2FXHM1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/441211948517930316879912273330.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-26T16:30:53.290232"
-  },
-  {
-    "id": "d58394bc43d42ebf",
-    "title": "Fralda pampers pants premium care g 68 unidades",
-    "price_now": 89.2,
-    "price_was": 151.59,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/869899643417930296461882734827.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-26T16:00:58.442273"
   }
 ]
