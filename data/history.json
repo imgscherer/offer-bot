@@ -7327,6 +7327,10 @@
     "e4d61042d4004ee2": {
       "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
       "posted_at": "2026-10-27T11:20:58.990279"
+    },
+    "f79f797271bc353c": {
+      "title": "MamyPoko Fralda-Calça Superproteção XG 24 unidades",
+      "posted_at": "2026-10-27T11:40:45.247851"
     }
   },
   "results": [
@@ -35977,6 +35981,14 @@
       "post_id": "1844",
       "error": null,
       "at": "2026-10-27T11:20:58.989601"
+    },
+    {
+      "offer_id": "f79f797271bc353c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1845",
+      "error": null,
+      "at": "2026-10-27T11:40:45.247085"
     }
   ]
 }

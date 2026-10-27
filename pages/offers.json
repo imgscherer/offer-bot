@@ -1,5 +1,17 @@
 [
   {
+    "id": "f79f797271bc353c",
+    "title": "MamyPoko Fralda-Calça Superproteção XG 24 unidades",
+    "price_now": 27.0,
+    "price_was": 42.9,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/468179115017931006134330575626.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-27T11:40:45.247466"
+  },
+  {
     "id": "e4d61042d4004ee2",
     "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
     "price_now": 34.79,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-26T19:50:47.493913"
-  },
-  {
-    "id": "27251f3700f75844",
-    "title": "Fralda Pampers Premium Care Pants XG 64 unidades",
-    "price_now": 89.2,
-    "price_was": 151.59,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07X5KWJK9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/766689092617930402514082449794.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-26T18:51:02.586164"
   }
 ]
