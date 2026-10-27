@@ -1,5 +1,17 @@
 [
   {
+    "id": "e9c0c5f7022881f9",
+    "title": "Shampoo Mamãe e Bebê Natura 200ml",
+    "price_now": 23.69,
+    "price_was": 43.4,
+    "discount_pct": 45,
+    "url": "https://s.shopee.com.br/70LEl3PUhH?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/906528675717931173123968980669.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-27T16:10:43.573428"
+  },
+  {
     "id": "29ffe6863d782773",
     "title": "Fralda Turma da Mônica Baby Mega XXG 36 unid.",
     "price_now": 33.53,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-27T11:51:28.627415"
-  },
-  {
-    "id": "1451a2bca7546c42",
-    "title": "Sandália Infantil Menina Brilho Strass (20 ao 27, 2 cores)",
-    "price_now": 43.46,
-    "price_was": 69.68,
-    "discount_pct": 38,
-    "url": "https://s.shopee.com.br/6q1oGfPv75?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/531826105417931015133227931214.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-27T11:51:15.649816"
   }
 ]

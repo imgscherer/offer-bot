@@ -7387,6 +7387,10 @@
     "29ffe6863d782773": {
       "title": "Fralda Turma da Mônica Baby Mega XXG 36 unid.",
       "posted_at": "2026-10-27T16:02:26.910506"
+    },
+    "e9c0c5f7022881f9": {
+      "title": "Shampoo Mamãe e Bebê Natura 200ml",
+      "posted_at": "2026-10-27T16:10:43.573859"
     }
   },
   "results": [
@@ -36213,6 +36217,14 @@
       "post_id": "1859",
       "error": null,
       "at": "2026-10-27T16:02:26.908173"
+    },
+    {
+      "offer_id": "e9c0c5f7022881f9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1860",
+      "error": null,
+      "at": "2026-10-27T16:10:43.573078"
     }
   ]
 }
