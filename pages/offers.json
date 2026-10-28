@@ -1,5 +1,53 @@
 [
   {
+    "id": "f80a3727035aab2f",
+    "title": "Fralda Pampers Confort Sec XXG com 112",
+    "price_now": 113.0,
+    "price_was": 219.04,
+    "discount_pct": 48,
+    "url": "https://s.shopee.com.br/5fpsWue0Wd?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/283901635217931909713812674158.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T12:52:03.287558"
+  },
+  {
+    "id": "d099257aee954022",
+    "title": "Fralda Pampers Confort Sec XG com 116",
+    "price_now": 113.0,
+    "price_was": 219.04,
+    "discount_pct": 48,
+    "url": "https://s.shopee.com.br/5AtbvzfuZM?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/539731668117931909709659539585.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T12:51:31.189950"
+  },
+  {
+    "id": "7848d3bef9828f5c",
+    "title": "Fralda Pampers Confort Sec M com 148",
+    "price_now": 113.0,
+    "price_was": 225.65,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/9pfRUZxH23?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/982979404217931909776179763227.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T12:51:12.054245"
+  },
+  {
+    "id": "addf46e683e30193",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148 unid.",
+    "price_now": 113.91,
+    "price_was": 225.65,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/30p7MuWtqB?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/260913355817931917553132590971.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T12:50:58.937103"
+  },
+  {
     "id": "250a575f71d7819a",
     "title": "Fralda Turma da Mônica Baby Jumbo M com 28 unid.",
     "price_now": 22.72,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-27T23:00:56.455578"
-  },
-  {
-    "id": "d8e50f13bfc483ff",
-    "title": "Granado Talco Infantil Bebê, 100g",
-    "price_now": 14.45,
-    "price_was": 20.7,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B07FFC3YTN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/543948323517931406308761752820.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-27T22:40:48.663397"
-  },
-  {
-    "id": "6c6f88964181fcd3",
-    "title": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
-    "price_now": 15.49,
-    "price_was": 22.69,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B095D664HJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/240084133817931407511228980010.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-27T22:40:43.234154"
-  },
-  {
-    "id": "c6e331ec96b866a2",
-    "title": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
-    "price_now": 76.58,
-    "price_was": 109.78,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/802111539517931397906492649096.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-27T22:30:54.390659"
-  },
-  {
-    "id": "15194cd20ae2ae34",
-    "title": "Lillo Kit de Mamadeira Primeiros Passos Rosa",
-    "price_now": 19.0,
-    "price_was": 49.91,
-    "discount_pct": 62,
-    "url": "https://www.amazon.com.br/dp/B07FS8P22T?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/184211611817931345453634165857.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-27T21:10:48.448489"
   }
 ]

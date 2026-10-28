@@ -7467,6 +7467,22 @@
     "250a575f71d7819a": {
       "title": "Fralda Turma da Mônica Baby Jumbo M com 28 unid.",
       "posted_at": "2026-10-28T12:30:54.927971"
+    },
+    "addf46e683e30193": {
+      "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148 unid.",
+      "posted_at": "2026-10-28T12:50:58.937544"
+    },
+    "7848d3bef9828f5c": {
+      "title": "Fralda Pampers Confort Sec M com 148",
+      "posted_at": "2026-10-28T12:51:12.054795"
+    },
+    "d099257aee954022": {
+      "title": "Fralda Pampers Confort Sec XG com 116",
+      "posted_at": "2026-10-28T12:51:31.191988"
+    },
+    "f80a3727035aab2f": {
+      "title": "Fralda Pampers Confort Sec XXG com 112",
+      "posted_at": "2026-10-28T12:52:03.288075"
     }
   },
   "results": [
@@ -36453,6 +36469,46 @@
       "post_id": "1879",
       "error": null,
       "at": "2026-10-28T12:30:54.927287"
+    },
+    {
+      "offer_id": "addf46e683e30193",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1880",
+      "error": null,
+      "at": "2026-10-28T12:50:58.936738"
+    },
+    {
+      "offer_id": "7848d3bef9828f5c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1881",
+      "error": null,
+      "at": "2026-10-28T12:51:12.053926"
+    },
+    {
+      "offer_id": "d099257aee954022",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1882",
+      "error": null,
+      "at": "2026-10-28T12:51:31.189603"
+    },
+    {
+      "offer_id": "32c4cb2e4da6ec36",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-28T12:51:49.223812"
+    },
+    {
+      "offer_id": "f80a3727035aab2f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1883",
+      "error": null,
+      "at": "2026-10-28T12:52:03.287253"
     }
   ]
 }
