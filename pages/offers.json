@@ -1,5 +1,29 @@
 [
   {
+    "id": "38a109517cd9bd7f",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus G com 128",
+    "price_now": 118.0,
+    "price_was": 216.27,
+    "discount_pct": 45,
+    "url": "https://s.shopee.com.br/7AegJflhdP?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/646497287917932128089067625846.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T18:51:08.860288"
+  },
+  {
+    "id": "53bf8d122c54d578",
+    "title": "Calça Infantil Jogger Jeans Sarja (TAm. 4 ao 16, Diversas cores)",
+    "price_now": 57.52,
+    "price_was": 140.98,
+    "discount_pct": 59,
+    "url": "https://s.shopee.com.br/4fxLkclHaZ?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/460329808717932132939068815125.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T18:50:51.207954"
+  },
+  {
     "id": "f16efe9022645f3d",
     "title": "Kit Bolsa Maternidade Menina Personalizada Melissa Off/Cacau/Rosê - 02 Peças",
     "price_now": 579.9,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-28T15:50:48.169038"
-  },
-  {
-    "id": "f91384aa90e1e021",
-    "title": "Creme Preventivo de Assaduras para Bebês Desitin Creamy 113g",
-    "price_now": 57.0,
-    "price_was": 101.99,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B07DHSTTCN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/274283837817931968643059852085.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T14:30:59.993261"
-  },
-  {
-    "id": "ba08fdca346b4979",
-    "title": "Kit de Limpeza de Mamadeira Buba, Portátil",
-    "price_now": 58.0,
-    "price_was": 108.9,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B0DJG4SRZ2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/512437571217931969156128938842.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T14:30:50.572360"
   }
 ]

@@ -7543,6 +7543,14 @@
     "f16efe9022645f3d": {
       "title": "Kit Bolsa Maternidade Menina Personalizada Melissa Off/Cacau/Rosê - 02 Peças",
       "posted_at": "2026-10-28T18:00:59.833829"
+    },
+    "53bf8d122c54d578": {
+      "title": "Calça Infantil Jogger Jeans Sarja (TAm. 4 ao 16, Diversas cores)",
+      "posted_at": "2026-10-28T18:50:51.208209"
+    },
+    "38a109517cd9bd7f": {
+      "title": "Fralda Pampers Confort Sec Jumbo Plus G com 128",
+      "posted_at": "2026-10-28T18:51:08.860750"
     }
   },
   "results": [
@@ -36745,6 +36753,22 @@
       "post_id": "1898",
       "error": null,
       "at": "2026-10-28T18:00:59.833062"
+    },
+    {
+      "offer_id": "53bf8d122c54d578",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1899",
+      "error": null,
+      "at": "2026-10-28T18:50:51.207674"
+    },
+    {
+      "offer_id": "38a109517cd9bd7f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1900",
+      "error": null,
+      "at": "2026-10-28T18:51:08.860040"
     }
   ]
 }
