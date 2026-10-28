@@ -1,5 +1,17 @@
 [
   {
+    "id": "d4024ccca10f6c82",
+    "title": "Fralda Pampers Supersequinha G com 80 unidades",
+    "price_now": 76.0,
+    "price_was": 109.78,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/692051480717931471311920209056.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T00:40:50.972181"
+  },
+  {
     "id": "e4e29f2cdf084c22",
     "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
     "price_now": 13.53,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-27T17:40:53.901209"
-  },
-  {
-    "id": "8a79d1bca66ec218",
-    "title": "Fralda Cremer XG 24 Unidades",
-    "price_now": 20.99,
-    "price_was": 44.1,
-    "discount_pct": 52,
-    "url": "https://s.shopee.com.br/AKbglhpBlt?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/476916889017931195176288331146.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-27T17:00:49.975299"
   }
 ]

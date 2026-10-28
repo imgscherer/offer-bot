@@ -7439,6 +7439,10 @@
     "e4e29f2cdf084c22": {
       "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
       "posted_at": "2026-10-27T23:00:56.455903"
+    },
+    "d4024ccca10f6c82": {
+      "title": "Fralda Pampers Supersequinha G com 80 unidades",
+      "posted_at": "2026-10-28T00:40:50.972592"
     }
   },
   "results": [
@@ -36369,6 +36373,14 @@
       "post_id": "1872",
       "error": null,
       "at": "2026-10-27T23:00:56.455198"
+    },
+    {
+      "offer_id": "d4024ccca10f6c82",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1873",
+      "error": null,
+      "at": "2026-10-28T00:40:50.971853"
     }
   ]
 }
