@@ -7527,6 +7527,22 @@
     "fa8ad63a48d25095": {
       "title": "Fralda Descartável Cremer Magic Care Hiper G 60 Unidades",
       "posted_at": "2026-10-28T17:51:01.040168"
+    },
+    "f1a35b53e40926c7": {
+      "title": "Bolsa Maternidade Basic P Off/Azul - 01 Peça",
+      "posted_at": "2026-10-28T18:00:49.596371"
+    },
+    "3801b7c29cfb2e6f": {
+      "title": "Bolsa Maternidade Basic P Off/Marinho- 01 Peça",
+      "posted_at": "2026-10-28T18:00:52.684265"
+    },
+    "e23fe4e2626bfe3a": {
+      "title": "Kit Bolsa Maternidade Menina Personalizado Cecília Off/Lilás - 02 Peças",
+      "posted_at": "2026-10-28T18:00:55.784462"
+    },
+    "f16efe9022645f3d": {
+      "title": "Kit Bolsa Maternidade Menina Personalizada Melissa Off/Cacau/Rosê - 02 Peças",
+      "posted_at": "2026-10-28T18:00:59.833829"
     }
   },
   "results": [
@@ -36697,6 +36713,38 @@
       "post_id": "1894",
       "error": null,
       "at": "2026-10-28T17:51:01.039354"
+    },
+    {
+      "offer_id": "f1a35b53e40926c7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1895",
+      "error": null,
+      "at": "2026-10-28T18:00:49.595717"
+    },
+    {
+      "offer_id": "3801b7c29cfb2e6f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1896",
+      "error": null,
+      "at": "2026-10-28T18:00:52.683656"
+    },
+    {
+      "offer_id": "e23fe4e2626bfe3a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1897",
+      "error": null,
+      "at": "2026-10-28T18:00:55.783756"
+    },
+    {
+      "offer_id": "f16efe9022645f3d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1898",
+      "error": null,
+      "at": "2026-10-28T18:00:59.833062"
     }
   ]
 }

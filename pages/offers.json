@@ -1,5 +1,53 @@
 [
   {
+    "id": "f16efe9022645f3d",
+    "title": "Kit Bolsa Maternidade Menina Personalizada Melissa Off/Cacau/Rosê - 02 Peças",
+    "price_now": 579.9,
+    "price_was": 906.09,
+    "discount_pct": 36,
+    "url": "https://s.shopee.com.br/906KrK2OIX",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mr8uwzial2x217",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T18:00:59.833353"
+  },
+  {
+    "id": "e23fe4e2626bfe3a",
+    "title": "Kit Bolsa Maternidade Menina Personalizado Cecília Off/Lilás - 02 Peças",
+    "price_now": 579.9,
+    "price_was": 906.09,
+    "discount_pct": 36,
+    "url": "https://s.shopee.com.br/9APl3d1kxY",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lz96f1bnyp8h3b",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T18:00:55.784051"
+  },
+  {
+    "id": "3801b7c29cfb2e6f",
+    "title": "Bolsa Maternidade Basic P Off/Marinho- 01 Peça",
+    "price_now": 134.9,
+    "price_was": 249.81,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/8pmuf131dW",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lopilmfokms5ef",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T18:00:52.683921"
+  },
+  {
+    "id": "f1a35b53e40926c7",
+    "title": "Bolsa Maternidade Basic P Off/Azul - 01 Peça",
+    "price_now": 134.9,
+    "price_was": 249.81,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/8VA4GP4IJM",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lniq5y2cjf6xbb",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T18:00:49.596055"
+  },
+  {
     "id": "fa8ad63a48d25095",
     "title": "Fralda Descartável Cremer Magic Care Hiper G 60 Unidades",
     "price_now": 45.75,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-28T14:30:50.572360"
-  },
-  {
-    "id": "8ab6ebfadf83261d",
-    "title": "Kit 2 Fraldas Descartáveis Pampers Supersequinha Jumbo G - 160 Tiras",
-    "price_now": 151.33,
-    "price_was": 293.07,
-    "discount_pct": 48,
-    "url": "https://s.shopee.com.br/1LgtRhQINc?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/477120553917931951207899237281.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T14:01:12.206505"
-  },
-  {
-    "id": "e06ac02d89164aec",
-    "title": "Buba Troninho Infantil Cinza",
-    "price_now": 34.0,
-    "price_was": 82.9,
-    "discount_pct": 59,
-    "url": "https://www.amazon.com.br/dp/B087NNJ55R?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/133369019217931956699288535775.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T14:00:57.425873"
-  },
-  {
-    "id": "915ce52a68b3bede",
-    "title": "Kit 2 Prendedores De Chupeta Coala Buba",
-    "price_now": 19.53,
-    "price_was": 29.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0B3F6BXLH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/389622293017931935518600631164.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T13:20:51.730730"
-  },
-  {
-    "id": "f80a3727035aab2f",
-    "title": "Fralda Pampers Confort Sec XXG com 112",
-    "price_now": 113.0,
-    "price_was": 219.04,
-    "discount_pct": 48,
-    "url": "https://s.shopee.com.br/5fpsWue0Wd?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/283901635217931909713812674158.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T12:52:03.287558"
   }
 ]
