@@ -1,5 +1,17 @@
 [
   {
+    "id": "466b1b922b6b2305",
+    "title": "Kit Portátil Para Limpeza De Mamadeira - Buba",
+    "price_now": 56.59,
+    "price_was": 108.9,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0DJG4SRZ2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/342747011917931891163231304118.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T12:10:45.688833"
+  },
+  {
     "id": "7cdbfb772053d77c",
     "title": "Carrinho Travel System Reverse",
     "price_now": 455.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-27T20:10:51.756712"
-  },
-  {
-    "id": "c0d831c068da8c47",
-    "title": "Johnson's Baby Shampoo Infantil Cachos Dos Sonhos 200ml",
-    "price_now": 12.0,
-    "price_was": 24.79,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B0789TG4TQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/869387774517931312235377859523.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-27T20:10:41.159801"
   }
 ]

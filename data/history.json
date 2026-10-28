@@ -7455,6 +7455,10 @@
     "7cdbfb772053d77c": {
       "title": "Carrinho Travel System Reverse",
       "posted_at": "2026-10-28T11:31:01.013365"
+    },
+    "466b1b922b6b2305": {
+      "title": "Kit Portátil Para Limpeza De Mamadeira - Buba",
+      "posted_at": "2026-10-28T12:10:45.689141"
     }
   },
   "results": [
@@ -36417,6 +36421,14 @@
       "post_id": "1876",
       "error": null,
       "at": "2026-10-28T11:31:01.012692"
+    },
+    {
+      "offer_id": "466b1b922b6b2305",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1877",
+      "error": null,
+      "at": "2026-10-28T12:10:45.688470"
     }
   ]
 }
