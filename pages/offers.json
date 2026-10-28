@@ -1,5 +1,29 @@
 [
   {
+    "id": "f463d0397922802a",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Unidades",
+    "price_now": 20.77,
+    "price_was": 30.17,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B093G99QBH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/167016519817932028011412087773.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T16:01:14.342201"
+  },
+  {
+    "id": "fd7b88b89ecd77c2",
+    "title": "Burigotto Carrinho De Bebê Zap Metal, Cobre",
+    "price_now": 566.59,
+    "price_was": 929.0,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0C5NQFRGB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/654094475017932031506372590752.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T16:01:03.731549"
+  },
+  {
     "id": "6cbabba58ee56161",
     "title": "Graco Carrinho de Bebê Gêmeos Passeio Ready2Grow",
     "price_now": 1799.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-28T12:50:58.937103"
-  },
-  {
-    "id": "250a575f71d7819a",
-    "title": "Fralda Turma da Mônica Baby Jumbo M com 28 unid.",
-    "price_now": 22.72,
-    "price_was": 40.57,
-    "discount_pct": 44,
-    "url": "https://s.shopee.com.br/4LKUvVtiV7?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/145594591517931901416712184024.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T12:30:54.927646"
-  },
-  {
-    "id": "bba389a220f80a89",
-    "title": "Fralda Pampers Confort Sec P 72 Unidades",
-    "price_now": 81.0,
-    "price_was": 118.1,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B095D5PSPG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/339023313517931894298791129482.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T12:20:49.932628"
   }
 ]

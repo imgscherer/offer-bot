@@ -7507,6 +7507,14 @@
     "6cbabba58ee56161": {
       "title": "Graco Carrinho de Bebê Gêmeos Passeio Ready2Grow",
       "posted_at": "2026-10-28T15:50:48.169259"
+    },
+    "fd7b88b89ecd77c2": {
+      "title": "Burigotto Carrinho De Bebê Zap Metal, Cobre",
+      "posted_at": "2026-10-28T16:01:03.731993"
+    },
+    "f463d0397922802a": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Unidades",
+      "posted_at": "2026-10-28T16:01:14.342633"
     }
   },
   "results": [
@@ -36621,6 +36629,30 @@
       "post_id": "1889",
       "error": null,
       "at": "2026-10-28T15:50:48.168763"
+    },
+    {
+      "offer_id": "8d7dbaf569282380",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-28T16:00:51.613269"
+    },
+    {
+      "offer_id": "fd7b88b89ecd77c2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1890",
+      "error": null,
+      "at": "2026-10-28T16:01:03.731177"
+    },
+    {
+      "offer_id": "f463d0397922802a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1891",
+      "error": null,
+      "at": "2026-10-28T16:01:14.341883"
     }
   ]
 }
