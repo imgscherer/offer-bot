@@ -7503,6 +7503,10 @@
     "f91384aa90e1e021": {
       "title": "Creme Preventivo de Assaduras para Bebês Desitin Creamy 113g",
       "posted_at": "2026-10-28T14:30:59.993700"
+    },
+    "6cbabba58ee56161": {
+      "title": "Graco Carrinho de Bebê Gêmeos Passeio Ready2Grow",
+      "posted_at": "2026-10-28T15:50:48.169259"
     }
   },
   "results": [
@@ -36601,6 +36605,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-28T15:40:37.043923"
+    },
+    {
+      "offer_id": "8d7dbaf569282380",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-28T15:50:39.110246"
+    },
+    {
+      "offer_id": "6cbabba58ee56161",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1889",
+      "error": null,
+      "at": "2026-10-28T15:50:48.168763"
     }
   ]
 }

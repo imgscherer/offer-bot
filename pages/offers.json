@@ -1,5 +1,17 @@
 [
   {
+    "id": "6cbabba58ee56161",
+    "title": "Graco Carrinho de Bebê Gêmeos Passeio Ready2Grow",
+    "price_now": 1799.0,
+    "price_was": 2990.0,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B08K2YFNDW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/402824429117932017832996485548.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T15:50:48.169038"
+  },
+  {
     "id": "f91384aa90e1e021",
     "title": "Creme Preventivo de Assaduras para Bebês Desitin Creamy 113g",
     "price_now": 57.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-28T12:20:49.932628"
-  },
-  {
-    "id": "466b1b922b6b2305",
-    "title": "Kit Portátil Para Limpeza De Mamadeira - Buba",
-    "price_now": 56.59,
-    "price_was": 108.9,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0DJG4SRZ2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/342747011917931891163231304118.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T12:10:45.688833"
   }
 ]
