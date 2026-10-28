@@ -7447,6 +7447,14 @@
     "ad22bc4167ef9ada": {
       "title": "Fralda Turma da Mônica Baby Jumbo RN com 36un",
       "posted_at": "2026-10-28T03:50:40.555107"
+    },
+    "7f73a43b6493d1fc": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidades",
+      "posted_at": "2026-10-28T11:30:51.568641"
+    },
+    "7cdbfb772053d77c": {
+      "title": "Carrinho Travel System Reverse",
+      "posted_at": "2026-10-28T11:31:01.013365"
     }
   },
   "results": [
@@ -36393,6 +36401,22 @@
       "post_id": "1874",
       "error": null,
       "at": "2026-10-28T03:50:40.554590"
+    },
+    {
+      "offer_id": "7f73a43b6493d1fc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1875",
+      "error": null,
+      "at": "2026-10-28T11:30:51.567896"
+    },
+    {
+      "offer_id": "7cdbfb772053d77c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1876",
+      "error": null,
+      "at": "2026-10-28T11:31:01.012692"
     }
   ]
 }

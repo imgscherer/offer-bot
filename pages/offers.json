@@ -1,5 +1,29 @@
 [
   {
+    "id": "7cdbfb772053d77c",
+    "title": "Carrinho Travel System Reverse",
+    "price_now": 455.9,
+    "price_was": 649.9,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B09BDZDSWY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/481699964517931861303317206677.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T11:31:01.012966"
+  },
+  {
+    "id": "7f73a43b6493d1fc",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidades",
+    "price_now": 32.68,
+    "price_was": 50.29,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/124165026817931865905396228266.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T11:30:51.568213"
+  },
+  {
     "id": "ad22bc4167ef9ada",
     "title": "Fralda Turma da Mônica Baby Jumbo RN com 36un",
     "price_now": 15.12,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-27T20:10:41.159801"
-  },
-  {
-    "id": "5665d529893ea697",
-    "title": "Cueiro Estampado Flanelado Bebê Kit 3 Unidades 80X50cm",
-    "price_now": 18.0,
-    "price_was": 32.19,
-    "discount_pct": 44,
-    "url": "https://s.shopee.com.br/5LD0zE8BA5?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/915153228817931288754356442578.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-27T19:30:56.609040"
-  },
-  {
-    "id": "da18a4ddb5f51a82",
-    "title": "Johnson's Baby Shampoo Infantil Cheirinho Prolongado 200ml",
-    "price_now": 12.0,
-    "price_was": 24.79,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B077C3NM6L?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/679799864617931259493216930305.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-27T18:40:43.956166"
   }
 ]
