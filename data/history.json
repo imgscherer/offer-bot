@@ -7519,6 +7519,14 @@
     "b4c030c4ca89f8d7": {
       "title": "Fralda Turma da Mônica Baby Jumbo M com 28 unid.",
       "posted_at": "2026-10-28T17:01:14.953366"
+    },
+    "eb5ccffe9f5b11a2": {
+      "title": "Fralda Descartável Cremer Magic Care Hiper M 68 Unidades",
+      "posted_at": "2026-10-28T17:50:48.730955"
+    },
+    "fa8ad63a48d25095": {
+      "title": "Fralda Descartável Cremer Magic Care Hiper G 60 Unidades",
+      "posted_at": "2026-10-28T17:51:01.040168"
     }
   },
   "results": [
@@ -36673,6 +36681,22 @@
       "post_id": "1892",
       "error": null,
       "at": "2026-10-28T17:01:14.952574"
+    },
+    {
+      "offer_id": "eb5ccffe9f5b11a2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1893",
+      "error": null,
+      "at": "2026-10-28T17:50:48.730232"
+    },
+    {
+      "offer_id": "fa8ad63a48d25095",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1894",
+      "error": null,
+      "at": "2026-10-28T17:51:01.039354"
     }
   ]
 }

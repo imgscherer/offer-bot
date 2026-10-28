@@ -1,5 +1,29 @@
 [
   {
+    "id": "fa8ad63a48d25095",
+    "title": "Fralda Descartável Cremer Magic Care Hiper G 60 Unidades",
+    "price_now": 45.75,
+    "price_was": 74.27,
+    "discount_pct": 38,
+    "url": "https://s.shopee.com.br/1BW720KNf?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/718125865617932089092365589895.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T17:51:01.039706"
+  },
+  {
+    "id": "eb5ccffe9f5b11a2",
+    "title": "Fralda Descartável Cremer Magic Care Hiper M 68 Unidades",
+    "price_now": 45.75,
+    "price_was": 74.27,
+    "discount_pct": 38,
+    "url": "https://s.shopee.com.br/5LD2Spg1fF?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/672626664717932089203667874426.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T17:50:48.730621"
+  },
+  {
     "id": "b4c030c4ca89f8d7",
     "title": "Fralda Turma da Mônica Baby Jumbo M com 28 unid.",
     "price_now": 15.43,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-28T12:52:03.287558"
-  },
-  {
-    "id": "d099257aee954022",
-    "title": "Fralda Pampers Confort Sec XG com 116",
-    "price_now": 113.0,
-    "price_was": 219.04,
-    "discount_pct": 48,
-    "url": "https://s.shopee.com.br/5AtbvzfuZM?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/539731668117931909709659539585.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T12:51:31.189950"
-  },
-  {
-    "id": "7848d3bef9828f5c",
-    "title": "Fralda Pampers Confort Sec M com 148",
-    "price_now": 113.0,
-    "price_was": 225.65,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/9pfRUZxH23?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/982979404217931909776179763227.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T12:51:12.054245"
   }
 ]
