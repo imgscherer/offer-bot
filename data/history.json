@@ -7495,6 +7495,14 @@
     "8ab6ebfadf83261d": {
       "title": "Kit 2 Fraldas Descartáveis Pampers Supersequinha Jumbo G - 160 Tiras",
       "posted_at": "2026-10-28T14:01:12.211895"
+    },
+    "ba08fdca346b4979": {
+      "title": "Kit de Limpeza de Mamadeira Buba, Portátil",
+      "posted_at": "2026-10-28T14:30:50.572659"
+    },
+    "f91384aa90e1e021": {
+      "title": "Creme Preventivo de Assaduras para Bebês Desitin Creamy 113g",
+      "posted_at": "2026-10-28T14:30:59.993700"
     }
   },
   "results": [
@@ -36553,6 +36561,22 @@
       "post_id": "1886",
       "error": null,
       "at": "2026-10-28T14:01:12.206251"
+    },
+    {
+      "offer_id": "ba08fdca346b4979",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1887",
+      "error": null,
+      "at": "2026-10-28T14:30:50.571957"
+    },
+    {
+      "offer_id": "f91384aa90e1e021",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1888",
+      "error": null,
+      "at": "2026-10-28T14:30:59.992924"
     }
   ]
 }

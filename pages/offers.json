@@ -1,5 +1,29 @@
 [
   {
+    "id": "f91384aa90e1e021",
+    "title": "Creme Preventivo de Assaduras para Bebês Desitin Creamy 113g",
+    "price_now": 57.0,
+    "price_was": 101.99,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B07DHSTTCN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/274283837817931968643059852085.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T14:30:59.993261"
+  },
+  {
+    "id": "ba08fdca346b4979",
+    "title": "Kit de Limpeza de Mamadeira Buba, Portátil",
+    "price_now": 58.0,
+    "price_was": 108.9,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B0DJG4SRZ2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/512437571217931969156128938842.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T14:30:50.572360"
+  },
+  {
     "id": "8ab6ebfadf83261d",
     "title": "Kit 2 Fraldas Descartáveis Pampers Supersequinha Jumbo G - 160 Tiras",
     "price_now": 151.33,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-28T12:10:45.688833"
-  },
-  {
-    "id": "7cdbfb772053d77c",
-    "title": "Carrinho Travel System Reverse",
-    "price_now": 455.9,
-    "price_was": 649.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B09BDZDSWY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/481699964517931861303317206677.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T11:31:01.012966"
-  },
-  {
-    "id": "7f73a43b6493d1fc",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidades",
-    "price_now": 32.68,
-    "price_was": 50.29,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/124165026817931865905396228266.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T11:30:51.568213"
   }
 ]
