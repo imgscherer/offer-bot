@@ -7555,6 +7555,18 @@
     "f122e4cd49a1f809": {
       "title": "Fralda Pampers Confort Sec XXXG 44 Unidades",
       "posted_at": "2026-10-28T19:00:57.884686"
+    },
+    "39000577e67955b9": {
+      "title": "Chupeta Funny Animais Silicone Anatômico Tamanho 2 lillo",
+      "posted_at": "2026-10-28T19:40:46.361082"
+    },
+    "81c7d475eeb9b92b": {
+      "title": "Copo de Treinamento Infantil com Alça e Bico de Silicone (4 Cores)",
+      "posted_at": "2026-10-28T19:40:56.649746"
+    },
+    "e0e8b7d323699cde": {
+      "title": "Copo de Treinamento Infantil com Alça e Bico de Silicone (4 Cores)",
+      "posted_at": "2026-10-28T19:41:09.826683"
     }
   },
   "results": [
@@ -36781,6 +36793,30 @@
       "post_id": "1901",
       "error": null,
       "at": "2026-10-28T19:00:57.884046"
+    },
+    {
+      "offer_id": "39000577e67955b9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1902",
+      "error": null,
+      "at": "2026-10-28T19:40:46.360432"
+    },
+    {
+      "offer_id": "81c7d475eeb9b92b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1903",
+      "error": null,
+      "at": "2026-10-28T19:40:56.648962"
+    },
+    {
+      "offer_id": "e0e8b7d323699cde",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1904",
+      "error": null,
+      "at": "2026-10-28T19:41:09.825889"
     }
   ]
 }
