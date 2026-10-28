@@ -1,5 +1,17 @@
 [
   {
+    "id": "ad22bc4167ef9ada",
+    "title": "Fralda Turma da Mônica Baby Jumbo RN com 36un",
+    "price_now": 15.12,
+    "price_was": 41.09,
+    "discount_pct": 63,
+    "url": "https://s.shopee.com.br/6L5YjYXwVU?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/465550126217931590106779770468.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T03:50:40.554859"
+  },
+  {
     "id": "d4024ccca10f6c82",
     "title": "Fralda Pampers Supersequinha G com 80 unidades",
     "price_now": 76.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-27T18:40:43.956166"
-  },
-  {
-    "id": "1684bfef3853db11",
-    "title": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
-    "price_now": 39.51,
-    "price_was": 59.99,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/781580266417931219718359150242.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-27T17:40:53.901209"
   }
 ]

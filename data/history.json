@@ -7443,6 +7443,10 @@
     "d4024ccca10f6c82": {
       "title": "Fralda Pampers Supersequinha G com 80 unidades",
       "posted_at": "2026-10-28T00:40:50.972592"
+    },
+    "ad22bc4167ef9ada": {
+      "title": "Fralda Turma da Mônica Baby Jumbo RN com 36un",
+      "posted_at": "2026-10-28T03:50:40.555107"
     }
   },
   "results": [
@@ -36381,6 +36385,14 @@
       "post_id": "1873",
       "error": null,
       "at": "2026-10-28T00:40:50.971853"
+    },
+    {
+      "offer_id": "ad22bc4167ef9ada",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1874",
+      "error": null,
+      "at": "2026-10-28T03:50:40.554590"
     }
   ]
 }
