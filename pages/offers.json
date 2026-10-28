@@ -1,5 +1,17 @@
 [
   {
+    "id": "bba389a220f80a89",
+    "title": "Fralda Pampers Confort Sec P 72 Unidades",
+    "price_now": 81.0,
+    "price_was": 118.1,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B095D5PSPG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/339023313517931894298791129482.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T12:20:49.932628"
+  },
+  {
     "id": "466b1b922b6b2305",
     "title": "Kit Portátil Para Limpeza De Mamadeira - Buba",
     "price_now": 56.59,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-27T20:50:49.028886"
-  },
-  {
-    "id": "f8b6a2fd42b6efec",
-    "title": "Fralda Huggies Supreme Care Pants G 60 unidades",
-    "price_now": 62.69,
-    "price_was": 113.25,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/372128139717931308526963841697.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-27T20:10:51.756712"
   }
 ]
