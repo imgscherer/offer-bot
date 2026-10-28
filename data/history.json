@@ -7567,6 +7567,10 @@
     "e0e8b7d323699cde": {
       "title": "Copo de Treinamento Infantil com Alça e Bico de Silicone (4 Cores)",
       "posted_at": "2026-10-28T19:41:09.826683"
+    },
+    "f9914850e3e18695": {
+      "title": "Babá Eletrônica 4.3\" Câmera para Bebês com Monitor TakTark",
+      "posted_at": "2026-10-28T22:20:48.520059"
     }
   },
   "results": [
@@ -36817,6 +36821,14 @@
       "post_id": "1904",
       "error": null,
       "at": "2026-10-28T19:41:09.825889"
+    },
+    {
+      "offer_id": "f9914850e3e18695",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1905",
+      "error": null,
+      "at": "2026-10-28T22:20:48.519361"
     }
   ]
 }
