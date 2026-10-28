@@ -1,5 +1,29 @@
 [
   {
+    "id": "8ab6ebfadf83261d",
+    "title": "Kit 2 Fraldas Descartáveis Pampers Supersequinha Jumbo G - 160 Tiras",
+    "price_now": 151.33,
+    "price_was": 293.07,
+    "discount_pct": 48,
+    "url": "https://s.shopee.com.br/1LgtRhQINc?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/477120553917931951207899237281.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T14:01:12.206505"
+  },
+  {
+    "id": "e06ac02d89164aec",
+    "title": "Buba Troninho Infantil Cinza",
+    "price_now": 34.0,
+    "price_was": 82.9,
+    "discount_pct": 59,
+    "url": "https://www.amazon.com.br/dp/B087NNJ55R?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/133369019217931956699288535775.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-28T14:00:57.425873"
+  },
+  {
     "id": "915ce52a68b3bede",
     "title": "Kit 2 Prendedores De Chupeta Coala Buba",
     "price_now": 19.53,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-28T11:30:51.568213"
-  },
-  {
-    "id": "ad22bc4167ef9ada",
-    "title": "Fralda Turma da Mônica Baby Jumbo RN com 36un",
-    "price_now": 15.12,
-    "price_was": 41.09,
-    "discount_pct": 63,
-    "url": "https://s.shopee.com.br/6L5YjYXwVU?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/465550126217931590106779770468.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T03:50:40.554859"
-  },
-  {
-    "id": "d4024ccca10f6c82",
-    "title": "Fralda Pampers Supersequinha G com 80 unidades",
-    "price_now": 76.0,
-    "price_was": 109.78,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/692051480717931471311920209056.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T00:40:50.972181"
   }
 ]

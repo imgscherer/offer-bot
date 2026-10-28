@@ -7487,6 +7487,14 @@
     "915ce52a68b3bede": {
       "title": "Kit 2 Prendedores De Chupeta Coala Buba",
       "posted_at": "2026-10-28T13:20:51.731164"
+    },
+    "e06ac02d89164aec": {
+      "title": "Buba Troninho Infantil Cinza",
+      "posted_at": "2026-10-28T14:00:57.426143"
+    },
+    "8ab6ebfadf83261d": {
+      "title": "Kit 2 Fraldas Descartáveis Pampers Supersequinha Jumbo G - 160 Tiras",
+      "posted_at": "2026-10-28T14:01:12.211895"
     }
   },
   "results": [
@@ -36529,6 +36537,22 @@
       "post_id": "1884",
       "error": null,
       "at": "2026-10-28T13:20:51.730325"
+    },
+    {
+      "offer_id": "e06ac02d89164aec",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1885",
+      "error": null,
+      "at": "2026-10-28T14:00:57.425539"
+    },
+    {
+      "offer_id": "8ab6ebfadf83261d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1886",
+      "error": null,
+      "at": "2026-10-28T14:01:12.206251"
     }
   ]
 }
