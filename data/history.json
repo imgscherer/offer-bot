@@ -7551,6 +7551,10 @@
     "38a109517cd9bd7f": {
       "title": "Fralda Pampers Confort Sec Jumbo Plus G com 128",
       "posted_at": "2026-10-28T18:51:08.860750"
+    },
+    "f122e4cd49a1f809": {
+      "title": "Fralda Pampers Confort Sec XXXG 44 Unidades",
+      "posted_at": "2026-10-28T19:00:57.884686"
     }
   },
   "results": [
@@ -36769,6 +36773,14 @@
       "post_id": "1900",
       "error": null,
       "at": "2026-10-28T18:51:08.860040"
+    },
+    {
+      "offer_id": "f122e4cd49a1f809",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1901",
+      "error": null,
+      "at": "2026-10-28T19:00:57.884046"
     }
   ]
 }
