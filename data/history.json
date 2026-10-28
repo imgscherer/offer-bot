@@ -7571,6 +7571,18 @@
     "f9914850e3e18695": {
       "title": "Babá Eletrônica 4.3\" Câmera para Bebês com Monitor TakTark",
       "posted_at": "2026-10-28T22:20:48.520059"
+    },
+    "fef4d96f98ebd425": {
+      "title": "kit 5 Saquinhos Organizador Maternidade Multiuso para Roupas e Fraldas Estampa Safari",
+      "posted_at": "2026-10-28T23:40:41.009221"
+    },
+    "da7af8e8ece917e7": {
+      "title": "kit 60 Mini pezinhos (30 pares) Chá de Fralda- bebe -saida de maternidade",
+      "posted_at": "2026-10-28T23:40:44.356679"
+    },
+    "41f89f6a9ee15630": {
+      "title": "Shorts Bebe Roupa Tapa Fralda Verão Com Punho 100% Algodão Menina Menino Calor P ao G",
+      "posted_at": "2026-10-28T23:40:47.263078"
     }
   },
   "results": [
@@ -36829,6 +36841,30 @@
       "post_id": "1905",
       "error": null,
       "at": "2026-10-28T22:20:48.519361"
+    },
+    {
+      "offer_id": "fef4d96f98ebd425",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1906",
+      "error": null,
+      "at": "2026-10-28T23:40:41.008544"
+    },
+    {
+      "offer_id": "da7af8e8ece917e7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1907",
+      "error": null,
+      "at": "2026-10-28T23:40:44.355922"
+    },
+    {
+      "offer_id": "41f89f6a9ee15630",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1908",
+      "error": null,
+      "at": "2026-10-28T23:40:47.262302"
     }
   ]
 }
