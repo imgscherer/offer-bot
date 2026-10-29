@@ -7707,6 +7707,10 @@
     "7d803e68765cffdd": {
       "title": "Kit 2 Calças Cargo Infantil Jogger (Tam.1 ao 8 Sortidas)",
       "posted_at": "2026-10-29T23:40:47.056839"
+    },
+    "5cd63905ab48f714": {
+      "title": "Fralda Huggies Supreme Care Pants G 60 unidades",
+      "posted_at": "2026-10-29T23:50:50.733976"
     }
   },
   "results": [
@@ -37397,6 +37401,14 @@
       "post_id": "1939",
       "error": null,
       "at": "2026-10-29T23:40:47.056292"
+    },
+    {
+      "offer_id": "5cd63905ab48f714",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1940",
+      "error": null,
+      "at": "2026-10-29T23:50:50.733225"
     }
   ]
 }

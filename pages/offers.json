@@ -1,5 +1,17 @@
 [
   {
+    "id": "5cd63905ab48f714",
+    "title": "Fralda Huggies Supreme Care Pants G 60 unidades",
+    "price_now": 62.0,
+    "price_was": 113.25,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/936979019217933171138192674213.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T23:50:50.733536"
+  },
+  {
     "id": "7d803e68765cffdd",
     "title": "Kit 2 Calças Cargo Infantil Jogger (Tam.1 ao 8 Sortidas)",
     "price_now": 79.2,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-29T19:20:43.084196"
-  },
-  {
-    "id": "4595d072fe286580",
-    "title": "Fralda Pampers Premium Care XXG 24 fraldas",
-    "price_now": 34.2,
-    "price_was": 71.67,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B07GQ12Z8L?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/638002421217933001165091852298.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T19:01:09.303958"
   }
 ]
