@@ -7587,6 +7587,10 @@
     "1259160dde5fb2b7": {
       "title": "Tapete de Atividades para Bebê ColorBaby",
       "posted_at": "2026-10-29T00:10:47.685235"
+    },
+    "a1e76ce9fa5b44af": {
+      "title": "Brinquedo Educativo Infantil Carrinho de Montar com Engrenagens 6 Peças Interativo para Crianças a Partir de 3 Anos",
+      "posted_at": "2026-10-29T10:10:39.241057"
     }
   },
   "results": [
@@ -36877,6 +36881,14 @@
       "post_id": "1909",
       "error": null,
       "at": "2026-10-29T00:10:47.684582"
+    },
+    {
+      "offer_id": "a1e76ce9fa5b44af",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1910",
+      "error": null,
+      "at": "2026-10-29T10:10:39.240488"
     }
   ]
 }
