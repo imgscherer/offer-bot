@@ -7647,6 +7647,14 @@
     "92a599400cf14d38": {
       "title": "Fralda Pom Pom Protek Proteção De Mãe Jumbo G 24 Unidades",
       "posted_at": "2026-10-29T18:31:12.612550"
+    },
+    "64444230ca0a59df": {
+      "title": "Cosco Kids, Carrinho de Bebê Toffy, Cinza Mescla",
+      "posted_at": "2026-10-29T18:50:48.248526"
+    },
+    "51d950e57682f7e0": {
+      "title": "Fralda Pom Pom Protek Proteção Mãe G 24 Unidades",
+      "posted_at": "2026-10-29T18:51:00.247159"
     }
   },
   "results": [
@@ -37217,6 +37225,22 @@
       "post_id": "1924",
       "error": null,
       "at": "2026-10-29T18:31:12.611819"
+    },
+    {
+      "offer_id": "64444230ca0a59df",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1925",
+      "error": null,
+      "at": "2026-10-29T18:50:48.247884"
+    },
+    {
+      "offer_id": "51d950e57682f7e0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1926",
+      "error": null,
+      "at": "2026-10-29T18:51:00.246400"
     }
   ]
 }
