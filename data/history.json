@@ -7691,6 +7691,14 @@
     "3017348122721ddf": {
       "title": "Conjunto Infantil Feminino Cavalo Country (Tam. 2 ao 16, Diversas cores)",
       "posted_at": "2026-10-29T21:00:56.201173"
+    },
+    "7071c1446db4ce33": {
+      "title": "Móbile Chocalho Para Carrinho e Berço Clip Maxi Baby Leão",
+      "posted_at": "2026-10-29T21:40:40.910468"
+    },
+    "9a5f1ba7ae1f4b25": {
+      "title": "Fralda Turma Da Mônica Baby Jumbo P 30 Unidades",
+      "posted_at": "2026-10-29T21:40:49.432245"
     }
   },
   "results": [
@@ -37349,6 +37357,22 @@
       "post_id": "1935",
       "error": null,
       "at": "2026-10-29T21:00:56.200475"
+    },
+    {
+      "offer_id": "7071c1446db4ce33",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1936",
+      "error": null,
+      "at": "2026-10-29T21:40:40.909894"
+    },
+    {
+      "offer_id": "9a5f1ba7ae1f4b25",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1937",
+      "error": null,
+      "at": "2026-10-29T21:40:49.431297"
     }
   ]
 }

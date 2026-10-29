@@ -1,5 +1,29 @@
 [
   {
+    "id": "9a5f1ba7ae1f4b25",
+    "title": "Fralda Turma Da Mônica Baby Jumbo P 30 Unidades",
+    "price_now": 18.89,
+    "price_was": 28.68,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KTC5VJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/332871836917933091736065765549.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T21:40:49.431574"
+  },
+  {
+    "id": "7071c1446db4ce33",
+    "title": "Móbile Chocalho Para Carrinho e Berço Clip Maxi Baby Leão",
+    "price_now": 39.91,
+    "price_was": 60.79,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0GML3C2MC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/178697817017933094724271554497.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T21:40:40.910187"
+  },
+  {
     "id": "3017348122721ddf",
     "title": "Conjunto Infantil Feminino Cavalo Country (Tam. 2 ao 16, Diversas cores)",
     "price_now": 44.84,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-29T18:51:00.246714"
-  },
-  {
-    "id": "64444230ca0a59df",
-    "title": "Cosco Kids, Carrinho de Bebê Toffy, Cinza Mescla",
-    "price_now": 215.94,
-    "price_was": 659.0,
-    "discount_pct": 67,
-    "url": "https://www.amazon.com.br/dp/B0CCG9KL19?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/812505994817932990415198935539.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T18:50:48.248220"
-  },
-  {
-    "id": "92a599400cf14d38",
-    "title": "Fralda Pom Pom Protek Proteção De Mãe Jumbo G 24 Unidades",
-    "price_now": 13.06,
-    "price_was": 30.17,
-    "discount_pct": 57,
-    "url": "https://www.amazon.com.br/dp/B093G7WGYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/138939235817932984635341078684.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T18:31:12.612120"
   }
 ]
