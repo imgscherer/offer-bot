@@ -7639,6 +7639,14 @@
     "9c89c16f84c934a4": {
       "title": "Cadeira de Descanso Bebê Musical Polar Bege 18kgs Maxi Baby",
       "posted_at": "2026-10-29T18:20:43.491293"
+    },
+    "1fa0c7f301bf906d": {
+      "title": "Fralda Pampers Premium Care Tamanho XXG 24 Unidades",
+      "posted_at": "2026-10-29T18:30:59.839884"
+    },
+    "92a599400cf14d38": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe Jumbo G 24 Unidades",
+      "posted_at": "2026-10-29T18:31:12.612550"
     }
   },
   "results": [
@@ -37193,6 +37201,22 @@
       "post_id": "1922",
       "error": null,
       "at": "2026-10-29T18:20:43.490618"
+    },
+    {
+      "offer_id": "1fa0c7f301bf906d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1923",
+      "error": null,
+      "at": "2026-10-29T18:30:59.839095"
+    },
+    {
+      "offer_id": "92a599400cf14d38",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1924",
+      "error": null,
+      "at": "2026-10-29T18:31:12.611819"
     }
   ]
 }

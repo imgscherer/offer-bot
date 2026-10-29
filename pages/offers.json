@@ -1,5 +1,29 @@
 [
   {
+    "id": "92a599400cf14d38",
+    "title": "Fralda Pom Pom Protek Proteção De Mãe Jumbo G 24 Unidades",
+    "price_now": 13.06,
+    "price_was": 30.17,
+    "discount_pct": 57,
+    "url": "https://www.amazon.com.br/dp/B093G7WGYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/138939235817932984635341078684.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T18:31:12.612120"
+  },
+  {
+    "id": "1fa0c7f301bf906d",
+    "title": "Fralda Pampers Premium Care Tamanho XXG 24 Unidades",
+    "price_now": 28.5,
+    "price_was": 71.67,
+    "discount_pct": 60,
+    "url": "https://www.amazon.com.br/dp/B07GQ12Z8L?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/193447925917932984473484999379.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T18:30:59.839401"
+  },
+  {
     "id": "9c89c16f84c934a4",
     "title": "Cadeira de Descanso Bebê Musical Polar Bege 18kgs Maxi Baby",
     "price_now": 188.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-29T11:10:44.599398"
-  },
-  {
-    "id": "f865f57070009ea0",
-    "title": "Fralda Pants Huggies Supreme Care G 70 Unidades",
-    "price_now": 62.0,
-    "price_was": 113.25,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/650722814617932697659594851133.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T10:40:49.855240"
-  },
-  {
-    "id": "74df6d5f49eef9bc",
-    "title": "Carrinho de Bebê Passeio Compacto Reclinável Dobravel World Baby",
-    "price_now": 805.38,
-    "price_was": 1299.0,
-    "discount_pct": 38,
-    "url": "https://s.shopee.com.br/3g4pbVdNiu",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mrrr8uvr8umcdf",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T10:30:47.102516"
   }
 ]
