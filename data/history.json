@@ -7611,6 +7611,10 @@
     "2f6129fbebe53152": {
       "title": "Fralda Babysec Premium Hiper XG 56 Unidades",
       "posted_at": "2026-10-29T11:50:49.398375"
+    },
+    "428da63eef8cba4b": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
+      "posted_at": "2026-10-29T13:20:53.614784"
     }
   },
   "results": [
@@ -37053,6 +37057,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-10-29T12:50:49.406187"
+    },
+    {
+      "offer_id": "428da63eef8cba4b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1916",
+      "error": null,
+      "at": "2026-10-29T13:20:53.613906"
     }
   ]
 }
