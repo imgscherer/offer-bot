@@ -1,5 +1,29 @@
 [
   {
+    "id": "7ade5c8c4d8a4131",
+    "title": "Lenço Umedecido Turminha da Bagunça 5 Pacotes 48 Unidades cada",
+    "price_now": 19.0,
+    "price_was": 32.77,
+    "discount_pct": 42,
+    "url": "https://s.shopee.com.br/AAIJo4kC3g?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/746484053817932948466010169250.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T17:31:04.003965"
+  },
+  {
+    "id": "a8ff65332bae445c",
+    "title": "Mili Fralda Ultra Seca Jumbinho M 1x22",
+    "price_now": 17.66,
+    "price_was": 33.22,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B07G9RQHY7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/290203460017932947298435310358.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T17:30:50.503676"
+  },
+  {
     "id": "f0bef9957126def4",
     "title": "Cadeira de Alimentação Bebê Kidino com Bandeja Removível",
     "price_now": 103.0,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-29T10:10:39.240804"
-  },
-  {
-    "id": "1259160dde5fb2b7",
-    "title": "Tapete de Atividades para Bebê ColorBaby",
-    "price_now": 51.99,
-    "price_was": 151.14,
-    "discount_pct": 66,
-    "url": "https://s.shopee.com.br/906LG9Hv3w?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/561390787517932321315535727103.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T00:10:47.684909"
-  },
-  {
-    "id": "41f89f6a9ee15630",
-    "title": "Shorts Bebe Roupa Tapa Fralda Verão Com Punho 100% Algodão Menina Menino Calor P ao G",
-    "price_now": 14.42,
-    "price_was": 20.9,
-    "discount_pct": 31,
-    "url": "https://s.shopee.com.br/2BG166WQJ1",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma0ai4q06haaad",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T23:40:47.262642"
   }
 ]
