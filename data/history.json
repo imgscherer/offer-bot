@@ -7663,6 +7663,14 @@
     "4595d072fe286580": {
       "title": "Fralda Pampers Premium Care XXG 24 fraldas",
       "posted_at": "2026-10-29T19:01:09.304396"
+    },
+    "d27bbd34b01744e0": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe XXG com 18",
+      "posted_at": "2026-10-29T19:20:43.084472"
+    },
+    "fb5eaa1d10d16f72": {
+      "title": "Bebê Conforto Wizz 0 À 13kg Cosco",
+      "posted_at": "2026-10-29T19:20:55.239189"
     }
   },
   "results": [
@@ -37265,6 +37273,22 @@
       "post_id": "1928",
       "error": null,
       "at": "2026-10-29T19:01:09.303616"
+    },
+    {
+      "offer_id": "d27bbd34b01744e0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1929",
+      "error": null,
+      "at": "2026-10-29T19:20:43.083922"
+    },
+    {
+      "offer_id": "fb5eaa1d10d16f72",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1930",
+      "error": null,
+      "at": "2026-10-29T19:20:55.238351"
     }
   ]
 }

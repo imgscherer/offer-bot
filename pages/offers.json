@@ -1,5 +1,29 @@
 [
   {
+    "id": "fb5eaa1d10d16f72",
+    "title": "Bebê Conforto Wizz 0 À 13kg Cosco",
+    "price_now": 161.51,
+    "price_was": 299.07,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B09WG3HDT7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/984098732417933008924705414518.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T19:20:55.238706"
+  },
+  {
+    "id": "d27bbd34b01744e0",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe XXG com 18",
+    "price_now": 13.0,
+    "price_was": 30.17,
+    "discount_pct": 57,
+    "url": "https://www.amazon.com.br/dp/B093GD56WR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/661053062417933005328196550524.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T19:20:43.084196"
+  },
+  {
     "id": "4595d072fe286580",
     "title": "Fralda Pampers Premium Care XXG 24 fraldas",
     "price_now": 34.2,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-29T16:00:58.398481"
-  },
-  {
-    "id": "b19d02f675136101",
-    "title": "Sabonete Líquido Bebê Glicerina 400ml Baruel Baby",
-    "price_now": 15.0,
-    "price_was": 22.69,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B095D664HJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/958733928217932834295159445732.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T14:30:47.650140"
-  },
-  {
-    "id": "f9e10682b00c414a",
-    "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil 380ml",
-    "price_now": 13.0,
-    "price_was": 25.55,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B08JQND4NB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/978833785217932803818036310750.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T13:40:41.554027"
   }
 ]
