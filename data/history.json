@@ -7675,6 +7675,14 @@
     "f55696383d2657ed": {
       "title": "Bebê Conforto Cosco Kids, Wizz, 0 a 13kg, Preto",
       "posted_at": "2026-10-29T19:30:47.247275"
+    },
+    "673db1e83081aee9": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo G 24 Unidades",
+      "posted_at": "2026-10-29T19:40:47.352974"
+    },
+    "534d9f2cca80e826": {
+      "title": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
+      "posted_at": "2026-10-29T19:40:55.611178"
     }
   },
   "results": [
@@ -37301,6 +37309,22 @@
       "post_id": "1931",
       "error": null,
       "at": "2026-10-29T19:30:47.246536"
+    },
+    {
+      "offer_id": "673db1e83081aee9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1932",
+      "error": null,
+      "at": "2026-10-29T19:40:47.352394"
+    },
+    {
+      "offer_id": "534d9f2cca80e826",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1933",
+      "error": null,
+      "at": "2026-10-29T19:40:55.610101"
     }
   ]
 }

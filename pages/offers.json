@@ -1,5 +1,29 @@
 [
   {
+    "id": "534d9f2cca80e826",
+    "title": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
+    "price_now": 17.0,
+    "price_was": 28.68,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B099KTC5VJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/140387597217933022179060573766.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T19:40:55.610362"
+  },
+  {
+    "id": "673db1e83081aee9",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo G 24 Unidades",
+    "price_now": 14.39,
+    "price_was": 30.17,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B093G7WGYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/574012399617933017891150643234.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T19:40:47.352694"
+  },
+  {
     "id": "f55696383d2657ed",
     "title": "Bebê Conforto Cosco Kids, Wizz, 0 a 13kg, Preto",
     "price_now": 161.51,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-29T18:20:43.490981"
-  },
-  {
-    "id": "7ade5c8c4d8a4131",
-    "title": "Lenço Umedecido Turminha da Bagunça 5 Pacotes 48 Unidades cada",
-    "price_now": 19.0,
-    "price_was": 32.77,
-    "discount_pct": 42,
-    "url": "https://s.shopee.com.br/AAIJo4kC3g?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/746484053817932948466010169250.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T17:31:04.003965"
-  },
-  {
-    "id": "a8ff65332bae445c",
-    "title": "Mili Fralda Ultra Seca Jumbinho M 1x22",
-    "price_now": 17.66,
-    "price_was": 33.22,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B07G9RQHY7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/290203460017932947298435310358.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T17:30:50.503676"
   }
 ]
