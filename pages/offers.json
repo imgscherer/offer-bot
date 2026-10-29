@@ -1,5 +1,17 @@
 [
   {
+    "id": "96ac5f9aa1c4a874",
+    "title": "Carrinho de Bebê Zap Burigotto",
+    "price_now": 478.0,
+    "price_was": 929.0,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B0C4VJ5DCQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/938954228317933034692554592447.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T20:00:48.527130"
+  },
+  {
     "id": "534d9f2cca80e826",
     "title": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
     "price_now": 17.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-29T18:30:59.839401"
-  },
-  {
-    "id": "9c89c16f84c934a4",
-    "title": "Cadeira de Descanso Bebê Musical Polar Bege 18kgs Maxi Baby",
-    "price_now": 188.0,
-    "price_was": 399.0,
-    "discount_pct": 53,
-    "url": "https://www.amazon.com.br/dp/B0CHZCH5VL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/385309042217932974944108215318.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T18:20:43.490981"
   }
 ]

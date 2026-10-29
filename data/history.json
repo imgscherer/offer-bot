@@ -7683,6 +7683,10 @@
     "534d9f2cca80e826": {
       "title": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
       "posted_at": "2026-10-29T19:40:55.611178"
+    },
+    "96ac5f9aa1c4a874": {
+      "title": "Carrinho de Bebê Zap Burigotto",
+      "posted_at": "2026-10-29T20:00:48.527391"
     }
   },
   "results": [
@@ -37325,6 +37329,14 @@
       "post_id": "1933",
       "error": null,
       "at": "2026-10-29T19:40:55.610101"
+    },
+    {
+      "offer_id": "96ac5f9aa1c4a874",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1934",
+      "error": null,
+      "at": "2026-10-29T20:00:48.526829"
     }
   ]
 }
