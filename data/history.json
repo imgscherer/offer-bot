@@ -7687,6 +7687,10 @@
     "96ac5f9aa1c4a874": {
       "title": "Carrinho de Bebê Zap Burigotto",
       "posted_at": "2026-10-29T20:00:48.527391"
+    },
+    "3017348122721ddf": {
+      "title": "Conjunto Infantil Feminino Cavalo Country (Tam. 2 ao 16, Diversas cores)",
+      "posted_at": "2026-10-29T21:00:56.201173"
     }
   },
   "results": [
@@ -37337,6 +37341,14 @@
       "post_id": "1934",
       "error": null,
       "at": "2026-10-29T20:00:48.526829"
+    },
+    {
+      "offer_id": "3017348122721ddf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1935",
+      "error": null,
+      "at": "2026-10-29T21:00:56.200475"
     }
   ]
 }
