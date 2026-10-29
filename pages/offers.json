@@ -1,5 +1,17 @@
 [
   {
+    "id": "f55696383d2657ed",
+    "title": "Bebê Conforto Cosco Kids, Wizz, 0 a 13kg, Preto",
+    "price_now": 161.51,
+    "price_was": 299.07,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B09WG3HDT7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/775229977417933014276055334699.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T19:30:47.246875"
+  },
+  {
     "id": "fb5eaa1d10d16f72",
     "title": "Bebê Conforto Wizz 0 À 13kg Cosco",
     "price_now": 161.51,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-29T17:30:50.503676"
-  },
-  {
-    "id": "f0bef9957126def4",
-    "title": "Cadeira de Alimentação Bebê Kidino com Bandeja Removível",
-    "price_now": 103.0,
-    "price_was": 189.9,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B0H311V8QJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/637751344917932893706033106166.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T16:00:58.398481"
   }
 ]

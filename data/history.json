@@ -7671,6 +7671,10 @@
     "fb5eaa1d10d16f72": {
       "title": "Bebê Conforto Wizz 0 À 13kg Cosco",
       "posted_at": "2026-10-29T19:20:55.239189"
+    },
+    "f55696383d2657ed": {
+      "title": "Bebê Conforto Cosco Kids, Wizz, 0 a 13kg, Preto",
+      "posted_at": "2026-10-29T19:30:47.247275"
     }
   },
   "results": [
@@ -37289,6 +37293,14 @@
       "post_id": "1930",
       "error": null,
       "at": "2026-10-29T19:20:55.238351"
+    },
+    {
+      "offer_id": "f55696383d2657ed",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1931",
+      "error": null,
+      "at": "2026-10-29T19:30:47.246536"
     }
   ]
 }
