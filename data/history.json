@@ -7595,6 +7595,10 @@
     "74df6d5f49eef9bc": {
       "title": "Carrinho de Bebê Passeio Compacto Reclinável Dobravel World Baby",
       "posted_at": "2026-10-29T10:30:47.102828"
+    },
+    "f865f57070009ea0": {
+      "title": "Fralda Pants Huggies Supreme Care G 70 Unidades",
+      "posted_at": "2026-10-29T10:40:49.855417"
     }
   },
   "results": [
@@ -36901,6 +36905,14 @@
       "post_id": "1911",
       "error": null,
       "at": "2026-10-29T10:30:47.102130"
+    },
+    {
+      "offer_id": "f865f57070009ea0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1912",
+      "error": null,
+      "at": "2026-10-29T10:40:49.855043"
     }
   ]
 }
