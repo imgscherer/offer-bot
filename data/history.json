@@ -7615,6 +7615,10 @@
     "428da63eef8cba4b": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
       "posted_at": "2026-10-29T13:20:53.614784"
+    },
+    "f9e10682b00c414a": {
+      "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil 380ml",
+      "posted_at": "2026-10-29T13:40:41.554297"
     }
   },
   "results": [
@@ -37065,6 +37069,14 @@
       "post_id": "1916",
       "error": null,
       "at": "2026-10-29T13:20:53.613906"
+    },
+    {
+      "offer_id": "f9e10682b00c414a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1917",
+      "error": null,
+      "at": "2026-10-29T13:40:41.553757"
     }
   ]
 }
