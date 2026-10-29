@@ -7619,6 +7619,10 @@
     "f9e10682b00c414a": {
       "title": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil 380ml",
       "posted_at": "2026-10-29T13:40:41.554297"
+    },
+    "b19d02f675136101": {
+      "title": "Sabonete Líquido Bebê Glicerina 400ml Baruel Baby",
+      "posted_at": "2026-10-29T14:30:47.650481"
     }
   },
   "results": [
@@ -37077,6 +37081,14 @@
       "post_id": "1917",
       "error": null,
       "at": "2026-10-29T13:40:41.553757"
+    },
+    {
+      "offer_id": "b19d02f675136101",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1918",
+      "error": null,
+      "at": "2026-10-29T14:30:47.649756"
     }
   ]
 }
