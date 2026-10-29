@@ -1,5 +1,17 @@
 [
   {
+    "id": "89faab58fb74e500",
+    "title": "Fralda Babysec Premium G 60 unidades",
+    "price_now": 56.24,
+    "price_was": 85.2,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0CCDZ9XBJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/930020537417932716545637236683.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T11:10:44.599398"
+  },
+  {
     "id": "f865f57070009ea0",
     "title": "Fralda Pants Huggies Supreme Care G 70 Unidades",
     "price_now": 62.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-28T19:40:46.360786"
-  },
-  {
-    "id": "f122e4cd49a1f809",
-    "title": "Fralda Pampers Confort Sec XXXG 44 Unidades",
-    "price_now": 73.0,
-    "price_was": 115.9,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0CRBGH3JC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/386151637317932135337535477132.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T19:00:57.884407"
   }
 ]

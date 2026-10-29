@@ -7599,6 +7599,10 @@
     "f865f57070009ea0": {
       "title": "Fralda Pants Huggies Supreme Care G 70 Unidades",
       "posted_at": "2026-10-29T10:40:49.855417"
+    },
+    "89faab58fb74e500": {
+      "title": "Fralda Babysec Premium G 60 unidades",
+      "posted_at": "2026-10-29T11:10:44.599753"
     }
   },
   "results": [
@@ -36913,6 +36917,14 @@
       "post_id": "1912",
       "error": null,
       "at": "2026-10-29T10:40:49.855043"
+    },
+    {
+      "offer_id": "89faab58fb74e500",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1913",
+      "error": null,
+      "at": "2026-10-29T11:10:44.599080"
     }
   ]
 }
