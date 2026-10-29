@@ -7583,6 +7583,10 @@
     "41f89f6a9ee15630": {
       "title": "Shorts Bebe Roupa Tapa Fralda Verão Com Punho 100% Algodão Menina Menino Calor P ao G",
       "posted_at": "2026-10-28T23:40:47.263078"
+    },
+    "1259160dde5fb2b7": {
+      "title": "Tapete de Atividades para Bebê ColorBaby",
+      "posted_at": "2026-10-29T00:10:47.685235"
     }
   },
   "results": [
@@ -36865,6 +36869,14 @@
       "post_id": "1908",
       "error": null,
       "at": "2026-10-28T23:40:47.262302"
+    },
+    {
+      "offer_id": "1259160dde5fb2b7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1909",
+      "error": null,
+      "at": "2026-10-29T00:10:47.684582"
     }
   ]
 }
