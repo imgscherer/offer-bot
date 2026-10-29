@@ -7703,6 +7703,10 @@
     "00b8c3f7dc02fe2c": {
       "title": "Fralda Turma da Mônica Baby Shortinho Jumbinho XG 12 Unidades",
       "posted_at": "2026-10-29T22:00:55.702243"
+    },
+    "7d803e68765cffdd": {
+      "title": "Kit 2 Calças Cargo Infantil Jogger (Tam.1 ao 8 Sortidas)",
+      "posted_at": "2026-10-29T23:40:47.056839"
     }
   },
   "results": [
@@ -37385,6 +37389,14 @@
       "post_id": "1938",
       "error": null,
       "at": "2026-10-29T22:00:55.701663"
+    },
+    {
+      "offer_id": "7d803e68765cffdd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1939",
+      "error": null,
+      "at": "2026-10-29T23:40:47.056292"
     }
   ]
 }
