@@ -7699,6 +7699,10 @@
     "9a5f1ba7ae1f4b25": {
       "title": "Fralda Turma Da Mônica Baby Jumbo P 30 Unidades",
       "posted_at": "2026-10-29T21:40:49.432245"
+    },
+    "00b8c3f7dc02fe2c": {
+      "title": "Fralda Turma da Mônica Baby Shortinho Jumbinho XG 12 Unidades",
+      "posted_at": "2026-10-29T22:00:55.702243"
     }
   },
   "results": [
@@ -37373,6 +37377,14 @@
       "post_id": "1937",
       "error": null,
       "at": "2026-10-29T21:40:49.431297"
+    },
+    {
+      "offer_id": "00b8c3f7dc02fe2c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1938",
+      "error": null,
+      "at": "2026-10-29T22:00:55.701663"
     }
   ]
 }

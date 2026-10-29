@@ -1,5 +1,17 @@
 [
   {
+    "id": "00b8c3f7dc02fe2c",
+    "title": "Fralda Turma da Mônica Baby Shortinho Jumbinho XG 12 Unidades",
+    "price_now": 20.95,
+    "price_was": 30.99,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BG5XF3L2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/413390960917933109878762531069.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T22:00:55.701975"
+  },
+  {
     "id": "9a5f1ba7ae1f4b25",
     "title": "Fralda Turma Da Mônica Baby Jumbo P 30 Unidades",
     "price_now": 18.89,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-29T19:00:56.558898"
-  },
-  {
-    "id": "51d950e57682f7e0",
-    "title": "Fralda Pom Pom Protek Proteção Mãe G 24 Unidades",
-    "price_now": 13.0,
-    "price_was": 30.17,
-    "discount_pct": 57,
-    "url": "https://www.amazon.com.br/dp/B093G7WGYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/277398479117932986784275013240.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T18:51:00.246714"
   }
 ]
