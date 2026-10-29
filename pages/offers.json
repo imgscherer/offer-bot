@@ -1,5 +1,17 @@
 [
   {
+    "id": "74df6d5f49eef9bc",
+    "title": "Carrinho de Bebê Passeio Compacto Reclinável Dobravel World Baby",
+    "price_now": 805.38,
+    "price_was": 1299.0,
+    "discount_pct": 38,
+    "url": "https://s.shopee.com.br/3g4pbVdNiu",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mrrr8uvr8umcdf",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T10:30:47.102516"
+  },
+  {
     "id": "a1e76ce9fa5b44af",
     "title": "Brinquedo Educativo Infantil Carrinho de Montar com Engrenagens 6 Peças Interativo para Crianças a Partir de 3 Anos",
     "price_now": 29.95,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-28T18:51:08.860288"
-  },
-  {
-    "id": "53bf8d122c54d578",
-    "title": "Calça Infantil Jogger Jeans Sarja (TAm. 4 ao 16, Diversas cores)",
-    "price_now": 57.52,
-    "price_was": 140.98,
-    "discount_pct": 59,
-    "url": "https://s.shopee.com.br/4fxLkclHaZ?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/460329808717932132939068815125.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T18:50:51.207954"
   }
 ]

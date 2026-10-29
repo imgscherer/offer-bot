@@ -7591,6 +7591,10 @@
     "a1e76ce9fa5b44af": {
       "title": "Brinquedo Educativo Infantil Carrinho de Montar com Engrenagens 6 Peças Interativo para Crianças a Partir de 3 Anos",
       "posted_at": "2026-10-29T10:10:39.241057"
+    },
+    "74df6d5f49eef9bc": {
+      "title": "Carrinho de Bebê Passeio Compacto Reclinável Dobravel World Baby",
+      "posted_at": "2026-10-29T10:30:47.102828"
     }
   },
   "results": [
@@ -36889,6 +36893,14 @@
       "post_id": "1910",
       "error": null,
       "at": "2026-10-29T10:10:39.240488"
+    },
+    {
+      "offer_id": "74df6d5f49eef9bc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1911",
+      "error": null,
+      "at": "2026-10-29T10:30:47.102130"
     }
   ]
 }
