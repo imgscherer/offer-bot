@@ -7623,6 +7623,10 @@
     "b19d02f675136101": {
       "title": "Sabonete Líquido Bebê Glicerina 400ml Baruel Baby",
       "posted_at": "2026-10-29T14:30:47.650481"
+    },
+    "f0bef9957126def4": {
+      "title": "Cadeira de Alimentação Bebê Kidino com Bandeja Removível",
+      "posted_at": "2026-10-29T16:00:58.398760"
     }
   },
   "results": [
@@ -37089,6 +37093,14 @@
       "post_id": "1918",
       "error": null,
       "at": "2026-10-29T14:30:47.649756"
+    },
+    {
+      "offer_id": "f0bef9957126def4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1919",
+      "error": null,
+      "at": "2026-10-29T16:00:58.398202"
     }
   ]
 }

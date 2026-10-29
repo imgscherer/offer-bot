@@ -1,5 +1,17 @@
 [
   {
+    "id": "f0bef9957126def4",
+    "title": "Cadeira de Alimentação Bebê Kidino com Bandeja Removível",
+    "price_now": 103.0,
+    "price_was": 189.9,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B0H311V8QJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/637751344917932893706033106166.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T16:00:58.398481"
+  },
+  {
     "id": "b19d02f675136101",
     "title": "Sabonete Líquido Bebê Glicerina 400ml Baruel Baby",
     "price_now": 15.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-28T23:40:47.262642"
-  },
-  {
-    "id": "da7af8e8ece917e7",
-    "title": "kit 60 Mini pezinhos (30 pares) Chá de Fralda- bebe -saida de maternidade",
-    "price_now": 54.0,
-    "price_was": 90.0,
-    "discount_pct": 40,
-    "url": "https://s.shopee.com.br/4qGmH0MGtn",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mpdyi9axm6meba",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-28T23:40:44.356235"
   }
 ]
