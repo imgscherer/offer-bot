@@ -1,5 +1,29 @@
 [
   {
+    "id": "4595d072fe286580",
+    "title": "Fralda Pampers Premium Care XXG 24 fraldas",
+    "price_now": 34.2,
+    "price_was": 71.67,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B07GQ12Z8L?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/638002421217933001165091852298.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T19:01:09.303958"
+  },
+  {
+    "id": "a83102b5261a98a8",
+    "title": "Carrinho de Bebê Toffy Cosco Cinza Mescla",
+    "price_now": 239.93,
+    "price_was": 659.0,
+    "discount_pct": 64,
+    "url": "https://www.amazon.com.br/dp/B0CCG9KL19?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/303570162017933001142552928423.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-29T19:00:56.558898"
+  },
+  {
     "id": "51d950e57682f7e0",
     "title": "Fralda Pom Pom Protek Proteção Mãe G 24 Unidades",
     "price_now": 13.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-29T13:40:41.554027"
-  },
-  {
-    "id": "428da63eef8cba4b",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
-    "price_now": 35.0,
-    "price_was": 50.29,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/670859914417932791759783245217.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T13:20:53.614260"
-  },
-  {
-    "id": "2f6129fbebe53152",
-    "title": "Fralda Babysec Premium Hiper XG 56 Unidades",
-    "price_now": 56.0,
-    "price_was": 85.2,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0CCF1WTB1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/652602362817932740159082301681.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T11:50:49.397918"
   }
 ]
