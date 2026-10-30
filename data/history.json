@@ -7815,6 +7815,10 @@
     "4fb1e460e764f8c7": {
       "title": "Hidratante Granado Bebê Tradicional 120ml",
       "posted_at": "2026-10-30T16:10:41.359553"
+    },
+    "9222219aee36cd6a": {
+      "title": "Kit com 3 Body Bebê Em Ribana Hering Kids",
+      "posted_at": "2026-10-30T17:00:52.366431"
     }
   },
   "results": [
@@ -38145,6 +38149,14 @@
       "post_id": "1966",
       "error": null,
       "at": "2026-10-30T16:10:41.358848"
+    },
+    {
+      "offer_id": "9222219aee36cd6a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1967",
+      "error": null,
+      "at": "2026-10-30T17:00:52.365899"
     }
   ]
 }
