@@ -1,5 +1,53 @@
 [
   {
+    "id": "64f0cd9da3af27d1",
+    "title": "MamyPoko Fralda-Calça Superproteção XXG com 22 Unidades",
+    "price_now": 26.0,
+    "price_was": 46.9,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/724245209617933602937658648622.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T11:51:58.388413"
+  },
+  {
+    "id": "42f32f0d66f7afa4",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus XG com 116",
+    "price_now": 118.0,
+    "price_was": 217.25,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/7puQEh4PuM?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/241457766517933602927737993528.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T11:51:31.728189"
+  },
+  {
+    "id": "b20102a4368d7ff4",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus G com 128",
+    "price_now": 118.0,
+    "price_was": 217.25,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/gRFhWeQix?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/265149935517933602963729548677.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T11:51:08.601034"
+  },
+  {
+    "id": "b2cae497e9b00063",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148",
+    "price_now": 118.0,
+    "price_was": 227.12,
+    "discount_pct": 48,
+    "url": "https://s.shopee.com.br/2gCK5CbHhO?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/821134722317933602995102125287.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T11:50:57.307743"
+  },
+  {
     "id": "962bb6cc41575e1f",
     "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo M 28",
     "price_now": 20.0,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-29T22:00:55.701975"
-  },
-  {
-    "id": "9a5f1ba7ae1f4b25",
-    "title": "Fralda Turma Da Mônica Baby Jumbo P 30 Unidades",
-    "price_now": 18.89,
-    "price_was": 28.68,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KTC5VJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/332871836917933091736065765549.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T21:40:49.431574"
-  },
-  {
-    "id": "7071c1446db4ce33",
-    "title": "Móbile Chocalho Para Carrinho e Berço Clip Maxi Baby Leão",
-    "price_now": 39.91,
-    "price_was": 60.79,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0GML3C2MC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/178697817017933094724271554497.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T21:40:40.910187"
-  },
-  {
-    "id": "3017348122721ddf",
-    "title": "Conjunto Infantil Feminino Cavalo Country (Tam. 2 ao 16, Diversas cores)",
-    "price_now": 44.84,
-    "price_was": 89.9,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/7VHYrac7Sp?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/805756141317933074403778982335.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T21:00:56.200837"
-  },
-  {
-    "id": "96ac5f9aa1c4a874",
-    "title": "Carrinho de Bebê Zap Burigotto",
-    "price_now": 478.0,
-    "price_was": 929.0,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B0C4VJ5DCQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/938954228317933034692554592447.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T20:00:48.527130"
   }
 ]

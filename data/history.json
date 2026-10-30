@@ -7731,6 +7731,22 @@
     "962bb6cc41575e1f": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo M 28",
       "posted_at": "2026-10-30T11:31:25.279833"
+    },
+    "b2cae497e9b00063": {
+      "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148",
+      "posted_at": "2026-10-30T11:50:57.308192"
+    },
+    "b20102a4368d7ff4": {
+      "title": "Fralda Pampers Confort Sec Jumbo Plus G com 128",
+      "posted_at": "2026-10-30T11:51:08.601479"
+    },
+    "42f32f0d66f7afa4": {
+      "title": "Fralda Pampers Confort Sec Jumbo Plus XG com 116",
+      "posted_at": "2026-10-30T11:51:31.728670"
+    },
+    "64f0cd9da3af27d1": {
+      "title": "MamyPoko Fralda-Calça Superproteção XXG com 22 Unidades",
+      "posted_at": "2026-10-30T11:51:58.389549"
     }
   },
   "results": [
@@ -37861,6 +37877,46 @@
       "post_id": "1945",
       "error": null,
       "at": "2026-10-30T11:31:25.279005"
+    },
+    {
+      "offer_id": "b2cae497e9b00063",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1946",
+      "error": null,
+      "at": "2026-10-30T11:50:57.307234"
+    },
+    {
+      "offer_id": "b20102a4368d7ff4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1947",
+      "error": null,
+      "at": "2026-10-30T11:51:08.600719"
+    },
+    {
+      "offer_id": "42f32f0d66f7afa4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1948",
+      "error": null,
+      "at": "2026-10-30T11:51:31.727881"
+    },
+    {
+      "offer_id": "0ab71a8dba3a94f4",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-30T11:51:49.799069"
+    },
+    {
+      "offer_id": "64f0cd9da3af27d1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1949",
+      "error": null,
+      "at": "2026-10-30T11:51:58.388093"
     }
   ]
 }
