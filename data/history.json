@@ -7803,6 +7803,10 @@
     "0899d0a8da8fdd52": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XXG 18 Unidades",
       "posted_at": "2026-10-30T14:50:45.700015"
+    },
+    "4cf3897bd5f4afab": {
+      "title": "Sapatilha Infantil (25 ao 34, Diversas cores)",
+      "posted_at": "2026-10-30T15:40:46.781843"
     }
   },
   "results": [
@@ -38109,6 +38113,14 @@
       "post_id": "1963",
       "error": null,
       "at": "2026-10-30T14:50:45.699504"
+    },
+    {
+      "offer_id": "4cf3897bd5f4afab",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1964",
+      "error": null,
+      "at": "2026-10-30T15:40:46.781428"
     }
   ]
 }

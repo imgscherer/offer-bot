@@ -1,5 +1,17 @@
 [
   {
+    "id": "4cf3897bd5f4afab",
+    "title": "Sapatilha Infantil (25 ao 34, Diversas cores)",
+    "price_now": 46.39,
+    "price_was": 99.98,
+    "discount_pct": 54,
+    "url": "https://s.shopee.com.br/6VP2uf7NUA?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/234401596917933746361204088937.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T15:40:46.781652"
+  },
+  {
     "id": "0899d0a8da8fdd52",
     "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XXG 18 Unidades",
     "price_now": 13.19,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-30T12:30:38.938896"
-  },
-  {
-    "id": "cd57660095fc8060",
-    "title": "Fralda Huggies Máxima Proteção XXG 58 Unidades",
-    "price_now": 68.0,
-    "price_was": 116.9,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0BQ4113GM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/346912223917933617927662290101.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T12:11:00.324308"
   }
 ]
