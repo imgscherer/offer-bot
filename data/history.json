@@ -7811,6 +7811,10 @@
     "4fc1e4069f18c2ea": {
       "title": "Garrafa de Inox com bebedor silicone 350 ml Lillo",
       "posted_at": "2026-10-30T16:00:53.730043"
+    },
+    "4fb1e460e764f8c7": {
+      "title": "Hidratante Granado Bebê Tradicional 120ml",
+      "posted_at": "2026-10-30T16:10:41.359553"
     }
   },
   "results": [
@@ -38133,6 +38137,14 @@
       "post_id": "1965",
       "error": null,
       "at": "2026-10-30T16:00:53.729371"
+    },
+    {
+      "offer_id": "4fb1e460e764f8c7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1966",
+      "error": null,
+      "at": "2026-10-30T16:10:41.358848"
     }
   ]
 }

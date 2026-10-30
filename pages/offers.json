@@ -1,5 +1,17 @@
 [
   {
+    "id": "4fb1e460e764f8c7",
+    "title": "Hidratante Granado Bebê Tradicional 120ml",
+    "price_now": 21.52,
+    "price_was": 34.0,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B08DPQK5K6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/420805197617933762202889459970.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T16:10:41.359185"
+  },
+  {
     "id": "4fc1e4069f18c2ea",
     "title": "Garrafa de Inox com bebedor silicone 350 ml Lillo",
     "price_now": 38.39,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-30T12:50:43.900843"
-  },
-  {
-    "id": "54174cf80095062e",
-    "title": "Kit 30 Lembrancinhas Chá de Bebê, Chá de Fraldas, Maternidade e Nascimento",
-    "price_now": 56.0,
-    "price_was": 80.0,
-    "discount_pct": 30,
-    "url": "https://s.shopee.com.br/80DqUastcx",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj1pfgoogkjq19",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T12:30:40.236102"
   }
 ]
