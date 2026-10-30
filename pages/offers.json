@@ -1,5 +1,17 @@
 [
   {
+    "id": "0899d0a8da8fdd52",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XXG 18 Unidades",
+    "price_now": 13.19,
+    "price_was": 30.17,
+    "discount_pct": 56,
+    "url": "https://www.amazon.com.br/dp/B093GD56WR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/348030593517933711549166995348.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T14:50:45.699778"
+  },
+  {
     "id": "54e13fb69a56584f",
     "title": "Conjunto de 3 Quadros Decorativos Infantis com moldura Urso Aviador em Azul Arte para Quarto de Bebê",
     "price_now": 24.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-30T12:11:00.324308"
-  },
-  {
-    "id": "19a33a72c5c81553",
-    "title": "Babysec Fralda Premium Hiper G 60 Unidades",
-    "price_now": 56.0,
-    "price_was": 85.2,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0CCDZ9XBJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/495226668517933607203208772475.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T12:01:13.401236"
   }
 ]

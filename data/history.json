@@ -7799,6 +7799,10 @@
     "54e13fb69a56584f": {
       "title": "Conjunto de 3 Quadros Decorativos Infantis com moldura Urso Aviador em Azul Arte para Quarto de Bebê",
       "posted_at": "2026-10-30T14:00:49.004208"
+    },
+    "0899d0a8da8fdd52": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XXG 18 Unidades",
+      "posted_at": "2026-10-30T14:50:45.700015"
     }
   },
   "results": [
@@ -38097,6 +38101,14 @@
       "post_id": "1962",
       "error": null,
       "at": "2026-10-30T14:00:49.003622"
+    },
+    {
+      "offer_id": "0899d0a8da8fdd52",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1963",
+      "error": null,
+      "at": "2026-10-30T14:50:45.699504"
     }
   ]
 }
