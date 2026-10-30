@@ -1,5 +1,17 @@
 [
   {
+    "id": "7a43671d01c89dbc",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148 unid.",
+    "price_now": 118.66,
+    "price_was": 227.12,
+    "discount_pct": 48,
+    "url": "https://s.shopee.com.br/AUvAr5MlWq?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/652457078417933585682097121675.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T11:20:54.575200"
+  },
+  {
     "id": "1b64f2a075398c95",
     "title": "Fralda Huggies Supreme Care Roupinha M 80 unidades",
     "price_now": 78.72,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-29T19:40:47.352694"
-  },
-  {
-    "id": "f55696383d2657ed",
-    "title": "Bebê Conforto Cosco Kids, Wizz, 0 a 13kg, Preto",
-    "price_now": 161.51,
-    "price_was": 299.07,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B09WG3HDT7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/775229977417933014276055334699.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T19:30:47.246875"
   }
 ]
