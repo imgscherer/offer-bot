@@ -7823,6 +7823,10 @@
     "1458b5484d3c9dfd": {
       "title": "Fralda Pants Huggies, Tamanho M, 72 unidades",
       "posted_at": "2026-10-30T17:30:55.041463"
+    },
+    "b16868f3f87617d5": {
+      "title": "Mictório Sapinho Infantil Troninho Penico Menino",
+      "posted_at": "2026-10-30T17:50:57.362156"
     }
   },
   "results": [
@@ -38169,6 +38173,14 @@
       "post_id": "1968",
       "error": null,
       "at": "2026-10-30T17:30:55.040669"
+    },
+    {
+      "offer_id": "b16868f3f87617d5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1969",
+      "error": null,
+      "at": "2026-10-30T17:50:57.361301"
     }
   ]
 }
