@@ -1,5 +1,17 @@
 [
   {
+    "id": "b063cc2ce2c820f1",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
+    "price_now": 52.54,
+    "price_was": 77.37,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/352793200917933943733657242568.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T21:20:43.309453"
+  },
+  {
     "id": "d331daa47bbad1e1",
     "title": "Fralda Huggies Natural Care P 36 unidades",
     "price_now": 32.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-30T16:00:53.729740"
-  },
-  {
-    "id": "4cf3897bd5f4afab",
-    "title": "Sapatilha Infantil (25 ao 34, Diversas cores)",
-    "price_now": 46.39,
-    "price_was": 99.98,
-    "discount_pct": 54,
-    "url": "https://s.shopee.com.br/6VP2uf7NUA?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/234401596917933746361204088937.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T15:40:46.781652"
   }
 ]

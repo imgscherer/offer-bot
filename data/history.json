@@ -7851,6 +7851,10 @@
     "d331daa47bbad1e1": {
       "title": "Fralda Huggies Natural Care P 36 unidades",
       "posted_at": "2026-10-30T20:30:50.695333"
+    },
+    "b063cc2ce2c820f1": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
+      "posted_at": "2026-10-30T21:20:43.309799"
     }
   },
   "results": [
@@ -38253,6 +38257,14 @@
       "post_id": "1975",
       "error": null,
       "at": "2026-10-30T20:30:50.694792"
+    },
+    {
+      "offer_id": "b063cc2ce2c820f1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1976",
+      "error": null,
+      "at": "2026-10-30T21:20:43.309083"
     }
   ]
 }
