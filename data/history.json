@@ -7755,6 +7755,10 @@
     "19a33a72c5c81553": {
       "title": "Babysec Fralda Premium Hiper G 60 Unidades",
       "posted_at": "2026-10-30T12:01:13.401635"
+    },
+    "cd57660095fc8060": {
+      "title": "Fralda Huggies Máxima Proteção XXG 58 Unidades",
+      "posted_at": "2026-10-30T12:11:00.324697"
     }
   },
   "results": [
@@ -37949,6 +37953,22 @@
       "post_id": "1951",
       "error": null,
       "at": "2026-10-30T12:01:13.401013"
+    },
+    {
+      "offer_id": "0ab71a8dba3a94f4",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-30T12:10:45.073809"
+    },
+    {
+      "offer_id": "cd57660095fc8060",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1952",
+      "error": null,
+      "at": "2026-10-30T12:11:00.324068"
     }
   ]
 }

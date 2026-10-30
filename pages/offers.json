@@ -1,5 +1,17 @@
 [
   {
+    "id": "cd57660095fc8060",
+    "title": "Fralda Huggies Máxima Proteção XXG 58 Unidades",
+    "price_now": 68.0,
+    "price_was": 116.9,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0BQ4113GM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/346912223917933617927662290101.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T12:11:00.324308"
+  },
+  {
     "id": "19a33a72c5c81553",
     "title": "Babysec Fralda Premium Hiper G 60 Unidades",
     "price_now": 56.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-30T11:01:09.644331"
-  },
-  {
-    "id": "5cd63905ab48f714",
-    "title": "Fralda Huggies Supreme Care Pants G 60 unidades",
-    "price_now": 62.0,
-    "price_was": 113.25,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/936979019217933171138192674213.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T23:50:50.733536"
   }
 ]
