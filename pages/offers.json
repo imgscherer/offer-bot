@@ -1,5 +1,17 @@
 [
   {
+    "id": "6106e4a1e5552538",
+    "title": "MamyPoko Fralda-Calça Superproteção M 34 Unidades",
+    "price_now": 27.99,
+    "price_was": 42.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0DK3M6161?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/821195272017933658035436010825.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T13:20:45.256172"
+  },
+  {
     "id": "d7ca601af53813d4",
     "title": "Huggies Fralda Premium Natural Care P 36 Un",
     "price_now": 32.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-30T11:51:58.388413"
-  },
-  {
-    "id": "42f32f0d66f7afa4",
-    "title": "Fralda Pampers Confort Sec Jumbo Plus XG com 116",
-    "price_now": 118.0,
-    "price_was": 217.25,
-    "discount_pct": 46,
-    "url": "https://s.shopee.com.br/7puQEh4PuM?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/241457766517933602927737993528.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T11:51:31.728189"
   }
 ]

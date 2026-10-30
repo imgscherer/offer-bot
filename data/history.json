@@ -7787,6 +7787,10 @@
     "d7ca601af53813d4": {
       "title": "Huggies Fralda Premium Natural Care P 36 Un",
       "posted_at": "2026-10-30T13:00:57.049296"
+    },
+    "6106e4a1e5552538": {
+      "title": "MamyPoko Fralda-Calça Superproteção M 34 Unidades",
+      "posted_at": "2026-10-30T13:20:45.256423"
     }
   },
   "results": [
@@ -38061,6 +38065,14 @@
       "post_id": "1959",
       "error": null,
       "at": "2026-10-30T13:00:57.048755"
+    },
+    {
+      "offer_id": "6106e4a1e5552538",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1960",
+      "error": null,
+      "at": "2026-10-30T13:20:45.255847"
     }
   ]
 }
