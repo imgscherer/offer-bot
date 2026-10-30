@@ -1,5 +1,17 @@
 [
   {
+    "id": "d7ca601af53813d4",
+    "title": "Huggies Fralda Premium Natural Care P 36 Un",
+    "price_now": 32.0,
+    "price_was": 53.4,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/453651463617933643745583038414.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T13:00:57.049029"
+  },
+  {
     "id": "bd563b27e8e988cc",
     "title": "Kit 4 Fraldas Turma da Mônica Baby Mega P com 62un cada",
     "price_now": 175.86,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-30T11:51:31.728189"
-  },
-  {
-    "id": "b20102a4368d7ff4",
-    "title": "Fralda Pampers Confort Sec Jumbo Plus G com 128",
-    "price_now": 118.0,
-    "price_was": 217.25,
-    "discount_pct": 46,
-    "url": "https://s.shopee.com.br/gRFhWeQix?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/265149935517933602963729548677.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T11:51:08.601034"
   }
 ]

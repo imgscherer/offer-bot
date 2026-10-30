@@ -7783,6 +7783,10 @@
     "bd563b27e8e988cc": {
       "title": "Kit 4 Fraldas Turma da Mônica Baby Mega P com 62un cada",
       "posted_at": "2026-10-30T12:51:04.139540"
+    },
+    "d7ca601af53813d4": {
+      "title": "Huggies Fralda Premium Natural Care P 36 Un",
+      "posted_at": "2026-10-30T13:00:57.049296"
     }
   },
   "results": [
@@ -38049,6 +38053,14 @@
       "post_id": "1958",
       "error": null,
       "at": "2026-10-30T12:51:04.138795"
+    },
+    {
+      "offer_id": "d7ca601af53813d4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1959",
+      "error": null,
+      "at": "2026-10-30T13:00:57.048755"
     }
   ]
 }
