@@ -7855,6 +7855,14 @@
     "b063cc2ce2c820f1": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
       "posted_at": "2026-10-30T21:20:43.309799"
+    },
+    "c7e19fb886e589cc": {
+      "title": "Sabonete Líquido Infantil Protex Baby Delicate Care 200ml",
+      "posted_at": "2026-10-30T21:50:43.070724"
+    },
+    "cefae80962591027": {
+      "title": "Kit 6 Faixinhas de Cabelo Para Bebê Menina Laço RN Meia de Seda",
+      "posted_at": "2026-10-30T21:50:55.417765"
     }
   },
   "results": [
@@ -38265,6 +38273,22 @@
       "post_id": "1976",
       "error": null,
       "at": "2026-10-30T21:20:43.309083"
+    },
+    {
+      "offer_id": "c7e19fb886e589cc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1977",
+      "error": null,
+      "at": "2026-10-30T21:50:43.070173"
+    },
+    {
+      "offer_id": "cefae80962591027",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1978",
+      "error": null,
+      "at": "2026-10-30T21:50:55.417120"
     }
   ]
 }
