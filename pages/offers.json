@@ -1,5 +1,29 @@
 [
   {
+    "id": "54174cf80095062e",
+    "title": "Kit 30 Lembrancinhas Chá de Bebê, Chá de Fraldas, Maternidade e Nascimento",
+    "price_now": 56.0,
+    "price_was": 80.0,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/80DqUastcx",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj1pfgoogkjq19",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T12:30:40.236102"
+  },
+  {
+    "id": "d9617f2513d99f88",
+    "title": "10 Lembrancinhas Saida de maternidade Chá de fraldas, Chá de bebê - Revelação 20 sabonetes",
+    "price_now": 28.0,
+    "price_was": 40.0,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/5LD5Jh332B",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj1pfgoogkjq19",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T12:30:38.938896"
+  },
+  {
     "id": "cd57660095fc8060",
     "title": "Fralda Huggies Máxima Proteção XXG 58 Unidades",
     "price_now": 68.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-30T11:20:54.575200"
-  },
-  {
-    "id": "1b64f2a075398c95",
-    "title": "Fralda Huggies Supreme Care Roupinha M 80 unidades",
-    "price_now": 78.72,
-    "price_was": 131.78,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0BXM2Q9SQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/507005541717933575318044357722.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T11:10:53.655846"
-  },
-  {
-    "id": "e4ccab79c0d37c39",
-    "title": "Fralda Pants Huggies, Tamanho G, 70 Unidades",
-    "price_now": 76.99,
-    "price_was": 131.78,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0BXM1CSC2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/267994226617933569321270816542.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T11:01:09.644331"
   }
 ]

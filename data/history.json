@@ -7759,6 +7759,14 @@
     "cd57660095fc8060": {
       "title": "Fralda Huggies Máxima Proteção XXG 58 Unidades",
       "posted_at": "2026-10-30T12:11:00.324697"
+    },
+    "d9617f2513d99f88": {
+      "title": "10 Lembrancinhas Saida de maternidade Chá de fraldas, Chá de bebê - Revelação 20 sabonetes",
+      "posted_at": "2026-10-30T12:30:38.939164"
+    },
+    "54174cf80095062e": {
+      "title": "Kit 30 Lembrancinhas Chá de Bebê, Chá de Fraldas, Maternidade e Nascimento",
+      "posted_at": "2026-10-30T12:30:40.236557"
     }
   },
   "results": [
@@ -37969,6 +37977,22 @@
       "post_id": "1952",
       "error": null,
       "at": "2026-10-30T12:11:00.324068"
+    },
+    {
+      "offer_id": "d9617f2513d99f88",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1953",
+      "error": null,
+      "at": "2026-10-30T12:30:38.938632"
+    },
+    {
+      "offer_id": "54174cf80095062e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1954",
+      "error": null,
+      "at": "2026-10-30T12:30:40.235856"
     }
   ]
 }
