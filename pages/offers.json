@@ -1,5 +1,17 @@
 [
   {
+    "id": "77e77d4cf7cd38a9",
+    "title": "MamyPoko Fralda-Calça Superproteção G 28 Unidades",
+    "price_now": 25.0,
+    "price_was": 42.9,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0D4363KSD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/802019924617933667095345484218.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T13:40:43.223486"
+  },
+  {
     "id": "6106e4a1e5552538",
     "title": "MamyPoko Fralda-Calça Superproteção M 34 Unidades",
     "price_now": 27.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-30T12:01:01.062144"
-  },
-  {
-    "id": "64f0cd9da3af27d1",
-    "title": "MamyPoko Fralda-Calça Superproteção XXG com 22 Unidades",
-    "price_now": 26.0,
-    "price_was": 46.9,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/724245209617933602937658648622.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T11:51:58.388413"
   }
 ]

@@ -7791,6 +7791,10 @@
     "6106e4a1e5552538": {
       "title": "MamyPoko Fralda-Calça Superproteção M 34 Unidades",
       "posted_at": "2026-10-30T13:20:45.256423"
+    },
+    "77e77d4cf7cd38a9": {
+      "title": "MamyPoko Fralda-Calça Superproteção G 28 Unidades",
+      "posted_at": "2026-10-30T13:40:43.223765"
     }
   },
   "results": [
@@ -38073,6 +38077,14 @@
       "post_id": "1960",
       "error": null,
       "at": "2026-10-30T13:20:45.255847"
+    },
+    {
+      "offer_id": "77e77d4cf7cd38a9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1961",
+      "error": null,
+      "at": "2026-10-30T13:40:43.223133"
     }
   ]
 }
