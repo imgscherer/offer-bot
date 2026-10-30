@@ -7795,6 +7795,10 @@
     "77e77d4cf7cd38a9": {
       "title": "MamyPoko Fralda-Calça Superproteção G 28 Unidades",
       "posted_at": "2026-10-30T13:40:43.223765"
+    },
+    "54e13fb69a56584f": {
+      "title": "Conjunto de 3 Quadros Decorativos Infantis com moldura Urso Aviador em Azul Arte para Quarto de Bebê",
+      "posted_at": "2026-10-30T14:00:49.004208"
     }
   },
   "results": [
@@ -38085,6 +38089,14 @@
       "post_id": "1961",
       "error": null,
       "at": "2026-10-30T13:40:43.223133"
+    },
+    {
+      "offer_id": "54e13fb69a56584f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1962",
+      "error": null,
+      "at": "2026-10-30T14:00:49.003622"
     }
   ]
 }
