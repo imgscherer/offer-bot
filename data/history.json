@@ -7839,6 +7839,10 @@
     "64b1e1716849fd09": {
       "title": "Mamadeira Easy Flow Nuvem Branca 330ml",
       "posted_at": "2026-10-30T19:00:50.301391"
+    },
+    "f1d24da088d16441": {
+      "title": "Kit Com 3 Bodies Bebê Unissex Em Ribana Hering Kids (1M a 2 Anos, 2 cores)",
+      "posted_at": "2026-10-30T19:10:49.429170"
     }
   },
   "results": [
@@ -38217,6 +38221,14 @@
       "post_id": "1972",
       "error": null,
       "at": "2026-10-30T19:00:50.300790"
+    },
+    {
+      "offer_id": "f1d24da088d16441",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1973",
+      "error": null,
+      "at": "2026-10-30T19:10:49.428471"
     }
   ]
 }
