@@ -7819,6 +7819,10 @@
     "9222219aee36cd6a": {
       "title": "Kit com 3 Body Bebê Em Ribana Hering Kids",
       "posted_at": "2026-10-30T17:00:52.366431"
+    },
+    "1458b5484d3c9dfd": {
+      "title": "Fralda Pants Huggies, Tamanho M, 72 unidades",
+      "posted_at": "2026-10-30T17:30:55.041463"
     }
   },
   "results": [
@@ -38157,6 +38161,14 @@
       "post_id": "1967",
       "error": null,
       "at": "2026-10-30T17:00:52.365899"
+    },
+    {
+      "offer_id": "1458b5484d3c9dfd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1968",
+      "error": null,
+      "at": "2026-10-30T17:30:55.040669"
     }
   ]
 }

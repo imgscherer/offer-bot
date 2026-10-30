@@ -1,5 +1,17 @@
 [
   {
+    "id": "1458b5484d3c9dfd",
+    "title": "Fralda Pants Huggies, Tamanho M, 72 unidades",
+    "price_now": 67.0,
+    "price_was": 113.25,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B08GZNWJ17?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/664914214517933806516059485828.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T17:30:55.040995"
+  },
+  {
     "id": "9222219aee36cd6a",
     "title": "Kit com 3 Body Bebê Em Ribana Hering Kids",
     "price_now": 63.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-10-30T12:51:03.000623"
-  },
-  {
-    "id": "ae2957243fa68fc2",
-    "title": "Fralda Descartável Pampers Supersequinha Jumbo XG 70 Tiras",
-    "price_now": 84.39,
-    "price_was": 144.99,
-    "discount_pct": 42,
-    "url": "https://s.shopee.com.br/8fTXI0CJYa?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/263945985717933635914661143252.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T12:51:00.590800"
   }
 ]
