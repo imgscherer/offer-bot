@@ -7747,6 +7747,14 @@
     "64f0cd9da3af27d1": {
       "title": "MamyPoko Fralda-Calça Superproteção XXG com 22 Unidades",
       "posted_at": "2026-10-30T11:51:58.389549"
+    },
+    "3c6f792aafe6aa7b": {
+      "title": "Fralda-Calça MamyPoko Superproteção G 28 Unidades",
+      "posted_at": "2026-10-30T12:01:01.062544"
+    },
+    "19a33a72c5c81553": {
+      "title": "Babysec Fralda Premium Hiper G 60 Unidades",
+      "posted_at": "2026-10-30T12:01:13.401635"
     }
   },
   "results": [
@@ -37917,6 +37925,30 @@
       "post_id": "1949",
       "error": null,
       "at": "2026-10-30T11:51:58.388093"
+    },
+    {
+      "offer_id": "0ab71a8dba3a94f4",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-30T12:00:52.885831"
+    },
+    {
+      "offer_id": "3c6f792aafe6aa7b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1950",
+      "error": null,
+      "at": "2026-10-30T12:01:01.061883"
+    },
+    {
+      "offer_id": "19a33a72c5c81553",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1951",
+      "error": null,
+      "at": "2026-10-30T12:01:13.401013"
     }
   ]
 }
