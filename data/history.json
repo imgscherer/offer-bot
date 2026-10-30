@@ -7827,6 +7827,14 @@
     "b16868f3f87617d5": {
       "title": "Mictório Sapinho Infantil Troninho Penico Menino",
       "posted_at": "2026-10-30T17:50:57.362156"
+    },
+    "6b9fe9be6c50a811": {
+      "title": "Fralda huggies supreme care roupinha m 72 unidades",
+      "posted_at": "2026-10-30T18:01:08.187725"
+    },
+    "264f034e000d5307": {
+      "title": "Granado Hidratante Bebê, Tradicional, 120ml",
+      "posted_at": "2026-10-30T18:01:15.713149"
     }
   },
   "results": [
@@ -38181,6 +38189,22 @@
       "post_id": "1969",
       "error": null,
       "at": "2026-10-30T17:50:57.361301"
+    },
+    {
+      "offer_id": "6b9fe9be6c50a811",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1970",
+      "error": null,
+      "at": "2026-10-30T18:01:08.186837"
+    },
+    {
+      "offer_id": "264f034e000d5307",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1971",
+      "error": null,
+      "at": "2026-10-30T18:01:15.712434"
     }
   ]
 }

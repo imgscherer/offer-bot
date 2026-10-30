@@ -1,5 +1,29 @@
 [
   {
+    "id": "264f034e000d5307",
+    "title": "Granado Hidratante Bebê, Tradicional, 120ml",
+    "price_now": 21.0,
+    "price_was": 34.0,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B08DPQK5K6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/143279760917933824958428070996.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T18:01:15.712726"
+  },
+  {
+    "id": "6b9fe9be6c50a811",
+    "title": "Fralda huggies supreme care roupinha m 72 unidades",
+    "price_now": 67.3,
+    "price_was": 113.25,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B08GZNWJ17?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/140546845417933824999684773154.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T18:01:08.187230"
+  },
+  {
     "id": "b16868f3f87617d5",
     "title": "Mictório Sapinho Infantil Troninho Penico Menino",
     "price_now": 19.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-30T13:20:45.256172"
-  },
-  {
-    "id": "d7ca601af53813d4",
-    "title": "Huggies Fralda Premium Natural Care P 36 Un",
-    "price_now": 32.0,
-    "price_was": 53.4,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/453651463617933643745583038414.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T13:00:57.049029"
-  },
-  {
-    "id": "bd563b27e8e988cc",
-    "title": "Kit 4 Fraldas Turma da Mônica Baby Mega P com 62un cada",
-    "price_now": 175.86,
-    "price_was": 270.55,
-    "discount_pct": 35,
-    "url": "https://s.shopee.com.br/2BG3ZFXlr3",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rav9-ma47hllo5ifi56",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T12:51:04.139130"
   }
 ]
