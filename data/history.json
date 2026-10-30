@@ -7767,6 +7767,22 @@
     "54174cf80095062e": {
       "title": "Kit 30 Lembrancinhas Chá de Bebê, Chá de Fraldas, Maternidade e Nascimento",
       "posted_at": "2026-10-30T12:30:40.236557"
+    },
+    "2226f92f8c7bd8fd": {
+      "title": "kit 60 Mini pezinhos (30 pares) lembrancinha-Chá de Fralda-Saída de Maternidade-Revelação",
+      "posted_at": "2026-10-30T12:50:43.901253"
+    },
+    "ae2957243fa68fc2": {
+      "title": "Fralda Descartável Pampers Supersequinha Jumbo XG 70 Tiras",
+      "posted_at": "2026-10-30T12:51:00.591256"
+    },
+    "a823af81337454b7": {
+      "title": "Kit 2 Fraldas Turma da Mônica Baby Jumbo P com 30un cada",
+      "posted_at": "2026-10-30T12:51:03.001086"
+    },
+    "bd563b27e8e988cc": {
+      "title": "Kit 4 Fraldas Turma da Mônica Baby Mega P com 62un cada",
+      "posted_at": "2026-10-30T12:51:04.139540"
     }
   },
   "results": [
@@ -37993,6 +38009,46 @@
       "post_id": "1954",
       "error": null,
       "at": "2026-10-30T12:30:40.235856"
+    },
+    {
+      "offer_id": "2226f92f8c7bd8fd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1955",
+      "error": null,
+      "at": "2026-10-30T12:50:43.900482"
+    },
+    {
+      "offer_id": "0ab71a8dba3a94f4",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-30T12:50:50.692794"
+    },
+    {
+      "offer_id": "ae2957243fa68fc2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1956",
+      "error": null,
+      "at": "2026-10-30T12:51:00.590480"
+    },
+    {
+      "offer_id": "a823af81337454b7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1957",
+      "error": null,
+      "at": "2026-10-30T12:51:03.000306"
+    },
+    {
+      "offer_id": "bd563b27e8e988cc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1958",
+      "error": null,
+      "at": "2026-10-30T12:51:04.138795"
     }
   ]
 }

@@ -1,5 +1,53 @@
 [
   {
+    "id": "bd563b27e8e988cc",
+    "title": "Kit 4 Fraldas Turma da Mônica Baby Mega P com 62un cada",
+    "price_now": 175.86,
+    "price_was": 270.55,
+    "discount_pct": 35,
+    "url": "https://s.shopee.com.br/2BG3ZFXlr3",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rav9-ma47hllo5ifi56",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T12:51:04.139130"
+  },
+  {
+    "id": "a823af81337454b7",
+    "title": "Kit 2 Fraldas Turma da Mônica Baby Jumbo P com 30un cada",
+    "price_now": 46.91,
+    "price_was": 78.18,
+    "discount_pct": 40,
+    "url": "https://s.shopee.com.br/1gJmyKZfru",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-820ne-mo01jjzmummae6",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T12:51:03.000623"
+  },
+  {
+    "id": "ae2957243fa68fc2",
+    "title": "Fralda Descartável Pampers Supersequinha Jumbo XG 70 Tiras",
+    "price_now": 84.39,
+    "price_was": 144.99,
+    "discount_pct": 42,
+    "url": "https://s.shopee.com.br/8fTXI0CJYa?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/263945985717933635914661143252.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T12:51:00.590800"
+  },
+  {
+    "id": "2226f92f8c7bd8fd",
+    "title": "kit 60 Mini pezinhos (30 pares) lembrancinha-Chá de Fralda-Saída de Maternidade-Revelação",
+    "price_now": 56.0,
+    "price_was": 224.0,
+    "discount_pct": 75,
+    "url": "https://s.shopee.com.br/9KjE6Q6UJc",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mpdwh99syvied4",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T12:50:43.900843"
+  },
+  {
     "id": "54174cf80095062e",
     "title": "Kit 30 Lembrancinhas Chá de Bebê, Chá de Fraldas, Maternidade e Nascimento",
     "price_now": 56.0,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-30T11:51:08.601034"
-  },
-  {
-    "id": "b2cae497e9b00063",
-    "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148",
-    "price_now": 118.0,
-    "price_was": 227.12,
-    "discount_pct": 48,
-    "url": "https://s.shopee.com.br/2gCK5CbHhO?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/821134722317933602995102125287.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T11:50:57.307743"
-  },
-  {
-    "id": "962bb6cc41575e1f",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo M 28",
-    "price_now": 20.0,
-    "price_was": 30.17,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B093G83Q3P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/387433751917933594742446536509.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T11:31:25.279309"
-  },
-  {
-    "id": "86c4ebfee7302e9d",
-    "title": "MamyPoko Fralda-Calça Superproteção M 34 Unidades",
-    "price_now": 27.99,
-    "price_was": 42.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0DK3M6161?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/338653275217933593307420270794.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T11:31:07.572348"
-  },
-  {
-    "id": "7a43671d01c89dbc",
-    "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148 unid.",
-    "price_now": 118.66,
-    "price_was": 227.12,
-    "discount_pct": 48,
-    "url": "https://s.shopee.com.br/AUvAr5MlWq?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/652457078417933585682097121675.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T11:20:54.575200"
   }
 ]
