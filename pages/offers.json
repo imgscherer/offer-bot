@@ -1,5 +1,17 @@
 [
   {
+    "id": "64b1e1716849fd09",
+    "title": "Mamadeira Easy Flow Nuvem Branca 330ml",
+    "price_now": 24.0,
+    "price_was": 36.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0DH7357F1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/595011463217933858013845009885.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T19:00:50.301087"
+  },
+  {
     "id": "264f034e000d5307",
     "title": "Granado Hidratante Bebê, Tradicional, 120ml",
     "price_now": 21.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-30T13:40:43.223486"
-  },
-  {
-    "id": "6106e4a1e5552538",
-    "title": "MamyPoko Fralda-Calça Superproteção M 34 Unidades",
-    "price_now": 27.99,
-    "price_was": 42.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0DK3M6161?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/821195272017933658035436010825.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T13:20:45.256172"
   }
 ]
