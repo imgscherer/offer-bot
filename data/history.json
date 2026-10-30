@@ -7807,6 +7807,10 @@
     "4cf3897bd5f4afab": {
       "title": "Sapatilha Infantil (25 ao 34, Diversas cores)",
       "posted_at": "2026-10-30T15:40:46.781843"
+    },
+    "4fc1e4069f18c2ea": {
+      "title": "Garrafa de Inox com bebedor silicone 350 ml Lillo",
+      "posted_at": "2026-10-30T16:00:53.730043"
     }
   },
   "results": [
@@ -38121,6 +38125,14 @@
       "post_id": "1964",
       "error": null,
       "at": "2026-10-30T15:40:46.781428"
+    },
+    {
+      "offer_id": "4fc1e4069f18c2ea",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1965",
+      "error": null,
+      "at": "2026-10-30T16:00:53.729371"
     }
   ]
 }
