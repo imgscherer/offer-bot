@@ -1,5 +1,29 @@
 [
   {
+    "id": "962bb6cc41575e1f",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo M 28",
+    "price_now": 20.0,
+    "price_was": 30.17,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B093G83Q3P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/387433751917933594742446536509.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T11:31:25.279309"
+  },
+  {
+    "id": "86c4ebfee7302e9d",
+    "title": "MamyPoko Fralda-Calça Superproteção M 34 Unidades",
+    "price_now": 27.99,
+    "price_was": 42.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0DK3M6161?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/338653275217933593307420270794.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T11:31:07.572348"
+  },
+  {
     "id": "7a43671d01c89dbc",
     "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148 unid.",
     "price_now": 118.66,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-29T20:00:48.527130"
-  },
-  {
-    "id": "534d9f2cca80e826",
-    "title": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
-    "price_now": 17.0,
-    "price_was": 28.68,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B099KTC5VJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/140387597217933022179060573766.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T19:40:55.610362"
-  },
-  {
-    "id": "673db1e83081aee9",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo G 24 Unidades",
-    "price_now": 14.39,
-    "price_was": 30.17,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B093G7WGYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/574012399617933017891150643234.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-29T19:40:47.352694"
   }
 ]
