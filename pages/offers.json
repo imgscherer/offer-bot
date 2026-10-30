@@ -1,5 +1,17 @@
 [
   {
+    "id": "dd0bac04327a6360",
+    "title": "Fralda Huggies Natural Care P 36 unidades",
+    "price_now": 32.54,
+    "price_was": 53.4,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/269409978217933891504531344707.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-30T19:40:47.214442"
+  },
+  {
     "id": "f1d24da088d16441",
     "title": "Kit Com 3 Bodies Bebê Unissex Em Ribana Hering Kids (1M a 2 Anos, 2 cores)",
     "price_now": 63.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-30T14:50:45.699778"
-  },
-  {
-    "id": "54e13fb69a56584f",
-    "title": "Conjunto de 3 Quadros Decorativos Infantis com moldura Urso Aviador em Azul Arte para Quarto de Bebê",
-    "price_now": 24.99,
-    "price_was": 36.75,
-    "discount_pct": 32,
-    "url": "https://s.shopee.com.br/AKblN4oFXg",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc9ysg92l2w0d4",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T14:00:49.003941"
   }
 ]

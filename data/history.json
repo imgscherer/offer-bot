@@ -7843,6 +7843,10 @@
     "f1d24da088d16441": {
       "title": "Kit Com 3 Bodies Bebê Unissex Em Ribana Hering Kids (1M a 2 Anos, 2 cores)",
       "posted_at": "2026-10-30T19:10:49.429170"
+    },
+    "dd0bac04327a6360": {
+      "title": "Fralda Huggies Natural Care P 36 unidades",
+      "posted_at": "2026-10-30T19:40:47.214819"
     }
   },
   "results": [
@@ -38229,6 +38233,14 @@
       "post_id": "1973",
       "error": null,
       "at": "2026-10-30T19:10:49.428471"
+    },
+    {
+      "offer_id": "dd0bac04327a6360",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1974",
+      "error": null,
+      "at": "2026-10-30T19:40:47.213866"
     }
   ]
 }
