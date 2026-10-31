@@ -7907,6 +7907,10 @@
     "b4afa4e7561de53f": {
       "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
       "posted_at": "2026-10-31T12:31:06.932109"
+    },
+    "9f4893766a4b2287": {
+      "title": "Babysec Fralda Premium Hiper G 60 Unidades",
+      "posted_at": "2026-10-31T14:10:47.541334"
     }
   },
   "results": [
@@ -38421,6 +38425,14 @@
       "post_id": "1989",
       "error": null,
       "at": "2026-10-31T12:31:06.931408"
+    },
+    {
+      "offer_id": "9f4893766a4b2287",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1990",
+      "error": null,
+      "at": "2026-10-31T14:10:47.540729"
     }
   ]
 }
