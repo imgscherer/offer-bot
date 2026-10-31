@@ -1,5 +1,17 @@
 [
   {
+    "id": "54a6fc5d51caed57",
+    "title": "Fralda Turma da Mônica Baby P 30 Unidades",
+    "price_now": 17.84,
+    "price_was": 28.68,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B099KTC5VJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/401226275617934432708394671436.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-31T10:50:55.830949"
+  },
+  {
     "id": "89ee540ca0fec651",
     "title": "Fralda Descartável Baby Junior Econômica M Com 44 Unds",
     "price_now": 36.62,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-30T18:01:15.712726"
-  },
-  {
-    "id": "6b9fe9be6c50a811",
-    "title": "Fralda huggies supreme care roupinha m 72 unidades",
-    "price_now": 67.3,
-    "price_was": 113.25,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B08GZNWJ17?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/140546845417933824999684773154.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T18:01:08.187230"
   }
 ]

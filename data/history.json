@@ -7875,6 +7875,10 @@
     "89ee540ca0fec651": {
       "title": "Fralda Descartável Baby Junior Econômica M Com 44 Unds",
       "posted_at": "2026-10-31T03:20:37.177385"
+    },
+    "54a6fc5d51caed57": {
+      "title": "Fralda Turma da Mônica Baby P 30 Unidades",
+      "posted_at": "2026-10-31T10:50:55.831264"
     }
   },
   "results": [
@@ -38325,6 +38329,14 @@
       "post_id": "1981",
       "error": null,
       "at": "2026-10-31T03:20:37.176709"
+    },
+    {
+      "offer_id": "54a6fc5d51caed57",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1982",
+      "error": null,
+      "at": "2026-10-31T10:50:55.830612"
     }
   ]
 }
