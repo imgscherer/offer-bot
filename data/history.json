@@ -7863,6 +7863,10 @@
     "cefae80962591027": {
       "title": "Kit 6 Faixinhas de Cabelo Para Bebê Menina Laço RN Meia de Seda",
       "posted_at": "2026-10-30T21:50:55.417765"
+    },
+    "e2d917af5bc54f93": {
+      "title": "Fralda Pom Pom Protek XG 60 Unidades",
+      "posted_at": "2026-10-31T00:30:48.531773"
     }
   },
   "results": [
@@ -38289,6 +38293,14 @@
       "post_id": "1978",
       "error": null,
       "at": "2026-10-30T21:50:55.417120"
+    },
+    {
+      "offer_id": "e2d917af5bc54f93",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1979",
+      "error": null,
+      "at": "2026-10-31T00:30:48.531250"
     }
   ]
 }

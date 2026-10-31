@@ -1,5 +1,17 @@
 [
   {
+    "id": "e2d917af5bc54f93",
+    "title": "Fralda Pom Pom Protek XG 60 Unidades",
+    "price_now": 52.0,
+    "price_was": 77.37,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/992771846417934059726859275013.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-31T00:30:48.531530"
+  },
+  {
     "id": "cefae80962591027",
     "title": "Kit 6 Faixinhas de Cabelo Para Bebê Menina Laço RN Meia de Seda",
     "price_now": 29.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-30T17:30:55.040995"
-  },
-  {
-    "id": "9222219aee36cd6a",
-    "title": "Kit com 3 Body Bebê Em Ribana Hering Kids",
-    "price_now": 63.0,
-    "price_was": 130.42,
-    "discount_pct": 52,
-    "url": "https://s.shopee.com.br/1146RyKFgO?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/678168825317933793695211321708.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T17:00:52.366181"
   }
 ]
