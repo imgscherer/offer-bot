@@ -7871,6 +7871,10 @@
     "7087457394f874e1": {
       "title": "Fralda Descartável Baby Junior Econômica XG Com  36 Unidades",
       "posted_at": "2026-10-31T03:10:42.308128"
+    },
+    "89ee540ca0fec651": {
+      "title": "Fralda Descartável Baby Junior Econômica M Com 44 Unds",
+      "posted_at": "2026-10-31T03:20:37.177385"
     }
   },
   "results": [
@@ -38313,6 +38317,14 @@
       "post_id": "1980",
       "error": null,
       "at": "2026-10-31T03:10:42.307418"
+    },
+    {
+      "offer_id": "89ee540ca0fec651",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1981",
+      "error": null,
+      "at": "2026-10-31T03:20:37.176709"
     }
   ]
 }
