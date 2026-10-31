@@ -7923,6 +7923,10 @@
     "000e1f13a13c5bda": {
       "title": "Meia Infantil Menino ou Menina (Tam.0 a 10 Sortidas)",
       "posted_at": "2026-10-31T18:20:42.483858"
+    },
+    "3e94f415aa450350": {
+      "title": "Cadeira De Alimentação Bebê 6 A 36 Meses Kidino Com Bandeja Removível Cinto De Segurança Apoio Para Pés (Preta)",
+      "posted_at": "2026-10-31T19:20:38.350189"
     }
   },
   "results": [
@@ -38469,6 +38473,14 @@
       "post_id": "1993",
       "error": null,
       "at": "2026-10-31T18:20:42.483323"
+    },
+    {
+      "offer_id": "3e94f415aa450350",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1994",
+      "error": null,
+      "at": "2026-10-31T19:20:38.349502"
     }
   ]
 }
