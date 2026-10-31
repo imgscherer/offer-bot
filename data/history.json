@@ -7943,6 +7943,10 @@
     "645c4f36b5615e9e": {
       "title": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
       "posted_at": "2026-10-31T23:20:58.769814"
+    },
+    "b191e3465e96bd45": {
+      "title": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
+      "posted_at": "2026-10-31T23:31:06.036025"
     }
   },
   "results": [
@@ -38713,6 +38717,22 @@
       "post_id": "1998",
       "error": null,
       "at": "2026-10-31T23:20:58.769058"
+    },
+    {
+      "offer_id": "19e648248438565b",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-10-31T23:30:54.041331"
+    },
+    {
+      "offer_id": "b191e3465e96bd45",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1999",
+      "error": null,
+      "at": "2026-10-31T23:31:06.035265"
     }
   ]
 }
