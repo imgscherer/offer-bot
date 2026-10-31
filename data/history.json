@@ -7887,6 +7887,18 @@
     "dc29dccc0a85e46e": {
       "title": "Fralda Babysec Ultrasec Giga XG 76 Unidades",
       "posted_at": "2026-10-31T11:40:52.152013"
+    },
+    "de82f58dde15ca78": {
+      "title": "Fralda Pants Huggies Proteção Acolchoada M 80 unidades",
+      "posted_at": "2026-10-31T12:00:54.152794"
+    },
+    "88ef0347a32a26b3": {
+      "title": "Fralda Personal Baby Protect&Sec M 40 unidades",
+      "posted_at": "2026-10-31T12:01:04.617605"
+    },
+    "d7cf3ca162426aa5": {
+      "title": "Fralda Personal Baby Protect&Sec G 34 unidades",
+      "posted_at": "2026-10-31T12:01:19.356455"
     }
   },
   "results": [
@@ -38361,6 +38373,30 @@
       "post_id": "1984",
       "error": null,
       "at": "2026-10-31T11:40:52.151264"
+    },
+    {
+      "offer_id": "de82f58dde15ca78",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1985",
+      "error": null,
+      "at": "2026-10-31T12:00:54.152074"
+    },
+    {
+      "offer_id": "88ef0347a32a26b3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1986",
+      "error": null,
+      "at": "2026-10-31T12:01:04.616812"
+    },
+    {
+      "offer_id": "d7cf3ca162426aa5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1987",
+      "error": null,
+      "at": "2026-10-31T12:01:19.355625"
     }
   ]
 }

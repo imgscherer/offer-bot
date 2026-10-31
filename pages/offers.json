@@ -1,5 +1,41 @@
 [
   {
+    "id": "d7cf3ca162426aa5",
+    "title": "Fralda Personal Baby Protect&Sec G 34 unidades",
+    "price_now": 24.82,
+    "price_was": 37.02,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/217690703117934472973350469862.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-31T12:01:19.355935"
+  },
+  {
+    "id": "88ef0347a32a26b3",
+    "title": "Fralda Personal Baby Protect&Sec M 40 unidades",
+    "price_now": 24.82,
+    "price_was": 36.96,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/454007611317934472949238479042.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-31T12:01:04.617130"
+  },
+  {
+    "id": "de82f58dde15ca78",
+    "title": "Fralda Pants Huggies Proteção Acolchoada M 80 unidades",
+    "price_now": 68.0,
+    "price_was": 131.78,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0BXM2Q9SQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/662306385217934474764484810618.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-31T12:00:54.152475"
+  },
+  {
     "id": "dc29dccc0a85e46e",
     "title": "Fralda Babysec Ultrasec Giga XG 76 Unidades",
     "price_now": 60.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-30T21:20:43.309453"
-  },
-  {
-    "id": "d331daa47bbad1e1",
-    "title": "Fralda Huggies Natural Care P 36 unidades",
-    "price_now": 32.0,
-    "price_was": 53.4,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/190791376117933920068949737620.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T20:30:50.695119"
-  },
-  {
-    "id": "dd0bac04327a6360",
-    "title": "Fralda Huggies Natural Care P 36 unidades",
-    "price_now": 32.54,
-    "price_was": 53.4,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/269409978217933891504531344707.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T19:40:47.214442"
-  },
-  {
-    "id": "f1d24da088d16441",
-    "title": "Kit Com 3 Bodies Bebê Unissex Em Ribana Hering Kids (1M a 2 Anos, 2 cores)",
-    "price_now": 63.99,
-    "price_was": 130.42,
-    "discount_pct": 51,
-    "url": "https://s.shopee.com.br/1146RyKFgO?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/555877296717933864057408216187.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T19:10:49.428809"
   }
 ]
