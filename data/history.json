@@ -7867,6 +7867,10 @@
     "e2d917af5bc54f93": {
       "title": "Fralda Pom Pom Protek XG 60 Unidades",
       "posted_at": "2026-10-31T00:30:48.531773"
+    },
+    "7087457394f874e1": {
+      "title": "Fralda Descartável Baby Junior Econômica XG Com  36 Unidades",
+      "posted_at": "2026-10-31T03:10:42.308128"
     }
   },
   "results": [
@@ -38301,6 +38305,14 @@
       "post_id": "1979",
       "error": null,
       "at": "2026-10-31T00:30:48.531250"
+    },
+    {
+      "offer_id": "7087457394f874e1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1980",
+      "error": null,
+      "at": "2026-10-31T03:10:42.307418"
     }
   ]
 }

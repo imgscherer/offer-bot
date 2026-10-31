@@ -1,5 +1,17 @@
 [
   {
+    "id": "7087457394f874e1",
+    "title": "Fralda Descartável Baby Junior Econômica XG Com  36 Unidades",
+    "price_now": 37.12,
+    "price_was": 137.48,
+    "discount_pct": 73,
+    "url": "https://s.shopee.com.br/AUvBONcAG6",
+    "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjvnw7kvmupy28",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-10-31T03:10:42.307807"
+  },
+  {
     "id": "e2d917af5bc54f93",
     "title": "Fralda Pom Pom Protek XG 60 Unidades",
     "price_now": 52.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-30T17:50:57.361695"
-  },
-  {
-    "id": "1458b5484d3c9dfd",
-    "title": "Fralda Pants Huggies, Tamanho M, 72 unidades",
-    "price_now": 67.0,
-    "price_was": 113.25,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B08GZNWJ17?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/664914214517933806516059485828.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T17:30:55.040995"
   }
 ]
