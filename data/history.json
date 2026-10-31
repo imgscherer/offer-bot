@@ -7911,6 +7911,10 @@
     "9f4893766a4b2287": {
       "title": "Babysec Fralda Premium Hiper G 60 Unidades",
       "posted_at": "2026-10-31T14:10:47.541334"
+    },
+    "823dffb6d8943712": {
+      "title": "Fralda Huggies Supreme Care Roupinha M 80 unidades",
+      "posted_at": "2026-10-31T15:20:42.642679"
     }
   },
   "results": [
@@ -38433,6 +38437,14 @@
       "post_id": "1990",
       "error": null,
       "at": "2026-10-31T14:10:47.540729"
+    },
+    {
+      "offer_id": "823dffb6d8943712",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1991",
+      "error": null,
+      "at": "2026-10-31T15:20:42.641982"
     }
   ]
 }
