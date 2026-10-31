@@ -1,5 +1,29 @@
 [
   {
+    "id": "b4afa4e7561de53f",
+    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
+    "price_now": 33.29,
+    "price_was": 52.65,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/927070506717934489264218524876.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-31T12:31:06.931702"
+  },
+  {
+    "id": "1e29f7a0d87922b9",
+    "title": "Fralda Descartável Huggies Máxima Proteção XXG 58 Unidades",
+    "price_now": 68.0,
+    "price_was": 116.9,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0BQ4113GM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/181397003117934492934048412207.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-31T12:30:54.890784"
+  },
+  {
     "id": "d7cf3ca162426aa5",
     "title": "Fralda Personal Baby Protect&Sec G 34 unidades",
     "price_now": 24.82,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-30T21:50:55.417362"
-  },
-  {
-    "id": "c7e19fb886e589cc",
-    "title": "Sabonete Líquido Infantil Protex Baby Delicate Care 200ml",
-    "price_now": 12.59,
-    "price_was": 22.78,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B08JQNSTJY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/150878560417933964693614375570.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T21:50:43.070471"
-  },
-  {
-    "id": "b063cc2ce2c820f1",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe XG 60 unidades",
-    "price_now": 52.54,
-    "price_was": 77.37,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/352793200917933943733657242568.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T21:20:43.309453"
   }
 ]

@@ -7899,6 +7899,14 @@
     "d7cf3ca162426aa5": {
       "title": "Fralda Personal Baby Protect&Sec G 34 unidades",
       "posted_at": "2026-10-31T12:01:19.356455"
+    },
+    "1e29f7a0d87922b9": {
+      "title": "Fralda Descartável Huggies Máxima Proteção XXG 58 Unidades",
+      "posted_at": "2026-10-31T12:30:54.891218"
+    },
+    "b4afa4e7561de53f": {
+      "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
+      "posted_at": "2026-10-31T12:31:06.932109"
     }
   },
   "results": [
@@ -38397,6 +38405,22 @@
       "post_id": "1987",
       "error": null,
       "at": "2026-10-31T12:01:19.355625"
+    },
+    {
+      "offer_id": "1e29f7a0d87922b9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1988",
+      "error": null,
+      "at": "2026-10-31T12:30:54.890458"
+    },
+    {
+      "offer_id": "b4afa4e7561de53f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1989",
+      "error": null,
+      "at": "2026-10-31T12:31:06.931408"
     }
   ]
 }
