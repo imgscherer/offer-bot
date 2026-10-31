@@ -7927,6 +7927,18 @@
     "3e94f415aa450350": {
       "title": "Cadeira De Alimentação Bebê 6 A 36 Meses Kidino Com Bandeja Removível Cinto De Segurança Apoio Para Pés (Preta)",
       "posted_at": "2026-10-31T19:20:38.350189"
+    },
+    "4aa958c5a24c5d7d": {
+      "title": "Fralda Ultrasec Galinha Pintadinha Xg Babysec 30 Unidades",
+      "posted_at": "2026-10-31T19:30:49.444589"
+    },
+    "93d258b321cb4747": {
+      "title": "Fralda Pampers Confort Sec P 72 Unidades",
+      "posted_at": "2026-10-31T19:31:04.454584"
+    },
+    "6496e3cb42356ec3": {
+      "title": "Lenço Umedecido Babysec Pacote Economico 192 folhas",
+      "posted_at": "2026-10-31T19:31:15.114041"
     }
   },
   "results": [
@@ -38481,6 +38493,30 @@
       "post_id": "1994",
       "error": null,
       "at": "2026-10-31T19:20:38.349502"
+    },
+    {
+      "offer_id": "4aa958c5a24c5d7d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1995",
+      "error": null,
+      "at": "2026-10-31T19:30:49.444013"
+    },
+    {
+      "offer_id": "93d258b321cb4747",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1996",
+      "error": null,
+      "at": "2026-10-31T19:31:04.453870"
+    },
+    {
+      "offer_id": "6496e3cb42356ec3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1997",
+      "error": null,
+      "at": "2026-10-31T19:31:15.113341"
     }
   ]
 }

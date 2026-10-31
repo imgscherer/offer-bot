@@ -1,5 +1,41 @@
 [
   {
+    "id": "6496e3cb42356ec3",
+    "title": "Lenço Umedecido Babysec Pacote Economico 192 folhas",
+    "price_now": 20.48,
+    "price_was": 29.09,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B09S77G7N6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/510182167517934746013277493605.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-31T19:31:15.113619"
+  },
+  {
+    "id": "93d258b321cb4747",
+    "title": "Fralda Pampers Confort Sec P 72 Unidades",
+    "price_now": 83.0,
+    "price_was": 118.1,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B095D5PSPG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/600611949917934748325558425914.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-31T19:31:04.454132"
+  },
+  {
+    "id": "4aa958c5a24c5d7d",
+    "title": "Fralda Ultrasec Galinha Pintadinha Xg Babysec 30 Unidades",
+    "price_now": 31.83,
+    "price_was": 52.65,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B07C3JY2V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/487399465917934746503371851792.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-31T19:30:49.444303"
+  },
+  {
     "id": "3e94f415aa450350",
     "title": "Cadeira De Alimentação Bebê 6 A 36 Meses Kidino Com Bandeja Removível Cinto De Segurança Apoio Para Pés (Preta)",
     "price_now": 129.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-31T12:01:04.617130"
-  },
-  {
-    "id": "de82f58dde15ca78",
-    "title": "Fralda Pants Huggies Proteção Acolchoada M 80 unidades",
-    "price_now": 68.0,
-    "price_was": 131.78,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0BXM2Q9SQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/662306385217934474764484810618.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-31T12:00:54.152475"
-  },
-  {
-    "id": "dc29dccc0a85e46e",
-    "title": "Fralda Babysec Ultrasec Giga XG 76 Unidades",
-    "price_now": 60.0,
-    "price_was": 94.82,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0FS864M3F?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/239347494117934458741929257440.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-31T11:40:52.151591"
-  },
-  {
-    "id": "30dcfeddab07b3da",
-    "title": "Kit 4 Peças Conjunto Moletom Infantil",
-    "price_now": 35.91,
-    "price_was": 80.16,
-    "discount_pct": 55,
-    "url": "https://s.shopee.com.br/BV0gU6I6n?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/186867155917934458085902599229.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-31T11:40:42.084944"
   }
 ]
