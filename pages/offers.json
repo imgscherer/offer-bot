@@ -1,5 +1,29 @@
 [
   {
+    "id": "dc29dccc0a85e46e",
+    "title": "Fralda Babysec Ultrasec Giga XG 76 Unidades",
+    "price_now": 60.0,
+    "price_was": 94.82,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0FS864M3F?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/239347494117934458741929257440.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-31T11:40:52.151591"
+  },
+  {
+    "id": "30dcfeddab07b3da",
+    "title": "Kit 4 Peças Conjunto Moletom Infantil",
+    "price_now": 35.91,
+    "price_was": 80.16,
+    "discount_pct": 55,
+    "url": "https://s.shopee.com.br/BV0gU6I6n?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/186867155917934458085902599229.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-10-31T11:40:42.084944"
+  },
+  {
     "id": "54a6fc5d51caed57",
     "title": "Fralda Turma da Mônica Baby P 30 Unidades",
     "price_now": 17.84,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-30T19:10:49.428809"
-  },
-  {
-    "id": "64b1e1716849fd09",
-    "title": "Mamadeira Easy Flow Nuvem Branca 330ml",
-    "price_now": 24.0,
-    "price_was": 36.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0DH7357F1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/595011463217933858013845009885.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T19:00:50.301087"
-  },
-  {
-    "id": "264f034e000d5307",
-    "title": "Granado Hidratante Bebê, Tradicional, 120ml",
-    "price_now": 21.0,
-    "price_was": 34.0,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B08DPQK5K6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/143279760917933824958428070996.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-30T18:01:15.712726"
   }
 ]

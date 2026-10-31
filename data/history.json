@@ -7879,6 +7879,14 @@
     "54a6fc5d51caed57": {
       "title": "Fralda Turma da Mônica Baby P 30 Unidades",
       "posted_at": "2026-10-31T10:50:55.831264"
+    },
+    "30dcfeddab07b3da": {
+      "title": "Kit 4 Peças Conjunto Moletom Infantil",
+      "posted_at": "2026-10-31T11:40:42.085277"
+    },
+    "dc29dccc0a85e46e": {
+      "title": "Fralda Babysec Ultrasec Giga XG 76 Unidades",
+      "posted_at": "2026-10-31T11:40:52.152013"
     }
   },
   "results": [
@@ -38337,6 +38345,22 @@
       "post_id": "1982",
       "error": null,
       "at": "2026-10-31T10:50:55.830612"
+    },
+    {
+      "offer_id": "30dcfeddab07b3da",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1983",
+      "error": null,
+      "at": "2026-10-31T11:40:42.084604"
+    },
+    {
+      "offer_id": "dc29dccc0a85e46e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1984",
+      "error": null,
+      "at": "2026-10-31T11:40:52.151264"
     }
   ]
 }
