@@ -7919,6 +7919,10 @@
     "407f83544f296181": {
       "title": "Fralda Personal Baby Protect & Sec 78 Unidades",
       "posted_at": "2026-10-31T16:30:41.731337"
+    },
+    "000e1f13a13c5bda": {
+      "title": "Meia Infantil Menino ou Menina (Tam.0 a 10 Sortidas)",
+      "posted_at": "2026-10-31T18:20:42.483858"
     }
   },
   "results": [
@@ -38457,6 +38461,14 @@
       "post_id": "1992",
       "error": null,
       "at": "2026-10-31T16:30:41.730879"
+    },
+    {
+      "offer_id": "000e1f13a13c5bda",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "1993",
+      "error": null,
+      "at": "2026-10-31T18:20:42.483323"
     }
   ]
 }
