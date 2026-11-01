@@ -1,5 +1,41 @@
 [
   {
+    "id": "44c8e7b7ed8e08c5",
+    "title": "Huggies Rápida Absorção Fralda Descartável XG 66 UN",
+    "price_now": 76.0,
+    "price_was": 109.03,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B07FQ186DJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/471271034717935432909449535201.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-01T14:41:21.627811"
+  },
+  {
+    "id": "e9af87138aefb9be",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidades",
+    "price_now": 32.2,
+    "price_was": 50.29,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/725649637617935437898873443103.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-01T14:40:53.166774"
+  },
+  {
+    "id": "5da9ab954a40c953",
+    "title": "Prendedor de Chupeta para Bebê Buba com Fecho Trava e Estampa Elefantinho Rosa",
+    "price_now": 10.0,
+    "price_was": 22.18,
+    "discount_pct": 55,
+    "url": "https://www.amazon.com.br/dp/B07MC4WVKH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/369906502217935432896716548123.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-01T14:40:43.161885"
+  },
+  {
     "id": "f9ffe6a4656a2e02",
     "title": "Jogo de Talheres Infantil Simonaggio Disney Kids Princesas 3 Peças",
     "price_now": 9.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-01T12:10:53.423918"
-  },
-  {
-    "id": "0971368caed84be3",
-    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 Unidades",
-    "price_now": 39.0,
-    "price_was": 72.65,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/835789945717935338279376104372.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-01T12:00:55.913342"
-  },
-  {
-    "id": "a5a59f9949c1b2ef",
-    "title": "Fralda Babysec Premium Hiper XXG 52 Unidades",
-    "price_now": 56.0,
-    "price_was": 85.2,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0CCF48PKT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/273947774617935317196795998291.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-01T11:20:57.357644"
-  },
-  {
-    "id": "bd9c42dcf81e53dd",
-    "title": "Fralda Descartável Huggies Premium Natural Care 34 Unidades",
-    "price_now": 27.0,
-    "price_was": 43.59,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/399305519317935308134208681993.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-01T11:10:59.421894"
   }
 ]

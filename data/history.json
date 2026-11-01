@@ -8003,6 +8003,18 @@
     "f9ffe6a4656a2e02": {
       "title": "Jogo de Talheres Infantil Simonaggio Disney Kids Princesas 3 Peças",
       "posted_at": "2026-11-01T14:30:59.579989"
+    },
+    "5da9ab954a40c953": {
+      "title": "Prendedor de Chupeta para Bebê Buba com Fecho Trava e Estampa Elefantinho Rosa",
+      "posted_at": "2026-11-01T14:40:43.162226"
+    },
+    "e9af87138aefb9be": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidades",
+      "posted_at": "2026-11-01T14:40:53.167239"
+    },
+    "44c8e7b7ed8e08c5": {
+      "title": "Huggies Rápida Absorção Fralda Descartável XG 66 UN",
+      "posted_at": "2026-11-01T14:41:21.628320"
     }
   },
   "results": [
@@ -38909,6 +38921,38 @@
       "post_id": "2013",
       "error": null,
       "at": "2026-11-01T14:30:59.579303"
+    },
+    {
+      "offer_id": "5da9ab954a40c953",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2014",
+      "error": null,
+      "at": "2026-11-01T14:40:43.161555"
+    },
+    {
+      "offer_id": "e9af87138aefb9be",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2015",
+      "error": null,
+      "at": "2026-11-01T14:40:53.166446"
+    },
+    {
+      "offer_id": "4383f1ee3b5d6df0",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-01T14:41:09.896383"
+    },
+    {
+      "offer_id": "44c8e7b7ed8e08c5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2016",
+      "error": null,
+      "at": "2026-11-01T14:41:21.627488"
     }
   ]
 }
