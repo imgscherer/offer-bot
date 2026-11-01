@@ -7975,6 +7975,14 @@
     "3af8ac86388561e9": {
       "title": "Fralda Huggies Proteção Alcochoada Pants XG 64 unidades",
       "posted_at": "2026-11-01T13:00:58.470845"
+    },
+    "5be019084d74e289": {
+      "title": "Fralda Pants Huggies Supreme Care Tamanho G 60 Unidades",
+      "posted_at": "2026-11-01T13:20:48.817900"
+    },
+    "983b0d1b032f7fc6": {
+      "title": "Fralda Huggies Proteção Acolhoada Pants G 70 unidades",
+      "posted_at": "2026-11-01T13:20:58.202050"
     }
   },
   "results": [
@@ -38825,6 +38833,22 @@
       "post_id": "2006",
       "error": null,
       "at": "2026-11-01T13:00:58.469882"
+    },
+    {
+      "offer_id": "5be019084d74e289",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2007",
+      "error": null,
+      "at": "2026-11-01T13:20:48.817343"
+    },
+    {
+      "offer_id": "983b0d1b032f7fc6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2008",
+      "error": null,
+      "at": "2026-11-01T13:20:58.201340"
     }
   ]
 }

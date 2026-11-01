@@ -1,5 +1,29 @@
 [
   {
+    "id": "983b0d1b032f7fc6",
+    "title": "Fralda Huggies Proteção Acolhoada Pants G 70 unidades",
+    "price_now": 62.49,
+    "price_was": 131.78,
+    "discount_pct": 53,
+    "url": "https://www.amazon.com.br/dp/B0BXM1CSC2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/749194027517935386712837815721.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-01T13:20:58.201621"
+  },
+  {
+    "id": "5be019084d74e289",
+    "title": "Fralda Pants Huggies Supreme Care Tamanho G 60 Unidades",
+    "price_now": 53.0,
+    "price_was": 113.25,
+    "discount_pct": 53,
+    "url": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/990367798917935390971571365292.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-01T13:20:48.817646"
+  },
+  {
     "id": "3af8ac86388561e9",
     "title": "Fralda Huggies Proteção Alcochoada Pants XG 64 unidades",
     "price_now": 62.93,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-31T19:31:15.113619"
-  },
-  {
-    "id": "93d258b321cb4747",
-    "title": "Fralda Pampers Confort Sec P 72 Unidades",
-    "price_now": 83.0,
-    "price_was": 118.1,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B095D5PSPG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/600611949917934748325558425914.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-31T19:31:04.454132"
-  },
-  {
-    "id": "4aa958c5a24c5d7d",
-    "title": "Fralda Ultrasec Galinha Pintadinha Xg Babysec 30 Unidades",
-    "price_now": 31.83,
-    "price_was": 52.65,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B07C3JY2V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/487399465917934746503371851792.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-31T19:30:49.444303"
   }
 ]
