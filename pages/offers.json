@@ -1,5 +1,17 @@
 [
   {
+    "id": "e107a6be0423eb2d",
+    "title": "Kit Mordedor Chocalho Bebê 6 meses",
+    "price_now": 19.0,
+    "price_was": 35.99,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B0CHWZ55QG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/683204684617935671713937112490.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-01T21:20:47.632347"
+  },
+  {
     "id": "4783259e2a9bc597",
     "title": "Fralda Ultrasec Galinha Pintadinha Xg Babysec 30 Unidades",
     "price_now": 31.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-01T13:20:58.201621"
-  },
-  {
-    "id": "5be019084d74e289",
-    "title": "Fralda Pants Huggies Supreme Care Tamanho G 60 Unidades",
-    "price_now": 53.0,
-    "price_was": 113.25,
-    "discount_pct": 53,
-    "url": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/990367798917935390971571365292.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-01T13:20:48.817646"
   }
 ]

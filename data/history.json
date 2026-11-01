@@ -8023,6 +8023,10 @@
     "4783259e2a9bc597": {
       "title": "Fralda Ultrasec Galinha Pintadinha Xg Babysec 30 Unidades",
       "posted_at": "2026-11-01T18:00:56.225607"
+    },
+    "e107a6be0423eb2d": {
+      "title": "Kit Mordedor Chocalho Bebê 6 meses",
+      "posted_at": "2026-11-01T21:20:47.632672"
     }
   },
   "results": [
@@ -39001,6 +39005,14 @@
       "post_id": "2018",
       "error": null,
       "at": "2026-11-01T18:00:56.224955"
+    },
+    {
+      "offer_id": "e107a6be0423eb2d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2019",
+      "error": null,
+      "at": "2026-11-01T21:20:47.632058"
     }
   ]
 }
