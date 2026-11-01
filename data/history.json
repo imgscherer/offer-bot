@@ -7987,6 +7987,10 @@
     "236611fff0e4ee66": {
       "title": "Fralda Huggies Rápida Absorção P 46 Unidades",
       "posted_at": "2026-11-01T13:40:41.869081"
+    },
+    "215156da3678478a": {
+      "title": "Fralda Huggies Tripla Proteção P com 46 Unidades",
+      "posted_at": "2026-11-01T13:50:41.693241"
     }
   },
   "results": [
@@ -38861,6 +38865,14 @@
       "post_id": "2009",
       "error": null,
       "at": "2026-11-01T13:40:41.868018"
+    },
+    {
+      "offer_id": "215156da3678478a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2010",
+      "error": null,
+      "at": "2026-11-01T13:50:41.692674"
     }
   ]
 }

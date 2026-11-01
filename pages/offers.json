@@ -1,5 +1,17 @@
 [
   {
+    "id": "215156da3678478a",
+    "title": "Fralda Huggies Tripla Proteção P com 46 Unidades",
+    "price_now": 31.0,
+    "price_was": 55.53,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/418861666917935405712392730882.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-01T13:50:41.692964"
+  },
+  {
     "id": "236611fff0e4ee66",
     "title": "Fralda Huggies Rápida Absorção P 46 Unidades",
     "price_now": 31.51,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-31T23:31:06.035578"
-  },
-  {
-    "id": "645c4f36b5615e9e",
-    "title": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
-    "price_now": 19.94,
-    "price_was": 28.68,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B099KTC5VJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/637900424217934886284534172960.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-31T23:20:58.769379"
   }
 ]
