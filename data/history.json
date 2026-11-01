@@ -7959,6 +7959,10 @@
     "bd9c42dcf81e53dd": {
       "title": "Fralda Descartável Huggies Premium Natural Care 34 Unidades",
       "posted_at": "2026-11-01T11:10:59.422409"
+    },
+    "a5a59f9949c1b2ef": {
+      "title": "Fralda Babysec Premium Hiper XXG 52 Unidades",
+      "posted_at": "2026-11-01T11:20:57.358051"
     }
   },
   "results": [
@@ -38777,6 +38781,14 @@
       "post_id": "2002",
       "error": null,
       "at": "2026-11-01T11:10:59.421561"
+    },
+    {
+      "offer_id": "a5a59f9949c1b2ef",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2003",
+      "error": null,
+      "at": "2026-11-01T11:20:57.357327"
     }
   ]
 }

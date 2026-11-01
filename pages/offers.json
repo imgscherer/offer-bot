@@ -1,5 +1,17 @@
 [
   {
+    "id": "a5a59f9949c1b2ef",
+    "title": "Fralda Babysec Premium Hiper XXG 52 Unidades",
+    "price_now": 56.0,
+    "price_was": 85.2,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0CCF48PKT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/273947774617935317196795998291.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-01T11:20:57.357644"
+  },
+  {
     "id": "bd9c42dcf81e53dd",
     "title": "Fralda Descartável Huggies Premium Natural Care 34 Unidades",
     "price_now": 27.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-31T16:30:41.731113"
-  },
-  {
-    "id": "823dffb6d8943712",
-    "title": "Fralda Huggies Supreme Care Roupinha M 80 unidades",
-    "price_now": 68.23,
-    "price_was": 131.78,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0BXM2Q9SQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/412366070217934594116534299958.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-31T15:20:42.642373"
   }
 ]
