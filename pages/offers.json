@@ -1,5 +1,17 @@
 [
   {
+    "id": "d88eb18c2d214ff8",
+    "title": "Fralda Pampers Pants Ajuste Total G 90 Unidades",
+    "price_now": 104.99,
+    "price_was": 194.9,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/979767250117935341252373054932.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-01T12:10:53.423918"
+  },
+  {
     "id": "0971368caed84be3",
     "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 Unidades",
     "price_now": 39.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-31T19:20:38.349861"
-  },
-  {
-    "id": "000e1f13a13c5bda",
-    "title": "Meia Infantil Menino ou Menina (Tam.0 a 10 Sortidas)",
-    "price_now": 11.77,
-    "price_was": 22.21,
-    "discount_pct": 47,
-    "url": "https://s.shopee.com.br/4Ve0Hy8wb4?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/712238325817934698548272217990.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-31T18:20:42.483616"
   }
 ]
