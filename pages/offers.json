@@ -1,5 +1,17 @@
 [
   {
+    "id": "236611fff0e4ee66",
+    "title": "Fralda Huggies Rápida Absorção P 46 Unidades",
+    "price_now": 31.51,
+    "price_was": 55.53,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/774488975717935402504519922413.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-01T13:40:41.868379"
+  },
+  {
     "id": "983b0d1b032f7fc6",
     "title": "Fralda Huggies Proteção Acolhoada Pants G 70 unidades",
     "price_now": 62.49,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-31T23:20:58.769379"
-  },
-  {
-    "id": "6496e3cb42356ec3",
-    "title": "Lenço Umedecido Babysec Pacote Economico 192 folhas",
-    "price_now": 20.48,
-    "price_was": 29.09,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B09S77G7N6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/510182167517934746013277493605.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-31T19:31:15.113619"
   }
 ]

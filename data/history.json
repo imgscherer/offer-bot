@@ -7983,6 +7983,10 @@
     "983b0d1b032f7fc6": {
       "title": "Fralda Huggies Proteção Acolhoada Pants G 70 unidades",
       "posted_at": "2026-11-01T13:20:58.202050"
+    },
+    "236611fff0e4ee66": {
+      "title": "Fralda Huggies Rápida Absorção P 46 Unidades",
+      "posted_at": "2026-11-01T13:40:41.869081"
     }
   },
   "results": [
@@ -38849,6 +38853,14 @@
       "post_id": "2008",
       "error": null,
       "at": "2026-11-01T13:20:58.201340"
+    },
+    {
+      "offer_id": "236611fff0e4ee66",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2009",
+      "error": null,
+      "at": "2026-11-01T13:40:41.868018"
     }
   ]
 }
