@@ -1,5 +1,17 @@
 [
   {
+    "id": "0971368caed84be3",
+    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 Unidades",
+    "price_now": 39.0,
+    "price_was": 72.65,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/835789945717935338279376104372.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-01T12:00:55.913342"
+  },
+  {
     "id": "a5a59f9949c1b2ef",
     "title": "Fralda Babysec Premium Hiper XXG 52 Unidades",
     "price_now": 56.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-31T18:20:42.483616"
-  },
-  {
-    "id": "407f83544f296181",
-    "title": "Fralda Personal Baby Protect & Sec 78 Unidades",
-    "price_now": 62.99,
-    "price_was": 89.99,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0DF9RCVYY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/448998038717934634906913742657.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-31T16:30:41.731113"
   }
 ]

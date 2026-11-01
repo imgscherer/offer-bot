@@ -7963,6 +7963,10 @@
     "a5a59f9949c1b2ef": {
       "title": "Fralda Babysec Premium Hiper XXG 52 Unidades",
       "posted_at": "2026-11-01T11:20:57.358051"
+    },
+    "0971368caed84be3": {
+      "title": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 Unidades",
+      "posted_at": "2026-11-01T12:00:55.913533"
     }
   },
   "results": [
@@ -38789,6 +38793,14 @@
       "post_id": "2003",
       "error": null,
       "at": "2026-11-01T11:20:57.357327"
+    },
+    {
+      "offer_id": "0971368caed84be3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2004",
+      "error": null,
+      "at": "2026-11-01T12:00:55.913110"
     }
   ]
 }
