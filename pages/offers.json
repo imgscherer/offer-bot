@@ -1,5 +1,17 @@
 [
   {
+    "id": "6a2cf2ffb90ad74c",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Un",
+    "price_now": 19.0,
+    "price_was": 30.17,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B093G99QBH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/733538969317935440752782282252.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-01T14:50:42.544059"
+  },
+  {
     "id": "44c8e7b7ed8e08c5",
     "title": "Huggies Rápida Absorção Fralda Descartável XG 66 UN",
     "price_now": 76.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-01T13:00:58.470216"
-  },
-  {
-    "id": "d88eb18c2d214ff8",
-    "title": "Fralda Pampers Pants Ajuste Total G 90 Unidades",
-    "price_now": 104.99,
-    "price_was": 194.9,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/979767250117935341252373054932.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-01T12:10:53.423918"
   }
 ]
