@@ -1,5 +1,17 @@
 [
   {
+    "id": "3af8ac86388561e9",
+    "title": "Fralda Huggies Proteção Alcochoada Pants XG 64 unidades",
+    "price_now": 62.93,
+    "price_was": 131.78,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/605586374817935377137988094863.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-01T13:00:58.470216"
+  },
+  {
     "id": "d88eb18c2d214ff8",
     "title": "Fralda Pampers Pants Ajuste Total G 90 Unidades",
     "price_now": 104.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-31T19:30:49.444303"
-  },
-  {
-    "id": "3e94f415aa450350",
-    "title": "Cadeira De Alimentação Bebê 6 A 36 Meses Kidino Com Bandeja Removível Cinto De Segurança Apoio Para Pés (Preta)",
-    "price_now": 129.0,
-    "price_was": 189.9,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0H311V8QJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/153529597617934735282999423598.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-31T19:20:38.349861"
   }
 ]

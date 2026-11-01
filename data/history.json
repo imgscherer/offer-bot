@@ -7971,6 +7971,10 @@
     "d88eb18c2d214ff8": {
       "title": "Fralda Pampers Pants Ajuste Total G 90 Unidades",
       "posted_at": "2026-11-01T12:10:53.424329"
+    },
+    "3af8ac86388561e9": {
+      "title": "Fralda Huggies Proteção Alcochoada Pants XG 64 unidades",
+      "posted_at": "2026-11-01T13:00:58.470845"
     }
   },
   "results": [
@@ -38813,6 +38817,14 @@
       "post_id": "2005",
       "error": null,
       "at": "2026-11-01T12:10:53.423550"
+    },
+    {
+      "offer_id": "3af8ac86388561e9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2006",
+      "error": null,
+      "at": "2026-11-01T13:00:58.469882"
     }
   ]
 }
