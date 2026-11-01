@@ -8027,6 +8027,10 @@
     "e107a6be0423eb2d": {
       "title": "Kit Mordedor Chocalho Bebê 6 meses",
       "posted_at": "2026-11-01T21:20:47.632672"
+    },
+    "948b5dfe393a4289": {
+      "title": "10 Lembrancinhas de Gêmeos para Chá de Bebê    ( 10 PARES ) ",
+      "posted_at": "2026-11-01T23:00:51.410960"
     }
   },
   "results": [
@@ -39013,6 +39017,14 @@
       "post_id": "2019",
       "error": null,
       "at": "2026-11-01T21:20:47.632058"
+    },
+    {
+      "offer_id": "948b5dfe393a4289",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2020",
+      "error": null,
+      "at": "2026-11-01T23:00:51.410383"
     }
   ]
 }
