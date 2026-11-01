@@ -7991,6 +7991,14 @@
     "215156da3678478a": {
       "title": "Fralda Huggies Tripla Proteção P com 46 Unidades",
       "posted_at": "2026-11-01T13:50:41.693241"
+    },
+    "4d2716adca497f38": {
+      "title": "Mocassim Bebê (Tam. 17 ao 22) Opções de cores",
+      "posted_at": "2026-11-01T14:10:57.956286"
+    },
+    "cb9f4cc57be55838": {
+      "title": "Fralda Pom Pom Protek G, 42 Unidades",
+      "posted_at": "2026-11-01T14:11:14.235307"
     }
   },
   "results": [
@@ -38873,6 +38881,22 @@
       "post_id": "2010",
       "error": null,
       "at": "2026-11-01T13:50:41.692674"
+    },
+    {
+      "offer_id": "4d2716adca497f38",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2011",
+      "error": null,
+      "at": "2026-11-01T14:10:57.955364"
+    },
+    {
+      "offer_id": "cb9f4cc57be55838",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2012",
+      "error": null,
+      "at": "2026-11-01T14:11:14.234532"
     }
   ]
 }
