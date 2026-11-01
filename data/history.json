@@ -7951,6 +7951,14 @@
     "ff351d0df9804e44": {
       "title": "Garrafa Infantil de Inox Dinossauro com bebedor silicone 350 ml Lillo",
       "posted_at": "2026-10-31T23:50:39.885647"
+    },
+    "fe4425c09ce9464d": {
+      "title": "Fralda Huggies Natural Care RN 34 Unidades",
+      "posted_at": "2026-11-01T11:10:45.857772"
+    },
+    "bd9c42dcf81e53dd": {
+      "title": "Fralda Descartável Huggies Premium Natural Care 34 Unidades",
+      "posted_at": "2026-11-01T11:10:59.422409"
     }
   },
   "results": [
@@ -38753,6 +38761,22 @@
       "post_id": "2000",
       "error": null,
       "at": "2026-10-31T23:50:39.885270"
+    },
+    {
+      "offer_id": "fe4425c09ce9464d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2001",
+      "error": null,
+      "at": "2026-11-01T11:10:45.857065"
+    },
+    {
+      "offer_id": "bd9c42dcf81e53dd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2002",
+      "error": null,
+      "at": "2026-11-01T11:10:59.421561"
     }
   ]
 }

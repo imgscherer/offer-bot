@@ -1,5 +1,29 @@
 [
   {
+    "id": "bd9c42dcf81e53dd",
+    "title": "Fralda Descartável Huggies Premium Natural Care 34 Unidades",
+    "price_now": 27.0,
+    "price_was": 43.59,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/399305519317935308134208681993.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-01T11:10:59.421894"
+  },
+  {
+    "id": "fe4425c09ce9464d",
+    "title": "Fralda Huggies Natural Care RN 34 Unidades",
+    "price_now": 25.87,
+    "price_was": 43.59,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/472729239717935312967842789086.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-01T11:10:45.857456"
+  },
+  {
     "id": "ff351d0df9804e44",
     "title": "Garrafa Infantil de Inox Dinossauro com bebedor silicone 350 ml Lillo",
     "price_now": 44.01,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-10-31T15:20:42.642373"
-  },
-  {
-    "id": "9f4893766a4b2287",
-    "title": "Babysec Fralda Premium Hiper G 60 Unidades",
-    "price_now": 56.0,
-    "price_was": 85.2,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0CCDZ9XBJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/801724395317934556294188415153.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-31T14:10:47.541082"
-  },
-  {
-    "id": "b4afa4e7561de53f",
-    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
-    "price_now": 33.29,
-    "price_was": 52.65,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/927070506717934489264218524876.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-10-31T12:31:06.931702"
   }
 ]
