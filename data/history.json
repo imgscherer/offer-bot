@@ -7999,6 +7999,10 @@
     "cb9f4cc57be55838": {
       "title": "Fralda Pom Pom Protek G, 42 Unidades",
       "posted_at": "2026-11-01T14:11:14.235307"
+    },
+    "f9ffe6a4656a2e02": {
+      "title": "Jogo de Talheres Infantil Simonaggio Disney Kids Princesas 3 Peças",
+      "posted_at": "2026-11-01T14:30:59.579989"
     }
   },
   "results": [
@@ -38897,6 +38901,14 @@
       "post_id": "2012",
       "error": null,
       "at": "2026-11-01T14:11:14.234532"
+    },
+    {
+      "offer_id": "f9ffe6a4656a2e02",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2013",
+      "error": null,
+      "at": "2026-11-01T14:30:59.579303"
     }
   ]
 }

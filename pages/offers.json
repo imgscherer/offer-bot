@@ -1,5 +1,17 @@
 [
   {
+    "id": "f9ffe6a4656a2e02",
+    "title": "Jogo de Talheres Infantil Simonaggio Disney Kids Princesas 3 Peças",
+    "price_now": 9.0,
+    "price_was": 18.47,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B08PL4G9S4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/506686512217935426307058086955.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-01T14:30:59.579644"
+  },
+  {
     "id": "cb9f4cc57be55838",
     "title": "Fralda Pom Pom Protek G, 42 Unidades",
     "price_now": 33.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-01T11:10:59.421894"
-  },
-  {
-    "id": "fe4425c09ce9464d",
-    "title": "Fralda Huggies Natural Care RN 34 Unidades",
-    "price_now": 25.87,
-    "price_was": 43.59,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/472729239717935312967842789086.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-01T11:10:45.857456"
   }
 ]
