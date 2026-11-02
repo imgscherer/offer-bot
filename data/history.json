@@ -8031,6 +8031,10 @@
     "948b5dfe393a4289": {
       "title": "10 Lembrancinhas de Gêmeos para Chá de Bebê    ( 10 PARES ) ",
       "posted_at": "2026-11-01T23:00:51.410960"
+    },
+    "468c2510822d22f8": {
+      "title": "Fralda Descartável Huggies Premium Natural Care 34 Unidades",
+      "posted_at": "2026-11-02T00:10:47.315336"
     }
   },
   "results": [
@@ -39025,6 +39029,14 @@
       "post_id": "2020",
       "error": null,
       "at": "2026-11-01T23:00:51.410383"
+    },
+    {
+      "offer_id": "468c2510822d22f8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2021",
+      "error": null,
+      "at": "2026-11-02T00:10:47.314726"
     }
   ]
 }

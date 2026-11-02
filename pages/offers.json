@@ -1,5 +1,17 @@
 [
   {
+    "id": "468c2510822d22f8",
+    "title": "Fralda Descartável Huggies Premium Natural Care 34 Unidades",
+    "price_now": 25.0,
+    "price_was": 43.59,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/130705402017935776125186805850.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-02T00:10:47.315040"
+  },
+  {
     "id": "948b5dfe393a4289",
     "title": "10 Lembrancinhas de Gêmeos para Chá de Bebê    ( 10 PARES ) ",
     "price_now": 39.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-01T13:50:41.692964"
-  },
-  {
-    "id": "236611fff0e4ee66",
-    "title": "Fralda Huggies Rápida Absorção P 46 Unidades",
-    "price_now": 31.51,
-    "price_was": 55.53,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/774488975717935402504519922413.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-01T13:40:41.868379"
   }
 ]
