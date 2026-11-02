@@ -1,5 +1,17 @@
 [
   {
+    "id": "1e819969588f0018",
+    "title": "MamyPoko Fralda-Calça Superproteção XG 24 unidades",
+    "price_now": 24.0,
+    "price_was": 42.9,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/155176905717936243478569678018.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-02T13:01:09.252811"
+  },
+  {
     "id": "94813f7bada3a684",
     "title": "Fralda Huggies Premium Natural Care RN 34 Unidades",
     "price_now": 25.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-01T14:40:43.161885"
-  },
-  {
-    "id": "f9ffe6a4656a2e02",
-    "title": "Jogo de Talheres Infantil Simonaggio Disney Kids Princesas 3 Peças",
-    "price_now": 9.0,
-    "price_was": 18.47,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B08PL4G9S4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/506686512217935426307058086955.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-01T14:30:59.579644"
   }
 ]

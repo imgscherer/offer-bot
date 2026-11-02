@@ -8047,6 +8047,10 @@
     "94813f7bada3a684": {
       "title": "Fralda Huggies Premium Natural Care RN 34 Unidades",
       "posted_at": "2026-11-02T12:01:04.788451"
+    },
+    "1e819969588f0018": {
+      "title": "MamyPoko Fralda-Calça Superproteção XG 24 unidades",
+      "posted_at": "2026-11-02T13:01:09.253430"
     }
   },
   "results": [
@@ -39073,6 +39077,14 @@
       "post_id": "2024",
       "error": null,
       "at": "2026-11-02T12:01:04.787689"
+    },
+    {
+      "offer_id": "1e819969588f0018",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2025",
+      "error": null,
+      "at": "2026-11-02T13:01:09.252502"
     }
   ]
 }
