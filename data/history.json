@@ -8063,6 +8063,10 @@
     "b226bf608debb0b6": {
       "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
       "posted_at": "2026-11-02T13:51:04.504934"
+    },
+    "ac3f95f4ef7f9111": {
+      "title": "Chupeta Ultra Air 0-6 Meses Philips Avent, Elefante",
+      "posted_at": "2026-11-02T14:20:51.466308"
     }
   },
   "results": [
@@ -39121,6 +39125,14 @@
       "post_id": "2028",
       "error": null,
       "at": "2026-11-02T13:51:04.504129"
+    },
+    {
+      "offer_id": "ac3f95f4ef7f9111",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2029",
+      "error": null,
+      "at": "2026-11-02T14:20:51.465634"
     }
   ]
 }

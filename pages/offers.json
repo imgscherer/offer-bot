@@ -1,5 +1,17 @@
 [
   {
+    "id": "ac3f95f4ef7f9111",
+    "title": "Chupeta Ultra Air 0-6 Meses Philips Avent, Elefante",
+    "price_now": 19.0,
+    "price_was": 40.9,
+    "discount_pct": 54,
+    "url": "https://www.amazon.com.br/dp/B0C4M8S87B?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/201441973417936285107593354287.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-02T14:20:51.465973"
+  },
+  {
     "id": "b226bf608debb0b6",
     "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
     "price_now": 26.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-01T18:00:56.225303"
-  },
-  {
-    "id": "6a2cf2ffb90ad74c",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Un",
-    "price_now": 19.0,
-    "price_was": 30.17,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B093G99QBH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/733538969317935440752782282252.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-01T14:50:42.544059"
   }
 ]
