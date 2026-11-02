@@ -8051,6 +8051,10 @@
     "1e819969588f0018": {
       "title": "MamyPoko Fralda-Calça Superproteção XG 24 unidades",
       "posted_at": "2026-11-02T13:01:09.253430"
+    },
+    "36fdf9d08a3e2aec": {
+      "title": "Personal Fralda Baby Protect&Sec XG 28 unidades",
+      "posted_at": "2026-11-02T13:30:52.189698"
     }
   },
   "results": [
@@ -39085,6 +39089,14 @@
       "post_id": "2025",
       "error": null,
       "at": "2026-11-02T13:01:09.252502"
+    },
+    {
+      "offer_id": "36fdf9d08a3e2aec",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2026",
+      "error": null,
+      "at": "2026-11-02T13:30:52.188486"
     }
   ]
 }
