@@ -8067,6 +8067,14 @@
     "ac3f95f4ef7f9111": {
       "title": "Chupeta Ultra Air 0-6 Meses Philips Avent, Elefante",
       "posted_at": "2026-11-02T14:20:51.466308"
+    },
+    "a3333341189c02a5": {
+      "title": "Kit Enxoval Roupinhas de Bebê 5 Peças Body Manga Longa Liso",
+      "posted_at": "2026-11-02T15:30:49.482232"
+    },
+    "581093b40c40d8e9": {
+      "title": "Kit Roupinha de Bebê 6 Peças Macacão e Body Regata Estampado",
+      "posted_at": "2026-11-02T15:30:52.444085"
     }
   },
   "results": [
@@ -39133,6 +39141,22 @@
       "post_id": "2029",
       "error": null,
       "at": "2026-11-02T14:20:51.465634"
+    },
+    {
+      "offer_id": "a3333341189c02a5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2030",
+      "error": null,
+      "at": "2026-11-02T15:30:49.481563"
+    },
+    {
+      "offer_id": "581093b40c40d8e9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2031",
+      "error": null,
+      "at": "2026-11-02T15:30:52.443350"
     }
   ]
 }

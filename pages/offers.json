@@ -1,5 +1,29 @@
 [
   {
+    "id": "581093b40c40d8e9",
+    "title": "Kit Roupinha de Bebê 6 Peças Macacão e Body Regata Estampado",
+    "price_now": 59.99,
+    "price_was": 93.73,
+    "discount_pct": 36,
+    "url": "https://s.shopee.com.br/8KqlsG8qEK",
+    "image": "https://cf.shopee.com.br/file/ef8b23119753927fbebba0c81336100a",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-02T15:30:52.443649"
+  },
+  {
+    "id": "a3333341189c02a5",
+    "title": "Kit Enxoval Roupinhas de Bebê 5 Peças Body Manga Longa Liso",
+    "price_now": 45.9,
+    "price_was": 75.25,
+    "discount_pct": 39,
+    "url": "https://s.shopee.com.br/AAIQ3d1rVf",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfg4-m4aanqnkej7s5b",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-02T15:30:49.481917"
+  },
+  {
     "id": "ac3f95f4ef7f9111",
     "title": "Chupeta Ultra Air 0-6 Meses Philips Avent, Elefante",
     "price_now": 19.0,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-01T23:00:51.410697"
-  },
-  {
-    "id": "e107a6be0423eb2d",
-    "title": "Kit Mordedor Chocalho Bebê 6 meses",
-    "price_now": 19.0,
-    "price_was": 35.99,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B0CHWZ55QG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/683204684617935671713937112490.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-01T21:20:47.632347"
-  },
-  {
-    "id": "4783259e2a9bc597",
-    "title": "Fralda Ultrasec Galinha Pintadinha Xg Babysec 30 Unidades",
-    "price_now": 31.0,
-    "price_was": 52.65,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07C3JY2V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/767078558817935558318362870266.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-01T18:00:56.225303"
   }
 ]
