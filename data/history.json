@@ -8055,6 +8055,14 @@
     "36fdf9d08a3e2aec": {
       "title": "Personal Fralda Baby Protect&Sec XG 28 unidades",
       "posted_at": "2026-11-02T13:30:52.189698"
+    },
+    "006d56c8585bcf41": {
+      "title": "Fralda Pampers Pants Ajuste Total G 90 Unidades",
+      "posted_at": "2026-11-02T13:50:52.658661"
+    },
+    "b226bf608debb0b6": {
+      "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
+      "posted_at": "2026-11-02T13:51:04.504934"
     }
   },
   "results": [
@@ -39097,6 +39105,22 @@
       "post_id": "2026",
       "error": null,
       "at": "2026-11-02T13:30:52.188486"
+    },
+    {
+      "offer_id": "006d56c8585bcf41",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2027",
+      "error": null,
+      "at": "2026-11-02T13:50:52.657784"
+    },
+    {
+      "offer_id": "b226bf608debb0b6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2028",
+      "error": null,
+      "at": "2026-11-02T13:51:04.504129"
     }
   ]
 }

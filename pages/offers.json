@@ -1,5 +1,29 @@
 [
   {
+    "id": "b226bf608debb0b6",
+    "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
+    "price_now": 26.0,
+    "price_was": 39.49,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/331650953717936267575878601215.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-02T13:51:04.504482"
+  },
+  {
+    "id": "006d56c8585bcf41",
+    "title": "Fralda Pampers Pants Ajuste Total G 90 Unidades",
+    "price_now": 97.67,
+    "price_was": 194.9,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/732822097817936262705901087545.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-02T13:50:52.658136"
+  },
+  {
     "id": "36fdf9d08a3e2aec",
     "title": "Personal Fralda Baby Protect&Sec XG 28 unidades",
     "price_now": 24.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-01T14:50:42.544059"
-  },
-  {
-    "id": "44c8e7b7ed8e08c5",
-    "title": "Huggies Rápida Absorção Fralda Descartável XG 66 UN",
-    "price_now": 76.0,
-    "price_was": 109.03,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B07FQ186DJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/471271034717935432909449535201.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-01T14:41:21.627811"
-  },
-  {
-    "id": "e9af87138aefb9be",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidades",
-    "price_now": 32.2,
-    "price_was": 50.29,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/725649637617935437898873443103.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-01T14:40:53.166774"
   }
 ]
