@@ -1,5 +1,17 @@
 [
   {
+    "id": "94813f7bada3a684",
+    "title": "Fralda Huggies Premium Natural Care RN 34 Unidades",
+    "price_now": 25.0,
+    "price_was": 43.59,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/439700664117936197906521629296.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-02T12:01:04.788030"
+  },
+  {
     "id": "f34326db162944a7",
     "title": "Fralda Pants Huggies Proteção Acolchoada, Tamanho M, 80 Unidades",
     "price_now": 68.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-01T14:30:59.579644"
-  },
-  {
-    "id": "cb9f4cc57be55838",
-    "title": "Fralda Pom Pom Protek G, 42 Unidades",
-    "price_now": 33.9,
-    "price_was": 50.29,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/828676788317935417467540619208.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-01T14:11:14.234874"
   }
 ]
