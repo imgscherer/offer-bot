@@ -8035,6 +8035,14 @@
     "468c2510822d22f8": {
       "title": "Fralda Descartável Huggies Premium Natural Care 34 Unidades",
       "posted_at": "2026-11-02T00:10:47.315336"
+    },
+    "d246c1adc1119fb2": {
+      "title": "Fralda Pampers Pants Ajuste Total G com 90 Unidades",
+      "posted_at": "2026-11-02T11:40:46.776216"
+    },
+    "f34326db162944a7": {
+      "title": "Fralda Pants Huggies Proteção Acolchoada, Tamanho M, 80 Unidades",
+      "posted_at": "2026-11-02T11:40:58.049606"
     }
   },
   "results": [
@@ -39037,6 +39045,22 @@
       "post_id": "2021",
       "error": null,
       "at": "2026-11-02T00:10:47.314726"
+    },
+    {
+      "offer_id": "d246c1adc1119fb2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2022",
+      "error": null,
+      "at": "2026-11-02T11:40:46.775583"
+    },
+    {
+      "offer_id": "f34326db162944a7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2023",
+      "error": null,
+      "at": "2026-11-02T11:40:58.048846"
     }
   ]
 }
