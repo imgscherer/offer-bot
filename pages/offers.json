@@ -1,5 +1,29 @@
 [
   {
+    "id": "656dbf8c5bd2f6b5",
+    "title": "Fralda Turma Da Mônica Baby P, 62 Unidades",
+    "price_now": 34.79,
+    "price_was": 50.04,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/681622356617937199923968225909.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T15:50:53.581594"
+  },
+  {
+    "id": "8a755357b8afd34b",
+    "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
+    "price_now": 33.0,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/508048338117937199501672570115.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T15:50:45.452663"
+  },
+  {
     "id": "7737de799042a9d0",
     "title": "Fralda Love & Care Recém Nascido RN Mili 18 Unidades",
     "price_now": 13.99,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T13:51:02.316326"
-  },
-  {
-    "id": "2a7f054a9736b808",
-    "title": "Garrafa Infantil de Inox Dinossauro com Bebedor Silicone 350 ml Lillo",
-    "price_now": 33.0,
-    "price_was": 139.9,
-    "discount_pct": 76,
-    "url": "https://www.amazon.com.br/dp/B0F3Z73NTX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/692796404217937126115529207169.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T13:50:48.964869"
-  },
-  {
-    "id": "bca9d93804404613",
-    "title": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
-    "price_now": 148.48,
-    "price_was": 229.49,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/981324250317937117598153363352.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T13:30:53.949184"
   }
 ]

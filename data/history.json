@@ -8239,6 +8239,14 @@
     "7737de799042a9d0": {
       "title": "Fralda Love & Care Recém Nascido RN Mili 18 Unidades",
       "posted_at": "2026-11-03T15:20:53.336794"
+    },
+    "8a755357b8afd34b": {
+      "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
+      "posted_at": "2026-11-03T15:50:45.453010"
+    },
+    "656dbf8c5bd2f6b5": {
+      "title": "Fralda Turma Da Mônica Baby P, 62 Unidades",
+      "posted_at": "2026-11-03T15:50:53.582052"
     }
   },
   "results": [
@@ -39689,6 +39697,22 @@
       "post_id": "2072",
       "error": null,
       "at": "2026-11-03T15:20:53.336039"
+    },
+    {
+      "offer_id": "8a755357b8afd34b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2073",
+      "error": null,
+      "at": "2026-11-03T15:50:45.452323"
+    },
+    {
+      "offer_id": "656dbf8c5bd2f6b5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2074",
+      "error": null,
+      "at": "2026-11-03T15:50:53.581270"
     }
   ]
 }
