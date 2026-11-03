@@ -1,5 +1,17 @@
 [
   {
+    "id": "71f7d9159d77da09",
+    "title": "Fralda Mili Love & Care Premium XXG 40 unidades",
+    "price_now": 44.59,
+    "price_was": 72.98,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B07GG4VT6S?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/260063297317937443077089023889.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T22:30:52.848266"
+  },
+  {
     "id": "ddf1ac265dc6bd5f",
     "title": "Fralda Huggies Supreme Care P 48 Unidades",
     "price_now": 37.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T20:01:19.217916"
-  },
-  {
-    "id": "1a8f664f5f08e60e",
-    "title": "Fralda Cremer Econômica XXG 22 Unidades",
-    "price_now": 22.0,
-    "price_was": 32.79,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0D92MTQ8H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/575724785617937348717349023894.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T19:50:49.008838"
   }
 ]

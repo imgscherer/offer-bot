@@ -8395,6 +8395,10 @@
     "ddf1ac265dc6bd5f": {
       "title": "Fralda Huggies Supreme Care P 48 Unidades",
       "posted_at": "2026-11-03T22:01:07.111926"
+    },
+    "71f7d9159d77da09": {
+      "title": "Fralda Mili Love & Care Premium XXG 40 unidades",
+      "posted_at": "2026-11-03T22:30:52.848596"
     }
   },
   "results": [
@@ -40285,6 +40289,14 @@
       "post_id": "2111",
       "error": null,
       "at": "2026-11-03T22:01:07.111082"
+    },
+    {
+      "offer_id": "71f7d9159d77da09",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2112",
+      "error": null,
+      "at": "2026-11-03T22:30:52.847887"
     }
   ]
 }
