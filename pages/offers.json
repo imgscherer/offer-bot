@@ -1,5 +1,29 @@
 [
   {
+    "id": "7737de799042a9d0",
+    "title": "Fralda Love & Care Recém Nascido RN Mili 18 Unidades",
+    "price_now": 13.99,
+    "price_was": 27.98,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B09CDXRQJL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/673635897117937185504194157178.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T15:20:53.336369"
+  },
+  {
+    "id": "f42c8e5415531bce",
+    "title": "Fralda Personal Baby Premium Protection G com 30",
+    "price_now": 24.0,
+    "price_was": 48.75,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/540909347117937189221434294482.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T15:20:44.673545"
+  },
+  {
     "id": "688dd9649cd46b13",
     "title": "Babysec Fraldas Ultrasec Galinha Pintadinha M 72 Unidades",
     "price_now": 44.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T13:30:53.949184"
-  },
-  {
-    "id": "24eaec898fb9fada",
-    "title": "Fralda pampers confort sec tamanho xxg 148 unidades",
-    "price_now": 164.8,
-    "price_was": 235.87,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0DDV1QKW7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/244228423117937115228411265069.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T13:20:57.060728"
-  },
-  {
-    "id": "8ab289bac9d7092f",
-    "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
-    "price_now": 18.04,
-    "price_was": 46.38,
-    "discount_pct": 61,
-    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/685295580317937105926280363371.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T13:10:50.611228"
   }
 ]
