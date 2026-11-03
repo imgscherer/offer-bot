@@ -8187,6 +8187,10 @@
     "8ab289bac9d7092f": {
       "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
       "posted_at": "2026-11-03T13:10:50.611563"
+    },
+    "24eaec898fb9fada": {
+      "title": "Fralda pampers confort sec tamanho xxg 148 unidades",
+      "posted_at": "2026-11-03T13:20:57.061152"
     }
   },
   "results": [
@@ -39493,6 +39497,14 @@
       "post_id": "2059",
       "error": null,
       "at": "2026-11-03T13:10:50.610847"
+    },
+    {
+      "offer_id": "24eaec898fb9fada",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2060",
+      "error": null,
+      "at": "2026-11-03T13:20:57.060394"
     }
   ]
 }
