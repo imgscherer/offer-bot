@@ -8131,6 +8131,10 @@
     "5f300507c7a719aa": {
       "title": "Fralda Huggies Natural Care P 36 unidades",
       "posted_at": "2026-11-03T11:40:48.763790"
+    },
+    "be6c8090b890e3a6": {
+      "title": "MamyPoko Fralda-Calça Dia&Noite Xg 52 Unidades",
+      "posted_at": "2026-11-03T12:01:00.214773"
     }
   },
   "results": [
@@ -39325,6 +39329,14 @@
       "post_id": "2045",
       "error": null,
       "at": "2026-11-03T11:40:48.763166"
+    },
+    {
+      "offer_id": "be6c8090b890e3a6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2046",
+      "error": null,
+      "at": "2026-11-03T12:01:00.214027"
     }
   ]
 }

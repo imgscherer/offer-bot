@@ -1,5 +1,17 @@
 [
   {
+    "id": "be6c8090b890e3a6",
+    "title": "MamyPoko Fralda-Calça Dia&Noite Xg 52 Unidades",
+    "price_now": 65.0,
+    "price_was": 107.9,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0CHZBQKTV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/600831378417937063699331953781.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T12:01:00.214319"
+  },
+  {
     "id": "5f300507c7a719aa",
     "title": "Fralda Huggies Natural Care P 36 unidades",
     "price_now": 32.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-03T09:00:57.415958"
-  },
-  {
-    "id": "34c8e1718946969b",
-    "title": "Carrinho Romano Galzerano Travel System, Caramelo",
-    "price_now": 318.0,
-    "price_was": 1169.0,
-    "discount_pct": 73,
-    "url": "https://www.amazon.com.br/dp/B09HFCPVR2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/288552646817936753538350464574.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T03:20:39.649730"
   }
 ]
