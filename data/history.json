@@ -8211,6 +8211,18 @@
     "5bb27f9d64f3d2c5": {
       "title": "Fralda Babysec Ultrasec M 68 unidades",
       "posted_at": "2026-11-03T14:10:47.051706"
+    },
+    "da807ca3a6d7b44d": {
+      "title": "Fralda Personal Baby Premium Protection G 30 unidades",
+      "posted_at": "2026-11-03T14:50:45.513124"
+    },
+    "ce989fd10e318cab": {
+      "title": "Fralda Personal Baby Premium Pants G 62 unidades",
+      "posted_at": "2026-11-03T14:50:57.652933"
+    },
+    "7a96721f6e464d01": {
+      "title": "Granado Água De Limpeza Bebê Peles Sensíveis 500ml",
+      "posted_at": "2026-11-03T14:51:05.192320"
     }
   },
   "results": [
@@ -39589,6 +39601,38 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-03T14:40:44.275235"
+    },
+    {
+      "offer_id": "da807ca3a6d7b44d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2066",
+      "error": null,
+      "at": "2026-11-03T14:50:45.512449"
+    },
+    {
+      "offer_id": "ce989fd10e318cab",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2067",
+      "error": null,
+      "at": "2026-11-03T14:50:57.652193"
+    },
+    {
+      "offer_id": "7a96721f6e464d01",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2068",
+      "error": null,
+      "at": "2026-11-03T14:51:05.191579"
+    },
+    {
+      "offer_id": "96687faa8a300e19",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-03T14:51:11.207936"
     }
   ]
 }
