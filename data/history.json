@@ -8087,6 +8087,26 @@
     "34c8e1718946969b": {
       "title": "Carrinho Romano Galzerano Travel System, Caramelo",
       "posted_at": "2026-11-03T03:20:39.649961"
+    },
+    "3913dbff2db24464": {
+      "title": "Kit 11 Peças Roupinhas de Bebê Confortável Estilosa Enxoval",
+      "posted_at": "2026-11-03T09:00:57.416417"
+    },
+    "404269226bfa95e1": {
+      "title": "Kit Roupinhas de Bebê Recém Nascido 10 Peças Enxoval Verão",
+      "posted_at": "2026-11-03T09:00:59.824223"
+    },
+    "e26ed6eaec89e54e": {
+      "title": "Kit Roupinha de Bebê 4 Pçs Calça Mijão Algodão Liso Vira Pé",
+      "posted_at": "2026-11-03T09:01:04.007784"
+    },
+    "ad1d2fdcbeaff644": {
+      "title": "Kit 10 Peças Roupinhas de Bebê Body Longo Liso ou Estampado e Mijão",
+      "posted_at": "2026-11-03T09:01:06.625542"
+    },
+    "c516b147f410e778": {
+      "title": "Kit Roupinhas de Bebê 10 Peças Body e Mijão Liso e Estampado",
+      "posted_at": "2026-11-03T09:01:09.679630"
     }
   },
   "results": [
@@ -39193,6 +39213,46 @@
       "post_id": "2034",
       "error": null,
       "at": "2026-11-03T03:20:39.649462"
+    },
+    {
+      "offer_id": "3913dbff2db24464",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2035",
+      "error": null,
+      "at": "2026-11-03T09:00:57.415577"
+    },
+    {
+      "offer_id": "404269226bfa95e1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2036",
+      "error": null,
+      "at": "2026-11-03T09:00:59.823124"
+    },
+    {
+      "offer_id": "e26ed6eaec89e54e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2037",
+      "error": null,
+      "at": "2026-11-03T09:01:04.006853"
+    },
+    {
+      "offer_id": "ad1d2fdcbeaff644",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2038",
+      "error": null,
+      "at": "2026-11-03T09:01:06.624617"
+    },
+    {
+      "offer_id": "c516b147f410e778",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2039",
+      "error": null,
+      "at": "2026-11-03T09:01:09.678678"
     }
   ]
 }
