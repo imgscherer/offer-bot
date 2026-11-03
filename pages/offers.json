@@ -1,5 +1,29 @@
 [
   {
+    "id": "8dddb9bd1911abe6",
+    "title": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
+    "price_now": 98.89,
+    "price_was": 194.9,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/151403973117937267106182265425.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T17:31:16.331234"
+  },
+  {
+    "id": "c1d979535c27f158",
+    "title": "Mili Fralda Infantil Love & Care Recém Nascido 18 Unidades",
+    "price_now": 13.0,
+    "price_was": 27.98,
+    "discount_pct": 54,
+    "url": "https://www.amazon.com.br/dp/B09CDXRQJL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/419736350417937264875798395366.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T17:31:04.687339"
+  },
+  {
     "id": "3d9468e0f662fbfa",
     "title": "Fralda Babysec Ultrasec XG 56 unidades",
     "price_now": 44.89,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T16:10:52.183273"
-  },
-  {
-    "id": "9b7314031c232dca",
-    "title": "Fralda Turma da Mônica Baby G 44 unidades",
-    "price_now": 33.14,
-    "price_was": 50.04,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/304483461117937205483985975884.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T16:01:46.927025"
-  },
-  {
-    "id": "087c12ecb79d6386",
-    "title": "Fralda Turma da Mônica Baby XXG 36 unidades",
-    "price_now": 33.14,
-    "price_was": 50.04,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KPQQWF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/698311273817937205569982019926.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T16:01:36.671533"
   }
 ]

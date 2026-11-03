@@ -8307,6 +8307,14 @@
     "3d9468e0f662fbfa": {
       "title": "Fralda Babysec Ultrasec XG 56 unidades",
       "posted_at": "2026-11-03T17:21:00.728805"
+    },
+    "c1d979535c27f158": {
+      "title": "Mili Fralda Infantil Love & Care Recém Nascido 18 Unidades",
+      "posted_at": "2026-11-03T17:31:04.687773"
+    },
+    "8dddb9bd1911abe6": {
+      "title": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
+      "posted_at": "2026-11-03T17:31:16.331618"
     }
   },
   "results": [
@@ -40021,6 +40029,22 @@
       "post_id": "2089",
       "error": null,
       "at": "2026-11-03T17:21:00.728090"
+    },
+    {
+      "offer_id": "c1d979535c27f158",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2090",
+      "error": null,
+      "at": "2026-11-03T17:31:04.686972"
+    },
+    {
+      "offer_id": "8dddb9bd1911abe6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2091",
+      "error": null,
+      "at": "2026-11-03T17:31:16.330906"
     }
   ]
 }
