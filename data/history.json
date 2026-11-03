@@ -8315,6 +8315,14 @@
     "8dddb9bd1911abe6": {
       "title": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
       "posted_at": "2026-11-03T17:31:16.331618"
+    },
+    "a48638f0f1bf852e": {
+      "title": "Fralda Babysec Ultrasec XG 56 unidades",
+      "posted_at": "2026-11-03T18:31:10.277093"
+    },
+    "06be260d2a465b54": {
+      "title": "Fraldas Pampers Pants Ajuste Total G 90 unidades",
+      "posted_at": "2026-11-03T18:31:28.204768"
     }
   },
   "results": [
@@ -40045,6 +40053,22 @@
       "post_id": "2091",
       "error": null,
       "at": "2026-11-03T17:31:16.330906"
+    },
+    {
+      "offer_id": "a48638f0f1bf852e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2092",
+      "error": null,
+      "at": "2026-11-03T18:31:10.276282"
+    },
+    {
+      "offer_id": "06be260d2a465b54",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2093",
+      "error": null,
+      "at": "2026-11-03T18:31:28.204102"
     }
   ]
 }

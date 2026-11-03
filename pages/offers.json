@@ -1,5 +1,29 @@
 [
   {
+    "id": "06be260d2a465b54",
+    "title": "Fraldas Pampers Pants Ajuste Total G 90 unidades",
+    "price_now": 98.0,
+    "price_was": 194.9,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/633734777217937303153005449447.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T18:31:28.204381"
+  },
+  {
+    "id": "a48638f0f1bf852e",
+    "title": "Fralda Babysec Ultrasec XG 56 unidades",
+    "price_now": 44.89,
+    "price_was": 101.58,
+    "discount_pct": 56,
+    "url": "https://www.amazon.com.br/dp/B07Z9T391J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/831512656917937303112389317650.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T18:31:10.276658"
+  },
+  {
     "id": "8dddb9bd1911abe6",
     "title": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
     "price_now": 98.89,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T16:11:21.578891"
-  },
-  {
-    "id": "f129a4b5cc930652",
-    "title": "Bebe Conforto Drc G0+ até 13kg Styll Baby",
-    "price_now": 201.97,
-    "price_was": 319.9,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B07JVNFVGY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/128696726117937214351535120382.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T16:11:11.656985"
-  },
-  {
-    "id": "94f6ec31923a8c39",
-    "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
-    "price_now": 142.0,
-    "price_was": 246.01,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/725039126317937216726932885316.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T16:10:52.183273"
   }
 ]
