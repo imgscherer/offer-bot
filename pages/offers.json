@@ -1,5 +1,17 @@
 [
   {
+    "id": "68a93f216b81f7ad",
+    "title": "Fralda Turma Da Mônica Baby Rn, 36 Unidades",
+    "price_now": 19.89,
+    "price_was": 28.68,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/604895427717937247965353361347.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T17:01:19.485569"
+  },
+  {
     "id": "b789c3f6b485591c",
     "title": "Fralda Infantil Personal Baby Protect e Sec M 40 Unidades",
     "price_now": 26.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T15:50:53.581594"
-  },
-  {
-    "id": "8a755357b8afd34b",
-    "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
-    "price_now": 33.0,
-    "price_was": 50.04,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/508048338117937199501672570115.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T15:50:45.452663"
   }
 ]
