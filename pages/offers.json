@@ -1,5 +1,17 @@
 [
   {
+    "id": "32122117acee2669",
+    "title": "Fralda Personal Baby Total Protect Pants G 24 unidades",
+    "price_now": 22.67,
+    "price_was": 40.63,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B0BTTKQV4P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/218906083117937363787146656667.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T20:10:56.538597"
+  },
+  {
     "id": "7b38efaccbe5f7f0",
     "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
     "price_now": 46.95,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T18:31:28.204381"
-  },
-  {
-    "id": "a48638f0f1bf852e",
-    "title": "Fralda Babysec Ultrasec XG 56 unidades",
-    "price_now": 44.89,
-    "price_was": 101.58,
-    "discount_pct": 56,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/831512656917937303112389317650.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T18:31:10.276658"
   }
 ]
