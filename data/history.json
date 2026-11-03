@@ -8203,6 +8203,10 @@
     "994c2fc65031c9d2": {
       "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
       "posted_at": "2026-11-03T13:51:02.319464"
+    },
+    "261055185e6370a2": {
+      "title": "Fralda Personal Baby Protect & Sec G 78 Unidades",
+      "posted_at": "2026-11-03T14:01:01.649602"
     }
   },
   "results": [
@@ -39541,6 +39545,14 @@
       "post_id": "2063",
       "error": null,
       "at": "2026-11-03T13:51:02.316016"
+    },
+    {
+      "offer_id": "261055185e6370a2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2064",
+      "error": null,
+      "at": "2026-11-03T14:01:01.648760"
     }
   ]
 }
