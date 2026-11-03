@@ -8195,6 +8195,14 @@
     "bca9d93804404613": {
       "title": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
       "posted_at": "2026-11-03T13:30:53.949515"
+    },
+    "2a7f054a9736b808": {
+      "title": "Garrafa Infantil de Inox Dinossauro com Bebedor Silicone 350 ml Lillo",
+      "posted_at": "2026-11-03T13:50:48.966037"
+    },
+    "994c2fc65031c9d2": {
+      "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
+      "posted_at": "2026-11-03T13:51:02.319464"
     }
   },
   "results": [
@@ -39517,6 +39525,22 @@
       "post_id": "2061",
       "error": null,
       "at": "2026-11-03T13:30:53.948796"
+    },
+    {
+      "offer_id": "2a7f054a9736b808",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2062",
+      "error": null,
+      "at": "2026-11-03T13:50:48.964490"
+    },
+    {
+      "offer_id": "994c2fc65031c9d2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2063",
+      "error": null,
+      "at": "2026-11-03T13:51:02.316016"
     }
   ]
 }

@@ -1,5 +1,29 @@
 [
   {
+    "id": "994c2fc65031c9d2",
+    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
+    "price_now": 25.0,
+    "price_was": 52.65,
+    "discount_pct": 53,
+    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/833326959417937126708487245806.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T13:51:02.316326"
+  },
+  {
+    "id": "2a7f054a9736b808",
+    "title": "Garrafa Infantil de Inox Dinossauro com Bebedor Silicone 350 ml Lillo",
+    "price_now": 33.0,
+    "price_was": 139.9,
+    "discount_pct": 76,
+    "url": "https://www.amazon.com.br/dp/B0F3Z73NTX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/692796404217937126115529207169.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T13:50:48.964869"
+  },
+  {
     "id": "bca9d93804404613",
     "title": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
     "price_now": 148.48,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T12:30:47.644381"
-  },
-  {
-    "id": "340a83d8dac5f6ae",
-    "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Un",
-    "price_now": 47.0,
-    "price_was": 101.58,
-    "discount_pct": 54,
-    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/652821074317937078501113301961.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T12:20:55.360436"
-  },
-  {
-    "id": "f4b626147bc516aa",
-    "title": "Personal Fralda Baby Premium Protection Xg Com 26 Unidades",
-    "price_now": 18.99,
-    "price_was": 46.38,
-    "discount_pct": 59,
-    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/922365022217937075099014123842.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T12:20:45.513858"
   }
 ]
