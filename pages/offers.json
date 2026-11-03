@@ -1,5 +1,17 @@
 [
   {
+    "id": "bca9d93804404613",
+    "title": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
+    "price_now": 148.48,
+    "price_was": 229.49,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/981324250317937117598153363352.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T13:30:53.949184"
+  },
+  {
     "id": "24eaec898fb9fada",
     "title": "Fralda pampers confort sec tamanho xxg 148 unidades",
     "price_now": 164.8,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T12:20:45.513858"
-  },
-  {
-    "id": "f7085323f46b67ba",
-    "title": "Cadeira de Carro Infantil 0 a 36Kg Elite 4 em 1 Maxi Baby Preto",
-    "price_now": 377.0,
-    "price_was": 548.9,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0CG2P81GL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/172764241517937069692833888714.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T12:11:09.847379"
   }
 ]
