@@ -8107,6 +8107,10 @@
     "c516b147f410e778": {
       "title": "Kit Roupinhas de Bebê 10 Peças Body e Mijão Liso e Estampado",
       "posted_at": "2026-11-03T09:01:09.679630"
+    },
+    "b7731ebc0b72dca4": {
+      "title": "Fralda Pants Huggies G 70 unidades",
+      "posted_at": "2026-11-03T10:41:17.071470"
     }
   },
   "results": [
@@ -39253,6 +39257,14 @@
       "post_id": "2039",
       "error": null,
       "at": "2026-11-03T09:01:09.678678"
+    },
+    {
+      "offer_id": "b7731ebc0b72dca4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2040",
+      "error": null,
+      "at": "2026-11-03T10:41:17.070534"
     }
   ]
 }

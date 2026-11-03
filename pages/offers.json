@@ -1,5 +1,17 @@
 [
   {
+    "id": "b7731ebc0b72dca4",
+    "title": "Fralda Pants Huggies G 70 unidades",
+    "price_now": 69.0,
+    "price_was": 131.78,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0BXM1CSC2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/609198635817937014517804076013.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T10:41:17.070934"
+  },
+  {
     "id": "c516b147f410e778",
     "title": "Kit Roupinhas de Bebê 10 Peças Body e Mijão Liso e Estampado",
     "price_now": 115.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-02T14:20:51.465973"
-  },
-  {
-    "id": "b226bf608debb0b6",
-    "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
-    "price_now": 26.0,
-    "price_was": 39.49,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/331650953717936267575878601215.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-02T13:51:04.504482"
   }
 ]
