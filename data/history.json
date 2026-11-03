@@ -8155,6 +8155,14 @@
     "340a83d8dac5f6ae": {
       "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Un",
       "posted_at": "2026-11-03T12:20:55.360887"
+    },
+    "6e262c156e15c883": {
+      "title": "Fralda Huggies Proteção Alcochoada Pants XG 64 unidades",
+      "posted_at": "2026-11-03T12:30:47.644747"
+    },
+    "9d86d792df956c80": {
+      "title": "Fralda Pampers Confort Sec M 196 Unidades",
+      "posted_at": "2026-11-03T12:31:04.616831"
     }
   },
   "results": [
@@ -39397,6 +39405,22 @@
       "post_id": "2051",
       "error": null,
       "at": "2026-11-03T12:20:55.360146"
+    },
+    {
+      "offer_id": "6e262c156e15c883",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2052",
+      "error": null,
+      "at": "2026-11-03T12:30:47.644050"
+    },
+    {
+      "offer_id": "9d86d792df956c80",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2053",
+      "error": null,
+      "at": "2026-11-03T12:31:04.616086"
     }
   ]
 }

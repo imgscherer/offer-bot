@@ -1,5 +1,29 @@
 [
   {
+    "id": "9d86d792df956c80",
+    "title": "Fralda Pampers Confort Sec M 196 Unidades",
+    "price_now": 146.73,
+    "price_was": 235.87,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B09FFRMKNQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/112112350117937084735878706696.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T12:31:04.616378"
+  },
+  {
+    "id": "6e262c156e15c883",
+    "title": "Fralda Huggies Proteção Alcochoada Pants XG 64 unidades",
+    "price_now": 68.93,
+    "price_was": 131.78,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/659877668217937083645784639808.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T12:30:47.644381"
+  },
+  {
     "id": "340a83d8dac5f6ae",
     "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Un",
     "price_now": 47.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T11:01:18.783396"
-  },
-  {
-    "id": "4ddf5602ba515cb9",
-    "title": "Fralda-Calça MamyPoko Dia&Noite XG 52 Unidades",
-    "price_now": 65.52,
-    "price_was": 107.9,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0CHZBQKTV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/119470232117937035514849372107.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T11:01:04.938935"
-  },
-  {
-    "id": "b7731ebc0b72dca4",
-    "title": "Fralda Pants Huggies G 70 unidades",
-    "price_now": 69.0,
-    "price_was": 131.78,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0BXM1CSC2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/609198635817937014517804076013.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T10:41:17.070934"
   }
 ]
