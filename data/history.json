@@ -8163,6 +8163,26 @@
     "9d86d792df956c80": {
       "title": "Fralda Pampers Confort Sec M 196 Unidades",
       "posted_at": "2026-11-03T12:31:04.616831"
+    },
+    "9add21fdee9d2129": {
+      "title": "Cadeira De Descanso Para Bebê Multikids Baby Nap Time, 0 A 11kg",
+      "posted_at": "2026-11-03T13:01:02.012349"
+    },
+    "0313a73dcd1d741a": {
+      "title": "Personal Fralda Baby Premium Protection P 40 Unidades",
+      "posted_at": "2026-11-03T13:01:21.055421"
+    },
+    "90328eebdb51ffde": {
+      "title": "MamyPoko Fralda-Calça Dia&Noite XXG 44 Unidades",
+      "posted_at": "2026-11-03T13:01:31.596176"
+    },
+    "a7b21c438fce89fc": {
+      "title": "Fralda Pampers Confort Sec XG 148 Unidades",
+      "posted_at": "2026-11-03T13:01:47.280216"
+    },
+    "1d8f2482a7c02758": {
+      "title": "Fralda Pampers Pants Ajuste Total XXG 120 Unidades",
+      "posted_at": "2026-11-03T13:02:00.842236"
     }
   },
   "results": [
@@ -39421,6 +39441,46 @@
       "post_id": "2053",
       "error": null,
       "at": "2026-11-03T12:31:04.616086"
+    },
+    {
+      "offer_id": "9add21fdee9d2129",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2054",
+      "error": null,
+      "at": "2026-11-03T13:01:02.011673"
+    },
+    {
+      "offer_id": "0313a73dcd1d741a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2055",
+      "error": null,
+      "at": "2026-11-03T13:01:21.050986"
+    },
+    {
+      "offer_id": "90328eebdb51ffde",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2056",
+      "error": null,
+      "at": "2026-11-03T13:01:31.595537"
+    },
+    {
+      "offer_id": "a7b21c438fce89fc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2057",
+      "error": null,
+      "at": "2026-11-03T13:01:47.278764"
+    },
+    {
+      "offer_id": "1d8f2482a7c02758",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2058",
+      "error": null,
+      "at": "2026-11-03T13:02:00.840755"
     }
   ]
 }
