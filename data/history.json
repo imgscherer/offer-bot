@@ -8291,6 +8291,14 @@
     "68a93f216b81f7ad": {
       "title": "Fralda Turma Da Mônica Baby Rn, 36 Unidades",
       "posted_at": "2026-11-03T17:01:19.486219"
+    },
+    "fc9516aeb6f231b6": {
+      "title": "Fralda Personal Baby Protect & Sec Grande Promo - 78 Unidades",
+      "posted_at": "2026-11-03T17:11:12.512929"
+    },
+    "a63840ec6dd809cc": {
+      "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
+      "posted_at": "2026-11-03T17:11:24.888432"
     }
   },
   "results": [
@@ -39949,6 +39957,46 @@
       "post_id": "2085",
       "error": null,
       "at": "2026-11-03T17:01:19.485102"
+    },
+    {
+      "offer_id": "b5bbcc27b0657079",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-03T17:10:47.683031"
+    },
+    {
+      "offer_id": "576668bb1ed0f700",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-03T17:10:55.676988"
+    },
+    {
+      "offer_id": "82d19cc7f50e5702",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-03T17:11:03.736392"
+    },
+    {
+      "offer_id": "fc9516aeb6f231b6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2086",
+      "error": null,
+      "at": "2026-11-03T17:11:12.512082"
+    },
+    {
+      "offer_id": "a63840ec6dd809cc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2087",
+      "error": null,
+      "at": "2026-11-03T17:11:24.887623"
     }
   ]
 }

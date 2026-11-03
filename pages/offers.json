@@ -1,5 +1,29 @@
 [
   {
+    "id": "a63840ec6dd809cc",
+    "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
+    "price_now": 19.75,
+    "price_was": 28.68,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B099KXW911?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/839624595317937249674004482292.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T17:11:24.887921"
+  },
+  {
+    "id": "fc9516aeb6f231b6",
+    "title": "Fralda Personal Baby Protect & Sec Grande Promo - 78 Unidades",
+    "price_now": 59.52,
+    "price_was": 89.99,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0DF9RCVYY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/194100399817937255801568984460.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T17:11:12.512478"
+  },
+  {
     "id": "68a93f216b81f7ad",
     "title": "Fralda Turma Da Mônica Baby Rn, 36 Unidades",
     "price_now": 19.89,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T16:01:17.481064"
-  },
-  {
-    "id": "524e8aeb6f717074",
-    "title": "Granado Lenço Umedecido Bebê Erva Doce 50 Unidades",
-    "price_now": 10.0,
-    "price_was": 18.0,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B07FLP87QP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/542678421717937209525007253287.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T16:01:06.097730"
-  },
-  {
-    "id": "656dbf8c5bd2f6b5",
-    "title": "Fralda Turma Da Mônica Baby P, 62 Unidades",
-    "price_now": 34.79,
-    "price_was": 50.04,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/681622356617937199923968225909.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T15:50:53.581594"
   }
 ]
