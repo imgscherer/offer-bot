@@ -1,5 +1,53 @@
 [
   {
+    "id": "77eeeab0d4624f3d",
+    "title": "Fralda Turma da Mônica Baby Mega G 44 Unidades",
+    "price_now": 34.88,
+    "price_was": 50.04,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/844326639917937380026424826312.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T20:51:20.045117"
+  },
+  {
+    "id": "9921ae4fb465cfd3",
+    "title": "Granado Água De Limpeza Bebê, Peles Sensíveis, 500ml",
+    "price_now": 44.6,
+    "price_was": 74.19,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B07NPWTYJT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/914773501617937381721308748098.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T20:51:09.792199"
+  },
+  {
+    "id": "d96cd9c7e76afb4f",
+    "title": "Personal Fralda Baby Premium Pants G 62 Unidades",
+    "price_now": 65.0,
+    "price_was": 116.89,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/915907225217937379335393993347.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T20:51:03.094633"
+  },
+  {
+    "id": "2ff8f97372cf4cef",
+    "title": "Fralda Mili Love and Care Mega, Tamanho P, 56 Unidades",
+    "price_now": 44.0,
+    "price_was": 85.6,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07GG1YT1W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/350422051917937379894623261443.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T20:50:54.298326"
+  },
+  {
     "id": "d8c373b7b80ea054",
     "title": "Carrinho de Bebê Toffy Cosco",
     "price_now": 398.13,
@@ -94,53 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-03T19:30:59.223670"
-  },
-  {
-    "id": "42e6b7853baadcd6",
-    "title": "Kit Roupinhas de Bebê 13 Peças Body Mijão Meias Kit Touca",
-    "price_now": 61.9,
-    "price_was": 96.72,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/LoVVfjnIs",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbcqez52qikv62",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T19:30:57.488939"
-  },
-  {
-    "id": "d6255fe68771185a",
-    "title": "Kit 5 Pçs Roupinha De Bebê Enxoval Body e Mijão Bordado Fofo",
-    "price_now": 57.9,
-    "price_was": 90.47,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/2BG9h2coa1",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-22110-3jwjzfazn8jv4e",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T19:30:55.144651"
-  },
-  {
-    "id": "5d204abcb78a1eb5",
-    "title": "Kit Roupinhas De Bebê 10 Peças Body E Mijão E Macacão Plush",
-    "price_now": 120.9,
-    "price_was": 188.91,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/4Ve4TKTvqJ",
-    "image": "https://cf.shopee.com.br/file/04a8710fbb1d2c83326cf2c5f51a4aaa",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T19:30:53.208610"
-  },
-  {
-    "id": "58e6423f24cdc644",
-    "title": "Kit 3 Pçs Roupinha de Bebê Body Enxoval Maternidade Promoção",
-    "price_now": 36.9,
-    "price_was": 59.52,
-    "discount_pct": 38,
-    "url": "https://s.shopee.com.br/2qVqUGaHE5",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7renw-m829nvb6vlwn39",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T19:30:50.781932"
   }
 ]
