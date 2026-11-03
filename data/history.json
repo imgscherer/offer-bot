@@ -8207,6 +8207,10 @@
     "261055185e6370a2": {
       "title": "Fralda Personal Baby Protect & Sec G 78 Unidades",
       "posted_at": "2026-11-03T14:01:01.649602"
+    },
+    "5bb27f9d64f3d2c5": {
+      "title": "Fralda Babysec Ultrasec M 68 unidades",
+      "posted_at": "2026-11-03T14:10:47.051706"
     }
   },
   "results": [
@@ -39553,6 +39557,14 @@
       "post_id": "2064",
       "error": null,
       "at": "2026-11-03T14:01:01.648760"
+    },
+    {
+      "offer_id": "5bb27f9d64f3d2c5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2065",
+      "error": null,
+      "at": "2026-11-03T14:10:47.051133"
     }
   ]
 }
