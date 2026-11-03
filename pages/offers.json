@@ -1,5 +1,17 @@
 [
   {
+    "id": "8ab289bac9d7092f",
+    "title": "Fralda Personal Baby Premium Protection XG 26 Unidades",
+    "price_now": 18.04,
+    "price_was": 46.38,
+    "discount_pct": 61,
+    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/685295580317937105926280363371.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T13:10:50.611228"
+  },
+  {
     "id": "1d8f2482a7c02758",
     "title": "Fralda Pampers Pants Ajuste Total XXG 120 Unidades",
     "price_now": 148.48,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T12:11:00.295943"
-  },
-  {
-    "id": "0eff5700f23aee87",
-    "title": "Huggies Fralda Pants Premium Natural Care XXG 52 Un",
-    "price_now": 77.0,
-    "price_was": 118.35,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0BKLM298N?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/248481245717937069767676887598.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T12:10:49.963344"
   }
 ]
