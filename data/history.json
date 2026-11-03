@@ -8227,6 +8227,10 @@
     "39b092be1dafcf98": {
       "title": "Fralda Babysec Premium G 60 unidades",
       "posted_at": "2026-11-03T15:01:13.196904"
+    },
+    "688dd9649cd46b13": {
+      "title": "Babysec Fraldas Ultrasec Galinha Pintadinha M 72 Unidades",
+      "posted_at": "2026-11-03T15:10:51.356100"
     }
   },
   "results": [
@@ -39645,6 +39649,22 @@
       "post_id": "2069",
       "error": null,
       "at": "2026-11-03T15:01:13.196137"
+    },
+    {
+      "offer_id": "688dd9649cd46b13",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2070",
+      "error": null,
+      "at": "2026-11-03T15:10:51.355297"
+    },
+    {
+      "offer_id": "96687faa8a300e19",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-03T15:11:00.477452"
     }
   ]
 }

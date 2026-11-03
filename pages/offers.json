@@ -1,5 +1,17 @@
 [
   {
+    "id": "688dd9649cd46b13",
+    "title": "Babysec Fraldas Ultrasec Galinha Pintadinha M 72 Unidades",
+    "price_now": 44.0,
+    "price_was": 101.58,
+    "discount_pct": 57,
+    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/741146602417937175959181519146.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T15:10:51.355663"
+  },
+  {
     "id": "39b092be1dafcf98",
     "title": "Fralda Babysec Premium G 60 unidades",
     "price_now": 53.42,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T13:10:50.611228"
-  },
-  {
-    "id": "1d8f2482a7c02758",
-    "title": "Fralda Pampers Pants Ajuste Total XXG 120 Unidades",
-    "price_now": 148.48,
-    "price_was": 229.49,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/995041124117937104496191624299.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T13:02:00.840987"
   }
 ]
