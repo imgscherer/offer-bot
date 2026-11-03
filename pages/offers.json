@@ -1,5 +1,17 @@
 [
   {
+    "id": "4a370856acb9b72d",
+    "title": "Fralda Descartável Huggies Proteção Tamanho P",
+    "price_now": 37.99,
+    "price_was": 72.65,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/375392742217937413544919029479.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T21:41:00.176314"
+  },
+  {
     "id": "77eeeab0d4624f3d",
     "title": "Fralda Turma da Mônica Baby Mega G 44 Unidades",
     "price_now": 34.88,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T19:40:55.639589"
-  },
-  {
-    "id": "9b5182a7587974f9",
-    "title": "Kit Roupinhas de Bebê 21 Peças Maternidade Enxoval Completo",
-    "price_now": 143.9,
-    "price_was": 224.84,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/1qdJIQe5G3",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rcce-lqzmk1rvxxofd1",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T19:30:59.223670"
   }
 ]

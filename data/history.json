@@ -8387,6 +8387,10 @@
     "77eeeab0d4624f3d": {
       "title": "Fralda Turma da Mônica Baby Mega G 44 Unidades",
       "posted_at": "2026-11-03T20:51:20.045647"
+    },
+    "4a370856acb9b72d": {
+      "title": "Fralda Descartável Huggies Proteção Tamanho P",
+      "posted_at": "2026-11-03T21:41:00.176680"
     }
   },
   "results": [
@@ -40261,6 +40265,14 @@
       "post_id": "2109",
       "error": null,
       "at": "2026-11-03T20:51:20.044897"
+    },
+    {
+      "offer_id": "4a370856acb9b72d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2110",
+      "error": null,
+      "at": "2026-11-03T21:41:00.175934"
     }
   ]
 }
