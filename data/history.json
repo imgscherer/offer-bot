@@ -8079,6 +8079,10 @@
     "65abe3312ab85543": {
       "title": "Fralda Turma Da Mônica Baby Jumbo Xg 20 Unidades",
       "posted_at": "2026-11-02T17:01:04.795030"
+    },
+    "e883098e9acdc6a7": {
+      "title": "Fralda Pampers Pants Ajuste Total G com 90 Unidades",
+      "posted_at": "2026-11-03T00:10:48.686389"
     }
   },
   "results": [
@@ -39169,6 +39173,14 @@
       "post_id": "2032",
       "error": null,
       "at": "2026-11-02T17:01:04.792698"
+    },
+    {
+      "offer_id": "e883098e9acdc6a7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2033",
+      "error": null,
+      "at": "2026-11-03T00:10:48.685711"
     }
   ]
 }

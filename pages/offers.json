@@ -1,5 +1,17 @@
 [
   {
+    "id": "e883098e9acdc6a7",
+    "title": "Fralda Pampers Pants Ajuste Total G com 90 Unidades",
+    "price_now": 99.0,
+    "price_was": 194.9,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/243394499517936641893879854010.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T00:10:48.686066"
+  },
+  {
     "id": "65abe3312ab85543",
     "title": "Fralda Turma Da Mônica Baby Jumbo Xg 20 Unidades",
     "price_now": 19.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-02T11:40:46.775908"
-  },
-  {
-    "id": "468c2510822d22f8",
-    "title": "Fralda Descartável Huggies Premium Natural Care 34 Unidades",
-    "price_now": 25.0,
-    "price_was": 43.59,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/130705402017935776125186805850.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-02T00:10:47.315040"
   }
 ]
