@@ -1,5 +1,17 @@
 [
   {
+    "id": "1a8f664f5f08e60e",
+    "title": "Fralda Cremer Econômica XXG 22 Unidades",
+    "price_now": 22.0,
+    "price_was": 32.79,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0D92MTQ8H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/575724785617937348717349023894.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T19:50:49.008838"
+  },
+  {
     "id": "1d5c2aa9fe63ccec",
     "title": "Personal Fralda Baby Total Protect Pants Grande, 24 Unidades",
     "price_now": 25.19,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T17:21:00.728359"
-  },
-  {
-    "id": "00a43c5c5cb3aa73",
-    "title": "Fralda Babysec Ultrasec G 60 unidades",
-    "price_now": 44.89,
-    "price_was": 101.58,
-    "discount_pct": 56,
-    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/147195779617937261797129759290.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T17:20:53.254614"
   }
 ]

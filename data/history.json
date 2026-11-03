@@ -8347,6 +8347,10 @@
     "1d5c2aa9fe63ccec": {
       "title": "Personal Fralda Baby Total Protect Pants Grande, 24 Unidades",
       "posted_at": "2026-11-03T19:40:55.639817"
+    },
+    "1a8f664f5f08e60e": {
+      "title": "Fralda Cremer Econômica XXG 22 Unidades",
+      "posted_at": "2026-11-03T19:50:49.009204"
     }
   },
   "results": [
@@ -40141,6 +40145,14 @@
       "post_id": "2099",
       "error": null,
       "at": "2026-11-03T19:40:55.639323"
+    },
+    {
+      "offer_id": "1a8f664f5f08e60e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2100",
+      "error": null,
+      "at": "2026-11-03T19:50:49.008507"
     }
   ]
 }
