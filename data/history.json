@@ -8247,6 +8247,26 @@
     "656dbf8c5bd2f6b5": {
       "title": "Fralda Turma Da Mônica Baby P, 62 Unidades",
       "posted_at": "2026-11-03T15:50:53.582052"
+    },
+    "524e8aeb6f717074": {
+      "title": "Granado Lenço Umedecido Bebê Erva Doce 50 Unidades",
+      "posted_at": "2026-11-03T16:01:06.098198"
+    },
+    "b68bda3eb007a812": {
+      "title": "Babysec Fralda Premium Hiper G 60 Unidades",
+      "posted_at": "2026-11-03T16:01:17.482473"
+    },
+    "d9c6f0e0dabe173b": {
+      "title": "Fralda Turma da Mônica Baby M 50 unidades",
+      "posted_at": "2026-11-03T16:01:28.767761"
+    },
+    "087c12ecb79d6386": {
+      "title": "Fralda Turma da Mônica Baby XXG 36 unidades",
+      "posted_at": "2026-11-03T16:01:36.671989"
+    },
+    "9b7314031c232dca": {
+      "title": "Fralda Turma da Mônica Baby G 44 unidades",
+      "posted_at": "2026-11-03T16:01:46.927434"
     }
   },
   "results": [
@@ -39713,6 +39733,46 @@
       "post_id": "2074",
       "error": null,
       "at": "2026-11-03T15:50:53.581270"
+    },
+    {
+      "offer_id": "524e8aeb6f717074",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2075",
+      "error": null,
+      "at": "2026-11-03T16:01:06.097363"
+    },
+    {
+      "offer_id": "b68bda3eb007a812",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2076",
+      "error": null,
+      "at": "2026-11-03T16:01:17.480743"
+    },
+    {
+      "offer_id": "d9c6f0e0dabe173b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2077",
+      "error": null,
+      "at": "2026-11-03T16:01:28.766964"
+    },
+    {
+      "offer_id": "087c12ecb79d6386",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2078",
+      "error": null,
+      "at": "2026-11-03T16:01:36.671206"
+    },
+    {
+      "offer_id": "9b7314031c232dca",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2079",
+      "error": null,
+      "at": "2026-11-03T16:01:46.926714"
     }
   ]
 }

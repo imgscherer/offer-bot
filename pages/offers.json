@@ -1,5 +1,65 @@
 [
   {
+    "id": "9b7314031c232dca",
+    "title": "Fralda Turma da Mônica Baby G 44 unidades",
+    "price_now": 33.14,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/304483461117937205483985975884.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T16:01:46.927025"
+  },
+  {
+    "id": "087c12ecb79d6386",
+    "title": "Fralda Turma da Mônica Baby XXG 36 unidades",
+    "price_now": 33.14,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KPQQWF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/698311273817937205569982019926.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T16:01:36.671533"
+  },
+  {
+    "id": "d9c6f0e0dabe173b",
+    "title": "Fralda Turma da Mônica Baby M 50 unidades",
+    "price_now": 33.14,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/411151142717937205636502775525.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T16:01:28.767267"
+  },
+  {
+    "id": "b68bda3eb007a812",
+    "title": "Babysec Fralda Premium Hiper G 60 Unidades",
+    "price_now": 53.0,
+    "price_was": 85.2,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0CCDZ9XBJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/234291968217937208952627596033.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T16:01:17.481064"
+  },
+  {
+    "id": "524e8aeb6f717074",
+    "title": "Granado Lenço Umedecido Bebê Erva Doce 50 Unidades",
+    "price_now": 10.0,
+    "price_was": 18.0,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B07FLP87QP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/542678421717937209525007253287.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T16:01:06.097730"
+  },
+  {
     "id": "656dbf8c5bd2f6b5",
     "title": "Fralda Turma Da Mônica Baby P, 62 Unidades",
     "price_now": 34.79,
@@ -82,65 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T14:51:05.191857"
-  },
-  {
-    "id": "ce989fd10e318cab",
-    "title": "Fralda Personal Baby Premium Pants G 62 unidades",
-    "price_now": 65.0,
-    "price_was": 116.89,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/276361125817937168272877011462.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T14:50:57.652525"
-  },
-  {
-    "id": "da807ca3a6d7b44d",
-    "title": "Fralda Personal Baby Premium Protection G 30 unidades",
-    "price_now": 24.22,
-    "price_was": 48.75,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/155181992117937164529194568617.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T14:50:45.512786"
-  },
-  {
-    "id": "5bb27f9d64f3d2c5",
-    "title": "Fralda Babysec Ultrasec M 68 unidades",
-    "price_now": 44.5,
-    "price_was": 101.58,
-    "discount_pct": 56,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/319110597917937144762622235050.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T14:10:47.051445"
-  },
-  {
-    "id": "261055185e6370a2",
-    "title": "Fralda Personal Baby Protect & Sec G 78 Unidades",
-    "price_now": 53.0,
-    "price_was": 89.99,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0DF9RCVYY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/652126482217937138275539911378.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T14:01:01.649138"
-  },
-  {
-    "id": "994c2fc65031c9d2",
-    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
-    "price_now": 25.0,
-    "price_was": 52.65,
-    "discount_pct": 53,
-    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/833326959417937126708487245806.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T13:51:02.316326"
   }
 ]
