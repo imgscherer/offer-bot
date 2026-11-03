@@ -1,5 +1,17 @@
 [
   {
+    "id": "39b092be1dafcf98",
+    "title": "Fralda Babysec Premium G 60 unidades",
+    "price_now": 53.42,
+    "price_was": 85.2,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0CCDZ9XBJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/495993736117937172369972552548.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T15:01:13.196461"
+  },
+  {
     "id": "7a96721f6e464d01",
     "title": "Granado Água De Limpeza Bebê Peles Sensíveis 500ml",
     "price_now": 44.68,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T13:02:00.840987"
-  },
-  {
-    "id": "a7b21c438fce89fc",
-    "title": "Fralda Pampers Confort Sec XG 148 Unidades",
-    "price_now": 142.0,
-    "price_was": 235.87,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B09DQ6CMG2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/288833106717937097536754994139.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T13:01:47.279011"
   }
 ]
