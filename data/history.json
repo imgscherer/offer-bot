@@ -8351,6 +8351,18 @@
     "1a8f664f5f08e60e": {
       "title": "Fralda Cremer Econômica XXG 22 Unidades",
       "posted_at": "2026-11-03T19:50:49.009204"
+    },
+    "04103aff90a87268": {
+      "title": "Kit Babuche Com Bolsa Florzinha Infantil (21 ao 28, Diversas cores)",
+      "posted_at": "2026-11-03T20:01:19.218368"
+    },
+    "4bd71ead5040dad1": {
+      "title": "Fralda Mili Love & Care Jumbo M 26 unidades",
+      "posted_at": "2026-11-03T20:01:30.553128"
+    },
+    "7b38efaccbe5f7f0": {
+      "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
+      "posted_at": "2026-11-03T20:01:39.511634"
     }
   },
   "results": [
@@ -40153,6 +40165,30 @@
       "post_id": "2100",
       "error": null,
       "at": "2026-11-03T19:50:49.008507"
+    },
+    {
+      "offer_id": "04103aff90a87268",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2101",
+      "error": null,
+      "at": "2026-11-03T20:01:19.217604"
+    },
+    {
+      "offer_id": "4bd71ead5040dad1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2102",
+      "error": null,
+      "at": "2026-11-03T20:01:30.552427"
+    },
+    {
+      "offer_id": "7b38efaccbe5f7f0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2103",
+      "error": null,
+      "at": "2026-11-03T20:01:39.510906"
     }
   ]
 }
