@@ -1,5 +1,29 @@
 [
   {
+    "id": "474f7b8428f2b68c",
+    "title": "Mamypoko Fralda-calça Dia&noite G 60 Unidades",
+    "price_now": 68.97,
+    "price_was": 107.9,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0CHZBJVVZ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/986267704717937030759484771322.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T11:01:18.783396"
+  },
+  {
+    "id": "4ddf5602ba515cb9",
+    "title": "Fralda-Calça MamyPoko Dia&Noite XG 52 Unidades",
+    "price_now": 65.52,
+    "price_was": 107.9,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0CHZBQKTV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/119470232117937035514849372107.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T11:01:04.938935"
+  },
+  {
     "id": "b7731ebc0b72dca4",
     "title": "Fralda Pants Huggies G 70 unidades",
     "price_now": 69.0,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-02T15:30:52.443649"
-  },
-  {
-    "id": "a3333341189c02a5",
-    "title": "Kit Enxoval Roupinhas de Bebê 5 Peças Body Manga Longa Liso",
-    "price_now": 45.9,
-    "price_was": 75.25,
-    "discount_pct": 39,
-    "url": "https://s.shopee.com.br/AAIQ3d1rVf",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7rfg4-m4aanqnkej7s5b",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-02T15:30:49.481917"
-  },
-  {
-    "id": "ac3f95f4ef7f9111",
-    "title": "Chupeta Ultra Air 0-6 Meses Philips Avent, Elefante",
-    "price_now": 19.0,
-    "price_was": 40.9,
-    "discount_pct": 54,
-    "url": "https://www.amazon.com.br/dp/B0C4M8S87B?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/201441973417936285107593354287.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-02T14:20:51.465973"
   }
 ]

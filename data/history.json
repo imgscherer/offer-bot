@@ -8111,6 +8111,14 @@
     "b7731ebc0b72dca4": {
       "title": "Fralda Pants Huggies G 70 unidades",
       "posted_at": "2026-11-03T10:41:17.071470"
+    },
+    "4ddf5602ba515cb9": {
+      "title": "Fralda-Calça MamyPoko Dia&Noite XG 52 Unidades",
+      "posted_at": "2026-11-03T11:01:04.939425"
+    },
+    "474f7b8428f2b68c": {
+      "title": "Mamypoko Fralda-calça Dia&noite G 60 Unidades",
+      "posted_at": "2026-11-03T11:01:18.783851"
     }
   },
   "results": [
@@ -39265,6 +39273,22 @@
       "post_id": "2040",
       "error": null,
       "at": "2026-11-03T10:41:17.070534"
+    },
+    {
+      "offer_id": "4ddf5602ba515cb9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2041",
+      "error": null,
+      "at": "2026-11-03T11:01:04.938642"
+    },
+    {
+      "offer_id": "474f7b8428f2b68c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2042",
+      "error": null,
+      "at": "2026-11-03T11:01:18.783100"
     }
   ]
 }
