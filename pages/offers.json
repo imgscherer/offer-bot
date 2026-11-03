@@ -1,5 +1,29 @@
 [
   {
+    "id": "340a83d8dac5f6ae",
+    "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Un",
+    "price_now": 47.0,
+    "price_was": 101.58,
+    "discount_pct": 54,
+    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/652821074317937078501113301961.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T12:20:55.360436"
+  },
+  {
+    "id": "f4b626147bc516aa",
+    "title": "Personal Fralda Baby Premium Protection Xg Com 26 Unidades",
+    "price_now": 18.99,
+    "price_was": 46.38,
+    "discount_pct": 59,
+    "url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/922365022217937075099014123842.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T12:20:45.513858"
+  },
+  {
     "id": "f7085323f46b67ba",
     "title": "Cadeira de Carro Infantil 0 a 36Kg Elite 4 em 1 Maxi Baby Preto",
     "price_now": 377.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T10:41:17.070934"
-  },
-  {
-    "id": "c516b147f410e778",
-    "title": "Kit Roupinhas de Bebê 10 Peças Body e Mijão Liso e Estampado",
-    "price_now": 115.9,
-    "price_was": 190.0,
-    "discount_pct": 39,
-    "url": "https://s.shopee.com.br/3g4xTnX6XC",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfinoiy5fc2ea",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T09:01:09.679078"
-  },
-  {
-    "id": "ad1d2fdcbeaff644",
-    "title": "Kit 10 Peças Roupinhas de Bebê Body Longo Liso ou Estampado e Mijão",
-    "price_now": 61.38,
-    "price_was": 104.03,
-    "discount_pct": 41,
-    "url": "https://s.shopee.com.br/30pGgZZdt8",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mpnsec8fwlj535",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T09:01:06.625015"
   }
 ]

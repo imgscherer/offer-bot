@@ -8147,6 +8147,14 @@
     "f7085323f46b67ba": {
       "title": "Cadeira de Carro Infantil 0 a 36Kg Elite 4 em 1 Maxi Baby Preto",
       "posted_at": "2026-11-03T12:11:09.847804"
+    },
+    "f4b626147bc516aa": {
+      "title": "Personal Fralda Baby Premium Protection Xg Com 26 Unidades",
+      "posted_at": "2026-11-03T12:20:45.514187"
+    },
+    "340a83d8dac5f6ae": {
+      "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Un",
+      "posted_at": "2026-11-03T12:20:55.360887"
     }
   },
   "results": [
@@ -39373,6 +39381,22 @@
       "post_id": "2049",
       "error": null,
       "at": "2026-11-03T12:11:09.847099"
+    },
+    {
+      "offer_id": "f4b626147bc516aa",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2050",
+      "error": null,
+      "at": "2026-11-03T12:20:45.513468"
+    },
+    {
+      "offer_id": "340a83d8dac5f6ae",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2051",
+      "error": null,
+      "at": "2026-11-03T12:20:55.360146"
     }
   ]
 }
