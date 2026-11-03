@@ -1,5 +1,41 @@
 [
   {
+    "id": "f7085323f46b67ba",
+    "title": "Cadeira de Carro Infantil 0 a 36Kg Elite 4 em 1 Maxi Baby Preto",
+    "price_now": 377.0,
+    "price_was": 548.9,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0CG2P81GL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/172764241517937069692833888714.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T12:11:09.847379"
+  },
+  {
+    "id": "a62e9bedde8c0047",
+    "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
+    "price_now": 26.09,
+    "price_was": 39.49,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/304955055917937069102233066938.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T12:11:00.295943"
+  },
+  {
+    "id": "0eff5700f23aee87",
+    "title": "Huggies Fralda Pants Premium Natural Care XXG 52 Un",
+    "price_now": 77.0,
+    "price_was": 118.35,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0BKLM298N?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/248481245717937069767676887598.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T12:10:49.963344"
+  },
+  {
     "id": "be6c8090b890e3a6",
     "title": "MamyPoko Fralda-Calça Dia&Noite Xg 52 Unidades",
     "price_now": 65.0,
@@ -106,41 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-03T09:01:06.625015"
-  },
-  {
-    "id": "e26ed6eaec89e54e",
-    "title": "Kit Roupinha de Bebê 4 Pçs Calça Mijão Algodão Liso Vira Pé",
-    "price_now": 63.9,
-    "price_was": 110.17,
-    "discount_pct": 42,
-    "url": "https://s.shopee.com.br/1Bf73l3ym",
-    "image": "https://cf.shopee.com.br/file/br-11134201-820mf-mqx8jkpww4qt49",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T09:01:04.007266"
-  },
-  {
-    "id": "404269226bfa95e1",
-    "title": "Kit Roupinhas de Bebê Recém Nascido 10 Peças Enxoval Verão",
-    "price_now": 67.9,
-    "price_was": 117.07,
-    "discount_pct": 42,
-    "url": "https://s.shopee.com.br/2Vt05ebXu7",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7ra34-m5aph58b3ddg3b",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T09:00:59.823586"
-  },
-  {
-    "id": "3913dbff2db24464",
-    "title": "Kit 11 Peças Roupinhas de Bebê Confortável Estilosa Enxoval",
-    "price_now": 86.9,
-    "price_was": 177.35,
-    "discount_pct": 51,
-    "url": "https://s.shopee.com.br/gRLuHiWcq",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8258o-mszo31b6u0htcf",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T09:00:57.415958"
   }
 ]

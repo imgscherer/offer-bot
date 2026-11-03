@@ -8135,6 +8135,18 @@
     "be6c8090b890e3a6": {
       "title": "MamyPoko Fralda-Calça Dia&Noite Xg 52 Unidades",
       "posted_at": "2026-11-03T12:01:00.214773"
+    },
+    "0eff5700f23aee87": {
+      "title": "Huggies Fralda Pants Premium Natural Care XXG 52 Un",
+      "posted_at": "2026-11-03T12:10:49.963622"
+    },
+    "a62e9bedde8c0047": {
+      "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
+      "posted_at": "2026-11-03T12:11:00.296476"
+    },
+    "f7085323f46b67ba": {
+      "title": "Cadeira de Carro Infantil 0 a 36Kg Elite 4 em 1 Maxi Baby Preto",
+      "posted_at": "2026-11-03T12:11:09.847804"
     }
   },
   "results": [
@@ -39337,6 +39349,30 @@
       "post_id": "2046",
       "error": null,
       "at": "2026-11-03T12:01:00.214027"
+    },
+    {
+      "offer_id": "0eff5700f23aee87",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2047",
+      "error": null,
+      "at": "2026-11-03T12:10:49.963005"
+    },
+    {
+      "offer_id": "a62e9bedde8c0047",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2048",
+      "error": null,
+      "at": "2026-11-03T12:11:00.295612"
+    },
+    {
+      "offer_id": "f7085323f46b67ba",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2049",
+      "error": null,
+      "at": "2026-11-03T12:11:09.847099"
     }
   ]
 }
