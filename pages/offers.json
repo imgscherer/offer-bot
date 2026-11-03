@@ -1,5 +1,17 @@
 [
   {
+    "id": "b789c3f6b485591c",
+    "title": "Fralda Infantil Personal Baby Protect e Sec M 40 Unidades",
+    "price_now": 26.0,
+    "price_was": 36.96,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/283237858617937241388766037119.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T16:51:21.988801"
+  },
+  {
     "id": "765f830841c893b1",
     "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
     "price_now": 46.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T15:50:45.452663"
-  },
-  {
-    "id": "7737de799042a9d0",
-    "title": "Fralda Love & Care Recém Nascido RN Mili 18 Unidades",
-    "price_now": 13.99,
-    "price_was": 27.98,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B09CDXRQJL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/673635897117937185504194157178.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T15:20:53.336369"
   }
 ]

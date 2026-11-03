@@ -8283,6 +8283,10 @@
     "765f830841c893b1": {
       "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
       "posted_at": "2026-11-03T16:40:44.965228"
+    },
+    "b789c3f6b485591c": {
+      "title": "Fralda Infantil Personal Baby Protect e Sec M 40 Unidades",
+      "posted_at": "2026-11-03T16:51:21.989544"
     }
   },
   "results": [
@@ -39877,6 +39881,38 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-03T16:41:00.784449"
+    },
+    {
+      "offer_id": "b5bbcc27b0657079",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-03T16:50:55.423504"
+    },
+    {
+      "offer_id": "576668bb1ed0f700",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-03T16:51:03.361736"
+    },
+    {
+      "offer_id": "82d19cc7f50e5702",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-03T16:51:10.001467"
+    },
+    {
+      "offer_id": "b789c3f6b485591c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2084",
+      "error": null,
+      "at": "2026-11-03T16:51:21.988322"
     }
   ]
 }
