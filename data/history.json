@@ -8267,6 +8267,18 @@
     "9b7314031c232dca": {
       "title": "Fralda Turma da Mônica Baby G 44 unidades",
       "posted_at": "2026-11-03T16:01:46.927434"
+    },
+    "94f6ec31923a8c39": {
+      "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
+      "posted_at": "2026-11-03T16:10:52.183636"
+    },
+    "f129a4b5cc930652": {
+      "title": "Bebe Conforto Drc G0+ até 13kg Styll Baby",
+      "posted_at": "2026-11-03T16:11:11.657428"
+    },
+    "80ebd290c2ee5a74": {
+      "title": "Fralda Turma da Mônica Baby XG 42 unidades",
+      "posted_at": "2026-11-03T16:11:21.579382"
     }
   },
   "results": [
@@ -39773,6 +39785,30 @@
       "post_id": "2079",
       "error": null,
       "at": "2026-11-03T16:01:46.926714"
+    },
+    {
+      "offer_id": "94f6ec31923a8c39",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2080",
+      "error": null,
+      "at": "2026-11-03T16:10:52.182918"
+    },
+    {
+      "offer_id": "f129a4b5cc930652",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2081",
+      "error": null,
+      "at": "2026-11-03T16:11:11.656672"
+    },
+    {
+      "offer_id": "80ebd290c2ee5a74",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2082",
+      "error": null,
+      "at": "2026-11-03T16:11:21.578550"
     }
   ]
 }

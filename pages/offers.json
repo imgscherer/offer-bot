@@ -1,5 +1,41 @@
 [
   {
+    "id": "80ebd290c2ee5a74",
+    "title": "Fralda Turma da Mônica Baby XG 42 unidades",
+    "price_now": 33.14,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KV2733?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/371295022217937205457366237046.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T16:11:21.578891"
+  },
+  {
+    "id": "f129a4b5cc930652",
+    "title": "Bebe Conforto Drc G0+ até 13kg Styll Baby",
+    "price_now": 201.97,
+    "price_was": 319.9,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B07JVNFVGY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/128696726117937214351535120382.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T16:11:11.656985"
+  },
+  {
+    "id": "94f6ec31923a8c39",
+    "title": "Fralda Huggies Máxima Proteção XXXL 128 unidades",
+    "price_now": 142.0,
+    "price_was": 246.01,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/725039126317937216726932885316.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T16:10:52.183273"
+  },
+  {
     "id": "9b7314031c232dca",
     "title": "Fralda Turma da Mônica Baby G 44 unidades",
     "price_now": 33.14,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T15:20:44.673545"
-  },
-  {
-    "id": "688dd9649cd46b13",
-    "title": "Babysec Fraldas Ultrasec Galinha Pintadinha M 72 Unidades",
-    "price_now": 44.0,
-    "price_was": 101.58,
-    "discount_pct": 57,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391C?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/741146602417937175959181519146.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T15:10:51.355663"
-  },
-  {
-    "id": "39b092be1dafcf98",
-    "title": "Fralda Babysec Premium G 60 unidades",
-    "price_now": 53.42,
-    "price_was": 85.2,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0CCDZ9XBJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/495993736117937172369972552548.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T15:01:13.196461"
-  },
-  {
-    "id": "7a96721f6e464d01",
-    "title": "Granado Água De Limpeza Bebê Peles Sensíveis 500ml",
-    "price_now": 44.68,
-    "price_was": 74.19,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B07NPWTYJT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/158691346317937170505929442070.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T14:51:05.191857"
   }
 ]
