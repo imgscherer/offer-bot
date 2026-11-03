@@ -8343,6 +8343,10 @@
     "9b5182a7587974f9": {
       "title": "Kit Roupinhas de Bebê 21 Peças Maternidade Enxoval Completo",
       "posted_at": "2026-11-03T19:30:59.224078"
+    },
+    "1d5c2aa9fe63ccec": {
+      "title": "Personal Fralda Baby Total Protect Pants Grande, 24 Unidades",
+      "posted_at": "2026-11-03T19:40:55.639817"
     }
   },
   "results": [
@@ -40129,6 +40133,14 @@
       "post_id": "2098",
       "error": null,
       "at": "2026-11-03T19:30:59.223376"
+    },
+    {
+      "offer_id": "1d5c2aa9fe63ccec",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2099",
+      "error": null,
+      "at": "2026-11-03T19:40:55.639323"
     }
   ]
 }
