@@ -8367,6 +8367,10 @@
     "32122117acee2669": {
       "title": "Fralda Personal Baby Total Protect Pants G 24 unidades",
       "posted_at": "2026-11-03T20:10:56.538855"
+    },
+    "d8c373b7b80ea054": {
+      "title": "Carrinho de Bebê Toffy Cosco",
+      "posted_at": "2026-11-03T20:30:58.490480"
     }
   },
   "results": [
@@ -40201,6 +40205,14 @@
       "post_id": "2104",
       "error": null,
       "at": "2026-11-03T20:10:56.538271"
+    },
+    {
+      "offer_id": "d8c373b7b80ea054",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2105",
+      "error": null,
+      "at": "2026-11-03T20:30:58.489852"
     }
   ]
 }

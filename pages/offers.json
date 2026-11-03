@@ -1,5 +1,17 @@
 [
   {
+    "id": "d8c373b7b80ea054",
+    "title": "Carrinho de Bebê Toffy Cosco",
+    "price_now": 398.13,
+    "price_was": 589.83,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0FWGGDH2X?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/666995018517937371882350192355.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T20:30:58.490165"
+  },
+  {
     "id": "32122117acee2669",
     "title": "Fralda Personal Baby Total Protect Pants G 24 unidades",
     "price_now": 22.67,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-03T19:30:50.781932"
-  },
-  {
-    "id": "06be260d2a465b54",
-    "title": "Fraldas Pampers Pants Ajuste Total G 90 unidades",
-    "price_now": 98.0,
-    "price_was": 194.9,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/633734777217937303153005449447.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T18:31:28.204381"
   }
 ]
