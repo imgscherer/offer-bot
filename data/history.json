@@ -39809,6 +39809,22 @@
       "post_id": "2082",
       "error": null,
       "at": "2026-11-03T16:11:21.578550"
+    },
+    {
+      "offer_id": "765f830841c893b1",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "",
+      "at": "2026-11-03T16:21:52.342458"
+    },
+    {
+      "offer_id": "576668bb1ed0f700",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "",
+      "at": "2026-11-03T16:23:06.565817"
     }
   ]
 }
