@@ -8323,6 +8323,26 @@
     "06be260d2a465b54": {
       "title": "Fraldas Pampers Pants Ajuste Total G 90 unidades",
       "posted_at": "2026-11-03T18:31:28.204768"
+    },
+    "58e6423f24cdc644": {
+      "title": "Kit 3 Pçs Roupinha de Bebê Body Enxoval Maternidade Promoção",
+      "posted_at": "2026-11-03T19:30:50.782234"
+    },
+    "5d204abcb78a1eb5": {
+      "title": "Kit Roupinhas De Bebê 10 Peças Body E Mijão E Macacão Plush",
+      "posted_at": "2026-11-03T19:30:53.209018"
+    },
+    "d6255fe68771185a": {
+      "title": "Kit 5 Pçs Roupinha De Bebê Enxoval Body e Mijão Bordado Fofo",
+      "posted_at": "2026-11-03T19:30:55.145072"
+    },
+    "42e6b7853baadcd6": {
+      "title": "Kit Roupinhas de Bebê 13 Peças Body Mijão Meias Kit Touca",
+      "posted_at": "2026-11-03T19:30:57.489435"
+    },
+    "9b5182a7587974f9": {
+      "title": "Kit Roupinhas de Bebê 21 Peças Maternidade Enxoval Completo",
+      "posted_at": "2026-11-03T19:30:59.224078"
     }
   },
   "results": [
@@ -40069,6 +40089,46 @@
       "post_id": "2093",
       "error": null,
       "at": "2026-11-03T18:31:28.204102"
+    },
+    {
+      "offer_id": "58e6423f24cdc644",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2094",
+      "error": null,
+      "at": "2026-11-03T19:30:50.781617"
+    },
+    {
+      "offer_id": "5d204abcb78a1eb5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2095",
+      "error": null,
+      "at": "2026-11-03T19:30:53.208345"
+    },
+    {
+      "offer_id": "d6255fe68771185a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2096",
+      "error": null,
+      "at": "2026-11-03T19:30:55.144367"
+    },
+    {
+      "offer_id": "42e6b7853baadcd6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2097",
+      "error": null,
+      "at": "2026-11-03T19:30:57.488671"
+    },
+    {
+      "offer_id": "9b5182a7587974f9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2098",
+      "error": null,
+      "at": "2026-11-03T19:30:59.223376"
     }
   ]
 }
