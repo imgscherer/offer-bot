@@ -1,5 +1,17 @@
 [
   {
+    "id": "398d7d2856fbafd6",
+    "title": "Fralda Babysec Ultra Sec G 60 Unidades",
+    "price_now": 47.11,
+    "price_was": 101.58,
+    "discount_pct": 54,
+    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/762014962917937041507651162269.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T11:20:45.550635"
+  },
+  {
     "id": "474f7b8428f2b68c",
     "title": "Mamypoko Fralda-calça Dia&noite G 60 Unidades",
     "price_now": 68.97,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-02T17:01:04.793134"
-  },
-  {
-    "id": "581093b40c40d8e9",
-    "title": "Kit Roupinha de Bebê 6 Peças Macacão e Body Regata Estampado",
-    "price_now": 59.99,
-    "price_was": 93.73,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/8KqlsG8qEK",
-    "image": "https://cf.shopee.com.br/file/ef8b23119753927fbebba0c81336100a",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-02T15:30:52.443649"
   }
 ]

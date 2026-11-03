@@ -8119,6 +8119,10 @@
     "474f7b8428f2b68c": {
       "title": "Mamypoko Fralda-calça Dia&noite G 60 Unidades",
       "posted_at": "2026-11-03T11:01:18.783851"
+    },
+    "398d7d2856fbafd6": {
+      "title": "Fralda Babysec Ultra Sec G 60 Unidades",
+      "posted_at": "2026-11-03T11:20:45.550965"
     }
   },
   "results": [
@@ -39289,6 +39293,14 @@
       "post_id": "2042",
       "error": null,
       "at": "2026-11-03T11:01:18.783100"
+    },
+    {
+      "offer_id": "398d7d2856fbafd6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2043",
+      "error": null,
+      "at": "2026-11-03T11:20:45.550263"
     }
   ]
 }
