@@ -8083,6 +8083,10 @@
     "e883098e9acdc6a7": {
       "title": "Fralda Pampers Pants Ajuste Total G com 90 Unidades",
       "posted_at": "2026-11-03T00:10:48.686389"
+    },
+    "34c8e1718946969b": {
+      "title": "Carrinho Romano Galzerano Travel System, Caramelo",
+      "posted_at": "2026-11-03T03:20:39.649961"
     }
   },
   "results": [
@@ -39181,6 +39185,14 @@
       "post_id": "2033",
       "error": null,
       "at": "2026-11-03T00:10:48.685711"
+    },
+    {
+      "offer_id": "34c8e1718946969b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2034",
+      "error": null,
+      "at": "2026-11-03T03:20:39.649462"
     }
   ]
 }

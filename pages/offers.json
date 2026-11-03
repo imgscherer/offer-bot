@@ -1,5 +1,17 @@
 [
   {
+    "id": "34c8e1718946969b",
+    "title": "Carrinho Romano Galzerano Travel System, Caramelo",
+    "price_now": 318.0,
+    "price_was": 1169.0,
+    "discount_pct": 73,
+    "url": "https://www.amazon.com.br/dp/B09HFCPVR2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/288552646817936753538350464574.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T03:20:39.649730"
+  },
+  {
     "id": "e883098e9acdc6a7",
     "title": "Fralda Pampers Pants Ajuste Total G com 90 Unidades",
     "price_now": 99.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-02T11:40:58.049143"
-  },
-  {
-    "id": "d246c1adc1119fb2",
-    "title": "Fralda Pampers Pants Ajuste Total G com 90 Unidades",
-    "price_now": 99.0,
-    "price_was": 194.9,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/664114300117936191913735374823.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-02T11:40:46.775908"
   }
 ]
