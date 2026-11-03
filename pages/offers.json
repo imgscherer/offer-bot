@@ -1,5 +1,17 @@
 [
   {
+    "id": "66e81723a7bdd8fd",
+    "title": "Mamypoko Fralda-calça Superproteção Xg 24 Unidades",
+    "price_now": 29.87,
+    "price_was": 42.9,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/255614694817937048554143452317.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T11:30:49.132054"
+  },
+  {
     "id": "398d7d2856fbafd6",
     "title": "Fralda Babysec Ultra Sec G 60 Unidades",
     "price_now": 47.11,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T00:10:48.686066"
-  },
-  {
-    "id": "65abe3312ab85543",
-    "title": "Fralda Turma Da Mônica Baby Jumbo Xg 20 Unidades",
-    "price_now": 19.9,
-    "price_was": 28.68,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B099KPR97P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/918720734317936382685512908023.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-02T17:01:04.793134"
   }
 ]

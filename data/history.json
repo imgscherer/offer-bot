@@ -8123,6 +8123,10 @@
     "398d7d2856fbafd6": {
       "title": "Fralda Babysec Ultra Sec G 60 Unidades",
       "posted_at": "2026-11-03T11:20:45.550965"
+    },
+    "66e81723a7bdd8fd": {
+      "title": "Mamypoko Fralda-calça Superproteção Xg 24 Unidades",
+      "posted_at": "2026-11-03T11:30:49.132425"
     }
   },
   "results": [
@@ -39301,6 +39305,14 @@
       "post_id": "2043",
       "error": null,
       "at": "2026-11-03T11:20:45.550263"
+    },
+    {
+      "offer_id": "66e81723a7bdd8fd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2044",
+      "error": null,
+      "at": "2026-11-03T11:30:49.131752"
     }
   ]
 }
