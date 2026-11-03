@@ -8391,6 +8391,10 @@
     "4a370856acb9b72d": {
       "title": "Fralda Descartável Huggies Proteção Tamanho P",
       "posted_at": "2026-11-03T21:41:00.176680"
+    },
+    "ddf1ac265dc6bd5f": {
+      "title": "Fralda Huggies Supreme Care P 48 Unidades",
+      "posted_at": "2026-11-03T22:01:07.111926"
     }
   },
   "results": [
@@ -40273,6 +40277,14 @@
       "post_id": "2110",
       "error": null,
       "at": "2026-11-03T21:41:00.175934"
+    },
+    {
+      "offer_id": "ddf1ac265dc6bd5f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2111",
+      "error": null,
+      "at": "2026-11-03T22:01:07.111082"
     }
   ]
 }

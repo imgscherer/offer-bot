@@ -1,5 +1,17 @@
 [
   {
+    "id": "ddf1ac265dc6bd5f",
+    "title": "Fralda Huggies Supreme Care P 48 Unidades",
+    "price_now": 37.0,
+    "price_was": 72.65,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/271787908917937428923738069866.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T22:01:07.111463"
+  },
+  {
     "id": "4a370856acb9b72d",
     "title": "Fralda Descartável Huggies Proteção Tamanho P",
     "price_now": 37.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T19:50:49.008838"
-  },
-  {
-    "id": "1d5c2aa9fe63ccec",
-    "title": "Personal Fralda Baby Total Protect Pants Grande, 24 Unidades",
-    "price_now": 25.19,
-    "price_was": 40.63,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0BTTKQV4P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/709213570717937340298964285938.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T19:40:55.639589"
   }
 ]
