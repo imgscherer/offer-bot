@@ -1,5 +1,29 @@
 [
   {
+    "id": "3d9468e0f662fbfa",
+    "title": "Fralda Babysec Ultrasec XG 56 unidades",
+    "price_now": 44.89,
+    "price_was": 101.58,
+    "discount_pct": 56,
+    "url": "https://www.amazon.com.br/dp/B07Z9T391J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/220918990117937261775341765159.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T17:21:00.728359"
+  },
+  {
+    "id": "00a43c5c5cb3aa73",
+    "title": "Fralda Babysec Ultrasec G 60 unidades",
+    "price_now": 44.89,
+    "price_was": 101.58,
+    "discount_pct": 56,
+    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/147195779617937261797129759290.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-03T17:20:53.254614"
+  },
+  {
     "id": "a63840ec6dd809cc",
     "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
     "price_now": 19.75,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T16:01:36.671533"
-  },
-  {
-    "id": "d9c6f0e0dabe173b",
-    "title": "Fralda Turma da Mônica Baby M 50 unidades",
-    "price_now": 33.14,
-    "price_was": 50.04,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/411151142717937205636502775525.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T16:01:28.767267"
-  },
-  {
-    "id": "b68bda3eb007a812",
-    "title": "Babysec Fralda Premium Hiper G 60 Unidades",
-    "price_now": 53.0,
-    "price_was": 85.2,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0CCDZ9XBJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/234291968217937208952627596033.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T16:01:17.481064"
   }
 ]

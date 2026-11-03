@@ -8299,6 +8299,14 @@
     "a63840ec6dd809cc": {
       "title": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
       "posted_at": "2026-11-03T17:11:24.888432"
+    },
+    "00a43c5c5cb3aa73": {
+      "title": "Fralda Babysec Ultrasec G 60 unidades",
+      "posted_at": "2026-11-03T17:20:53.254888"
+    },
+    "3d9468e0f662fbfa": {
+      "title": "Fralda Babysec Ultrasec XG 56 unidades",
+      "posted_at": "2026-11-03T17:21:00.728805"
     }
   },
   "results": [
@@ -39997,6 +40005,22 @@
       "post_id": "2087",
       "error": null,
       "at": "2026-11-03T17:11:24.887623"
+    },
+    {
+      "offer_id": "00a43c5c5cb3aa73",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2088",
+      "error": null,
+      "at": "2026-11-03T17:20:53.254289"
+    },
+    {
+      "offer_id": "3d9468e0f662fbfa",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2089",
+      "error": null,
+      "at": "2026-11-03T17:21:00.728090"
     }
   ]
 }
