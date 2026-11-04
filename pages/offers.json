@@ -1,5 +1,29 @@
 [
   {
+    "id": "84917c6e70dc68fc",
+    "title": "Protex Baby Sabonete Líquido para Bebê Pele Macia Refil 380ml |",
+    "price_now": 15.99,
+    "price_was": 25.55,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B08JQND4NB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/763742921517937684137550360397.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T05:20:49.249074"
+  },
+  {
+    "id": "18a5cfbde393ca39",
+    "title": "Protex Baby Delicate Care Sabonete Líquido Infantil 400ml",
+    "price_now": 19.99,
+    "price_was": 34.17,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B08JQRQYCL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/468883572617937684701124976293.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T05:20:41.064420"
+  },
+  {
     "id": "8084abadc675d91c",
     "title": "Fralda Babysec Ultrasec Galinha Pintadinha – P",
     "price_now": 28.46,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T20:50:54.298326"
-  },
-  {
-    "id": "d8c373b7b80ea054",
-    "title": "Carrinho de Bebê Toffy Cosco",
-    "price_now": 398.13,
-    "price_was": 589.83,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0FWGGDH2X?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/666995018517937371882350192355.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T20:30:58.490165"
-  },
-  {
-    "id": "32122117acee2669",
-    "title": "Fralda Personal Baby Total Protect Pants G 24 unidades",
-    "price_now": 22.67,
-    "price_was": 40.63,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B0BTTKQV4P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/218906083117937363787146656667.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T20:10:56.538597"
   }
 ]

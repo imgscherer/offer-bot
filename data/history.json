@@ -8411,6 +8411,14 @@
     "8084abadc675d91c": {
       "title": "Fralda Babysec Ultrasec Galinha Pintadinha – P",
       "posted_at": "2026-11-04T02:00:54.759335"
+    },
+    "18a5cfbde393ca39": {
+      "title": "Protex Baby Delicate Care Sabonete Líquido Infantil 400ml",
+      "posted_at": "2026-11-04T05:20:41.064842"
+    },
+    "84917c6e70dc68fc": {
+      "title": "Protex Baby Sabonete Líquido para Bebê Pele Macia Refil 380ml |",
+      "posted_at": "2026-11-04T05:20:49.249478"
     }
   },
   "results": [
@@ -40333,6 +40341,22 @@
       "post_id": "2115",
       "error": null,
       "at": "2026-11-04T02:00:54.758655"
+    },
+    {
+      "offer_id": "18a5cfbde393ca39",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2116",
+      "error": null,
+      "at": "2026-11-04T05:20:41.064021"
+    },
+    {
+      "offer_id": "84917c6e70dc68fc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2117",
+      "error": null,
+      "at": "2026-11-04T05:20:49.248772"
     }
   ]
 }
