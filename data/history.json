@@ -8499,6 +8499,10 @@
     "5a3c27d90d119f94": {
       "title": "Kit Calcinhas Infantil 100% Algodão (Tam. 4 a 15 anos)",
       "posted_at": "2026-11-04T14:50:52.130642"
+    },
+    "8006f1a699921e17": {
+      "title": "MamyPoko Fralda-Calça Superproteção XXG com 22 Unidades",
+      "posted_at": "2026-11-04T15:00:59.333709"
     }
   },
   "results": [
@@ -40669,6 +40673,14 @@
       "post_id": "2137",
       "error": null,
       "at": "2026-11-04T14:50:52.129913"
+    },
+    {
+      "offer_id": "8006f1a699921e17",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2138",
+      "error": null,
+      "at": "2026-11-04T15:00:59.333097"
     }
   ]
 }

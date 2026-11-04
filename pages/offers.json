@@ -1,5 +1,17 @@
 [
   {
+    "id": "8006f1a699921e17",
+    "title": "MamyPoko Fralda-Calça Superproteção XXG com 22 Unidades",
+    "price_now": 28.0,
+    "price_was": 46.9,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/808039461717938042572177931414.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T15:00:59.333405"
+  },
+  {
     "id": "5a3c27d90d119f94",
     "title": "Kit Calcinhas Infantil 100% Algodão (Tam. 4 a 15 anos)",
     "price_now": 29.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T12:10:40.264146"
-  },
-  {
-    "id": "819b8b2bd69fdf11",
-    "title": "Personal Fralda Baby Total Protect Pants Média, 52 Unidades",
-    "price_now": 46.0,
-    "price_was": 69.42,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/206923026217937931598213774140.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T12:01:02.107593"
   }
 ]
