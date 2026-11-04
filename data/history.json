@@ -8591,6 +8591,14 @@
     "e3b488a42ae3eb6f": {
       "title": "Fralda Pom Pom Protek XG 38 unidades",
       "posted_at": "2026-11-04T18:40:56.563123"
+    },
+    "7106be4e579f54f8": {
+      "title": "Fralda Personal Baby Premium Protection Extra Grande 50 Unidades",
+      "posted_at": "2026-11-04T19:20:47.491831"
+    },
+    "e1208cf0d563ff5b": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Mega XG 38 Unidades",
+      "posted_at": "2026-11-04T19:20:59.252539"
     }
   },
   "results": [
@@ -41009,6 +41017,22 @@
       "post_id": "2160",
       "error": null,
       "at": "2026-11-04T18:40:56.562307"
+    },
+    {
+      "offer_id": "7106be4e579f54f8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2161",
+      "error": null,
+      "at": "2026-11-04T19:20:47.491057"
+    },
+    {
+      "offer_id": "e1208cf0d563ff5b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2162",
+      "error": null,
+      "at": "2026-11-04T19:20:59.251580"
     }
   ]
 }

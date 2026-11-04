@@ -1,5 +1,29 @@
 [
   {
+    "id": "e1208cf0d563ff5b",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega XG 38 Unidades",
+    "price_now": 30.0,
+    "price_was": 50.29,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/722633126517938197078355138118.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T19:20:59.251864"
+  },
+  {
+    "id": "7106be4e579f54f8",
+    "title": "Fralda Personal Baby Premium Protection Extra Grande 50 Unidades",
+    "price_now": 59.0,
+    "price_was": 99.68,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B09MZVK5W6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/413427246717938195904956660518.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T19:20:47.491431"
+  },
+  {
     "id": "e3b488a42ae3eb6f",
     "title": "Fralda Pom Pom Protek XG 38 unidades",
     "price_now": 30.38,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T16:31:00.316992"
-  },
-  {
-    "id": "aa707c3ff481b059",
-    "title": "Creme Preventivo de Assaduras para Bebês Desitin Creamy 113g",
-    "price_now": 45.0,
-    "price_was": 101.99,
-    "discount_pct": 56,
-    "url": "https://www.amazon.com.br/dp/B07DHSTTCN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/369927927917938093133091482065.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T16:30:40.926305"
-  },
-  {
-    "id": "d0fd708d37d7057d",
-    "title": "Johnson's Baby Colônia Refrescante Lavanda Para Bebês 400ml",
-    "price_now": 40.0,
-    "price_was": 68.99,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B00LTDSMRU?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/473809480917938065237276396555.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T16:01:36.736666"
   }
 ]
