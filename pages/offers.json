@@ -1,5 +1,53 @@
 [
   {
+    "id": "7475dcc92b8f71e6",
+    "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
+    "price_now": 25.0,
+    "price_was": 44.99,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B07F1Z7ZM2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/691322930017938092536377640746.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T16:31:23.887755"
+  },
+  {
+    "id": "b3c6cafb75a18e99",
+    "title": "Mili Fralda Xg Pacote De 22 Fraldas",
+    "price_now": 23.99,
+    "price_was": 42.48,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B07GB468ZM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/980397879617938092947470692398.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T16:31:16.077512"
+  },
+  {
+    "id": "89b63dcd8b53d1f8",
+    "title": "Babysec Fralda Premium M 32 Unidades",
+    "price_now": 28.0,
+    "price_was": 54.39,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/946720357817938091772018078703.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T16:31:00.316992"
+  },
+  {
+    "id": "aa707c3ff481b059",
+    "title": "Creme Preventivo de Assaduras para Bebês Desitin Creamy 113g",
+    "price_now": 45.0,
+    "price_was": 101.99,
+    "discount_pct": 56,
+    "url": "https://www.amazon.com.br/dp/B07DHSTTCN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/369927927917938093133091482065.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T16:30:40.926305"
+  },
+  {
     "id": "d0fd708d37d7057d",
     "title": "Johnson's Baby Colônia Refrescante Lavanda Para Bebês 400ml",
     "price_now": 40.0,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T15:30:56.697319"
-  },
-  {
-    "id": "633ff23053337b89",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
-    "price_now": 49.15,
-    "price_was": 77.37,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/795357505017938048928147150465.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T15:12:01.717686"
-  },
-  {
-    "id": "a706d82890ee0179",
-    "title": "Fralda Huggies Supreme Care Pants G 60 unidades",
-    "price_now": 62.69,
-    "price_was": 113.25,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/706667634117938048933131520186.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T15:11:27.780829"
-  },
-  {
-    "id": "cc88d53c4ca209ac",
-    "title": "Lenço Umedecido Cuidado e Carinho 576 unid.",
-    "price_now": 45.9,
-    "price_was": 90.0,
-    "discount_pct": 49,
-    "url": "https://s.shopee.com.br/9APw21NGAv?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/633916186917938048951264657979.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T15:11:16.925641"
-  },
-  {
-    "id": "8006f1a699921e17",
-    "title": "MamyPoko Fralda-Calça Superproteção XXG com 22 Unidades",
-    "price_now": 28.0,
-    "price_was": 46.9,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/808039461717938042572177931414.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T15:00:59.333405"
   }
 ]

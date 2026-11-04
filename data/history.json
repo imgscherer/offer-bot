@@ -8547,6 +8547,22 @@
     "d0fd708d37d7057d": {
       "title": "Johnson's Baby Colônia Refrescante Lavanda Para Bebês 400ml",
       "posted_at": "2026-11-04T16:01:36.737080"
+    },
+    "aa707c3ff481b059": {
+      "title": "Creme Preventivo de Assaduras para Bebês Desitin Creamy 113g",
+      "posted_at": "2026-11-04T16:30:40.926551"
+    },
+    "89b63dcd8b53d1f8": {
+      "title": "Babysec Fralda Premium M 32 Unidades",
+      "posted_at": "2026-11-04T16:31:00.317623"
+    },
+    "b3c6cafb75a18e99": {
+      "title": "Mili Fralda Xg Pacote De 22 Fraldas",
+      "posted_at": "2026-11-04T16:31:16.078000"
+    },
+    "7475dcc92b8f71e6": {
+      "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
+      "posted_at": "2026-11-04T16:31:23.888371"
     }
   },
   "results": [
@@ -40837,6 +40853,38 @@
       "post_id": "2149",
       "error": null,
       "at": "2026-11-04T16:01:36.736329"
+    },
+    {
+      "offer_id": "aa707c3ff481b059",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2150",
+      "error": null,
+      "at": "2026-11-04T16:30:40.925986"
+    },
+    {
+      "offer_id": "89b63dcd8b53d1f8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2151",
+      "error": null,
+      "at": "2026-11-04T16:31:00.316709"
+    },
+    {
+      "offer_id": "b3c6cafb75a18e99",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2152",
+      "error": null,
+      "at": "2026-11-04T16:31:16.077234"
+    },
+    {
+      "offer_id": "7475dcc92b8f71e6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2153",
+      "error": null,
+      "at": "2026-11-04T16:31:23.887487"
     }
   ]
 }
