@@ -1,5 +1,17 @@
 [
   {
+    "id": "387ce622c1369d78",
+    "title": "Fralda Pampers Pants Ajuste Total G 144 Unidades",
+    "price_now": 148.0,
+    "price_was": 229.49,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/579180640617938008127340111508.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T14:10:56.436732"
+  },
+  {
     "id": "24f565ea6d326666",
     "title": "Graco Cadeira Infantil para Carro 4Ever DLX Grad 5 em 1 Cinza Chumbo",
     "price_now": 2198.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T11:31:10.741396"
-  },
-  {
-    "id": "178150635c7968aa",
-    "title": "Fralda Huggies XXG 140 Unidades",
-    "price_now": 142.0,
-    "price_was": 229.9,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/898784319117937912799331137335.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T11:31:01.035285"
   }
 ]

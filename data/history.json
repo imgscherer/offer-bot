@@ -8487,6 +8487,10 @@
     "24f565ea6d326666": {
       "title": "Graco Cadeira Infantil para Carro 4Ever DLX Grad 5 em 1 Cinza Chumbo",
       "posted_at": "2026-11-04T13:40:51.374731"
+    },
+    "387ce622c1369d78": {
+      "title": "Fralda Pampers Pants Ajuste Total G 144 Unidades",
+      "posted_at": "2026-11-04T14:10:56.436987"
     }
   },
   "results": [
@@ -40633,6 +40637,14 @@
       "post_id": "2134",
       "error": null,
       "at": "2026-11-04T13:40:51.374027"
+    },
+    {
+      "offer_id": "387ce622c1369d78",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2135",
+      "error": null,
+      "at": "2026-11-04T14:10:56.436387"
     }
   ]
 }
