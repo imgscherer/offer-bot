@@ -8587,6 +8587,10 @@
     "71c506ba9adaedab": {
       "title": "Safety 1st, Berço Mini Play, Grey Denim",
       "posted_at": "2026-11-04T18:30:57.545852"
+    },
+    "e3b488a42ae3eb6f": {
+      "title": "Fralda Pom Pom Protek XG 38 unidades",
+      "posted_at": "2026-11-04T18:40:56.563123"
     }
   },
   "results": [
@@ -40997,6 +41001,14 @@
       "post_id": "2159",
       "error": null,
       "at": "2026-11-04T18:30:57.545099"
+    },
+    {
+      "offer_id": "e3b488a42ae3eb6f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2160",
+      "error": null,
+      "at": "2026-11-04T18:40:56.562307"
     }
   ]
 }
