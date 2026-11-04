@@ -8491,6 +8491,10 @@
     "387ce622c1369d78": {
       "title": "Fralda Pampers Pants Ajuste Total G 144 Unidades",
       "posted_at": "2026-11-04T14:10:56.436987"
+    },
+    "177818f588612c72": {
+      "title": "Huggies Fralda Pants Premium Natural Care G 60 Un",
+      "posted_at": "2026-11-04T14:20:45.940748"
     }
   },
   "results": [
@@ -40645,6 +40649,14 @@
       "post_id": "2135",
       "error": null,
       "at": "2026-11-04T14:10:56.436387"
+    },
+    {
+      "offer_id": "177818f588612c72",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2136",
+      "error": null,
+      "at": "2026-11-04T14:20:45.940143"
     }
   ]
 }

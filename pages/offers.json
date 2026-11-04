@@ -1,5 +1,17 @@
 [
   {
+    "id": "177818f588612c72",
+    "title": "Huggies Fralda Pants Premium Natural Care G 60 Un",
+    "price_now": 76.0,
+    "price_was": 118.35,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/890220075517938008711841096156.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T14:20:45.940470"
+  },
+  {
     "id": "387ce622c1369d78",
     "title": "Fralda Pampers Pants Ajuste Total G 144 Unidades",
     "price_now": 148.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T11:50:45.017957"
-  },
-  {
-    "id": "6c657c0e90544931",
-    "title": "Personal Fralda Baby Total Protect Pants Média, 52 Unidades",
-    "price_now": 46.95,
-    "price_was": 69.42,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/303433842617937912153990675255.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T11:31:10.741396"
   }
 ]
