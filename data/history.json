@@ -8607,6 +8607,10 @@
     "15e5783de0c6f7c5": {
       "title": "Kit 2 Prendedores De Chupeta Coala Buba Azul",
       "posted_at": "2026-11-04T19:31:01.189882"
+    },
+    "0dbbfebc187841a5": {
+      "title": "Fralda Pom Pom Protek P 54",
+      "posted_at": "2026-11-04T20:01:01.182458"
     }
   },
   "results": [
@@ -41057,6 +41061,14 @@
       "post_id": "2164",
       "error": null,
       "at": "2026-11-04T19:31:01.189084"
+    },
+    {
+      "offer_id": "0dbbfebc187841a5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2165",
+      "error": null,
+      "at": "2026-11-04T20:01:01.181656"
     }
   ]
 }

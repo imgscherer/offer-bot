@@ -1,5 +1,17 @@
 [
   {
+    "id": "0dbbfebc187841a5",
+    "title": "Fralda Pom Pom Protek P 54",
+    "price_now": 32.0,
+    "price_was": 50.29,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B093GBK61Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/362917057417938218714099028093.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T20:01:01.181991"
+  },
+  {
     "id": "15e5783de0c6f7c5",
     "title": "Kit 2 Prendedores De Chupeta Coala Buba Azul",
     "price_now": 19.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T17:01:25.674498"
-  },
-  {
-    "id": "7475dcc92b8f71e6",
-    "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
-    "price_now": 25.0,
-    "price_was": 44.99,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B07F1Z7ZM2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/691322930017938092536377640746.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T16:31:23.887755"
   }
 ]
