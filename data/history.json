@@ -8455,6 +8455,14 @@
     "819b8b2bd69fdf11": {
       "title": "Personal Fralda Baby Total Protect Pants Média, 52 Unidades",
       "posted_at": "2026-11-04T12:01:02.108063"
+    },
+    "cabb7bc7d83e687c": {
+      "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
+      "posted_at": "2026-11-04T12:10:40.264390"
+    },
+    "ccc7e63a503a91b4": {
+      "title": "Kit 6 Conjuntos de Roupa Infantil Masculino (Tam. 1 ao 8)",
+      "posted_at": "2026-11-04T12:11:04.007509"
     }
   },
   "results": [
@@ -40465,6 +40473,22 @@
       "post_id": "2126",
       "error": null,
       "at": "2026-11-04T12:01:02.107244"
+    },
+    {
+      "offer_id": "cabb7bc7d83e687c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2127",
+      "error": null,
+      "at": "2026-11-04T12:10:40.263853"
+    },
+    {
+      "offer_id": "ccc7e63a503a91b4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2128",
+      "error": null,
+      "at": "2026-11-04T12:11:04.006859"
     }
   ]
 }

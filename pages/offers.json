@@ -1,5 +1,29 @@
 [
   {
+    "id": "ccc7e63a503a91b4",
+    "title": "Kit 6 Conjuntos de Roupa Infantil Masculino (Tam. 1 ao 8)",
+    "price_now": 113.81,
+    "price_was": 190.16,
+    "discount_pct": 40,
+    "url": "https://s.shopee.com.br/1BNeIGoWqv?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/508288909317937934918949882159.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T12:11:04.007095"
+  },
+  {
+    "id": "cabb7bc7d83e687c",
+    "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
+    "price_now": 46.0,
+    "price_was": 91.5,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/248192605517937936153648208537.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T12:10:40.264146"
+  },
+  {
     "id": "819b8b2bd69fdf11",
     "title": "Personal Fralda Baby Total Protect Pants Média, 52 Unidades",
     "price_now": 46.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T05:20:49.249074"
-  },
-  {
-    "id": "18a5cfbde393ca39",
-    "title": "Protex Baby Delicate Care Sabonete Líquido Infantil 400ml",
-    "price_now": 19.99,
-    "price_was": 34.17,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B08JQRQYCL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/468883572617937684701124976293.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T05:20:41.064420"
-  },
-  {
-    "id": "8084abadc675d91c",
-    "title": "Fralda Babysec Ultrasec Galinha Pintadinha – P",
-    "price_now": 28.46,
-    "price_was": 52.65,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/592265092317937566528563451624.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T02:00:54.759020"
   }
 ]
