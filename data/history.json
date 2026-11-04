@@ -8531,6 +8531,22 @@
     "cd8e3b02c87d9b94": {
       "title": "Fralda Huggies Supreme Care Roupinha XG com 64",
       "posted_at": "2026-11-04T15:31:44.465756"
+    },
+    "1cf054fd2d897e3c": {
+      "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
+      "posted_at": "2026-11-04T16:01:03.333339"
+    },
+    "66e6f34f01d9d051": {
+      "title": "Suplemento Infantil Ascenda Sem Sabor 800g",
+      "posted_at": "2026-11-04T16:01:12.853710"
+    },
+    "e035d6b6d74f168a": {
+      "title": "Fralda Cremer Com 15 Peças 0 70Cm X 0 70 Cm",
+      "posted_at": "2026-11-04T16:01:28.504724"
+    },
+    "d0fd708d37d7057d": {
+      "title": "Johnson's Baby Colônia Refrescante Lavanda Para Bebês 400ml",
+      "posted_at": "2026-11-04T16:01:36.737080"
     }
   },
   "results": [
@@ -40789,6 +40805,38 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-04T15:40:41.463299"
+    },
+    {
+      "offer_id": "1cf054fd2d897e3c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2146",
+      "error": null,
+      "at": "2026-11-04T16:01:03.332483"
+    },
+    {
+      "offer_id": "66e6f34f01d9d051",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2147",
+      "error": null,
+      "at": "2026-11-04T16:01:12.852959"
+    },
+    {
+      "offer_id": "e035d6b6d74f168a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2148",
+      "error": null,
+      "at": "2026-11-04T16:01:28.503969"
+    },
+    {
+      "offer_id": "d0fd708d37d7057d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2149",
+      "error": null,
+      "at": "2026-11-04T16:01:36.736329"
     }
   ]
 }

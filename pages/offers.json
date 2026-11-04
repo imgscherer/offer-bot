@@ -1,5 +1,53 @@
 [
   {
+    "id": "d0fd708d37d7057d",
+    "title": "Johnson's Baby Colônia Refrescante Lavanda Para Bebês 400ml",
+    "price_now": 40.0,
+    "price_was": 68.99,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B00LTDSMRU?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/473809480917938065237276396555.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T16:01:36.736666"
+  },
+  {
+    "id": "e035d6b6d74f168a",
+    "title": "Fralda Cremer Com 15 Peças 0 70Cm X 0 70 Cm",
+    "price_now": 60.0,
+    "price_was": 109.74,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B09HQZKWFQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/737243262717938066944933619778.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T16:01:28.504281"
+  },
+  {
+    "id": "66e6f34f01d9d051",
+    "title": "Suplemento Infantil Ascenda Sem Sabor 800g",
+    "price_now": 66.0,
+    "price_was": 124.39,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B09K2Y66Q3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/280944069017938065083718440082.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T16:01:12.853264"
+  },
+  {
+    "id": "1cf054fd2d897e3c",
+    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
+    "price_now": 44.0,
+    "price_was": 101.58,
+    "discount_pct": 57,
+    "url": "https://www.amazon.com.br/dp/B07Z9T391J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/296857304417938079051874980201.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T16:01:03.332876"
+  },
+  {
     "id": "cd8e3b02c87d9b94",
     "title": "Fralda Huggies Supreme Care Roupinha XG com 64",
     "price_now": 89.0,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T15:00:59.333405"
-  },
-  {
-    "id": "5a3c27d90d119f94",
-    "title": "Kit Calcinhas Infantil 100% Algodão (Tam. 4 a 15 anos)",
-    "price_now": 29.9,
-    "price_was": 49.83,
-    "discount_pct": 40,
-    "url": "https://s.shopee.com.br/8AXOnuiUnB?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/699247114617938029106112580328.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T14:50:52.130261"
-  },
-  {
-    "id": "177818f588612c72",
-    "title": "Huggies Fralda Pants Premium Natural Care G 60 Un",
-    "price_now": 76.0,
-    "price_was": 118.35,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/890220075517938008711841096156.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T14:20:45.940470"
-  },
-  {
-    "id": "387ce622c1369d78",
-    "title": "Fralda Pampers Pants Ajuste Total G 144 Unidades",
-    "price_now": 148.0,
-    "price_was": 229.49,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/579180640617938008127340111508.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T14:10:56.436732"
-  },
-  {
-    "id": "24f565ea6d326666",
-    "title": "Graco Cadeira Infantil para Carro 4Ever DLX Grad 5 em 1 Cinza Chumbo",
-    "price_now": 2198.0,
-    "price_was": 3328.0,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0FK11RFQG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/277948836517937984404199398147.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T13:40:51.374355"
   }
 ]
