@@ -8463,6 +8463,14 @@
     "ccc7e63a503a91b4": {
       "title": "Kit 6 Conjuntos de Roupa Infantil Masculino (Tam. 1 ao 8)",
       "posted_at": "2026-11-04T12:11:04.007509"
+    },
+    "50598f9ad996e2b8": {
+      "title": "Fralda Pampers Confort Sec XXG com 148",
+      "posted_at": "2026-11-04T12:21:21.683964"
+    },
+    "258f1634074b8e2f": {
+      "title": "Fralda Pampers Confort Sec G com 168",
+      "posted_at": "2026-11-04T12:21:38.424005"
     }
   },
   "results": [
@@ -40489,6 +40497,30 @@
       "post_id": "2128",
       "error": null,
       "at": "2026-11-04T12:11:04.006859"
+    },
+    {
+      "offer_id": "269a696f95d6ae32",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-04T12:21:09.736374"
+    },
+    {
+      "offer_id": "50598f9ad996e2b8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2129",
+      "error": null,
+      "at": "2026-11-04T12:21:21.683166"
+    },
+    {
+      "offer_id": "258f1634074b8e2f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2130",
+      "error": null,
+      "at": "2026-11-04T12:21:38.423289"
     }
   ]
 }
