@@ -8623,6 +8623,10 @@
     "77a77bcc2142b903": {
       "title": "Mamypoko Fralda-calça Dia&noite P 46 Unidades",
       "posted_at": "2026-11-04T20:40:44.465335"
+    },
+    "524ee971534cd1d6": {
+      "title": "Shampoo Infantil Suave Widi Care Jubinha 300ml",
+      "posted_at": "2026-11-04T21:10:42.884120"
     }
   },
   "results": [
@@ -41105,6 +41109,14 @@
       "post_id": "2168",
       "error": null,
       "at": "2026-11-04T20:40:44.464521"
+    },
+    {
+      "offer_id": "524ee971534cd1d6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2169",
+      "error": null,
+      "at": "2026-11-04T21:10:42.883430"
     }
   ]
 }
