@@ -1,5 +1,29 @@
 [
   {
+    "id": "15e5783de0c6f7c5",
+    "title": "Kit 2 Prendedores De Chupeta Coala Buba Azul",
+    "price_now": 19.0,
+    "price_was": 29.9,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0B3F6V312?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/531824835417938203122057868113.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T19:31:01.189387"
+  },
+  {
+    "id": "29810d6575b55aa6",
+    "title": "Kit 2 Prendedores De Chupeta Coala Buba Rosa",
+    "price_now": 19.0,
+    "price_was": 29.9,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0B3F6BXLH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/378613243617938203148075817902.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T19:30:50.746166"
+  },
+  {
     "id": "e1208cf0d563ff5b",
     "title": "Fralda Pom Pom Protek Proteção de Mãe Mega XG 38 Unidades",
     "price_now": 30.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T16:31:23.887755"
-  },
-  {
-    "id": "b3c6cafb75a18e99",
-    "title": "Mili Fralda Xg Pacote De 22 Fraldas",
-    "price_now": 23.99,
-    "price_was": 42.48,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B07GB468ZM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/980397879617938092947470692398.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T16:31:16.077512"
-  },
-  {
-    "id": "89b63dcd8b53d1f8",
-    "title": "Babysec Fralda Premium M 32 Unidades",
-    "price_now": 28.0,
-    "price_was": 54.39,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/946720357817938091772018078703.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T16:31:00.316992"
   }
 ]

@@ -8599,6 +8599,14 @@
     "e1208cf0d563ff5b": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe Mega XG 38 Unidades",
       "posted_at": "2026-11-04T19:20:59.252539"
+    },
+    "29810d6575b55aa6": {
+      "title": "Kit 2 Prendedores De Chupeta Coala Buba Rosa",
+      "posted_at": "2026-11-04T19:30:50.746472"
+    },
+    "15e5783de0c6f7c5": {
+      "title": "Kit 2 Prendedores De Chupeta Coala Buba Azul",
+      "posted_at": "2026-11-04T19:31:01.189882"
     }
   },
   "results": [
@@ -41033,6 +41041,22 @@
       "post_id": "2162",
       "error": null,
       "at": "2026-11-04T19:20:59.251580"
+    },
+    {
+      "offer_id": "29810d6575b55aa6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2163",
+      "error": null,
+      "at": "2026-11-04T19:30:50.745842"
+    },
+    {
+      "offer_id": "15e5783de0c6f7c5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2164",
+      "error": null,
+      "at": "2026-11-04T19:31:01.189084"
     }
   ]
 }
