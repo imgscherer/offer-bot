@@ -8427,6 +8427,10 @@
     "863db408ef291384": {
       "title": "Fralda Pampers Premium Care Tamanho XXXG 104 Unidades",
       "posted_at": "2026-11-04T10:31:11.618134"
+    },
+    "50d756b5c9334a1a": {
+      "title": "Fralda Personal Baby Total Protect Pants XXG 20 unidades",
+      "posted_at": "2026-11-04T11:01:01.828674"
     }
   },
   "results": [
@@ -40381,6 +40385,14 @@
       "post_id": "2119",
       "error": null,
       "at": "2026-11-04T10:31:11.617377"
+    },
+    {
+      "offer_id": "50d756b5c9334a1a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2120",
+      "error": null,
+      "at": "2026-11-04T11:01:01.827963"
     }
   ]
 }
