@@ -8563,6 +8563,10 @@
     "7475dcc92b8f71e6": {
       "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
       "posted_at": "2026-11-04T16:31:23.888371"
+    },
+    "e18b461aacf33f8c": {
+      "title": "Fralda Cremer Econômica M 34 Unidades",
+      "posted_at": "2026-11-04T17:01:25.674939"
     }
   },
   "results": [
@@ -40885,6 +40889,22 @@
       "post_id": "2153",
       "error": null,
       "at": "2026-11-04T16:31:23.887487"
+    },
+    {
+      "offer_id": "6f25f32f765a6514",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-04T17:01:12.057227"
+    },
+    {
+      "offer_id": "e18b461aacf33f8c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2154",
+      "error": null,
+      "at": "2026-11-04T17:01:25.674163"
     }
   ]
 }

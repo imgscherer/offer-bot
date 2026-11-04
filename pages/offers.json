@@ -1,5 +1,17 @@
 [
   {
+    "id": "e18b461aacf33f8c",
+    "title": "Fralda Cremer Econômica M 34 Unidades",
+    "price_now": 22.0,
+    "price_was": 32.79,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0D92MX4JM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/682891072617938113203195777405.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T17:01:25.674498"
+  },
+  {
     "id": "7475dcc92b8f71e6",
     "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
     "price_now": 25.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T15:31:14.097543"
-  },
-  {
-    "id": "e0e5903c0b4d44ae",
-    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
-    "price_now": 49.46,
-    "price_was": 101.58,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/958791314817938060445947866644.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T15:30:56.697319"
   }
 ]
