@@ -8515,6 +8515,22 @@
     "633ff23053337b89": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
       "posted_at": "2026-11-04T15:12:01.718307"
+    },
+    "e0e5903c0b4d44ae": {
+      "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
+      "posted_at": "2026-11-04T15:30:56.697792"
+    },
+    "7b9323b60442982b": {
+      "title": "Granado Água De Limpeza Bebê Peles Sensíveis 500ml",
+      "posted_at": "2026-11-04T15:31:14.098012"
+    },
+    "812bf69d67e42c25": {
+      "title": "Fralda-Calça MamyPoko Premium Seca G 60 Unidades",
+      "posted_at": "2026-11-04T15:31:26.822099"
+    },
+    "cd8e3b02c87d9b94": {
+      "title": "Fralda Huggies Supreme Care Roupinha XG com 64",
+      "posted_at": "2026-11-04T15:31:44.465756"
     }
   },
   "results": [
@@ -40725,6 +40741,46 @@
       "post_id": "2141",
       "error": null,
       "at": "2026-11-04T15:12:01.717302"
+    },
+    {
+      "offer_id": "e0e5903c0b4d44ae",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2142",
+      "error": null,
+      "at": "2026-11-04T15:30:56.697042"
+    },
+    {
+      "offer_id": "8b5bb22e5f8541ee",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-04T15:31:04.289003"
+    },
+    {
+      "offer_id": "7b9323b60442982b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2143",
+      "error": null,
+      "at": "2026-11-04T15:31:14.097293"
+    },
+    {
+      "offer_id": "812bf69d67e42c25",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2144",
+      "error": null,
+      "at": "2026-11-04T15:31:26.821401"
+    },
+    {
+      "offer_id": "cd8e3b02c87d9b94",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2145",
+      "error": null,
+      "at": "2026-11-04T15:31:44.465030"
     }
   ]
 }
