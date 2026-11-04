@@ -1,5 +1,17 @@
 [
   {
+    "id": "5d6065ccc9b66fc0",
+    "title": "Fralda Pom Pom Protek XG, 38 Unidades",
+    "price_now": 30.38,
+    "price_was": 50.29,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/304386125217938298495743247226.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T22:10:58.070504"
+  },
+  {
     "id": "55b0567bf89448d3",
     "title": "Fralda-calça Mamypoko Premium Seca G Com 60 Unidades",
     "price_now": 80.65,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T19:20:47.491431"
-  },
-  {
-    "id": "e3b488a42ae3eb6f",
-    "title": "Fralda Pom Pom Protek XG 38 unidades",
-    "price_now": 30.38,
-    "price_was": 50.29,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/509803760217938170834254613784.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T18:40:56.562640"
   }
 ]

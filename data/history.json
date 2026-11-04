@@ -8635,6 +8635,10 @@
     "55b0567bf89448d3": {
       "title": "Fralda-calça Mamypoko Premium Seca G Com 60 Unidades",
       "posted_at": "2026-11-04T21:50:42.890953"
+    },
+    "5d6065ccc9b66fc0": {
+      "title": "Fralda Pom Pom Protek XG, 38 Unidades",
+      "posted_at": "2026-11-04T22:10:58.070790"
     }
   },
   "results": [
@@ -41141,6 +41145,14 @@
       "post_id": "2171",
       "error": null,
       "at": "2026-11-04T21:50:42.890297"
+    },
+    {
+      "offer_id": "5d6065ccc9b66fc0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2172",
+      "error": null,
+      "at": "2026-11-04T22:10:58.070203"
     }
   ]
 }
