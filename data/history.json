@@ -8431,6 +8431,10 @@
     "50d756b5c9334a1a": {
       "title": "Fralda Personal Baby Total Protect Pants XXG 20 unidades",
       "posted_at": "2026-11-04T11:01:01.828674"
+    },
+    "6872598502317fbc": {
+      "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
+      "posted_at": "2026-11-04T11:20:44.168351"
     }
   },
   "results": [
@@ -40393,6 +40397,14 @@
       "post_id": "2120",
       "error": null,
       "at": "2026-11-04T11:01:01.827963"
+    },
+    {
+      "offer_id": "6872598502317fbc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2121",
+      "error": null,
+      "at": "2026-11-04T11:20:44.167807"
     }
   ]
 }

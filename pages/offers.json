@@ -1,5 +1,17 @@
 [
   {
+    "id": "6872598502317fbc",
+    "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
+    "price_now": 44.18,
+    "price_was": 91.5,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/695658943317937904289489434738.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T11:20:44.168101"
+  },
+  {
     "id": "50d756b5c9334a1a",
     "title": "Fralda Personal Baby Total Protect Pants XXG 20 unidades",
     "price_now": 26.86,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T21:41:00.176314"
-  },
-  {
-    "id": "77eeeab0d4624f3d",
-    "title": "Fralda Turma da Mônica Baby Mega G 44 Unidades",
-    "price_now": 34.88,
-    "price_was": 50.04,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/844326639917937380026424826312.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T20:51:20.045117"
   }
 ]
