@@ -1,5 +1,17 @@
 [
   {
+    "id": "8084abadc675d91c",
+    "title": "Fralda Babysec Ultrasec Galinha Pintadinha – P",
+    "price_now": 28.46,
+    "price_was": 52.65,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/592265092317937566528563451624.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T02:00:54.759020"
+  },
+  {
     "id": "481699783c9c197b",
     "title": "Fralda Baby Premium Protection P, 40 Unidades",
     "price_now": 24.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T20:10:56.538597"
-  },
-  {
-    "id": "7b38efaccbe5f7f0",
-    "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
-    "price_now": 46.95,
-    "price_was": 69.42,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/998534548517937354687414003761.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T20:01:39.511173"
   }
 ]

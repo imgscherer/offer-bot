@@ -8407,6 +8407,10 @@
     "481699783c9c197b": {
       "title": "Fralda Baby Premium Protection P, 40 Unidades",
       "posted_at": "2026-11-04T00:30:50.022068"
+    },
+    "8084abadc675d91c": {
+      "title": "Fralda Babysec Ultrasec Galinha Pintadinha – P",
+      "posted_at": "2026-11-04T02:00:54.759335"
     }
   },
   "results": [
@@ -40321,6 +40325,14 @@
       "post_id": "2114",
       "error": null,
       "at": "2026-11-04T00:30:50.021402"
+    },
+    {
+      "offer_id": "8084abadc675d91c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2115",
+      "error": null,
+      "at": "2026-11-04T02:00:54.758655"
     }
   ]
 }
