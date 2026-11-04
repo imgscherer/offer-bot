@@ -8447,6 +8447,10 @@
     "6c657c0e90544931": {
       "title": "Personal Fralda Baby Total Protect Pants Média, 52 Unidades",
       "posted_at": "2026-11-04T11:31:10.741874"
+    },
+    "17df5df6179f4389": {
+      "title": "Fralda Turma da Mônica Baby RN 36 Unidades",
+      "posted_at": "2026-11-04T11:50:45.018294"
     }
   },
   "results": [
@@ -40441,6 +40445,14 @@
       "post_id": "2124",
       "error": null,
       "at": "2026-11-04T11:31:10.741082"
+    },
+    {
+      "offer_id": "17df5df6179f4389",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2125",
+      "error": null,
+      "at": "2026-11-04T11:50:45.017619"
     }
   ]
 }
