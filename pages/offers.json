@@ -1,5 +1,41 @@
 [
   {
+    "id": "6c657c0e90544931",
+    "title": "Personal Fralda Baby Total Protect Pants Média, 52 Unidades",
+    "price_now": 46.95,
+    "price_was": 69.42,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/303433842617937912153990675255.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T11:31:10.741396"
+  },
+  {
+    "id": "178150635c7968aa",
+    "title": "Fralda Huggies XXG 140 Unidades",
+    "price_now": 142.0,
+    "price_was": 229.9,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/898784319117937912799331137335.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T11:31:01.035285"
+  },
+  {
+    "id": "89db295476481602",
+    "title": "Fraldas Babysec Ultrasec G 32 Unidades",
+    "price_now": 26.97,
+    "price_was": 52.65,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07C3XMTFY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/616741671117937910326090504885.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T11:30:52.324054"
+  },
+  {
     "id": "6872598502317fbc",
     "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
     "price_now": 44.18,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T00:20:48.409374"
-  },
-  {
-    "id": "71f7d9159d77da09",
-    "title": "Fralda Mili Love & Care Premium XXG 40 unidades",
-    "price_now": 44.59,
-    "price_was": 72.98,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B07GG4VT6S?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/260063297317937443077089023889.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T22:30:52.848266"
-  },
-  {
-    "id": "ddf1ac265dc6bd5f",
-    "title": "Fralda Huggies Supreme Care P 48 Unidades",
-    "price_now": 37.0,
-    "price_was": 72.65,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/271787908917937428923738069866.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T22:01:07.111463"
-  },
-  {
-    "id": "4a370856acb9b72d",
-    "title": "Fralda Descartável Huggies Proteção Tamanho P",
-    "price_now": 37.99,
-    "price_was": 72.65,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/375392742217937413544919029479.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T21:41:00.176314"
   }
 ]

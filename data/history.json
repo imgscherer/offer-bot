@@ -8435,6 +8435,18 @@
     "6872598502317fbc": {
       "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
       "posted_at": "2026-11-04T11:20:44.168351"
+    },
+    "89db295476481602": {
+      "title": "Fraldas Babysec Ultrasec G 32 Unidades",
+      "posted_at": "2026-11-04T11:30:52.324392"
+    },
+    "178150635c7968aa": {
+      "title": "Fralda Huggies XXG 140 Unidades",
+      "posted_at": "2026-11-04T11:31:01.035760"
+    },
+    "6c657c0e90544931": {
+      "title": "Personal Fralda Baby Total Protect Pants Média, 52 Unidades",
+      "posted_at": "2026-11-04T11:31:10.741874"
     }
   },
   "results": [
@@ -40405,6 +40417,30 @@
       "post_id": "2121",
       "error": null,
       "at": "2026-11-04T11:20:44.167807"
+    },
+    {
+      "offer_id": "89db295476481602",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2122",
+      "error": null,
+      "at": "2026-11-04T11:30:52.323705"
+    },
+    {
+      "offer_id": "178150635c7968aa",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2123",
+      "error": null,
+      "at": "2026-11-04T11:31:01.034953"
+    },
+    {
+      "offer_id": "6c657c0e90544931",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2124",
+      "error": null,
+      "at": "2026-11-04T11:31:10.741082"
     }
   ]
 }
