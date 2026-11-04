@@ -1,5 +1,17 @@
 [
   {
+    "id": "404198d46134274e",
+    "title": "Fralda Mili XG 22 Unidades",
+    "price_now": 23.0,
+    "price_was": 42.48,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B07GB468ZM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/712271325017938132889002718524.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T17:30:49.837633"
+  },
+  {
     "id": "e18b461aacf33f8c",
     "title": "Fralda Cremer Econômica M 34 Unidades",
     "price_now": 22.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T15:31:26.821635"
-  },
-  {
-    "id": "7b9323b60442982b",
-    "title": "Granado Água De Limpeza Bebê Peles Sensíveis 500ml",
-    "price_now": 44.0,
-    "price_was": 74.19,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07NPWTYJT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/191437228617938056134857363877.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T15:31:14.097543"
   }
 ]
