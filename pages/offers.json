@@ -1,5 +1,17 @@
 [
   {
+    "id": "77a77bcc2142b903",
+    "title": "Mamypoko Fralda-calça Dia&noite P 46 Unidades",
+    "price_now": 40.61,
+    "price_was": 62.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/959070727217938243998579826081.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T20:40:44.464879"
+  },
+  {
     "id": "f8680aced87d3466",
     "title": "Fralda Huggies Natural Care RN 34 Unidades",
     "price_now": 28.29,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T18:20:45.562981"
-  },
-  {
-    "id": "9c40822b43e6d232",
-    "title": "Carrinho de Bebe Infantil Berço Passeio Moises Reversível Bebê Conforto Base Auto Napoli Galzerano",
-    "price_now": 1010.0,
-    "price_was": 1599.99,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0CN756162?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/913793248617938146748001260214.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T18:00:52.116361"
   }
 ]
