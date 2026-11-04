@@ -1,5 +1,41 @@
 [
   {
+    "id": "633ff23053337b89",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
+    "price_now": 49.15,
+    "price_was": 77.37,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/795357505017938048928147150465.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T15:12:01.717686"
+  },
+  {
+    "id": "a706d82890ee0179",
+    "title": "Fralda Huggies Supreme Care Pants G 60 unidades",
+    "price_now": 62.69,
+    "price_was": 113.25,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/706667634117938048933131520186.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T15:11:27.780829"
+  },
+  {
+    "id": "cc88d53c4ca209ac",
+    "title": "Lenço Umedecido Cuidado e Carinho 576 unid.",
+    "price_now": 45.9,
+    "price_was": 90.0,
+    "discount_pct": 49,
+    "url": "https://s.shopee.com.br/9APw21NGAv?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/633916186917938048951264657979.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T15:11:16.925641"
+  },
+  {
     "id": "8006f1a699921e17",
     "title": "MamyPoko Fralda-Calça Superproteção XXG com 22 Unidades",
     "price_now": 28.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T12:21:38.423623"
-  },
-  {
-    "id": "50598f9ad996e2b8",
-    "title": "Fralda Pampers Confort Sec XXG com 148",
-    "price_now": 142.0,
-    "price_was": 235.87,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0DDV1QKW7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/507168928517937945271331477558.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T12:21:21.683496"
-  },
-  {
-    "id": "ccc7e63a503a91b4",
-    "title": "Kit 6 Conjuntos de Roupa Infantil Masculino (Tam. 1 ao 8)",
-    "price_now": 113.81,
-    "price_was": 190.16,
-    "discount_pct": 40,
-    "url": "https://s.shopee.com.br/1BNeIGoWqv?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/508288909317937934918949882159.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T12:11:04.007095"
-  },
-  {
-    "id": "cabb7bc7d83e687c",
-    "title": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
-    "price_now": 46.0,
-    "price_was": 91.5,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/248192605517937936153648208537.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T12:10:40.264146"
   }
 ]
