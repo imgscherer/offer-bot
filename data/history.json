@@ -8495,6 +8495,10 @@
     "177818f588612c72": {
       "title": "Huggies Fralda Pants Premium Natural Care G 60 Un",
       "posted_at": "2026-11-04T14:20:45.940748"
+    },
+    "5a3c27d90d119f94": {
+      "title": "Kit Calcinhas Infantil 100% Algodão (Tam. 4 a 15 anos)",
+      "posted_at": "2026-11-04T14:50:52.130642"
     }
   },
   "results": [
@@ -40657,6 +40661,14 @@
       "post_id": "2136",
       "error": null,
       "at": "2026-11-04T14:20:45.940143"
+    },
+    {
+      "offer_id": "5a3c27d90d119f94",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2137",
+      "error": null,
+      "at": "2026-11-04T14:50:52.129913"
     }
   ]
 }
