@@ -1,5 +1,17 @@
 [
   {
+    "id": "3e8897a087c6fc18",
+    "title": "Fralda Mili Love & Care Premium XXG 40 unidades",
+    "price_now": 44.0,
+    "price_was": 72.98,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B07GG4VT6S?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/427240585217937508301331493261.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T00:20:48.409374"
+  },
+  {
     "id": "71f7d9159d77da09",
     "title": "Fralda Mili Love & Care Premium XXG 40 unidades",
     "price_now": 44.59,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T20:01:30.552705"
-  },
-  {
-    "id": "04103aff90a87268",
-    "title": "Kit Babuche Com Bolsa Florzinha Infantil (21 ao 28, Diversas cores)",
-    "price_now": 49.9,
-    "price_was": 93.44,
-    "discount_pct": 47,
-    "url": "https://s.shopee.com.br/AAIRwOuIT5?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/451775724517937354713190014229.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T20:01:19.217916"
   }
 ]

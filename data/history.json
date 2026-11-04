@@ -8399,6 +8399,10 @@
     "71f7d9159d77da09": {
       "title": "Fralda Mili Love & Care Premium XXG 40 unidades",
       "posted_at": "2026-11-03T22:30:52.848596"
+    },
+    "3e8897a087c6fc18": {
+      "title": "Fralda Mili Love & Care Premium XXG 40 unidades",
+      "posted_at": "2026-11-04T00:20:48.409629"
     }
   },
   "results": [
@@ -40297,6 +40301,14 @@
       "post_id": "2112",
       "error": null,
       "at": "2026-11-03T22:30:52.847887"
+    },
+    {
+      "offer_id": "3e8897a087c6fc18",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2113",
+      "error": null,
+      "at": "2026-11-04T00:20:48.409075"
     }
   ]
 }
