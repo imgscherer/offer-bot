@@ -1,5 +1,17 @@
 [
   {
+    "id": "9c40822b43e6d232",
+    "title": "Carrinho de Bebe Infantil Berço Passeio Moises Reversível Bebê Conforto Base Auto Napoli Galzerano",
+    "price_now": 1010.0,
+    "price_was": 1599.99,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0CN756162?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/913793248617938146748001260214.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T18:00:52.116361"
+  },
+  {
     "id": "404198d46134274e",
     "title": "Fralda Mili XG 22 Unidades",
     "price_now": 23.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T15:31:44.465296"
-  },
-  {
-    "id": "812bf69d67e42c25",
-    "title": "Fralda-Calça MamyPoko Premium Seca G 60 Unidades",
-    "price_now": 80.0,
-    "price_was": 129.9,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B08DJTXZ2B?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/550602109717938056429356449626.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T15:31:26.821635"
   }
 ]

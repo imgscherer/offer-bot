@@ -8571,6 +8571,10 @@
     "404198d46134274e": {
       "title": "Fralda Mili XG 22 Unidades",
       "posted_at": "2026-11-04T17:30:49.837964"
+    },
+    "9c40822b43e6d232": {
+      "title": "Carrinho de Bebe Infantil Berço Passeio Moises Reversível Bebê Conforto Base Auto Napoli Galzerano",
+      "posted_at": "2026-11-04T18:00:52.116679"
     }
   },
   "results": [
@@ -40949,6 +40953,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-04T17:40:38.090873"
+    },
+    {
+      "offer_id": "9c40822b43e6d232",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2156",
+      "error": null,
+      "at": "2026-11-04T18:00:52.116023"
     }
   ]
 }
