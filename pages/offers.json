@@ -1,5 +1,17 @@
 [
   {
+    "id": "55b0567bf89448d3",
+    "title": "Fralda-calça Mamypoko Premium Seca G Com 60 Unidades",
+    "price_now": 80.65,
+    "price_was": 129.9,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B08DJTXZ2B?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/490613138417938278846127998607.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T21:50:42.890628"
+  },
+  {
     "id": "483103f3ff731658",
     "title": "Fralda Huggies Supreme Care P 48 unidades",
     "price_now": 37.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T18:40:56.562640"
-  },
-  {
-    "id": "71c506ba9adaedab",
-    "title": "Safety 1st, Berço Mini Play, Grey Denim",
-    "price_now": 349.8,
-    "price_was": 649.0,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B081T9WZHG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/710202700317938162912459943629.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T18:30:57.545430"
   }
 ]

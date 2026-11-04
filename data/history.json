@@ -8631,6 +8631,10 @@
     "483103f3ff731658": {
       "title": "Fralda Huggies Supreme Care P 48 unidades",
       "posted_at": "2026-11-04T21:30:58.425877"
+    },
+    "55b0567bf89448d3": {
+      "title": "Fralda-calça Mamypoko Premium Seca G Com 60 Unidades",
+      "posted_at": "2026-11-04T21:50:42.890953"
     }
   },
   "results": [
@@ -41129,6 +41133,14 @@
       "post_id": "2170",
       "error": null,
       "at": "2026-11-04T21:30:58.425053"
+    },
+    {
+      "offer_id": "55b0567bf89448d3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2171",
+      "error": null,
+      "at": "2026-11-04T21:50:42.890297"
     }
   ]
 }
