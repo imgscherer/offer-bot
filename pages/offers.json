@@ -1,5 +1,29 @@
 [
   {
+    "id": "2efed02360020e06",
+    "title": "Fralda Personal Baby Total Protect Pants XXG 20 Unidades",
+    "price_now": 26.0,
+    "price_was": 46.99,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B0BTTMN5DD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/149603284817937958414382034156.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T12:51:05.330648"
+  },
+  {
+    "id": "69de07890c314b08",
+    "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Un",
+    "price_now": 44.0,
+    "price_was": 101.58,
+    "discount_pct": 57,
+    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/241446980417937959557720780126.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T12:50:54.599303"
+  },
+  {
     "id": "258f1634074b8e2f",
     "title": "Fralda Pampers Confort Sec G com 168",
     "price_now": 142.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T11:20:44.168101"
-  },
-  {
-    "id": "50d756b5c9334a1a",
-    "title": "Fralda Personal Baby Total Protect Pants XXG 20 unidades",
-    "price_now": 26.86,
-    "price_was": 46.99,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B0BTTMN5DD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/411534574717937890049498681828.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T11:01:01.828323"
-  },
-  {
-    "id": "863db408ef291384",
-    "title": "Fralda Pampers Premium Care Tamanho XXXG 104 Unidades",
-    "price_now": 159.0,
-    "price_was": 242.27,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0DDTYKDKX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/570271151717937879104151069020.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T10:31:11.617691"
   }
 ]

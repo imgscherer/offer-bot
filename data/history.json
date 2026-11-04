@@ -8471,6 +8471,14 @@
     "258f1634074b8e2f": {
       "title": "Fralda Pampers Confort Sec G com 168",
       "posted_at": "2026-11-04T12:21:38.424005"
+    },
+    "69de07890c314b08": {
+      "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Un",
+      "posted_at": "2026-11-04T12:50:54.600051"
+    },
+    "2efed02360020e06": {
+      "title": "Fralda Personal Baby Total Protect Pants XXG 20 Unidades",
+      "posted_at": "2026-11-04T12:51:05.331292"
     }
   },
   "results": [
@@ -40537,6 +40545,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-04T12:40:39.531429"
+    },
+    {
+      "offer_id": "69de07890c314b08",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2131",
+      "error": null,
+      "at": "2026-11-04T12:50:54.598984"
+    },
+    {
+      "offer_id": "2efed02360020e06",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2132",
+      "error": null,
+      "at": "2026-11-04T12:51:05.330306"
+    },
+    {
+      "offer_id": "269a696f95d6ae32",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-04T12:51:14.143285"
     }
   ]
 }
