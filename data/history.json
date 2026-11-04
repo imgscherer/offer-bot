@@ -8611,6 +8611,10 @@
     "0dbbfebc187841a5": {
       "title": "Fralda Pom Pom Protek P 54",
       "posted_at": "2026-11-04T20:01:01.182458"
+    },
+    "87c9fd57af7c40bf": {
+      "title": "Kit Shampoo + Condicionador + Loção Hidratante 230ml Linha Suave Bebê Natureza",
+      "posted_at": "2026-11-04T20:20:51.653264"
     }
   },
   "results": [
@@ -41069,6 +41073,14 @@
       "post_id": "2165",
       "error": null,
       "at": "2026-11-04T20:01:01.181656"
+    },
+    {
+      "offer_id": "87c9fd57af7c40bf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2166",
+      "error": null,
+      "at": "2026-11-04T20:20:51.652538"
     }
   ]
 }

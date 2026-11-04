@@ -1,5 +1,17 @@
 [
   {
+    "id": "87c9fd57af7c40bf",
+    "title": "Kit Shampoo + Condicionador + Loção Hidratante 230ml Linha Suave Bebê Natureza",
+    "price_now": 53.0,
+    "price_was": 80.45,
+    "discount_pct": 34,
+    "url": "https://s.shopee.com.br/30pIsWIcYH?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/205592853217938231349334826523.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T20:20:51.652839"
+  },
+  {
     "id": "0dbbfebc187841a5",
     "title": "Fralda Pom Pom Protek P 54",
     "price_now": 32.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T17:30:49.837633"
-  },
-  {
-    "id": "e18b461aacf33f8c",
-    "title": "Fralda Cremer Econômica M 34 Unidades",
-    "price_now": 22.0,
-    "price_was": 32.79,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0D92MX4JM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/682891072617938113203195777405.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T17:01:25.674498"
   }
 ]
