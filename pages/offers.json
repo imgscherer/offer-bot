@@ -1,5 +1,29 @@
 [
   {
+    "id": "863db408ef291384",
+    "title": "Fralda Pampers Premium Care Tamanho XXXG 104 Unidades",
+    "price_now": 159.0,
+    "price_was": 242.27,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0DDTYKDKX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/570271151717937879104151069020.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T10:31:11.617691"
+  },
+  {
+    "id": "de8d77a4a4903c53",
+    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
+    "price_now": 25.61,
+    "price_was": 52.65,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/606341313217937880307213311201.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T10:30:58.261873"
+  },
+  {
     "id": "84917c6e70dc68fc",
     "title": "Protex Baby Sabonete Líquido para Bebê Pele Macia Refil 380ml |",
     "price_now": 15.99,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T20:51:09.792199"
-  },
-  {
-    "id": "d96cd9c7e76afb4f",
-    "title": "Personal Fralda Baby Premium Pants G 62 Unidades",
-    "price_now": 65.0,
-    "price_was": 116.89,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/915907225217937379335393993347.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T20:51:03.094633"
-  },
-  {
-    "id": "2ff8f97372cf4cef",
-    "title": "Fralda Mili Love and Care Mega, Tamanho P, 56 Unidades",
-    "price_now": 44.0,
-    "price_was": 85.6,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07GG1YT1W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/350422051917937379894623261443.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T20:50:54.298326"
   }
 ]

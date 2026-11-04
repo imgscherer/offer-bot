@@ -8419,6 +8419,14 @@
     "84917c6e70dc68fc": {
       "title": "Protex Baby Sabonete Líquido para Bebê Pele Macia Refil 380ml |",
       "posted_at": "2026-11-04T05:20:49.249478"
+    },
+    "de8d77a4a4903c53": {
+      "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
+      "posted_at": "2026-11-04T10:30:58.262255"
+    },
+    "863db408ef291384": {
+      "title": "Fralda Pampers Premium Care Tamanho XXXG 104 Unidades",
+      "posted_at": "2026-11-04T10:31:11.618134"
     }
   },
   "results": [
@@ -40357,6 +40365,22 @@
       "post_id": "2117",
       "error": null,
       "at": "2026-11-04T05:20:49.248772"
+    },
+    {
+      "offer_id": "de8d77a4a4903c53",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2118",
+      "error": null,
+      "at": "2026-11-04T10:30:58.261532"
+    },
+    {
+      "offer_id": "863db408ef291384",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2119",
+      "error": null,
+      "at": "2026-11-04T10:31:11.617377"
     }
   ]
 }
