@@ -8575,6 +8575,14 @@
     "9c40822b43e6d232": {
       "title": "Carrinho de Bebe Infantil Berço Passeio Moises Reversível Bebê Conforto Base Auto Napoli Galzerano",
       "posted_at": "2026-11-04T18:00:52.116679"
+    },
+    "a40c9d4733f33e73": {
+      "title": "Carrinho Travel System Magnific Trio Safety 1st (opção de cor)",
+      "posted_at": "2026-11-04T18:20:45.563306"
+    },
+    "53ad4062cfc3fc86": {
+      "title": "Kit Shampoo + Condicionador + Loção Hidratante 230ml Linha Suave Bebê Natureza",
+      "posted_at": "2026-11-04T18:20:58.716585"
     }
   },
   "results": [
@@ -40961,6 +40969,22 @@
       "post_id": "2156",
       "error": null,
       "at": "2026-11-04T18:00:52.116023"
+    },
+    {
+      "offer_id": "a40c9d4733f33e73",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2157",
+      "error": null,
+      "at": "2026-11-04T18:20:45.562641"
+    },
+    {
+      "offer_id": "53ad4062cfc3fc86",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2158",
+      "error": null,
+      "at": "2026-11-04T18:20:58.715842"
     }
   ]
 }

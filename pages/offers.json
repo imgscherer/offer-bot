@@ -1,5 +1,29 @@
 [
   {
+    "id": "53ad4062cfc3fc86",
+    "title": "Kit Shampoo + Condicionador + Loção Hidratante 230ml Linha Suave Bebê Natureza",
+    "price_now": 53.9,
+    "price_was": 80.45,
+    "discount_pct": 33,
+    "url": "https://s.shopee.com.br/30pIsWIcYH?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/228855487917938152325862754442.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T18:20:58.716136"
+  },
+  {
+    "id": "a40c9d4733f33e73",
+    "title": "Carrinho Travel System Magnific Trio Safety 1st (opção de cor)",
+    "price_now": 1300.0,
+    "price_was": 2199.0,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0CRZ8FZBP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/986725285417938158217136726244.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T18:20:45.562981"
+  },
+  {
     "id": "9c40822b43e6d232",
     "title": "Carrinho de Bebe Infantil Berço Passeio Moises Reversível Bebê Conforto Base Auto Napoli Galzerano",
     "price_now": 1010.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T16:01:12.853264"
-  },
-  {
-    "id": "1cf054fd2d897e3c",
-    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
-    "price_now": 44.0,
-    "price_was": 101.58,
-    "discount_pct": 57,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/296857304417938079051874980201.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T16:01:03.332876"
-  },
-  {
-    "id": "cd8e3b02c87d9b94",
-    "title": "Fralda Huggies Supreme Care Roupinha XG com 64",
-    "price_now": 89.0,
-    "price_was": 131.78,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/794977141417938055608737138612.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T15:31:44.465296"
   }
 ]
