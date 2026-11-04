@@ -1,5 +1,17 @@
 [
   {
+    "id": "24f565ea6d326666",
+    "title": "Graco Cadeira Infantil para Carro 4Ever DLX Grad 5 em 1 Cinza Chumbo",
+    "price_now": 2198.0,
+    "price_was": 3328.0,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0FK11RFQG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/277948836517937984404199398147.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T13:40:51.374355"
+  },
+  {
     "id": "51106a155b889966",
     "title": "Fralda Pants Huggies Supreme Care G 70 Unidades",
     "price_now": 71.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T11:31:01.035285"
-  },
-  {
-    "id": "89db295476481602",
-    "title": "Fraldas Babysec Ultrasec G 32 Unidades",
-    "price_now": 26.97,
-    "price_was": 52.65,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07C3XMTFY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/616741671117937910326090504885.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T11:30:52.324054"
   }
 ]

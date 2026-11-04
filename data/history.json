@@ -8483,6 +8483,10 @@
     "51106a155b889966": {
       "title": "Fralda Pants Huggies Supreme Care G 70 Unidades",
       "posted_at": "2026-11-04T13:30:58.544987"
+    },
+    "24f565ea6d326666": {
+      "title": "Graco Cadeira Infantil para Carro 4Ever DLX Grad 5 em 1 Cinza Chumbo",
+      "posted_at": "2026-11-04T13:40:51.374731"
     }
   },
   "results": [
@@ -40613,6 +40617,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-04T13:31:07.916946"
+    },
+    {
+      "offer_id": "269a696f95d6ae32",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-04T13:40:41.826639"
+    },
+    {
+      "offer_id": "24f565ea6d326666",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2134",
+      "error": null,
+      "at": "2026-11-04T13:40:51.374027"
     }
   ]
 }
