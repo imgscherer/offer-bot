@@ -1,5 +1,17 @@
 [
   {
+    "id": "819b8b2bd69fdf11",
+    "title": "Personal Fralda Baby Total Protect Pants Média, 52 Unidades",
+    "price_now": 46.0,
+    "price_was": 69.42,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/206923026217937931598213774140.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T12:01:02.107593"
+  },
+  {
     "id": "17df5df6179f4389",
     "title": "Fralda Turma da Mônica Baby RN 36 Unidades",
     "price_now": 18.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T02:00:54.759020"
-  },
-  {
-    "id": "481699783c9c197b",
-    "title": "Fralda Baby Premium Protection P, 40 Unidades",
-    "price_now": 24.0,
-    "price_was": 46.38,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/846102772017937520361780869670.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T00:30:50.021716"
   }
 ]
