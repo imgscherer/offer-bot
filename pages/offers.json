@@ -1,5 +1,17 @@
 [
   {
+    "id": "483103f3ff731658",
+    "title": "Fralda Huggies Supreme Care P 48 unidades",
+    "price_now": 37.99,
+    "price_was": 72.65,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/220242446917938271471311869121.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T21:30:58.425443"
+  },
+  {
     "id": "524ee971534cd1d6",
     "title": "Shampoo Infantil Suave Widi Care Jubinha 300ml",
     "price_now": 38.47,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T18:30:57.545430"
-  },
-  {
-    "id": "53ad4062cfc3fc86",
-    "title": "Kit Shampoo + Condicionador + Loção Hidratante 230ml Linha Suave Bebê Natureza",
-    "price_now": 53.9,
-    "price_was": 80.45,
-    "discount_pct": 33,
-    "url": "https://s.shopee.com.br/30pIsWIcYH?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/228855487917938152325862754442.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T18:20:58.716136"
   }
 ]

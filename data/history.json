@@ -8627,6 +8627,10 @@
     "524ee971534cd1d6": {
       "title": "Shampoo Infantil Suave Widi Care Jubinha 300ml",
       "posted_at": "2026-11-04T21:10:42.884120"
+    },
+    "483103f3ff731658": {
+      "title": "Fralda Huggies Supreme Care P 48 unidades",
+      "posted_at": "2026-11-04T21:30:58.425877"
     }
   },
   "results": [
@@ -41117,6 +41121,14 @@
       "post_id": "2169",
       "error": null,
       "at": "2026-11-04T21:10:42.883430"
+    },
+    {
+      "offer_id": "483103f3ff731658",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2170",
+      "error": null,
+      "at": "2026-11-04T21:30:58.425053"
     }
   ]
 }
