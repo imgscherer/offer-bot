@@ -1,5 +1,17 @@
 [
   {
+    "id": "481699783c9c197b",
+    "title": "Fralda Baby Premium Protection P, 40 Unidades",
+    "price_now": 24.0,
+    "price_was": 46.38,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/846102772017937520361780869670.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T00:30:50.021716"
+  },
+  {
     "id": "3e8897a087c6fc18",
     "title": "Fralda Mili Love & Care Premium XXG 40 unidades",
     "price_now": 44.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-03T20:01:39.511173"
-  },
-  {
-    "id": "4bd71ead5040dad1",
-    "title": "Fralda Mili Love & Care Jumbo M 26 unidades",
-    "price_now": 22.0,
-    "price_was": 34.09,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B07G9RQ7PG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/573181616517937358527514812206.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-03T20:01:30.552705"
   }
 ]

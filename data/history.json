@@ -8403,6 +8403,10 @@
     "3e8897a087c6fc18": {
       "title": "Fralda Mili Love & Care Premium XXG 40 unidades",
       "posted_at": "2026-11-04T00:20:48.409629"
+    },
+    "481699783c9c197b": {
+      "title": "Fralda Baby Premium Protection P, 40 Unidades",
+      "posted_at": "2026-11-04T00:30:50.022068"
     }
   },
   "results": [
@@ -40309,6 +40313,14 @@
       "post_id": "2113",
       "error": null,
       "at": "2026-11-04T00:20:48.409075"
+    },
+    {
+      "offer_id": "481699783c9c197b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2114",
+      "error": null,
+      "at": "2026-11-04T00:30:50.021402"
     }
   ]
 }
