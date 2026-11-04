@@ -8615,6 +8615,10 @@
     "87c9fd57af7c40bf": {
       "title": "Kit Shampoo + Condicionador + Loção Hidratante 230ml Linha Suave Bebê Natureza",
       "posted_at": "2026-11-04T20:20:51.653264"
+    },
+    "f8680aced87d3466": {
+      "title": "Fralda Huggies Natural Care RN 34 Unidades",
+      "posted_at": "2026-11-04T20:30:47.285902"
     }
   },
   "results": [
@@ -41081,6 +41085,14 @@
       "post_id": "2166",
       "error": null,
       "at": "2026-11-04T20:20:51.652538"
+    },
+    {
+      "offer_id": "f8680aced87d3466",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2167",
+      "error": null,
+      "at": "2026-11-04T20:30:47.285361"
     }
   ]
 }

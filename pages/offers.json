@@ -1,5 +1,17 @@
 [
   {
+    "id": "f8680aced87d3466",
+    "title": "Fralda Huggies Natural Care RN 34 Unidades",
+    "price_now": 28.29,
+    "price_was": 43.59,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/177631722917938239089888765876.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-04T20:30:47.285645"
+  },
+  {
     "id": "87c9fd57af7c40bf",
     "title": "Kit Shampoo + Condicionador + Loção Hidratante 230ml Linha Suave Bebê Natureza",
     "price_now": 53.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T18:00:52.116361"
-  },
-  {
-    "id": "404198d46134274e",
-    "title": "Fralda Mili XG 22 Unidades",
-    "price_now": 23.0,
-    "price_was": 42.48,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07GB468ZM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/712271325017938132889002718524.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T17:30:49.837633"
   }
 ]
