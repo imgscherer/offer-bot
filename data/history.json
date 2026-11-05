@@ -8679,6 +8679,10 @@
     "214428bda8e504d3": {
       "title": "Fralda Personal Baby Protect & Sec Grande Promo 78 Unidades",
       "posted_at": "2026-11-05T12:40:45.908710"
+    },
+    "cbf2ff713a3a89b8": {
+      "title": "Fralda Babysec Ultrasec Galinha Pintadinha XXG com 28",
+      "posted_at": "2026-11-05T13:10:46.224904"
     }
   },
   "results": [
@@ -41441,6 +41445,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-05T13:01:04.267832"
+    },
+    {
+      "offer_id": "cbf2ff713a3a89b8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2183",
+      "error": null,
+      "at": "2026-11-05T13:10:46.224319"
+    },
+    {
+      "offer_id": "ebc6256be2d8334b",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-05T13:10:52.944459"
+    },
+    {
+      "offer_id": "1d9b243e39e86e7c",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-05T13:10:57.193842"
     }
   ]
 }

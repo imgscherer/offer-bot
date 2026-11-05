@@ -1,5 +1,17 @@
 [
   {
+    "id": "cbf2ff713a3a89b8",
+    "title": "Fralda Babysec Ultrasec Galinha Pintadinha XXG com 28",
+    "price_now": 26.0,
+    "price_was": 52.65,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B07QVTHSGP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/919670919817938834114619136490.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T13:10:46.224645"
+  },
+  {
     "id": "214428bda8e504d3",
     "title": "Fralda Personal Baby Protect & Sec Grande Promo 78 Unidades",
     "price_now": 53.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T22:10:58.070504"
-  },
-  {
-    "id": "55b0567bf89448d3",
-    "title": "Fralda-calça Mamypoko Premium Seca G Com 60 Unidades",
-    "price_now": 80.65,
-    "price_was": 129.9,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B08DJTXZ2B?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/490613138417938278846127998607.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T21:50:42.890628"
   }
 ]
