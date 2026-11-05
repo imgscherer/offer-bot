@@ -8803,6 +8803,10 @@
     "67fe43cb22572d99": {
       "title": "Jogo de Lençol de Berço Americano 3 Peças Infantil Bebês Estampado Fronha Elástico Menino Menina",
       "posted_at": "2026-11-05T23:01:02.466949"
+    },
+    "3e62a84f52a75ce6": {
+      "title": "Personal Fralda Baby Premium Protection P, 40 Unidades",
+      "posted_at": "2026-11-05T23:30:52.994659"
     }
   },
   "results": [
@@ -41981,6 +41985,14 @@
       "post_id": "2214",
       "error": null,
       "at": "2026-11-05T23:01:02.466208"
+    },
+    {
+      "offer_id": "3e62a84f52a75ce6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2215",
+      "error": null,
+      "at": "2026-11-05T23:30:52.993857"
     }
   ]
 }
