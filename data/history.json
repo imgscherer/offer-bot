@@ -8719,6 +8719,14 @@
     "2aa2c87074a143fe": {
       "title": "Granado Refil Sabonete Líquido Bebê Tradicional 250ml",
       "posted_at": "2026-11-05T15:30:47.985015"
+    },
+    "669edc93e138f9c5": {
+      "title": "Fralda Descartável Cremer Magic Care Hiper M 68 Unidades",
+      "posted_at": "2026-11-05T15:50:57.544373"
+    },
+    "c1891564e6b10bef": {
+      "title": "Fralda Descartável Cremer Magic Care Hiper G 60 Unidades",
+      "posted_at": "2026-11-05T15:51:18.955946"
     }
   },
   "results": [
@@ -41593,6 +41601,22 @@
       "post_id": "2192",
       "error": null,
       "at": "2026-11-05T15:30:47.984432"
+    },
+    {
+      "offer_id": "669edc93e138f9c5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2193",
+      "error": null,
+      "at": "2026-11-05T15:50:57.542196"
+    },
+    {
+      "offer_id": "c1891564e6b10bef",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2194",
+      "error": null,
+      "at": "2026-11-05T15:51:18.955200"
     }
   ]
 }
