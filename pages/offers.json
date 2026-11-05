@@ -1,5 +1,17 @@
 [
   {
+    "id": "8f7f409c97599c08",
+    "title": "Granado Lenço Umedecido Bebê Erva Doce 50 Unidades",
+    "price_now": 10.0,
+    "price_was": 18.0,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B07FLP87QP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/336211608217938874883987151449.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T14:10:47.594559"
+  },
+  {
     "id": "8e525e2ead66d1c1",
     "title": "Mamadeira De Silicone Transição Igual Peito Materno Original 240ml Marrom",
     "price_now": 57.75,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T11:51:00.964241"
-  },
-  {
-    "id": "08aa1b1542a4c5c7",
-    "title": "Fralda Babysec Premium XG 24 unidades",
-    "price_now": 25.61,
-    "price_was": 40.13,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B07XL8XYNV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/458946288417938768975608235580.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T11:21:19.086107"
   }
 ]

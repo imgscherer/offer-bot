@@ -8703,6 +8703,10 @@
     "8e525e2ead66d1c1": {
       "title": "Mamadeira De Silicone Transição Igual Peito Materno Original 240ml Marrom",
       "posted_at": "2026-11-05T14:00:47.789466"
+    },
+    "8f7f409c97599c08": {
+      "title": "Granado Lenço Umedecido Bebê Erva Doce 50 Unidades",
+      "posted_at": "2026-11-05T14:10:47.594889"
     }
   },
   "results": [
@@ -41545,6 +41549,14 @@
       "post_id": "2188",
       "error": null,
       "at": "2026-11-05T14:00:47.787983"
+    },
+    {
+      "offer_id": "8f7f409c97599c08",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2189",
+      "error": null,
+      "at": "2026-11-05T14:10:47.594168"
     }
   ]
 }
