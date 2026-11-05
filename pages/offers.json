@@ -1,5 +1,17 @@
 [
   {
+    "id": "4ca1476d5d87ffd3",
+    "title": "Berço Co-Bed Safety 1st Palace Grey",
+    "price_now": 900.0,
+    "price_was": 1299.0,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0F5X6LWJ9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/132635058517938739505009578347.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T10:30:47.668876"
+  },
+  {
     "id": "8d42c94fb1d8750f",
     "title": "Fralda Baby Premium Protection Personal M 34 Unidades",
     "price_now": 25.17,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T19:31:01.189387"
-  },
-  {
-    "id": "29810d6575b55aa6",
-    "title": "Kit 2 Prendedores De Chupeta Coala Buba Rosa",
-    "price_now": 19.0,
-    "price_was": 29.9,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0B3F6BXLH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/378613243617938203148075817902.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T19:30:50.746166"
   }
 ]

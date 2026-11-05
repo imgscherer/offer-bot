@@ -8647,6 +8647,10 @@
     "8d42c94fb1d8750f": {
       "title": "Fralda Baby Premium Protection Personal M 34 Unidades",
       "posted_at": "2026-11-05T00:50:43.461454"
+    },
+    "4ca1476d5d87ffd3": {
+      "title": "Berço Co-Bed Safety 1st Palace Grey",
+      "posted_at": "2026-11-05T10:30:47.669192"
     }
   },
   "results": [
@@ -41177,6 +41181,14 @@
       "post_id": "2174",
       "error": null,
       "at": "2026-11-05T00:50:43.460856"
+    },
+    {
+      "offer_id": "4ca1476d5d87ffd3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2175",
+      "error": null,
+      "at": "2026-11-05T10:30:47.668540"
     }
   ]
 }
