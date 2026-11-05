@@ -1,5 +1,17 @@
 [
   {
+    "id": "f3e56d29c342033c",
+    "title": "Troninho Infantil Cinza Buba",
+    "price_now": 34.61,
+    "price_was": 82.9,
+    "discount_pct": 58,
+    "url": "https://www.amazon.com.br/dp/B087NNJ55R?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/199557628317938935261894509377.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T16:01:12.059117"
+  },
+  {
     "id": "c1891564e6b10bef",
     "title": "Fralda Descartável Cremer Magic Care Hiper G 60 Unidades",
     "price_now": 40.79,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T13:21:26.060187"
-  },
-  {
-    "id": "cbf2ff713a3a89b8",
-    "title": "Fralda Babysec Ultrasec Galinha Pintadinha XXG com 28",
-    "price_now": 26.0,
-    "price_was": 52.65,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B07QVTHSGP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/919670919817938834114619136490.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T13:10:46.224645"
   }
 ]
