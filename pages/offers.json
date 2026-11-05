@@ -1,5 +1,17 @@
 [
   {
+    "id": "624c0dea276dc585",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
+    "price_now": 47.68,
+    "price_was": 77.37,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/268077731717938814814602177358.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T12:31:06.978786"
+  },
+  {
     "id": "1f22a6dd1549d555",
     "title": "Fralda Pom Pom Derma Protek M com 48 unidades",
     "price_now": 32.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T21:30:58.425443"
-  },
-  {
-    "id": "524ee971534cd1d6",
-    "title": "Shampoo Infantil Suave Widi Care Jubinha 300ml",
-    "price_now": 38.47,
-    "price_was": 80.15,
-    "discount_pct": 52,
-    "url": "https://s.shopee.com.br/5q9URj29G5?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/794602559817938257146616586446.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T21:10:42.883815"
   }
 ]
