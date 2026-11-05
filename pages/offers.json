@@ -1,5 +1,17 @@
 [
   {
+    "id": "8d42c94fb1d8750f",
+    "title": "Fralda Baby Premium Protection Personal M 34 Unidades",
+    "price_now": 25.17,
+    "price_was": 46.38,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/529303686717938389862484079578.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T00:50:43.461172"
+  },
+  {
     "id": "e83ecb18368e95f5",
     "title": "MamyPoko Fralda-Calça Dia&Noite P 46 Unidades",
     "price_now": 38.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T19:30:50.746166"
-  },
-  {
-    "id": "e1208cf0d563ff5b",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega XG 38 Unidades",
-    "price_now": 30.0,
-    "price_was": 50.29,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/722633126517938197078355138118.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T19:20:59.251864"
   }
 ]
