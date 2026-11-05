@@ -8771,6 +8771,10 @@
     "664310c23325f50d": {
       "title": "Fralda Pampers Confort Sec Tamanho G 168 Unidades",
       "posted_at": "2026-11-05T20:31:09.466416"
+    },
+    "728055d1f56bb07d": {
+      "title": "Fralda Pampers Confort Sec Ultra G 168 Unidades",
+      "posted_at": "2026-11-05T21:01:05.608788"
     }
   },
   "results": [
@@ -41829,6 +41833,14 @@
       "post_id": "2206",
       "error": null,
       "at": "2026-11-05T20:31:09.465554"
+    },
+    {
+      "offer_id": "728055d1f56bb07d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2207",
+      "error": null,
+      "at": "2026-11-05T21:01:05.607985"
     }
   ]
 }

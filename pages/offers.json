@@ -1,5 +1,17 @@
 [
   {
+    "id": "728055d1f56bb07d",
+    "title": "Fralda Pampers Confort Sec Ultra G 168 Unidades",
+    "price_now": 158.69,
+    "price_was": 235.87,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/321983995417939114411733917802.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T21:01:05.608309"
+  },
+  {
     "id": "664310c23325f50d",
     "title": "Fralda Pampers Confort Sec Tamanho G 168 Unidades",
     "price_now": 158.69,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T16:01:12.059117"
-  },
-  {
-    "id": "c1891564e6b10bef",
-    "title": "Fralda Descartável Cremer Magic Care Hiper G 60 Unidades",
-    "price_now": 40.79,
-    "price_was": 73.83,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/2qVu6z4aSg?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/691691968117938927883758420951.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T15:51:18.955487"
   }
 ]
