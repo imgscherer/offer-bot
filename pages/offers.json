@@ -1,5 +1,17 @@
 [
   {
+    "id": "214428bda8e504d3",
+    "title": "Fralda Personal Baby Protect & Sec Grande Promo 78 Unidades",
+    "price_now": 53.0,
+    "price_was": 89.99,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0DF9RCVYY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/220970408517938819939992937525.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T12:40:45.908400"
+  },
+  {
     "id": "624c0dea276dc585",
     "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
     "price_now": 47.68,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T21:50:42.890628"
-  },
-  {
-    "id": "483103f3ff731658",
-    "title": "Fralda Huggies Supreme Care P 48 unidades",
-    "price_now": 37.99,
-    "price_was": 72.65,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/220242446917938271471311869121.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T21:30:58.425443"
   }
 ]
