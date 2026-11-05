@@ -1,5 +1,29 @@
 [
   {
+    "id": "08aa1b1542a4c5c7",
+    "title": "Fralda Babysec Premium XG 24 unidades",
+    "price_now": 25.61,
+    "price_was": 40.13,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B07XL8XYNV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/458946288417938768975608235580.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T11:21:19.086107"
+  },
+  {
+    "id": "3bf8764de18e6d6d",
+    "title": "Fralda Babysec Premium M 32 unidades",
+    "price_now": 25.61,
+    "price_was": 54.39,
+    "discount_pct": 53,
+    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/919986086917938768966648454379.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T11:20:47.912307"
+  },
+  {
     "id": "4ca1476d5d87ffd3",
     "title": "Berço Co-Bed Safety 1st Palace Grey",
     "price_now": 900.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T20:20:51.652839"
-  },
-  {
-    "id": "0dbbfebc187841a5",
-    "title": "Fralda Pom Pom Protek P 54",
-    "price_now": 32.0,
-    "price_was": 50.29,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B093GBK61Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/362917057417938218714099028093.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T20:01:01.181991"
-  },
-  {
-    "id": "15e5783de0c6f7c5",
-    "title": "Kit 2 Prendedores De Chupeta Coala Buba Azul",
-    "price_now": 19.0,
-    "price_was": 29.9,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0B3F6V312?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/531824835417938203122057868113.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T19:31:01.189387"
   }
 ]

@@ -8651,6 +8651,14 @@
     "4ca1476d5d87ffd3": {
       "title": "Berço Co-Bed Safety 1st Palace Grey",
       "posted_at": "2026-11-05T10:30:47.669192"
+    },
+    "3bf8764de18e6d6d": {
+      "title": "Fralda Babysec Premium M 32 unidades",
+      "posted_at": "2026-11-05T11:20:47.912569"
+    },
+    "08aa1b1542a4c5c7": {
+      "title": "Fralda Babysec Premium XG 24 unidades",
+      "posted_at": "2026-11-05T11:21:19.086557"
     }
   },
   "results": [
@@ -41213,6 +41221,38 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-05T11:10:45.427007"
+    },
+    {
+      "offer_id": "3bf8764de18e6d6d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2176",
+      "error": null,
+      "at": "2026-11-05T11:20:47.911988"
+    },
+    {
+      "offer_id": "9e1c948a7902613f",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-05T11:21:05.963076"
+    },
+    {
+      "offer_id": "08aa1b1542a4c5c7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2177",
+      "error": null,
+      "at": "2026-11-05T11:21:19.085812"
+    },
+    {
+      "offer_id": "1d9b243e39e86e7c",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-05T11:21:24.979560"
     }
   ]
 }
