@@ -8747,6 +8747,10 @@
     "ecaa64cbf943fbfc": {
       "title": "Fralda Cremer Magic Care M 34 Unidades",
       "posted_at": "2026-11-05T17:40:54.424793"
+    },
+    "078c96255d25e4b5": {
+      "title": "Mili Fralda Infantil Love & Care G 48 Unidades",
+      "posted_at": "2026-11-05T17:50:46.711966"
     }
   },
   "results": [
@@ -41677,6 +41681,14 @@
       "post_id": "2200",
       "error": null,
       "at": "2026-11-05T17:40:54.424029"
+    },
+    {
+      "offer_id": "078c96255d25e4b5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2201",
+      "error": null,
+      "at": "2026-11-05T17:50:46.711295"
     }
   ]
 }
