@@ -1,5 +1,17 @@
 [
   {
+    "id": "ecaa64cbf943fbfc",
+    "title": "Fralda Cremer Magic Care M 34 Unidades",
+    "price_now": 22.47,
+    "price_was": 32.79,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0D92MX4JM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/938330302517939001716870886754.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T17:40:54.424394"
+  },
+  {
     "id": "682789b49f43706b",
     "title": "Camiseta Infantil Country (Tam. 2 a 16, Diversas cores)",
     "price_now": 25.9,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-05T14:00:47.788582"
-  },
-  {
-    "id": "2558e56a6e4014f4",
-    "title": "Mamadeira De Silicone Transição Igual Peito Materno Original 240ml Marrom",
-    "price_now": 57.8,
-    "price_was": 85.0,
-    "discount_pct": 32,
-    "url": "https://s.shopee.com.br/1W0WQBNcy7",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-81zwf-mifz5uhr8h6we5",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T14:00:45.045920"
   }
 ]

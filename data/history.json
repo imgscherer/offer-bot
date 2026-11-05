@@ -8743,6 +8743,10 @@
     "682789b49f43706b": {
       "title": "Camiseta Infantil Country (Tam. 2 a 16, Diversas cores)",
       "posted_at": "2026-11-05T17:31:01.083651"
+    },
+    "ecaa64cbf943fbfc": {
+      "title": "Fralda Cremer Magic Care M 34 Unidades",
+      "posted_at": "2026-11-05T17:40:54.424793"
     }
   },
   "results": [
@@ -41665,6 +41669,14 @@
       "post_id": "2199",
       "error": null,
       "at": "2026-11-05T17:31:01.082811"
+    },
+    {
+      "offer_id": "ecaa64cbf943fbfc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2200",
+      "error": null,
+      "at": "2026-11-05T17:40:54.424029"
     }
   ]
 }
