@@ -8807,6 +8807,10 @@
     "3e62a84f52a75ce6": {
       "title": "Personal Fralda Baby Premium Protection P, 40 Unidades",
       "posted_at": "2026-11-05T23:30:52.994659"
+    },
+    "ba39ff06ee4f4930": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Mega M 48 Unidades",
+      "posted_at": "2026-11-05T23:40:54.621305"
     }
   },
   "results": [
@@ -41993,6 +41997,14 @@
       "post_id": "2215",
       "error": null,
       "at": "2026-11-05T23:30:52.993857"
+    },
+    {
+      "offer_id": "ba39ff06ee4f4930",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2216",
+      "error": null,
+      "at": "2026-11-05T23:40:54.620558"
     }
   ]
 }
