@@ -1,5 +1,17 @@
 [
   {
+    "id": "2aa2c87074a143fe",
+    "title": "Granado Refil Sabonete Líquido Bebê Tradicional 250ml",
+    "price_now": 14.0,
+    "price_was": 22.0,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B07D2FXHM1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/385053534317938917674652295260.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T15:30:47.984743"
+  },
+  {
     "id": "3b5a9dc02dee208a",
     "title": "Babysec Fralda Ultrasec Galinha Pintadinha M 38 Unidades",
     "price_now": 29.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T12:31:06.978786"
-  },
-  {
-    "id": "1f22a6dd1549d555",
-    "title": "Fralda Pom Pom Derma Protek M com 48 unidades",
-    "price_now": 32.0,
-    "price_was": 50.29,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/773459465817938795914133312575.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T12:01:13.424406"
   }
 ]

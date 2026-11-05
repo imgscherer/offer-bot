@@ -8715,6 +8715,10 @@
     "3b5a9dc02dee208a": {
       "title": "Babysec Fralda Ultrasec Galinha Pintadinha M 38 Unidades",
       "posted_at": "2026-11-05T15:10:56.508520"
+    },
+    "2aa2c87074a143fe": {
+      "title": "Granado Refil Sabonete Líquido Bebê Tradicional 250ml",
+      "posted_at": "2026-11-05T15:30:47.985015"
     }
   },
   "results": [
@@ -41581,6 +41585,14 @@
       "post_id": "2191",
       "error": null,
       "at": "2026-11-05T15:10:56.507735"
+    },
+    {
+      "offer_id": "2aa2c87074a143fe",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2192",
+      "error": null,
+      "at": "2026-11-05T15:30:47.984432"
     }
   ]
 }
