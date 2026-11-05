@@ -1,5 +1,17 @@
 [
   {
+    "id": "17d5f8406320d9ff",
+    "title": "Fralda Huggies Premium Natural Care RN 34 Unidades",
+    "price_now": 28.0,
+    "price_was": 43.59,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/670554228017938854125531463283.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T13:40:51.042723"
+  },
+  {
     "id": "9b2ddcab282b5fa1",
     "title": "MamyPoko Fralda-Calça Cuidado Real XXG 44 Unidades",
     "price_now": 85.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T00:50:43.461172"
-  },
-  {
-    "id": "e83ecb18368e95f5",
-    "title": "MamyPoko Fralda-Calça Dia&Noite P 46 Unidades",
-    "price_now": 38.0,
-    "price_was": 62.9,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/899256543517938362424564429283.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T00:01:02.743678"
   }
 ]
