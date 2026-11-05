@@ -1,5 +1,17 @@
 [
   {
+    "id": "682789b49f43706b",
+    "title": "Camiseta Infantil Country (Tam. 2 a 16, Diversas cores)",
+    "price_now": 25.9,
+    "price_was": 60.23,
+    "discount_pct": 57,
+    "url": "https://s.shopee.com.br/40hrczA8nc?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/563038673717938996535547343041.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T17:31:01.083138"
+  },
+  {
     "id": "03630e0b6efaa585",
     "title": "Mili Fralda Infantil Love & Care Tamanho G, Alta Absorção, Ajuste Confortável, 48 Unidades",
     "price_now": 43.82,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-05T14:00:45.045920"
-  },
-  {
-    "id": "5331a71f1dfa542c",
-    "title": "Mamadeira De Silicone Transição Igual Peito Materno Original Rosa",
-    "price_now": 57.9,
-    "price_was": 85.15,
-    "discount_pct": 32,
-    "url": "https://s.shopee.com.br/3B8kPFHHa1",
-    "image": "https://cf.shopee.com.br/file/br-11134201-820m2-muw1jqtxd1xfe0",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T14:00:43.919344"
   }
 ]

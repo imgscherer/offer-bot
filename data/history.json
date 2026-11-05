@@ -8739,6 +8739,10 @@
     "03630e0b6efaa585": {
       "title": "Mili Fralda Infantil Love & Care Tamanho G, Alta Absorção, Ajuste Confortável, 48 Unidades",
       "posted_at": "2026-11-05T17:10:47.844590"
+    },
+    "682789b49f43706b": {
+      "title": "Camiseta Infantil Country (Tam. 2 a 16, Diversas cores)",
+      "posted_at": "2026-11-05T17:31:01.083651"
     }
   },
   "results": [
@@ -41653,6 +41657,14 @@
       "post_id": "2198",
       "error": null,
       "at": "2026-11-05T17:10:47.844046"
+    },
+    {
+      "offer_id": "682789b49f43706b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2199",
+      "error": null,
+      "at": "2026-11-05T17:31:01.082811"
     }
   ]
 }
