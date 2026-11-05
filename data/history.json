@@ -8767,6 +8767,10 @@
     "41b9e1115177d8e8": {
       "title": "Bermuda Bebê Infantil Saruel Estampado Carrinho Menino Cós Elástico",
       "posted_at": "2026-11-05T20:20:45.989603"
+    },
+    "664310c23325f50d": {
+      "title": "Fralda Pampers Confort Sec Tamanho G 168 Unidades",
+      "posted_at": "2026-11-05T20:31:09.466416"
     }
   },
   "results": [
@@ -41817,6 +41821,14 @@
       "post_id": "2205",
       "error": null,
       "at": "2026-11-05T20:20:45.988912"
+    },
+    {
+      "offer_id": "664310c23325f50d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2206",
+      "error": null,
+      "at": "2026-11-05T20:31:09.465554"
     }
   ]
 }

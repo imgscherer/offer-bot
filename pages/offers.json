@@ -1,5 +1,17 @@
 [
   {
+    "id": "664310c23325f50d",
+    "title": "Fralda Pampers Confort Sec Tamanho G 168 Unidades",
+    "price_now": 158.69,
+    "price_was": 235.87,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/553933907117939102513226414261.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T20:31:09.465933"
+  },
+  {
     "id": "41b9e1115177d8e8",
     "title": "Bermuda Bebê Infantil Saruel Estampado Carrinho Menino Cós Elástico",
     "price_now": 25.93,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T15:51:18.955487"
-  },
-  {
-    "id": "669edc93e138f9c5",
-    "title": "Fralda Descartável Cremer Magic Care Hiper M 68 Unidades",
-    "price_now": 40.79,
-    "price_was": 73.83,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/30pKJITwCx?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/943366474517938927954178986321.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T15:50:57.542522"
   }
 ]
