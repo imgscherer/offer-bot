@@ -1,5 +1,17 @@
 [
   {
+    "id": "edb30511b0767197",
+    "title": "Kit 2 Prendedores De Chupeta Coala Buba",
+    "price_now": 15.2,
+    "price_was": 29.9,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B0B3F6BXLH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/172286309817939133681966542913.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T21:20:53.634345"
+  },
+  {
     "id": "728055d1f56bb07d",
     "title": "Fralda Pampers Confort Sec Ultra G 168 Unidades",
     "price_now": 158.69,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T16:20:43.077694"
-  },
-  {
-    "id": "f3e56d29c342033c",
-    "title": "Troninho Infantil Cinza Buba",
-    "price_now": 34.61,
-    "price_was": 82.9,
-    "discount_pct": 58,
-    "url": "https://www.amazon.com.br/dp/B087NNJ55R?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/199557628317938935261894509377.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T16:01:12.059117"
   }
 ]

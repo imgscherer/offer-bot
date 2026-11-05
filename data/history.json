@@ -8775,6 +8775,10 @@
     "728055d1f56bb07d": {
       "title": "Fralda Pampers Confort Sec Ultra G 168 Unidades",
       "posted_at": "2026-11-05T21:01:05.608788"
+    },
+    "edb30511b0767197": {
+      "title": "Kit 2 Prendedores De Chupeta Coala Buba",
+      "posted_at": "2026-11-05T21:20:53.634840"
     }
   },
   "results": [
@@ -41841,6 +41845,14 @@
       "post_id": "2207",
       "error": null,
       "at": "2026-11-05T21:01:05.607985"
+    },
+    {
+      "offer_id": "edb30511b0767197",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2208",
+      "error": null,
+      "at": "2026-11-05T21:20:53.634027"
     }
   ]
 }
