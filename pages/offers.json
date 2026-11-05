@@ -1,5 +1,41 @@
 [
   {
+    "id": "8e525e2ead66d1c1",
+    "title": "Mamadeira De Silicone Transição Igual Peito Materno Original 240ml Marrom",
+    "price_now": 57.75,
+    "price_was": 82.5,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/8VAGl2wylZ",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6e53n7iwcx35a",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T14:00:47.788582"
+  },
+  {
+    "id": "2558e56a6e4014f4",
+    "title": "Mamadeira De Silicone Transição Igual Peito Materno Original 240ml Marrom",
+    "price_now": 57.8,
+    "price_was": 85.0,
+    "discount_pct": 32,
+    "url": "https://s.shopee.com.br/1W0WQBNcy7",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-81zwf-mifz5uhr8h6we5",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T14:00:45.045920"
+  },
+  {
+    "id": "5331a71f1dfa542c",
+    "title": "Mamadeira De Silicone Transição Igual Peito Materno Original Rosa",
+    "price_now": 57.9,
+    "price_was": 85.15,
+    "discount_pct": 32,
+    "url": "https://s.shopee.com.br/3B8kPFHHa1",
+    "image": "https://cf.shopee.com.br/file/br-11134201-820m2-muw1jqtxd1xfe0",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T14:00:43.919344"
+  },
+  {
     "id": "17d5f8406320d9ff",
     "title": "Fralda Huggies Premium Natural Care RN 34 Unidades",
     "price_now": 28.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T11:21:19.086107"
-  },
-  {
-    "id": "3bf8764de18e6d6d",
-    "title": "Fralda Babysec Premium M 32 unidades",
-    "price_now": 25.61,
-    "price_was": 54.39,
-    "discount_pct": 53,
-    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/919986086917938768966648454379.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T11:20:47.912307"
-  },
-  {
-    "id": "4ca1476d5d87ffd3",
-    "title": "Berço Co-Bed Safety 1st Palace Grey",
-    "price_now": 900.0,
-    "price_was": 1299.0,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0F5X6LWJ9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/132635058517938739505009578347.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T10:30:47.668876"
-  },
-  {
-    "id": "8d42c94fb1d8750f",
-    "title": "Fralda Baby Premium Protection Personal M 34 Unidades",
-    "price_now": 25.17,
-    "price_was": 46.38,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/529303686717938389862484079578.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T00:50:43.461172"
   }
 ]

@@ -8691,6 +8691,18 @@
     "17d5f8406320d9ff": {
       "title": "Fralda Huggies Premium Natural Care RN 34 Unidades",
       "posted_at": "2026-11-05T13:40:51.042960"
+    },
+    "5331a71f1dfa542c": {
+      "title": "Mamadeira De Silicone Transição Igual Peito Materno Original Rosa",
+      "posted_at": "2026-11-05T14:00:43.919605"
+    },
+    "2558e56a6e4014f4": {
+      "title": "Mamadeira De Silicone Transição Igual Peito Materno Original 240ml Marrom",
+      "posted_at": "2026-11-05T14:00:45.046338"
+    },
+    "8e525e2ead66d1c1": {
+      "title": "Mamadeira De Silicone Transição Igual Peito Materno Original 240ml Marrom",
+      "posted_at": "2026-11-05T14:00:47.789466"
     }
   },
   "results": [
@@ -41509,6 +41521,30 @@
       "post_id": "2185",
       "error": null,
       "at": "2026-11-05T13:40:51.042454"
+    },
+    {
+      "offer_id": "5331a71f1dfa542c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2186",
+      "error": null,
+      "at": "2026-11-05T14:00:43.919041"
+    },
+    {
+      "offer_id": "2558e56a6e4014f4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2187",
+      "error": null,
+      "at": "2026-11-05T14:00:45.045682"
+    },
+    {
+      "offer_id": "8e525e2ead66d1c1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2188",
+      "error": null,
+      "at": "2026-11-05T14:00:47.787983"
     }
   ]
 }
