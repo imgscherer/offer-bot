@@ -8735,6 +8735,10 @@
     "ceea806e19141138": {
       "title": "Fralda-Calça MamyPoko Cuidado Real M 68 Unidades",
       "posted_at": "2026-11-05T16:20:43.077949"
+    },
+    "03630e0b6efaa585": {
+      "title": "Mili Fralda Infantil Love & Care Tamanho G, Alta Absorção, Ajuste Confortável, 48 Unidades",
+      "posted_at": "2026-11-05T17:10:47.844590"
     }
   },
   "results": [
@@ -41641,6 +41645,14 @@
       "post_id": "2197",
       "error": null,
       "at": "2026-11-05T16:20:43.077392"
+    },
+    {
+      "offer_id": "03630e0b6efaa585",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2198",
+      "error": null,
+      "at": "2026-11-05T17:10:47.844046"
     }
   ]
 }
