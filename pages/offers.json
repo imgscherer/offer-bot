@@ -1,5 +1,17 @@
 [
   {
+    "id": "ceea806e19141138",
+    "title": "Fralda-Calça MamyPoko Cuidado Real M 68 Unidades",
+    "price_now": 84.45,
+    "price_was": 129.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B08DJSPFFX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/523305518217938941126324153336.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T16:20:43.077694"
+  },
+  {
     "id": "f3e56d29c342033c",
     "title": "Troninho Infantil Cinza Buba",
     "price_now": 34.61,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T13:40:51.042723"
-  },
-  {
-    "id": "9b2ddcab282b5fa1",
-    "title": "MamyPoko Fralda-Calça Cuidado Real XXG 44 Unidades",
-    "price_now": 85.0,
-    "price_was": 129.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B08DJSZL4V?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/665115710817938843702668420783.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T13:21:26.060187"
   }
 ]

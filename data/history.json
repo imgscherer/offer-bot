@@ -8731,6 +8731,10 @@
     "f3e56d29c342033c": {
       "title": "Troninho Infantil Cinza Buba",
       "posted_at": "2026-11-05T16:01:12.060311"
+    },
+    "ceea806e19141138": {
+      "title": "Fralda-Calça MamyPoko Cuidado Real M 68 Unidades",
+      "posted_at": "2026-11-05T16:20:43.077949"
     }
   },
   "results": [
@@ -41629,6 +41633,14 @@
       "post_id": "2195",
       "error": null,
       "at": "2026-11-05T16:01:12.058756"
+    },
+    {
+      "offer_id": "ceea806e19141138",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2197",
+      "error": null,
+      "at": "2026-11-05T16:20:43.077392"
     }
   ]
 }
