@@ -8751,6 +8751,10 @@
     "078c96255d25e4b5": {
       "title": "Mili Fralda Infantil Love & Care G 48 Unidades",
       "posted_at": "2026-11-05T17:50:46.711966"
+    },
+    "8ee25ad052f58aa8": {
+      "title": "Fralda Pom Pom Protek G, 68 Unidades",
+      "posted_at": "2026-11-05T19:01:09.821139"
     }
   },
   "results": [
@@ -41713,6 +41717,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-05T18:50:46.688451"
+    },
+    {
+      "offer_id": "b464858159bae71d",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-05T19:00:55.047831"
+    },
+    {
+      "offer_id": "8ee25ad052f58aa8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2202",
+      "error": null,
+      "at": "2026-11-05T19:01:09.820220"
     }
   ]
 }

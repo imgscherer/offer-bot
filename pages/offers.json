@@ -1,5 +1,17 @@
 [
   {
+    "id": "8ee25ad052f58aa8",
+    "title": "Fralda Pom Pom Protek G, 68 Unidades",
+    "price_now": 50.19,
+    "price_was": 77.37,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/850063307517939045008999125652.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T19:01:09.820539"
+  },
+  {
     "id": "078c96255d25e4b5",
     "title": "Mili Fralda Infantil Love & Care G 48 Unidades",
     "price_now": 43.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T14:21:04.361425"
-  },
-  {
-    "id": "8f7f409c97599c08",
-    "title": "Granado Lenço Umedecido Bebê Erva Doce 50 Unidades",
-    "price_now": 10.0,
-    "price_was": 18.0,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B07FLP87QP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/336211608217938874883987151449.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T14:10:47.594559"
   }
 ]
