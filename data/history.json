@@ -8763,6 +8763,10 @@
     "23872f86df2370c6": {
       "title": "Fralda Personal Baby Protect e Sec XG Mega Leve 28 Pague 26 Unidades",
       "posted_at": "2026-11-05T20:10:53.502678"
+    },
+    "41b9e1115177d8e8": {
+      "title": "Bermuda Bebê Infantil Saruel Estampado Carrinho Menino Cós Elástico",
+      "posted_at": "2026-11-05T20:20:45.989603"
     }
   },
   "results": [
@@ -41805,6 +41809,14 @@
       "post_id": "2204",
       "error": null,
       "at": "2026-11-05T20:10:53.501882"
+    },
+    {
+      "offer_id": "41b9e1115177d8e8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2205",
+      "error": null,
+      "at": "2026-11-05T20:20:45.988912"
     }
   ]
 }

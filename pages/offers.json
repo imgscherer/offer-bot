@@ -1,5 +1,17 @@
 [
   {
+    "id": "41b9e1115177d8e8",
+    "title": "Bermuda Bebê Infantil Saruel Estampado Carrinho Menino Cós Elástico",
+    "price_now": 25.93,
+    "price_was": 39.89,
+    "discount_pct": 35,
+    "url": "https://s.shopee.com.br/2qVtox31to",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1tw4q7be1g125",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T20:20:45.989242"
+  },
+  {
     "id": "23872f86df2370c6",
     "title": "Fralda Personal Baby Protect e Sec XG Mega Leve 28 Pague 26 Unidades",
     "price_now": 25.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T15:50:57.542522"
-  },
-  {
-    "id": "2aa2c87074a143fe",
-    "title": "Granado Refil Sabonete Líquido Bebê Tradicional 250ml",
-    "price_now": 14.0,
-    "price_was": 22.0,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B07D2FXHM1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/385053534317938917674652295260.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T15:30:47.984743"
   }
 ]
