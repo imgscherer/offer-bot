@@ -8711,6 +8711,10 @@
     "67c7f64a42da17c4": {
       "title": "Kit com 3 ou 6 Cuecas Slip Infantil 100% Algodão (Tam. 2 a 10 anos)",
       "posted_at": "2026-11-05T14:21:04.363420"
+    },
+    "3b5a9dc02dee208a": {
+      "title": "Babysec Fralda Ultrasec Galinha Pintadinha M 38 Unidades",
+      "posted_at": "2026-11-05T15:10:56.508520"
     }
   },
   "results": [
@@ -41569,6 +41573,14 @@
       "post_id": "2190",
       "error": null,
       "at": "2026-11-05T14:21:04.361114"
+    },
+    {
+      "offer_id": "3b5a9dc02dee208a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2191",
+      "error": null,
+      "at": "2026-11-05T15:10:56.507735"
     }
   ]
 }
