@@ -8707,6 +8707,10 @@
     "8f7f409c97599c08": {
       "title": "Granado Lenço Umedecido Bebê Erva Doce 50 Unidades",
       "posted_at": "2026-11-05T14:10:47.594889"
+    },
+    "67c7f64a42da17c4": {
+      "title": "Kit com 3 ou 6 Cuecas Slip Infantil 100% Algodão (Tam. 2 a 10 anos)",
+      "posted_at": "2026-11-05T14:21:04.363420"
     }
   },
   "results": [
@@ -41557,6 +41561,14 @@
       "post_id": "2189",
       "error": null,
       "at": "2026-11-05T14:10:47.594168"
+    },
+    {
+      "offer_id": "67c7f64a42da17c4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2190",
+      "error": null,
+      "at": "2026-11-05T14:21:04.361114"
     }
   ]
 }
