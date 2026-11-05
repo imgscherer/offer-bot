@@ -1,5 +1,17 @@
 [
   {
+    "id": "9b2ddcab282b5fa1",
+    "title": "MamyPoko Fralda-Calça Cuidado Real XXG 44 Unidades",
+    "price_now": 85.0,
+    "price_was": 129.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B08DJSZL4V?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/665115710817938843702668420783.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T13:21:26.060187"
+  },
+  {
     "id": "cbf2ff713a3a89b8",
     "title": "Fralda Babysec Ultrasec Galinha Pintadinha XXG com 28",
     "price_now": 26.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T00:01:02.743678"
-  },
-  {
-    "id": "5d6065ccc9b66fc0",
-    "title": "Fralda Pom Pom Protek XG, 38 Unidades",
-    "price_now": 30.38,
-    "price_was": 50.29,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/304386125217938298495743247226.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T22:10:58.070504"
   }
 ]

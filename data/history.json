@@ -8683,6 +8683,10 @@
     "cbf2ff713a3a89b8": {
       "title": "Fralda Babysec Ultrasec Galinha Pintadinha XXG com 28",
       "posted_at": "2026-11-05T13:10:46.224904"
+    },
+    "9b2ddcab282b5fa1": {
+      "title": "MamyPoko Fralda-Calça Cuidado Real XXG 44 Unidades",
+      "posted_at": "2026-11-05T13:21:26.060647"
     }
   },
   "results": [
@@ -41469,6 +41473,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-05T13:10:57.193842"
+    },
+    {
+      "offer_id": "3b81d29ffa80d379",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-05T13:21:14.986705"
+    },
+    {
+      "offer_id": "9b2ddcab282b5fa1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2184",
+      "error": null,
+      "at": "2026-11-05T13:21:26.059843"
     }
   ]
 }
