@@ -8779,6 +8779,10 @@
     "edb30511b0767197": {
       "title": "Kit 2 Prendedores De Chupeta Coala Buba",
       "posted_at": "2026-11-05T21:20:53.634840"
+    },
+    "abeeac8acd7eb490": {
+      "title": "Carrinho de Bebê Cosco Kids Bross Preto Estrela",
+      "posted_at": "2026-11-05T22:20:43.573441"
     }
   },
   "results": [
@@ -41893,6 +41897,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-05T22:10:51.481128"
+    },
+    {
+      "offer_id": "abeeac8acd7eb490",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2209",
+      "error": null,
+      "at": "2026-11-05T22:20:43.572810"
+    },
+    {
+      "offer_id": "624cd216760dc692",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-05T22:20:52.167519"
     }
   ]
 }

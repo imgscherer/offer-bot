@@ -1,5 +1,17 @@
 [
   {
+    "id": "abeeac8acd7eb490",
+    "title": "Carrinho de Bebê Cosco Kids Bross Preto Estrela",
+    "price_now": 350.0,
+    "price_was": 659.0,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B0F38KYPJN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/241242770317939165672387979272.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T22:20:43.573154"
+  },
+  {
     "id": "edb30511b0767197",
     "title": "Kit 2 Prendedores De Chupeta Coala Buba",
     "price_now": 15.2,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T17:10:47.844329"
-  },
-  {
-    "id": "ceea806e19141138",
-    "title": "Fralda-Calça MamyPoko Cuidado Real M 68 Unidades",
-    "price_now": 84.45,
-    "price_was": 129.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B08DJSPFFX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/523305518217938941126324153336.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T16:20:43.077694"
   }
 ]
