@@ -8663,6 +8663,14 @@
     "a397e46446aa877a": {
       "title": "Fralda Pampers Confort Sec Tamanho Xxg, 82 Unidades",
       "posted_at": "2026-11-05T11:51:00.964686"
+    },
+    "e3721c0af58bdaba": {
+      "title": "Kit 4 Camisetas Infantil (Tam. 2 a 16)",
+      "posted_at": "2026-11-05T12:00:55.621387"
+    },
+    "1f22a6dd1549d555": {
+      "title": "Fralda Pom Pom Derma Protek M com 48 unidades",
+      "posted_at": "2026-11-05T12:01:13.424820"
     }
   },
   "results": [
@@ -41305,6 +41313,30 @@
       "post_id": "2178",
       "error": null,
       "at": "2026-11-05T11:51:00.963879"
+    },
+    {
+      "offer_id": "e3721c0af58bdaba",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2179",
+      "error": null,
+      "at": "2026-11-05T12:00:55.620724"
+    },
+    {
+      "offer_id": "9e1c948a7902613f",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-05T12:01:00.097900"
+    },
+    {
+      "offer_id": "1f22a6dd1549d555",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2180",
+      "error": null,
+      "at": "2026-11-05T12:01:13.424134"
     }
   ]
 }

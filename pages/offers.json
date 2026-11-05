@@ -1,5 +1,29 @@
 [
   {
+    "id": "1f22a6dd1549d555",
+    "title": "Fralda Pom Pom Derma Protek M com 48 unidades",
+    "price_now": 32.0,
+    "price_was": 50.29,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/773459465817938795914133312575.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T12:01:13.424406"
+  },
+  {
+    "id": "e3721c0af58bdaba",
+    "title": "Kit 4 Camisetas Infantil (Tam. 2 a 16)",
+    "price_now": 75.56,
+    "price_was": 179.9,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/1W0WH9cigs?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/269266222217938793512303949047.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T12:00:55.621091"
+  },
+  {
     "id": "a397e46446aa877a",
     "title": "Fralda Pampers Confort Sec Tamanho Xxg, 82 Unidades",
     "price_now": 109.99,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T21:10:42.883815"
-  },
-  {
-    "id": "77a77bcc2142b903",
-    "title": "Mamypoko Fralda-calça Dia&noite P 46 Unidades",
-    "price_now": 40.61,
-    "price_was": 62.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/959070727217938243998579826081.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T20:40:44.464879"
-  },
-  {
-    "id": "f8680aced87d3466",
-    "title": "Fralda Huggies Natural Care RN 34 Unidades",
-    "price_now": 28.29,
-    "price_was": 43.59,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B095R9CKYR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/177631722917938239089888765876.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T20:30:47.285645"
   }
 ]
