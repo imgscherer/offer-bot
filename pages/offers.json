@@ -1,5 +1,17 @@
 [
   {
+    "id": "a397e46446aa877a",
+    "title": "Fralda Pampers Confort Sec Tamanho Xxg, 82 Unidades",
+    "price_now": 109.99,
+    "price_was": 189.9,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0GW3YY6FY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/278267146617938792883059786799.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T11:51:00.964241"
+  },
+  {
     "id": "08aa1b1542a4c5c7",
     "title": "Fralda Babysec Premium XG 24 unidades",
     "price_now": 25.61,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-04T20:30:47.285645"
-  },
-  {
-    "id": "87c9fd57af7c40bf",
-    "title": "Kit Shampoo + Condicionador + Loção Hidratante 230ml Linha Suave Bebê Natureza",
-    "price_now": 53.0,
-    "price_was": 80.45,
-    "discount_pct": 34,
-    "url": "https://s.shopee.com.br/30pIsWIcYH?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/205592853217938231349334826523.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-04T20:20:51.652839"
   }
 ]
