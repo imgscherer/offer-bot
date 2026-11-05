@@ -8759,6 +8759,10 @@
     "59a8716e1a51d6c7": {
       "title": "Ninho Redutor de Berço com Ziper Almofada Amamentação e Mosquiteiro Protetor Menino Menina",
       "posted_at": "2026-11-05T19:30:43.963193"
+    },
+    "23872f86df2370c6": {
+      "title": "Fralda Personal Baby Protect e Sec XG Mega Leve 28 Pague 26 Unidades",
+      "posted_at": "2026-11-05T20:10:53.502678"
     }
   },
   "results": [
@@ -41793,6 +41797,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-05T20:01:04.048142"
+    },
+    {
+      "offer_id": "23872f86df2370c6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2204",
+      "error": null,
+      "at": "2026-11-05T20:10:53.501882"
     }
   ]
 }

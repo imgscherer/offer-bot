@@ -1,5 +1,17 @@
 [
   {
+    "id": "23872f86df2370c6",
+    "title": "Fralda Personal Baby Protect e Sec XG Mega Leve 28 Pague 26 Unidades",
+    "price_now": 25.0,
+    "price_was": 37.02,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BBHFXBTF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/672512282617939082706045292589.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-05T20:10:53.502213"
+  },
+  {
     "id": "59a8716e1a51d6c7",
     "title": "Ninho Redutor de Berço com Ziper Almofada Amamentação e Mosquiteiro Protetor Menino Menina",
     "price_now": 68.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T15:30:47.984743"
-  },
-  {
-    "id": "3b5a9dc02dee208a",
-    "title": "Babysec Fralda Ultrasec Galinha Pintadinha M 38 Unidades",
-    "price_now": 29.0,
-    "price_was": 52.65,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B07C3JSRDX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/126435618517938907114158980132.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T15:10:56.508077"
   }
 ]
