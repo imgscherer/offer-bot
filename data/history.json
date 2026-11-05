@@ -8787,6 +8787,22 @@
     "051c93c671d7213d": {
       "title": "Kit Roupinha de Bebê 6 Peças Macacão e Body Regata Estampado",
       "posted_at": "2026-11-05T22:30:39.060734"
+    },
+    "5045cb00fe2b95bb": {
+      "title": "Creme Preventivo De Assaduras Para Bebês Hipoglós, Fragrância Suave, 120g",
+      "posted_at": "2026-11-05T23:00:54.605186"
+    },
+    "4f257e902cc14e8b": {
+      "title": "Kit 2 Lençol de Berço Americano 130x70 cm Percal 400 Fios com Elástico Infantil Antialérgico",
+      "posted_at": "2026-11-05T23:00:56.234709"
+    },
+    "cec63a4b17f9d0cf": {
+      "title": "💫Lençol Ponto Palito Deluxe | Encaixe Perfeito | Micropercal - Conforto e Toque Macio. Queen Casal Solteiro Berço",
+      "posted_at": "2026-11-05T23:01:01.110907"
+    },
+    "67fe43cb22572d99": {
+      "title": "Jogo de Lençol de Berço Americano 3 Peças Infantil Bebês Estampado Fronha Elástico Menino Menina",
+      "posted_at": "2026-11-05T23:01:02.466949"
     }
   },
   "results": [
@@ -41933,6 +41949,38 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-05T22:30:45.423900"
+    },
+    {
+      "offer_id": "5045cb00fe2b95bb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2211",
+      "error": null,
+      "at": "2026-11-05T23:00:54.604634"
+    },
+    {
+      "offer_id": "4f257e902cc14e8b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2212",
+      "error": null,
+      "at": "2026-11-05T23:00:56.234009"
+    },
+    {
+      "offer_id": "cec63a4b17f9d0cf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2213",
+      "error": null,
+      "at": "2026-11-05T23:01:01.110204"
+    },
+    {
+      "offer_id": "67fe43cb22572d99",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2214",
+      "error": null,
+      "at": "2026-11-05T23:01:02.466208"
     }
   ]
 }
