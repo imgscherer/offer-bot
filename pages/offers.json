@@ -1,5 +1,17 @@
 [
   {
+    "id": "f397f826d9eb5c3a",
+    "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
+    "price_now": 17.0,
+    "price_was": 33.22,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07GB34N8Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/967372293417939910094699274060.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-06T19:00:59.650954"
+  },
+  {
     "id": "086919f34df28dac",
     "title": "Escova para Mamadeiras e bico Philips Avent Azul",
     "price_now": 29.85,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-06T16:01:14.193774"
-  },
-  {
-    "id": "9c9175b76dea0403",
-    "title": "Granado Hidratante Bebê 120ml Calêndula",
-    "price_now": 20.0,
-    "price_was": 34.0,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0C3JKHRPV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/331472678917939802746395232139.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-06T16:01:05.520758"
   }
 ]

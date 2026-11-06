@@ -8935,6 +8935,10 @@
     "086919f34df28dac": {
       "title": "Escova para Mamadeiras e bico Philips Avent Azul",
       "posted_at": "2026-11-06T18:00:51.846093"
+    },
+    "f397f826d9eb5c3a": {
+      "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
+      "posted_at": "2026-11-06T19:00:59.651221"
     }
   },
   "results": [
@@ -42577,6 +42581,14 @@
       "post_id": "2247",
       "error": null,
       "at": "2026-11-06T18:00:51.845245"
+    },
+    {
+      "offer_id": "f397f826d9eb5c3a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2248",
+      "error": null,
+      "at": "2026-11-06T19:00:59.650659"
     }
   ]
 }
