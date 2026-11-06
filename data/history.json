@@ -8923,6 +8923,10 @@
     "73eb3c6dd5522d69": {
       "title": "Kit Enxoval Roupinhas de Bebê 5 Peças Body Manga Curta Liso",
       "posted_at": "2026-11-06T16:40:52.896223"
+    },
+    "ac0d5254cd16bcfb": {
+      "title": "Fralda Personal Baby Protect&Sec G 78 unidades",
+      "posted_at": "2026-11-06T17:10:50.279046"
     }
   },
   "results": [
@@ -42541,6 +42545,14 @@
       "post_id": "2244",
       "error": null,
       "at": "2026-11-06T16:40:52.895522"
+    },
+    {
+      "offer_id": "ac0d5254cd16bcfb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2245",
+      "error": null,
+      "at": "2026-11-06T17:10:50.278335"
     }
   ]
 }

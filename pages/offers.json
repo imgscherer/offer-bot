@@ -1,5 +1,17 @@
 [
   {
+    "id": "ac0d5254cd16bcfb",
+    "title": "Fralda Personal Baby Protect&Sec G 78 unidades",
+    "price_now": 53.57,
+    "price_was": 89.99,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0DF9RCVYY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/346052777417939844326702062825.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-06T17:10:50.278618"
+  },
+  {
     "id": "73eb3c6dd5522d69",
     "title": "Kit Enxoval Roupinhas de Bebê 5 Peças Body Manga Curta Liso",
     "price_now": 45.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-06T15:31:11.571752"
-  },
-  {
-    "id": "cddd0d9f5ed2172a",
-    "title": "Fralda Huggies Supreme Care Roupinha XG com 64",
-    "price_now": 85.0,
-    "price_was": 131.78,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/585763764817939786064033209571.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-06T15:30:59.863783"
   }
 ]
