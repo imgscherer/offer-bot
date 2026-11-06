@@ -8827,6 +8827,10 @@
     "734b5f18737cb1a3": {
       "title": "Fralda Pants Huggies XG 144 Fraldas",
       "posted_at": "2026-11-06T12:01:04.162595"
+    },
+    "2b45eb886f833570": {
+      "title": "Babysec Fralda Premium M 32 Unidades",
+      "posted_at": "2026-11-06T12:40:48.474780"
     }
   },
   "results": [
@@ -42189,6 +42193,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-06T12:20:51.200575"
+    },
+    {
+      "offer_id": "2b45eb886f833570",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2221",
+      "error": null,
+      "at": "2026-11-06T12:40:48.473962"
     }
   ]
 }

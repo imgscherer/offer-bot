@@ -1,5 +1,17 @@
 [
   {
+    "id": "2b45eb886f833570",
+    "title": "Babysec Fralda Premium M 32 Unidades",
+    "price_now": 31.96,
+    "price_was": 54.39,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/909808326517939683307577740070.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-06T12:40:48.474303"
+  },
+  {
     "id": "734b5f18737cb1a3",
     "title": "Fralda Pants Huggies XG 144 Fraldas",
     "price_now": 179.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-05T22:30:39.060488"
-  },
-  {
-    "id": "abeeac8acd7eb490",
-    "title": "Carrinho de Bebê Cosco Kids Bross Preto Estrela",
-    "price_now": 350.0,
-    "price_was": 659.0,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B0F38KYPJN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/241242770317939165672387979272.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T22:20:43.573154"
   }
 ]
