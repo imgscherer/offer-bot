@@ -1,5 +1,29 @@
 [
   {
+    "id": "167db1bea12325d9",
+    "title": "Huggies Fralda Pants Premium Natural Care G 60 Un",
+    "price_now": 77.0,
+    "price_was": 118.35,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/429993028417939786017665937801.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-06T15:31:11.571752"
+  },
+  {
+    "id": "cddd0d9f5ed2172a",
+    "title": "Fralda Huggies Supreme Care Roupinha XG com 64",
+    "price_now": 85.0,
+    "price_was": 131.78,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/585763764817939786064033209571.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-06T15:30:59.863783"
+  },
+  {
     "id": "e806e4540d2acf4d",
     "title": "Aspirador Nasal Infantil 9 Níveis Sucção Ajustável Com Música Recarregável",
     "price_now": 46.98,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-06T13:50:45.236415"
-  },
-  {
-    "id": "bda3fcc35a9281a9",
-    "title": "Carrinho de Bebê Maxi-Cosi Anna³ Select Grey",
-    "price_now": 1538.0,
-    "price_was": 2999.0,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B0DK3YVQN2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/436357206117939707919687174026.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-06T13:30:53.853831"
-  },
-  {
-    "id": "2b45eb886f833570",
-    "title": "Babysec Fralda Premium M 32 Unidades",
-    "price_now": 31.96,
-    "price_was": 54.39,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/909808326517939683307577740070.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-06T12:40:48.474303"
   }
 ]

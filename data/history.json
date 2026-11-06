@@ -8875,6 +8875,14 @@
     "e806e4540d2acf4d": {
       "title": "Aspirador Nasal Infantil 9 Níveis Sucção Ajustável Com Música Recarregável",
       "posted_at": "2026-11-06T15:20:50.941945"
+    },
+    "cddd0d9f5ed2172a": {
+      "title": "Fralda Huggies Supreme Care Roupinha XG com 64",
+      "posted_at": "2026-11-06T15:30:59.864751"
+    },
+    "167db1bea12325d9": {
+      "title": "Huggies Fralda Pants Premium Natural Care G 60 Un",
+      "posted_at": "2026-11-06T15:31:11.572168"
     }
   },
   "results": [
@@ -42397,6 +42405,22 @@
       "post_id": "2232",
       "error": null,
       "at": "2026-11-06T15:20:50.941095"
+    },
+    {
+      "offer_id": "cddd0d9f5ed2172a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2233",
+      "error": null,
+      "at": "2026-11-06T15:30:59.863416"
+    },
+    {
+      "offer_id": "167db1bea12325d9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2234",
+      "error": null,
+      "at": "2026-11-06T15:31:11.571447"
     }
   ]
 }
