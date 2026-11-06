@@ -8927,6 +8927,10 @@
     "ac0d5254cd16bcfb": {
       "title": "Fralda Personal Baby Protect&Sec G 78 unidades",
       "posted_at": "2026-11-06T17:10:50.279046"
+    },
+    "d283c9dde13ff3cc": {
+      "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
+      "posted_at": "2026-11-06T17:50:52.513263"
     }
   },
   "results": [
@@ -42553,6 +42557,14 @@
       "post_id": "2245",
       "error": null,
       "at": "2026-11-06T17:10:50.278335"
+    },
+    {
+      "offer_id": "d283c9dde13ff3cc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2246",
+      "error": null,
+      "at": "2026-11-06T17:50:52.512532"
     }
   ]
 }
