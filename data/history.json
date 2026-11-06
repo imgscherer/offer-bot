@@ -8939,6 +8939,14 @@
     "f397f826d9eb5c3a": {
       "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
       "posted_at": "2026-11-06T19:00:59.651221"
+    },
+    "977d331790b1097b": {
+      "title": "Fralda Babysec UltraSec XG 56 unidades",
+      "posted_at": "2026-11-06T19:40:57.633536"
+    },
+    "cdbd6041dec76988": {
+      "title": "Kit Lenço Umedecido Baby Club Aloe Vera",
+      "posted_at": "2026-11-06T19:41:17.105335"
     }
   },
   "results": [
@@ -42589,6 +42597,22 @@
       "post_id": "2248",
       "error": null,
       "at": "2026-11-06T19:00:59.650659"
+    },
+    {
+      "offer_id": "977d331790b1097b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2249",
+      "error": null,
+      "at": "2026-11-06T19:40:57.632663"
+    },
+    {
+      "offer_id": "cdbd6041dec76988",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2250",
+      "error": null,
+      "at": "2026-11-06T19:41:17.104450"
     }
   ]
 }
