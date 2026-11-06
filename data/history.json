@@ -8855,6 +8855,10 @@
     "c7f764f1f4bfecab": {
       "title": "Sandália Slide Infantil (Tam. 27 ao 34, 4 cores)",
       "posted_at": "2026-11-06T14:21:10.640984"
+    },
+    "dce2f3f4f2224227": {
+      "title": "Fralda Turma da Mônica XG 168 Unidades - 4 Pacotes com 42 Unidades",
+      "posted_at": "2026-11-06T14:30:55.769087"
     }
   },
   "results": [
@@ -42337,6 +42341,14 @@
       "post_id": "2227",
       "error": null,
       "at": "2026-11-06T14:21:10.640197"
+    },
+    {
+      "offer_id": "dce2f3f4f2224227",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2228",
+      "error": null,
+      "at": "2026-11-06T14:30:55.768407"
     }
   ]
 }
