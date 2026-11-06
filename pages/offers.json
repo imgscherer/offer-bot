@@ -1,5 +1,17 @@
 [
   {
+    "id": "bda3fcc35a9281a9",
+    "title": "Carrinho de Bebê Maxi-Cosi Anna³ Select Grey",
+    "price_now": 1538.0,
+    "price_was": 2999.0,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B0DK3YVQN2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/436357206117939707919687174026.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-06T13:30:53.853831"
+  },
+  {
     "id": "2b45eb886f833570",
     "title": "Babysec Fralda Premium M 32 Unidades",
     "price_now": 31.96,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T23:00:54.604935"
-  },
-  {
-    "id": "051c93c671d7213d",
-    "title": "Kit Roupinha de Bebê 6 Peças Macacão e Body Regata Estampado",
-    "price_now": 58.21,
-    "price_was": 93.89,
-    "discount_pct": 38,
-    "url": "https://s.shopee.com.br/3LSBAZao8n",
-    "image": "https://cf.shopee.com.br/file/ef8b23119753927fbebba0c81336100a",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T22:30:39.060488"
   }
 ]
