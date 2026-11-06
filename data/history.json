@@ -8835,6 +8835,14 @@
     "bda3fcc35a9281a9": {
       "title": "Carrinho de Bebê Maxi-Cosi Anna³ Select Grey",
       "posted_at": "2026-11-06T13:30:53.854233"
+    },
+    "4b3f6f83badfec4a": {
+      "title": "Fralda Personal Baby Total Protect Pants G com 44",
+      "posted_at": "2026-11-06T13:50:45.236675"
+    },
+    "27dd7824bf4f18f6": {
+      "title": "Fralda Personal Baby Total Protect Pants XG com 40",
+      "posted_at": "2026-11-06T13:50:58.409064"
     }
   },
   "results": [
@@ -42253,6 +42261,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-06T13:40:39.816241"
+    },
+    {
+      "offer_id": "4b3f6f83badfec4a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2223",
+      "error": null,
+      "at": "2026-11-06T13:50:45.236111"
+    },
+    {
+      "offer_id": "799b7077acb53ad1",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-06T13:50:50.633249"
+    },
+    {
+      "offer_id": "27dd7824bf4f18f6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2224",
+      "error": null,
+      "at": "2026-11-06T13:50:58.408343"
     }
   ]
 }

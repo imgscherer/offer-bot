@@ -1,5 +1,29 @@
 [
   {
+    "id": "27dd7824bf4f18f6",
+    "title": "Fralda Personal Baby Total Protect Pants XG com 40",
+    "price_now": 43.0,
+    "price_was": 69.42,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0BTTLGRFH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/614209052617939721702900233014.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-06T13:50:58.408607"
+  },
+  {
+    "id": "4b3f6f83badfec4a",
+    "title": "Fralda Personal Baby Total Protect Pants G com 44",
+    "price_now": 43.0,
+    "price_was": 71.99,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0BTTLYZN9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/309243212317939721769360439785.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-06T13:50:45.236415"
+  },
+  {
     "id": "bda3fcc35a9281a9",
     "title": "Carrinho de Bebê Maxi-Cosi Anna³ Select Grey",
     "price_now": 1538.0,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-05T23:01:01.110477"
-  },
-  {
-    "id": "4f257e902cc14e8b",
-    "title": "Kit 2 Lençol de Berço Americano 130x70 cm Percal 400 Fios com Elástico Infantil Antialérgico",
-    "price_now": 21.95,
-    "price_was": 39.91,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/AUvLjoJPsS",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81zu1-mkvoey3rwzr7a1",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T23:00:56.234265"
-  },
-  {
-    "id": "5045cb00fe2b95bb",
-    "title": "Creme Preventivo De Assaduras Para Bebês Hipoglós, Fragrância Suave, 120g",
-    "price_now": 41.78,
-    "price_was": 77.99,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B0CHZCWLV6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/274373894117939190119192313669.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T23:00:54.604935"
   }
 ]
