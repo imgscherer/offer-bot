@@ -8931,6 +8931,10 @@
     "d283c9dde13ff3cc": {
       "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
       "posted_at": "2026-11-06T17:50:52.513263"
+    },
+    "086919f34df28dac": {
+      "title": "Escova para Mamadeiras e bico Philips Avent Azul",
+      "posted_at": "2026-11-06T18:00:51.846093"
     }
   },
   "results": [
@@ -42565,6 +42569,14 @@
       "post_id": "2246",
       "error": null,
       "at": "2026-11-06T17:50:52.512532"
+    },
+    {
+      "offer_id": "086919f34df28dac",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2247",
+      "error": null,
+      "at": "2026-11-06T18:00:51.845245"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "086919f34df28dac",
+    "title": "Escova para Mamadeiras e bico Philips Avent Azul",
+    "price_now": 29.85,
+    "price_was": 59.9,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B000MMOR46?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/607734469017939876523692958441.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-06T18:00:51.845641"
+  },
+  {
     "id": "d283c9dde13ff3cc",
     "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
     "price_now": 18.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-06T16:01:05.520758"
-  },
-  {
-    "id": "96ffba11ad5c2732",
-    "title": "Granado Hidratante Bebê 120ml Tradicional",
-    "price_now": 20.0,
-    "price_was": 34.0,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B08DPQK5K6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/882799093117939806507458169276.png",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-06T16:00:52.291725"
   }
 ]
