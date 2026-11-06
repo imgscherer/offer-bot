@@ -8859,6 +8859,10 @@
     "dce2f3f4f2224227": {
       "title": "Fralda Turma da Mônica XG 168 Unidades - 4 Pacotes com 42 Unidades",
       "posted_at": "2026-11-06T14:30:55.769087"
+    },
+    "836e387e082ab7da": {
+      "title": "Fralda Cremer G 30 Unidades",
+      "posted_at": "2026-11-06T14:50:57.378807"
     }
   },
   "results": [
@@ -42349,6 +42353,14 @@
       "post_id": "2228",
       "error": null,
       "at": "2026-11-06T14:30:55.768407"
+    },
+    {
+      "offer_id": "836e387e082ab7da",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2229",
+      "error": null,
+      "at": "2026-11-06T14:50:57.377952"
     }
   ]
 }
