@@ -1,5 +1,17 @@
 [
   {
+    "id": "7b590805bbf10c10",
+    "title": "Fralda Pampers Pants Premium Care G 68 unidades",
+    "price_now": 89.2,
+    "price_was": 151.59,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/288219692117939617895518786606.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-06T10:50:54.438245"
+  },
+  {
     "id": "ba39ff06ee4f4930",
     "title": "Fralda Pom Pom Protek Proteção de Mãe Mega M 48 Unidades",
     "price_now": 34.3,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T20:31:09.465933"
-  },
-  {
-    "id": "41b9e1115177d8e8",
-    "title": "Bermuda Bebê Infantil Saruel Estampado Carrinho Menino Cós Elástico",
-    "price_now": 25.93,
-    "price_was": 39.89,
-    "discount_pct": 35,
-    "url": "https://s.shopee.com.br/2qVtox31to",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1tw4q7be1g125",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T20:20:45.989242"
   }
 ]
