@@ -8871,6 +8871,10 @@
     "ce0610c26626d445": {
       "title": "MamyPoko Fralda-Calça Superproteção XG 24 Unidades",
       "posted_at": "2026-11-06T15:10:54.154609"
+    },
+    "e806e4540d2acf4d": {
+      "title": "Aspirador Nasal Infantil 9 Níveis Sucção Ajustável Com Música Recarregável",
+      "posted_at": "2026-11-06T15:20:50.941945"
     }
   },
   "results": [
@@ -42385,6 +42389,14 @@
       "post_id": "2231",
       "error": null,
       "at": "2026-11-06T15:10:54.153896"
+    },
+    {
+      "offer_id": "e806e4540d2acf4d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2232",
+      "error": null,
+      "at": "2026-11-06T15:20:50.941095"
     }
   ]
 }
