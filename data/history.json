@@ -8883,6 +8883,26 @@
     "167db1bea12325d9": {
       "title": "Huggies Fralda Pants Premium Natural Care G 60 Un",
       "posted_at": "2026-11-06T15:31:11.572168"
+    },
+    "96ffba11ad5c2732": {
+      "title": "Granado Hidratante Bebê 120ml Tradicional",
+      "posted_at": "2026-11-06T16:00:52.292045"
+    },
+    "9c9175b76dea0403": {
+      "title": "Granado Hidratante Bebê 120ml Calêndula",
+      "posted_at": "2026-11-06T16:01:05.521201"
+    },
+    "79e14c666bff1f9d": {
+      "title": "Granado Hidratante Bebê 120ml Lavanda",
+      "posted_at": "2026-11-06T16:01:14.194205"
+    },
+    "e67bf35f6719f380": {
+      "title": "Granado Hidratante Bebê 120ml Camomila",
+      "posted_at": "2026-11-06T16:01:22.359268"
+    },
+    "6757aa1125ebc52f": {
+      "title": "Granado Hidratante Bebê 120ml Erva-Doce",
+      "posted_at": "2026-11-06T16:01:30.806993"
     }
   },
   "results": [
@@ -42421,6 +42441,46 @@
       "post_id": "2234",
       "error": null,
       "at": "2026-11-06T15:31:11.571447"
+    },
+    {
+      "offer_id": "96ffba11ad5c2732",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2235",
+      "error": null,
+      "at": "2026-11-06T16:00:52.291351"
+    },
+    {
+      "offer_id": "9c9175b76dea0403",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2236",
+      "error": null,
+      "at": "2026-11-06T16:01:05.520441"
+    },
+    {
+      "offer_id": "79e14c666bff1f9d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2237",
+      "error": null,
+      "at": "2026-11-06T16:01:14.193479"
+    },
+    {
+      "offer_id": "e67bf35f6719f380",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2238",
+      "error": null,
+      "at": "2026-11-06T16:01:22.358533"
+    },
+    {
+      "offer_id": "6757aa1125ebc52f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2239",
+      "error": null,
+      "at": "2026-11-06T16:01:30.806182"
     }
   ]
 }
