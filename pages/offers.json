@@ -1,5 +1,17 @@
 [
   {
+    "id": "c7f764f1f4bfecab",
+    "title": "Sandália Slide Infantil (Tam. 27 ao 34, 4 cores)",
+    "price_now": 24.99,
+    "price_was": 40.31,
+    "discount_pct": 38,
+    "url": "https://s.shopee.com.br/qkrEdxfww?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/636258628217939743355223419425.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-06T14:21:10.640510"
+  },
+  {
     "id": "3ae686710940a034",
     "title": "Fralda Turma da Mônica Baby M, 50 Unidades",
     "price_now": 33.98,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T23:40:54.620858"
-  },
-  {
-    "id": "3e62a84f52a75ce6",
-    "title": "Personal Fralda Baby Premium Protection P, 40 Unidades",
-    "price_now": 25.5,
-    "price_was": 46.38,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/152753761717939209332836118215.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T23:30:52.994177"
   }
 ]

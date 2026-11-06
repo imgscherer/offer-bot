@@ -8851,6 +8851,10 @@
     "3ae686710940a034": {
       "title": "Fralda Turma da Mônica Baby M, 50 Unidades",
       "posted_at": "2026-11-06T14:11:08.478605"
+    },
+    "c7f764f1f4bfecab": {
+      "title": "Sandália Slide Infantil (Tam. 27 ao 34, 4 cores)",
+      "posted_at": "2026-11-06T14:21:10.640984"
     }
   },
   "results": [
@@ -42325,6 +42329,14 @@
       "post_id": "2226",
       "error": null,
       "at": "2026-11-06T14:11:08.477850"
+    },
+    {
+      "offer_id": "c7f764f1f4bfecab",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2227",
+      "error": null,
+      "at": "2026-11-06T14:21:10.640197"
     }
   ]
 }
