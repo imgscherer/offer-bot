@@ -8863,6 +8863,14 @@
     "836e387e082ab7da": {
       "title": "Fralda Cremer G 30 Unidades",
       "posted_at": "2026-11-06T14:50:57.378807"
+    },
+    "97357eac11a9e371": {
+      "title": "Graco Cadeira Infantil para Carro Extend2Fit  2 em 1 com Sistema LATCH Preto e Cinza",
+      "posted_at": "2026-11-06T15:10:45.417503"
+    },
+    "ce0610c26626d445": {
+      "title": "MamyPoko Fralda-Calça Superproteção XG 24 Unidades",
+      "posted_at": "2026-11-06T15:10:54.154609"
     }
   },
   "results": [
@@ -42361,6 +42369,22 @@
       "post_id": "2229",
       "error": null,
       "at": "2026-11-06T14:50:57.377952"
+    },
+    {
+      "offer_id": "97357eac11a9e371",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2230",
+      "error": null,
+      "at": "2026-11-06T15:10:45.416938"
+    },
+    {
+      "offer_id": "ce0610c26626d445",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2231",
+      "error": null,
+      "at": "2026-11-06T15:10:54.153896"
     }
   ]
 }

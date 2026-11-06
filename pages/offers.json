@@ -1,5 +1,29 @@
 [
   {
+    "id": "ce0610c26626d445",
+    "title": "MamyPoko Fralda-Calça Superproteção XG 24 Unidades",
+    "price_now": 26.0,
+    "price_was": 42.9,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/601535366817939770468037959796.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-06T15:10:54.154183"
+  },
+  {
+    "id": "97357eac11a9e371",
+    "title": "Graco Cadeira Infantil para Carro Extend2Fit  2 em 1 com Sistema LATCH Preto e Cinza",
+    "price_now": 1789.0,
+    "price_was": 2990.0,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0DHLSX7GQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/491055450617939771104653808604.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-06T15:10:45.417253"
+  },
+  {
     "id": "836e387e082ab7da",
     "title": "Fralda Cremer G 30 Unidades",
     "price_now": 22.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-06T12:01:04.162122"
-  },
-  {
-    "id": "f4645ab062b68063",
-    "title": "Fralda Pampers Pants Premium Care G 68 Unidades",
-    "price_now": 89.0,
-    "price_was": 151.59,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/283437652217939649103290385792.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-06T11:51:03.961043"
-  },
-  {
-    "id": "1dfae126ccf65902",
-    "title": "Personal Fralda Baby Total Protect Pants Grande, 44 Unidades",
-    "price_now": 46.06,
-    "price_was": 71.99,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0BTTLYZN9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/482379196417939646092980468600.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-06T11:40:58.517298"
   }
 ]
