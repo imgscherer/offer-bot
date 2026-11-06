@@ -8903,6 +8903,26 @@
     "6757aa1125ebc52f": {
       "title": "Granado Hidratante Bebê 120ml Erva-Doce",
       "posted_at": "2026-11-06T16:01:30.806993"
+    },
+    "2a975895cd9128af": {
+      "title": "Kit 15 Peças Inverno Roupinhas de Bebê Enxoval Body Mijão",
+      "posted_at": "2026-11-06T16:40:38.741742"
+    },
+    "72f40b6cb69cc570": {
+      "title": "Kit Roupinhas de Bebê 5 Peças Body Short Sapatinho e Bandana",
+      "posted_at": "2026-11-06T16:40:42.003080"
+    },
+    "749f9902e79c8f99": {
+      "title": "Kit Roupinhas De Bebê Verão 6 Peças Body E Shorts Estampados",
+      "posted_at": "2026-11-06T16:40:43.965674"
+    },
+    "fa74f150577611a5": {
+      "title": "Kit 4 Pçs Roupinhas Bebê Body Regata Estampado e Shorts",
+      "posted_at": "2026-11-06T16:40:49.677514"
+    },
+    "73eb3c6dd5522d69": {
+      "title": "Kit Enxoval Roupinhas de Bebê 5 Peças Body Manga Curta Liso",
+      "posted_at": "2026-11-06T16:40:52.896223"
     }
   },
   "results": [
@@ -42481,6 +42501,46 @@
       "post_id": "2239",
       "error": null,
       "at": "2026-11-06T16:01:30.806182"
+    },
+    {
+      "offer_id": "2a975895cd9128af",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2240",
+      "error": null,
+      "at": "2026-11-06T16:40:38.741128"
+    },
+    {
+      "offer_id": "72f40b6cb69cc570",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2241",
+      "error": null,
+      "at": "2026-11-06T16:40:42.002356"
+    },
+    {
+      "offer_id": "749f9902e79c8f99",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2242",
+      "error": null,
+      "at": "2026-11-06T16:40:43.964976"
+    },
+    {
+      "offer_id": "fa74f150577611a5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2243",
+      "error": null,
+      "at": "2026-11-06T16:40:49.676577"
+    },
+    {
+      "offer_id": "73eb3c6dd5522d69",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2244",
+      "error": null,
+      "at": "2026-11-06T16:40:52.895522"
     }
   ]
 }
