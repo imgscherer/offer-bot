@@ -8843,6 +8843,14 @@
     "27dd7824bf4f18f6": {
       "title": "Fralda Personal Baby Total Protect Pants XG com 40",
       "posted_at": "2026-11-06T13:50:58.409064"
+    },
+    "7db712a4cd149f72": {
+      "title": "Fralda Pom Pom Protek G, 68 Unidades",
+      "posted_at": "2026-11-06T14:10:58.774377"
+    },
+    "3ae686710940a034": {
+      "title": "Fralda Turma da Mônica Baby M, 50 Unidades",
+      "posted_at": "2026-11-06T14:11:08.478605"
     }
   },
   "results": [
@@ -42293,6 +42301,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-06T14:00:55.609261"
+    },
+    {
+      "offer_id": "d40f5c9fd7ed671d",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-06T14:10:48.178880"
+    },
+    {
+      "offer_id": "7db712a4cd149f72",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2225",
+      "error": null,
+      "at": "2026-11-06T14:10:58.772903"
+    },
+    {
+      "offer_id": "3ae686710940a034",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2226",
+      "error": null,
+      "at": "2026-11-06T14:11:08.477850"
     }
   ]
 }

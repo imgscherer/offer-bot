@@ -1,5 +1,29 @@
 [
   {
+    "id": "3ae686710940a034",
+    "title": "Fralda Turma da Mônica Baby M, 50 Unidades",
+    "price_now": 33.98,
+    "price_was": 50.04,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/425480230017939736769650887278.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-06T14:11:08.478142"
+  },
+  {
+    "id": "7db712a4cd149f72",
+    "title": "Fralda Pom Pom Protek G, 68 Unidades",
+    "price_now": 47.0,
+    "price_was": 77.37,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/788068157517939734909247155778.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-06T14:10:58.773255"
+  },
+  {
     "id": "27dd7824bf4f18f6",
     "title": "Fralda Personal Baby Total Protect Pants XG com 40",
     "price_now": 43.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T23:30:52.994177"
-  },
-  {
-    "id": "67fe43cb22572d99",
-    "title": "Jogo de Lençol de Berço Americano 3 Peças Infantil Bebês Estampado Fronha Elástico Menino Menina",
-    "price_now": 41.22,
-    "price_was": 59.74,
-    "discount_pct": 31,
-    "url": "https://s.shopee.com.br/BV9QowkqZ",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-7ra0u-m4ja8lhbi5hd85",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T23:01:02.466507"
-  },
-  {
-    "id": "cec63a4b17f9d0cf",
-    "title": "💫Lençol Ponto Palito Deluxe | Encaixe Perfeito | Micropercal - Conforto e Toque Macio. Queen Casal Solteiro Berço",
-    "price_now": 19.2,
-    "price_was": 34.91,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/1BjEVxOBW",
-    "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mibmeoq181s212",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T23:01:01.110477"
   }
 ]
