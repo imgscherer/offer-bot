@@ -1,5 +1,17 @@
 [
   {
+    "id": "734b5f18737cb1a3",
+    "title": "Fralda Pants Huggies XG 144 Fraldas",
+    "price_now": 179.0,
+    "price_was": 289.0,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/697760388117939653902852549152.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-06T12:01:04.162122"
+  },
+  {
     "id": "f4645ab062b68063",
     "title": "Fralda Pampers Pants Premium Care G 68 Unidades",
     "price_now": 89.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-05T22:20:43.573154"
-  },
-  {
-    "id": "edb30511b0767197",
-    "title": "Kit 2 Prendedores De Chupeta Coala Buba",
-    "price_now": 15.2,
-    "price_was": 29.9,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B0B3F6BXLH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/172286309817939133681966542913.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-05T21:20:53.634345"
   }
 ]
