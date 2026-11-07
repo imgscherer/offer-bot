@@ -8991,6 +8991,10 @@
     "987300c235dff839": {
       "title": "Fralda Huggies Natural Care P 36 unidades",
       "posted_at": "2026-11-07T11:30:53.546258"
+    },
+    "22240583e1b70048": {
+      "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
+      "posted_at": "2026-11-07T11:50:41.360650"
     }
   },
   "results": [
@@ -42929,6 +42933,14 @@
       "post_id": "2261",
       "error": null,
       "at": "2026-11-07T11:30:53.545525"
+    },
+    {
+      "offer_id": "22240583e1b70048",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2262",
+      "error": null,
+      "at": "2026-11-07T11:50:41.360181"
     }
   ]
 }

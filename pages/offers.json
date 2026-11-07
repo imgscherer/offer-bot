@@ -1,5 +1,17 @@
 [
   {
+    "id": "22240583e1b70048",
+    "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
+    "price_now": 26.69,
+    "price_was": 39.49,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/596284303517940515514974307912.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T11:50:41.360423"
+  },
+  {
     "id": "987300c235dff839",
     "title": "Fralda Huggies Natural Care P 36 unidades",
     "price_now": 32.59,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-06T20:30:59.392798"
-  },
-  {
-    "id": "cdbd6041dec76988",
-    "title": "Kit Lenço Umedecido Baby Club Aloe Vera",
-    "price_now": 46.9,
-    "price_was": 79.99,
-    "discount_pct": 41,
-    "url": "https://s.shopee.com.br/7VHlWLXoOr?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/895117267017939930785860134883.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-06T19:41:17.104724"
   }
 ]
