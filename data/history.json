@@ -8975,6 +8975,10 @@
     "e423cbd73a38894f": {
       "title": "Fralda-Calça MamyPoko Superproteção G 28 Unidades",
       "posted_at": "2026-11-07T00:31:17.985990"
+    },
+    "4a07c4719847e21c": {
+      "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
+      "posted_at": "2026-11-07T10:00:47.535588"
     }
   },
   "results": [
@@ -42881,6 +42885,14 @@
       "post_id": "2257",
       "error": null,
       "at": "2026-11-07T00:31:17.985257"
+    },
+    {
+      "offer_id": "4a07c4719847e21c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2258",
+      "error": null,
+      "at": "2026-11-07T10:00:47.534766"
     }
   ]
 }

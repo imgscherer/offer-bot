@@ -1,5 +1,17 @@
 [
   {
+    "id": "4a07c4719847e21c",
+    "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
+    "price_now": 13.99,
+    "price_was": 19.99,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/7puZm8WrdY",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mpxyl5yh1csja8",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T10:00:47.535200"
+  },
+  {
     "id": "e423cbd73a38894f",
     "title": "Fralda-Calça MamyPoko Superproteção G 28 Unidades",
     "price_now": 27.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-06T18:00:51.845641"
-  },
-  {
-    "id": "d283c9dde13ff3cc",
-    "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
-    "price_now": 18.9,
-    "price_was": 28.68,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/908217236017939870035501646425.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-06T17:50:52.512822"
   }
 ]
