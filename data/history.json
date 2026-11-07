@@ -9091,6 +9091,14 @@
     "43e962c5abcce3f1": {
       "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
       "posted_at": "2026-11-07T21:10:50.470329"
+    },
+    "61fe398cae3bea90": {
+      "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
+      "posted_at": "2026-11-07T22:01:01.357958"
+    },
+    "7af5a4fd58037c82": {
+      "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
+      "posted_at": "2026-11-07T22:01:11.659343"
     }
   },
   "results": [
@@ -43285,6 +43293,22 @@
       "post_id": "2286",
       "error": null,
       "at": "2026-11-07T21:10:50.469555"
+    },
+    {
+      "offer_id": "61fe398cae3bea90",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2287",
+      "error": null,
+      "at": "2026-11-07T22:01:01.357130"
+    },
+    {
+      "offer_id": "7af5a4fd58037c82",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2288",
+      "error": null,
+      "at": "2026-11-07T22:01:11.658602"
     }
   ]
 }

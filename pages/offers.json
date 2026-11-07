@@ -1,5 +1,29 @@
 [
   {
+    "id": "7af5a4fd58037c82",
+    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
+    "price_now": 34.16,
+    "price_was": 52.65,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B07C3JY2V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/582989215917940883897966267185.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T22:01:11.658913"
+  },
+  {
+    "id": "61fe398cae3bea90",
+    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
+    "price_now": 30.0,
+    "price_was": 62.99,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/723047971617940879717838750695.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T22:01:01.357474"
+  },
+  {
     "id": "43e962c5abcce3f1",
     "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
     "price_now": 34.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-07T18:00:57.436901"
-  },
-  {
-    "id": "d7a9b6b61ae81ae5",
-    "title": "Graco Carrinho De Bebê Gêmeos Passeio Ready2grow Lx 2.0 Cz",
-    "price_now": 1898.9,
-    "price_was": 2990.0,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B08K2YFNDW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/274111098417940648091736756645.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T15:40:47.434664"
-  },
-  {
-    "id": "d2c9d0f5f41db432",
-    "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
-    "price_now": 38.58,
-    "price_was": 62.9,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/131299623617940641489924301348.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T15:20:52.265577"
   }
 ]
