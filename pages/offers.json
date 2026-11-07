@@ -1,5 +1,17 @@
 [
   {
+    "id": "e0720f77801a22a3",
+    "title": "Fralda Mili Love & Care Premium XXG 40 unidades",
+    "price_now": 42.36,
+    "price_was": 72.98,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B07GG4VT6S?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/975528701117940529321904601230.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T12:10:47.574771"
+  },
+  {
     "id": "22240583e1b70048",
     "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
     "price_now": 26.69,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-06T21:11:31.189974"
-  },
-  {
-    "id": "08fb6c928af01b06",
-    "title": "Mamadeira De Silicone Transição Igual Peito Materno Original 240ml Rosa",
-    "price_now": 58.19,
-    "price_was": 83.13,
-    "discount_pct": 30,
-    "url": "https://s.shopee.com.br/AKbwy5Nluq",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabflcoid3ll36",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-06T20:30:59.392798"
   }
 ]

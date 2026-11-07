@@ -8995,6 +8995,10 @@
     "22240583e1b70048": {
       "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
       "posted_at": "2026-11-07T11:50:41.360650"
+    },
+    "e0720f77801a22a3": {
+      "title": "Fralda Mili Love & Care Premium XXG 40 unidades",
+      "posted_at": "2026-11-07T12:10:47.575079"
     }
   },
   "results": [
@@ -42941,6 +42945,14 @@
       "post_id": "2262",
       "error": null,
       "at": "2026-11-07T11:50:41.360181"
+    },
+    {
+      "offer_id": "e0720f77801a22a3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2263",
+      "error": null,
+      "at": "2026-11-07T12:10:47.574388"
     }
   ]
 }
