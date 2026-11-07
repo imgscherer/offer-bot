@@ -9055,6 +9055,10 @@
     "dd92622dcb33d3a1": {
       "title": "Fralda Huggies Supreme Care Pants G 70 Unidades",
       "posted_at": "2026-11-07T18:00:57.437497"
+    },
+    "27980e6874dc99b7": {
+      "title": "Fralda Personal Baby Protect&Sec G 34 unidades",
+      "posted_at": "2026-11-07T18:10:57.141427"
     }
   },
   "results": [
@@ -43177,6 +43181,14 @@
       "post_id": "2277",
       "error": null,
       "at": "2026-11-07T18:00:57.436597"
+    },
+    {
+      "offer_id": "27980e6874dc99b7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2278",
+      "error": null,
+      "at": "2026-11-07T18:10:57.140639"
     }
   ]
 }

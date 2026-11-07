@@ -1,5 +1,17 @@
 [
   {
+    "id": "27980e6874dc99b7",
+    "title": "Fralda Personal Baby Protect&Sec G 34 unidades",
+    "price_now": 25.0,
+    "price_was": 37.02,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/935251209017940747086391870057.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T18:10:57.141000"
+  },
+  {
     "id": "dd92622dcb33d3a1",
     "title": "Fralda Huggies Supreme Care Pants G 70 Unidades",
     "price_now": 68.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-07T13:01:03.398420"
-  },
-  {
-    "id": "d5e4140acddbdde6",
-    "title": "Fralda Mili Love & Care Premium G 48 Unidades",
-    "price_now": 41.63,
-    "price_was": 101.95,
-    "discount_pct": 59,
-    "url": "https://www.amazon.com.br/dp/B07GFRP89P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/364423786317940557097044371153.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T13:00:49.837833"
   }
 ]
