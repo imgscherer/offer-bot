@@ -9027,6 +9027,10 @@
     "babb6fab33f520c9": {
       "title": "Fralda-Calça MamyPoko Dia&Noite M 40 Unidades",
       "posted_at": "2026-11-07T13:01:36.190158"
+    },
+    "c144304a6415b696": {
+      "title": "Fralda Pom Pom Protek G, 68 Unidades",
+      "posted_at": "2026-11-07T13:20:53.185491"
     }
   },
   "results": [
@@ -43061,6 +43065,14 @@
       "post_id": "2270",
       "error": null,
       "at": "2026-11-07T13:01:36.189380"
+    },
+    {
+      "offer_id": "c144304a6415b696",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2271",
+      "error": null,
+      "at": "2026-11-07T13:20:53.184667"
     }
   ]
 }
