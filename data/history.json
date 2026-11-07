@@ -9051,6 +9051,10 @@
     "d7a9b6b61ae81ae5": {
       "title": "Graco Carrinho De Bebê Gêmeos Passeio Ready2grow Lx 2.0 Cz",
       "posted_at": "2026-11-07T15:40:47.435024"
+    },
+    "dd92622dcb33d3a1": {
+      "title": "Fralda Huggies Supreme Care Pants G 70 Unidades",
+      "posted_at": "2026-11-07T18:00:57.437497"
     }
   },
   "results": [
@@ -43165,6 +43169,14 @@
       "post_id": "2276",
       "error": null,
       "at": "2026-11-07T15:40:47.434297"
+    },
+    {
+      "offer_id": "dd92622dcb33d3a1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2277",
+      "error": null,
+      "at": "2026-11-07T18:00:57.436597"
     }
   ]
 }

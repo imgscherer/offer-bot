@@ -1,5 +1,17 @@
 [
   {
+    "id": "dd92622dcb33d3a1",
+    "title": "Fralda Huggies Supreme Care Pants G 70 Unidades",
+    "price_now": 68.0,
+    "price_was": 131.78,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0BXM1CSC2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/424466744217940737507762074906.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T18:00:57.436901"
+  },
+  {
     "id": "d7a9b6b61ae81ae5",
     "title": "Graco Carrinho De Bebê Gêmeos Passeio Ready2grow Lx 2.0 Cz",
     "price_now": 1898.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-07T13:00:49.837833"
-  },
-  {
-    "id": "c17220f54d6192ed",
-    "title": "Fralda Mili Love&Care Mega XXG 40 Unidades",
-    "price_now": 42.0,
-    "price_was": 72.98,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B07GG4VT6S?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/644002415817940551036383533683.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T12:50:48.640083"
   }
 ]
