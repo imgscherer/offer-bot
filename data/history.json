@@ -8963,6 +8963,18 @@
     "d204c766669b7d08": {
       "title": "Fralda Ultrasec Galinha Pintadinha Xg Babysec 30 Unidades",
       "posted_at": "2026-11-06T22:01:07.592291"
+    },
+    "f781b93a8467fba9": {
+      "title": "Fralda-Calça MamyPoko Superproteção XXG 22 Unidades",
+      "posted_at": "2026-11-07T00:31:01.031398"
+    },
+    "e317f77074fba4cc": {
+      "title": "Fralda-Calça MamyPoko Superproteção XG 24 Unidades",
+      "posted_at": "2026-11-07T00:31:07.781072"
+    },
+    "e423cbd73a38894f": {
+      "title": "Fralda-Calça MamyPoko Superproteção G 28 Unidades",
+      "posted_at": "2026-11-07T00:31:17.985990"
     }
   },
   "results": [
@@ -42845,6 +42857,30 @@
       "post_id": "2254",
       "error": null,
       "at": "2026-11-06T22:01:07.591511"
+    },
+    {
+      "offer_id": "f781b93a8467fba9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2255",
+      "error": null,
+      "at": "2026-11-07T00:31:01.030528"
+    },
+    {
+      "offer_id": "e317f77074fba4cc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2256",
+      "error": null,
+      "at": "2026-11-07T00:31:07.780234"
+    },
+    {
+      "offer_id": "e423cbd73a38894f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2257",
+      "error": null,
+      "at": "2026-11-07T00:31:17.985257"
     }
   ]
 }

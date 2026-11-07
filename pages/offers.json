@@ -1,5 +1,41 @@
 [
   {
+    "id": "e423cbd73a38894f",
+    "title": "Fralda-Calça MamyPoko Superproteção G 28 Unidades",
+    "price_now": 27.0,
+    "price_was": 42.9,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0D4363KSD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/975530001517940110481134609447.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T00:31:17.985539"
+  },
+  {
+    "id": "e317f77074fba4cc",
+    "title": "Fralda-Calça MamyPoko Superproteção XG 24 Unidades",
+    "price_now": 27.0,
+    "price_was": 42.9,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/918495857217940110558419169795.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T00:31:07.780522"
+  },
+  {
+    "id": "f781b93a8467fba9",
+    "title": "Fralda-Calça MamyPoko Superproteção XXG 22 Unidades",
+    "price_now": 27.0,
+    "price_was": 46.9,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/399034532217940110533306505553.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T00:31:01.030952"
+  },
+  {
     "id": "d204c766669b7d08",
     "title": "Fralda Ultrasec Galinha Pintadinha Xg Babysec 30 Unidades",
     "price_now": 22.67,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-06T17:50:52.512822"
-  },
-  {
-    "id": "ac0d5254cd16bcfb",
-    "title": "Fralda Personal Baby Protect&Sec G 78 unidades",
-    "price_now": 53.57,
-    "price_was": 89.99,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0DF9RCVYY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/346052777417939844326702062825.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-06T17:10:50.278618"
-  },
-  {
-    "id": "73eb3c6dd5522d69",
-    "title": "Kit Enxoval Roupinhas de Bebê 5 Peças Body Manga Curta Liso",
-    "price_now": 45.9,
-    "price_was": 65.57,
-    "discount_pct": 30,
-    "url": "https://s.shopee.com.br/1BNhnRehGt",
-    "image": "https://cf.shopee.com.br/file/br-11134201-820m0-mqx8qjf14c902a",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-06T16:40:52.895816"
-  },
-  {
-    "id": "fa74f150577611a5",
-    "title": "Kit 4 Pçs Roupinhas Bebê Body Regata Estampado e Shorts",
-    "price_now": 38.9,
-    "price_was": 57.21,
-    "discount_pct": 32,
-    "url": "https://s.shopee.com.br/1W0YC3dQb7",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfbd70y9rs293",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-06T16:40:49.676859"
   }
 ]
