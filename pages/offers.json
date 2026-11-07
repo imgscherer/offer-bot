@@ -1,5 +1,17 @@
 [
   {
+    "id": "e4dfa74ed149eaaf",
+    "title": "Granado Sabonete Líquido Bebê, Camomila, 500ml",
+    "price_now": 26.59,
+    "price_was": 39.0,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0C2VWQZS6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/781658968717940596123950342876.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T14:10:49.153217"
+  },
+  {
     "id": "8472d0ec8a0ce15d",
     "title": "Fralda Pants Ajuste Total G 90 Unidades Pampers",
     "price_now": 98.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-07T11:50:41.360423"
-  },
-  {
-    "id": "987300c235dff839",
-    "title": "Fralda Huggies Natural Care P 36 unidades",
-    "price_now": 32.59,
-    "price_was": 53.4,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/903559285717940501717963487733.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T11:30:53.545790"
   }
 ]

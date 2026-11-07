@@ -9035,6 +9035,10 @@
     "8472d0ec8a0ce15d": {
       "title": "Fralda Pants Ajuste Total G 90 Unidades Pampers",
       "posted_at": "2026-11-07T14:00:50.089842"
+    },
+    "e4dfa74ed149eaaf": {
+      "title": "Granado Sabonete Líquido Bebê, Camomila, 500ml",
+      "posted_at": "2026-11-07T14:10:49.153664"
     }
   },
   "results": [
@@ -43117,6 +43121,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-07T14:00:55.988745"
+    },
+    {
+      "offer_id": "e4dfa74ed149eaaf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2273",
+      "error": null,
+      "at": "2026-11-07T14:10:49.152915"
     }
   ]
 }
