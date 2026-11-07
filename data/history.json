@@ -9039,6 +9039,10 @@
     "e4dfa74ed149eaaf": {
       "title": "Granado Sabonete Líquido Bebê, Camomila, 500ml",
       "posted_at": "2026-11-07T14:10:49.153664"
+    },
+    "6875f5efffe2b6c6": {
+      "title": "Fralda Patrulha Canina Cremer - 5 Unidades",
+      "posted_at": "2026-11-07T15:00:54.171130"
     }
   },
   "results": [
@@ -43129,6 +43133,14 @@
       "post_id": "2273",
       "error": null,
       "at": "2026-11-07T14:10:49.152915"
+    },
+    {
+      "offer_id": "6875f5efffe2b6c6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2274",
+      "error": null,
+      "at": "2026-11-07T15:00:54.170462"
     }
   ]
 }

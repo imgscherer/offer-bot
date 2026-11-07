@@ -1,5 +1,17 @@
 [
   {
+    "id": "6875f5efffe2b6c6",
+    "title": "Fralda Patrulha Canina Cremer - 5 Unidades",
+    "price_now": 26.69,
+    "price_was": 51.77,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B09KX6WYGB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/521381394617940631497898696217.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T15:00:54.170810"
+  },
+  {
     "id": "e4dfa74ed149eaaf",
     "title": "Granado Sabonete Líquido Bebê, Camomila, 500ml",
     "price_now": 26.59,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-07T12:10:47.574771"
-  },
-  {
-    "id": "22240583e1b70048",
-    "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
-    "price_now": 26.69,
-    "price_was": 39.49,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/596284303517940515514974307912.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T11:50:41.360423"
   }
 ]
