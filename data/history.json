@@ -8987,6 +8987,10 @@
     "561bdc581ec54498": {
       "title": "Fralda Personal Baby Premium Protection M 34 unidades",
       "posted_at": "2026-11-07T11:01:03.013443"
+    },
+    "987300c235dff839": {
+      "title": "Fralda Huggies Natural Care P 36 unidades",
+      "posted_at": "2026-11-07T11:30:53.546258"
     }
   },
   "results": [
@@ -42917,6 +42921,14 @@
       "post_id": "2260",
       "error": null,
       "at": "2026-11-07T11:01:03.012703"
+    },
+    {
+      "offer_id": "987300c235dff839",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2261",
+      "error": null,
+      "at": "2026-11-07T11:30:53.545525"
     }
   ]
 }

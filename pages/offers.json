@@ -1,5 +1,17 @@
 [
   {
+    "id": "987300c235dff839",
+    "title": "Fralda Huggies Natural Care P 36 unidades",
+    "price_now": 32.59,
+    "price_was": 53.4,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/903559285717940501717963487733.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T11:30:53.545790"
+  },
+  {
     "id": "561bdc581ec54498",
     "title": "Fralda Personal Baby Premium Protection M 34 unidades",
     "price_now": 24.22,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-06T19:41:17.104724"
-  },
-  {
-    "id": "977d331790b1097b",
-    "title": "Fralda Babysec UltraSec XG 56 unidades",
-    "price_now": 47.21,
-    "price_was": 101.58,
-    "discount_pct": 54,
-    "url": "https://www.amazon.com.br/dp/B07Z9T391J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/575532820217939930891334251889.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-06T19:40:57.632971"
   }
 ]
