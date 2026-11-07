@@ -9059,6 +9059,10 @@
     "27980e6874dc99b7": {
       "title": "Fralda Personal Baby Protect&Sec G 34 unidades",
       "posted_at": "2026-11-07T18:10:57.141427"
+    },
+    "a664cb943dec95f5": {
+      "title": "Fralda Patrulha Canina Cremer 5 Unidades",
+      "posted_at": "2026-11-07T18:50:51.003389"
     }
   },
   "results": [
@@ -43189,6 +43193,14 @@
       "post_id": "2278",
       "error": null,
       "at": "2026-11-07T18:10:57.140639"
+    },
+    {
+      "offer_id": "a664cb943dec95f5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2279",
+      "error": null,
+      "at": "2026-11-07T18:50:51.002307"
     }
   ]
 }

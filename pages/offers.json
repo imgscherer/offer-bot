@@ -1,5 +1,17 @@
 [
   {
+    "id": "a664cb943dec95f5",
+    "title": "Fralda Patrulha Canina Cremer 5 Unidades",
+    "price_now": 26.0,
+    "price_was": 51.77,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B09KX6WYGB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/983234372617940763906003485259.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T18:50:51.002704"
+  },
+  {
     "id": "27980e6874dc99b7",
     "title": "Fralda Personal Baby Protect&Sec G 34 unidades",
     "price_now": 25.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-07T13:01:12.927385"
-  },
-  {
-    "id": "57dd44d4ec9d5873",
-    "title": "Fralda-Calça MamyPoko Dia&Noite XG 52 Unidades",
-    "price_now": 65.52,
-    "price_was": 107.9,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0CHZBQKTV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/443308894117940556494390530817.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T13:01:03.398420"
   }
 ]
