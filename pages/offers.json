@@ -1,5 +1,17 @@
 [
   {
+    "id": "d7a9b6b61ae81ae5",
+    "title": "Graco Carrinho De Bebê Gêmeos Passeio Ready2grow Lx 2.0 Cz",
+    "price_now": 1898.9,
+    "price_was": 2990.0,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B08K2YFNDW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/274111098417940648091736756645.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T15:40:47.434664"
+  },
+  {
     "id": "d2c9d0f5f41db432",
     "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
     "price_now": 38.58,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-07T12:50:48.640083"
-  },
-  {
-    "id": "a821ed1153c79f46",
-    "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
-    "price_now": 26.0,
-    "price_was": 39.49,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/673512319417940538966893194338.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T12:30:48.846599"
   }
 ]

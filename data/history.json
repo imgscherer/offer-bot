@@ -9047,6 +9047,10 @@
     "d2c9d0f5f41db432": {
       "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
       "posted_at": "2026-11-07T15:20:52.266041"
+    },
+    "d7a9b6b61ae81ae5": {
+      "title": "Graco Carrinho De Bebê Gêmeos Passeio Ready2grow Lx 2.0 Cz",
+      "posted_at": "2026-11-07T15:40:47.435024"
     }
   },
   "results": [
@@ -43153,6 +43157,14 @@
       "post_id": "2275",
       "error": null,
       "at": "2026-11-07T15:20:52.265185"
+    },
+    {
+      "offer_id": "d7a9b6b61ae81ae5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2276",
+      "error": null,
+      "at": "2026-11-07T15:40:47.434297"
     }
   ]
 }
