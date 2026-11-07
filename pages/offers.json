@@ -1,5 +1,29 @@
 [
   {
+    "id": "561bdc581ec54498",
+    "title": "Fralda Personal Baby Premium Protection M 34 unidades",
+    "price_now": 24.22,
+    "price_was": 46.38,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/342077279917940487325022887910.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T11:01:03.012999"
+  },
+  {
+    "id": "50906439adb80214",
+    "title": "Fralda Personal Baby Premium Protection G 30 unidades",
+    "price_now": 24.22,
+    "price_was": 48.75,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/877103708617940487916587391524.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T11:00:52.437701"
+  },
+  {
     "id": "4a07c4719847e21c",
     "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
     "price_now": 13.99,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-06T19:40:57.632971"
-  },
-  {
-    "id": "f397f826d9eb5c3a",
-    "title": "Mili Fralda Baby Jumbinho G - 20 Unidades",
-    "price_now": 17.0,
-    "price_was": 33.22,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07GB34N8Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/967372293417939910094699274060.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-06T19:00:59.650954"
-  },
-  {
-    "id": "086919f34df28dac",
-    "title": "Escova para Mamadeiras e bico Philips Avent Azul",
-    "price_now": 29.85,
-    "price_was": 59.9,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B000MMOR46?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/607734469017939876523692958441.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-06T18:00:51.845641"
   }
 ]

@@ -8979,6 +8979,14 @@
     "4a07c4719847e21c": {
       "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
       "posted_at": "2026-11-07T10:00:47.535588"
+    },
+    "50906439adb80214": {
+      "title": "Fralda Personal Baby Premium Protection G 30 unidades",
+      "posted_at": "2026-11-07T11:00:52.438012"
+    },
+    "561bdc581ec54498": {
+      "title": "Fralda Personal Baby Premium Protection M 34 unidades",
+      "posted_at": "2026-11-07T11:01:03.013443"
     }
   },
   "results": [
@@ -42893,6 +42901,22 @@
       "post_id": "2258",
       "error": null,
       "at": "2026-11-07T10:00:47.534766"
+    },
+    {
+      "offer_id": "50906439adb80214",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2259",
+      "error": null,
+      "at": "2026-11-07T11:00:52.437375"
+    },
+    {
+      "offer_id": "561bdc581ec54498",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2260",
+      "error": null,
+      "at": "2026-11-07T11:01:03.012703"
     }
   ]
 }
