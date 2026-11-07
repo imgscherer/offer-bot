@@ -9031,6 +9031,10 @@
     "c144304a6415b696": {
       "title": "Fralda Pom Pom Protek G, 68 Unidades",
       "posted_at": "2026-11-07T13:20:53.185491"
+    },
+    "8472d0ec8a0ce15d": {
+      "title": "Fralda Pants Ajuste Total G 90 Unidades Pampers",
+      "posted_at": "2026-11-07T14:00:50.089842"
     }
   },
   "results": [
@@ -43097,6 +43101,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-07T13:50:42.605735"
+    },
+    {
+      "offer_id": "8472d0ec8a0ce15d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2272",
+      "error": null,
+      "at": "2026-11-07T14:00:50.089274"
+    },
+    {
+      "offer_id": "39fdc03a5b06a5a8",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-07T14:00:55.988745"
     }
   ]
 }
