@@ -1,5 +1,17 @@
 [
   {
+    "id": "c17220f54d6192ed",
+    "title": "Fralda Mili Love&Care Mega XXG 40 Unidades",
+    "price_now": 42.0,
+    "price_was": 72.98,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B07GG4VT6S?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/644002415817940551036383533683.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T12:50:48.640083"
+  },
+  {
     "id": "a821ed1153c79f46",
     "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
     "price_now": 26.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-06T22:01:07.591825"
-  },
-  {
-    "id": "a2a148cde34bea41",
-    "title": "Fralda Ultrasec Galinha Pintadinha Xg Babysec 30 Unidades",
-    "price_now": 30.74,
-    "price_was": 52.65,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B07C3JY2V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/948969345817940007339108401076.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-06T21:41:10.364236"
   }
 ]
