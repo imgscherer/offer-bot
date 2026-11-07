@@ -8999,6 +8999,10 @@
     "e0720f77801a22a3": {
       "title": "Fralda Mili Love & Care Premium XXG 40 unidades",
       "posted_at": "2026-11-07T12:10:47.575079"
+    },
+    "a821ed1153c79f46": {
+      "title": "Fralda Personal Baby Total Protect Pants M 28 unidades",
+      "posted_at": "2026-11-07T12:30:48.846862"
     }
   },
   "results": [
@@ -42953,6 +42957,22 @@
       "post_id": "2263",
       "error": null,
       "at": "2026-11-07T12:10:47.574388"
+    },
+    {
+      "offer_id": "a821ed1153c79f46",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2264",
+      "error": null,
+      "at": "2026-11-07T12:30:48.846336"
+    },
+    {
+      "offer_id": "39fdc03a5b06a5a8",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-07T12:31:03.350554"
     }
   ]
 }
