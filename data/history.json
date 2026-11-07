@@ -9007,6 +9007,26 @@
     "c17220f54d6192ed": {
       "title": "Fralda Mili Love&Care Mega XXG 40 Unidades",
       "posted_at": "2026-11-07T12:50:48.640453"
+    },
+    "d5e4140acddbdde6": {
+      "title": "Fralda Mili Love & Care Premium G 48 Unidades",
+      "posted_at": "2026-11-07T13:00:49.838200"
+    },
+    "57dd44d4ec9d5873": {
+      "title": "Fralda-Calça MamyPoko Dia&Noite XG 52 Unidades",
+      "posted_at": "2026-11-07T13:01:03.398834"
+    },
+    "ca95c16f055530f1": {
+      "title": "Fralda Huggies Supreme Care M 196 Un",
+      "posted_at": "2026-11-07T13:01:12.927804"
+    },
+    "b7a0882d06a6dea6": {
+      "title": "Fralda Pampers Confort Sec G 168 Unidades",
+      "posted_at": "2026-11-07T13:01:26.010917"
+    },
+    "babb6fab33f520c9": {
+      "title": "Fralda-Calça MamyPoko Dia&Noite M 40 Unidades",
+      "posted_at": "2026-11-07T13:01:36.190158"
     }
   },
   "results": [
@@ -43001,6 +43021,46 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-07T12:50:55.019446"
+    },
+    {
+      "offer_id": "d5e4140acddbdde6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2266",
+      "error": null,
+      "at": "2026-11-07T13:00:49.837447"
+    },
+    {
+      "offer_id": "57dd44d4ec9d5873",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2267",
+      "error": null,
+      "at": "2026-11-07T13:01:03.398097"
+    },
+    {
+      "offer_id": "ca95c16f055530f1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2268",
+      "error": null,
+      "at": "2026-11-07T13:01:12.927032"
+    },
+    {
+      "offer_id": "b7a0882d06a6dea6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2269",
+      "error": null,
+      "at": "2026-11-07T13:01:26.010202"
+    },
+    {
+      "offer_id": "babb6fab33f520c9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2270",
+      "error": null,
+      "at": "2026-11-07T13:01:36.189380"
     }
   ]
 }

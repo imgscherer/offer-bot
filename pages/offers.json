@@ -1,5 +1,65 @@
 [
   {
+    "id": "babb6fab33f520c9",
+    "title": "Fralda-Calça MamyPoko Dia&Noite M 40 Unidades",
+    "price_now": 41.83,
+    "price_was": 62.9,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0DK3P318Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/610572288917940556451284293502.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T13:01:36.189698"
+  },
+  {
+    "id": "b7a0882d06a6dea6",
+    "title": "Fralda Pampers Confort Sec G 168 Unidades",
+    "price_now": 158.0,
+    "price_was": 235.87,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/817604231217940561119530390895.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T13:01:26.010497"
+  },
+  {
+    "id": "ca95c16f055530f1",
+    "title": "Fralda Huggies Supreme Care M 196 Un",
+    "price_now": 142.0,
+    "price_was": 229.9,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/243150485417940561098285030552.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T13:01:12.927385"
+  },
+  {
+    "id": "57dd44d4ec9d5873",
+    "title": "Fralda-Calça MamyPoko Dia&Noite XG 52 Unidades",
+    "price_now": 65.52,
+    "price_was": 107.9,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0CHZBQKTV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/443308894117940556494390530817.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T13:01:03.398420"
+  },
+  {
+    "id": "d5e4140acddbdde6",
+    "title": "Fralda Mili Love & Care Premium G 48 Unidades",
+    "price_now": 41.63,
+    "price_was": 101.95,
+    "discount_pct": 59,
+    "url": "https://www.amazon.com.br/dp/B07GFRP89P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/364423786317940557097044371153.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T13:00:49.837833"
+  },
+  {
     "id": "c17220f54d6192ed",
     "title": "Fralda Mili Love&Care Mega XXG 40 Unidades",
     "price_now": 42.0,
@@ -82,65 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-07T11:00:52.437701"
-  },
-  {
-    "id": "4a07c4719847e21c",
-    "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
-    "price_now": 13.99,
-    "price_was": 19.99,
-    "discount_pct": 30,
-    "url": "https://s.shopee.com.br/7puZm8WrdY",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mpxyl5yh1csja8",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T10:00:47.535200"
-  },
-  {
-    "id": "e423cbd73a38894f",
-    "title": "Fralda-Calça MamyPoko Superproteção G 28 Unidades",
-    "price_now": 27.0,
-    "price_was": 42.9,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0D4363KSD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/975530001517940110481134609447.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T00:31:17.985539"
-  },
-  {
-    "id": "e317f77074fba4cc",
-    "title": "Fralda-Calça MamyPoko Superproteção XG 24 Unidades",
-    "price_now": 27.0,
-    "price_was": 42.9,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/918495857217940110558419169795.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T00:31:07.780522"
-  },
-  {
-    "id": "f781b93a8467fba9",
-    "title": "Fralda-Calça MamyPoko Superproteção XXG 22 Unidades",
-    "price_now": 27.0,
-    "price_was": 46.9,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/399034532217940110533306505553.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T00:31:01.030952"
-  },
-  {
-    "id": "d204c766669b7d08",
-    "title": "Fralda Ultrasec Galinha Pintadinha Xg Babysec 30 Unidades",
-    "price_now": 22.67,
-    "price_was": 40.63,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B0BTTKQV4P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/278589646617940014529783948033.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-06T22:01:07.591825"
   }
 ]
