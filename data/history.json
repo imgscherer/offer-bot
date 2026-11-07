@@ -9087,6 +9087,10 @@
     "1d9e87b1381827ff": {
       "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
       "posted_at": "2026-11-07T20:11:00.979289"
+    },
+    "43e962c5abcce3f1": {
+      "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
+      "posted_at": "2026-11-07T21:10:50.470329"
     }
   },
   "results": [
@@ -43273,6 +43277,14 @@
       "post_id": "2285",
       "error": null,
       "at": "2026-11-07T20:11:00.974957"
+    },
+    {
+      "offer_id": "43e962c5abcce3f1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2286",
+      "error": null,
+      "at": "2026-11-07T21:10:50.469555"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "43e962c5abcce3f1",
+    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
+    "price_now": 34.0,
+    "price_was": 52.65,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/159007822817940848545782710833.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T21:10:50.469899"
+  },
+  {
     "id": "1d9e87b1381827ff",
     "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
     "price_now": 46.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-07T15:20:52.265577"
-  },
-  {
-    "id": "6875f5efffe2b6c6",
-    "title": "Fralda Patrulha Canina Cremer - 5 Unidades",
-    "price_now": 26.69,
-    "price_was": 51.77,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B09KX6WYGB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/521381394617940631497898696217.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T15:00:54.170810"
   }
 ]
