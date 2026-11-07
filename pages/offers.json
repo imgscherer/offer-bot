@@ -1,5 +1,29 @@
 [
   {
+    "id": "795d023b26aea01a",
+    "title": "Fralda Huggies Supreme Care M, 196 Un",
+    "price_now": 149.9,
+    "price_was": 229.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/678763205217940808275904973347.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T20:01:07.597212"
+  },
+  {
+    "id": "7a64dc82c331d5d9",
+    "title": "Fralda-Calça MamyPoko Dia&Noite M 40 Unidades",
+    "price_now": 41.0,
+    "price_was": 62.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0DK3P318Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/464632036117940808899609633180.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T20:00:56.938320"
+  },
+  {
     "id": "217f98e4117e5652",
     "title": "Protex Baby Delicate Care Sabonete Líquido Infantil, 200ml",
     "price_now": 12.59,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-07T14:00:50.089544"
-  },
-  {
-    "id": "c144304a6415b696",
-    "title": "Fralda Pom Pom Protek G, 68 Unidades",
-    "price_now": 47.0,
-    "price_was": 77.37,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/377027682417940568909343495609.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T13:20:53.185037"
-  },
-  {
-    "id": "babb6fab33f520c9",
-    "title": "Fralda-Calça MamyPoko Dia&Noite M 40 Unidades",
-    "price_now": 41.83,
-    "price_was": 62.9,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0DK3P318Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/610572288917940556451284293502.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T13:01:36.189698"
   }
 ]

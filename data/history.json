@@ -9071,6 +9071,14 @@
     "217f98e4117e5652": {
       "title": "Protex Baby Delicate Care Sabonete Líquido Infantil, 200ml",
       "posted_at": "2026-11-07T19:11:09.932596"
+    },
+    "7a64dc82c331d5d9": {
+      "title": "Fralda-Calça MamyPoko Dia&Noite M 40 Unidades",
+      "posted_at": "2026-11-07T20:00:56.938772"
+    },
+    "795d023b26aea01a": {
+      "title": "Fralda Huggies Supreme Care M, 196 Un",
+      "posted_at": "2026-11-07T20:01:07.597672"
     }
   },
   "results": [
@@ -43225,6 +43233,22 @@
       "post_id": "2281",
       "error": null,
       "at": "2026-11-07T19:11:09.931904"
+    },
+    {
+      "offer_id": "7a64dc82c331d5d9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2282",
+      "error": null,
+      "at": "2026-11-07T20:00:56.937990"
+    },
+    {
+      "offer_id": "795d023b26aea01a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2283",
+      "error": null,
+      "at": "2026-11-07T20:01:07.596917"
     }
   ]
 }
