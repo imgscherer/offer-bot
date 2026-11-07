@@ -1,5 +1,29 @@
 [
   {
+    "id": "1d9e87b1381827ff",
+    "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
+    "price_now": 46.99,
+    "price_was": 77.27,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/479253491517940816676463827418.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T20:11:00.978056"
+  },
+  {
+    "id": "7d77e3bb8535089a",
+    "title": "Fralda-Calça MamyPoko Dia&Noite XG 52 Unidades",
+    "price_now": 65.0,
+    "price_was": 107.9,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0CHZBQKTV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/479079222817940814326884622564.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T20:10:50.266040"
+  },
+  {
     "id": "795d023b26aea01a",
     "title": "Fralda Huggies Supreme Care M, 196 Un",
     "price_now": 149.9,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-07T15:00:54.170810"
-  },
-  {
-    "id": "e4dfa74ed149eaaf",
-    "title": "Granado Sabonete Líquido Bebê, Camomila, 500ml",
-    "price_now": 26.59,
-    "price_was": 39.0,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0C2VWQZS6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/781658968717940596123950342876.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T14:10:49.153217"
-  },
-  {
-    "id": "8472d0ec8a0ce15d",
-    "title": "Fralda Pants Ajuste Total G 90 Unidades Pampers",
-    "price_now": 98.0,
-    "price_was": 194.9,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/704571909117940589335204633115.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T14:00:50.089544"
   }
 ]

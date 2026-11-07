@@ -9079,6 +9079,14 @@
     "795d023b26aea01a": {
       "title": "Fralda Huggies Supreme Care M, 196 Un",
       "posted_at": "2026-11-07T20:01:07.597672"
+    },
+    "7d77e3bb8535089a": {
+      "title": "Fralda-Calça MamyPoko Dia&Noite XG 52 Unidades",
+      "posted_at": "2026-11-07T20:10:50.268541"
+    },
+    "1d9e87b1381827ff": {
+      "title": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
+      "posted_at": "2026-11-07T20:11:00.979289"
     }
   },
   "results": [
@@ -43249,6 +43257,22 @@
       "post_id": "2283",
       "error": null,
       "at": "2026-11-07T20:01:07.596917"
+    },
+    {
+      "offer_id": "7d77e3bb8535089a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2284",
+      "error": null,
+      "at": "2026-11-07T20:10:50.261809"
+    },
+    {
+      "offer_id": "1d9e87b1381827ff",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2285",
+      "error": null,
+      "at": "2026-11-07T20:11:00.974957"
     }
   ]
 }
