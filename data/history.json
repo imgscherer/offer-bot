@@ -9063,6 +9063,14 @@
     "a664cb943dec95f5": {
       "title": "Fralda Patrulha Canina Cremer 5 Unidades",
       "posted_at": "2026-11-07T18:50:51.003389"
+    },
+    "fe473a8635c4e22b": {
+      "title": "Fralda Huggies Supreme Care Roupinha XG 64 unidades",
+      "posted_at": "2026-11-07T19:10:46.069340"
+    },
+    "217f98e4117e5652": {
+      "title": "Protex Baby Delicate Care Sabonete Líquido Infantil, 200ml",
+      "posted_at": "2026-11-07T19:11:09.932596"
     }
   },
   "results": [
@@ -43201,6 +43209,22 @@
       "post_id": "2279",
       "error": null,
       "at": "2026-11-07T18:50:51.002307"
+    },
+    {
+      "offer_id": "fe473a8635c4e22b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2280",
+      "error": null,
+      "at": "2026-11-07T19:10:46.068840"
+    },
+    {
+      "offer_id": "217f98e4117e5652",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2281",
+      "error": null,
+      "at": "2026-11-07T19:11:09.931904"
     }
   ]
 }

@@ -1,5 +1,29 @@
 [
   {
+    "id": "217f98e4117e5652",
+    "title": "Protex Baby Delicate Care Sabonete Líquido Infantil, 200ml",
+    "price_now": 12.59,
+    "price_was": 22.78,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B08JQNSTJY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/115099217317940777707509132382.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T19:11:09.932155"
+  },
+  {
+    "id": "fe473a8635c4e22b",
+    "title": "Fralda Huggies Supreme Care Roupinha XG 64 unidades",
+    "price_now": 68.39,
+    "price_was": 131.78,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/565286718817940776106074074381.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-07T19:10:46.069097"
+  },
+  {
     "id": "a664cb943dec95f5",
     "title": "Fralda Patrulha Canina Cremer 5 Unidades",
     "price_now": 26.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-07T13:01:36.189698"
-  },
-  {
-    "id": "b7a0882d06a6dea6",
-    "title": "Fralda Pampers Confort Sec G 168 Unidades",
-    "price_now": 158.0,
-    "price_was": 235.87,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/817604231217940561119530390895.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T13:01:26.010497"
-  },
-  {
-    "id": "ca95c16f055530f1",
-    "title": "Fralda Huggies Supreme Care M 196 Un",
-    "price_now": 142.0,
-    "price_was": 229.9,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/243150485417940561098285030552.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T13:01:12.927385"
   }
 ]
