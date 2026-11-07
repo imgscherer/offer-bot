@@ -9043,6 +9043,10 @@
     "6875f5efffe2b6c6": {
       "title": "Fralda Patrulha Canina Cremer - 5 Unidades",
       "posted_at": "2026-11-07T15:00:54.171130"
+    },
+    "d2c9d0f5f41db432": {
+      "title": "Fralda Calça Mamypoko Dia&noite P 46 Unidades",
+      "posted_at": "2026-11-07T15:20:52.266041"
     }
   },
   "results": [
@@ -43141,6 +43145,14 @@
       "post_id": "2274",
       "error": null,
       "at": "2026-11-07T15:00:54.170462"
+    },
+    {
+      "offer_id": "d2c9d0f5f41db432",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2275",
+      "error": null,
+      "at": "2026-11-07T15:20:52.265185"
     }
   ]
 }
