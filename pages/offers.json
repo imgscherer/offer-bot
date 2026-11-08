@@ -1,5 +1,29 @@
 [
   {
+    "id": "d5c0f1c313d76684",
+    "title": "Fralda Pampers Pants Premium Care G com 112",
+    "price_now": 126.0,
+    "price_was": 182.48,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B08K4MXDVX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/583938864817941391482464318390.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T12:11:10.661761"
+  },
+  {
+    "id": "eb8d5c7090fe5ad9",
+    "title": "Fralda Pampers Pants Premium Care XG com 96",
+    "price_now": 126.0,
+    "price_was": 182.45,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B08K4JSQ2M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/746702936017941391516710590698.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T12:10:58.871965"
+  },
+  {
     "id": "5b55ed37e56f790d",
     "title": "Carrinho de Bebê Maxi-Cosi Anna³",
     "price_now": 1485.41,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-08T10:21:05.963691"
-  },
-  {
-    "id": "f7eadbfb584ea7c3",
-    "title": "Fralda Pampers Premium Care Pants M 124 unidades",
-    "price_now": 120.55,
-    "price_was": 182.48,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0848FMW1W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/954871045317941320917202585016.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T10:20:50.362052"
-  },
-  {
-    "id": "d08a9276cfa7c679",
-    "title": "Mili Fralda XG Pacote com 22 Fraldas",
-    "price_now": 22.0,
-    "price_was": 42.48,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B07GB468ZM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/620672516517941043113067189529.png",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T02:20:48.425777"
   }
 ]

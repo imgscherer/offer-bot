@@ -9151,6 +9151,14 @@
     "5b55ed37e56f790d": {
       "title": "Carrinho de Bebê Maxi-Cosi Anna³",
       "posted_at": "2026-11-08T12:00:51.290755"
+    },
+    "eb8d5c7090fe5ad9": {
+      "title": "Fralda Pampers Pants Premium Care XG com 96",
+      "posted_at": "2026-11-08T12:10:58.872404"
+    },
+    "d5c0f1c313d76684": {
+      "title": "Fralda Pampers Pants Premium Care G com 112",
+      "posted_at": "2026-11-08T12:11:10.662173"
     }
   },
   "results": [
@@ -43465,6 +43473,22 @@
       "post_id": "2301",
       "error": null,
       "at": "2026-11-08T12:00:51.290235"
+    },
+    {
+      "offer_id": "eb8d5c7090fe5ad9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2302",
+      "error": null,
+      "at": "2026-11-08T12:10:58.871674"
+    },
+    {
+      "offer_id": "d5c0f1c313d76684",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2303",
+      "error": null,
+      "at": "2026-11-08T12:11:10.661498"
     }
   ]
 }
