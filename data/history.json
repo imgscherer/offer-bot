@@ -9199,6 +9199,10 @@
     "ce429899eed5a719": {
       "title": "Granado Sabonete Líquido Bebê Camomila 500ml",
       "posted_at": "2026-11-08T17:40:47.878134"
+    },
+    "a53b479f3a99ac00": {
+      "title": "Mili Fralda Infantil Love & Care G 48 Unidades",
+      "posted_at": "2026-11-08T18:20:48.979711"
     }
   },
   "results": [
@@ -43681,6 +43685,14 @@
       "post_id": "2313",
       "error": null,
       "at": "2026-11-08T17:40:47.877179"
+    },
+    {
+      "offer_id": "a53b479f3a99ac00",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2314",
+      "error": null,
+      "at": "2026-11-08T18:20:48.979152"
     }
   ]
 }

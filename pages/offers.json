@@ -1,5 +1,17 @@
 [
   {
+    "id": "a53b479f3a99ac00",
+    "title": "Mili Fralda Infantil Love & Care G 48 Unidades",
+    "price_now": 41.0,
+    "price_was": 101.95,
+    "discount_pct": 60,
+    "url": "https://www.amazon.com.br/dp/B07GFRP89P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/429006708117941618502337784148.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T18:20:48.979466"
+  },
+  {
     "id": "ce429899eed5a719",
     "title": "Granado Sabonete Líquido Bebê Camomila 500ml",
     "price_now": 26.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-08T12:11:10.661761"
-  },
-  {
-    "id": "eb8d5c7090fe5ad9",
-    "title": "Fralda Pampers Pants Premium Care XG com 96",
-    "price_now": 126.0,
-    "price_was": 182.45,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B08K4JSQ2M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/746702936017941391516710590698.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T12:10:58.871965"
   }
 ]
