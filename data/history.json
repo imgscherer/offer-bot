@@ -9135,6 +9135,18 @@
     "3dee89be036f9764": {
       "title": "Fralda Turma da Mônica Baby RN 36 Unidades",
       "posted_at": "2026-11-08T11:40:46.280332"
+    },
+    "12489f4c2a34177a": {
+      "title": "Carrinho de Bebê Maxi-Cosi Eva³",
+      "posted_at": "2026-11-08T11:50:45.225671"
+    },
+    "445885024f5e59b9": {
+      "title": "Fralda Pampers Recém Nascido RN+ (Até 5 kg), 36 Unidades",
+      "posted_at": "2026-11-08T11:51:00.168197"
+    },
+    "e4191d212df7c10f": {
+      "title": "Fralda Turma Da Mônica Baby G, 44 Unidades",
+      "posted_at": "2026-11-08T11:51:11.125001"
     }
   },
   "results": [
@@ -43417,6 +43429,30 @@
       "post_id": "2297",
       "error": null,
       "at": "2026-11-08T11:40:46.279598"
+    },
+    {
+      "offer_id": "12489f4c2a34177a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2298",
+      "error": null,
+      "at": "2026-11-08T11:50:45.224957"
+    },
+    {
+      "offer_id": "445885024f5e59b9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2299",
+      "error": null,
+      "at": "2026-11-08T11:51:00.167388"
+    },
+    {
+      "offer_id": "e4191d212df7c10f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2300",
+      "error": null,
+      "at": "2026-11-08T11:51:11.124300"
     }
   ]
 }
