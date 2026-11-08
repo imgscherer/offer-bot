@@ -9127,6 +9127,10 @@
     "d2783ad49363ac02": {
       "title": "Fralda Pampers Premium Care RN 36 unidades",
       "posted_at": "2026-11-08T10:21:47.817264"
+    },
+    "231ed69852a36f37": {
+      "title": "Fralda Turma da Mônica Baby P, 62 Unidades",
+      "posted_at": "2026-11-08T10:30:51.592068"
     }
   },
   "results": [
@@ -43393,6 +43397,14 @@
       "post_id": "2295",
       "error": null,
       "at": "2026-11-08T10:21:47.816553"
+    },
+    {
+      "offer_id": "231ed69852a36f37",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2296",
+      "error": null,
+      "at": "2026-11-08T10:30:51.591419"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "231ed69852a36f37",
+    "title": "Fralda Turma da Mônica Baby P, 62 Unidades",
+    "price_now": 34.98,
+    "price_was": 50.04,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/567695100817941331496247259450.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T10:30:51.591748"
+  },
+  {
     "id": "d2783ad49363ac02",
     "title": "Fralda Pampers Premium Care RN 36 unidades",
     "price_now": 35.98,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-07T20:11:00.978056"
-  },
-  {
-    "id": "7d77e3bb8535089a",
-    "title": "Fralda-Calça MamyPoko Dia&Noite XG 52 Unidades",
-    "price_now": 65.0,
-    "price_was": 107.9,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0CHZBQKTV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/479079222817940814326884622564.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T20:10:50.266040"
   }
 ]
