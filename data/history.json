@@ -9147,6 +9147,10 @@
     "e4191d212df7c10f": {
       "title": "Fralda Turma Da Mônica Baby G, 44 Unidades",
       "posted_at": "2026-11-08T11:51:11.125001"
+    },
+    "5b55ed37e56f790d": {
+      "title": "Carrinho de Bebê Maxi-Cosi Anna³",
+      "posted_at": "2026-11-08T12:00:51.290755"
     }
   },
   "results": [
@@ -43453,6 +43457,14 @@
       "post_id": "2300",
       "error": null,
       "at": "2026-11-08T11:51:11.124300"
+    },
+    {
+      "offer_id": "5b55ed37e56f790d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2301",
+      "error": null,
+      "at": "2026-11-08T12:00:51.290235"
     }
   ]
 }

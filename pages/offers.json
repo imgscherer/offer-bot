@@ -1,5 +1,17 @@
 [
   {
+    "id": "5b55ed37e56f790d",
+    "title": "Carrinho de Bebê Maxi-Cosi Anna³",
+    "price_now": 1485.41,
+    "price_was": 2999.0,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B0DK3YVQN2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/795305698117941386727118780450.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T12:00:51.290527"
+  },
+  {
     "id": "e4191d212df7c10f",
     "title": "Fralda Turma Da Mônica Baby G, 44 Unidades",
     "price_now": 34.88,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-08T02:20:48.425777"
-  },
-  {
-    "id": "079a1c9269e56a56",
-    "title": "Fralda Turma Da Mônica Baby Rn, 36 Unidades",
-    "price_now": 19.89,
-    "price_was": 28.68,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/225552512517940968516578762707.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T00:30:51.330710"
   }
 ]
