@@ -9107,6 +9107,26 @@
     "d08a9276cfa7c679": {
       "title": "Mili Fralda XG Pacote com 22 Fraldas",
       "posted_at": "2026-11-08T02:20:48.428312"
+    },
+    "f7eadbfb584ea7c3": {
+      "title": "Fralda Pampers Premium Care Pants M 124 unidades",
+      "posted_at": "2026-11-08T10:20:50.362513"
+    },
+    "5fbf68bf0bb8f8d5": {
+      "title": "Fralda Pampers Premium Care Pants XXG 90 Unidades",
+      "posted_at": "2026-11-08T10:21:05.964272"
+    },
+    "8ca6823af92f0803": {
+      "title": "Fralda Pampers Premium Care Pants G 112 Unidades",
+      "posted_at": "2026-11-08T10:21:18.590261"
+    },
+    "3b59afbdedd7d7e1": {
+      "title": "Fralda Pampers Premium Care Pants XG 96 Unidades",
+      "posted_at": "2026-11-08T10:21:30.310415"
+    },
+    "d2783ad49363ac02": {
+      "title": "Fralda Pampers Premium Care RN 36 unidades",
+      "posted_at": "2026-11-08T10:21:47.817264"
     }
   },
   "results": [
@@ -43333,6 +43353,46 @@
       "post_id": "2290",
       "error": null,
       "at": "2026-11-08T02:20:48.425540"
+    },
+    {
+      "offer_id": "f7eadbfb584ea7c3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2291",
+      "error": null,
+      "at": "2026-11-08T10:20:50.361767"
+    },
+    {
+      "offer_id": "5fbf68bf0bb8f8d5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2292",
+      "error": null,
+      "at": "2026-11-08T10:21:05.963355"
+    },
+    {
+      "offer_id": "8ca6823af92f0803",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2293",
+      "error": null,
+      "at": "2026-11-08T10:21:18.589533"
+    },
+    {
+      "offer_id": "3b59afbdedd7d7e1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2294",
+      "error": null,
+      "at": "2026-11-08T10:21:30.309742"
+    },
+    {
+      "offer_id": "d2783ad49363ac02",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2295",
+      "error": null,
+      "at": "2026-11-08T10:21:47.816553"
     }
   ]
 }

@@ -1,5 +1,65 @@
 [
   {
+    "id": "d2783ad49363ac02",
+    "title": "Fralda Pampers Premium Care RN 36 unidades",
+    "price_now": 35.98,
+    "price_was": 52.83,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B07GQB93FT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/737056414117941327872577885125.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T10:21:47.816818"
+  },
+  {
+    "id": "3b59afbdedd7d7e1",
+    "title": "Fralda Pampers Premium Care Pants XG 96 Unidades",
+    "price_now": 120.55,
+    "price_was": 182.45,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B08K4JSQ2M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/860248829517941320842255239044.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T10:21:30.309992"
+  },
+  {
+    "id": "8ca6823af92f0803",
+    "title": "Fralda Pampers Premium Care Pants G 112 Unidades",
+    "price_now": 120.55,
+    "price_was": 182.48,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B08K4MXDVX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/234394144617941320886935468202.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T10:21:18.589803"
+  },
+  {
+    "id": "5fbf68bf0bb8f8d5",
+    "title": "Fralda Pampers Premium Care Pants XXG 90 Unidades",
+    "price_now": 120.55,
+    "price_was": 182.45,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B08K4L452V?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/901128543917941320906404767140.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T10:21:05.963691"
+  },
+  {
+    "id": "f7eadbfb584ea7c3",
+    "title": "Fralda Pampers Premium Care Pants M 124 unidades",
+    "price_now": 120.55,
+    "price_was": 182.48,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0848FMW1W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/954871045317941320917202585016.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T10:20:50.362052"
+  },
+  {
     "id": "d08a9276cfa7c679",
     "title": "Mili Fralda XG Pacote com 22 Fraldas",
     "price_now": 22.0,
@@ -82,65 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-07T20:10:50.266040"
-  },
-  {
-    "id": "795d023b26aea01a",
-    "title": "Fralda Huggies Supreme Care M, 196 Un",
-    "price_now": 149.9,
-    "price_was": 229.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/678763205217940808275904973347.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T20:01:07.597212"
-  },
-  {
-    "id": "7a64dc82c331d5d9",
-    "title": "Fralda-Calça MamyPoko Dia&Noite M 40 Unidades",
-    "price_now": 41.0,
-    "price_was": 62.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0DK3P318Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/464632036117940808899609633180.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T20:00:56.938320"
-  },
-  {
-    "id": "217f98e4117e5652",
-    "title": "Protex Baby Delicate Care Sabonete Líquido Infantil, 200ml",
-    "price_now": 12.59,
-    "price_was": 22.78,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B08JQNSTJY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/115099217317940777707509132382.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T19:11:09.932155"
-  },
-  {
-    "id": "fe473a8635c4e22b",
-    "title": "Fralda Huggies Supreme Care Roupinha XG 64 unidades",
-    "price_now": 68.39,
-    "price_was": 131.78,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/565286718817940776106074074381.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T19:10:46.069097"
-  },
-  {
-    "id": "a664cb943dec95f5",
-    "title": "Fralda Patrulha Canina Cremer 5 Unidades",
-    "price_now": 26.0,
-    "price_was": 51.77,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B09KX6WYGB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/983234372617940763906003485259.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T18:50:51.002704"
   }
 ]
