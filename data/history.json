@@ -9099,6 +9099,10 @@
     "7af5a4fd58037c82": {
       "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
       "posted_at": "2026-11-07T22:01:11.659343"
+    },
+    "079a1c9269e56a56": {
+      "title": "Fralda Turma Da Mônica Baby Rn, 36 Unidades",
+      "posted_at": "2026-11-08T00:30:51.331104"
     }
   },
   "results": [
@@ -43309,6 +43313,14 @@
       "post_id": "2288",
       "error": null,
       "at": "2026-11-07T22:01:11.658602"
+    },
+    {
+      "offer_id": "079a1c9269e56a56",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2289",
+      "error": null,
+      "at": "2026-11-08T00:30:51.330449"
     }
   ]
 }
