@@ -1,5 +1,17 @@
 [
   {
+    "id": "ce429899eed5a719",
+    "title": "Granado Sabonete Líquido Bebê Camomila 500ml",
+    "price_now": 26.0,
+    "price_was": 39.0,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0C2VWQZS6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/279637477617941587749847877527.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T17:40:47.877523"
+  },
+  {
     "id": "637f0be5674d4d39",
     "title": "Suporte Baba Eletronica Para Berco Universal",
     "price_now": 16.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-08T12:10:58.871965"
-  },
-  {
-    "id": "5b55ed37e56f790d",
-    "title": "Carrinho de Bebê Maxi-Cosi Anna³",
-    "price_now": 1485.41,
-    "price_was": 2999.0,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B0DK3YVQN2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/795305698117941386727118780450.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T12:00:51.290527"
   }
 ]
