@@ -9187,6 +9187,10 @@
     "e87729a21ea7b6d8": {
       "title": "Fralda Baby Premium Protection M 34 Unidades",
       "posted_at": "2026-11-08T15:30:56.047764"
+    },
+    "408799e3ee74e14f": {
+      "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
+      "posted_at": "2026-11-08T15:50:46.870081"
     }
   },
   "results": [
@@ -43645,6 +43649,14 @@
       "post_id": "2310",
       "error": null,
       "at": "2026-11-08T15:30:56.046956"
+    },
+    {
+      "offer_id": "408799e3ee74e14f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2311",
+      "error": null,
+      "at": "2026-11-08T15:50:46.869352"
     }
   ]
 }
