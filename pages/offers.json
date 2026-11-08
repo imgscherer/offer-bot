@@ -1,5 +1,17 @@
 [
   {
+    "id": "62a4b07588a86660",
+    "title": "Garrafa Térmica Infantil 350ml com Bico Antivazamento e Alça de Transporte (Off White)",
+    "price_now": 40.84,
+    "price_was": 59.99,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0GJFRLPFH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/869130058417941679741846441824.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T20:10:45.792246"
+  },
+  {
     "id": "a53b479f3a99ac00",
     "title": "Mili Fralda Infantil Love & Care G 48 Unidades",
     "price_now": 41.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-08T12:20:44.336351"
-  },
-  {
-    "id": "d5c0f1c313d76684",
-    "title": "Fralda Pampers Pants Premium Care G com 112",
-    "price_now": 126.0,
-    "price_was": 182.48,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B08K4MXDVX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/583938864817941391482464318390.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T12:11:10.661761"
   }
 ]

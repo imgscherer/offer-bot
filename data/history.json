@@ -9203,6 +9203,10 @@
     "a53b479f3a99ac00": {
       "title": "Mili Fralda Infantil Love & Care G 48 Unidades",
       "posted_at": "2026-11-08T18:20:48.979711"
+    },
+    "62a4b07588a86660": {
+      "title": "Garrafa Térmica Infantil 350ml com Bico Antivazamento e Alça de Transporte (Off White)",
+      "posted_at": "2026-11-08T20:10:45.792556"
     }
   },
   "results": [
@@ -43693,6 +43697,14 @@
       "post_id": "2314",
       "error": null,
       "at": "2026-11-08T18:20:48.979152"
+    },
+    {
+      "offer_id": "62a4b07588a86660",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2315",
+      "error": null,
+      "at": "2026-11-08T20:10:45.791904"
     }
   ]
 }
