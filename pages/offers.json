@@ -1,5 +1,17 @@
 [
   {
+    "id": "056bab3366ed1811",
+    "title": "Fralda Pampers Pants Ajuste Total G 144 unidades",
+    "price_now": 148.9,
+    "price_was": 229.49,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/351543084217941695725534683162.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T20:30:51.471322"
+  },
+  {
     "id": "62a4b07588a86660",
     "title": "Garrafa Térmica Infantil 350ml com Bico Antivazamento e Alça de Transporte (Off White)",
     "price_now": 40.84,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-08T12:50:49.352085"
-  },
-  {
-    "id": "2eb9787f86b44511",
-    "title": "Fralda Turma da Mônica Baby G, 44 Unidades",
-    "price_now": 33.14,
-    "price_was": 50.04,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/274341020917941396903035330994.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T12:20:44.336351"
   }
 ]

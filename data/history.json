@@ -9207,6 +9207,10 @@
     "62a4b07588a86660": {
       "title": "Garrafa Térmica Infantil 350ml com Bico Antivazamento e Alça de Transporte (Off White)",
       "posted_at": "2026-11-08T20:10:45.792556"
+    },
+    "056bab3366ed1811": {
+      "title": "Fralda Pampers Pants Ajuste Total G 144 unidades",
+      "posted_at": "2026-11-08T20:30:51.471568"
     }
   },
   "results": [
@@ -43705,6 +43709,14 @@
       "post_id": "2315",
       "error": null,
       "at": "2026-11-08T20:10:45.791904"
+    },
+    {
+      "offer_id": "056bab3366ed1811",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2316",
+      "error": null,
+      "at": "2026-11-08T20:30:51.471078"
     }
   ]
 }
