@@ -1,5 +1,17 @@
 [
   {
+    "id": "a440a94067c69f3c",
+    "title": "Fralda Turma da Mônica Baby G 44 Unidades",
+    "price_now": 33.0,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/277006566217941441919365715560.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T13:31:02.062064"
+  },
+  {
     "id": "65784e506a6b94ae",
     "title": "Brinquedo Educativo Infantil Carrinho de Montar com Engrenagens 6 Peças Interativo para Crianças a Partir de 3 Anos",
     "price_now": 34.93,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-08T10:30:51.591748"
-  },
-  {
-    "id": "d2783ad49363ac02",
-    "title": "Fralda Pampers Premium Care RN 36 unidades",
-    "price_now": 35.98,
-    "price_was": 52.83,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B07GQB93FT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/737056414117941327872577885125.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T10:21:47.816818"
   }
 ]
