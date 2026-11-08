@@ -1,5 +1,17 @@
 [
   {
+    "id": "2eb9787f86b44511",
+    "title": "Fralda Turma da Mônica Baby G, 44 Unidades",
+    "price_now": 33.14,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/274341020917941396903035330994.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T12:20:44.336351"
+  },
+  {
     "id": "d5c0f1c313d76684",
     "title": "Fralda Pampers Pants Premium Care G com 112",
     "price_now": 126.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-08T10:21:18.589803"
-  },
-  {
-    "id": "5fbf68bf0bb8f8d5",
-    "title": "Fralda Pampers Premium Care Pants XXG 90 Unidades",
-    "price_now": 120.55,
-    "price_was": 182.45,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B08K4L452V?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/901128543917941320906404767140.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T10:21:05.963691"
   }
 ]

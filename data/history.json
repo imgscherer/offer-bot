@@ -9159,6 +9159,10 @@
     "d5c0f1c313d76684": {
       "title": "Fralda Pampers Pants Premium Care G com 112",
       "posted_at": "2026-11-08T12:11:10.662173"
+    },
+    "2eb9787f86b44511": {
+      "title": "Fralda Turma da Mônica Baby G, 44 Unidades",
+      "posted_at": "2026-11-08T12:20:44.336687"
     }
   },
   "results": [
@@ -43489,6 +43493,14 @@
       "post_id": "2303",
       "error": null,
       "at": "2026-11-08T12:11:10.661498"
+    },
+    {
+      "offer_id": "2eb9787f86b44511",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2304",
+      "error": null,
+      "at": "2026-11-08T12:20:44.336009"
     }
   ]
 }
