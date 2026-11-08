@@ -1,5 +1,17 @@
 [
   {
+    "id": "d08a9276cfa7c679",
+    "title": "Mili Fralda XG Pacote com 22 Fraldas",
+    "price_now": 22.0,
+    "price_was": 42.48,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B07GB468ZM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/620672516517941043113067189529.png",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T02:20:48.425777"
+  },
+  {
     "id": "079a1c9269e56a56",
     "title": "Fralda Turma Da Mônica Baby Rn, 36 Unidades",
     "price_now": 19.89,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-07T18:50:51.002704"
-  },
-  {
-    "id": "27980e6874dc99b7",
-    "title": "Fralda Personal Baby Protect&Sec G 34 unidades",
-    "price_now": 25.0,
-    "price_was": 37.02,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/935251209017940747086391870057.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-07T18:10:57.141000"
   }
 ]

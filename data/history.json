@@ -9103,6 +9103,10 @@
     "079a1c9269e56a56": {
       "title": "Fralda Turma Da Mônica Baby Rn, 36 Unidades",
       "posted_at": "2026-11-08T00:30:51.331104"
+    },
+    "d08a9276cfa7c679": {
+      "title": "Mili Fralda XG Pacote com 22 Fraldas",
+      "posted_at": "2026-11-08T02:20:48.428312"
     }
   },
   "results": [
@@ -43321,6 +43325,14 @@
       "post_id": "2289",
       "error": null,
       "at": "2026-11-08T00:30:51.330449"
+    },
+    {
+      "offer_id": "d08a9276cfa7c679",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2290",
+      "error": null,
+      "at": "2026-11-08T02:20:48.425540"
     }
   ]
 }
