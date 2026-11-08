@@ -1,5 +1,17 @@
 [
   {
+    "id": "65784e506a6b94ae",
+    "title": "Brinquedo Educativo Infantil Carrinho de Montar com Engrenagens 6 Peças Interativo para Crianças a Partir de 3 Anos",
+    "price_now": 34.93,
+    "price_was": 49.9,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/6fihIE2gmt",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-muchip0n6aypf2",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T13:00:52.296251"
+  },
+  {
     "id": "861aee9a0ff4efe8",
     "title": "Carrinho de Bebê Maxi-Cosi Anna³ Select Grey",
     "price_now": 1485.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-08T10:21:47.816818"
-  },
-  {
-    "id": "3b59afbdedd7d7e1",
-    "title": "Fralda Pampers Premium Care Pants XG 96 Unidades",
-    "price_now": 120.55,
-    "price_was": 182.45,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B08K4JSQ2M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/860248829517941320842255239044.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T10:21:30.309992"
   }
 ]
