@@ -1,5 +1,17 @@
 [
   {
+    "id": "e87729a21ea7b6d8",
+    "title": "Fralda Baby Premium Protection M 34 Unidades",
+    "price_now": 25.0,
+    "price_was": 46.38,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/689058859817941508684075163230.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T15:30:56.047290"
+  },
+  {
     "id": "9b3ab9f0a94fe51f",
     "title": "Carrinho de Bebê Maxi-Cosi Eva³ Select Grey",
     "price_now": 1466.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-08T11:51:00.167753"
-  },
-  {
-    "id": "12489f4c2a34177a",
-    "title": "Carrinho de Bebê Maxi-Cosi Eva³",
-    "price_now": 1466.0,
-    "price_was": 2299.0,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0DB8YZMK3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/779351437917941378928169917973.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T11:50:45.225350"
   }
 ]

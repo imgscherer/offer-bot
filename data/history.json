@@ -9183,6 +9183,10 @@
     "9b3ab9f0a94fe51f": {
       "title": "Carrinho de Bebê Maxi-Cosi Eva³ Select Grey",
       "posted_at": "2026-11-08T14:20:49.501496"
+    },
+    "e87729a21ea7b6d8": {
+      "title": "Fralda Baby Premium Protection M 34 Unidades",
+      "posted_at": "2026-11-08T15:30:56.047764"
     }
   },
   "results": [
@@ -43633,6 +43637,14 @@
       "post_id": "2309",
       "error": null,
       "at": "2026-11-08T14:20:49.500738"
+    },
+    {
+      "offer_id": "e87729a21ea7b6d8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2310",
+      "error": null,
+      "at": "2026-11-08T15:30:56.046956"
     }
   ]
 }
