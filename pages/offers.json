@@ -1,5 +1,17 @@
 [
   {
+    "id": "637f0be5674d4d39",
+    "title": "Suporte Baba Eletronica Para Berco Universal",
+    "price_now": 16.99,
+    "price_was": 42.47,
+    "discount_pct": 60,
+    "url": "https://s.shopee.com.br/9AQ2T5KY95?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/438168426217941535521117459584.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-08T16:10:47.630613"
+  },
+  {
     "id": "408799e3ee74e14f",
     "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
     "price_now": 46.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-08T12:00:51.290527"
-  },
-  {
-    "id": "e4191d212df7c10f",
-    "title": "Fralda Turma Da Mônica Baby G, 44 Unidades",
-    "price_now": 34.88,
-    "price_was": 50.04,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/735764909717941378405905737015.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T11:51:11.124622"
   }
 ]

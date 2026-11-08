@@ -9191,6 +9191,10 @@
     "408799e3ee74e14f": {
       "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
       "posted_at": "2026-11-08T15:50:46.870081"
+    },
+    "637f0be5674d4d39": {
+      "title": "Suporte Baba Eletronica Para Berco Universal",
+      "posted_at": "2026-11-08T16:10:47.630877"
     }
   },
   "results": [
@@ -43657,6 +43661,14 @@
       "post_id": "2311",
       "error": null,
       "at": "2026-11-08T15:50:46.869352"
+    },
+    {
+      "offer_id": "637f0be5674d4d39",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2312",
+      "error": null,
+      "at": "2026-11-08T16:10:47.630316"
     }
   ]
 }
