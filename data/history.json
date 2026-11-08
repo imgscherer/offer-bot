@@ -9211,6 +9211,10 @@
     "056bab3366ed1811": {
       "title": "Fralda Pampers Pants Ajuste Total G 144 unidades",
       "posted_at": "2026-11-08T20:30:51.471568"
+    },
+    "56bcb0e3de1d4be7": {
+      "title": "Body Bebê Meu 1º Primeiro Natal e Ano Novo (Tam. P ao GG)",
+      "posted_at": "2026-11-08T21:50:59.245299"
     }
   },
   "results": [
@@ -43717,6 +43721,14 @@
       "post_id": "2316",
       "error": null,
       "at": "2026-11-08T20:30:51.471078"
+    },
+    {
+      "offer_id": "56bcb0e3de1d4be7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2317",
+      "error": null,
+      "at": "2026-11-08T21:50:59.244600"
     }
   ]
 }
