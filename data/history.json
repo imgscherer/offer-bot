@@ -9303,6 +9303,10 @@
     "ad5aa3d78f19f813": {
       "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
       "posted_at": "2026-11-09T14:50:42.629847"
+    },
+    "13efafe5ea894402": {
+      "title": "Fralda Personal Baby Total Protect Pants G 44 unidades",
+      "posted_at": "2026-11-09T15:00:47.848770"
     }
   },
   "results": [
@@ -44545,6 +44549,22 @@
       "post_id": "2339",
       "error": null,
       "at": "2026-11-09T14:50:42.629275"
+    },
+    {
+      "offer_id": "13efafe5ea894402",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2340",
+      "error": null,
+      "at": "2026-11-09T15:00:47.848110"
+    },
+    {
+      "offer_id": "9783bc38db32ecf1",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-09T15:01:00.774539"
     }
   ]
 }
