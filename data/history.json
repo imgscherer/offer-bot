@@ -9371,6 +9371,18 @@
     "435292388b6ebc04": {
       "title": "Chupeta Ultra Air Dupla 6-18 Meses -Avent",
       "posted_at": "2026-11-09T19:41:10.611044"
+    },
+    "08c5a8d5274455a7": {
+      "title": "Buba Lixeira Antiodor Para Fraldas",
+      "posted_at": "2026-11-09T20:20:41.705654"
+    },
+    "9e0995a2194db504": {
+      "title": "Fraldas Pampers Pants Ajuste Total M 108 unidades",
+      "posted_at": "2026-11-09T20:20:53.084595"
+    },
+    "99a5057594cb2dc6": {
+      "title": "Chupeta Ultra Air Dupla 6-18 Meses Avent",
+      "posted_at": "2026-11-09T20:21:03.323998"
     }
   },
   "results": [
@@ -44789,6 +44801,30 @@
       "post_id": "2356",
       "error": null,
       "at": "2026-11-09T19:41:10.610252"
+    },
+    {
+      "offer_id": "08c5a8d5274455a7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2357",
+      "error": null,
+      "at": "2026-11-09T20:20:41.705090"
+    },
+    {
+      "offer_id": "9e0995a2194db504",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2358",
+      "error": null,
+      "at": "2026-11-09T20:20:53.083910"
+    },
+    {
+      "offer_id": "99a5057594cb2dc6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2359",
+      "error": null,
+      "at": "2026-11-09T20:21:03.323292"
     }
   ]
 }

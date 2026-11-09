@@ -1,5 +1,41 @@
 [
   {
+    "id": "99a5057594cb2dc6",
+    "title": "Chupeta Ultra Air Dupla 6-18 Meses Avent",
+    "price_now": 57.0,
+    "price_was": 82.9,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0DGTQBP89?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/335521936917942553133861327341.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T20:21:03.323559"
+  },
+  {
+    "id": "9e0995a2194db504",
+    "title": "Fraldas Pampers Pants Ajuste Total M 108 unidades",
+    "price_now": 98.89,
+    "price_was": 194.9,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/986197189017942547874770992907.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T20:20:53.084177"
+  },
+  {
+    "id": "08c5a8d5274455a7",
+    "title": "Buba Lixeira Antiodor Para Fraldas",
+    "price_now": 129.0,
+    "price_was": 304.9,
+    "discount_pct": 58,
+    "url": "https://www.amazon.com.br/dp/B0C5GP554J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/321938079617942551511942359939.png",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T20:20:41.705391"
+  },
+  {
     "id": "435292388b6ebc04",
     "title": "Chupeta Ultra Air Dupla 6-18 Meses -Avent",
     "price_now": 57.59,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T17:41:00.756803"
-  },
-  {
-    "id": "76ab95fbe49d8814",
-    "title": "Carrinho De Passeio Com Bebê Conforto Travel System NIVI Maxi Baby",
-    "price_now": 685.0,
-    "price_was": 1399.9,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B0FMFWWD8H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/784984258817942450538352838735.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T17:40:48.148641"
-  },
-  {
-    "id": "c8f3b05ec3fd3008",
-    "title": "Graco Carrinho de Bebê Modes Pramette 2 em 1 Reversível Pierce Preto",
-    "price_now": 1544.0,
-    "price_was": 3690.0,
-    "discount_pct": 58,
-    "url": "https://www.amazon.com.br/dp/B07Y5X8G4B?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/818963379617942427717557426993.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T16:50:54.066996"
-  },
-  {
-    "id": "134a0e647d6c1fb2",
-    "title": "Almofada Atividade Bebê Tummy Time Sensorial Squeak Maxi Baby",
-    "price_now": 74.0,
-    "price_was": 239.9,
-    "discount_pct": 69,
-    "url": "https://www.amazon.com.br/dp/B0GQJDKDQN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/637030579517942413423097936900.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T16:30:47.976343"
   }
 ]
