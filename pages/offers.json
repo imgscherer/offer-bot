@@ -1,5 +1,17 @@
 [
   {
+    "id": "e5de0d91cf13741f",
+    "title": "Galzerano Carrinho Napoli Travel System Preto Cobre",
+    "price_now": 863.0,
+    "price_was": 1499.0,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0CMR7LXW6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/462290966917942364132041222610.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T15:10:45.247011"
+  },
+  {
     "id": "13efafe5ea894402",
     "title": "Fralda Personal Baby Total Protect Pants G 44 unidades",
     "price_now": 43.76,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T12:11:09.833549"
-  },
-  {
-    "id": "80cfcd5e0a6aa58e",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidade",
-    "price_now": 29.18,
-    "price_was": 50.29,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/300452577917942256747688121410.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T12:10:56.564497"
   }
 ]
