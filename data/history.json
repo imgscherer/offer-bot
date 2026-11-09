@@ -9227,6 +9227,10 @@
     "93341722c8a480ae": {
       "title": "Creme Preventivo de Assaduras para Bebês Hipoglós, Fragrância Suave, 120g",
       "posted_at": "2026-11-09T00:50:44.015047"
+    },
+    "f92872d685e5d3e1": {
+      "title": "Bandeja Assento Carro Bebê Portátil Poliéster Impermeável Mesa Criança Carrinho Acessórios",
+      "posted_at": "2026-11-09T08:10:45.997157"
     }
   },
   "results": [
@@ -44165,6 +44169,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-09T08:00:53.576673"
+    },
+    {
+      "offer_id": "f92872d685e5d3e1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2321",
+      "error": null,
+      "at": "2026-11-09T08:10:45.996438"
+    },
+    {
+      "offer_id": "716157329cd5294e",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-09T08:10:55.759657"
     }
   ]
 }
