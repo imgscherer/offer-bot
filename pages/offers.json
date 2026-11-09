@@ -1,5 +1,53 @@
 [
   {
+    "id": "010a2e3742b722de",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe XG 38 unidade",
+    "price_now": 29.18,
+    "price_was": 50.29,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/955859788017942256699619523011.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T12:11:23.978575"
+  },
+  {
+    "id": "f0b5200a387c0b15",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe M 48 unidade",
+    "price_now": 29.18,
+    "price_was": 50.29,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/835617093117942256718805295591.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T12:11:09.833549"
+  },
+  {
+    "id": "80cfcd5e0a6aa58e",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidade",
+    "price_now": 29.18,
+    "price_was": 50.29,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/300452577917942256747688121410.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T12:10:56.564497"
+  },
+  {
+    "id": "4850b9d9c847e350",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe P 54 unidades",
+    "price_now": 29.18,
+    "price_was": 50.29,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B093GBK61Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/628934736017942256732137783003.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T12:10:46.755852"
+  },
+  {
     "id": "8a937349155c3091",
     "title": "Fralda Pampers Pants Ajuste Total G 144 Unidades",
     "price_now": 148.0,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T00:50:44.014726"
-  },
-  {
-    "id": "6d97ce73504dd937",
-    "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
-    "price_now": 60.0,
-    "price_was": 101.58,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/956988870617941841518030967828.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T00:41:01.056564"
-  },
-  {
-    "id": "e4bad77516630ff5",
-    "title": "Fralda Mili Love and Care Mega P 56 Unidades",
-    "price_now": 44.0,
-    "price_was": 85.6,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07GG1YT1W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/210093136817941752246097830647.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T22:10:48.157783"
-  },
-  {
-    "id": "56bcb0e3de1d4be7",
-    "title": "Body Bebê Meu 1º Primeiro Natal e Ano Novo (Tam. P ao GG)",
-    "price_now": 22.7,
-    "price_was": 35.15,
-    "discount_pct": 35,
-    "url": "https://s.shopee.com.br/4LKn5LVBCm?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/726758434117941737727394803045.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T21:50:59.244888"
-  },
-  {
-    "id": "056bab3366ed1811",
-    "title": "Fralda Pampers Pants Ajuste Total G 144 unidades",
-    "price_now": 148.9,
-    "price_was": 229.49,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/351543084217941695725534683162.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T20:30:51.471322"
   }
 ]

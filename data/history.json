@@ -9255,6 +9255,22 @@
     "8a937349155c3091": {
       "title": "Fralda Pampers Pants Ajuste Total G 144 Unidades",
       "posted_at": "2026-11-09T11:50:56.889016"
+    },
+    "4850b9d9c847e350": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe P 54 unidades",
+      "posted_at": "2026-11-09T12:10:46.756229"
+    },
+    "80cfcd5e0a6aa58e": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidade",
+      "posted_at": "2026-11-09T12:10:56.564987"
+    },
+    "f0b5200a387c0b15": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe M 48 unidade",
+      "posted_at": "2026-11-09T12:11:09.834070"
+    },
+    "010a2e3742b722de": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe XG 38 unidade",
+      "posted_at": "2026-11-09T12:11:23.980682"
     }
   },
   "results": [
@@ -44401,6 +44417,38 @@
       "post_id": "2327",
       "error": null,
       "at": "2026-11-09T11:50:56.888236"
+    },
+    {
+      "offer_id": "4850b9d9c847e350",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2328",
+      "error": null,
+      "at": "2026-11-09T12:10:46.755440"
+    },
+    {
+      "offer_id": "80cfcd5e0a6aa58e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2329",
+      "error": null,
+      "at": "2026-11-09T12:10:56.564129"
+    },
+    {
+      "offer_id": "f0b5200a387c0b15",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2330",
+      "error": null,
+      "at": "2026-11-09T12:11:09.833141"
+    },
+    {
+      "offer_id": "010a2e3742b722de",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2331",
+      "error": null,
+      "at": "2026-11-09T12:11:23.978206"
     }
   ]
 }
