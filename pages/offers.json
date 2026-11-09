@@ -1,5 +1,29 @@
 [
   {
+    "id": "9343c68bae915d10",
+    "title": "Fralda Huggies Supreme Care Roupinha XG com 144",
+    "price_now": 179.0,
+    "price_was": 289.0,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/791866381117942199284084073791.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T10:41:08.395388"
+  },
+  {
+    "id": "0ac3db9b3e4680de",
+    "title": "Fralda Huggies Máxima Proteção M 196 unidades",
+    "price_now": 142.4,
+    "price_was": 229.9,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/601164767617942207112393682168.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T10:40:56.750871"
+  },
+  {
     "id": "01cd1150d4497777",
     "title": "Bandeja Assento Carro Bebê Portátil Poliéster Impermeável Mesa Criança Carrinho Acessórios",
     "price_now": 72.26,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-08T17:40:47.877523"
-  },
-  {
-    "id": "637f0be5674d4d39",
-    "title": "Suporte Baba Eletronica Para Berco Universal",
-    "price_now": 16.99,
-    "price_was": 42.47,
-    "discount_pct": 60,
-    "url": "https://s.shopee.com.br/9AQ2T5KY95?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/438168426217941535521117459584.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T16:10:47.630613"
-  },
-  {
-    "id": "408799e3ee74e14f",
-    "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
-    "price_now": 46.0,
-    "price_was": 69.42,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/521330357217941525294686499065.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T15:50:46.869752"
   }
 ]
