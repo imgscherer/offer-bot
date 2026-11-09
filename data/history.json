@@ -9355,6 +9355,10 @@
     "03041747e09bca02": {
       "title": "Esterilizador de Mamadeiras Buba",
       "posted_at": "2026-11-09T18:40:56.983671"
+    },
+    "47f8e9bb6bc48823": {
+      "title": "Fralda Personal Baby Protect & Sec Grande 78 Un",
+      "posted_at": "2026-11-09T19:20:44.095689"
     }
   },
   "results": [
@@ -44741,6 +44745,14 @@
       "post_id": "2352",
       "error": null,
       "at": "2026-11-09T18:40:56.982968"
+    },
+    {
+      "offer_id": "47f8e9bb6bc48823",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2353",
+      "error": null,
+      "at": "2026-11-09T19:20:44.094920"
     }
   ]
 }

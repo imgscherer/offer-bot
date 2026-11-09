@@ -1,5 +1,17 @@
 [
   {
+    "id": "47f8e9bb6bc48823",
+    "title": "Fralda Personal Baby Protect & Sec Grande 78 Un",
+    "price_now": 61.0,
+    "price_was": 89.99,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0DF9RCVYY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/403292646517942516519320033398.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T19:20:44.095283"
+  },
+  {
     "id": "03041747e09bca02",
     "title": "Esterilizador de Mamadeiras Buba",
     "price_now": 60.3,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T15:50:52.741378"
-  },
-  {
-    "id": "e5de0d91cf13741f",
-    "title": "Galzerano Carrinho Napoli Travel System Preto Cobre",
-    "price_now": 863.0,
-    "price_was": 1499.0,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0CMR7LXW6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/462290966917942364132041222610.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T15:10:45.247011"
   }
 ]
