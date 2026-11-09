@@ -9331,6 +9331,14 @@
     "c8f3b05ec3fd3008": {
       "title": "Graco Carrinho de Bebê Modes Pramette 2 em 1 Reversível Pierce Preto",
       "posted_at": "2026-11-09T16:50:54.067449"
+    },
+    "76ab95fbe49d8814": {
+      "title": "Carrinho De Passeio Com Bebê Conforto Travel System NIVI Maxi Baby",
+      "posted_at": "2026-11-09T17:40:48.148950"
+    },
+    "357879d0e54e326d": {
+      "title": "Fralda Cremer Magic Care M 34 Unidades",
+      "posted_at": "2026-11-09T17:41:00.757295"
     }
   },
   "results": [
@@ -44669,6 +44677,22 @@
       "post_id": "2346",
       "error": null,
       "at": "2026-11-09T16:50:54.066726"
+    },
+    {
+      "offer_id": "76ab95fbe49d8814",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2347",
+      "error": null,
+      "at": "2026-11-09T17:40:48.148299"
+    },
+    {
+      "offer_id": "357879d0e54e326d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2348",
+      "error": null,
+      "at": "2026-11-09T17:41:00.756493"
     }
   ]
 }

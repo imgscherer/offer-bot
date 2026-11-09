@@ -1,5 +1,29 @@
 [
   {
+    "id": "357879d0e54e326d",
+    "title": "Fralda Cremer Magic Care M 34 Unidades",
+    "price_now": 22.47,
+    "price_was": 32.79,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0D92MX4JM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/627096048417942455316183823183.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T17:41:00.756803"
+  },
+  {
+    "id": "76ab95fbe49d8814",
+    "title": "Carrinho De Passeio Com Bebê Conforto Travel System NIVI Maxi Baby",
+    "price_now": 685.0,
+    "price_was": 1399.9,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B0FMFWWD8H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/784984258817942450538352838735.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T17:40:48.148641"
+  },
+  {
     "id": "c8f3b05ec3fd3008",
     "title": "Graco Carrinho de Bebê Modes Pramette 2 em 1 Reversível Pierce Preto",
     "price_now": 1544.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T14:40:45.517532"
-  },
-  {
-    "id": "7ef460c134570c08",
-    "title": "Fralda Babysec Premium XG 24 unidades",
-    "price_now": 25.61,
-    "price_was": 40.13,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B07XL8XYNV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/575420260017942325722438998971.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T14:11:02.626502"
-  },
-  {
-    "id": "19d8895292a7650b",
-    "title": "Fralda Babysec Premium M 32 unidades",
-    "price_now": 25.61,
-    "price_was": 54.39,
-    "discount_pct": 53,
-    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/994004339117942325754838732893.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T14:10:50.670008"
   }
 ]
