@@ -1,5 +1,17 @@
 [
   {
+    "id": "01b7d2f3446c1964",
+    "title": "Lenço Umedecido Recém nascido Huggies 192 Un 4 Pacotes com 48 Un Cada",
+    "price_now": 29.0,
+    "price_was": 41.9,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B08FV6G3QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/659046370617942606609193228825.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T21:50:50.742989"
+  },
+  {
     "id": "e018a307ec0c624e",
     "title": "Fralda Ultrasec Babysec M 38 Unidades",
     "price_now": 29.89,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T18:30:50.755155"
-  },
-  {
-    "id": "1c7aacf56741a22f",
-    "title": "Cadeira De Bebê Para Alimentação Galzerano Nick, Até 23 Kg, Azul",
-    "price_now": 226.01,
-    "price_was": 429.0,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B0BVZVPS5F?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/732044763617942466723973599183.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T18:00:54.641294"
   }
 ]

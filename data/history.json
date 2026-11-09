@@ -9387,6 +9387,10 @@
     "e018a307ec0c624e": {
       "title": "Fralda Ultrasec Babysec M 38 Unidades",
       "posted_at": "2026-11-09T21:40:49.410747"
+    },
+    "01b7d2f3446c1964": {
+      "title": "Lenço Umedecido Recém nascido Huggies 192 Un 4 Pacotes com 48 Un Cada",
+      "posted_at": "2026-11-09T21:50:50.743437"
     }
   },
   "results": [
@@ -44837,6 +44841,14 @@
       "post_id": "2360",
       "error": null,
       "at": "2026-11-09T21:40:49.409985"
+    },
+    {
+      "offer_id": "01b7d2f3446c1964",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2361",
+      "error": null,
+      "at": "2026-11-09T21:50:50.742660"
     }
   ]
 }
