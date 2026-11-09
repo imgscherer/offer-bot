@@ -9327,6 +9327,10 @@
     "134a0e647d6c1fb2": {
       "title": "Almofada Atividade Bebê Tummy Time Sensorial Squeak Maxi Baby",
       "posted_at": "2026-11-09T16:30:47.976701"
+    },
+    "c8f3b05ec3fd3008": {
+      "title": "Graco Carrinho de Bebê Modes Pramette 2 em 1 Reversível Pierce Preto",
+      "posted_at": "2026-11-09T16:50:54.067449"
     }
   },
   "results": [
@@ -44657,6 +44661,14 @@
       "post_id": "2345",
       "error": null,
       "at": "2026-11-09T16:30:47.976024"
+    },
+    {
+      "offer_id": "c8f3b05ec3fd3008",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2346",
+      "error": null,
+      "at": "2026-11-09T16:50:54.066726"
     }
   ]
 }

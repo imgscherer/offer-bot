@@ -1,5 +1,17 @@
 [
   {
+    "id": "c8f3b05ec3fd3008",
+    "title": "Graco Carrinho de Bebê Modes Pramette 2 em 1 Reversível Pierce Preto",
+    "price_now": 1544.0,
+    "price_was": 3690.0,
+    "discount_pct": 58,
+    "url": "https://www.amazon.com.br/dp/B07Y5X8G4B?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/818963379617942427717557426993.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T16:50:54.066996"
+  },
+  {
     "id": "134a0e647d6c1fb2",
     "title": "Almofada Atividade Bebê Tummy Time Sensorial Squeak Maxi Baby",
     "price_now": 74.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T14:10:50.670008"
-  },
-  {
-    "id": "26da27e8d2d0fbe0",
-    "title": "Fralda Turma da Mônica Baby Mega XG 42 Unidades",
-    "price_now": 33.0,
-    "price_was": 50.04,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KV2733?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/333088545117942307122891574006.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T13:41:02.173798"
   }
 ]
