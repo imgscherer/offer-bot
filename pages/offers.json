@@ -1,5 +1,17 @@
 [
   {
+    "id": "6972908fe6bdc7e0",
+    "title": "Sandália Infantil (20 ao 27, 4 Cores)",
+    "price_now": 49.9,
+    "price_was": 89.11,
+    "discount_pct": 44,
+    "url": "https://s.shopee.com.br/7fbG3LUz9D?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/354682717017942278313207819673.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T12:50:51.209065"
+  },
+  {
     "id": "010a2e3742b722de",
     "title": "Fralda Pom Pom Protek Proteção de Mãe XG 38 unidade",
     "price_now": 29.18,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-09T08:10:45.996818"
-  },
-  {
-    "id": "93341722c8a480ae",
-    "title": "Creme Preventivo de Assaduras para Bebês Hipoglós, Fragrância Suave, 120g",
-    "price_now": 39.0,
-    "price_was": 77.99,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B0CHZCWLV6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/487605881317941848756538759532.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T00:50:44.014726"
   }
 ]

@@ -9271,6 +9271,10 @@
     "010a2e3742b722de": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe XG 38 unidade",
       "posted_at": "2026-11-09T12:11:23.980682"
+    },
+    "6972908fe6bdc7e0": {
+      "title": "Sandália Infantil (20 ao 27, 4 Cores)",
+      "posted_at": "2026-11-09T12:50:51.209391"
     }
   },
   "results": [
@@ -44449,6 +44453,14 @@
       "post_id": "2331",
       "error": null,
       "at": "2026-11-09T12:11:23.978206"
+    },
+    {
+      "offer_id": "6972908fe6bdc7e0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2332",
+      "error": null,
+      "at": "2026-11-09T12:50:51.208765"
     }
   ]
 }
