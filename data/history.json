@@ -9319,6 +9319,10 @@
     "cc12a65220358809": {
       "title": "Fralda Personal Baby Pants Total Protect XG 40 unidades",
       "posted_at": "2026-11-09T16:10:42.860921"
+    },
+    "9513a100c76b3866": {
+      "title": "Fralda Pampers Pants Premium Care G 68 unidades",
+      "posted_at": "2026-11-09T16:20:48.258394"
     }
   },
   "results": [
@@ -44633,6 +44637,14 @@
       "post_id": "2343",
       "error": null,
       "at": "2026-11-09T16:10:42.860214"
+    },
+    {
+      "offer_id": "9513a100c76b3866",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2344",
+      "error": null,
+      "at": "2026-11-09T16:20:48.257793"
     }
   ]
 }

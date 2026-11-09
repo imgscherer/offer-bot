@@ -1,5 +1,17 @@
 [
   {
+    "id": "9513a100c76b3866",
+    "title": "Fralda Pampers Pants Premium Care G 68 unidades",
+    "price_now": 94.99,
+    "price_was": 151.59,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/516767849717942407911618263136.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T16:20:48.258127"
+  },
+  {
     "id": "cc12a65220358809",
     "title": "Fralda Personal Baby Pants Total Protect XG 40 unidades",
     "price_now": 46.93,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T13:40:49.421372"
-  },
-  {
-    "id": "6972908fe6bdc7e0",
-    "title": "Sandália Infantil (20 ao 27, 4 Cores)",
-    "price_now": 49.9,
-    "price_was": 89.11,
-    "discount_pct": 44,
-    "url": "https://s.shopee.com.br/7fbG3LUz9D?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/354682717017942278313207819673.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T12:50:51.209065"
   }
 ]
