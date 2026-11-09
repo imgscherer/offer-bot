@@ -1,5 +1,17 @@
 [
   {
+    "id": "93341722c8a480ae",
+    "title": "Creme Preventivo de Assaduras para Bebês Hipoglós, Fragrância Suave, 120g",
+    "price_now": 39.0,
+    "price_was": 77.99,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B0CHZCWLV6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/487605881317941848756538759532.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T00:50:44.014726"
+  },
+  {
     "id": "6d97ce73504dd937",
     "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
     "price_now": 60.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-08T14:20:49.501085"
-  },
-  {
-    "id": "8782be60dc314f6b",
-    "title": "Fralda Pampers Confort Sec XXG 82 unidades",
-    "price_now": 92.12,
-    "price_was": 189.9,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B0GW3YY6FY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/202445610317941451529861660221.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T13:50:50.809615"
   }
 ]
