@@ -9291,6 +9291,14 @@
     "7ef460c134570c08": {
       "title": "Fralda Babysec Premium XG 24 unidades",
       "posted_at": "2026-11-09T14:11:02.626923"
+    },
+    "bfd8721896c81ae8": {
+      "title": "Fralda Baby Premium Pants XG 50 Unidades",
+      "posted_at": "2026-11-09T14:40:45.517913"
+    },
+    "f709870ba3077ad8": {
+      "title": "Garrafa Térmica Infantil Dupla Camada Vácuo Clingo Luke Azul",
+      "posted_at": "2026-11-09T14:40:53.092762"
     }
   },
   "results": [
@@ -44509,6 +44517,22 @@
       "post_id": "2336",
       "error": null,
       "at": "2026-11-09T14:11:02.626143"
+    },
+    {
+      "offer_id": "bfd8721896c81ae8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2337",
+      "error": null,
+      "at": "2026-11-09T14:40:45.517170"
+    },
+    {
+      "offer_id": "f709870ba3077ad8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2338",
+      "error": null,
+      "at": "2026-11-09T14:40:53.091988"
     }
   ]
 }

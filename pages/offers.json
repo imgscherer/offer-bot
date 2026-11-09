@@ -1,5 +1,29 @@
 [
   {
+    "id": "f709870ba3077ad8",
+    "title": "Garrafa Térmica Infantil Dupla Camada Vácuo Clingo Luke Azul",
+    "price_now": 66.0,
+    "price_was": 99.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0C1HSNRM8?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/745268192717942349735161936400.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T14:40:53.092296"
+  },
+  {
+    "id": "bfd8721896c81ae8",
+    "title": "Fralda Baby Premium Pants XG 50 Unidades",
+    "price_now": 73.0,
+    "price_was": 116.89,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0BGM5LZ5D?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/450816195217942350621169278921.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T14:40:45.517532"
+  },
+  {
     "id": "7ef460c134570c08",
     "title": "Fralda Babysec Premium XG 24 unidades",
     "price_now": 25.61,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T11:50:56.888580"
-  },
-  {
-    "id": "7387ff289fd1fc7c",
-    "title": "Fralda Huggies Xtra-Flex XXXL 128 Unidades",
-    "price_now": 154.0,
-    "price_was": 246.01,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/220428509317942230949243756682.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T11:20:59.993471"
-  },
-  {
-    "id": "c55015a3e46fe85d",
-    "title": "Fralda Pom Pom Protek G, 68 Unidades",
-    "price_now": 47.68,
-    "price_was": 77.37,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/907888789017942220713689287995.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T11:20:45.356245"
   }
 ]
