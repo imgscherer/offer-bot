@@ -1,5 +1,17 @@
 [
   {
+    "id": "8a937349155c3091",
+    "title": "Fralda Pampers Pants Ajuste Total G 144 Unidades",
+    "price_now": 148.0,
+    "price_was": 229.49,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/gp/aw/d/B0CGYR8GBT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/398940403717942242298352966902.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T11:50:56.888580"
+  },
+  {
     "id": "7387ff289fd1fc7c",
     "title": "Fralda Huggies Xtra-Flex XXXL 128 Unidades",
     "price_now": 154.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-08T20:30:51.471322"
-  },
-  {
-    "id": "62a4b07588a86660",
-    "title": "Garrafa Térmica Infantil 350ml com Bico Antivazamento e Alça de Transporte (Off White)",
-    "price_now": 40.84,
-    "price_was": 59.99,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0GJFRLPFH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/869130058417941679741846441824.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T20:10:45.792246"
   }
 ]

@@ -9251,6 +9251,10 @@
     "7387ff289fd1fc7c": {
       "title": "Fralda Huggies Xtra-Flex XXXL 128 Unidades",
       "posted_at": "2026-11-09T11:20:59.994078"
+    },
+    "8a937349155c3091": {
+      "title": "Fralda Pampers Pants Ajuste Total G 144 Unidades",
+      "posted_at": "2026-11-09T11:50:56.889016"
     }
   },
   "results": [
@@ -44389,6 +44393,14 @@
       "post_id": "2326",
       "error": null,
       "at": "2026-11-09T11:20:59.993127"
+    },
+    {
+      "offer_id": "8a937349155c3091",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2327",
+      "error": null,
+      "at": "2026-11-09T11:50:56.888236"
     }
   ]
 }
