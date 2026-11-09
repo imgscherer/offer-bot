@@ -1,5 +1,29 @@
 [
   {
+    "id": "7387ff289fd1fc7c",
+    "title": "Fralda Huggies Xtra-Flex XXXL 128 Unidades",
+    "price_now": 154.0,
+    "price_was": 246.01,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/220428509317942230949243756682.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T11:20:59.993471"
+  },
+  {
+    "id": "c55015a3e46fe85d",
+    "title": "Fralda Pom Pom Protek G, 68 Unidades",
+    "price_now": 47.68,
+    "price_was": 77.37,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/907888789017942220713689287995.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T11:20:45.356245"
+  },
+  {
     "id": "9343c68bae915d10",
     "title": "Fralda Huggies Supreme Care Roupinha XG com 144",
     "price_now": 179.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-08T20:10:45.792246"
-  },
-  {
-    "id": "a53b479f3a99ac00",
-    "title": "Mili Fralda Infantil Love & Care G 48 Unidades",
-    "price_now": 41.0,
-    "price_was": 101.95,
-    "discount_pct": 60,
-    "url": "https://www.amazon.com.br/dp/B07GFRP89P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/429006708117941618502337784148.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T18:20:48.979466"
-  },
-  {
-    "id": "ce429899eed5a719",
-    "title": "Granado Sabonete Líquido Bebê Camomila 500ml",
-    "price_now": 26.0,
-    "price_was": 39.0,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0C2VWQZS6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/279637477617941587749847877527.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T17:40:47.877523"
   }
 ]

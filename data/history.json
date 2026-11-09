@@ -9243,6 +9243,14 @@
     "9343c68bae915d10": {
       "title": "Fralda Huggies Supreme Care Roupinha XG com 144",
       "posted_at": "2026-11-09T10:41:08.395756"
+    },
+    "c55015a3e46fe85d": {
+      "title": "Fralda Pom Pom Protek G, 68 Unidades",
+      "posted_at": "2026-11-09T11:20:45.356651"
+    },
+    "7387ff289fd1fc7c": {
+      "title": "Fralda Huggies Xtra-Flex XXXL 128 Unidades",
+      "posted_at": "2026-11-09T11:20:59.994078"
     }
   },
   "results": [
@@ -44365,6 +44373,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-09T11:10:57.445695"
+    },
+    {
+      "offer_id": "c55015a3e46fe85d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2325",
+      "error": null,
+      "at": "2026-11-09T11:20:45.355938"
+    },
+    {
+      "offer_id": "7387ff289fd1fc7c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2326",
+      "error": null,
+      "at": "2026-11-09T11:20:59.993127"
     }
   ]
 }
