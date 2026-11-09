@@ -1,5 +1,17 @@
 [
   {
+    "id": "6d97ce73504dd937",
+    "title": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+    "price_now": 60.0,
+    "price_was": 101.58,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/956988870617941841518030967828.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T00:41:01.056564"
+  },
+  {
     "id": "e4bad77516630ff5",
     "title": "Fralda Mili Love and Care Mega P 56 Unidades",
     "price_now": 44.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-08T13:50:50.809615"
-  },
-  {
-    "id": "a440a94067c69f3c",
-    "title": "Fralda Turma da Mônica Baby G 44 Unidades",
-    "price_now": 33.0,
-    "price_was": 50.04,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/277006566217941441919365715560.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-08T13:31:02.062064"
   }
 ]
