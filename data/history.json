@@ -9323,6 +9323,10 @@
     "9513a100c76b3866": {
       "title": "Fralda Pampers Pants Premium Care G 68 unidades",
       "posted_at": "2026-11-09T16:20:48.258394"
+    },
+    "134a0e647d6c1fb2": {
+      "title": "Almofada Atividade Bebê Tummy Time Sensorial Squeak Maxi Baby",
+      "posted_at": "2026-11-09T16:30:47.976701"
     }
   },
   "results": [
@@ -44645,6 +44649,14 @@
       "post_id": "2344",
       "error": null,
       "at": "2026-11-09T16:20:48.257793"
+    },
+    {
+      "offer_id": "134a0e647d6c1fb2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2345",
+      "error": null,
+      "at": "2026-11-09T16:30:47.976024"
     }
   ]
 }

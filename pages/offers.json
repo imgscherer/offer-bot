@@ -1,5 +1,17 @@
 [
   {
+    "id": "134a0e647d6c1fb2",
+    "title": "Almofada Atividade Bebê Tummy Time Sensorial Squeak Maxi Baby",
+    "price_now": 74.0,
+    "price_was": 239.9,
+    "discount_pct": 69,
+    "url": "https://www.amazon.com.br/dp/B0GQJDKDQN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/637030579517942413423097936900.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T16:30:47.976343"
+  },
+  {
     "id": "9513a100c76b3866",
     "title": "Fralda Pampers Pants Premium Care G 68 unidades",
     "price_now": 94.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T13:41:02.173798"
-  },
-  {
-    "id": "9a1c55154e0d03fb",
-    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
-    "price_now": 37.0,
-    "price_was": 72.65,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/910709228817942307131739430062.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T13:40:49.421372"
   }
 ]
