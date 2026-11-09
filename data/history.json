@@ -9275,6 +9275,14 @@
     "6972908fe6bdc7e0": {
       "title": "Sandália Infantil (20 ao 27, 4 Cores)",
       "posted_at": "2026-11-09T12:50:51.209391"
+    },
+    "9a1c55154e0d03fb": {
+      "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+      "posted_at": "2026-11-09T13:40:49.421741"
+    },
+    "26da27e8d2d0fbe0": {
+      "title": "Fralda Turma da Mônica Baby Mega XG 42 Unidades",
+      "posted_at": "2026-11-09T13:41:02.174233"
     }
   },
   "results": [
@@ -44461,6 +44469,22 @@
       "post_id": "2332",
       "error": null,
       "at": "2026-11-09T12:50:51.208765"
+    },
+    {
+      "offer_id": "9a1c55154e0d03fb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2333",
+      "error": null,
+      "at": "2026-11-09T13:40:49.421014"
+    },
+    {
+      "offer_id": "26da27e8d2d0fbe0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2334",
+      "error": null,
+      "at": "2026-11-09T13:41:02.173456"
     }
   ]
 }

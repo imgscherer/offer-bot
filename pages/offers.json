@@ -1,5 +1,29 @@
 [
   {
+    "id": "26da27e8d2d0fbe0",
+    "title": "Fralda Turma da Mônica Baby Mega XG 42 Unidades",
+    "price_now": 33.0,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KV2733?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/333088545117942307122891574006.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T13:41:02.173798"
+  },
+  {
+    "id": "9a1c55154e0d03fb",
+    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+    "price_now": 37.0,
+    "price_was": 72.65,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/910709228817942307131739430062.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T13:40:49.421372"
+  },
+  {
     "id": "6972908fe6bdc7e0",
     "title": "Sandália Infantil (20 ao 27, 4 Cores)",
     "price_now": 49.9,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T10:40:56.750871"
-  },
-  {
-    "id": "01cd1150d4497777",
-    "title": "Bandeja Assento Carro Bebê Portátil Poliéster Impermeável Mesa Criança Carrinho Acessórios",
-    "price_now": 72.26,
-    "price_was": 150.54,
-    "discount_pct": 52,
-    "url": "https://s.shopee.com.br/3g56zggF0O",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82586-msree9rncw06a3",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T09:50:41.881208"
-  },
-  {
-    "id": "f92872d685e5d3e1",
-    "title": "Bandeja Assento Carro Bebê Portátil Poliéster Impermeável Mesa Criança Carrinho Acessórios",
-    "price_now": 71.56,
-    "price_was": 152.26,
-    "discount_pct": 53,
-    "url": "https://s.shopee.com.br/3g56zggF0O",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-82586-msree9rncw06a3",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T08:10:45.996818"
   }
 ]
