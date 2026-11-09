@@ -9343,6 +9343,10 @@
     "1c7aacf56741a22f": {
       "title": "Cadeira De Bebê Para Alimentação Galzerano Nick, Até 23 Kg, Azul",
       "posted_at": "2026-11-09T18:00:54.641553"
+    },
+    "0a20b94388540dc0": {
+      "title": "Fralda Cremer Magic Care M 34 Unidades",
+      "posted_at": "2026-11-09T18:30:50.755428"
     }
   },
   "results": [
@@ -44705,6 +44709,14 @@
       "post_id": "2349",
       "error": null,
       "at": "2026-11-09T18:00:54.640973"
+    },
+    {
+      "offer_id": "0a20b94388540dc0",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2350",
+      "error": null,
+      "at": "2026-11-09T18:30:50.754872"
     }
   ]
 }

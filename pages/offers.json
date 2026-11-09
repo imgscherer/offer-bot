@@ -1,5 +1,17 @@
 [
   {
+    "id": "0a20b94388540dc0",
+    "title": "Fralda Cremer Magic Care M 34 Unidades",
+    "price_now": 22.0,
+    "price_was": 32.79,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0D92MX4JM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/197245465917942475739588513083.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T18:30:50.755155"
+  },
+  {
     "id": "1c7aacf56741a22f",
     "title": "Cadeira De Bebê Para Alimentação Galzerano Nick, Até 23 Kg, Azul",
     "price_now": 226.01,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T14:50:42.629589"
-  },
-  {
-    "id": "f709870ba3077ad8",
-    "title": "Garrafa Térmica Infantil Dupla Camada Vácuo Clingo Luke Azul",
-    "price_now": 66.0,
-    "price_was": 99.9,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0C1HSNRM8?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/745268192717942349735161936400.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T14:40:53.092296"
   }
 ]
