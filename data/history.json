@@ -9283,6 +9283,14 @@
     "26da27e8d2d0fbe0": {
       "title": "Fralda Turma da Mônica Baby Mega XG 42 Unidades",
       "posted_at": "2026-11-09T13:41:02.174233"
+    },
+    "19d8895292a7650b": {
+      "title": "Fralda Babysec Premium M 32 unidades",
+      "posted_at": "2026-11-09T14:10:50.670482"
+    },
+    "7ef460c134570c08": {
+      "title": "Fralda Babysec Premium XG 24 unidades",
+      "posted_at": "2026-11-09T14:11:02.626923"
     }
   },
   "results": [
@@ -44485,6 +44493,22 @@
       "post_id": "2334",
       "error": null,
       "at": "2026-11-09T13:41:02.173456"
+    },
+    {
+      "offer_id": "19d8895292a7650b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2335",
+      "error": null,
+      "at": "2026-11-09T14:10:50.669629"
+    },
+    {
+      "offer_id": "7ef460c134570c08",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2336",
+      "error": null,
+      "at": "2026-11-09T14:11:02.626143"
     }
   ]
 }
