@@ -1,5 +1,17 @@
 [
   {
+    "id": "e018a307ec0c624e",
+    "title": "Fralda Ultrasec Babysec M 38 Unidades",
+    "price_now": 29.89,
+    "price_was": 52.65,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B07C3JSRDX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/353689162517942601709689025176.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T21:40:49.410274"
+  },
+  {
     "id": "99a5057594cb2dc6",
     "title": "Chupeta Ultra Air Dupla 6-18 Meses Avent",
     "price_now": 57.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T18:00:54.641294"
-  },
-  {
-    "id": "357879d0e54e326d",
-    "title": "Fralda Cremer Magic Care M 34 Unidades",
-    "price_now": 22.47,
-    "price_was": 32.79,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0D92MX4JM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/627096048417942455316183823183.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T17:41:00.756803"
   }
 ]

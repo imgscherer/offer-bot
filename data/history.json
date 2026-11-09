@@ -9383,6 +9383,10 @@
     "99a5057594cb2dc6": {
       "title": "Chupeta Ultra Air Dupla 6-18 Meses Avent",
       "posted_at": "2026-11-09T20:21:03.323998"
+    },
+    "e018a307ec0c624e": {
+      "title": "Fralda Ultrasec Babysec M 38 Unidades",
+      "posted_at": "2026-11-09T21:40:49.410747"
     }
   },
   "results": [
@@ -44825,6 +44829,14 @@
       "post_id": "2359",
       "error": null,
       "at": "2026-11-09T20:21:03.323292"
+    },
+    {
+      "offer_id": "e018a307ec0c624e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2360",
+      "error": null,
+      "at": "2026-11-09T21:40:49.409985"
     }
   ]
 }
