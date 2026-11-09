@@ -9299,6 +9299,10 @@
     "f709870ba3077ad8": {
       "title": "Garrafa Térmica Infantil Dupla Camada Vácuo Clingo Luke Azul",
       "posted_at": "2026-11-09T14:40:53.092762"
+    },
+    "ad5aa3d78f19f813": {
+      "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
+      "posted_at": "2026-11-09T14:50:42.629847"
     }
   },
   "results": [
@@ -44533,6 +44537,14 @@
       "post_id": "2338",
       "error": null,
       "at": "2026-11-09T14:40:53.091988"
+    },
+    {
+      "offer_id": "ad5aa3d78f19f813",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2339",
+      "error": null,
+      "at": "2026-11-09T14:50:42.629275"
     }
   ]
 }

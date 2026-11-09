@@ -1,5 +1,17 @@
 [
   {
+    "id": "ad5aa3d78f19f813",
+    "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
+    "price_now": 25.0,
+    "price_was": 44.99,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B07F1Z7ZM2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/769916381317942356368028693471.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T14:50:42.629589"
+  },
+  {
     "id": "f709870ba3077ad8",
     "title": "Garrafa Térmica Infantil Dupla Camada Vácuo Clingo Luke Azul",
     "price_now": 66.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T12:10:46.755852"
-  },
-  {
-    "id": "8a937349155c3091",
-    "title": "Fralda Pampers Pants Ajuste Total G 144 Unidades",
-    "price_now": 148.0,
-    "price_was": 229.49,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/gp/aw/d/B0CGYR8GBT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/398940403717942242298352966902.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T11:50:56.888580"
   }
 ]
