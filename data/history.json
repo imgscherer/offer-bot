@@ -9359,6 +9359,18 @@
     "47f8e9bb6bc48823": {
       "title": "Fralda Personal Baby Protect & Sec Grande 78 Un",
       "posted_at": "2026-11-09T19:20:44.095689"
+    },
+    "95d5264a73197741": {
+      "title": "Fralda Mili Baby Jumbo P 36 Unidades",
+      "posted_at": "2026-11-09T19:40:51.536599"
+    },
+    "b895e2afc6e1eaf2": {
+      "title": "Granado Condicionador Bebê, Tradicional, 250ml",
+      "posted_at": "2026-11-09T19:40:59.627747"
+    },
+    "435292388b6ebc04": {
+      "title": "Chupeta Ultra Air Dupla 6-18 Meses -Avent",
+      "posted_at": "2026-11-09T19:41:10.611044"
     }
   },
   "results": [
@@ -44753,6 +44765,30 @@
       "post_id": "2353",
       "error": null,
       "at": "2026-11-09T19:20:44.094920"
+    },
+    {
+      "offer_id": "95d5264a73197741",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2354",
+      "error": null,
+      "at": "2026-11-09T19:40:51.535775"
+    },
+    {
+      "offer_id": "b895e2afc6e1eaf2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2355",
+      "error": null,
+      "at": "2026-11-09T19:40:59.626951"
+    },
+    {
+      "offer_id": "435292388b6ebc04",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2356",
+      "error": null,
+      "at": "2026-11-09T19:41:10.610252"
     }
   ]
 }

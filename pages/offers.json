@@ -1,5 +1,41 @@
 [
   {
+    "id": "435292388b6ebc04",
+    "title": "Chupeta Ultra Air Dupla 6-18 Meses -Avent",
+    "price_now": 57.59,
+    "price_was": 82.9,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0DGTQBP89?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/465103548617942522537017482482.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T19:41:10.610579"
+  },
+  {
+    "id": "b895e2afc6e1eaf2",
+    "title": "Granado Condicionador Bebê, Tradicional, 250ml",
+    "price_now": 13.99,
+    "price_was": 27.0,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B00TAC06CG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/468180412917942531094046879980.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T19:40:59.627314"
+  },
+  {
+    "id": "95d5264a73197741",
+    "title": "Fralda Mili Baby Jumbo P 36 Unidades",
+    "price_now": 24.0,
+    "price_was": 47.59,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B07G9HL5Q8?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/164957002117942528504327872850.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T19:40:51.536154"
+  },
+  {
     "id": "47f8e9bb6bc48823",
     "title": "Fralda Personal Baby Protect & Sec Grande 78 Un",
     "price_now": 61.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T16:30:47.976343"
-  },
-  {
-    "id": "9513a100c76b3866",
-    "title": "Fralda Pampers Pants Premium Care G 68 unidades",
-    "price_now": 94.99,
-    "price_was": 151.59,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/516767849717942407911618263136.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T16:20:48.258127"
-  },
-  {
-    "id": "cc12a65220358809",
-    "title": "Fralda Personal Baby Pants Total Protect XG 40 unidades",
-    "price_now": 46.93,
-    "price_was": 69.42,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BTTLGRFH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/312501605117942401349552674338.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T16:10:42.860521"
-  },
-  {
-    "id": "5013d048d597799a",
-    "title": "Fralda Infantil Personal Baby Protect e Sec M 40 Unidades",
-    "price_now": 26.0,
-    "price_was": 36.96,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/941222040317942389395438182790.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T15:50:52.741378"
   }
 ]
