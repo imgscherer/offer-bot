@@ -1,5 +1,17 @@
 [
   {
+    "id": "1c7aacf56741a22f",
+    "title": "Cadeira De Bebê Para Alimentação Galzerano Nick, Até 23 Kg, Azul",
+    "price_now": 226.01,
+    "price_was": 429.0,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B0BVZVPS5F?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/732044763617942466723973599183.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-09T18:00:54.641294"
+  },
+  {
     "id": "357879d0e54e326d",
     "title": "Fralda Cremer Magic Care M 34 Unidades",
     "price_now": 22.47,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T14:40:53.092296"
-  },
-  {
-    "id": "bfd8721896c81ae8",
-    "title": "Fralda Baby Premium Pants XG 50 Unidades",
-    "price_now": 73.0,
-    "price_was": 116.89,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0BGM5LZ5D?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/450816195217942350621169278921.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T14:40:45.517532"
   }
 ]
