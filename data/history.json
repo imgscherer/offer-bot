@@ -9315,6 +9315,10 @@
     "5013d048d597799a": {
       "title": "Fralda Infantil Personal Baby Protect e Sec M 40 Unidades",
       "posted_at": "2026-11-09T15:50:52.741733"
+    },
+    "cc12a65220358809": {
+      "title": "Fralda Personal Baby Pants Total Protect XG 40 unidades",
+      "posted_at": "2026-11-09T16:10:42.860921"
     }
   },
   "results": [
@@ -44621,6 +44625,14 @@
       "post_id": "2342",
       "error": null,
       "at": "2026-11-09T15:50:52.741052"
+    },
+    {
+      "offer_id": "cc12a65220358809",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2343",
+      "error": null,
+      "at": "2026-11-09T16:10:42.860214"
     }
   ]
 }
