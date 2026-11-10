@@ -9391,6 +9391,10 @@
     "01b7d2f3446c1964": {
       "title": "Lenço Umedecido Recém nascido Huggies 192 Un 4 Pacotes com 48 Un Cada",
       "posted_at": "2026-11-09T21:50:50.743437"
+    },
+    "06bfe1d92ddb11e4": {
+      "title": "Fralda Pampers Confort Sec XXG 112 Unidades",
+      "posted_at": "2026-11-10T10:40:54.706419"
     }
   },
   "results": [
@@ -44849,6 +44853,14 @@
       "post_id": "2361",
       "error": null,
       "at": "2026-11-09T21:50:50.742660"
+    },
+    {
+      "offer_id": "06bfe1d92ddb11e4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2362",
+      "error": null,
+      "at": "2026-11-10T10:40:54.705606"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "06bfe1d92ddb11e4",
+    "title": "Fralda Pampers Confort Sec XXG 112 Unidades",
+    "price_now": 124.0,
+    "price_was": 181.64,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B09TF36S57?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/185516454817943062584131591969.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T10:40:54.705929"
+  },
+  {
     "id": "01b7d2f3446c1964",
     "title": "Lenço Umedecido Recém nascido Huggies 192 Un 4 Pacotes com 48 Un Cada",
     "price_now": 29.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T18:40:46.634346"
-  },
-  {
-    "id": "0a20b94388540dc0",
-    "title": "Fralda Cremer Magic Care M 34 Unidades",
-    "price_now": 22.0,
-    "price_was": 32.79,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0D92MX4JM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/197245465917942475739588513083.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T18:30:50.755155"
   }
 ]
