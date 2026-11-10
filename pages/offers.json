@@ -1,5 +1,29 @@
 [
   {
+    "id": "5f3b9d3314889f41",
+    "title": "Lenço Umedecido Pampers Cuidado de Bebê 192 Unidades",
+    "price_now": 31.0,
+    "price_was": 46.7,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0CGY62F23?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/768234401517943333088463324473.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T18:00:59.727930"
+  },
+  {
+    "id": "ee9fc556bdc09918",
+    "title": "S925 prata arco dos desenhos animados frisado pequeno dinossauro carrinho de bebê cubo rubik charme estilo menina DIY pu",
+    "price_now": 8.07,
+    "price_was": 80.7,
+    "discount_pct": 90,
+    "url": "https://s.shopee.com.br/qkxrtb5Ef",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-82584-mus0j9sjf7rb65",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T18:00:48.227742"
+  },
+  {
     "id": "04e123ca6d206f5b",
     "title": "Fralda Pampers Confort Sec P 50 unidades",
     "price_now": 46.99,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-10T11:51:00.867618"
-  },
-  {
-    "id": "548133095bb8048f",
-    "title": "MamyPoko Fralda-Calça Superproteção XXG com 22 Unidades",
-    "price_now": 28.0,
-    "price_was": 46.9,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/701484771117943100325209513499.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T11:40:46.756721"
-  },
-  {
-    "id": "e9796924c14acaa2",
-    "title": "Fralda Pampers Confort Sec Jumbo Plus G com 128",
-    "price_now": 118.66,
-    "price_was": 216.81,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/8VAOWYbE7f?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/274495272317943087119028826893.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T11:21:40.999474"
   }
 ]

@@ -9479,6 +9479,14 @@
     "04e123ca6d206f5b": {
       "title": "Fralda Pampers Confort Sec P 50 unidades",
       "posted_at": "2026-11-10T16:50:40.828803"
+    },
+    "ee9fc556bdc09918": {
+      "title": "S925 prata arco dos desenhos animados frisado pequeno dinossauro carrinho de bebê cubo rubik charme estilo menina DIY pu",
+      "posted_at": "2026-11-10T18:00:48.228066"
+    },
+    "5f3b9d3314889f41": {
+      "title": "Lenço Umedecido Pampers Cuidado de Bebê 192 Unidades",
+      "posted_at": "2026-11-10T18:00:59.728467"
     }
   },
   "results": [
@@ -45161,6 +45169,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-10T17:50:44.039337"
+    },
+    {
+      "offer_id": "ee9fc556bdc09918",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2384",
+      "error": null,
+      "at": "2026-11-10T18:00:48.227385"
+    },
+    {
+      "offer_id": "5f3b9d3314889f41",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2385",
+      "error": null,
+      "at": "2026-11-10T18:00:59.727603"
+    },
+    {
+      "offer_id": "f3303964e245b3ec",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-10T18:01:07.339150"
     }
   ]
 }
