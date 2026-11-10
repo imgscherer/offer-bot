@@ -9395,6 +9395,14 @@
     "06bfe1d92ddb11e4": {
       "title": "Fralda Pampers Confort Sec XXG 112 Unidades",
       "posted_at": "2026-11-10T10:40:54.706419"
+    },
+    "9c094ae68387469c": {
+      "title": "Fralda Pampers Pants Ajuste Total G 144 unidades",
+      "posted_at": "2026-11-10T10:50:50.240157"
+    },
+    "12ccc3d5ae8feb4b": {
+      "title": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
+      "posted_at": "2026-11-10T10:51:05.066264"
     }
   },
   "results": [
@@ -44861,6 +44869,22 @@
       "post_id": "2362",
       "error": null,
       "at": "2026-11-10T10:40:54.705606"
+    },
+    {
+      "offer_id": "9c094ae68387469c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2363",
+      "error": null,
+      "at": "2026-11-10T10:50:50.239335"
+    },
+    {
+      "offer_id": "12ccc3d5ae8feb4b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2364",
+      "error": null,
+      "at": "2026-11-10T10:51:05.065508"
     }
   ]
 }
