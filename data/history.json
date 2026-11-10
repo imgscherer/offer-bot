@@ -9535,6 +9535,10 @@
     "ace0c45702d82b44": {
       "title": "Carrinho de Bebê One4Ever Lounge até 22kg Chicco",
       "posted_at": "2026-11-10T20:30:46.063055"
+    },
+    "3404241d3fce4955": {
+      "title": "MamyPoko Fralda-Calça Superproteção G 28 Unidades",
+      "posted_at": "2026-11-10T20:50:55.546694"
     }
   },
   "results": [
@@ -45449,6 +45453,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-10T20:40:39.382746"
+    },
+    {
+      "offer_id": "e313b13f3bb204b5",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-10T20:50:46.136290"
+    },
+    {
+      "offer_id": "3404241d3fce4955",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2398",
+      "error": null,
+      "at": "2026-11-10T20:50:55.535449"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "3404241d3fce4955",
+    "title": "MamyPoko Fralda-Calça Superproteção G 28 Unidades",
+    "price_now": 28.0,
+    "price_was": 42.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0D4363KSD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/252163317917943425497623524536.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T20:50:55.535763"
+  },
+  {
     "id": "ace0c45702d82b44",
     "title": "Carrinho de Bebê One4Ever Lounge até 22kg Chicco",
     "price_now": 1804.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-10T18:50:43.955955"
-  },
-  {
-    "id": "ebed2f0f954b4941",
-    "title": "Penico Mictório Infantil Sapinho Para Meninos Desfralde Com Ventosa Parede Todas as Cores",
-    "price_now": 29.0,
-    "price_was": 101.72,
-    "discount_pct": 71,
-    "url": "https://s.shopee.com.br/2BGLTULL31?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/286679729317943346456587181900.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T18:30:53.590517"
   }
 ]
