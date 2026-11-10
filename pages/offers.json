@@ -1,5 +1,17 @@
 [
   {
+    "id": "04e123ca6d206f5b",
+    "title": "Fralda Pampers Confort Sec P 50 unidades",
+    "price_now": 46.99,
+    "price_was": 77.27,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/536634344217943283888946518447.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T16:50:40.828562"
+  },
+  {
     "id": "8676b0dc6165a376",
     "title": "Kit Mamadeira My 1st NUK 150ml e 300ml 2 Unidades",
     "price_now": 59.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-10T11:21:40.999474"
-  },
-  {
-    "id": "ed77a6040c37b17b",
-    "title": "Fralda Pampers Confort Sec Jumbo Plus XXG com 112",
-    "price_now": 118.66,
-    "price_was": 217.25,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/114Nam3IVG?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/668152127117943087094058852791.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T11:21:22.487710"
   }
 ]

@@ -9475,6 +9475,10 @@
     "8676b0dc6165a376": {
       "title": "Kit Mamadeira My 1st NUK 150ml e 300ml 2 Unidades",
       "posted_at": "2026-11-10T16:10:45.806184"
+    },
+    "04e123ca6d206f5b": {
+      "title": "Fralda Pampers Confort Sec P 50 unidades",
+      "posted_at": "2026-11-10T16:50:40.828803"
     }
   },
   "results": [
@@ -45133,6 +45137,14 @@
       "post_id": "2382",
       "error": null,
       "at": "2026-11-10T16:10:45.805640"
+    },
+    {
+      "offer_id": "04e123ca6d206f5b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2383",
+      "error": null,
+      "at": "2026-11-10T16:50:40.828265"
     }
   ]
 }
