@@ -9447,6 +9447,10 @@
     "9e7bce23c46a8ea0": {
       "title": "Boia com Cobertura Fralda Inflável Infantil Com Assento (Diversas cores)",
       "posted_at": "2026-11-10T12:50:55.017981"
+    },
+    "7116038ac0b8c0e5": {
+      "title": "Fralda Cremer P 36 Unidades",
+      "posted_at": "2026-11-10T13:10:50.376481"
     }
   },
   "results": [
@@ -45049,6 +45053,14 @@
       "post_id": "2375",
       "error": null,
       "at": "2026-11-10T12:50:55.017256"
+    },
+    {
+      "offer_id": "7116038ac0b8c0e5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2376",
+      "error": null,
+      "at": "2026-11-10T13:10:50.375745"
     }
   ]
 }

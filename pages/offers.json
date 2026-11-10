@@ -1,5 +1,17 @@
 [
   {
+    "id": "7116038ac0b8c0e5",
+    "title": "Fralda Cremer P 36 Unidades",
+    "price_now": 22.0,
+    "price_was": 32.79,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0D92N963G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/624279615817943159927489642630.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T13:10:50.376056"
+  },
+  {
     "id": "9e7bce23c46a8ea0",
     "title": "Boia com Cobertura Fralda Inflável Infantil Com Assento (Diversas cores)",
     "price_now": 45.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-10T11:00:54.886676"
-  },
-  {
-    "id": "12ccc3d5ae8feb4b",
-    "title": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
-    "price_now": 150.84,
-    "price_was": 229.49,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/160566059817943074056053415372.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T10:51:05.065803"
   }
 ]
