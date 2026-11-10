@@ -9451,6 +9451,10 @@
     "7116038ac0b8c0e5": {
       "title": "Fralda Cremer P 36 Unidades",
       "posted_at": "2026-11-10T13:10:50.376481"
+    },
+    "6a63fa37a43722fa": {
+      "title": "Kit Fraldas Descartáveis Pampers SuperSequinha - Tamanho G 160 unidades",
+      "posted_at": "2026-11-10T13:50:51.244875"
     }
   },
   "results": [
@@ -45061,6 +45065,14 @@
       "post_id": "2376",
       "error": null,
       "at": "2026-11-10T13:10:50.375745"
+    },
+    {
+      "offer_id": "6a63fa37a43722fa",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2377",
+      "error": null,
+      "at": "2026-11-10T13:50:51.244178"
     }
   ]
 }
