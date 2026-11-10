@@ -9455,6 +9455,10 @@
     "6a63fa37a43722fa": {
       "title": "Kit Fraldas Descartáveis Pampers SuperSequinha - Tamanho G 160 unidades",
       "posted_at": "2026-11-10T13:50:51.244875"
+    },
+    "085e3941b4c27330": {
+      "title": "Escova de Limpeza de Mamadeiras e Bicos Philips Avent 14506 Azul",
+      "posted_at": "2026-11-10T15:10:40.193300"
     }
   },
   "results": [
@@ -45073,6 +45077,14 @@
       "post_id": "2377",
       "error": null,
       "at": "2026-11-10T13:50:51.244178"
+    },
+    {
+      "offer_id": "085e3941b4c27330",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2378",
+      "error": null,
+      "at": "2026-11-10T15:10:40.192608"
     }
   ]
 }

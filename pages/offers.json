@@ -1,5 +1,17 @@
 [
   {
+    "id": "085e3941b4c27330",
+    "title": "Escova de Limpeza de Mamadeiras e Bicos Philips Avent 14506 Azul",
+    "price_now": 29.0,
+    "price_was": 59.9,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B000MMOR46?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/637103880617943230529482624988.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T15:10:40.192977"
+  },
+  {
     "id": "6a63fa37a43722fa",
     "title": "Kit Fraldas Descartáveis Pampers SuperSequinha - Tamanho G 160 unidades",
     "price_now": 152.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-10T11:01:23.900242"
-  },
-  {
-    "id": "64144adbab72cde2",
-    "title": "Fralda Pampers Confort Sec Jumbo Plus XXG com 112",
-    "price_now": 118.0,
-    "price_was": 217.25,
-    "discount_pct": 46,
-    "url": "https://s.shopee.com.br/114Nam3IVG?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/878202349117943079352473069963.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T11:01:09.829231"
   }
 ]
