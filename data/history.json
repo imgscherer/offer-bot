@@ -9471,6 +9471,10 @@
     "e83aaf73a7d2fcea": {
       "title": "Creme Preventivo De Assaduras Para Bebês Hipoglós, Fragrância Suave, 120g",
       "posted_at": "2026-11-10T15:40:53.557266"
+    },
+    "8676b0dc6165a376": {
+      "title": "Kit Mamadeira My 1st NUK 150ml e 300ml 2 Unidades",
+      "posted_at": "2026-11-10T16:10:45.806184"
     }
   },
   "results": [
@@ -45121,6 +45125,14 @@
       "post_id": "2381",
       "error": null,
       "at": "2026-11-10T15:40:53.556491"
+    },
+    {
+      "offer_id": "8676b0dc6165a376",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2382",
+      "error": null,
+      "at": "2026-11-10T16:10:45.805640"
     }
   ]
 }

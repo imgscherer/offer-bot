@@ -1,5 +1,17 @@
 [
   {
+    "id": "8676b0dc6165a376",
+    "title": "Kit Mamadeira My 1st NUK 150ml e 300ml 2 Unidades",
+    "price_now": 59.0,
+    "price_was": 120.77,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B07FPQVWNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/588977201017943261683192410386.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T16:10:45.805926"
+  },
+  {
     "id": "e83aaf73a7d2fcea",
     "title": "Creme Preventivo De Assaduras Para Bebês Hipoglós, Fragrância Suave, 120g",
     "price_now": 41.78,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-10T11:21:22.487710"
-  },
-  {
-    "id": "a7438a3782697fd7",
-    "title": "Fralda Pampers Confort Sec Jumbo Plus XG com 116",
-    "price_now": 118.66,
-    "price_was": 217.25,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/9AQ5JmUDix?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/587638919417943087121570745285.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T11:21:07.897252"
   }
 ]
