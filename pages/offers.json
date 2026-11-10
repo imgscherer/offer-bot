@@ -1,5 +1,17 @@
 [
   {
+    "id": "ae2a8e00a97e6072",
+    "title": "Fralda Pinte & Borde Cremer 5 Unidades 70x70cm",
+    "price_now": 27.0,
+    "price_was": 59.95,
+    "discount_pct": 55,
+    "url": "https://www.amazon.com.br/dp/B07FSMVDZQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/439059985317943468292286139649.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T21:50:44.465441"
+  },
+  {
     "id": "bdb261e73abd0f49",
     "title": "Fralda Personal Baby Premium Protection M 62 unidades",
     "price_now": 61.1,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-10T19:40:58.064080"
-  },
-  {
-    "id": "887dedb7498ef303",
-    "title": "Quadro Decorativo Chá de Bebê Fraldas Personalizado Com Nome Ursinho Aviãozinho Balão",
-    "price_now": 24.9,
-    "price_was": 59.29,
-    "discount_pct": 58,
-    "url": "https://s.shopee.com.br/1BNo9d9uNq",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mvb0qj9w4tts07",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T19:40:45.871541"
   }
 ]
