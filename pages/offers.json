@@ -1,5 +1,17 @@
 [
   {
+    "id": "ace0c45702d82b44",
+    "title": "Carrinho de Bebê One4Ever Lounge até 22kg Chicco",
+    "price_now": 1804.0,
+    "price_was": 3199.0,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B0DJQYH2G4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/994541478217943419556458987588.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T20:30:46.062783"
+  },
+  {
     "id": "3e0acec5dcaa1447",
     "title": "Quadro Decorativo Chá de Bebê Fraldas Feminino Personalizado Com Nome Varal Roupinhas Floral",
     "price_now": 24.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-10T18:30:53.590517"
-  },
-  {
-    "id": "5f3b9d3314889f41",
-    "title": "Lenço Umedecido Pampers Cuidado de Bebê 192 Unidades",
-    "price_now": 31.0,
-    "price_was": 46.7,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0CGY62F23?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/768234401517943333088463324473.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T18:00:59.727930"
   }
 ]
