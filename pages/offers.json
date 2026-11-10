@@ -1,5 +1,17 @@
 [
   {
+    "id": "aa16cbe7de43c55c",
+    "title": "Berço Portátil Mini Play Safety 1st",
+    "price_now": 349.8,
+    "price_was": 649.0,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B081T9WZHG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/659349757417943236641222984672.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T15:30:49.319977"
+  },
+  {
     "id": "085e3941b4c27330",
     "title": "Escova de Limpeza de Mamadeiras e Bicos Philips Avent 14506 Azul",
     "price_now": 29.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-10T11:01:35.459065"
-  },
-  {
-    "id": "8dcbb19acf5427e2",
-    "title": "Fralda Pampers Confort Sec Jumbo Plus G com 128",
-    "price_now": 118.0,
-    "price_was": 216.81,
-    "discount_pct": 46,
-    "url": "https://s.shopee.com.br/8VAOWYbE7f?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/198069672917943079323506585199.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T11:01:23.900242"
   }
 ]
