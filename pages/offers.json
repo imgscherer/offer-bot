@@ -1,5 +1,17 @@
 [
   {
+    "id": "e5efd7c053a8dcd9",
+    "title": "Fralda Huggies Supreme Care XXXG 128 unidades",
+    "price_now": 154.88,
+    "price_was": 246.01,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/129983896217943104509228755468.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T11:51:00.867618"
+  },
+  {
     "id": "548133095bb8048f",
     "title": "MamyPoko Fralda-Calça Superproteção XXG com 22 Unidades",
     "price_now": 28.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-10T10:50:50.239704"
-  },
-  {
-    "id": "06bfe1d92ddb11e4",
-    "title": "Fralda Pampers Confort Sec XXG 112 Unidades",
-    "price_now": 124.0,
-    "price_was": 181.64,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B09TF36S57?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/185516454817943062584131591969.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T10:40:54.705929"
   }
 ]
