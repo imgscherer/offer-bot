@@ -1,5 +1,29 @@
 [
   {
+    "id": "8067b93e92551fdf",
+    "title": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
+    "price_now": 29.89,
+    "price_was": 46.9,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/555913226517943505975099995525.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T22:50:58.382020"
+  },
+  {
+    "id": "1adad085bdb52008",
+    "title": "Fralda Mili Love and Care Mega P 56 Unidades",
+    "price_now": 44.59,
+    "price_was": 94.84,
+    "discount_pct": 53,
+    "url": "https://www.amazon.com.br/dp/B0C3FS2GXX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/542984914317943504326210789604.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T22:50:50.570988"
+  },
+  {
     "id": "ae2a8e00a97e6072",
     "title": "Fralda Pinte & Borde Cremer 5 Unidades 70x70cm",
     "price_now": 27.0,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-10T19:41:05.039772"
-  },
-  {
-    "id": "ac917c946ddccead",
-    "title": "Quadro Para Recepção Chá de Bebê Menina Fraldas Personalizado Com Nome Coelhinha Bailarina",
-    "price_now": 24.9,
-    "price_was": 59.29,
-    "discount_pct": 58,
-    "url": "https://s.shopee.com.br/4LKpvRxqxX",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mvb1it3zrrpc6c",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T19:41:01.798700"
-  },
-  {
-    "id": "7ff274cd373d8c10",
-    "title": "Quadro Decorativo Recepção Chá de Bebê Fraldas Árvore Digitais Personalizado Com Nome Data Menina",
-    "price_now": 24.9,
-    "price_was": 59.29,
-    "discount_pct": 58,
-    "url": "https://s.shopee.com.br/4VeG7kxDcY",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mvb7e5somps0e4",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T19:40:58.064080"
   }
 ]

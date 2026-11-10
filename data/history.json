@@ -9547,6 +9547,14 @@
     "ae2a8e00a97e6072": {
       "title": "Fralda Pinte & Borde Cremer 5 Unidades 70x70cm",
       "posted_at": "2026-11-10T21:50:44.465714"
+    },
+    "1adad085bdb52008": {
+      "title": "Fralda Mili Love and Care Mega P 56 Unidades",
+      "posted_at": "2026-11-10T22:50:50.572692"
+    },
+    "8067b93e92551fdf": {
+      "title": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
+      "posted_at": "2026-11-10T22:50:58.382502"
     }
   },
   "results": [
@@ -45541,6 +45549,22 @@
       "post_id": "2400",
       "error": null,
       "at": "2026-11-10T21:50:44.465165"
+    },
+    {
+      "offer_id": "1adad085bdb52008",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2401",
+      "error": null,
+      "at": "2026-11-10T22:50:50.570658"
+    },
+    {
+      "offer_id": "8067b93e92551fdf",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2402",
+      "error": null,
+      "at": "2026-11-10T22:50:58.381728"
     }
   ]
 }
