@@ -9495,6 +9495,22 @@
     "cd3f1d2fff35b533": {
       "title": "Escova de Dentes Elétrica Infantil À Prova Dágua Cerdas Macias Fisher-Price - HC297",
       "posted_at": "2026-11-10T18:50:43.985150"
+    },
+    "887dedb7498ef303": {
+      "title": "Quadro Decorativo Chá de Bebê Fraldas Personalizado Com Nome Ursinho Aviãozinho Balão",
+      "posted_at": "2026-11-10T19:40:45.871803"
+    },
+    "7ff274cd373d8c10": {
+      "title": "Quadro Decorativo Recepção Chá de Bebê Fraldas Árvore Digitais Personalizado Com Nome Data Menina",
+      "posted_at": "2026-11-10T19:40:58.064525"
+    },
+    "ac917c946ddccead": {
+      "title": "Quadro Para Recepção Chá de Bebê Menina Fraldas Personalizado Com Nome Coelhinha Bailarina",
+      "posted_at": "2026-11-10T19:41:01.799397"
+    },
+    "cedb48bc54fd4f44": {
+      "title": "Quadro Decorativo Chá de Bebê Fraldas Personalizado Com Nome Ursinho Príncipe Presentes Balões",
+      "posted_at": "2026-11-10T19:41:05.040207"
     }
   },
   "results": [
@@ -45273,6 +45289,46 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-10T19:10:54.300019"
+    },
+    {
+      "offer_id": "887dedb7498ef303",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2388",
+      "error": null,
+      "at": "2026-11-10T19:40:45.871235"
+    },
+    {
+      "offer_id": "c2469b37ca99a8db",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-10T19:40:54.684725"
+    },
+    {
+      "offer_id": "7ff274cd373d8c10",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2389",
+      "error": null,
+      "at": "2026-11-10T19:40:58.063785"
+    },
+    {
+      "offer_id": "ac917c946ddccead",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2390",
+      "error": null,
+      "at": "2026-11-10T19:41:01.798443"
+    },
+    {
+      "offer_id": "cedb48bc54fd4f44",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2391",
+      "error": null,
+      "at": "2026-11-10T19:41:05.039505"
     }
   ]
 }

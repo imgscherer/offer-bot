@@ -1,5 +1,53 @@
 [
   {
+    "id": "cedb48bc54fd4f44",
+    "title": "Quadro Decorativo Chá de Bebê Fraldas Personalizado Com Nome Ursinho Príncipe Presentes Balões",
+    "price_now": 24.9,
+    "price_was": 59.29,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/4qH6WMvwwe",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mvb0qj9wd98gef",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T19:41:05.039772"
+  },
+  {
+    "id": "ac917c946ddccead",
+    "title": "Quadro Para Recepção Chá de Bebê Menina Fraldas Personalizado Com Nome Coelhinha Bailarina",
+    "price_now": 24.9,
+    "price_was": 59.29,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/4LKpvRxqxX",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mvb1it3zrrpc6c",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T19:41:01.798700"
+  },
+  {
+    "id": "7ff274cd373d8c10",
+    "title": "Quadro Decorativo Recepção Chá de Bebê Fraldas Árvore Digitais Personalizado Com Nome Data Menina",
+    "price_now": 24.9,
+    "price_was": 59.29,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/4VeG7kxDcY",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mvb7e5somps0e4",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T19:40:58.064080"
+  },
+  {
+    "id": "887dedb7498ef303",
+    "title": "Quadro Decorativo Chá de Bebê Fraldas Personalizado Com Nome Ursinho Aviãozinho Balão",
+    "price_now": 24.9,
+    "price_was": 59.29,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/1BNo9d9uNq",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mvb0qj9w4tts07",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T19:40:45.871541"
+  },
+  {
     "id": "cd3f1d2fff35b533",
     "title": "Escova de Dentes Elétrica Infantil À Prova Dágua Cerdas Macias Fisher-Price - HC297",
     "price_now": 84.0,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-10T15:40:45.515143"
-  },
-  {
-    "id": "aa16cbe7de43c55c",
-    "title": "Berço Portátil Mini Play Safety 1st",
-    "price_now": 349.8,
-    "price_was": 649.0,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B081T9WZHG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/659349757417943236641222984672.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T15:30:49.319977"
-  },
-  {
-    "id": "085e3941b4c27330",
-    "title": "Escova de Limpeza de Mamadeiras e Bicos Philips Avent 14506 Azul",
-    "price_now": 29.0,
-    "price_was": 59.9,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B000MMOR46?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/637103880617943230529482624988.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T15:10:40.192977"
-  },
-  {
-    "id": "6a63fa37a43722fa",
-    "title": "Kit Fraldas Descartáveis Pampers SuperSequinha - Tamanho G 160 unidades",
-    "price_now": 152.0,
-    "price_was": 219.77,
-    "discount_pct": 31,
-    "url": "https://s.shopee.com.br/7VHrVuszh9?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/298038664617943177153562496846.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T13:50:51.244502"
-  },
-  {
-    "id": "7116038ac0b8c0e5",
-    "title": "Fralda Cremer P 36 Unidades",
-    "price_now": 22.0,
-    "price_was": 32.79,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0D92N963G?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/624279615817943159927489642630.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T13:10:50.376056"
   }
 ]
