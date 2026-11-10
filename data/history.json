@@ -9435,6 +9435,10 @@
     "e9796924c14acaa2": {
       "title": "Fralda Pampers Confort Sec Jumbo Plus G com 128",
       "posted_at": "2026-11-10T11:21:40.999926"
+    },
+    "548133095bb8048f": {
+      "title": "MamyPoko Fralda-Calça Superproteção XXG com 22 Unidades",
+      "posted_at": "2026-11-10T11:40:46.757139"
     }
   },
   "results": [
@@ -44989,6 +44993,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-10T11:30:59.900240"
+    },
+    {
+      "offer_id": "548133095bb8048f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2373",
+      "error": null,
+      "at": "2026-11-10T11:40:46.756177"
+    },
+    {
+      "offer_id": "e6ab2c3fbf4c61d9",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-10T11:40:53.973733"
     }
   ]
 }
