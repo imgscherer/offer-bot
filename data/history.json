@@ -9539,6 +9539,10 @@
     "3404241d3fce4955": {
       "title": "MamyPoko Fralda-Calça Superproteção G 28 Unidades",
       "posted_at": "2026-11-10T20:50:55.546694"
+    },
+    "bdb261e73abd0f49": {
+      "title": "Fralda Personal Baby Premium Protection M 62 unidades",
+      "posted_at": "2026-11-10T21:00:47.520300"
     }
   },
   "results": [
@@ -45469,6 +45473,22 @@
       "post_id": "2398",
       "error": null,
       "at": "2026-11-10T20:50:55.535449"
+    },
+    {
+      "offer_id": "bdb261e73abd0f49",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2399",
+      "error": null,
+      "at": "2026-11-10T21:00:47.519745"
+    },
+    {
+      "offer_id": "e313b13f3bb204b5",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-10T21:00:53.767052"
     }
   ]
 }

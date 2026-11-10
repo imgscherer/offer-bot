@@ -1,5 +1,17 @@
 [
   {
+    "id": "bdb261e73abd0f49",
+    "title": "Fralda Personal Baby Premium Protection M 62 unidades",
+    "price_now": 61.1,
+    "price_was": 94.84,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0C3FS2GXX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/477244215217943442318088475771.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T21:00:47.520025"
+  },
+  {
     "id": "3404241d3fce4955",
     "title": "MamyPoko Fralda-Calça Superproteção G 28 Unidades",
     "price_now": 28.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-10T19:40:45.871541"
-  },
-  {
-    "id": "cd3f1d2fff35b533",
-    "title": "Escova de Dentes Elétrica Infantil À Prova Dágua Cerdas Macias Fisher-Price - HC297",
-    "price_now": 84.0,
-    "price_was": 122.9,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0H913T1M6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/128531597817943360151937546668.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T18:50:43.955955"
   }
 ]
