@@ -1,5 +1,29 @@
 [
   {
+    "id": "e83aaf73a7d2fcea",
+    "title": "Creme Preventivo De Assaduras Para Bebês Hipoglós, Fragrância Suave, 120g",
+    "price_now": 41.78,
+    "price_was": 77.99,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B0CHZCWLV6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/120310720317943245487032102356.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T15:40:53.556841"
+  },
+  {
+    "id": "4e36ec810edfc3b7",
+    "title": "Kit Mamadeira My 1st NUK 150ml e 300ml 2 Unidades",
+    "price_now": 59.91,
+    "price_was": 120.77,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B07FPQVWNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/273206393617943248855866922539.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T15:40:45.515143"
+  },
+  {
     "id": "aa16cbe7de43c55c",
     "title": "Berço Portátil Mini Play Safety 1st",
     "price_now": 349.8,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-10T11:21:07.897252"
-  },
-  {
-    "id": "ce1b997f63ad8901",
-    "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148",
-    "price_now": 118.66,
-    "price_was": 227.12,
-    "discount_pct": 48,
-    "url": "https://s.shopee.com.br/W86zr5CWF?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/136573241717943087107733399363.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T11:20:52.462364"
-  },
-  {
-    "id": "80418449781bc0d6",
-    "title": "Fralda Pampers Confort Sec Jumbo Plus XG com 116",
-    "price_now": 118.0,
-    "price_was": 217.25,
-    "discount_pct": 46,
-    "url": "https://s.shopee.com.br/9AQ5JmUDix?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/349586975617943079302551241239.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T11:01:35.459065"
   }
 ]

@@ -9463,6 +9463,14 @@
     "aa16cbe7de43c55c": {
       "title": "Berço Portátil Mini Play Safety 1st",
       "posted_at": "2026-11-10T15:30:49.320237"
+    },
+    "4e36ec810edfc3b7": {
+      "title": "Kit Mamadeira My 1st NUK 150ml e 300ml 2 Unidades",
+      "posted_at": "2026-11-10T15:40:45.515520"
+    },
+    "e83aaf73a7d2fcea": {
+      "title": "Creme Preventivo De Assaduras Para Bebês Hipoglós, Fragrância Suave, 120g",
+      "posted_at": "2026-11-10T15:40:53.557266"
     }
   },
   "results": [
@@ -45097,6 +45105,22 @@
       "post_id": "2379",
       "error": null,
       "at": "2026-11-10T15:30:49.319740"
+    },
+    {
+      "offer_id": "4e36ec810edfc3b7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2380",
+      "error": null,
+      "at": "2026-11-10T15:40:45.514810"
+    },
+    {
+      "offer_id": "e83aaf73a7d2fcea",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2381",
+      "error": null,
+      "at": "2026-11-10T15:40:53.556491"
     }
   ]
 }
