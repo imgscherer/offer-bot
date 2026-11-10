@@ -1,5 +1,53 @@
 [
   {
+    "id": "80418449781bc0d6",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus XG com 116",
+    "price_now": 118.0,
+    "price_was": 217.25,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/9AQ5JmUDix?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/349586975617943079302551241239.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T11:01:35.459065"
+  },
+  {
+    "id": "8dcbb19acf5427e2",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus G com 128",
+    "price_now": 118.0,
+    "price_was": 216.81,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/8VAOWYbE7f?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/198069672917943079323506585199.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T11:01:23.900242"
+  },
+  {
+    "id": "64144adbab72cde2",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus XXG com 112",
+    "price_now": 118.0,
+    "price_was": 217.25,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/114Nam3IVG?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/878202349117943079352473069963.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T11:01:09.829231"
+  },
+  {
+    "id": "98bb970e6b0d9192",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148",
+    "price_now": 118.0,
+    "price_was": 227.12,
+    "discount_pct": 48,
+    "url": "https://s.shopee.com.br/W86zr5CWF?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/593258998217943079335923890550.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T11:00:54.886676"
+  },
+  {
     "id": "12ccc3d5ae8feb4b",
     "title": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
     "price_now": 150.84,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T20:20:41.705391"
-  },
-  {
-    "id": "435292388b6ebc04",
-    "title": "Chupeta Ultra Air Dupla 6-18 Meses -Avent",
-    "price_now": 57.59,
-    "price_was": 82.9,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0DGTQBP89?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/465103548617942522537017482482.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T19:41:10.610579"
-  },
-  {
-    "id": "b895e2afc6e1eaf2",
-    "title": "Granado Condicionador Bebê, Tradicional, 250ml",
-    "price_now": 13.99,
-    "price_was": 27.0,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B00TAC06CG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/468180412917942531094046879980.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T19:40:59.627314"
-  },
-  {
-    "id": "95d5264a73197741",
-    "title": "Fralda Mili Baby Jumbo P 36 Unidades",
-    "price_now": 24.0,
-    "price_was": 47.59,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B07G9HL5Q8?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/164957002117942528504327872850.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T19:40:51.536154"
-  },
-  {
-    "id": "47f8e9bb6bc48823",
-    "title": "Fralda Personal Baby Protect & Sec Grande 78 Un",
-    "price_now": 61.0,
-    "price_was": 89.99,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0DF9RCVYY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/403292646517942516519320033398.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T19:20:44.095283"
   }
 ]
