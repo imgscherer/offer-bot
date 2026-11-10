@@ -9419,6 +9419,22 @@
     "80418449781bc0d6": {
       "title": "Fralda Pampers Confort Sec Jumbo Plus XG com 116",
       "posted_at": "2026-11-10T11:01:35.459650"
+    },
+    "ce1b997f63ad8901": {
+      "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148",
+      "posted_at": "2026-11-10T11:20:52.462819"
+    },
+    "a7438a3782697fd7": {
+      "title": "Fralda Pampers Confort Sec Jumbo Plus XG com 116",
+      "posted_at": "2026-11-10T11:21:07.897766"
+    },
+    "ed77a6040c37b17b": {
+      "title": "Fralda Pampers Confort Sec Jumbo Plus XXG com 112",
+      "posted_at": "2026-11-10T11:21:22.488176"
+    },
+    "e9796924c14acaa2": {
+      "title": "Fralda Pampers Confort Sec Jumbo Plus G com 128",
+      "posted_at": "2026-11-10T11:21:40.999926"
     }
   },
   "results": [
@@ -44933,6 +44949,38 @@
       "post_id": "2368",
       "error": null,
       "at": "2026-11-10T11:01:35.458774"
+    },
+    {
+      "offer_id": "ce1b997f63ad8901",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2369",
+      "error": null,
+      "at": "2026-11-10T11:20:52.461986"
+    },
+    {
+      "offer_id": "a7438a3782697fd7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2370",
+      "error": null,
+      "at": "2026-11-10T11:21:07.896867"
+    },
+    {
+      "offer_id": "ed77a6040c37b17b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2371",
+      "error": null,
+      "at": "2026-11-10T11:21:22.487426"
+    },
+    {
+      "offer_id": "e9796924c14acaa2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2372",
+      "error": null,
+      "at": "2026-11-10T11:21:40.999179"
     }
   ]
 }

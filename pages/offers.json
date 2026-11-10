@@ -1,5 +1,53 @@
 [
   {
+    "id": "e9796924c14acaa2",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus G com 128",
+    "price_now": 118.66,
+    "price_was": 216.81,
+    "discount_pct": 45,
+    "url": "https://s.shopee.com.br/8VAOWYbE7f?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/274495272317943087119028826893.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T11:21:40.999474"
+  },
+  {
+    "id": "ed77a6040c37b17b",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus XXG com 112",
+    "price_now": 118.66,
+    "price_was": 217.25,
+    "discount_pct": 45,
+    "url": "https://s.shopee.com.br/114Nam3IVG?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/668152127117943087094058852791.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T11:21:22.487710"
+  },
+  {
+    "id": "a7438a3782697fd7",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus XG com 116",
+    "price_now": 118.66,
+    "price_was": 217.25,
+    "discount_pct": 45,
+    "url": "https://s.shopee.com.br/9AQ5JmUDix?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/587638919417943087121570745285.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T11:21:07.897252"
+  },
+  {
+    "id": "ce1b997f63ad8901",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148",
+    "price_now": 118.66,
+    "price_was": 227.12,
+    "discount_pct": 48,
+    "url": "https://s.shopee.com.br/W86zr5CWF?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/136573241717943087107733399363.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-10T11:20:52.462364"
+  },
+  {
     "id": "80418449781bc0d6",
     "title": "Fralda Pampers Confort Sec Jumbo Plus XG com 116",
     "price_now": 118.0,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-09T21:50:50.742989"
-  },
-  {
-    "id": "e018a307ec0c624e",
-    "title": "Fralda Ultrasec Babysec M 38 Unidades",
-    "price_now": 29.89,
-    "price_was": 52.65,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B07C3JSRDX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/353689162517942601709689025176.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T21:40:49.410274"
-  },
-  {
-    "id": "99a5057594cb2dc6",
-    "title": "Chupeta Ultra Air Dupla 6-18 Meses Avent",
-    "price_now": 57.0,
-    "price_was": 82.9,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0DGTQBP89?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/335521936917942553133861327341.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T20:21:03.323559"
-  },
-  {
-    "id": "9e0995a2194db504",
-    "title": "Fraldas Pampers Pants Ajuste Total M 108 unidades",
-    "price_now": 98.89,
-    "price_was": 194.9,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/986197189017942547874770992907.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T20:20:53.084177"
-  },
-  {
-    "id": "08c5a8d5274455a7",
-    "title": "Buba Lixeira Antiodor Para Fraldas",
-    "price_now": 129.0,
-    "price_was": 304.9,
-    "discount_pct": 58,
-    "url": "https://www.amazon.com.br/dp/B0C5GP554J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/321938079617942551511942359939.png",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-09T20:20:41.705391"
   }
 ]
