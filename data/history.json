@@ -9663,6 +9663,10 @@
     "80ded69139da40b8": {
       "title": "Cadeira De Alimentação Portátil Bebê Multifuncional 4 Em 1 KaBaby",
       "posted_at": "2026-11-11T11:50:51.966826"
+    },
+    "fa0aef8b081dd233": {
+      "title": "Gel Dental Infantil Weleda 50ml",
+      "posted_at": "2026-11-11T12:00:47.331175"
     }
   },
   "results": [
@@ -46465,6 +46469,14 @@
       "post_id": "2429",
       "error": null,
       "at": "2026-11-11T11:50:51.966086"
+    },
+    {
+      "offer_id": "fa0aef8b081dd233",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2430",
+      "error": null,
+      "at": "2026-11-11T12:00:47.330629"
     }
   ]
 }

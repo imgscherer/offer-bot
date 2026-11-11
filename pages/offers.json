@@ -1,5 +1,17 @@
 [
   {
+    "id": "fa0aef8b081dd233",
+    "title": "Gel Dental Infantil Weleda 50ml",
+    "price_now": 34.0,
+    "price_was": 48.9,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B00AI5NZDG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/284406002517943976086574201644.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T12:00:47.330917"
+  },
+  {
     "id": "80ded69139da40b8",
     "title": "Cadeira De Alimentação Portátil Bebê Multifuncional 4 Em 1 KaBaby",
     "price_now": 253.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-11T05:20:46.089789"
-  },
-  {
-    "id": "d0478ad6fca2ade5",
-    "title": "Kit 5 Saquinhos Maternidade Multiuso Organizador Nécessaire Envelope Com Zíper para Roupas Molhadas",
-    "price_now": 11.99,
-    "price_was": 18.73,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/4LKqkx5xtE",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mra7d6r5xn2c52",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T05:20:45.090915"
   }
 ]
