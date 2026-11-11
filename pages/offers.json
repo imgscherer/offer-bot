@@ -1,5 +1,17 @@
 [
   {
+    "id": "01a9b2613a8e9e77",
+    "title": "Fralda Pampers Confort Sec G 168 Unidades",
+    "price_now": 158.69,
+    "price_was": 235.87,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/877286170617943957103231427176.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T11:30:47.987475"
+  },
+  {
     "id": "41d0388358021012",
     "title": "Mamypoko Fralda-calça Superproteção G 28 Unidades",
     "price_now": 26.88,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-11T04:50:49.429373"
-  },
-  {
-    "id": "2010c684d01c3d6e",
-    "title": "KIT COM 200/100  ITENS LEMBRANCINHAS S/COM NOME TEMA: CHÁ DE BEBE AZUL E ROSA(Envio Rápido)",
-    "price_now": 16.94,
-    "price_was": 30.8,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/7puivNsdn7",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820me-mtzgw4uxcbuq73",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T04:50:48.191472"
   }
 ]
