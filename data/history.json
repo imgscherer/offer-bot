@@ -9835,6 +9835,14 @@
     "dd97dec1e5f62b7f": {
       "title": "Fralda Pampers Pants Premium Care Jumbo M 78 Unidades",
       "posted_at": "2026-11-11T23:31:27.322876"
+    },
+    "7528e0d1485bf03d": {
+      "title": "Fralda Pampers Pants Ajuste Total XG 66 Unidades",
+      "posted_at": "2026-11-11T23:40:48.257673"
+    },
+    "3a205f7d90c134b4": {
+      "title": "Fralda Pampers Pants Premium Care Jumbo M 78 Unidades",
+      "posted_at": "2026-11-11T23:41:00.109117"
     }
   },
   "results": [
@@ -47277,6 +47285,22 @@
       "post_id": "2472",
       "error": null,
       "at": "2026-11-11T23:31:27.322179"
+    },
+    {
+      "offer_id": "7528e0d1485bf03d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2473",
+      "error": null,
+      "at": "2026-11-11T23:40:48.257090"
+    },
+    {
+      "offer_id": "3a205f7d90c134b4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2474",
+      "error": null,
+      "at": "2026-11-11T23:41:00.108371"
     }
   ]
 }

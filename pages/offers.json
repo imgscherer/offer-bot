@@ -1,5 +1,29 @@
 [
   {
+    "id": "3a205f7d90c134b4",
+    "title": "Fralda Pampers Pants Premium Care Jumbo M 78 Unidades",
+    "price_now": 27.0,
+    "price_was": 55.16,
+    "discount_pct": 51,
+    "url": "https://s.shopee.com.br/3g5BCdVy9v?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/679989762317944398261139541911.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T23:41:00.108677"
+  },
+  {
+    "id": "7528e0d1485bf03d",
+    "title": "Fralda Pampers Pants Ajuste Total XG 66 Unidades",
+    "price_now": 73.0,
+    "price_was": 166.95,
+    "discount_pct": 56,
+    "url": "https://s.shopee.com.br/9KjXRJMDVP?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/582187010317944395153677953858.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T23:40:48.257433"
+  },
+  {
     "id": "dd97dec1e5f62b7f",
     "title": "Fralda Pampers Pants Premium Care Jumbo M 78 Unidades",
     "price_now": 143.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T19:20:51.713786"
-  },
-  {
-    "id": "e5d09bf3b4d1c542",
-    "title": "Sandália Infantil Menino Confortável (20 a 27, 2 Cores)",
-    "price_now": 37.9,
-    "price_was": 119.75,
-    "discount_pct": 68,
-    "url": "https://s.shopee.com.br/4VeHsa8kjm?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/117970746217944227143140647145.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T18:50:49.844047"
-  },
-  {
-    "id": "c7094fca595d732b",
-    "title": "Oikos Lixeira Antiodor Bebê para Fraldas 10L",
-    "price_now": 104.0,
-    "price_was": 149.9,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0GHP6DWBN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/910436278917944207671890788781.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T18:40:59.939067"
   }
 ]
