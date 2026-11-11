@@ -1,5 +1,17 @@
 [
   {
+    "id": "42b86e593ba4531b",
+    "title": "Carrinho de Bebê Maxi-Cosi Anna³ Select Grey",
+    "price_now": 1335.0,
+    "price_was": 2999.0,
+    "discount_pct": 55,
+    "url": "https://www.amazon.com.br/dp/B0DK3YVQN2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/602614916117943700889456641117.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T04:20:50.053038"
+  },
+  {
     "id": "f50b19327d190ea9",
     "title": "Fralda Pampers Confort Sec Jumbo Plus XG com 116",
     "price_now": 99.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-10T21:50:44.465441"
-  },
-  {
-    "id": "bdb261e73abd0f49",
-    "title": "Fralda Personal Baby Premium Protection M 62 unidades",
-    "price_now": 61.1,
-    "price_was": 94.84,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0C3FS2GXX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/477244215217943442318088475771.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T21:00:47.520025"
   }
 ]
