@@ -1,5 +1,17 @@
 [
   {
+    "id": "4c2c9c31f8324285",
+    "title": "Lenços Umedecidos Pampers Cuidado de Bebê 576 Unidades",
+    "price_now": 78.0,
+    "price_was": 121.72,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0B9959CWN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/272735442117944179686653388082.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T17:40:45.687685"
+  },
+  {
     "id": "ed0101c747096755",
     "title": "Carrinho de Bebê EasyGo cCesto 3 Rodas Passeio Até 15kgs KaBaby (4 Cores)",
     "price_now": 275.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T15:00:56.518952"
-  },
-  {
-    "id": "9b3f4aaf549a439c",
-    "title": "Huggies Fralda Premium Natural Care M - 78 Un",
-    "price_now": 80.0,
-    "price_was": 125.24,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/187011539717944066894641181064.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T14:30:53.553233"
   }
 ]

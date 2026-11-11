@@ -9747,6 +9747,10 @@
     "ed0101c747096755": {
       "title": "Carrinho de Bebê EasyGo cCesto 3 Rodas Passeio Até 15kgs KaBaby (4 Cores)",
       "posted_at": "2026-11-11T17:01:05.074687"
+    },
+    "4c2c9c31f8324285": {
+      "title": "Lenços Umedecidos Pampers Cuidado de Bebê 576 Unidades",
+      "posted_at": "2026-11-11T17:40:45.688080"
     }
   },
   "results": [
@@ -46765,6 +46769,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-11T17:01:06.327663"
+    },
+    {
+      "offer_id": "4c2c9c31f8324285",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2451",
+      "error": null,
+      "at": "2026-11-11T17:40:45.687419"
     }
   ]
 }
