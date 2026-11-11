@@ -9819,6 +9819,10 @@
     "cb4d09242ddebd57": {
       "title": "Lenço Umedecido Recém-Nascido Johnson's Baby 96 Unidades",
       "posted_at": "2026-11-11T22:11:08.352961"
+    },
+    "25db1999510825ad": {
+      "title": "Fralda Pampers Confort Sec Jumbo Plus G 128 un",
+      "posted_at": "2026-11-11T22:23:18.758433"
     }
   },
   "results": [
@@ -47149,6 +47153,30 @@
       "post_id": "2468",
       "error": null,
       "at": "2026-11-11T22:11:08.352059"
+    },
+    {
+      "offer_id": "25db1999510825ad",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2469",
+      "error": null,
+      "at": "2026-11-11T22:23:18.757448"
+    },
+    {
+      "offer_id": "d8bd1e30f16a7f09",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-11T22:23:25.076649"
+    },
+    {
+      "offer_id": "c2469b37ca99a8db",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-11T22:23:26.151681"
     }
   ]
 }
