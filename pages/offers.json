@@ -1,5 +1,29 @@
 [
   {
+    "id": "9a7e814ca99d8175",
+    "title": "Fralda Turma da Mônica Baby M, 50 Unidades",
+    "price_now": 33.98,
+    "price_was": 50.04,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/918413675517943578108793192472.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T01:01:07.385431"
+  },
+  {
+    "id": "dd2448407b400431",
+    "title": "Granado Lenços Umedecidos Bebê, Tradicional",
+    "price_now": 11.8,
+    "price_was": 18.0,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B07D2GD3Z1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/257450903017943585085130328550.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T01:00:56.053548"
+  },
+  {
     "id": "8ffd7c93880e26a1",
     "title": "Personal 'fralda Baby Premium Protection M Com 34 Unidades",
     "price_now": 26.5,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-10T20:01:03.480663"
-  },
-  {
-    "id": "2ff6d85a48d31ad6",
-    "title": "Mordedor Bebê Chocalho Safari Látex Natural",
-    "price_now": 21.89,
-    "price_was": 34.75,
-    "discount_pct": 37,
-    "url": "https://s.shopee.com.br/8AXYiMWF85?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/472474379217943397495753939429.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T19:51:04.351468"
-  },
-  {
-    "id": "8b098cb3255a66fd",
-    "title": "Quadro Decorativo Recepção Chá de Bebê Menina Personalizado Com Nome Data Berço Boho",
-    "price_now": 24.9,
-    "price_was": 59.29,
-    "discount_pct": 58,
-    "url": "https://s.shopee.com.br/LohOWmL34",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820la-mvb2jooav1mp49",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T19:50:48.185375"
   }
 ]
