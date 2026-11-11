@@ -1,5 +1,17 @@
 [
   {
+    "id": "472d3965803361f7",
+    "title": "Fralda Huggies Rápida Absorção P 46 Unidades",
+    "price_now": 37.99,
+    "price_was": 55.53,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/943870374317944199518403392813.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T18:10:53.103271"
+  },
+  {
     "id": "f182fd564b5dcf61",
     "title": "Fralda Pants Huggies Supreme Care Tamanho G 60 Unidades",
     "price_now": 69.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T15:51:34.863205"
-  },
-  {
-    "id": "ec083387db433fe3",
-    "title": "Kit 2 Fraldas Descartáveis Cremer Magic Care Hiper XG 50 Tiras",
-    "price_now": 71.99,
-    "price_was": 147.52,
-    "discount_pct": 51,
-    "url": "https://s.shopee.com.br/2VtDHr07W3?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/311694957617944113119961478335.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T15:51:16.786338"
   }
 ]

@@ -9767,6 +9767,10 @@
     "f182fd564b5dcf61": {
       "title": "Fralda Pants Huggies Supreme Care Tamanho G 60 Unidades",
       "posted_at": "2026-11-11T18:01:05.826412"
+    },
+    "472d3965803361f7": {
+      "title": "Fralda Huggies Rápida Absorção P 46 Unidades",
+      "posted_at": "2026-11-11T18:10:53.103742"
     }
   },
   "results": [
@@ -46825,6 +46829,14 @@
       "post_id": "2455",
       "error": null,
       "at": "2026-11-11T18:01:05.825735"
+    },
+    {
+      "offer_id": "472d3965803361f7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2456",
+      "error": null,
+      "at": "2026-11-11T18:10:53.102980"
     }
   ]
 }
