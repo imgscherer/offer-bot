@@ -1,5 +1,17 @@
 [
   {
+    "id": "c7094fca595d732b",
+    "title": "Oikos Lixeira Antiodor Bebê para Fraldas 10L",
+    "price_now": 104.0,
+    "price_was": 149.9,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0GHP6DWBN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/910436278917944207671890788781.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T18:40:59.939067"
+  },
+  {
     "id": "42f3efdfd65321be",
     "title": "Fralda Huggies Tripla Proteção P 46 Unidades",
     "price_now": 37.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T17:01:05.074285"
-  },
-  {
-    "id": "a43acc65b4448fc9",
-    "title": "Cadeira Infantil Bebê Carro Delta Tutti Baby",
-    "price_now": 229.0,
-    "price_was": 329.9,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0BDMSWV4P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/320922438117944140701955859508.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T16:32:38.611873"
   }
 ]
