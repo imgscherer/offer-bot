@@ -9799,6 +9799,10 @@
     "14fa8054027e257f": {
       "title": "Graco Carrinho de Bebê Gêmeos Passeio Ready2Grow",
       "posted_at": "2026-11-11T19:20:51.714187"
+    },
+    "d2408697dc680349": {
+      "title": "Lenço Umedecido Infantil Huggies Recém-Nascido 192 Folhas",
+      "posted_at": "2026-11-11T19:30:55.194460"
     }
   },
   "results": [
@@ -47001,6 +47005,14 @@
       "post_id": "2463",
       "error": null,
       "at": "2026-11-11T19:20:51.713514"
+    },
+    {
+      "offer_id": "d2408697dc680349",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2464",
+      "error": null,
+      "at": "2026-11-11T19:30:55.193367"
     }
   ]
 }
