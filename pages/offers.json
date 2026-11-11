@@ -1,5 +1,17 @@
 [
   {
+    "id": "a84a99766dffb2b1",
+    "title": "Roupão Infantil Menina Unicórnio (Tam.2 ao 12 em 2 Cores)",
+    "price_now": 76.89,
+    "price_was": 129.9,
+    "discount_pct": 41,
+    "url": "https://s.shopee.com.br/6q2CvHXQWJ?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/804273208717944370529752113273.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T23:01:12.113781"
+  },
+  {
     "id": "25db1999510825ad",
     "title": "Fralda Pampers Confort Sec Jumbo Plus G 128 un",
     "price_now": 90.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T18:31:15.776039"
-  },
-  {
-    "id": "e06e7f936ed3bc13",
-    "title": "Fralda Pampers Confort Sec Ultra M 196 Unidades",
-    "price_now": 128.0,
-    "price_was": 230.62,
-    "discount_pct": 44,
-    "url": "https://s.shopee.com.br/4LKrellMGV?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/888061740717944213983947651589.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T18:31:00.484117"
   }
 ]

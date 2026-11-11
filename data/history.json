@@ -9823,6 +9823,10 @@
     "25db1999510825ad": {
       "title": "Fralda Pampers Confort Sec Jumbo Plus G 128 un",
       "posted_at": "2026-11-11T22:23:18.758433"
+    },
+    "a84a99766dffb2b1": {
+      "title": "Roupão Infantil Menina Unicórnio (Tam.2 ao 12 em 2 Cores)",
+      "posted_at": "2026-11-11T23:01:12.114249"
     }
   },
   "results": [
@@ -47209,6 +47213,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-11T22:50:51.944192"
+    },
+    {
+      "offer_id": "d8bd1e30f16a7f09",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-11T23:00:58.898446"
+    },
+    {
+      "offer_id": "a84a99766dffb2b1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2470",
+      "error": null,
+      "at": "2026-11-11T23:01:12.113453"
     }
   ]
 }
