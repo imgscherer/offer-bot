@@ -1,5 +1,29 @@
 [
   {
+    "id": "d87ad649c52e9222",
+    "title": "Fralda Personal Baby Premium Pants XG 50 Unidades",
+    "price_now": 73.81,
+    "price_was": 116.89,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0BGM5LZ5D?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/496052654217944290357850878075.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T20:58:43.543382"
+  },
+  {
+    "id": "d6102d9b1e7cb3d7",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus XG com 116un",
+    "price_now": 119.92,
+    "price_was": 217.25,
+    "discount_pct": 45,
+    "url": "https://s.shopee.com.br/3LSKbv1kdZ?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/785224846517944292496330464833.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T20:58:34.278829"
+  },
+  {
     "id": "d2408697dc680349",
     "title": "Lenço Umedecido Infantil Huggies Recém-Nascido 192 Folhas",
     "price_now": 41.43,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T18:01:05.825967"
-  },
-  {
-    "id": "0c3d3c8abd381c15",
-    "title": "Fraldas Pampers Pants Ajuste Total XXG 74 unidades",
-    "price_now": 75.29,
-    "price_was": 126.29,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0GW4633WC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/417201104117944195315946008365.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T18:00:52.725587"
-  },
-  {
-    "id": "041c30b11892d064",
-    "title": "Kit de Lavagem Nasal para Bebê Munila Tchau Funga Funga, 0 a 2 Anos",
-    "price_now": 17.0,
-    "price_was": 24.16,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0FFBSYCYB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/219773514117944189327517261983.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T17:50:57.352933"
   }
 ]
