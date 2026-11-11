@@ -1,5 +1,53 @@
 [
   {
+    "id": "d391604c0de6c83d",
+    "title": "Fralda Pampers Premium Care Tamanho XXXG 104 Unidades",
+    "price_now": 157.0,
+    "price_was": 314.29,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/5q9fFdeJWl?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/776369477717944110128100593911.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T15:51:58.194522"
+  },
+  {
+    "id": "bdf027f242591b8a",
+    "title": "Fralda Pampers Premium Care M 160 fraldas",
+    "price_now": 157.0,
+    "price_was": 314.29,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/6AmVeFcuNE?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/432857512617944110174681203420.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T15:51:34.863205"
+  },
+  {
+    "id": "ec083387db433fe3",
+    "title": "Kit 2 Fraldas Descartáveis Cremer Magic Care Hiper XG 50 Tiras",
+    "price_now": 71.99,
+    "price_was": 147.52,
+    "discount_pct": 51,
+    "url": "https://s.shopee.com.br/2VtDHr07W3?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/311694957617944113119961478335.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T15:51:16.786338"
+  },
+  {
+    "id": "6069f72f0436a0d1",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148un",
+    "price_now": 90.16,
+    "price_was": 226.23,
+    "discount_pct": 60,
+    "url": "https://s.shopee.com.br/1gK6IKKkny?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/474157853617944113307228454545.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T15:51:00.781210"
+  },
+  {
     "id": "0c13e017e4928020",
     "title": "Quadro Placa Entrada Árvore Digitais Personalizar Chá de Bebê Fraldas Boas Vindas Macramê",
     "price_now": 24.9,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T12:51:02.342610"
-  },
-  {
-    "id": "3c1ada1635329ca7",
-    "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148un",
-    "price_now": 113.91,
-    "price_was": 226.23,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/9fMNcjTmeI?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/134365782017944005711656169112.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T12:50:54.610590"
-  },
-  {
-    "id": "bc4f067a4e5d9d50",
-    "title": "Fralda Pampers Pants Ajuste Total Jumbo G 72 Unidades",
-    "price_now": 75.0,
-    "price_was": 168.39,
-    "discount_pct": 55,
-    "url": "https://s.shopee.com.br/5AtyFR2JOV?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/649784487017943996753613981124.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T12:31:25.517098"
-  },
-  {
-    "id": "66aba31ccbd9f9a5",
-    "title": "Fralda Pampers Pants Premium Care Jumbo XXG 60 Unidades",
-    "price_now": 77.33,
-    "price_was": 174.81,
-    "discount_pct": 56,
-    "url": "https://s.shopee.com.br/6L5vdr4Gqw?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/840307927117943999182607522017.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T12:31:15.651716"
-  },
-  {
-    "id": "c4ae7b480e95e6a6",
-    "title": "Fralda Pampers Pants Ajuste Total Jumbo M 84 Unidades",
-    "price_now": 69.3,
-    "price_was": 168.24,
-    "discount_pct": 59,
-    "url": "https://s.shopee.com.br/7KySph4S1s?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/667961261617943999194447518075.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T12:30:51.929562"
   }
 ]
