@@ -1,5 +1,53 @@
 [
   {
+    "id": "42f3efdfd65321be",
+    "title": "Fralda Huggies Tripla Proteção P 46 Unidades",
+    "price_now": 37.0,
+    "price_was": 55.53,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/908529804217944207464667441530.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T18:31:24.887504"
+  },
+  {
+    "id": "3083af93634ff3c4",
+    "title": "Fralda Pampers Confort Sec Ultra XXG 148 Unidades",
+    "price_now": 128.16,
+    "price_was": 230.62,
+    "discount_pct": 44,
+    "url": "https://s.shopee.com.br/8fTqoJWhbu?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/966029960417944210323292115574.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T18:31:15.776039"
+  },
+  {
+    "id": "e06e7f936ed3bc13",
+    "title": "Fralda Pampers Confort Sec Ultra M 196 Unidades",
+    "price_now": 128.0,
+    "price_was": 230.62,
+    "discount_pct": 44,
+    "url": "https://s.shopee.com.br/4LKrellMGV?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/888061740717944213983947651589.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T18:31:00.484117"
+  },
+  {
+    "id": "dcafc9445e94a50a",
+    "title": "Cadeira De Descanso Para Bebê Musical Vibratória Modo Balanço Reclinável 18kg",
+    "price_now": 132.91,
+    "price_was": 360.23,
+    "discount_pct": 63,
+    "url": "https://s.shopee.com.br/8Kr0PuOJvC?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/972586777917944212132507312746.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T18:30:48.002084"
+  },
+  {
     "id": "472d3965803361f7",
     "title": "Fralda Huggies Rápida Absorção P 46 Unidades",
     "price_now": 37.99,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T16:32:38.611873"
-  },
-  {
-    "id": "db32ba4e58b8dbac",
-    "title": "Fralda Descartável Cremer Magic Care Hiper G 60 Unidades",
-    "price_now": 38.39,
-    "price_was": 73.83,
-    "discount_pct": 48,
-    "url": "https://s.shopee.com.br/9KjXQPa2Np?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/775081805717944113182635592488.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T16:04:35.729794"
-  },
-  {
-    "id": "dc54424fd2bbf85d",
-    "title": "Fralda Pampers Pants Ajuste Total Jumbo XG 66 Unidades",
-    "price_now": 84.8,
-    "price_was": 168.24,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/9KjXRJMDVP?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/890824621217944121006815769335.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T16:04:23.708255"
-  },
-  {
-    "id": "d391604c0de6c83d",
-    "title": "Fralda Pampers Premium Care Tamanho XXXG 104 Unidades",
-    "price_now": 157.0,
-    "price_was": 314.29,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/5q9fFdeJWl?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/776369477717944110128100593911.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T15:51:58.194522"
-  },
-  {
-    "id": "bdf027f242591b8a",
-    "title": "Fralda Pampers Premium Care M 160 fraldas",
-    "price_now": 157.0,
-    "price_was": 314.29,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/6AmVeFcuNE?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/432857512617944110174681203420.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T15:51:34.863205"
   }
 ]
