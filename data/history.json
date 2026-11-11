@@ -9691,6 +9691,10 @@
     "d4d163e5c362d437": {
       "title": "Kit 3 Quadros Infantil Elefante Azul Carrinho Lua Bolhas Decoração Quarto Bebê MDF Premium",
       "posted_at": "2026-11-11T13:20:41.874030"
+    },
+    "72b02ae517b383ee": {
+      "title": "Cadeira de Alimentação Bebê Kidino com Bandeja Removível",
+      "posted_at": "2026-11-11T14:00:58.210199"
     }
   },
   "results": [
@@ -46549,6 +46553,14 @@
       "post_id": "2436",
       "error": null,
       "at": "2026-11-11T13:20:41.873374"
+    },
+    {
+      "offer_id": "72b02ae517b383ee",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2437",
+      "error": null,
+      "at": "2026-11-11T14:00:58.209457"
     }
   ]
 }

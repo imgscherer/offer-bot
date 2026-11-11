@@ -1,5 +1,17 @@
 [
   {
+    "id": "72b02ae517b383ee",
+    "title": "Cadeira de Alimentação Bebê Kidino com Bandeja Removível",
+    "price_now": 120.0,
+    "price_was": 189.9,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0H311V8QJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/993907806917944052555832140337.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T14:00:58.209756"
+  },
+  {
     "id": "d4d163e5c362d437",
     "title": "Kit 3 Quadros Infantil Elefante Azul Carrinho Lua Bolhas Decoração Quarto Bebê MDF Premium",
     "price_now": 9.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T11:40:54.613218"
-  },
-  {
-    "id": "01a9b2613a8e9e77",
-    "title": "Fralda Pampers Confort Sec G 168 Unidades",
-    "price_now": 158.69,
-    "price_was": 235.87,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/877286170617943957103231427176.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T11:30:47.987475"
   }
 ]
