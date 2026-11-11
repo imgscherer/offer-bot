@@ -1,5 +1,53 @@
 [
   {
+    "id": "7cf0e5f8a78c0094",
+    "title": "Kit 5 Saquinho Saco Maternidade Bebê Organizador Menino Menina",
+    "price_now": 12.99,
+    "price_was": 20.95,
+    "discount_pct": 38,
+    "url": "https://s.shopee.com.br/5AtxkU2nCL",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mra7h30ciaysb2",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T04:50:50.904363"
+  },
+  {
+    "id": "f5a3e3ce71794390",
+    "title": "Kit 5 Saquinho Saco Maternidade Bebê Organizador",
+    "price_now": 12.99,
+    "price_was": 22.02,
+    "discount_pct": 41,
+    "url": "https://s.shopee.com.br/1BrazMSgI",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljfmp4c9jvyi77",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T04:50:49.429373"
+  },
+  {
+    "id": "2010c684d01c3d6e",
+    "title": "KIT COM 200/100  ITENS LEMBRANCINHAS S/COM NOME TEMA: CHÁ DE BEBE AZUL E ROSA(Envio Rápido)",
+    "price_now": 16.94,
+    "price_was": 30.8,
+    "discount_pct": 45,
+    "url": "https://s.shopee.com.br/7puivNsdn7",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820me-mtzgw4uxcbuq73",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T04:50:48.191472"
+  },
+  {
+    "id": "4c504ccb2e7f5a09",
+    "title": "KIT COM 200/100 ITENS LEMBRANCINHAS S/COM NOME TEMA: CHÁ DE BEBÊ URSA REALEZA(Envio Rápido)",
+    "price_now": 16.94,
+    "price_was": 30.8,
+    "discount_pct": 45,
+    "url": "https://s.shopee.com.br/7fbIj4tH84",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mu13x31lhvr58d",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T04:50:45.964877"
+  },
+  {
     "id": "42b86e593ba4531b",
     "title": "Carrinho de Bebê Maxi-Cosi Anna³ Select Grey",
     "price_now": 1335.0,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T01:00:56.053548"
-  },
-  {
-    "id": "8ffd7c93880e26a1",
-    "title": "Personal 'fralda Baby Premium Protection M Com 34 Unidades",
-    "price_now": 26.5,
-    "price_was": 46.38,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/588275108417943508318747248741.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T23:01:04.851143"
-  },
-  {
-    "id": "8067b93e92551fdf",
-    "title": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
-    "price_now": 29.89,
-    "price_was": 46.9,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/555913226517943505975099995525.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T22:50:58.382020"
-  },
-  {
-    "id": "1adad085bdb52008",
-    "title": "Fralda Mili Love and Care Mega P 56 Unidades",
-    "price_now": 44.59,
-    "price_was": 94.84,
-    "discount_pct": 53,
-    "url": "https://www.amazon.com.br/dp/B0C3FS2GXX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/542984914317943504326210789604.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T22:50:50.570988"
-  },
-  {
-    "id": "ae2a8e00a97e6072",
-    "title": "Fralda Pinte & Borde Cremer 5 Unidades 70x70cm",
-    "price_now": 27.0,
-    "price_was": 59.95,
-    "discount_pct": 55,
-    "url": "https://www.amazon.com.br/dp/B07FSMVDZQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/439059985317943468292286139649.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T21:50:44.465441"
   }
 ]
