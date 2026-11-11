@@ -9731,6 +9731,14 @@
     "d391604c0de6c83d": {
       "title": "Fralda Pampers Premium Care Tamanho XXXG 104 Unidades",
       "posted_at": "2026-11-11T15:51:58.194998"
+    },
+    "dc54424fd2bbf85d": {
+      "title": "Fralda Pampers Pants Ajuste Total Jumbo XG 66 Unidades",
+      "posted_at": "2026-11-11T16:04:23.708730"
+    },
+    "db32ba4e58b8dbac": {
+      "title": "Fralda Descartável Cremer Magic Care Hiper G 60 Unidades",
+      "posted_at": "2026-11-11T16:04:35.730217"
     }
   },
   "results": [
@@ -46701,6 +46709,22 @@
       "post_id": "2446",
       "error": null,
       "at": "2026-11-11T15:51:58.194194"
+    },
+    {
+      "offer_id": "dc54424fd2bbf85d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2447",
+      "error": null,
+      "at": "2026-11-11T16:04:23.707934"
+    },
+    {
+      "offer_id": "db32ba4e58b8dbac",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2448",
+      "error": null,
+      "at": "2026-11-11T16:04:35.729445"
     }
   ]
 }

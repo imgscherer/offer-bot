@@ -1,5 +1,29 @@
 [
   {
+    "id": "db32ba4e58b8dbac",
+    "title": "Fralda Descartável Cremer Magic Care Hiper G 60 Unidades",
+    "price_now": 38.39,
+    "price_was": 73.83,
+    "discount_pct": 48,
+    "url": "https://s.shopee.com.br/9KjXQPa2Np?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/775081805717944113182635592488.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T16:04:35.729794"
+  },
+  {
+    "id": "dc54424fd2bbf85d",
+    "title": "Fralda Pampers Pants Ajuste Total Jumbo XG 66 Unidades",
+    "price_now": 84.8,
+    "price_was": 168.24,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/9KjXRJMDVP?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/890824621217944121006815769335.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T16:04:23.708255"
+  },
+  {
     "id": "d391604c0de6c83d",
     "title": "Fralda Pampers Premium Care Tamanho XXXG 104 Unidades",
     "price_now": 157.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T14:00:58.209756"
-  },
-  {
-    "id": "d4d163e5c362d437",
-    "title": "Kit 3 Quadros Infantil Elefante Azul Carrinho Lua Bolhas Decoração Quarto Bebê MDF Premium",
-    "price_now": 9.0,
-    "price_was": 30.0,
-    "discount_pct": 70,
-    "url": "https://s.shopee.com.br/20wwXgrMb4",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mtgy1nn2wr9f17",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T13:20:41.873693"
-  },
-  {
-    "id": "8da7047e69770c30",
-    "title": "Carrinho Travel System Magnific Trio Safety 1st (opção de cor)",
-    "price_now": 1200.0,
-    "price_was": 2199.0,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B0CRZ8FZBP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/408120689217944005198840847125.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T12:51:02.342610"
   }
 ]
