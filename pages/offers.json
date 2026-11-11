@@ -1,5 +1,17 @@
 [
   {
+    "id": "cb4d09242ddebd57",
+    "title": "Lenço Umedecido Recém-Nascido Johnson's Baby 96 Unidades",
+    "price_now": 17.0,
+    "price_was": 35.99,
+    "discount_pct": 53,
+    "url": "https://www.amazon.com.br/dp/B07D2FZ9FV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/600823192517944345543632914181.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T22:11:08.352399"
+  },
+  {
     "id": "d3fd5f40363904e8",
     "title": "Fralda Pampers Confort Sec Jumbo Plus G 128 unidades",
     "price_now": 99.66,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T18:30:48.002084"
-  },
-  {
-    "id": "472d3965803361f7",
-    "title": "Fralda Huggies Rápida Absorção P 46 Unidades",
-    "price_now": 37.99,
-    "price_was": 55.53,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/943870374317944199518403392813.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T18:10:53.103271"
   }
 ]
