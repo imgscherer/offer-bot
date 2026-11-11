@@ -9647,6 +9647,18 @@
     "01a9b2613a8e9e77": {
       "title": "Fralda Pampers Confort Sec G 168 Unidades",
       "posted_at": "2026-11-11T11:30:47.987751"
+    },
+    "b5ec0287e182dc5f": {
+      "title": "Suplemento Infantil Ascenda Sem Sabor 800g",
+      "posted_at": "2026-11-11T11:40:54.613677"
+    },
+    "3e095ea5948f44ac": {
+      "title": "Mustela Hidratante e Calmante sem Fragrância Bebê Rosa 200ml",
+      "posted_at": "2026-11-11T11:41:03.283826"
+    },
+    "6a95a189b9cd8ae1": {
+      "title": "Fralda Pampers Confort Sec XXG 148 Unidades",
+      "posted_at": "2026-11-11T11:41:18.541193"
     }
   },
   "results": [
@@ -46417,6 +46429,30 @@
       "post_id": "2425",
       "error": null,
       "at": "2026-11-11T11:30:47.987207"
+    },
+    {
+      "offer_id": "b5ec0287e182dc5f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2426",
+      "error": null,
+      "at": "2026-11-11T11:40:54.612830"
+    },
+    {
+      "offer_id": "3e095ea5948f44ac",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2427",
+      "error": null,
+      "at": "2026-11-11T11:41:03.283059"
+    },
+    {
+      "offer_id": "6a95a189b9cd8ae1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2428",
+      "error": null,
+      "at": "2026-11-11T11:41:18.540343"
     }
   ]
 }

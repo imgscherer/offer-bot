@@ -1,5 +1,41 @@
 [
   {
+    "id": "6a95a189b9cd8ae1",
+    "title": "Fralda Pampers Confort Sec XXG 148 Unidades",
+    "price_now": 164.28,
+    "price_was": 235.87,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0DDV1QKW7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/270953660717943965717588238447.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T11:41:18.540751"
+  },
+  {
+    "id": "3e095ea5948f44ac",
+    "title": "Mustela Hidratante e Calmante sem Fragrância Bebê Rosa 200ml",
+    "price_now": 67.0,
+    "price_was": 105.81,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B072MTS8VQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/516684530717943969948390833864.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T11:41:03.283390"
+  },
+  {
+    "id": "b5ec0287e182dc5f",
+    "title": "Suplemento Infantil Ascenda Sem Sabor 800g",
+    "price_now": 66.0,
+    "price_was": 124.39,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B09K2Y66Q3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/986077611617943966904456773663.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T11:40:54.613218"
+  },
+  {
     "id": "01a9b2613a8e9e77",
     "title": "Fralda Pampers Confort Sec G 168 Unidades",
     "price_now": 158.69,
@@ -106,41 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-11T05:10:40.229239"
-  },
-  {
-    "id": "a79720207c3a7626",
-    "title": "Quadro Decoração Recepção Chá de Bebê Fraldas Personalizado Com Nome Data Ursinho Dormindo Coroa",
-    "price_now": 24.9,
-    "price_was": 59.29,
-    "discount_pct": 58,
-    "url": "https://s.shopee.com.br/Loi0yZfQC",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mvb6nvcybksi5a",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T05:10:37.857619"
-  },
-  {
-    "id": "7cf0e5f8a78c0094",
-    "title": "Kit 5 Saquinho Saco Maternidade Bebê Organizador Menino Menina",
-    "price_now": 12.99,
-    "price_was": 20.95,
-    "discount_pct": 38,
-    "url": "https://s.shopee.com.br/5AtxkU2nCL",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mra7h30ciaysb2",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T04:50:50.904363"
-  },
-  {
-    "id": "f5a3e3ce71794390",
-    "title": "Kit 5 Saquinho Saco Maternidade Bebê Organizador",
-    "price_now": 12.99,
-    "price_was": 22.02,
-    "discount_pct": 41,
-    "url": "https://s.shopee.com.br/1BrazMSgI",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljfmp4c9jvyi77",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T04:50:49.429373"
   }
 ]
