@@ -9575,6 +9575,14 @@
     "f74353d8e37c4130": {
       "title": "Kit 10 Peças Roupinhas de Bebê Body Longo Liso ou Estampado e Mijão",
       "posted_at": "2026-11-11T03:10:35.747018"
+    },
+    "e2e22e23b0c06f1f": {
+      "title": "Berço Moisés Compacto e Portátil Cinza KaBaby",
+      "posted_at": "2026-11-11T03:30:57.467119"
+    },
+    "830c5c2232c6f7fe": {
+      "title": "Huggies Fralda Descartável Máxima Proteção P 48 Un",
+      "posted_at": "2026-11-11T03:31:09.238706"
     }
   },
   "results": [
@@ -45681,6 +45689,30 @@
       "post_id": "2407",
       "error": null,
       "at": "2026-11-11T03:10:35.746359"
+    },
+    {
+      "offer_id": "e2e22e23b0c06f1f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2408",
+      "error": null,
+      "at": "2026-11-11T03:30:57.466364"
+    },
+    {
+      "offer_id": "c2469b37ca99a8db",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-11T03:30:58.666103"
+    },
+    {
+      "offer_id": "830c5c2232c6f7fe",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2409",
+      "error": null,
+      "at": "2026-11-11T03:31:09.237953"
     }
   ]
 }

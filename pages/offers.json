@@ -1,5 +1,29 @@
 [
   {
+    "id": "830c5c2232c6f7fe",
+    "title": "Huggies Fralda Descartável Máxima Proteção P 48 Un",
+    "price_now": 37.0,
+    "price_was": 68.24,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/8fTppC1I5G?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/404731919017943676315942553356.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T03:31:09.238219"
+  },
+  {
+    "id": "e2e22e23b0c06f1f",
+    "title": "Berço Moisés Compacto e Portátil Cinza KaBaby",
+    "price_now": 293.0,
+    "price_was": 706.69,
+    "discount_pct": 59,
+    "url": "https://s.shopee.com.br/50aXSWmpb6?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/620054614017943676958864177860.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T03:30:57.466657"
+  },
+  {
     "id": "f74353d8e37c4130",
     "title": "Kit 10 Peças Roupinhas de Bebê Body Longo Liso ou Estampado e Mijão",
     "price_now": 60.9,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-10T20:50:55.535763"
-  },
-  {
-    "id": "ace0c45702d82b44",
-    "title": "Carrinho de Bebê One4Ever Lounge até 22kg Chicco",
-    "price_now": 1804.0,
-    "price_was": 3199.0,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B0DJQYH2G4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/994541478217943419556458987588.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T20:30:46.062783"
-  },
-  {
-    "id": "3e0acec5dcaa1447",
-    "title": "Quadro Decorativo Chá de Bebê Fraldas Feminino Personalizado Com Nome Varal Roupinhas Floral",
-    "price_now": 24.9,
-    "price_was": 59.29,
-    "discount_pct": 58,
-    "url": "https://s.shopee.com.br/3B8sfYTXkI",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mvb0ywz67h1da6",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T20:20:47.014338"
   }
 ]
