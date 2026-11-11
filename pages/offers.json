@@ -1,5 +1,17 @@
 [
   {
+    "id": "5054da7b57c4d568",
+    "title": "Kit 4 peças Macaquinho de Bebê 100% Algodão",
+    "price_now": 31.98,
+    "price_was": 118.44,
+    "discount_pct": 73,
+    "url": "https://s.shopee.com.br/5q9f9OBmhG?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/147323604217944055514663692629.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T14:11:05.641110"
+  },
+  {
     "id": "72b02ae517b383ee",
     "title": "Cadeira de Alimentação Bebê Kidino com Bandeja Removível",
     "price_now": 120.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T11:41:03.283390"
-  },
-  {
-    "id": "b5ec0287e182dc5f",
-    "title": "Suplemento Infantil Ascenda Sem Sabor 800g",
-    "price_now": 66.0,
-    "price_was": 124.39,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B09K2Y66Q3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/986077611617943966904456773663.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T11:40:54.613218"
   }
 ]

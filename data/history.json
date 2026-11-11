@@ -9695,6 +9695,10 @@
     "72b02ae517b383ee": {
       "title": "Cadeira de Alimentação Bebê Kidino com Bandeja Removível",
       "posted_at": "2026-11-11T14:00:58.210199"
+    },
+    "5054da7b57c4d568": {
+      "title": "Kit 4 peças Macaquinho de Bebê 100% Algodão",
+      "posted_at": "2026-11-11T14:11:05.641488"
     }
   },
   "results": [
@@ -46561,6 +46565,14 @@
       "post_id": "2437",
       "error": null,
       "at": "2026-11-11T14:00:58.209457"
+    },
+    {
+      "offer_id": "5054da7b57c4d568",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2438",
+      "error": null,
+      "at": "2026-11-11T14:11:05.640811"
     }
   ]
 }
