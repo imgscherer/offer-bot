@@ -9699,6 +9699,10 @@
     "5054da7b57c4d568": {
       "title": "Kit 4 peças Macaquinho de Bebê 100% Algodão",
       "posted_at": "2026-11-11T14:11:05.641488"
+    },
+    "9b3f4aaf549a439c": {
+      "title": "Huggies Fralda Premium Natural Care M - 78 Un",
+      "posted_at": "2026-11-11T14:30:53.553553"
     }
   },
   "results": [
@@ -46573,6 +46577,14 @@
       "post_id": "2438",
       "error": null,
       "at": "2026-11-11T14:11:05.640811"
+    },
+    {
+      "offer_id": "9b3f4aaf549a439c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2439",
+      "error": null,
+      "at": "2026-11-11T14:30:53.552873"
     }
   ]
 }

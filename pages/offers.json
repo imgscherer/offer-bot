@@ -1,5 +1,17 @@
 [
   {
+    "id": "9b3f4aaf549a439c",
+    "title": "Huggies Fralda Premium Natural Care M - 78 Un",
+    "price_now": 80.0,
+    "price_was": 125.24,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/187011539717944066894641181064.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T14:30:53.553233"
+  },
+  {
     "id": "5054da7b57c4d568",
     "title": "Kit 4 peças Macaquinho de Bebê 100% Algodão",
     "price_now": 31.98,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T11:41:18.540751"
-  },
-  {
-    "id": "3e095ea5948f44ac",
-    "title": "Mustela Hidratante e Calmante sem Fragrância Bebê Rosa 200ml",
-    "price_now": 67.0,
-    "price_was": 105.81,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B072MTS8VQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/516684530717943969948390833864.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T11:41:03.283390"
   }
 ]
