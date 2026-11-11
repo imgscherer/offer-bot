@@ -9831,6 +9831,10 @@
     "93e64ac2e42fe1e4": {
       "title": "Fralda Pampers Pants Premium Care Jumbo M 78 Unidades",
       "posted_at": "2026-11-11T23:20:51.232290"
+    },
+    "dd97dec1e5f62b7f": {
+      "title": "Fralda Pampers Pants Premium Care Jumbo M 78 Unidades",
+      "posted_at": "2026-11-11T23:31:27.322876"
     }
   },
   "results": [
@@ -47257,6 +47261,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-11T23:21:00.091723"
+    },
+    {
+      "offer_id": "d8bd1e30f16a7f09",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-11T23:31:01.824022"
+    },
+    {
+      "offer_id": "dd97dec1e5f62b7f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2472",
+      "error": null,
+      "at": "2026-11-11T23:31:27.322179"
     }
   ]
 }

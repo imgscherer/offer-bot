@@ -1,5 +1,17 @@
 [
   {
+    "id": "dd97dec1e5f62b7f",
+    "title": "Fralda Pampers Pants Premium Care Jumbo M 78 Unidades",
+    "price_now": 143.0,
+    "price_was": 315.81,
+    "discount_pct": 55,
+    "url": "https://s.shopee.com.br/6AmVeFcuNE?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/423601679717944392704350473629.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T23:31:27.322462"
+  },
+  {
     "id": "93e64ac2e42fe1e4",
     "title": "Fralda Pampers Pants Premium Care Jumbo M 78 Unidades",
     "price_now": 68.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T18:40:59.939067"
-  },
-  {
-    "id": "42f3efdfd65321be",
-    "title": "Fralda Huggies Tripla Proteção P 46 Unidades",
-    "price_now": 37.0,
-    "price_was": 55.53,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/908529804217944207464667441530.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T18:31:24.887504"
   }
 ]
