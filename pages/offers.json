@@ -1,5 +1,17 @@
 [
   {
+    "id": "a43acc65b4448fc9",
+    "title": "Cadeira Infantil Bebê Carro Delta Tutti Baby",
+    "price_now": 229.0,
+    "price_was": 329.9,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0BDMSWV4P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/320922438117944140701955859508.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T16:32:38.611873"
+  },
+  {
     "id": "db32ba4e58b8dbac",
     "title": "Fralda Descartável Cremer Magic Care Hiper G 60 Unidades",
     "price_now": 38.39,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T14:11:05.641110"
-  },
-  {
-    "id": "72b02ae517b383ee",
-    "title": "Cadeira de Alimentação Bebê Kidino com Bandeja Removível",
-    "price_now": 120.0,
-    "price_was": 189.9,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0H311V8QJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/993907806917944052555832140337.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T14:00:58.209756"
   }
 ]
