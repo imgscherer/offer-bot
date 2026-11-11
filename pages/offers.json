@@ -1,5 +1,29 @@
 [
   {
+    "id": "f182fd564b5dcf61",
+    "title": "Fralda Pants Huggies Supreme Care Tamanho G 60 Unidades",
+    "price_now": 69.0,
+    "price_was": 113.25,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/168979192017944198331232159580.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T18:01:05.825967"
+  },
+  {
+    "id": "0c3d3c8abd381c15",
+    "title": "Fraldas Pampers Pants Ajuste Total XXG 74 unidades",
+    "price_now": 75.29,
+    "price_was": 126.29,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0GW4633WC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/417201104117944195315946008365.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T18:00:52.725587"
+  },
+  {
     "id": "041c30b11892d064",
     "title": "Kit de Lavagem Nasal para Bebê Munila Tchau Funga Funga, 0 a 2 Anos",
     "price_now": 17.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T15:51:16.786338"
-  },
-  {
-    "id": "6069f72f0436a0d1",
-    "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148un",
-    "price_now": 90.16,
-    "price_was": 226.23,
-    "discount_pct": 60,
-    "url": "https://s.shopee.com.br/1gK6IKKkny?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/474157853617944113307228454545.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T15:51:00.781210"
-  },
-  {
-    "id": "0c13e017e4928020",
-    "title": "Quadro Placa Entrada Árvore Digitais Personalizar Chá de Bebê Fraldas Boas Vindas Macramê",
-    "price_now": 24.9,
-    "price_was": 59.29,
-    "discount_pct": 58,
-    "url": "https://s.shopee.com.br/1BNpf2KRQ4",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mvb4hu52bu9teb",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T15:01:05.303680"
   }
 ]
