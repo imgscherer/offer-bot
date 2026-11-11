@@ -9687,6 +9687,10 @@
     "8da7047e69770c30": {
       "title": "Carrinho Travel System Magnific Trio Safety 1st (opção de cor)",
       "posted_at": "2026-11-11T12:51:02.343050"
+    },
+    "d4d163e5c362d437": {
+      "title": "Kit 3 Quadros Infantil Elefante Azul Carrinho Lua Bolhas Decoração Quarto Bebê MDF Premium",
+      "posted_at": "2026-11-11T13:20:41.874030"
     }
   },
   "results": [
@@ -46537,6 +46541,14 @@
       "post_id": "2435",
       "error": null,
       "at": "2026-11-11T12:51:02.342327"
+    },
+    {
+      "offer_id": "d4d163e5c362d437",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2436",
+      "error": null,
+      "at": "2026-11-11T13:20:41.873374"
     }
   ]
 }
