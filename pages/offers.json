@@ -1,5 +1,29 @@
 [
   {
+    "id": "8da7047e69770c30",
+    "title": "Carrinho Travel System Magnific Trio Safety 1st (opção de cor)",
+    "price_now": 1200.0,
+    "price_was": 2199.0,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B0CRZ8FZBP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/408120689217944005198840847125.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T12:51:02.342610"
+  },
+  {
+    "id": "3c1ada1635329ca7",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148un",
+    "price_now": 113.91,
+    "price_was": 226.23,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/9fMNcjTmeI?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/134365782017944005711656169112.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T12:50:54.610590"
+  },
+  {
     "id": "bc4f067a4e5d9d50",
     "title": "Fralda Pampers Pants Ajuste Total Jumbo G 72 Unidades",
     "price_now": 75.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T10:20:50.941601"
-  },
-  {
-    "id": "cfb316a75753a5f7",
-    "title": "Fralda Pampers Pants Ajuste Total Tamanho XXG 120 Unidades",
-    "price_now": 148.48,
-    "price_was": 229.49,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/447338439917943886404429834955.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T09:31:13.657985"
-  },
-  {
-    "id": "f5051bfa2ce608c4",
-    "title": "Fralda Pampers Confort Sec XXG 112 unidades",
-    "price_now": 115.33,
-    "price_was": 181.64,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B09TF36S57?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/915891778217943877297109893808.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T09:10:58.601081"
   }
 ]

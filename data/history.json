@@ -9679,6 +9679,14 @@
     "bc4f067a4e5d9d50": {
       "title": "Fralda Pampers Pants Ajuste Total Jumbo G 72 Unidades",
       "posted_at": "2026-11-11T12:31:25.517509"
+    },
+    "3c1ada1635329ca7": {
+      "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148un",
+      "posted_at": "2026-11-11T12:50:54.611061"
+    },
+    "8da7047e69770c30": {
+      "title": "Carrinho Travel System Magnific Trio Safety 1st (opção de cor)",
+      "posted_at": "2026-11-11T12:51:02.343050"
     }
   },
   "results": [
@@ -46513,6 +46521,22 @@
       "post_id": "2433",
       "error": null,
       "at": "2026-11-11T12:31:25.516812"
+    },
+    {
+      "offer_id": "3c1ada1635329ca7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2434",
+      "error": null,
+      "at": "2026-11-11T12:50:54.610270"
+    },
+    {
+      "offer_id": "8da7047e69770c30",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2435",
+      "error": null,
+      "at": "2026-11-11T12:51:02.342327"
     }
   ]
 }
