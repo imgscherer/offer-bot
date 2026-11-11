@@ -9667,6 +9667,18 @@
     "fa0aef8b081dd233": {
       "title": "Gel Dental Infantil Weleda 50ml",
       "posted_at": "2026-11-11T12:00:47.331175"
+    },
+    "c4ae7b480e95e6a6": {
+      "title": "Fralda Pampers Pants Ajuste Total Jumbo M 84 Unidades",
+      "posted_at": "2026-11-11T12:30:51.929842"
+    },
+    "66aba31ccbd9f9a5": {
+      "title": "Fralda Pampers Pants Premium Care Jumbo XXG 60 Unidades",
+      "posted_at": "2026-11-11T12:31:15.652213"
+    },
+    "bc4f067a4e5d9d50": {
+      "title": "Fralda Pampers Pants Ajuste Total Jumbo G 72 Unidades",
+      "posted_at": "2026-11-11T12:31:25.517509"
     }
   },
   "results": [
@@ -46477,6 +46489,30 @@
       "post_id": "2430",
       "error": null,
       "at": "2026-11-11T12:00:47.330629"
+    },
+    {
+      "offer_id": "c4ae7b480e95e6a6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2431",
+      "error": null,
+      "at": "2026-11-11T12:30:51.929270"
+    },
+    {
+      "offer_id": "66aba31ccbd9f9a5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2432",
+      "error": null,
+      "at": "2026-11-11T12:31:15.651427"
+    },
+    {
+      "offer_id": "bc4f067a4e5d9d50",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2433",
+      "error": null,
+      "at": "2026-11-11T12:31:25.516812"
     }
   ]
 }

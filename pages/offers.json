@@ -1,5 +1,41 @@
 [
   {
+    "id": "bc4f067a4e5d9d50",
+    "title": "Fralda Pampers Pants Ajuste Total Jumbo G 72 Unidades",
+    "price_now": 75.0,
+    "price_was": 168.39,
+    "discount_pct": 55,
+    "url": "https://s.shopee.com.br/5AtyFR2JOV?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/649784487017943996753613981124.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T12:31:25.517098"
+  },
+  {
+    "id": "66aba31ccbd9f9a5",
+    "title": "Fralda Pampers Pants Premium Care Jumbo XXG 60 Unidades",
+    "price_now": 77.33,
+    "price_was": 174.81,
+    "discount_pct": 56,
+    "url": "https://s.shopee.com.br/6L5vdr4Gqw?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/840307927117943999182607522017.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T12:31:15.651716"
+  },
+  {
+    "id": "c4ae7b480e95e6a6",
+    "title": "Fralda Pampers Pants Ajuste Total Jumbo M 84 Unidades",
+    "price_now": 69.3,
+    "price_was": 168.24,
+    "discount_pct": 59,
+    "url": "https://s.shopee.com.br/7KySph4S1s?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/667961261617943999194447518075.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T12:30:51.929562"
+  },
+  {
     "id": "fa0aef8b081dd233",
     "title": "Gel Dental Infantil Weleda 50ml",
     "price_now": 34.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T09:10:58.601081"
-  },
-  {
-    "id": "32faa0b71cfd13b1",
-    "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê 27 x 33 MALA/VIAGEM/ROUPA MOLHADA e SECA",
-    "price_now": 12.99,
-    "price_was": 19.1,
-    "discount_pct": 32,
-    "url": "https://s.shopee.com.br/1BNoz8I1JR",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mra9nhri7tolf6",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T08:30:53.422082"
-  },
-  {
-    "id": "7f6964bba5dc24d4",
-    "title": "Kit 7 Saquinhos Maternidade Organizador 33 x 27  Mala Bebê",
-    "price_now": 13.77,
-    "price_was": 19.96,
-    "discount_pct": 31,
-    "url": "https://s.shopee.com.br/906gDM2bMO",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mpxyl5yh1csja8",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T08:10:56.625772"
-  },
-  {
-    "id": "d60dcdc6f8248fa8",
-    "title": "Tênis Infantil Feminino Pink Cats Torvy Jogging com Glitter Leve e Confortável",
-    "price_now": 144.83,
-    "price_was": 206.9,
-    "discount_pct": 30,
-    "url": "https://s.shopee.com.br/6filXEx59y",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-824hq-mdz5bsmvb40110",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T05:20:46.089789"
   }
 ]
