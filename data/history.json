@@ -9607,6 +9607,14 @@
     "7cf0e5f8a78c0094": {
       "title": "Kit 5 Saquinho Saco Maternidade Bebê Organizador Menino Menina",
       "posted_at": "2026-11-11T04:50:50.904842"
+    },
+    "a79720207c3a7626": {
+      "title": "Quadro Decoração Recepção Chá de Bebê Fraldas Personalizado Com Nome Data Ursinho Dormindo Coroa",
+      "posted_at": "2026-11-11T05:10:37.857888"
+    },
+    "f9e969e6ceea5c6a": {
+      "title": "Quadro Personalizado Chá de Bebê Fraldas Com Nome Data Menina Arco-Íris",
+      "posted_at": "2026-11-11T05:10:40.229661"
     }
   },
   "results": [
@@ -45857,6 +45865,38 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-11T05:00:46.726019"
+    },
+    {
+      "offer_id": "a79720207c3a7626",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2416",
+      "error": null,
+      "at": "2026-11-11T05:10:37.857351"
+    },
+    {
+      "offer_id": "f9e969e6ceea5c6a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2417",
+      "error": null,
+      "at": "2026-11-11T05:10:40.228982"
+    },
+    {
+      "offer_id": "c2469b37ca99a8db",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-11T05:10:40.996426"
+    },
+    {
+      "offer_id": "bd2e9c79ae1ad6d1",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-11T05:10:48.569376"
     }
   ]
 }

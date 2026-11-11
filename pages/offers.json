@@ -1,5 +1,29 @@
 [
   {
+    "id": "f9e969e6ceea5c6a",
+    "title": "Quadro Personalizado Chá de Bebê Fraldas Com Nome Data Menina Arco-Íris",
+    "price_now": 24.9,
+    "price_was": 59.29,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/1BrcMaw6A",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mvb3uegw8s1u48",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T05:10:40.229239"
+  },
+  {
+    "id": "a79720207c3a7626",
+    "title": "Quadro Decoração Recepção Chá de Bebê Fraldas Personalizado Com Nome Data Ursinho Dormindo Coroa",
+    "price_now": 24.9,
+    "price_was": 59.29,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/Loi0yZfQC",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mvb6nvcybksi5a",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T05:10:37.857619"
+  },
+  {
     "id": "7cf0e5f8a78c0094",
     "title": "Kit 5 Saquinho Saco Maternidade Bebê Organizador Menino Menina",
     "price_now": 12.99,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T02:30:48.808234"
-  },
-  {
-    "id": "9a7e814ca99d8175",
-    "title": "Fralda Turma da Mônica Baby M, 50 Unidades",
-    "price_now": 33.98,
-    "price_was": 50.04,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/918413675517943578108793192472.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T01:01:07.385431"
-  },
-  {
-    "id": "dd2448407b400431",
-    "title": "Granado Lenços Umedecidos Bebê, Tradicional",
-    "price_now": 11.8,
-    "price_was": 18.0,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B07D2GD3Z1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/257450903017943585085130328550.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T01:00:56.053548"
   }
 ]
