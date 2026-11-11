@@ -1,5 +1,29 @@
 [
   {
+    "id": "041c30b11892d064",
+    "title": "Kit de Lavagem Nasal para Bebê Munila Tchau Funga Funga, 0 a 2 Anos",
+    "price_now": 17.0,
+    "price_was": 24.16,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0FFBSYCYB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/219773514117944189327517261983.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T17:50:57.352933"
+  },
+  {
+    "id": "7cd4acbb148146d1",
+    "title": "Kit 4 Macacões de Manga Longa com Pezinhos Gerber Sleep 'N Play para Bebês",
+    "price_now": 90.0,
+    "price_was": 174.79,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07GFP14SF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/292900422417944185133865157104.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T17:50:49.637070"
+  },
+  {
     "id": "4c2c9c31f8324285",
     "title": "Lenços Umedecidos Pampers Cuidado de Bebê 576 Unidades",
     "price_now": 78.0,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-11T15:01:05.303680"
-  },
-  {
-    "id": "b9137ed075bd2545",
-    "title": "Quadro Recepção Chá de Bebê Menino Fraldas Personalizável Nome Data Anjinho Lua Harpa Nuvens Azul",
-    "price_now": 24.9,
-    "price_was": 59.29,
-    "discount_pct": 58,
-    "url": "https://s.shopee.com.br/2LZn3BG03B",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mvb8kiu2u22q66",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T15:01:00.458456"
-  },
-  {
-    "id": "cb133625f28b7a5c",
-    "title": "Garrafa Infantil De Inox Sereia Com Bebedor Silicone 350 Ml Lillo",
-    "price_now": 39.0,
-    "price_was": 139.9,
-    "discount_pct": 72,
-    "url": "https://www.amazon.com.br/dp/B0F3YXC3L7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/885548284817944087526516909084.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T15:00:56.518952"
   }
 ]

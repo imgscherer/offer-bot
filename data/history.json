@@ -9751,6 +9751,14 @@
     "4c2c9c31f8324285": {
       "title": "Lenços Umedecidos Pampers Cuidado de Bebê 576 Unidades",
       "posted_at": "2026-11-11T17:40:45.688080"
+    },
+    "7cd4acbb148146d1": {
+      "title": "Kit 4 Macacões de Manga Longa com Pezinhos Gerber Sleep 'N Play para Bebês",
+      "posted_at": "2026-11-11T17:50:49.637491"
+    },
+    "041c30b11892d064": {
+      "title": "Kit de Lavagem Nasal para Bebê Munila Tchau Funga Funga, 0 a 2 Anos",
+      "posted_at": "2026-11-11T17:50:57.353377"
     }
   },
   "results": [
@@ -46777,6 +46785,22 @@
       "post_id": "2451",
       "error": null,
       "at": "2026-11-11T17:40:45.687419"
+    },
+    {
+      "offer_id": "7cd4acbb148146d1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2452",
+      "error": null,
+      "at": "2026-11-11T17:50:49.636758"
+    },
+    {
+      "offer_id": "041c30b11892d064",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2453",
+      "error": null,
+      "at": "2026-11-11T17:50:57.352654"
     }
   ]
 }
