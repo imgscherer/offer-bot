@@ -9703,6 +9703,18 @@
     "9b3f4aaf549a439c": {
       "title": "Huggies Fralda Premium Natural Care M - 78 Un",
       "posted_at": "2026-11-11T14:30:53.553553"
+    },
+    "cb133625f28b7a5c": {
+      "title": "Garrafa Infantil De Inox Sereia Com Bebedor Silicone 350 Ml Lillo",
+      "posted_at": "2026-11-11T15:00:56.519229"
+    },
+    "b9137ed075bd2545": {
+      "title": "Quadro Recepção Chá de Bebê Menino Fraldas Personalizável Nome Data Anjinho Lua Harpa Nuvens Azul",
+      "posted_at": "2026-11-11T15:01:00.458881"
+    },
+    "0c13e017e4928020": {
+      "title": "Quadro Placa Entrada Árvore Digitais Personalizar Chá de Bebê Fraldas Boas Vindas Macramê",
+      "posted_at": "2026-11-11T15:01:05.304107"
     }
   },
   "results": [
@@ -46585,6 +46597,38 @@
       "post_id": "2439",
       "error": null,
       "at": "2026-11-11T14:30:53.552873"
+    },
+    {
+      "offer_id": "cb133625f28b7a5c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2440",
+      "error": null,
+      "at": "2026-11-11T15:00:56.518634"
+    },
+    {
+      "offer_id": "b9137ed075bd2545",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2441",
+      "error": null,
+      "at": "2026-11-11T15:01:00.458133"
+    },
+    {
+      "offer_id": "c2469b37ca99a8db",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-11T15:01:01.788744"
+    },
+    {
+      "offer_id": "0c13e017e4928020",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2442",
+      "error": null,
+      "at": "2026-11-11T15:01:05.303325"
     }
   ]
 }

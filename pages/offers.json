@@ -1,5 +1,41 @@
 [
   {
+    "id": "0c13e017e4928020",
+    "title": "Quadro Placa Entrada Árvore Digitais Personalizar Chá de Bebê Fraldas Boas Vindas Macramê",
+    "price_now": 24.9,
+    "price_was": 59.29,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/1BNpf2KRQ4",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mvb4hu52bu9teb",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T15:01:05.303680"
+  },
+  {
+    "id": "b9137ed075bd2545",
+    "title": "Quadro Recepção Chá de Bebê Menino Fraldas Personalizável Nome Data Anjinho Lua Harpa Nuvens Azul",
+    "price_now": 24.9,
+    "price_was": 59.29,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/2LZn3BG03B",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mvb8kiu2u22q66",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T15:01:00.458456"
+  },
+  {
+    "id": "cb133625f28b7a5c",
+    "title": "Garrafa Infantil De Inox Sereia Com Bebedor Silicone 350 Ml Lillo",
+    "price_now": 39.0,
+    "price_was": 139.9,
+    "discount_pct": 72,
+    "url": "https://www.amazon.com.br/dp/B0F3YXC3L7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/885548284817944087526516909084.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T15:00:56.518952"
+  },
+  {
     "id": "9b3f4aaf549a439c",
     "title": "Huggies Fralda Premium Natural Care M - 78 Un",
     "price_now": 80.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T12:30:51.929562"
-  },
-  {
-    "id": "fa0aef8b081dd233",
-    "title": "Gel Dental Infantil Weleda 50ml",
-    "price_now": 34.0,
-    "price_was": 48.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B00AI5NZDG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/284406002517943976086574201644.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T12:00:47.330917"
-  },
-  {
-    "id": "80ded69139da40b8",
-    "title": "Cadeira De Alimentação Portátil Bebê Multifuncional 4 Em 1 KaBaby",
-    "price_now": 253.0,
-    "price_was": 799.9,
-    "discount_pct": 68,
-    "url": "https://www.amazon.com.br/dp/B0FPXRJKXL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/342029602017943972919731199778.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T11:50:51.966373"
-  },
-  {
-    "id": "6a95a189b9cd8ae1",
-    "title": "Fralda Pampers Confort Sec XXG 148 Unidades",
-    "price_now": 164.28,
-    "price_was": 235.87,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0DDV1QKW7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/270953660717943965717588238447.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T11:41:18.540751"
   }
 ]
