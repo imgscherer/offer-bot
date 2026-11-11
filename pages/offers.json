@@ -1,5 +1,17 @@
 [
   {
+    "id": "14fa8054027e257f",
+    "title": "Graco Carrinho de Bebê Gêmeos Passeio Ready2Grow",
+    "price_now": 1898.0,
+    "price_was": 2990.0,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B08K2YFNDW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/839026214917944238798271174498.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T19:20:51.713786"
+  },
+  {
     "id": "e5d09bf3b4d1c542",
     "title": "Sandália Infantil Menino Confortável (20 a 27, 2 Cores)",
     "price_now": 37.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T17:50:49.637070"
-  },
-  {
-    "id": "4c2c9c31f8324285",
-    "title": "Lenços Umedecidos Pampers Cuidado de Bebê 576 Unidades",
-    "price_now": 78.0,
-    "price_was": 121.72,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0B9959CWN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/272735442117944179686653388082.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T17:40:45.687685"
   }
 ]
