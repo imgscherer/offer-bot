@@ -9635,6 +9635,10 @@
     "f5051bfa2ce608c4": {
       "title": "Fralda Pampers Confort Sec XXG 112 unidades",
       "posted_at": "2026-11-11T09:10:58.601512"
+    },
+    "cfb316a75753a5f7": {
+      "title": "Fralda Pampers Pants Ajuste Total Tamanho XXG 120 Unidades",
+      "posted_at": "2026-11-11T09:31:13.658461"
     }
   },
   "results": [
@@ -46245,6 +46249,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-11T09:20:49.080162"
+    },
+    {
+      "offer_id": "40da6de49a1fd55f",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-11T09:30:58.123534"
+    },
+    {
+      "offer_id": "cfb316a75753a5f7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2423",
+      "error": null,
+      "at": "2026-11-11T09:31:13.657621"
     }
   ]
 }

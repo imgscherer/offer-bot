@@ -1,5 +1,17 @@
 [
   {
+    "id": "cfb316a75753a5f7",
+    "title": "Fralda Pampers Pants Ajuste Total Tamanho XXG 120 Unidades",
+    "price_now": 148.48,
+    "price_was": 229.49,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/447338439917943886404429834955.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T09:31:13.657985"
+  },
+  {
     "id": "f5051bfa2ce608c4",
     "title": "Fralda Pampers Confort Sec XXG 112 unidades",
     "price_now": 115.33,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-11T04:50:45.964877"
-  },
-  {
-    "id": "42b86e593ba4531b",
-    "title": "Carrinho de Bebê Maxi-Cosi Anna³ Select Grey",
-    "price_now": 1335.0,
-    "price_was": 2999.0,
-    "discount_pct": 55,
-    "url": "https://www.amazon.com.br/dp/B0DK3YVQN2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/602614916117943700889456641117.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T04:20:50.053038"
   }
 ]
