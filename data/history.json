@@ -9631,6 +9631,10 @@
     "32faa0b71cfd13b1": {
       "title": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê 27 x 33 MALA/VIAGEM/ROUPA MOLHADA e SECA",
       "posted_at": "2026-11-11T08:30:53.422351"
+    },
+    "f5051bfa2ce608c4": {
+      "title": "Fralda Pampers Confort Sec XXG 112 unidades",
+      "posted_at": "2026-11-11T09:10:58.601512"
     }
   },
   "results": [
@@ -46209,6 +46213,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-11T09:00:51.234182"
+    },
+    {
+      "offer_id": "bd2e9c79ae1ad6d1",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-11T09:10:48.606630"
+    },
+    {
+      "offer_id": "f5051bfa2ce608c4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2422",
+      "error": null,
+      "at": "2026-11-11T09:10:58.600782"
     }
   ]
 }
