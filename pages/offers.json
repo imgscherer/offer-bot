@@ -1,5 +1,17 @@
 [
   {
+    "id": "f50b19327d190ea9",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus XG com 116",
+    "price_now": 99.0,
+    "price_was": 218.0,
+    "discount_pct": 55,
+    "url": "https://s.shopee.com.br/9AQ5JmUDix?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/296234726217943684787748375632.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-11T04:01:12.113370"
+  },
+  {
     "id": "830c5c2232c6f7fe",
     "title": "Huggies Fralda Descartável Máxima Proteção P 48 Un",
     "price_now": 37.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-10T21:00:47.520025"
-  },
-  {
-    "id": "3404241d3fce4955",
-    "title": "MamyPoko Fralda-Calça Superproteção G 28 Unidades",
-    "price_now": 28.0,
-    "price_was": 42.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0D4363KSD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/252163317917943425497623524536.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-10T20:50:55.535763"
   }
 ]

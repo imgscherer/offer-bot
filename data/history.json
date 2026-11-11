@@ -9583,6 +9583,10 @@
     "830c5c2232c6f7fe": {
       "title": "Huggies Fralda Descartável Máxima Proteção P 48 Un",
       "posted_at": "2026-11-11T03:31:09.238706"
+    },
+    "f50b19327d190ea9": {
+      "title": "Fralda Pampers Confort Sec Jumbo Plus XG com 116",
+      "posted_at": "2026-11-11T04:01:12.113796"
     }
   },
   "results": [
@@ -45721,6 +45725,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-11T03:40:41.808009"
+    },
+    {
+      "offer_id": "bd2e9c79ae1ad6d1",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-11T04:00:57.208468"
+    },
+    {
+      "offer_id": "f50b19327d190ea9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2410",
+      "error": null,
+      "at": "2026-11-11T04:01:12.112986"
     }
   ]
 }
