@@ -1,5 +1,17 @@
 [
   {
+    "id": "2665f10fbb68699c",
+    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
+    "price_now": 29.99,
+    "price_was": 52.65,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/427735584217945266321301126209.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T23:50:44.692017"
+  },
+  {
     "id": "08757925965b5f4e",
     "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
     "price_now": 33.29,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T19:10:48.663891"
-  },
-  {
-    "id": "aee83ef240a01fe7",
-    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
-    "price_now": 29.39,
-    "price_was": 52.65,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/854772877617945066021297326071.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T18:10:47.336274"
   }
 ]

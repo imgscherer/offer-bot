@@ -10023,6 +10023,10 @@
     "08757925965b5f4e": {
       "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
       "posted_at": "2026-11-12T23:40:42.467675"
+    },
+    "2665f10fbb68699c": {
+      "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
+      "posted_at": "2026-11-12T23:50:44.692290"
     }
   },
   "results": [
@@ -48257,6 +48261,14 @@
       "post_id": "2519",
       "error": null,
       "at": "2026-11-12T23:40:42.467089"
+    },
+    {
+      "offer_id": "2665f10fbb68699c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2520",
+      "error": null,
+      "at": "2026-11-12T23:50:44.691675"
     }
   ]
 }
