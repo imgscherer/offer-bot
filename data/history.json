@@ -9923,6 +9923,10 @@
     "f79c12839ffaac4e": {
       "title": "Fralda Pampers Pants Premium Care G 68 unidades",
       "posted_at": "2026-11-12T12:41:12.190260"
+    },
+    "815378e7f5c2c992": {
+      "title": "Personal Fralda Baby Premium Protection G 30 Unidades",
+      "posted_at": "2026-11-12T13:20:56.765193"
     }
   },
   "results": [
@@ -47829,6 +47833,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-12T13:10:39.681803"
+    },
+    {
+      "offer_id": "815378e7f5c2c992",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2495",
+      "error": null,
+      "at": "2026-11-12T13:20:56.764349"
+    },
+    {
+      "offer_id": "5c5668e7e6f27e64",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-12T13:21:03.723572"
+    },
+    {
+      "offer_id": "988a157f5cc86c21",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-12T13:21:20.533791"
     }
   ]
 }
