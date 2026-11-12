@@ -1,5 +1,53 @@
 [
   {
+    "id": "c38df45aae2c9969",
+    "title": "Fralda Turma Da Mônica Baby G, 44 Unidades",
+    "price_now": 34.88,
+    "price_was": 50.04,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/722141412717945254285300734018.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T23:31:30.785215"
+  },
+  {
+    "id": "536eb9746bac4206",
+    "title": "MamyPoko Fralda-Calça Dia&Noite M 68 Unidades",
+    "price_now": 74.0,
+    "price_was": 107.9,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0CHZCB5SK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/861358918817945253086370586126.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T23:31:22.257812"
+  },
+  {
+    "id": "3fd6d15cf561629a",
+    "title": "Fralda Pom Pom Protek G, 42 Unidades",
+    "price_now": 33.9,
+    "price_was": 50.29,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/184540522917945254891255573490.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T23:31:09.907705"
+  },
+  {
+    "id": "482b9e6cc64574c3",
+    "title": "Fralda Pom Pom Protek P, 54 Unidades",
+    "price_now": 32.58,
+    "price_was": 50.29,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B093GBK61Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/478091952617945256251473200537.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T23:30:53.518599"
+  },
+  {
     "id": "5e7594f95631ab11",
     "title": "Fralda Cremer G 30 Unidades",
     "price_now": 22.47,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T16:50:46.203689"
-  },
-  {
-    "id": "799699e261e897a6",
-    "title": "Mili Fralda Infantil Love & Care XXG 56 Unidades",
-    "price_now": 82.0,
-    "price_was": 152.9,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B0CN7RNYX2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/619764470417945000533169479407.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T16:20:41.586346"
-  },
-  {
-    "id": "4e044a2ae25a7e61",
-    "title": "Escorredor De Mamadeira Clingo",
-    "price_now": 33.3,
-    "price_was": 49.9,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B07MWT9NND?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/540733494317944980225310210883.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T15:51:41.662219"
-  },
-  {
-    "id": "a869e5c4ae7dace6",
-    "title": "Fralda Descartável Huggies Tamanho G, 160 Unidades",
-    "price_now": 149.9,
-    "price_was": 229.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/917327007717944976011714871549.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T15:51:26.077040"
-  },
-  {
-    "id": "c27d5997ee150844",
-    "title": "Fralda Huggies Supreme Care XG com 140",
-    "price_now": 142.0,
-    "price_was": 229.9,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/532698448117944980095445451127.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T15:51:12.336465"
   }
 ]

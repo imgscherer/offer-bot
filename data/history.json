@@ -10003,6 +10003,22 @@
     "5e7594f95631ab11": {
       "title": "Fralda Cremer G 30 Unidades",
       "posted_at": "2026-11-12T22:50:45.841223"
+    },
+    "482b9e6cc64574c3": {
+      "title": "Fralda Pom Pom Protek P, 54 Unidades",
+      "posted_at": "2026-11-12T23:30:53.518974"
+    },
+    "3fd6d15cf561629a": {
+      "title": "Fralda Pom Pom Protek G, 42 Unidades",
+      "posted_at": "2026-11-12T23:31:09.908343"
+    },
+    "536eb9746bac4206": {
+      "title": "MamyPoko Fralda-Calça Dia&Noite M 68 Unidades",
+      "posted_at": "2026-11-12T23:31:22.258656"
+    },
+    "c38df45aae2c9969": {
+      "title": "Fralda Turma Da Mônica Baby G, 44 Unidades",
+      "posted_at": "2026-11-12T23:31:30.786000"
     }
   },
   "results": [
@@ -48197,6 +48213,38 @@
       "post_id": "2514",
       "error": null,
       "at": "2026-11-12T22:50:45.840733"
+    },
+    {
+      "offer_id": "482b9e6cc64574c3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2515",
+      "error": null,
+      "at": "2026-11-12T23:30:53.518289"
+    },
+    {
+      "offer_id": "3fd6d15cf561629a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2516",
+      "error": null,
+      "at": "2026-11-12T23:31:09.907423"
+    },
+    {
+      "offer_id": "536eb9746bac4206",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2517",
+      "error": null,
+      "at": "2026-11-12T23:31:22.257519"
+    },
+    {
+      "offer_id": "c38df45aae2c9969",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2518",
+      "error": null,
+      "at": "2026-11-12T23:31:30.784915"
     }
   ]
 }
