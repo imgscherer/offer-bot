@@ -9943,6 +9943,10 @@
     "63b563a33867858a": {
       "title": "Fralda Pampers Confort Sec Tamanho Xg 148 Unidades",
       "posted_at": "2026-11-12T14:40:50.792757"
+    },
+    "005c19dbdd036afa": {
+      "title": "Kit 3 Pares Sandália Babuche Infantil Menino (19 ao 32, Diversas opções)",
+      "posted_at": "2026-11-12T14:50:52.180600"
     }
   },
   "results": [
@@ -47961,6 +47965,14 @@
       "post_id": "2499",
       "error": null,
       "at": "2026-11-12T14:40:50.791995"
+    },
+    {
+      "offer_id": "005c19dbdd036afa",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2500",
+      "error": null,
+      "at": "2026-11-12T14:50:52.179866"
     }
   ]
 }
