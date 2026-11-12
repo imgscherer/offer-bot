@@ -1,5 +1,17 @@
 [
   {
+    "id": "5e7594f95631ab11",
+    "title": "Fralda Cremer G 30 Unidades",
+    "price_now": 22.47,
+    "price_was": 32.79,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0D92N4VBW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/828503868917945231509209842350.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T22:50:45.841001"
+  },
+  {
     "id": "bc1851b400d20189",
     "title": "Fralda-Calça Dia&Noite XG MamyPoko 52 Unidades",
     "price_now": 65.52,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T15:51:12.336465"
-  },
-  {
-    "id": "3366d04007d52c67",
-    "title": "Fralda Huggies Supreme Care XXG com 140",
-    "price_now": 142.0,
-    "price_was": 229.9,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/994968004017944980207792871446.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T15:50:45.792703"
   }
 ]
