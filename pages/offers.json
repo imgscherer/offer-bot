@@ -1,5 +1,53 @@
 [
   {
+    "id": "4e044a2ae25a7e61",
+    "title": "Escorredor De Mamadeira Clingo",
+    "price_now": 33.3,
+    "price_was": 49.9,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B07MWT9NND?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/540733494317944980225310210883.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T15:51:41.662219"
+  },
+  {
+    "id": "a869e5c4ae7dace6",
+    "title": "Fralda Descartável Huggies Tamanho G, 160 Unidades",
+    "price_now": 149.9,
+    "price_was": 229.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/917327007717944976011714871549.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T15:51:26.077040"
+  },
+  {
+    "id": "c27d5997ee150844",
+    "title": "Fralda Huggies Supreme Care XG com 140",
+    "price_now": 142.0,
+    "price_was": 229.9,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/532698448117944980095445451127.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T15:51:12.336465"
+  },
+  {
+    "id": "3366d04007d52c67",
+    "title": "Fralda Huggies Supreme Care XXG com 140",
+    "price_now": 142.0,
+    "price_was": 229.9,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/994968004017944980207792871446.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T15:50:45.792703"
+  },
+  {
     "id": "cbbbaa37a3a7515f",
     "title": "Mili Fralda Infantil Baby XXG 16 Unidades",
     "price_now": 17.0,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T12:41:12.189834"
-  },
-  {
-    "id": "ad33988c48e52f6e",
-    "title": "Fralda Pampers Confort Sec Tamanho G 168 Unidades",
-    "price_now": 133.0,
-    "price_was": 235.87,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/943361503617944863716604327010.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T12:40:55.185054"
-  },
-  {
-    "id": "a3201f077fcd61ad",
-    "title": "Huggies Fralda Premium Natural Care P 36 Un",
-    "price_now": 37.0,
-    "price_was": 53.4,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B095R95SNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/848152064117944851107800345248.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T12:21:11.193020"
-  },
-  {
-    "id": "8f1546240331d16c",
-    "title": "Babysec Fralda Premium M 32 Unidades",
-    "price_now": 29.0,
-    "price_was": 54.39,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/960070073017944854713167015876.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T12:20:55.745319"
-  },
-  {
-    "id": "a7ede90d8672f71f",
-    "title": "Fralda Pampers Confort Sec G 128 Unidades",
-    "price_now": 127.71,
-    "price_was": 181.64,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B08K4L37HD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/415835081817944833112787391977.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T11:51:03.134752"
   }
 ]
