@@ -1,5 +1,17 @@
 [
   {
+    "id": "b2fa0c17b0a10d96",
+    "title": "Fralda Pampers Confort Sec XG 116 unidades",
+    "price_now": 128.16,
+    "price_was": 217.25,
+    "discount_pct": 41,
+    "url": "https://s.shopee.com.br/80EBVjKHS2?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/707414986517945019718988221130.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T16:50:46.203689"
+  },
+  {
     "id": "799699e261e897a6",
     "title": "Mili Fralda Infantil Love & Care XXG 56 Unidades",
     "price_now": 82.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T13:50:56.092574"
-  },
-  {
-    "id": "815378e7f5c2c992",
-    "title": "Personal Fralda Baby Premium Protection G 30 Unidades",
-    "price_now": 27.0,
-    "price_was": 48.75,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/318115671217944887697058844441.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T13:20:56.764719"
   }
 ]
