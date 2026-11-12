@@ -1,5 +1,29 @@
 [
   {
+    "id": "f79c12839ffaac4e",
+    "title": "Fralda Pampers Pants Premium Care G 68 unidades",
+    "price_now": 87.0,
+    "price_was": 151.59,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/269602249217944865481396119375.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T12:41:12.189834"
+  },
+  {
+    "id": "ad33988c48e52f6e",
+    "title": "Fralda Pampers Confort Sec Tamanho G 168 Unidades",
+    "price_now": 133.0,
+    "price_was": 235.87,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/943361503617944863716604327010.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T12:40:55.185054"
+  },
+  {
     "id": "a3201f077fcd61ad",
     "title": "Huggies Fralda Premium Natural Care P 36 Un",
     "price_now": 37.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T11:01:28.224224"
-  },
-  {
-    "id": "e43db5ad38549492",
-    "title": "Fralda Pampers Confort Sec XXG 112 unidades",
-    "price_now": 111.75,
-    "price_was": 181.64,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B09TF36S57?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/847566873517944807284951731754.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T11:01:12.546573"
-  },
-  {
-    "id": "1c980baf7764ea30",
-    "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
-    "price_now": 29.0,
-    "price_was": 52.65,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/409898803817944807939153986942.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T11:00:58.106000"
   }
 ]

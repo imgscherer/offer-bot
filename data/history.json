@@ -9915,6 +9915,14 @@
     "a3201f077fcd61ad": {
       "title": "Huggies Fralda Premium Natural Care P 36 Un",
       "posted_at": "2026-11-12T12:21:11.193416"
+    },
+    "ad33988c48e52f6e": {
+      "title": "Fralda Pampers Confort Sec Tamanho G 168 Unidades",
+      "posted_at": "2026-11-12T12:40:55.185493"
+    },
+    "f79c12839ffaac4e": {
+      "title": "Fralda Pampers Pants Premium Care G 68 unidades",
+      "posted_at": "2026-11-12T12:41:12.190260"
     }
   },
   "results": [
@@ -47797,6 +47805,22 @@
       "post_id": "2492",
       "error": null,
       "at": "2026-11-12T12:21:11.192712"
+    },
+    {
+      "offer_id": "ad33988c48e52f6e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2493",
+      "error": null,
+      "at": "2026-11-12T12:40:55.184750"
+    },
+    {
+      "offer_id": "f79c12839ffaac4e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2494",
+      "error": null,
+      "at": "2026-11-12T12:41:12.189508"
     }
   ]
 }
