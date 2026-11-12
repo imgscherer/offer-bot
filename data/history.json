@@ -9987,6 +9987,10 @@
     "2da95e8f4c726ee3": {
       "title": "Fralda Pampers Pants Ajuste Total XXXG 108 Unidades",
       "posted_at": "2026-11-12T19:50:48.533177"
+    },
+    "0c6afb860547deed": {
+      "title": "Fralda Cremer G 30 Unidades",
+      "posted_at": "2026-11-12T21:00:56.631475"
     }
   },
   "results": [
@@ -48133,6 +48137,14 @@
       "post_id": "2510",
       "error": null,
       "at": "2026-11-12T19:50:48.532503"
+    },
+    {
+      "offer_id": "0c6afb860547deed",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2511",
+      "error": null,
+      "at": "2026-11-12T21:00:56.630799"
     }
   ]
 }

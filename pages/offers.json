@@ -1,5 +1,17 @@
 [
   {
+    "id": "0c6afb860547deed",
+    "title": "Fralda Cremer G 30 Unidades",
+    "price_now": 23.0,
+    "price_was": 32.79,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0D92N4VBW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/503459894917945169143360766930.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T21:00:56.631154"
+  },
+  {
     "id": "2da95e8f4c726ee3",
     "title": "Fralda Pampers Pants Ajuste Total XXXG 108 Unidades",
     "price_now": 155.49,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T14:50:52.180187"
-  },
-  {
-    "id": "63b563a33867858a",
-    "title": "Fralda Pampers Confort Sec Tamanho Xg 148 Unidades",
-    "price_now": 155.44,
-    "price_was": 235.87,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B09DQ6CMG2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/705084591817944933291695734899.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T14:40:50.792329"
   }
 ]
