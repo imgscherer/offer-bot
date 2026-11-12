@@ -9975,6 +9975,10 @@
     "b2fa0c17b0a10d96": {
       "title": "Fralda Pampers Confort Sec XG 116 unidades",
       "posted_at": "2026-11-12T16:50:46.203939"
+    },
+    "aee83ef240a01fe7": {
+      "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
+      "posted_at": "2026-11-12T18:10:47.336649"
     }
   },
   "results": [
@@ -48097,6 +48101,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-12T17:20:38.610873"
+    },
+    {
+      "offer_id": "aee83ef240a01fe7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2508",
+      "error": null,
+      "at": "2026-11-12T18:10:47.335946"
     }
   ]
 }
