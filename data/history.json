@@ -9983,6 +9983,10 @@
     "e1cd9ea97cc1529d": {
       "title": "Kit 10 Peças Roupinhas de Bebê Body Longo Liso ou Estampado e Mijão (P ao G)",
       "posted_at": "2026-11-12T19:10:48.664338"
+    },
+    "2da95e8f4c726ee3": {
+      "title": "Fralda Pampers Pants Ajuste Total XXXG 108 Unidades",
+      "posted_at": "2026-11-12T19:50:48.533177"
     }
   },
   "results": [
@@ -48121,6 +48125,14 @@
       "post_id": "2509",
       "error": null,
       "at": "2026-11-12T19:10:48.663514"
+    },
+    {
+      "offer_id": "2da95e8f4c726ee3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2510",
+      "error": null,
+      "at": "2026-11-12T19:50:48.532503"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "2da95e8f4c726ee3",
+    "title": "Fralda Pampers Pants Ajuste Total XXXG 108 Unidades",
+    "price_now": 155.49,
+    "price_was": 229.49,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0DFQJQGPL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/748599294817945123564552051811.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T19:50:48.532857"
+  },
+  {
     "id": "e1cd9ea97cc1529d",
     "title": "Kit 10 Peças Roupinhas de Bebê Body Longo Liso ou Estampado e Mijão (P ao G)",
     "price_now": 57.69,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T14:40:50.792329"
-  },
-  {
-    "id": "e22bdc98e0de4a39",
-    "title": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
-    "price_now": 33.0,
-    "price_was": 50.04,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/352527119517944923711844992417.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T14:21:01.295080"
   }
 ]
