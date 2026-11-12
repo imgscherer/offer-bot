@@ -1,5 +1,17 @@
 [
   {
+    "id": "08757925965b5f4e",
+    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
+    "price_now": 33.29,
+    "price_was": 52.65,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B07C3JY2V3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/662596613117945265073886577219.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T23:40:42.467397"
+  },
+  {
     "id": "c38df45aae2c9969",
     "title": "Fralda Turma Da Mônica Baby G, 44 Unidades",
     "price_now": 34.88,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T18:10:47.336274"
-  },
-  {
-    "id": "b2fa0c17b0a10d96",
-    "title": "Fralda Pampers Confort Sec XG 116 unidades",
-    "price_now": 128.16,
-    "price_was": 217.25,
-    "discount_pct": 41,
-    "url": "https://s.shopee.com.br/80EBVjKHS2?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/707414986517945019718988221130.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T16:50:46.203689"
   }
 ]
