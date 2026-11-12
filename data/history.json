@@ -9927,6 +9927,10 @@
     "815378e7f5c2c992": {
       "title": "Personal Fralda Baby Premium Protection G 30 Unidades",
       "posted_at": "2026-11-12T13:20:56.765193"
+    },
+    "5996f35c1e6c45c5": {
+      "title": "Fralda Pom Pom Protek G, 68 Unidades",
+      "posted_at": "2026-11-12T13:50:56.093028"
     }
   },
   "results": [
@@ -47889,6 +47893,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-12T13:40:48.632091"
+    },
+    {
+      "offer_id": "5996f35c1e6c45c5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2496",
+      "error": null,
+      "at": "2026-11-12T13:50:56.092279"
+    },
+    {
+      "offer_id": "988a157f5cc86c21",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-12T13:51:04.809233"
     }
   ]
 }
