@@ -1,5 +1,17 @@
 [
   {
+    "id": "cbbbaa37a3a7515f",
+    "title": "Mili Fralda Infantil Baby XXG 16 Unidades",
+    "price_now": 17.0,
+    "price_was": 34.89,
+    "discount_pct": 51,
+    "url": "https://www.amazon.com.br/dp/B07G5PQ8VH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/207373389517944968138338514859.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T15:30:53.663194"
+  },
+  {
     "id": "005c19dbdd036afa",
     "title": "Kit 3 Pares Sandália Babuche Infantil Menino (19 ao 32, Diversas opções)",
     "price_now": 59.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T11:51:03.134752"
-  },
-  {
-    "id": "3aabf9317dbc97fc",
-    "title": "Granado Refil Shampoo Bebê Tradicional 250ml",
-    "price_now": 11.0,
-    "price_was": 16.22,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0D8JVLYKT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/117334577017944837503864405354.png",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T11:50:48.313102"
   }
 ]

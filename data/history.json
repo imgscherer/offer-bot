@@ -9947,6 +9947,10 @@
     "005c19dbdd036afa": {
       "title": "Kit 3 Pares Sandália Babuche Infantil Menino (19 ao 32, Diversas opções)",
       "posted_at": "2026-11-12T14:50:52.180600"
+    },
+    "cbbbaa37a3a7515f": {
+      "title": "Mili Fralda Infantil Baby XXG 16 Unidades",
+      "posted_at": "2026-11-12T15:30:53.663442"
     }
   },
   "results": [
@@ -47973,6 +47977,14 @@
       "post_id": "2500",
       "error": null,
       "at": "2026-11-12T14:50:52.179866"
+    },
+    {
+      "offer_id": "cbbbaa37a3a7515f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2501",
+      "error": null,
+      "at": "2026-11-12T15:30:53.662874"
     }
   ]
 }
