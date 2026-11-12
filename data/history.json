@@ -9939,6 +9939,10 @@
     "e22bdc98e0de4a39": {
       "title": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
       "posted_at": "2026-11-12T14:21:01.295509"
+    },
+    "63b563a33867858a": {
+      "title": "Fralda Pampers Confort Sec Tamanho Xg 148 Unidades",
+      "posted_at": "2026-11-12T14:40:50.792757"
     }
   },
   "results": [
@@ -47949,6 +47953,14 @@
       "post_id": "2498",
       "error": null,
       "at": "2026-11-12T14:21:01.294737"
+    },
+    {
+      "offer_id": "63b563a33867858a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2499",
+      "error": null,
+      "at": "2026-11-12T14:40:50.791995"
     }
   ]
 }
