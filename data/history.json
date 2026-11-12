@@ -9863,6 +9863,10 @@
     "495cca49269b09ab": {
       "title": "Personal Fralda Baby Premium Pants M, 70 Unidades",
       "posted_at": "2026-11-12T05:00:53.559712"
+    },
+    "739fff841c357a9a": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
+      "posted_at": "2026-11-12T10:50:54.806615"
     }
   },
   "results": [
@@ -47569,6 +47573,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-12T10:40:48.945904"
+    },
+    {
+      "offer_id": "739fff841c357a9a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2480",
+      "error": null,
+      "at": "2026-11-12T10:50:54.805806"
+    },
+    {
+      "offer_id": "5c5668e7e6f27e64",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-12T10:51:02.175335"
     }
   ]
 }

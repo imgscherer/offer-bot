@@ -1,5 +1,17 @@
 [
   {
+    "id": "739fff841c357a9a",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
+    "price_now": 45.6,
+    "price_was": 77.37,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/482862254417944799484633673578.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T10:50:54.806168"
+  },
+  {
     "id": "495cca49269b09ab",
     "title": "Personal Fralda Baby Premium Pants M, 70 Unidades",
     "price_now": 39.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T22:23:18.757791"
-  },
-  {
-    "id": "cb4d09242ddebd57",
-    "title": "Lenço Umedecido Recém-Nascido Johnson's Baby 96 Unidades",
-    "price_now": 17.0,
-    "price_was": 35.99,
-    "discount_pct": 53,
-    "url": "https://www.amazon.com.br/dp/B07D2FZ9FV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/600823192517944345543632914181.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T22:11:08.352399"
   }
 ]
