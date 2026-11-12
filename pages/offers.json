@@ -1,5 +1,29 @@
 [
   {
+    "id": "e22bdc98e0de4a39",
+    "title": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
+    "price_now": 33.0,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/352527119517944923711844992417.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T14:21:01.295080"
+  },
+  {
+    "id": "f1c5c66d9bcca92d",
+    "title": "Kit com 10 Calcinhas infantil (P ao GG)",
+    "price_now": 21.9,
+    "price_was": 40.18,
+    "discount_pct": 45,
+    "url": "https://s.shopee.com.br/3g5CB3WDUR?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/521993532117944926132989554652.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T14:20:50.834635"
+  },
+  {
     "id": "5996f35c1e6c45c5",
     "title": "Fralda Pom Pom Protek G, 68 Unidades",
     "price_now": 45.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T11:31:08.178073"
-  },
-  {
-    "id": "b363b5f982a8f1cd",
-    "title": "Fralda Pampers Confort Sec XG 116 unidades",
-    "price_now": 115.74,
-    "price_was": 181.64,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B084BNQ7PK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/514258870017944821724254272613.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T11:20:56.285074"
-  },
-  {
-    "id": "0d53cca038a736f5",
-    "title": "Fralda Pampers Premium Care Pants G 68 unidades",
-    "price_now": 87.89,
-    "price_was": 151.59,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/470456820517944813965620291484.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T11:11:13.008130"
   }
 ]
