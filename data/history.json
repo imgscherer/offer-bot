@@ -9867,6 +9867,18 @@
     "739fff841c357a9a": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 unidades",
       "posted_at": "2026-11-12T10:50:54.806615"
+    },
+    "1c980baf7764ea30": {
+      "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
+      "posted_at": "2026-11-12T11:00:58.106439"
+    },
+    "e43db5ad38549492": {
+      "title": "Fralda Pampers Confort Sec XXG 112 unidades",
+      "posted_at": "2026-11-12T11:01:12.547151"
+    },
+    "a4b24c2b3b4e78cd": {
+      "title": "Fralda Pampers Confort Sec Tamanho Xxg 112 Unidades",
+      "posted_at": "2026-11-12T11:01:28.224620"
     }
   },
   "results": [
@@ -47589,6 +47601,38 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-12T10:51:02.175335"
+    },
+    {
+      "offer_id": "1c980baf7764ea30",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2481",
+      "error": null,
+      "at": "2026-11-12T11:00:58.105683"
+    },
+    {
+      "offer_id": "e43db5ad38549492",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2482",
+      "error": null,
+      "at": "2026-11-12T11:01:12.546204"
+    },
+    {
+      "offer_id": "5c5668e7e6f27e64",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-12T11:01:16.927187"
+    },
+    {
+      "offer_id": "a4b24c2b3b4e78cd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2483",
+      "error": null,
+      "at": "2026-11-12T11:01:28.223955"
     }
   ]
 }
