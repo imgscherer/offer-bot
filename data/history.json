@@ -9979,6 +9979,10 @@
     "aee83ef240a01fe7": {
       "title": "Fraldas Babysec Ultrasec Galinha Pintadinha P 42 Unidades",
       "posted_at": "2026-11-12T18:10:47.336649"
+    },
+    "e1cd9ea97cc1529d": {
+      "title": "Kit 10 Peças Roupinhas de Bebê Body Longo Liso ou Estampado e Mijão (P ao G)",
+      "posted_at": "2026-11-12T19:10:48.664338"
     }
   },
   "results": [
@@ -48109,6 +48113,14 @@
       "post_id": "2508",
       "error": null,
       "at": "2026-11-12T18:10:47.335946"
+    },
+    {
+      "offer_id": "e1cd9ea97cc1529d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2509",
+      "error": null,
+      "at": "2026-11-12T19:10:48.663514"
     }
   ]
 }
