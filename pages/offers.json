@@ -1,5 +1,17 @@
 [
   {
+    "id": "6174b957abe62af3",
+    "title": "Lenços Umedecidos Pampers Carícia Bebê",
+    "price_now": 80.66,
+    "price_was": 140.7,
+    "discount_pct": 43,
+    "url": "https://s.shopee.com.br/906he3KkcT?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/379732540117944447331611801943.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T01:01:01.840828"
+  },
+  {
     "id": "7450d9ea1a7b76bd",
     "title": "Tênis Infantil Led Aranha (Tam.23 ao 34)",
     "price_now": 53.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T20:58:43.543382"
-  },
-  {
-    "id": "d6102d9b1e7cb3d7",
-    "title": "Fralda Pampers Confort Sec Jumbo Plus XG com 116un",
-    "price_now": 119.92,
-    "price_was": 217.25,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/3LSKbv1kdZ?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/785224846517944292496330464833.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T20:58:34.278829"
   }
 ]
