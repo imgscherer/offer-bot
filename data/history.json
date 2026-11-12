@@ -9995,6 +9995,10 @@
     "7fc63ee4dca3dd46": {
       "title": "Fralda Huggies Tripla Proteção P - 46 Fraldas",
       "posted_at": "2026-11-12T22:00:49.817704"
+    },
+    "bc1851b400d20189": {
+      "title": "Fralda-Calça Dia&Noite XG MamyPoko 52 Unidades",
+      "posted_at": "2026-11-12T22:40:51.239556"
     }
   },
   "results": [
@@ -48165,6 +48169,14 @@
       "post_id": "2512",
       "error": null,
       "at": "2026-11-12T22:00:49.816961"
+    },
+    {
+      "offer_id": "bc1851b400d20189",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2513",
+      "error": null,
+      "at": "2026-11-12T22:40:51.238824"
     }
   ]
 }

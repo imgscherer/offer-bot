@@ -1,5 +1,17 @@
 [
   {
+    "id": "bc1851b400d20189",
+    "title": "Fralda-Calça Dia&Noite XG MamyPoko 52 Unidades",
+    "price_now": 65.52,
+    "price_was": 107.9,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0CHZBQKTV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/538766340617945221335271110299.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T22:40:51.239236"
+  },
+  {
     "id": "7fc63ee4dca3dd46",
     "title": "Fralda Huggies Tripla Proteção P - 46 Fraldas",
     "price_now": 37.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T15:50:45.792703"
-  },
-  {
-    "id": "cbbbaa37a3a7515f",
-    "title": "Mili Fralda Infantil Baby XXG 16 Unidades",
-    "price_now": 17.0,
-    "price_was": 34.89,
-    "discount_pct": 51,
-    "url": "https://www.amazon.com.br/dp/B07G5PQ8VH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/207373389517944968138338514859.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T15:30:53.663194"
   }
 ]
