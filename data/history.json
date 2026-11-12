@@ -9967,6 +9967,10 @@
     "4e044a2ae25a7e61": {
       "title": "Escorredor De Mamadeira Clingo",
       "posted_at": "2026-11-12T15:51:41.662670"
+    },
+    "799699e261e897a6": {
+      "title": "Mili Fralda Infantil Love & Care XXG 56 Unidades",
+      "posted_at": "2026-11-12T16:20:41.586585"
     }
   },
   "results": [
@@ -48057,6 +48061,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-12T16:10:41.919480"
+    },
+    {
+      "offer_id": "799699e261e897a6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2506",
+      "error": null,
+      "at": "2026-11-12T16:20:41.586008"
+    },
+    {
+      "offer_id": "8f49709dbac8f0e6",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-12T16:20:47.571485"
     }
   ]
 }

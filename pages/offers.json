@@ -1,5 +1,17 @@
 [
   {
+    "id": "799699e261e897a6",
+    "title": "Mili Fralda Infantil Love & Care XXG 56 Unidades",
+    "price_now": 82.0,
+    "price_was": 152.9,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B0CN7RNYX2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/619764470417945000533169479407.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T16:20:41.586346"
+  },
+  {
     "id": "4e044a2ae25a7e61",
     "title": "Escorredor De Mamadeira Clingo",
     "price_now": 33.3,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T13:20:56.764719"
-  },
-  {
-    "id": "f79c12839ffaac4e",
-    "title": "Fralda Pampers Pants Premium Care G 68 unidades",
-    "price_now": 87.0,
-    "price_was": 151.59,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B07X83MH7M?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/269602249217944865481396119375.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T12:41:12.189834"
   }
 ]
