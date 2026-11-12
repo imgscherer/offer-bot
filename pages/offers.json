@@ -1,5 +1,17 @@
 [
   {
+    "id": "7450d9ea1a7b76bd",
+    "title": "Tênis Infantil Led Aranha (Tam.23 ao 34)",
+    "price_now": 53.9,
+    "price_was": 199.69,
+    "discount_pct": 73,
+    "url": "https://s.shopee.com.br/8Kr0pndrRO?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/146215109517944438356341898952.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T00:51:08.910676"
+  },
+  {
     "id": "98ac3d3f99c9936f",
     "title": "Kit Conjunto 2 Body Manga Curta + 2 Tapa Fralda Bebê Gola Envelope Menino Menina 0 a 18 meses",
     "price_now": 61.92,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T20:58:34.278829"
-  },
-  {
-    "id": "d2408697dc680349",
-    "title": "Lenço Umedecido Infantil Huggies Recém-Nascido 192 Folhas",
-    "price_now": 41.43,
-    "price_was": 82.21,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/7fbJgX9Vee?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/578979520417944245764878464031.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T19:30:55.193667"
   }
 ]
