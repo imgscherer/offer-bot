@@ -1,5 +1,17 @@
 [
   {
+    "id": "2a044a661d04c84f",
+    "title": "Creme Preventivo de Assaduras para Bebês Desitin Creamy 57g",
+    "price_now": 32.44,
+    "price_was": 57.99,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B07DHQZPZV?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/837156959417944585955655863634.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T04:50:48.372346"
+  },
+  {
     "id": "6174b957abe62af3",
     "title": "Lenços Umedecidos Pampers Carícia Bebê",
     "price_now": 80.66,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T21:10:54.721718"
-  },
-  {
-    "id": "d87ad649c52e9222",
-    "title": "Fralda Personal Baby Premium Pants XG 50 Unidades",
-    "price_now": 73.81,
-    "price_was": 116.89,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0BGM5LZ5D?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/496052654217944290357850878075.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T20:58:43.543382"
   }
 ]
