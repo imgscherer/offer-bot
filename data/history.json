@@ -9891,6 +9891,10 @@
     "b363b5f982a8f1cd": {
       "title": "Fralda Pampers Confort Sec XG 116 unidades",
       "posted_at": "2026-11-12T11:20:56.285578"
+    },
+    "1e13bbaea238d8fc": {
+      "title": "Fralda Pampers Confort Sec Tamanho Xg 116 Unidades",
+      "posted_at": "2026-11-12T11:31:08.178574"
     }
   },
   "results": [
@@ -47701,6 +47705,22 @@
       "post_id": "2486",
       "error": null,
       "at": "2026-11-12T11:20:56.284730"
+    },
+    {
+      "offer_id": "4b2ee98d4e8e96c6",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-12T11:30:52.255746"
+    },
+    {
+      "offer_id": "1e13bbaea238d8fc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2487",
+      "error": null,
+      "at": "2026-11-12T11:31:08.177797"
     }
   ]
 }

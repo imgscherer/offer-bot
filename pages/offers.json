@@ -1,5 +1,17 @@
 [
   {
+    "id": "1e13bbaea238d8fc",
+    "title": "Fralda Pampers Confort Sec Tamanho Xg 116 Unidades",
+    "price_now": 121.83,
+    "price_was": 181.64,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B084BNQ7PK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/640344182917944826103073925262.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T11:31:08.178073"
+  },
+  {
     "id": "b363b5f982a8f1cd",
     "title": "Fralda Pampers Confort Sec XG 116 unidades",
     "price_now": 115.74,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T00:51:08.910676"
-  },
-  {
-    "id": "98ac3d3f99c9936f",
-    "title": "Kit Conjunto 2 Body Manga Curta + 2 Tapa Fralda Bebê Gola Envelope Menino Menina 0 a 18 meses",
-    "price_now": 61.92,
-    "price_was": 103.2,
-    "discount_pct": 40,
-    "url": "https://s.shopee.com.br/1qdVgs82wT",
-    "image": "https://cf.shopee.com.br/file/sg-11134201-8258s-mg2f5jpvcr9ob5",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T00:00:50.632718"
   }
 ]
