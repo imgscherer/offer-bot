@@ -9859,6 +9859,10 @@
     "2a044a661d04c84f": {
       "title": "Creme Preventivo de Assaduras para Bebês Desitin Creamy 57g",
       "posted_at": "2026-11-12T04:50:48.372680"
+    },
+    "495cca49269b09ab": {
+      "title": "Personal Fralda Baby Premium Pants M, 70 Unidades",
+      "posted_at": "2026-11-12T05:00:53.559712"
     }
   },
   "results": [
@@ -47437,6 +47441,14 @@
       "post_id": "2478",
       "error": null,
       "at": "2026-11-12T04:50:48.372005"
+    },
+    {
+      "offer_id": "495cca49269b09ab",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2479",
+      "error": null,
+      "at": "2026-11-12T05:00:53.559030"
     }
   ]
 }

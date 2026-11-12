@@ -1,5 +1,17 @@
 [
   {
+    "id": "495cca49269b09ab",
+    "title": "Personal Fralda Baby Premium Pants M, 70 Unidades",
+    "price_now": 39.0,
+    "price_was": 116.89,
+    "discount_pct": 67,
+    "url": "https://www.amazon.com.br/dp/B0BGML4J44?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/730223469717944589498322910888.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T05:00:53.559351"
+  },
+  {
     "id": "2a044a661d04c84f",
     "title": "Creme Preventivo de Assaduras para Bebês Desitin Creamy 57g",
     "price_now": 32.44,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-11T22:11:08.352399"
-  },
-  {
-    "id": "d3fd5f40363904e8",
-    "title": "Fralda Pampers Confort Sec Jumbo Plus G 128 unidades",
-    "price_now": 99.66,
-    "price_was": 217.76,
-    "discount_pct": 54,
-    "url": "https://s.shopee.com.br/1W0eBh6CrB?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/565532384717943483187738287039.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-11T21:10:54.721718"
   }
 ]
