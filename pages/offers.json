@@ -1,5 +1,41 @@
 [
   {
+    "id": "a7ede90d8672f71f",
+    "title": "Fralda Pampers Confort Sec G 128 Unidades",
+    "price_now": 127.71,
+    "price_was": 181.64,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B08K4L37HD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/415835081817944833112787391977.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T11:51:03.134752"
+  },
+  {
+    "id": "3aabf9317dbc97fc",
+    "title": "Granado Refil Shampoo Bebê Tradicional 250ml",
+    "price_now": 11.0,
+    "price_was": 16.22,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0D8JVLYKT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/117334577017944837503864405354.png",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T11:50:48.313102"
+  },
+  {
+    "id": "d5efb4d8a3d8e196",
+    "title": "Quadro Placa Entrada Personalizado Com Nome Chá de Bebê Fraldas Árvore Menino Ursinho Aviador",
+    "price_now": 24.9,
+    "price_was": 59.29,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/80EBBQIU0x",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mvb76bejryte01",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-12T11:50:39.395346"
+  },
+  {
     "id": "1e13bbaea238d8fc",
     "title": "Fralda Pampers Confort Sec Tamanho Xg 116 Unidades",
     "price_now": 121.83,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T05:00:53.559351"
-  },
-  {
-    "id": "2a044a661d04c84f",
-    "title": "Creme Preventivo de Assaduras para Bebês Desitin Creamy 57g",
-    "price_now": 32.44,
-    "price_was": 57.99,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B07DHQZPZV?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/837156959417944585955655863634.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T04:50:48.372346"
-  },
-  {
-    "id": "6174b957abe62af3",
-    "title": "Lenços Umedecidos Pampers Carícia Bebê",
-    "price_now": 80.66,
-    "price_was": 140.7,
-    "discount_pct": 43,
-    "url": "https://s.shopee.com.br/906he3KkcT?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/379732540117944447331611801943.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T01:01:01.840828"
-  },
-  {
-    "id": "7450d9ea1a7b76bd",
-    "title": "Tênis Infantil Led Aranha (Tam.23 ao 34)",
-    "price_now": 53.9,
-    "price_was": 199.69,
-    "discount_pct": 73,
-    "url": "https://s.shopee.com.br/8Kr0pndrRO?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/146215109517944438356341898952.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T00:51:08.910676"
   }
 ]
