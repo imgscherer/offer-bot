@@ -9907,6 +9907,14 @@
     "a7ede90d8672f71f": {
       "title": "Fralda Pampers Confort Sec G 128 Unidades",
       "posted_at": "2026-11-12T11:51:03.135399"
+    },
+    "8f1546240331d16c": {
+      "title": "Babysec Fralda Premium M 32 Unidades",
+      "posted_at": "2026-11-12T12:20:55.745836"
+    },
+    "a3201f077fcd61ad": {
+      "title": "Huggies Fralda Premium Natural Care P 36 Un",
+      "posted_at": "2026-11-12T12:21:11.193416"
     }
   },
   "results": [
@@ -47773,6 +47781,22 @@
       "post_id": "2490",
       "error": null,
       "at": "2026-11-12T11:51:03.134500"
+    },
+    {
+      "offer_id": "8f1546240331d16c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2491",
+      "error": null,
+      "at": "2026-11-12T12:20:55.744950"
+    },
+    {
+      "offer_id": "a3201f077fcd61ad",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2492",
+      "error": null,
+      "at": "2026-11-12T12:21:11.192712"
     }
   ]
 }
