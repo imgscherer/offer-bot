@@ -10027,6 +10027,14 @@
     "2665f10fbb68699c": {
       "title": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
       "posted_at": "2026-11-12T23:50:44.692290"
+    },
+    "4fbf350f4ac68f25": {
+      "title": "Creme Preventivo de Assaduras para Bebês Hipoglós 120g",
+      "posted_at": "2026-11-13T00:10:48.426474"
+    },
+    "6c6a153418bf78e8": {
+      "title": "Personal Fralda Baby Premium Protection Grande 30Pads",
+      "posted_at": "2026-11-13T00:10:58.847237"
     }
   },
   "results": [
@@ -48269,6 +48277,22 @@
       "post_id": "2520",
       "error": null,
       "at": "2026-11-12T23:50:44.691675"
+    },
+    {
+      "offer_id": "4fbf350f4ac68f25",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2521",
+      "error": null,
+      "at": "2026-11-13T00:10:48.425836"
+    },
+    {
+      "offer_id": "6c6a153418bf78e8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2522",
+      "error": null,
+      "at": "2026-11-13T00:10:58.846454"
     }
   ]
 }
