@@ -1,5 +1,17 @@
 [
   {
+    "id": "16eb5373e3be2807",
+    "title": "Tapete de Atividades para Bebê Maxi Baby Funny Dino com Piano",
+    "price_now": 55.9,
+    "price_was": 139.9,
+    "discount_pct": 60,
+    "url": "https://www.amazon.com.br/dp/B0D1RT475C?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/806987957917945724097392537514.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T12:40:55.577428"
+  },
+  {
     "id": "12ee71c726aebfe2",
     "title": "Huggies Shampoo Extra Suave para bebê 400ml",
     "price_now": 21.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-13T00:40:47.363361"
-  },
-  {
-    "id": "00c405877afd47ea",
-    "title": "Personal Fralda Baby Total Protect Pants Média, 52 Unidades",
-    "price_now": 46.95,
-    "price_was": 69.42,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/751151247017945288026274573358.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T00:20:49.486734"
   }
 ]

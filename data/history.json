@@ -10083,6 +10083,10 @@
     "12ee71c726aebfe2": {
       "title": "Huggies Shampoo Extra Suave para bebê 400ml",
       "posted_at": "2026-11-13T12:20:46.312816"
+    },
+    "16eb5373e3be2807": {
+      "title": "Tapete de Atividades para Bebê Maxi Baby Funny Dino com Piano",
+      "posted_at": "2026-11-13T12:40:55.578153"
     }
   },
   "results": [
@@ -48485,6 +48489,14 @@
       "post_id": "2534",
       "error": null,
       "at": "2026-11-13T12:20:46.312092"
+    },
+    {
+      "offer_id": "16eb5373e3be2807",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2535",
+      "error": null,
+      "at": "2026-11-13T12:40:55.577121"
     }
   ]
 }
