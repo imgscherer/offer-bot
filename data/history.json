@@ -10063,6 +10063,10 @@
     "73230f886ee3436c": {
       "title": "Fralda Turma da Mônica Baby RN 36 Unidades",
       "posted_at": "2026-11-13T10:50:42.820862"
+    },
+    "3d096e3f35b24538": {
+      "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
+      "posted_at": "2026-11-13T11:30:50.049652"
     }
   },
   "results": [
@@ -48425,6 +48429,14 @@
       "post_id": "2529",
       "error": null,
       "at": "2026-11-13T10:50:42.820294"
+    },
+    {
+      "offer_id": "3d096e3f35b24538",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2530",
+      "error": null,
+      "at": "2026-11-13T11:30:50.049257"
     }
   ]
 }
