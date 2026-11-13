@@ -1,5 +1,17 @@
 [
   {
+    "id": "bfe8b29c8fda8fbe",
+    "title": "Fralda Cremer G 30 Unidades",
+    "price_now": 22.0,
+    "price_was": 32.79,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0D92N4VBW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/585827494017945745686432265517.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T13:10:55.368649"
+  },
+  {
     "id": "e72631875bc1bcfe",
     "title": "Shampoo e Sabonete Weleda Bebê 2 em 1",
     "price_now": 62.49,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-13T05:50:46.334178"
-  },
-  {
-    "id": "e66224ba492e5fcd",
-    "title": "Protex Baby Delicate Care Sabonete Líquido Infantil, 200ml",
-    "price_now": 13.99,
-    "price_was": 22.78,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B08JQNSTJY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/456581897317945392283585664401.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T03:20:48.796408"
   }
 ]
