@@ -10175,6 +10175,10 @@
     "b68fa0fc26a17e29": {
       "title": "Fralda Turma da Mônica Baby XG 42 Un",
       "posted_at": "2026-11-13T20:00:55.475678"
+    },
+    "84dac9f501c4f102": {
+      "title": "Mocassim Feminino Infantil (17 ao 22, 4 cores)",
+      "posted_at": "2026-11-13T21:00:55.102091"
     }
   },
   "results": [
@@ -48841,6 +48845,14 @@
       "post_id": "2557",
       "error": null,
       "at": "2026-11-13T20:00:55.475012"
+    },
+    {
+      "offer_id": "84dac9f501c4f102",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2558",
+      "error": null,
+      "at": "2026-11-13T21:00:55.101404"
     }
   ]
 }

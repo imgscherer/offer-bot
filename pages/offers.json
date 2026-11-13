@@ -1,5 +1,17 @@
 [
   {
+    "id": "84dac9f501c4f102",
+    "title": "Mocassim Feminino Infantil (17 ao 22, 4 cores)",
+    "price_now": 39.9,
+    "price_was": 65.41,
+    "discount_pct": 39,
+    "url": "https://s.shopee.com.br/906kYjvl1U?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/923762809117946025965116578920.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T21:00:55.101793"
+  },
+  {
     "id": "b68fa0fc26a17e29",
     "title": "Fralda Turma da Mônica Baby XG 42 Un",
     "price_now": 34.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-13T16:40:41.959357"
-  },
-  {
-    "id": "fc6b597d2fe341bc",
-    "title": "Bebe Conforto Galzerano Grid Rosa",
-    "price_now": 299.0,
-    "price_was": 499.0,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0BLJ8THSS?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/847008444817945839622813474458.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T15:40:45.645614"
   }
 ]
