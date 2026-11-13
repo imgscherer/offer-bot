@@ -1,5 +1,17 @@
 [
   {
+    "id": "a5c4b0110b67d763",
+    "title": "Fralda Infantil Personal Baby Protect Sec G",
+    "price_now": 25.69,
+    "price_was": 37.02,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/120884200717945483069693241271.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T05:50:46.334178"
+  },
+  {
     "id": "e66224ba492e5fcd",
     "title": "Protex Baby Delicate Care Sabonete Líquido Infantil, 200ml",
     "price_now": 13.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T23:31:09.907705"
-  },
-  {
-    "id": "482b9e6cc64574c3",
-    "title": "Fralda Pom Pom Protek P, 54 Unidades",
-    "price_now": 32.58,
-    "price_was": 50.29,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B093GBK61Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/478091952617945256251473200537.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T23:30:53.518599"
   }
 ]
