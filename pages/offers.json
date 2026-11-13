@@ -1,5 +1,17 @@
 [
   {
+    "id": "e66224ba492e5fcd",
+    "title": "Protex Baby Delicate Care Sabonete Líquido Infantil, 200ml",
+    "price_now": 13.99,
+    "price_was": 22.78,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B08JQNSTJY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/456581897317945392283585664401.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T03:20:48.796408"
+  },
+  {
     "id": "9fe56da5b1bda7e9",
     "title": "Brinquedo Educativo Infantil Carrinho de Montar com Engrenagens 6 Peças Interativo para Crianças a Partir de 3 Anos",
     "price_now": 24.95,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T23:30:53.518599"
-  },
-  {
-    "id": "5e7594f95631ab11",
-    "title": "Fralda Cremer G 30 Unidades",
-    "price_now": 22.47,
-    "price_was": 32.79,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0D92N4VBW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/828503868917945231509209842350.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T22:50:45.841001"
   }
 ]
