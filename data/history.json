@@ -10071,6 +10071,10 @@
     "acba5e7fe6a22a88": {
       "title": "Fralda Turma da Mônica Baby G, 44 Unidades",
       "posted_at": "2026-11-13T11:40:39.913507"
+    },
+    "5a6dd5605d821f32": {
+      "title": "Oikos Lixeira Antiodor Bebê para Fraldas 10L",
+      "posted_at": "2026-11-13T11:50:42.395607"
     }
   },
   "results": [
@@ -48449,6 +48453,14 @@
       "post_id": "2531",
       "error": null,
       "at": "2026-11-13T11:40:39.912936"
+    },
+    {
+      "offer_id": "5a6dd5605d821f32",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2532",
+      "error": null,
+      "at": "2026-11-13T11:50:42.395085"
     }
   ]
 }
