@@ -10107,6 +10107,14 @@
     "c4560c37637fe95f": {
       "title": "Fralda Pampers Confort Sec Jumbo Plus G com 128 unid.",
       "posted_at": "2026-11-13T13:40:54.656876"
+    },
+    "c2542d591b2bc16d": {
+      "title": "Condicionador Granado Bebê Tradicional 250ml",
+      "posted_at": "2026-11-13T14:01:02.228584"
+    },
+    "bf910081680f5770": {
+      "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148un",
+      "posted_at": "2026-11-13T14:01:19.183921"
     }
   },
   "results": [
@@ -48565,6 +48573,22 @@
       "post_id": "2540",
       "error": null,
       "at": "2026-11-13T13:40:54.656142"
+    },
+    {
+      "offer_id": "c2542d591b2bc16d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2541",
+      "error": null,
+      "at": "2026-11-13T14:01:02.227705"
+    },
+    {
+      "offer_id": "bf910081680f5770",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2542",
+      "error": null,
+      "at": "2026-11-13T14:01:19.183127"
     }
   ]
 }
