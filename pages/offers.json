@@ -1,5 +1,17 @@
 [
   {
+    "id": "df5626010ba73191",
+    "title": "Pijama Bebê Algodão 3 Peças Simple Joys",
+    "price_now": 148.0,
+    "price_was": 258.62,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B0744M1JMS?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/486029975317945808518682920533.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T14:50:45.302602"
+  },
+  {
     "id": "7c7336bfd89141f9",
     "title": "Fralda Pampers Confort Sec Jumbo Plus XG com 116",
     "price_now": 128.16,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-13T12:20:46.312488"
-  },
-  {
-    "id": "e112f6096ebb2132",
-    "title": "Fralda Huggies Xtra-Flex XXXL 128 Unidades",
-    "price_now": 161.0,
-    "price_was": 246.01,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/656018352017945710918098357619.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T12:10:53.035868"
   }
 ]
