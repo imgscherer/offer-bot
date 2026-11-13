@@ -10179,6 +10179,10 @@
     "84dac9f501c4f102": {
       "title": "Mocassim Feminino Infantil (17 ao 22, 4 cores)",
       "posted_at": "2026-11-13T21:00:55.102091"
+    },
+    "2ee55dbf8fc733f6": {
+      "title": "Fralda Personal Baby Total Protect Pants XG 40 Unidades",
+      "posted_at": "2026-11-13T21:40:48.107668"
     }
   },
   "results": [
@@ -48853,6 +48857,14 @@
       "post_id": "2558",
       "error": null,
       "at": "2026-11-13T21:00:55.101404"
+    },
+    {
+      "offer_id": "2ee55dbf8fc733f6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2559",
+      "error": null,
+      "at": "2026-11-13T21:40:48.107015"
     }
   ]
 }
