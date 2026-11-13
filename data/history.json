@@ -10039,6 +10039,10 @@
     "00c405877afd47ea": {
       "title": "Personal Fralda Baby Total Protect Pants Média, 52 Unidades",
       "posted_at": "2026-11-13T00:20:49.487009"
+    },
+    "2201535afde3b2fd": {
+      "title": "Fralda Descartável Huggies Máxima Proteção M 40 Unidades",
+      "posted_at": "2026-11-13T00:40:47.363639"
     }
   },
   "results": [
@@ -48305,6 +48309,14 @@
       "post_id": "2523",
       "error": null,
       "at": "2026-11-13T00:20:49.486420"
+    },
+    {
+      "offer_id": "2201535afde3b2fd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2524",
+      "error": null,
+      "at": "2026-11-13T00:40:47.362987"
     }
   ]
 }
