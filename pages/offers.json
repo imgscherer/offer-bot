@@ -1,5 +1,29 @@
 [
   {
+    "id": "1c2c103b236760d4",
+    "title": "Fralda Pampers Confort Sec XG 116 Unidades",
+    "price_now": 121.0,
+    "price_was": 181.64,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B084BNQ7PK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/921107060217945920001235399679.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T18:01:10.468576"
+  },
+  {
+    "id": "30b7e528901ad917",
+    "title": "Kit 3 Tênis Infantil (Tam. 20 ao 30)",
+    "price_now": 138.51,
+    "price_was": 240.0,
+    "discount_pct": 42,
+    "url": "https://s.shopee.com.br/906kMlAJxB?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/576031526317945921353045686761.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T18:00:55.343508"
+  },
+  {
     "id": "d63c9b8e93e3f273",
     "title": "Fralda Personal Pants Baby Premium XXG 30 Unidades",
     "price_now": 54.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-13T14:01:19.183470"
-  },
-  {
-    "id": "c2542d591b2bc16d",
-    "title": "Condicionador Granado Bebê Tradicional 250ml",
-    "price_now": 13.0,
-    "price_was": 27.0,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B00TAC06CG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/113256822817945777193510205371.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T14:01:02.228108"
-  },
-  {
-    "id": "c4560c37637fe95f",
-    "title": "Fralda Pampers Confort Sec Jumbo Plus G com 128 unid.",
-    "price_now": 128.16,
-    "price_was": 217.25,
-    "discount_pct": 41,
-    "url": "https://s.shopee.com.br/4LKuWhLBKX?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/935608978617945768521875820323.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T13:40:54.656444"
   }
 ]

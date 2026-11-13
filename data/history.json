@@ -10151,6 +10151,14 @@
     "d63c9b8e93e3f273": {
       "title": "Fralda Personal Pants Baby Premium XXG 30 Unidades",
       "posted_at": "2026-11-13T17:21:09.902489"
+    },
+    "30b7e528901ad917": {
+      "title": "Kit 3 Tênis Infantil (Tam. 20 ao 30)",
+      "posted_at": "2026-11-13T18:00:55.343754"
+    },
+    "1c2c103b236760d4": {
+      "title": "Fralda Pampers Confort Sec XG 116 Unidades",
+      "posted_at": "2026-11-13T18:01:10.468983"
     }
   },
   "results": [
@@ -48769,6 +48777,22 @@
       "post_id": "2551",
       "error": null,
       "at": "2026-11-13T17:21:09.901837"
+    },
+    {
+      "offer_id": "30b7e528901ad917",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2552",
+      "error": null,
+      "at": "2026-11-13T18:00:55.343234"
+    },
+    {
+      "offer_id": "1c2c103b236760d4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2553",
+      "error": null,
+      "at": "2026-11-13T18:01:10.468336"
     }
   ]
 }
