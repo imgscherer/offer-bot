@@ -1,5 +1,17 @@
 [
   {
+    "id": "12ee71c726aebfe2",
+    "title": "Huggies Shampoo Extra Suave para bebê 400ml",
+    "price_now": 21.0,
+    "price_was": 30.89,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B07FSL72KP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/722475949217945716496340246684.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T12:20:46.312488"
+  },
+  {
     "id": "e112f6096ebb2132",
     "title": "Fralda Huggies Xtra-Flex XXXL 128 Unidades",
     "price_now": 161.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-13T00:20:49.486734"
-  },
-  {
-    "id": "6c6a153418bf78e8",
-    "title": "Personal Fralda Baby Premium Protection Grande 30Pads",
-    "price_now": 28.9,
-    "price_was": 48.75,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/343218166517945281932324396997.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T00:10:58.846770"
   }
 ]

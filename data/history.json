@@ -10079,6 +10079,10 @@
     "e112f6096ebb2132": {
       "title": "Fralda Huggies Xtra-Flex XXXL 128 Unidades",
       "posted_at": "2026-11-13T12:10:53.036324"
+    },
+    "12ee71c726aebfe2": {
+      "title": "Huggies Shampoo Extra Suave para bebê 400ml",
+      "posted_at": "2026-11-13T12:20:46.312816"
     }
   },
   "results": [
@@ -48473,6 +48477,14 @@
       "post_id": "2533",
       "error": null,
       "at": "2026-11-13T12:10:53.035567"
+    },
+    {
+      "offer_id": "12ee71c726aebfe2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2534",
+      "error": null,
+      "at": "2026-11-13T12:20:46.312092"
     }
   ]
 }
