@@ -10159,6 +10159,14 @@
     "1c2c103b236760d4": {
       "title": "Fralda Pampers Confort Sec XG 116 Unidades",
       "posted_at": "2026-11-13T18:01:10.468983"
+    },
+    "07dbd77d089fb02b": {
+      "title": "Vestido de malha para bebê de 3 meses à 3 anos com tapa fralda menina em malha 100% algodão",
+      "posted_at": "2026-11-13T19:00:47.566638"
+    },
+    "f265f096bc3b46c1": {
+      "title": "Kit vestido de malha para bebê de 3 meses à 3 anos com tapa fralda menina em malha 100% algodão kit com 6 peças",
+      "posted_at": "2026-11-13T19:00:51.729957"
     }
   },
   "results": [
@@ -48793,6 +48801,22 @@
       "post_id": "2553",
       "error": null,
       "at": "2026-11-13T18:01:10.468336"
+    },
+    {
+      "offer_id": "07dbd77d089fb02b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2554",
+      "error": null,
+      "at": "2026-11-13T19:00:47.565909"
+    },
+    {
+      "offer_id": "f265f096bc3b46c1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2555",
+      "error": null,
+      "at": "2026-11-13T19:00:51.729199"
     }
   ]
 }
