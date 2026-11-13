@@ -1,5 +1,17 @@
 [
   {
+    "id": "acba5e7fe6a22a88",
+    "title": "Fralda Turma da Mônica Baby G, 44 Unidades",
+    "price_now": 33.0,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/479452661217945690611635103747.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T11:40:39.913251"
+  },
+  {
     "id": "3d096e3f35b24538",
     "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
     "price_now": 46.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T23:50:44.692017"
-  },
-  {
-    "id": "08757925965b5f4e",
-    "title": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
-    "price_now": 33.29,
-    "price_was": 52.65,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B07C3JY2V3?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/662596613117945265073886577219.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T23:40:42.467397"
   }
 ]
