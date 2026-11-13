@@ -10099,6 +10099,10 @@
     "bfe8b29c8fda8fbe": {
       "title": "Fralda Cremer G 30 Unidades",
       "posted_at": "2026-11-13T13:10:55.369081"
+    },
+    "94af19ae4c2ca8be": {
+      "title": "Sandália Infantil Menina Confortável (20 ao 34, Diversas cores)",
+      "posted_at": "2026-11-13T13:30:53.815614"
     }
   },
   "results": [
@@ -48541,6 +48545,14 @@
       "post_id": "2538",
       "error": null,
       "at": "2026-11-13T13:10:55.368290"
+    },
+    {
+      "offer_id": "94af19ae4c2ca8be",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2539",
+      "error": null,
+      "at": "2026-11-13T13:30:53.814928"
     }
   ]
 }
