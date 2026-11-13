@@ -10167,6 +10167,10 @@
     "f265f096bc3b46c1": {
       "title": "Kit vestido de malha para bebê de 3 meses à 3 anos com tapa fralda menina em malha 100% algodão kit com 6 peças",
       "posted_at": "2026-11-13T19:00:51.729957"
+    },
+    "1cfa45e2d263e204": {
+      "title": "Conjunto Canelado Infantil Body e Shorts Estampado com Babado",
+      "posted_at": "2026-11-13T19:30:46.286663"
     }
   },
   "results": [
@@ -48817,6 +48821,14 @@
       "post_id": "2555",
       "error": null,
       "at": "2026-11-13T19:00:51.729199"
+    },
+    {
+      "offer_id": "1cfa45e2d263e204",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2556",
+      "error": null,
+      "at": "2026-11-13T19:30:46.285902"
     }
   ]
 }
