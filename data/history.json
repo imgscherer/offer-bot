@@ -10103,6 +10103,10 @@
     "94af19ae4c2ca8be": {
       "title": "Sandália Infantil Menina Confortável (20 ao 34, Diversas cores)",
       "posted_at": "2026-11-13T13:30:53.815614"
+    },
+    "c4560c37637fe95f": {
+      "title": "Fralda Pampers Confort Sec Jumbo Plus G com 128 unid.",
+      "posted_at": "2026-11-13T13:40:54.656876"
     }
   },
   "results": [
@@ -48553,6 +48557,14 @@
       "post_id": "2539",
       "error": null,
       "at": "2026-11-13T13:30:53.814928"
+    },
+    {
+      "offer_id": "c4560c37637fe95f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2540",
+      "error": null,
+      "at": "2026-11-13T13:40:54.656142"
     }
   ]
 }

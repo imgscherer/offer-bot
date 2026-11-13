@@ -1,5 +1,17 @@
 [
   {
+    "id": "c4560c37637fe95f",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus G com 128 unid.",
+    "price_now": 128.16,
+    "price_was": 217.25,
+    "discount_pct": 41,
+    "url": "https://s.shopee.com.br/4LKuWhLBKX?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/935608978617945768521875820323.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T13:40:54.656444"
+  },
+  {
     "id": "94af19ae4c2ca8be",
     "title": "Sandália Infantil Menina Confortável (20 ao 34, Diversas cores)",
     "price_now": 39.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-13T10:50:42.820600"
-  },
-  {
-    "id": "220faa7b704ca833",
-    "title": "Fralda Pom Pom Protek G, 68 Unidades",
-    "price_now": 45.6,
-    "price_was": 77.37,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/498167726217945489509140688837.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T06:00:49.440250"
   }
 ]
