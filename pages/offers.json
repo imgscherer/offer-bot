@@ -1,5 +1,17 @@
 [
   {
+    "id": "b68fa0fc26a17e29",
+    "title": "Fralda Turma da Mônica Baby XG 42 Un",
+    "price_now": 34.0,
+    "price_was": 66.96,
+    "discount_pct": 49,
+    "url": "https://s.shopee.com.br/7Af6JrtwY8?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/248689343417945995371397614781.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T20:00:55.475368"
+  },
+  {
     "id": "1cfa45e2d263e204",
     "title": "Conjunto Canelado Infantil Body e Shorts Estampado com Babado",
     "price_now": 44.52,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-13T15:40:45.645614"
-  },
-  {
-    "id": "df5626010ba73191",
-    "title": "Pijama Bebê Algodão 3 Peças Simple Joys",
-    "price_now": 148.0,
-    "price_was": 258.62,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B0744M1JMS?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/486029975317945808518682920533.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T14:50:45.302602"
   }
 ]

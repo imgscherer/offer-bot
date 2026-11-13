@@ -10171,6 +10171,10 @@
     "1cfa45e2d263e204": {
       "title": "Conjunto Canelado Infantil Body e Shorts Estampado com Babado",
       "posted_at": "2026-11-13T19:30:46.286663"
+    },
+    "b68fa0fc26a17e29": {
+      "title": "Fralda Turma da Mônica Baby XG 42 Un",
+      "posted_at": "2026-11-13T20:00:55.475678"
     }
   },
   "results": [
@@ -48829,6 +48833,14 @@
       "post_id": "2556",
       "error": null,
       "at": "2026-11-13T19:30:46.285902"
+    },
+    {
+      "offer_id": "b68fa0fc26a17e29",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2557",
+      "error": null,
+      "at": "2026-11-13T20:00:55.475012"
     }
   ]
 }
