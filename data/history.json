@@ -10087,6 +10087,14 @@
     "16eb5373e3be2807": {
       "title": "Tapete de Atividades para Bebê Maxi Baby Funny Dino com Piano",
       "posted_at": "2026-11-13T12:40:55.578153"
+    },
+    "d63160215fecaa9b": {
+      "title": "Berço Co-bed Link Cinza Mescla - Voyage",
+      "posted_at": "2026-11-13T12:50:47.868110"
+    },
+    "e72631875bc1bcfe": {
+      "title": "Shampoo e Sabonete Weleda Bebê 2 em 1",
+      "posted_at": "2026-11-13T12:50:57.719783"
     }
   },
   "results": [
@@ -48497,6 +48505,22 @@
       "post_id": "2535",
       "error": null,
       "at": "2026-11-13T12:40:55.577121"
+    },
+    {
+      "offer_id": "d63160215fecaa9b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2536",
+      "error": null,
+      "at": "2026-11-13T12:50:47.867434"
+    },
+    {
+      "offer_id": "e72631875bc1bcfe",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2537",
+      "error": null,
+      "at": "2026-11-13T12:50:57.719034"
     }
   ]
 }

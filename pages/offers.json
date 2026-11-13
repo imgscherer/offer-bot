@@ -1,5 +1,29 @@
 [
   {
+    "id": "e72631875bc1bcfe",
+    "title": "Shampoo e Sabonete Weleda Bebê 2 em 1",
+    "price_now": 62.49,
+    "price_was": 89.9,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B00K2Y8WWC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/821937756217945737339154804189.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T12:50:57.719334"
+  },
+  {
+    "id": "d63160215fecaa9b",
+    "title": "Berço Co-bed Link Cinza Mescla - Voyage",
+    "price_now": 387.91,
+    "price_was": 599.0,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B091DCHHCL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/112210566117945739889855418681.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T12:50:47.867786"
+  },
+  {
     "id": "16eb5373e3be2807",
     "title": "Tapete de Atividades para Bebê Maxi Baby Funny Dino com Piano",
     "price_now": 55.9,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-13T03:20:48.796408"
-  },
-  {
-    "id": "9fe56da5b1bda7e9",
-    "title": "Brinquedo Educativo Infantil Carrinho de Montar com Engrenagens 6 Peças Interativo para Crianças a Partir de 3 Anos",
-    "price_now": 24.95,
-    "price_was": 49.9,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/3VllKFqTyq",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-muchip0n6aypf2",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T03:10:35.810484"
-  },
-  {
-    "id": "2201535afde3b2fd",
-    "title": "Fralda Descartável Huggies Máxima Proteção M 40 Unidades",
-    "price_now": 37.0,
-    "price_was": 67.9,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B07FSVQZYX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/168509896117945292728286303896.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T00:40:47.363361"
   }
 ]
