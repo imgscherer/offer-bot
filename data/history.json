@@ -10075,6 +10075,10 @@
     "5a6dd5605d821f32": {
       "title": "Oikos Lixeira Antiodor Bebê para Fraldas 10L",
       "posted_at": "2026-11-13T11:50:42.395607"
+    },
+    "e112f6096ebb2132": {
+      "title": "Fralda Huggies Xtra-Flex XXXL 128 Unidades",
+      "posted_at": "2026-11-13T12:10:53.036324"
     }
   },
   "results": [
@@ -48461,6 +48465,14 @@
       "post_id": "2532",
       "error": null,
       "at": "2026-11-13T11:50:42.395085"
+    },
+    {
+      "offer_id": "e112f6096ebb2132",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2533",
+      "error": null,
+      "at": "2026-11-13T12:10:53.035567"
     }
   ]
 }

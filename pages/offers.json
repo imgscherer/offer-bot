@@ -1,5 +1,17 @@
 [
   {
+    "id": "e112f6096ebb2132",
+    "title": "Fralda Huggies Xtra-Flex XXXL 128 Unidades",
+    "price_now": 161.0,
+    "price_was": 246.01,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/656018352017945710918098357619.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T12:10:53.035868"
+  },
+  {
     "id": "5a6dd5605d821f32",
     "title": "Oikos Lixeira Antiodor Bebê para Fraldas 10L",
     "price_now": 98.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-13T00:10:58.846770"
-  },
-  {
-    "id": "4fbf350f4ac68f25",
-    "title": "Creme Preventivo de Assaduras para Bebês Hipoglós 120g",
-    "price_now": 39.0,
-    "price_was": 77.99,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B0CHZCWLV6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/759069023817945282549328094709.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T00:10:48.426178"
   }
 ]
