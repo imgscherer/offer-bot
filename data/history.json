@@ -10127,6 +10127,10 @@
     "df5626010ba73191": {
       "title": "Pijama Bebê Algodão 3 Peças Simple Joys",
       "posted_at": "2026-11-13T14:50:45.302941"
+    },
+    "fc6b597d2fe341bc": {
+      "title": "Bebe Conforto Galzerano Grid Rosa",
+      "posted_at": "2026-11-13T15:40:45.645909"
     }
   },
   "results": [
@@ -48697,6 +48701,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-13T15:30:48.707715"
+    },
+    {
+      "offer_id": "fc6b597d2fe341bc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2546",
+      "error": null,
+      "at": "2026-11-13T15:40:45.645280"
     }
   ]
 }

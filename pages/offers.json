@@ -1,5 +1,17 @@
 [
   {
+    "id": "fc6b597d2fe341bc",
+    "title": "Bebe Conforto Galzerano Grid Rosa",
+    "price_now": 299.0,
+    "price_was": 499.0,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0BLJ8THSS?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/847008444817945839622813474458.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T15:40:45.645614"
+  },
+  {
     "id": "df5626010ba73191",
     "title": "Pijama Bebê Algodão 3 Peças Simple Joys",
     "price_now": 148.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-13T12:40:55.577428"
-  },
-  {
-    "id": "12ee71c726aebfe2",
-    "title": "Huggies Shampoo Extra Suave para bebê 400ml",
-    "price_now": 21.0,
-    "price_was": 30.89,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B07FSL72KP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/722475949217945716496340246684.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T12:20:46.312488"
   }
 ]
