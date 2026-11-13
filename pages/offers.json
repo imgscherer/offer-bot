@@ -1,5 +1,17 @@
 [
   {
+    "id": "220faa7b704ca833",
+    "title": "Fralda Pom Pom Protek G, 68 Unidades",
+    "price_now": 45.6,
+    "price_was": 77.37,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/498167726217945489509140688837.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T06:00:49.440250"
+  },
+  {
     "id": "a5c4b0110b67d763",
     "title": "Fralda Infantil Personal Baby Protect Sec G",
     "price_now": 25.69,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T23:31:22.257812"
-  },
-  {
-    "id": "3fd6d15cf561629a",
-    "title": "Fralda Pom Pom Protek G, 42 Unidades",
-    "price_now": 33.9,
-    "price_was": 50.29,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/184540522917945254891255573490.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T23:31:09.907705"
   }
 ]

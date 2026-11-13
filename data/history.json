@@ -10055,6 +10055,10 @@
     "a5c4b0110b67d763": {
       "title": "Fralda Infantil Personal Baby Protect Sec G",
       "posted_at": "2026-11-13T05:50:46.334393"
+    },
+    "220faa7b704ca833": {
+      "title": "Fralda Pom Pom Protek G, 68 Unidades",
+      "posted_at": "2026-11-13T06:00:49.440723"
     }
   },
   "results": [
@@ -48385,6 +48389,14 @@
       "post_id": "2527",
       "error": null,
       "at": "2026-11-13T05:50:46.333936"
+    },
+    {
+      "offer_id": "220faa7b704ca833",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2528",
+      "error": null,
+      "at": "2026-11-13T06:00:49.439954"
     }
   ]
 }
