@@ -1,5 +1,17 @@
 [
   {
+    "id": "e5c5521151a5362e",
+    "title": "Mordedor Pezinho Rosa Bebê For Baby",
+    "price_now": 6.74,
+    "price_was": 12.13,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B08MXTY3Z6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/580684971017946108962180779272.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T23:10:45.079249"
+  },
+  {
     "id": "2ee55dbf8fc733f6",
     "title": "Fralda Personal Baby Total Protect Pants XG 40 Unidades",
     "price_now": 46.93,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-13T17:10:37.882371"
-  },
-  {
-    "id": "15c03f016dd025af",
-    "title": "Bota Infantil Tratorada (Tam. 21 ao 28, 3 cores)",
-    "price_now": 22.89,
-    "price_was": 69.36,
-    "discount_pct": 67,
-    "url": "https://s.shopee.com.br/7pumtzxt4h?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/682163897117945881004567640740.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T16:50:59.128793"
   }
 ]

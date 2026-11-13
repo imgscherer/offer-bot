@@ -10183,6 +10183,10 @@
     "2ee55dbf8fc733f6": {
       "title": "Fralda Personal Baby Total Protect Pants XG 40 Unidades",
       "posted_at": "2026-11-13T21:40:48.107668"
+    },
+    "e5c5521151a5362e": {
+      "title": "Mordedor Pezinho Rosa Bebê For Baby",
+      "posted_at": "2026-11-13T23:10:45.079616"
     }
   },
   "results": [
@@ -48865,6 +48869,14 @@
       "post_id": "2559",
       "error": null,
       "at": "2026-11-13T21:40:48.107015"
+    },
+    {
+      "offer_id": "e5c5521151a5362e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2560",
+      "error": null,
+      "at": "2026-11-13T23:10:45.078926"
     }
   ]
 }
