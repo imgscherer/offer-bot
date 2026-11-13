@@ -10035,6 +10035,10 @@
     "6c6a153418bf78e8": {
       "title": "Personal Fralda Baby Premium Protection Grande 30Pads",
       "posted_at": "2026-11-13T00:10:58.847237"
+    },
+    "00c405877afd47ea": {
+      "title": "Personal Fralda Baby Total Protect Pants Média, 52 Unidades",
+      "posted_at": "2026-11-13T00:20:49.487009"
     }
   },
   "results": [
@@ -48293,6 +48297,14 @@
       "post_id": "2522",
       "error": null,
       "at": "2026-11-13T00:10:58.846454"
+    },
+    {
+      "offer_id": "00c405877afd47ea",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2523",
+      "error": null,
+      "at": "2026-11-13T00:20:49.486420"
     }
   ]
 }

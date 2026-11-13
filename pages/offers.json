@@ -1,5 +1,17 @@
 [
   {
+    "id": "00c405877afd47ea",
+    "title": "Personal Fralda Baby Total Protect Pants Média, 52 Unidades",
+    "price_now": 46.95,
+    "price_was": 69.42,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/751151247017945288026274573358.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T00:20:49.486734"
+  },
+  {
     "id": "6c6a153418bf78e8",
     "title": "Personal Fralda Baby Premium Protection Grande 30Pads",
     "price_now": 28.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T22:00:49.817353"
-  },
-  {
-    "id": "0c6afb860547deed",
-    "title": "Fralda Cremer G 30 Unidades",
-    "price_now": 23.0,
-    "price_was": 32.79,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0D92N4VBW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/503459894917945169143360766930.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T21:00:56.631154"
   }
 ]
