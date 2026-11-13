@@ -1,5 +1,17 @@
 [
   {
+    "id": "73230f886ee3436c",
+    "title": "Fralda Turma da Mônica Baby RN 36 Unidades",
+    "price_now": 18.9,
+    "price_was": 28.68,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/619146615417945663003177015999.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T10:50:42.820600"
+  },
+  {
     "id": "220faa7b704ca833",
     "title": "Fralda Pom Pom Protek G, 68 Unidades",
     "price_now": 45.6,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-12T23:31:30.785215"
-  },
-  {
-    "id": "536eb9746bac4206",
-    "title": "MamyPoko Fralda-Calça Dia&Noite M 68 Unidades",
-    "price_now": 74.0,
-    "price_was": 107.9,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0CHZCB5SK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/861358918817945253086370586126.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-12T23:31:22.257812"
   }
 ]
