@@ -10135,6 +10135,10 @@
     "a09ea7de3ad0824f": {
       "title": "Berço Co-Bed Safety 1st Palace Grey",
       "posted_at": "2026-11-13T16:40:41.959620"
+    },
+    "15c03f016dd025af": {
+      "title": "Bota Infantil Tratorada (Tam. 21 ao 28, 3 cores)",
+      "posted_at": "2026-11-13T16:50:59.129243"
     }
   },
   "results": [
@@ -48721,6 +48725,14 @@
       "post_id": "2547",
       "error": null,
       "at": "2026-11-13T16:40:41.959042"
+    },
+    {
+      "offer_id": "15c03f016dd025af",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2548",
+      "error": null,
+      "at": "2026-11-13T16:50:59.128464"
     }
   ]
 }
