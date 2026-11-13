@@ -1,5 +1,29 @@
 [
   {
+    "id": "7c7336bfd89141f9",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus XG com 116",
+    "price_now": 128.16,
+    "price_was": 217.25,
+    "discount_pct": 41,
+    "url": "https://s.shopee.com.br/80EBVjKHS2?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/913793678017945792644879317255.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T14:21:05.103960"
+  },
+  {
+    "id": "c787d43a5854d1a0",
+    "title": "Berço Portátil Cosco Cozzy 2 Alturas, 0 a 18 kg Azul Pastel",
+    "price_now": 189.0,
+    "price_was": 599.0,
+    "discount_pct": 68,
+    "url": "https://www.amazon.com.br/dp/B0F5X71QZ3?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/116904081417945789714116143089.png",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-13T14:20:48.822870"
+  },
+  {
     "id": "bf910081680f5770",
     "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148un",
     "price_now": 128.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-13T12:10:53.035868"
-  },
-  {
-    "id": "5a6dd5605d821f32",
-    "title": "Oikos Lixeira Antiodor Bebê para Fraldas 10L",
-    "price_now": 98.0,
-    "price_was": 149.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0GHP6DWBN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/634608891517945702504037671175.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T11:50:42.395367"
-  },
-  {
-    "id": "acba5e7fe6a22a88",
-    "title": "Fralda Turma da Mônica Baby G, 44 Unidades",
-    "price_now": 33.0,
-    "price_was": 50.04,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/479452661217945690611635103747.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T11:40:39.913251"
   }
 ]
