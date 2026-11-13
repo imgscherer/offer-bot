@@ -10143,6 +10143,14 @@
     "b97032b331d358bd": {
       "title": "Kit 3 Quadros Infantil Elefante Azul Carrinho Lua Bolhas Decoração Quarto Bebê MDF Premium",
       "posted_at": "2026-11-13T17:10:37.882702"
+    },
+    "4f3c4d1196861cad": {
+      "title": "Fralda Pampers Confort Sec M 196 Unidades",
+      "posted_at": "2026-11-13T17:20:48.870468"
+    },
+    "d63c9b8e93e3f273": {
+      "title": "Fralda Personal Pants Baby Premium XXG 30 Unidades",
+      "posted_at": "2026-11-13T17:21:09.902489"
     }
   },
   "results": [
@@ -48745,6 +48753,22 @@
       "post_id": "2549",
       "error": null,
       "at": "2026-11-13T17:10:37.881961"
+    },
+    {
+      "offer_id": "4f3c4d1196861cad",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2550",
+      "error": null,
+      "at": "2026-11-13T17:20:48.869956"
+    },
+    {
+      "offer_id": "d63c9b8e93e3f273",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2551",
+      "error": null,
+      "at": "2026-11-13T17:21:09.901837"
     }
   ]
 }
