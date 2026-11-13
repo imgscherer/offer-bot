@@ -10139,6 +10139,10 @@
     "15c03f016dd025af": {
       "title": "Bota Infantil Tratorada (Tam. 21 ao 28, 3 cores)",
       "posted_at": "2026-11-13T16:50:59.129243"
+    },
+    "b97032b331d358bd": {
+      "title": "Kit 3 Quadros Infantil Elefante Azul Carrinho Lua Bolhas Decoração Quarto Bebê MDF Premium",
+      "posted_at": "2026-11-13T17:10:37.882702"
     }
   },
   "results": [
@@ -48733,6 +48737,14 @@
       "post_id": "2548",
       "error": null,
       "at": "2026-11-13T16:50:59.128464"
+    },
+    {
+      "offer_id": "b97032b331d358bd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2549",
+      "error": null,
+      "at": "2026-11-13T17:10:37.881961"
     }
   ]
 }
