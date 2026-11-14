@@ -10191,6 +10191,10 @@
     "d77d1c01770e13de": {
       "title": "Fralda Turma da Mônica Baby XXG com 36",
       "posted_at": "2026-11-14T00:00:49.259267"
+    },
+    "354124aed8ab525a": {
+      "title": "Fralda Personal Baby Premium G 30 unidades",
+      "posted_at": "2026-11-14T10:50:40.434045"
     }
   },
   "results": [
@@ -49393,6 +49397,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-14T10:40:41.336444"
+    },
+    {
+      "offer_id": "354124aed8ab525a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2562",
+      "error": null,
+      "at": "2026-11-14T10:50:40.433345"
+    },
+    {
+      "offer_id": "9ed2b92e9adc31b4",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-14T10:50:45.987764"
     }
   ]
 }
