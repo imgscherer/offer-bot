@@ -10247,6 +10247,10 @@
     "9efa79d4821bc6b1": {
       "title": "Fralda Huggies Máxima Proteção P 48 unidades",
       "posted_at": "2026-11-14T13:51:10.772545"
+    },
+    "545a5ded00e06bed": {
+      "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
+      "posted_at": "2026-11-14T15:10:41.684772"
     }
   },
   "results": [
@@ -49609,6 +49613,14 @@
       "post_id": "2575",
       "error": null,
       "at": "2026-11-14T13:51:10.771847"
+    },
+    {
+      "offer_id": "545a5ded00e06bed",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2576",
+      "error": null,
+      "at": "2026-11-14T15:10:41.684109"
     }
   ]
 }
