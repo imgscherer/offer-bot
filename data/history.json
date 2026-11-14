@@ -10203,6 +10203,18 @@
     "d126863531f8d7b6": {
       "title": "Fralda Turma da Mônica Baby XG 42 Unidades",
       "posted_at": "2026-11-14T11:20:52.391204"
+    },
+    "58c764d868efee6b": {
+      "title": "Tapete Infantil Sensorial Inflável Água Bebê",
+      "posted_at": "2026-11-14T11:50:55.028259"
+    },
+    "193e4d757c9ae03e": {
+      "title": "Tapete Infantil Sensorial Inflável",
+      "posted_at": "2026-11-14T11:51:16.582086"
+    },
+    "e96f48f150a1151f": {
+      "title": "Fralda Cremer XG 24 Unidades",
+      "posted_at": "2026-11-14T11:51:27.371572"
     }
   },
   "results": [
@@ -49477,6 +49489,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-14T11:40:34.866201"
+    },
+    {
+      "offer_id": "58c764d868efee6b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2565",
+      "error": null,
+      "at": "2026-11-14T11:50:55.027646"
+    },
+    {
+      "offer_id": "193e4d757c9ae03e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2566",
+      "error": null,
+      "at": "2026-11-14T11:51:16.581527"
+    },
+    {
+      "offer_id": "e96f48f150a1151f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2567",
+      "error": null,
+      "at": "2026-11-14T11:51:27.371067"
     }
   ]
 }
