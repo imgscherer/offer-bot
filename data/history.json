@@ -10255,6 +10255,10 @@
     "6c5cc8a01797b6dc": {
       "title": "Mamypoko Fralda-calça Superproteção Xg 24 Unidades",
       "posted_at": "2026-11-14T17:00:46.989748"
+    },
+    "a835d10734796a7d": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper Xg 60 Unidades",
+      "posted_at": "2026-11-14T17:30:50.056041"
     }
   },
   "results": [
@@ -49633,6 +49637,14 @@
       "post_id": "2577",
       "error": null,
       "at": "2026-11-14T17:00:46.989170"
+    },
+    {
+      "offer_id": "a835d10734796a7d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2578",
+      "error": null,
+      "at": "2026-11-14T17:30:50.055457"
     }
   ]
 }
