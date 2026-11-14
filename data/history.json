@@ -10227,6 +10227,10 @@
     "9689b693fecb8f04": {
       "title": "Cadeira De Descanso Para Bebê Multikids Baby Nap Time, 0 A 11kg",
       "posted_at": "2026-11-14T12:10:40.931864"
+    },
+    "d476831ca942fd63": {
+      "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
+      "posted_at": "2026-11-14T13:00:53.970333"
     }
   },
   "results": [
@@ -49549,6 +49553,14 @@
       "post_id": "2570",
       "error": null,
       "at": "2026-11-14T12:10:40.931282"
+    },
+    {
+      "offer_id": "d476831ca942fd63",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2571",
+      "error": null,
+      "at": "2026-11-14T13:00:53.969625"
     }
   ]
 }

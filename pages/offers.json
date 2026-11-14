@@ -1,5 +1,17 @@
 [
   {
+    "id": "d476831ca942fd63",
+    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
+    "price_now": 30.0,
+    "price_was": 62.99,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/602101562317946606303323552422.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-14T13:00:53.970020"
+  },
+  {
     "id": "9689b693fecb8f04",
     "title": "Cadeira De Descanso Para Bebê Multikids Baby Nap Time, 0 A 11kg",
     "price_now": 103.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-13T23:10:45.079249"
-  },
-  {
-    "id": "2ee55dbf8fc733f6",
-    "title": "Fralda Personal Baby Total Protect Pants XG 40 Unidades",
-    "price_now": 46.93,
-    "price_was": 69.42,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BTTLGRFH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/507938978517946053579098732997.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T21:40:48.107347"
   }
 ]
