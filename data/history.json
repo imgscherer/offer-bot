@@ -10195,6 +10195,14 @@
     "354124aed8ab525a": {
       "title": "Fralda Personal Baby Premium G 30 unidades",
       "posted_at": "2026-11-14T10:50:40.434045"
+    },
+    "ac3e6086fc9185bc": {
+      "title": "Mordedor P Bebê - Alívio Dentição 100% Natural",
+      "posted_at": "2026-11-14T11:20:44.307020"
+    },
+    "d126863531f8d7b6": {
+      "title": "Fralda Turma da Mônica Baby XG 42 Unidades",
+      "posted_at": "2026-11-14T11:20:52.391204"
     }
   },
   "results": [
@@ -49429,6 +49437,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-14T11:10:39.019210"
+    },
+    {
+      "offer_id": "ac3e6086fc9185bc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2563",
+      "error": null,
+      "at": "2026-11-14T11:20:44.306396"
+    },
+    {
+      "offer_id": "d126863531f8d7b6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2564",
+      "error": null,
+      "at": "2026-11-14T11:20:52.390374"
+    },
+    {
+      "offer_id": "9ed2b92e9adc31b4",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-14T11:20:58.447769"
     }
   ]
 }
