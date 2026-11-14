@@ -1,5 +1,17 @@
 [
   {
+    "id": "4125d946ca4f85be",
+    "title": "Kit Mamadeira My 1St S1 150ml S2 300ml Girl Rosa 2 Unidades",
+    "price_now": 59.91,
+    "price_was": 120.77,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B07FPQVWNW?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/601742998617946841414545471040.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-14T19:30:45.945731"
+  },
+  {
     "id": "45c0626566261e03",
     "title": "Fralda Personal Baby Protect e Sec G 34 unidades",
     "price_now": 25.38,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-14T13:50:58.865425"
-  },
-  {
-    "id": "f4fd18b034f8bf22",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidade",
-    "price_now": 29.18,
-    "price_was": 50.29,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/953380595517946637807228039077.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T13:50:48.795541"
   }
 ]

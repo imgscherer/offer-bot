@@ -10283,6 +10283,10 @@
     "45c0626566261e03": {
       "title": "Fralda Personal Baby Protect e Sec G 34 unidades",
       "posted_at": "2026-11-14T18:11:26.655958"
+    },
+    "4125d946ca4f85be": {
+      "title": "Kit Mamadeira My 1St S1 150ml S2 300ml Girl Rosa 2 Unidades",
+      "posted_at": "2026-11-14T19:30:45.945981"
     }
   },
   "results": [
@@ -49717,6 +49721,14 @@
       "post_id": "2584",
       "error": null,
       "at": "2026-11-14T18:11:26.654816"
+    },
+    {
+      "offer_id": "4125d946ca4f85be",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2585",
+      "error": null,
+      "at": "2026-11-14T19:30:45.945414"
     }
   ]
 }
