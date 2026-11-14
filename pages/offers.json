@@ -1,5 +1,17 @@
 [
   {
+    "id": "d77d1c01770e13de",
+    "title": "Fralda Turma da Mônica Baby XXG com 36",
+    "price_now": 33.0,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KPQQWF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/356947216117946138802056409678.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-14T00:00:49.258993"
+  },
+  {
     "id": "e5c5521151a5362e",
     "title": "Mordedor Pezinho Rosa Bebê For Baby",
     "price_now": 6.74,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-13T17:20:48.870229"
-  },
-  {
-    "id": "b97032b331d358bd",
-    "title": "Kit 3 Quadros Infantil Elefante Azul Carrinho Lua Bolhas Decoração Quarto Bebê MDF Premium",
-    "price_now": 24.99,
-    "price_was": 49.98,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/3LSL7wr7Jp",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mtgy1nn2wr9f17",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T17:10:37.882371"
   }
 ]

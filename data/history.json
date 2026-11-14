@@ -10187,6 +10187,10 @@
     "e5c5521151a5362e": {
       "title": "Mordedor Pezinho Rosa Bebê For Baby",
       "posted_at": "2026-11-13T23:10:45.079616"
+    },
+    "d77d1c01770e13de": {
+      "title": "Fralda Turma da Mônica Baby XXG com 36",
+      "posted_at": "2026-11-14T00:00:49.259267"
     }
   },
   "results": [
@@ -48877,6 +48881,14 @@
       "post_id": "2560",
       "error": null,
       "at": "2026-11-13T23:10:45.078926"
+    },
+    {
+      "offer_id": "d77d1c01770e13de",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2561",
+      "error": null,
+      "at": "2026-11-14T00:00:49.258669"
     }
   ]
 }
