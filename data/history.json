@@ -10287,6 +10287,10 @@
     "4125d946ca4f85be": {
       "title": "Kit Mamadeira My 1St S1 150ml S2 300ml Girl Rosa 2 Unidades",
       "posted_at": "2026-11-14T19:30:45.945981"
+    },
+    "fdec2c76793c17e7": {
+      "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
+      "posted_at": "2026-11-14T19:50:44.422042"
     }
   },
   "results": [
@@ -49729,6 +49733,14 @@
       "post_id": "2585",
       "error": null,
       "at": "2026-11-14T19:30:45.945414"
+    },
+    {
+      "offer_id": "fdec2c76793c17e7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2586",
+      "error": null,
+      "at": "2026-11-14T19:50:44.421433"
     }
   ]
 }

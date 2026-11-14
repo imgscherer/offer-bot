@@ -1,5 +1,17 @@
 [
   {
+    "id": "fdec2c76793c17e7",
+    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
+    "price_now": 4.49,
+    "price_was": 9.42,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/213008173517946850935077448703.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-14T19:50:44.421744"
+  },
+  {
     "id": "4125d946ca4f85be",
     "title": "Kit Mamadeira My 1St S1 150ml S2 300ml Girl Rosa 2 Unidades",
     "price_now": 59.91,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-14T13:51:10.772082"
-  },
-  {
-    "id": "4278c8552944e417",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe M 48 unidade",
-    "price_now": 29.18,
-    "price_was": 50.29,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/333844486417946637716522236149.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T13:50:58.865425"
   }
 ]
