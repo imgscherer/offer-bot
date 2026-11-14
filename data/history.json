@@ -10231,6 +10231,10 @@
     "d476831ca942fd63": {
       "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
       "posted_at": "2026-11-14T13:00:53.970333"
+    },
+    "4b76aad130417a90": {
+      "title": "Tênis Infantil Escola Macio Confortável Sola Antiderrapante (25 ao 36)",
+      "posted_at": "2026-11-14T13:20:53.378526"
     }
   },
   "results": [
@@ -49561,6 +49565,14 @@
       "post_id": "2571",
       "error": null,
       "at": "2026-11-14T13:00:53.969625"
+    },
+    {
+      "offer_id": "4b76aad130417a90",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2572",
+      "error": null,
+      "at": "2026-11-14T13:20:53.378032"
     }
   ]
 }
