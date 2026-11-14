@@ -1,5 +1,29 @@
 [
   {
+    "id": "4aaaf2888aee8ab1",
+    "title": "Fralda-Calça MamyPoko Superproteção G com 28",
+    "price_now": 28.28,
+    "price_was": 42.9,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0D4363KSD?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/169223415217946571988495452264.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-14T12:00:56.562909"
+  },
+  {
+    "id": "f1554ba7c6cb57e7",
+    "title": "Fralda-Calça MamyPoko Superproteção XXG com 22",
+    "price_now": 28.38,
+    "price_was": 46.9,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/969171338717946572005480358838.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-14T12:00:48.621035"
+  },
+  {
     "id": "e96f48f150a1151f",
     "title": "Fralda Cremer XG 24 Unidades",
     "price_now": 20.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-13T21:00:55.101793"
-  },
-  {
-    "id": "b68fa0fc26a17e29",
-    "title": "Fralda Turma da Mônica Baby XG 42 Un",
-    "price_now": 34.0,
-    "price_was": 66.96,
-    "discount_pct": 49,
-    "url": "https://s.shopee.com.br/7Af6JrtwY8?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/248689343417945995371397614781.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T20:00:55.475368"
-  },
-  {
-    "id": "1cfa45e2d263e204",
-    "title": "Conjunto Canelado Infantil Body e Shorts Estampado com Babado",
-    "price_now": 44.52,
-    "price_was": 69.89,
-    "discount_pct": 36,
-    "url": "https://s.shopee.com.br/8pnKGGfSEB?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/116829941717945972101781220834.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-13T19:30:46.286230"
   }
 ]

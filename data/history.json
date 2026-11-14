@@ -10215,6 +10215,14 @@
     "e96f48f150a1151f": {
       "title": "Fralda Cremer XG 24 Unidades",
       "posted_at": "2026-11-14T11:51:27.371572"
+    },
+    "f1554ba7c6cb57e7": {
+      "title": "Fralda-Calça MamyPoko Superproteção XXG com 22",
+      "posted_at": "2026-11-14T12:00:48.621298"
+    },
+    "4aaaf2888aee8ab1": {
+      "title": "Fralda-Calça MamyPoko Superproteção G com 28",
+      "posted_at": "2026-11-14T12:00:56.563377"
     }
   },
   "results": [
@@ -49513,6 +49521,22 @@
       "post_id": "2567",
       "error": null,
       "at": "2026-11-14T11:51:27.371067"
+    },
+    {
+      "offer_id": "f1554ba7c6cb57e7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2568",
+      "error": null,
+      "at": "2026-11-14T12:00:48.620716"
+    },
+    {
+      "offer_id": "4aaaf2888aee8ab1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2569",
+      "error": null,
+      "at": "2026-11-14T12:00:56.562661"
     }
   ]
 }
