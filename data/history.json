@@ -10263,6 +10263,26 @@
     "61eca26c9bb5530f": {
       "title": "MamyPoko Fralda-Calça Superproteção XG 24 Unidades",
       "posted_at": "2026-11-14T17:50:53.504361"
+    },
+    "d05517e105a4bf75": {
+      "title": "Fralda Personal Baby Protect & Sec M com 40",
+      "posted_at": "2026-11-14T18:10:47.385818"
+    },
+    "fe063bf422391ba8": {
+      "title": "Fralda Personal Baby Protect & Sec XG com 28",
+      "posted_at": "2026-11-14T18:10:54.172460"
+    },
+    "59e177dade591eeb": {
+      "title": "Fralda Personal Baby Protect & Sec G com 34",
+      "posted_at": "2026-11-14T18:11:05.299857"
+    },
+    "98fcb4b194a8d85f": {
+      "title": "Fralda Personal Baby Protect e Sec M 40 unidades",
+      "posted_at": "2026-11-14T18:11:16.820899"
+    },
+    "45c0626566261e03": {
+      "title": "Fralda Personal Baby Protect e Sec G 34 unidades",
+      "posted_at": "2026-11-14T18:11:26.655958"
     }
   },
   "results": [
@@ -49657,6 +49677,46 @@
       "post_id": "2579",
       "error": null,
       "at": "2026-11-14T17:50:53.503297"
+    },
+    {
+      "offer_id": "d05517e105a4bf75",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2580",
+      "error": null,
+      "at": "2026-11-14T18:10:47.385121"
+    },
+    {
+      "offer_id": "fe063bf422391ba8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2581",
+      "error": null,
+      "at": "2026-11-14T18:10:54.171551"
+    },
+    {
+      "offer_id": "59e177dade591eeb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2582",
+      "error": null,
+      "at": "2026-11-14T18:11:05.298878"
+    },
+    {
+      "offer_id": "98fcb4b194a8d85f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2583",
+      "error": null,
+      "at": "2026-11-14T18:11:16.819979"
+    },
+    {
+      "offer_id": "45c0626566261e03",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2584",
+      "error": null,
+      "at": "2026-11-14T18:11:26.654816"
     }
   ]
 }

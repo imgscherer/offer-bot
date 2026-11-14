@@ -1,5 +1,65 @@
 [
   {
+    "id": "45c0626566261e03",
+    "title": "Fralda Personal Baby Protect e Sec G 34 unidades",
+    "price_now": 25.38,
+    "price_was": 37.02,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/627516005817946789247480171596.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-14T18:11:26.655156"
+  },
+  {
+    "id": "98fcb4b194a8d85f",
+    "title": "Fralda Personal Baby Protect e Sec M 40 unidades",
+    "price_now": 25.38,
+    "price_was": 36.96,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/373506050117946789253139364188.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-14T18:11:16.820266"
+  },
+  {
+    "id": "59e177dade591eeb",
+    "title": "Fralda Personal Baby Protect & Sec G com 34",
+    "price_now": 25.0,
+    "price_was": 37.02,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/704115129617946790368557501332.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-14T18:11:05.299161"
+  },
+  {
+    "id": "fe063bf422391ba8",
+    "title": "Fralda Personal Baby Protect & Sec XG com 28",
+    "price_now": 25.0,
+    "price_was": 37.02,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BBHFXBTF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/869149646117946790383735006132.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-14T18:10:54.171812"
+  },
+  {
+    "id": "d05517e105a4bf75",
+    "title": "Fralda Personal Baby Protect & Sec M com 40",
+    "price_now": 25.0,
+    "price_was": 36.96,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/558851259317946790418394126868.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-14T18:10:47.385452"
+  },
+  {
     "id": "61eca26c9bb5530f",
     "title": "MamyPoko Fralda-Calça Superproteção XG 24 Unidades",
     "price_now": 29.87,
@@ -82,65 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-14T13:50:48.795541"
-  },
-  {
-    "id": "4b76aad130417a90",
-    "title": "Tênis Infantil Escola Macio Confortável Sola Antiderrapante (25 ao 36)",
-    "price_now": 66.72,
-    "price_was": 109.38,
-    "discount_pct": 39,
-    "url": "https://s.shopee.com.br/8Kr4rEaM8W?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/652221971417946617645582433805.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T13:20:53.378315"
-  },
-  {
-    "id": "d476831ca942fd63",
-    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
-    "price_now": 30.0,
-    "price_was": 62.99,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/602101562317946606303323552422.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T13:00:53.970020"
-  },
-  {
-    "id": "9689b693fecb8f04",
-    "title": "Cadeira De Descanso Para Bebê Multikids Baby Nap Time, 0 A 11kg",
-    "price_now": 103.0,
-    "price_was": 299.9,
-    "discount_pct": 66,
-    "url": "https://www.amazon.com.br/dp/B0B2X2P3G5?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/837847883817946576402851592613.png",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T12:10:40.931609"
-  },
-  {
-    "id": "4aaaf2888aee8ab1",
-    "title": "Fralda-Calça MamyPoko Superproteção G com 28",
-    "price_now": 28.28,
-    "price_was": 42.9,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0D4363KSD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/169223415217946571988495452264.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T12:00:56.562909"
-  },
-  {
-    "id": "f1554ba7c6cb57e7",
-    "title": "Fralda-Calça MamyPoko Superproteção XXG com 22",
-    "price_now": 28.38,
-    "price_was": 46.9,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/969171338717946572005480358838.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T12:00:48.621035"
   }
 ]
