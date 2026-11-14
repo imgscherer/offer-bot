@@ -10235,6 +10235,18 @@
     "4b76aad130417a90": {
       "title": "Tênis Infantil Escola Macio Confortável Sola Antiderrapante (25 ao 36)",
       "posted_at": "2026-11-14T13:20:53.378526"
+    },
+    "f4fd18b034f8bf22": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidade",
+      "posted_at": "2026-11-14T13:50:48.795780"
+    },
+    "4278c8552944e417": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe M 48 unidade",
+      "posted_at": "2026-11-14T13:50:58.865834"
+    },
+    "9efa79d4821bc6b1": {
+      "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+      "posted_at": "2026-11-14T13:51:10.772545"
     }
   },
   "results": [
@@ -49573,6 +49585,30 @@
       "post_id": "2572",
       "error": null,
       "at": "2026-11-14T13:20:53.378032"
+    },
+    {
+      "offer_id": "f4fd18b034f8bf22",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2573",
+      "error": null,
+      "at": "2026-11-14T13:50:48.795263"
+    },
+    {
+      "offer_id": "4278c8552944e417",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2574",
+      "error": null,
+      "at": "2026-11-14T13:50:58.865161"
+    },
+    {
+      "offer_id": "9efa79d4821bc6b1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2575",
+      "error": null,
+      "at": "2026-11-14T13:51:10.771847"
     }
   ]
 }

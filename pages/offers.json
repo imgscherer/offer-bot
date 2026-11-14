@@ -1,5 +1,41 @@
 [
   {
+    "id": "9efa79d4821bc6b1",
+    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+    "price_now": 45.0,
+    "price_was": 72.65,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/667847927017946631361225802367.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-14T13:51:10.772082"
+  },
+  {
+    "id": "4278c8552944e417",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe M 48 unidade",
+    "price_now": 29.18,
+    "price_was": 50.29,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/333844486417946637716522236149.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-14T13:50:58.865425"
+  },
+  {
+    "id": "f4fd18b034f8bf22",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe G 42 unidade",
+    "price_now": 29.18,
+    "price_was": 50.29,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/953380595517946637807228039077.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-14T13:50:48.795541"
+  },
+  {
     "id": "4b76aad130417a90",
     "title": "Tênis Infantil Escola Macio Confortável Sola Antiderrapante (25 ao 36)",
     "price_now": 66.72,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-14T11:20:52.390689"
-  },
-  {
-    "id": "ac3e6086fc9185bc",
-    "title": "Mordedor P Bebê - Alívio Dentição 100% Natural",
-    "price_now": 12.12,
-    "price_was": 32.07,
-    "discount_pct": 62,
-    "url": "https://s.shopee.com.br/gRdaQwweI?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/322621087717946541515849078115.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T11:20:44.306717"
-  },
-  {
-    "id": "354124aed8ab525a",
-    "title": "Fralda Personal Baby Premium G 30 unidades",
-    "price_now": 27.45,
-    "price_was": 48.75,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/269730371317946526544516390675.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T10:50:40.433719"
-  },
-  {
-    "id": "d77d1c01770e13de",
-    "title": "Fralda Turma da Mônica Baby XXG com 36",
-    "price_now": 33.0,
-    "price_was": 50.04,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KPQQWF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/356947216117946138802056409678.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T00:00:49.258993"
   }
 ]
