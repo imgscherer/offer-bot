@@ -1,5 +1,17 @@
 [
   {
+    "id": "7f6046a5b6ae3b14",
+    "title": "Fralda Pants Huggies Proteção Acolchoada M 72 unidades",
+    "price_now": 79.0,
+    "price_was": 113.25,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B08GZNWJ17?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/712233140417947463115609485623.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-15T12:40:47.585622"
+  },
+  {
     "id": "f347ea14602b604d",
     "title": "Fralda Pampers Confort Sec XG 116 unidades",
     "price_now": 115.74,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-14T17:30:50.055760"
-  },
-  {
-    "id": "6c5cc8a01797b6dc",
-    "title": "Mamypoko Fralda-calça Superproteção Xg 24 Unidades",
-    "price_now": 29.87,
-    "price_was": 42.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/764147914917946750781792675480.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T17:00:46.989486"
   }
 ]
