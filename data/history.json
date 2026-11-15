@@ -10311,6 +10311,10 @@
     "1aa45dcd785b209c": {
       "title": "Fralda Cremer Magic Care M 34 Unidades",
       "posted_at": "2026-11-15T13:21:00.670511"
+    },
+    "658978304a636a17": {
+      "title": "Quadro Para Recepção Chá de Fraldas Bebê Personalizado Com Nome Menina Passarinhos Rosas",
+      "posted_at": "2026-11-15T13:40:46.848666"
     }
   },
   "results": [
@@ -49825,6 +49829,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-15T13:30:44.120645"
+    },
+    {
+      "offer_id": "658978304a636a17",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2592",
+      "error": null,
+      "at": "2026-11-15T13:40:46.847987"
+    },
+    {
+      "offer_id": "6e2032f6b89ce328",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-15T13:41:04.407012"
+    },
+    {
+      "offer_id": "7bb4e4fd3dfcf06b",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-15T13:41:12.583334"
     }
   ]
 }
