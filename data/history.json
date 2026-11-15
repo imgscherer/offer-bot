@@ -10291,6 +10291,10 @@
     "fdec2c76793c17e7": {
       "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
       "posted_at": "2026-11-14T19:50:44.422042"
+    },
+    "f7e0b8d349d2fd5f": {
+      "title": "Fralda Pampers Confort Sec Tamanho XG 116 Unidades",
+      "posted_at": "2026-11-15T09:50:56.837010"
     }
   },
   "results": [
@@ -49741,6 +49745,14 @@
       "post_id": "2586",
       "error": null,
       "at": "2026-11-14T19:50:44.421433"
+    },
+    {
+      "offer_id": "f7e0b8d349d2fd5f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2587",
+      "error": null,
+      "at": "2026-11-15T09:50:56.836203"
     }
   ]
 }

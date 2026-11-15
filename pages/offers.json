@@ -1,5 +1,17 @@
 [
   {
+    "id": "f7e0b8d349d2fd5f",
+    "title": "Fralda Pampers Confort Sec Tamanho XG 116 Unidades",
+    "price_now": 121.83,
+    "price_was": 181.64,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B084BNQ7PK?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/182265834517947357313460688224.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-15T09:50:56.836521"
+  },
+  {
     "id": "fdec2c76793c17e7",
     "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
     "price_now": 4.49,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-14T15:10:41.684402"
-  },
-  {
-    "id": "9efa79d4821bc6b1",
-    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
-    "price_now": 45.0,
-    "price_was": 72.65,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/667847927017946631361225802367.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T13:51:10.772082"
   }
 ]
