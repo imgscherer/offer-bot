@@ -10315,6 +10315,10 @@
     "658978304a636a17": {
       "title": "Quadro Para Recepção Chá de Fraldas Bebê Personalizado Com Nome Menina Passarinhos Rosas",
       "posted_at": "2026-11-15T13:40:46.848666"
+    },
+    "b4b7fc9951c8298e": {
+      "title": "Personal Fralda Baby Premium Protection P 40 Unidades",
+      "posted_at": "2026-11-15T14:40:51.566171"
     }
   },
   "results": [
@@ -49869,6 +49873,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-15T14:00:50.445043"
+    },
+    {
+      "offer_id": "b4b7fc9951c8298e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2593",
+      "error": null,
+      "at": "2026-11-15T14:40:51.565397"
     }
   ]
 }

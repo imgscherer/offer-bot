@@ -1,5 +1,17 @@
 [
   {
+    "id": "b4b7fc9951c8298e",
+    "title": "Personal Fralda Baby Premium Protection P 40 Unidades",
+    "price_now": 24.0,
+    "price_was": 46.38,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/470776913817947527764920518342.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-15T14:40:51.565674"
+  },
+  {
     "id": "658978304a636a17",
     "title": "Quadro Para Recepção Chá de Fraldas Bebê Personalizado Com Nome Menina Passarinhos Rosas",
     "price_now": 24.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-14T18:11:05.299161"
-  },
-  {
-    "id": "fe063bf422391ba8",
-    "title": "Fralda Personal Baby Protect & Sec XG com 28",
-    "price_now": 25.0,
-    "price_was": 37.02,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BBHFXBTF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/869149646117946790383735006132.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T18:10:54.171812"
   }
 ]
