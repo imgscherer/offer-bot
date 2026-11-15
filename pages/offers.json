@@ -1,5 +1,17 @@
 [
   {
+    "id": "42fd664340192987",
+    "title": "Fralda Huggies Little Swimmers MG 10 Un",
+    "price_now": 36.0,
+    "price_was": 51.34,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B094SMZT6W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/157008297617947693659676912598.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-15T19:20:42.832362"
+  },
+  {
     "id": "46bfb6e4659e5d44",
     "title": "Fralda Cremer Econômica M 34 Unidades",
     "price_now": 22.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-14T18:11:26.655156"
-  },
-  {
-    "id": "98fcb4b194a8d85f",
-    "title": "Fralda Personal Baby Protect e Sec M 40 unidades",
-    "price_now": 25.38,
-    "price_was": 36.96,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/373506050117946789253139364188.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T18:11:16.820266"
   }
 ]
