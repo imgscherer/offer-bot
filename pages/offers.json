@@ -1,5 +1,17 @@
 [
   {
+    "id": "c35c56baa25c7a37",
+    "title": "Fralda Cremer Magic Care P 36 unidades",
+    "price_now": 22.46,
+    "price_was": 32.79,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0D92N963G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/645026368617947476248362810803.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-15T13:10:58.968589"
+  },
+  {
     "id": "7f6046a5b6ae3b14",
     "title": "Fralda Pants Huggies Proteção Acolchoada M 72 unidades",
     "price_now": 79.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-14T17:50:53.503799"
-  },
-  {
-    "id": "a835d10734796a7d",
-    "title": "Fralda Pom Pom Protek Proteção De Mãe Hiper Xg 60 Unidades",
-    "price_now": 52.54,
-    "price_was": 77.37,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B097S11KYF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/270841963217946768787232158346.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T17:30:50.055760"
   }
 ]

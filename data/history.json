@@ -10303,6 +10303,10 @@
     "7f6046a5b6ae3b14": {
       "title": "Fralda Pants Huggies Proteção Acolchoada M 72 unidades",
       "posted_at": "2026-11-15T12:40:47.585872"
+    },
+    "c35c56baa25c7a37": {
+      "title": "Fralda Cremer Magic Care P 36 unidades",
+      "posted_at": "2026-11-15T13:10:58.969066"
     }
   },
   "results": [
@@ -49777,6 +49781,22 @@
       "post_id": "2589",
       "error": null,
       "at": "2026-11-15T12:40:47.585313"
+    },
+    {
+      "offer_id": "7bb4e4fd3dfcf06b",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-15T13:10:49.228161"
+    },
+    {
+      "offer_id": "c35c56baa25c7a37",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2590",
+      "error": null,
+      "at": "2026-11-15T13:10:58.968291"
     }
   ]
 }
