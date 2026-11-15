@@ -1,5 +1,17 @@
 [
   {
+    "id": "1aa45dcd785b209c",
+    "title": "Fralda Cremer Magic Care M 34 Unidades",
+    "price_now": 22.47,
+    "price_was": 32.79,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0D92MX4JM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/495260471717947481624434952245.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-15T13:21:00.670103"
+  },
+  {
     "id": "c35c56baa25c7a37",
     "title": "Fralda Cremer Magic Care P 36 unidades",
     "price_now": 22.46,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-14T18:10:47.385452"
-  },
-  {
-    "id": "61eca26c9bb5530f",
-    "title": "MamyPoko Fralda-Calça Superproteção XG 24 Unidades",
-    "price_now": 29.87,
-    "price_was": 42.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/404964504217946775522797503429.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T17:50:53.503799"
   }
 ]
