@@ -1,5 +1,17 @@
 [
   {
+    "id": "46bfb6e4659e5d44",
+    "title": "Fralda Cremer Econômica M 34 Unidades",
+    "price_now": 22.0,
+    "price_was": 32.79,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0D92MX4JM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/887801017317947588353263010454.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-15T16:20:47.923479"
+  },
+  {
     "id": "b4b7fc9951c8298e",
     "title": "Personal Fralda Baby Premium Protection P 40 Unidades",
     "price_now": 24.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-14T18:11:16.820266"
-  },
-  {
-    "id": "59e177dade591eeb",
-    "title": "Fralda Personal Baby Protect & Sec G com 34",
-    "price_now": 25.0,
-    "price_was": 37.02,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/704115129617946790368557501332.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T18:11:05.299161"
   }
 ]
