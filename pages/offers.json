@@ -1,5 +1,17 @@
 [
   {
+    "id": "6504f4bd85643c78",
+    "title": "Fralda Mônica Baby Jumbo RN 36 Unidades",
+    "price_now": 18.9,
+    "price_was": 28.68,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/387817682617947805001860911136.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-15T22:20:46.855672"
+  },
+  {
     "id": "8a1624667bfc1b31",
     "title": "Carrinho de Bebê Spark Splus Safety 1st",
     "price_now": 848.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-14T19:50:44.421744"
-  },
-  {
-    "id": "4125d946ca4f85be",
-    "title": "Kit Mamadeira My 1St S1 150ml S2 300ml Girl Rosa 2 Unidades",
-    "price_now": 59.91,
-    "price_was": 120.77,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B07FPQVWNW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/601742998617946841414545471040.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T19:30:45.945731"
   }
 ]

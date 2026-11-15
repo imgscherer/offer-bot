@@ -10331,6 +10331,10 @@
     "8a1624667bfc1b31": {
       "title": "Carrinho de Bebê Spark Splus Safety 1st",
       "posted_at": "2026-11-15T21:40:42.623456"
+    },
+    "6504f4bd85643c78": {
+      "title": "Fralda Mônica Baby Jumbo RN 36 Unidades",
+      "posted_at": "2026-11-15T22:20:46.855913"
     }
   },
   "results": [
@@ -49997,6 +50001,14 @@
       "post_id": "2596",
       "error": null,
       "at": "2026-11-15T21:40:42.622799"
+    },
+    {
+      "offer_id": "6504f4bd85643c78",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2597",
+      "error": null,
+      "at": "2026-11-15T22:20:46.855393"
     }
   ]
 }
