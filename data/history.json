@@ -10295,6 +10295,10 @@
     "f7e0b8d349d2fd5f": {
       "title": "Fralda Pampers Confort Sec Tamanho XG 116 Unidades",
       "posted_at": "2026-11-15T09:50:56.837010"
+    },
+    "f347ea14602b604d": {
+      "title": "Fralda Pampers Confort Sec XG 116 unidades",
+      "posted_at": "2026-11-15T11:31:00.754867"
     }
   },
   "results": [
@@ -49753,6 +49757,14 @@
       "post_id": "2587",
       "error": null,
       "at": "2026-11-15T09:50:56.836203"
+    },
+    {
+      "offer_id": "f347ea14602b604d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2588",
+      "error": null,
+      "at": "2026-11-15T11:31:00.754078"
     }
   ]
 }
