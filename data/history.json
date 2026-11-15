@@ -10327,6 +10327,10 @@
     "42fd664340192987": {
       "title": "Fralda Huggies Little Swimmers MG 10 Un",
       "posted_at": "2026-11-15T19:20:42.832626"
+    },
+    "8a1624667bfc1b31": {
+      "title": "Carrinho de Bebê Spark Splus Safety 1st",
+      "posted_at": "2026-11-15T21:40:42.623456"
     }
   },
   "results": [
@@ -49985,6 +49989,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-15T20:50:35.596447"
+    },
+    {
+      "offer_id": "8a1624667bfc1b31",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2596",
+      "error": null,
+      "at": "2026-11-15T21:40:42.622799"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "8a1624667bfc1b31",
+    "title": "Carrinho de Bebê Spark Splus Safety 1st",
+    "price_now": 848.9,
+    "price_was": 1499.0,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B0DMTK6XQJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/115710362217947779828639863363.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-15T21:40:42.623142"
+  },
+  {
     "id": "42fd664340192987",
     "title": "Fralda Huggies Little Swimmers MG 10 Un",
     "price_now": 36.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-14T19:30:45.945731"
-  },
-  {
-    "id": "45c0626566261e03",
-    "title": "Fralda Personal Baby Protect e Sec G 34 unidades",
-    "price_now": 25.38,
-    "price_was": 37.02,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/627516005817946789247480171596.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T18:11:26.655156"
   }
 ]
