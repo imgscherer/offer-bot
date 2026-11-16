@@ -1,5 +1,17 @@
 [
   {
+    "id": "0ab6be7e5eaf9cdd",
+    "title": "Fralda Huggies Supreme Care P 48 fraldas",
+    "price_now": 47.99,
+    "price_was": 72.65,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/927838044917948519285164741584.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T18:00:51.329009"
+  },
+  {
     "id": "be0856d24214fe49",
     "title": "Fralda Pampers Premium Care Pants Tamanho G, Fácil De Vestir, 68 Unidades",
     "price_now": 95.64,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-16T13:00:43.695156"
-  },
-  {
-    "id": "f50d73eff60bfda9",
-    "title": "Cremer Fralda Luxo CBainha Patrulha Canina 5 Unidades",
-    "price_now": 25.0,
-    "price_was": 51.77,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B09KX6WYGB?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/363036925817948313019796157896.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T12:21:01.656035"
   }
 ]

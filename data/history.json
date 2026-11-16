@@ -10439,6 +10439,10 @@
     "be0856d24214fe49": {
       "title": "Fralda Pampers Premium Care Pants Tamanho G, Fácil De Vestir, 68 Unidades",
       "posted_at": "2026-11-16T16:41:23.903938"
+    },
+    "0ab6be7e5eaf9cdd": {
+      "title": "Fralda Huggies Supreme Care P 48 fraldas",
+      "posted_at": "2026-11-16T18:00:51.329386"
     }
   },
   "results": [
@@ -50865,6 +50869,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-16T17:50:41.085408"
+    },
+    {
+      "offer_id": "0ab6be7e5eaf9cdd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2626",
+      "error": null,
+      "at": "2026-11-16T18:00:51.328601"
     }
   ]
 }
