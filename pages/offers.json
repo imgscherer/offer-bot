@@ -1,5 +1,17 @@
 [
   {
+    "id": "e93b4e69c45c846e",
+    "title": "Kit Portátil Para Limpeza De Mamadeira - Buba",
+    "price_now": 66.5,
+    "price_was": 108.9,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0DJG4SRZ2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/153263971417948645001474437603.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T21:40:42.997484"
+  },
+  {
     "id": "f7850de050d10d76",
     "title": "Mamypoko Fralda-calça Superproteção G 28 Unidades",
     "price_now": 29.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-16T18:20:47.672334"
-  },
-  {
-    "id": "0ab6be7e5eaf9cdd",
-    "title": "Fralda Huggies Supreme Care P 48 fraldas",
-    "price_now": 47.99,
-    "price_was": 72.65,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/927838044917948519285164741584.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T18:00:51.329009"
   }
 ]

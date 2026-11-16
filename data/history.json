@@ -10487,6 +10487,10 @@
     "f7850de050d10d76": {
       "title": "Mamypoko Fralda-calça Superproteção G 28 Unidades",
       "posted_at": "2026-11-16T21:20:56.953125"
+    },
+    "e93b4e69c45c846e": {
+      "title": "Kit Portátil Para Limpeza De Mamadeira - Buba",
+      "posted_at": "2026-11-16T21:40:42.997751"
     }
   },
   "results": [
@@ -51121,6 +51125,14 @@
       "post_id": "2640",
       "error": null,
       "at": "2026-11-16T21:20:56.952362"
+    },
+    {
+      "offer_id": "e93b4e69c45c846e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2641",
+      "error": null,
+      "at": "2026-11-16T21:40:42.997188"
     }
   ]
 }
