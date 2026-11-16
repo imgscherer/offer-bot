@@ -10515,6 +10515,22 @@
     "d3c4f7a6b90ee645": {
       "title": "Fralda Huggies Natural Care P com 36 unidades",
       "posted_at": "2026-11-16T22:41:04.987551"
+    },
+    "1e5bb959d38374f1": {
+      "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148un",
+      "posted_at": "2026-11-16T23:31:06.918847"
+    },
+    "2cb3567f6037fcb9": {
+      "title": "Fralda Infantil Personal Baby Protect XG 28 unidades",
+      "posted_at": "2026-11-16T23:31:14.375533"
+    },
+    "821e4df8f2e2fa70": {
+      "title": "Fralda Infantil Personal Baby Protect G 34 unidades",
+      "posted_at": "2026-11-16T23:31:27.059423"
+    },
+    "42b9db3a98b5b83a": {
+      "title": "Fralda Infantil Personal Baby Protect M 40 unidades",
+      "posted_at": "2026-11-16T23:31:37.562102"
     }
   },
   "results": [
@@ -51253,6 +51269,38 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-16T23:20:50.810959"
+    },
+    {
+      "offer_id": "1e5bb959d38374f1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2648",
+      "error": null,
+      "at": "2026-11-16T23:31:06.918098"
+    },
+    {
+      "offer_id": "2cb3567f6037fcb9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2649",
+      "error": null,
+      "at": "2026-11-16T23:31:14.374822"
+    },
+    {
+      "offer_id": "821e4df8f2e2fa70",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2650",
+      "error": null,
+      "at": "2026-11-16T23:31:27.058689"
+    },
+    {
+      "offer_id": "42b9db3a98b5b83a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2651",
+      "error": null,
+      "at": "2026-11-16T23:31:37.561316"
     }
   ]
 }

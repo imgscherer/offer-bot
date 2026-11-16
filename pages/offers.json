@@ -1,5 +1,53 @@
 [
   {
+    "id": "42b9db3a98b5b83a",
+    "title": "Fralda Infantil Personal Baby Protect M 40 unidades",
+    "price_now": 25.0,
+    "price_was": 36.96,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/898878789017948710578504868795.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T23:31:37.561645"
+  },
+  {
+    "id": "821e4df8f2e2fa70",
+    "title": "Fralda Infantil Personal Baby Protect G 34 unidades",
+    "price_now": 25.0,
+    "price_was": 37.02,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/150538181717948710585423657127.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T23:31:27.058964"
+  },
+  {
+    "id": "2cb3567f6037fcb9",
+    "title": "Fralda Infantil Personal Baby Protect XG 28 unidades",
+    "price_now": 25.0,
+    "price_was": 37.02,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BBHFXBTF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/681048009317948710617545328774.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T23:31:14.375079"
+  },
+  {
+    "id": "1e5bb959d38374f1",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148un",
+    "price_now": 113.92,
+    "price_was": 227.12,
+    "discount_pct": 50,
+    "url": "https://s.shopee.com.br/9pfw1dbrsE?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/178396877917948714792006776213.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T23:31:06.918424"
+  },
+  {
     "id": "d3c4f7a6b90ee645",
     "title": "Fralda Huggies Natural Care P com 36 unidades",
     "price_now": 28.0,
@@ -94,53 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-16T21:20:56.952681"
-  },
-  {
-    "id": "250ae7f0d5b15315",
-    "title": "Creme Preventivo De Assaduras Para Bebês Hipoglós, Fragrância Suave, 120g",
-    "price_now": 39.0,
-    "price_was": 77.99,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B0CHZCWLV6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/219855173517948637895595070254.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T21:20:48.057374"
-  },
-  {
-    "id": "50ac34d6a8b57c0d",
-    "title": "Personal Fralda Baby Premium Protection G 30 Unidades",
-    "price_now": 27.0,
-    "price_was": 48.75,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/428449214717948627156802777830.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T21:11:31.348381"
-  },
-  {
-    "id": "e4eac3fc0460364e",
-    "title": "Tênis Infantil Masculino Led (Tam. 23 ao 34)",
-    "price_now": 67.9,
-    "price_was": 199.71,
-    "discount_pct": 66,
-    "url": "https://s.shopee.com.br/4fxqD2qmAK?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/276635626417948631921568614668.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T21:11:05.793799"
-  },
-  {
-    "id": "257bf45232bd7e35",
-    "title": "Kit 10 Peças Roupa Infantil",
-    "price_now": 79.0,
-    "price_was": 163.16,
-    "discount_pct": 52,
-    "url": "https://s.shopee.com.br/9fMW5XxNPU?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/914747836617948606002048845381.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T20:30:53.377556"
   }
 ]
