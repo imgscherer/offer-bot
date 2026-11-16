@@ -10363,6 +10363,26 @@
     "68a984259a9b41a5": {
       "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
       "posted_at": "2026-11-16T11:10:56.135381"
+    },
+    "fdb63d2301dc72e5": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Mega XG 38 Unidades",
+      "posted_at": "2026-11-16T11:40:46.902459"
+    },
+    "2edfe6dc7b41cc39": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe Mega G 42 Unidades",
+      "posted_at": "2026-11-16T11:40:58.246455"
+    },
+    "17e767f864923f6e": {
+      "title": "Fralda Turma Da Mônica Baby Mega Xxg 36 Unidades",
+      "posted_at": "2026-11-16T11:41:07.516933"
+    },
+    "40f80da181baee40": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe Mega P 54 Unidades",
+      "posted_at": "2026-11-16T11:41:21.572156"
+    },
+    "ca4450a21b77a90d": {
+      "title": "Fralda Turma Da Mônica Baby Mega M 50 Unidades",
+      "posted_at": "2026-11-16T11:41:29.196037"
     }
   },
   "results": [
@@ -50269,6 +50289,46 @@
       "post_id": "2604",
       "error": null,
       "at": "2026-11-16T11:10:56.104693"
+    },
+    {
+      "offer_id": "fdb63d2301dc72e5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2607",
+      "error": null,
+      "at": "2026-11-16T11:40:46.901741"
+    },
+    {
+      "offer_id": "2edfe6dc7b41cc39",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2608",
+      "error": null,
+      "at": "2026-11-16T11:40:58.245469"
+    },
+    {
+      "offer_id": "17e767f864923f6e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2609",
+      "error": null,
+      "at": "2026-11-16T11:41:07.516103"
+    },
+    {
+      "offer_id": "40f80da181baee40",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2610",
+      "error": null,
+      "at": "2026-11-16T11:41:21.571386"
+    },
+    {
+      "offer_id": "ca4450a21b77a90d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2611",
+      "error": null,
+      "at": "2026-11-16T11:41:29.195210"
     }
   ]
 }

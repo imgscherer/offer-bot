@@ -1,5 +1,65 @@
 [
   {
+    "id": "ca4450a21b77a90d",
+    "title": "Fralda Turma Da Mônica Baby Mega M 50 Unidades",
+    "price_now": 33.98,
+    "price_was": 50.04,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/734896526217948284437487424759.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T11:41:29.195574"
+  },
+  {
+    "id": "40f80da181baee40",
+    "title": "Fralda Pom Pom Protek Proteção De Mãe Mega P 54 Unidades",
+    "price_now": 34.29,
+    "price_was": 50.29,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B093GBK61Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/235452132617948282606708638997.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T11:41:21.571724"
+  },
+  {
+    "id": "17e767f864923f6e",
+    "title": "Fralda Turma Da Mônica Baby Mega Xxg 36 Unidades",
+    "price_now": 33.53,
+    "price_was": 50.04,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B099KPQQWF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/364246817817948284412503123605.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T11:41:07.516482"
+  },
+  {
+    "id": "2edfe6dc7b41cc39",
+    "title": "Fralda Pom Pom Protek Proteção De Mãe Mega G 42 Unidades",
+    "price_now": 32.2,
+    "price_was": 50.29,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/173261611017948279672456151454.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T11:40:58.245771"
+  },
+  {
+    "id": "fdb63d2301dc72e5",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe Mega XG 38 Unidades",
+    "price_now": 31.02,
+    "price_was": 50.29,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/780320713617948280758860996164.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T11:40:46.902100"
+  },
+  {
     "id": "68a984259a9b41a5",
     "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
     "price_now": 46.95,
@@ -82,65 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-16T03:00:46.467254"
-  },
-  {
-    "id": "6504f4bd85643c78",
-    "title": "Fralda Mônica Baby Jumbo RN 36 Unidades",
-    "price_now": 18.9,
-    "price_was": 28.68,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/387817682617947805001860911136.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-15T22:20:46.855672"
-  },
-  {
-    "id": "8a1624667bfc1b31",
-    "title": "Carrinho de Bebê Spark Splus Safety 1st",
-    "price_now": 848.9,
-    "price_was": 1499.0,
-    "discount_pct": 43,
-    "url": "https://www.amazon.com.br/dp/B0DMTK6XQJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/115710362217947779828639863363.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-15T21:40:42.623142"
-  },
-  {
-    "id": "42fd664340192987",
-    "title": "Fralda Huggies Little Swimmers MG 10 Un",
-    "price_now": 36.0,
-    "price_was": 51.34,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B094SMZT6W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/157008297617947693659676912598.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-15T19:20:42.832362"
-  },
-  {
-    "id": "46bfb6e4659e5d44",
-    "title": "Fralda Cremer Econômica M 34 Unidades",
-    "price_now": 22.0,
-    "price_was": 32.79,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0D92MX4JM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/887801017317947588353263010454.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-15T16:20:47.923479"
-  },
-  {
-    "id": "b4b7fc9951c8298e",
-    "title": "Personal Fralda Baby Premium Protection P 40 Unidades",
-    "price_now": 24.0,
-    "price_was": 46.38,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/470776913817947527764920518342.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-15T14:40:51.565674"
   }
 ]
