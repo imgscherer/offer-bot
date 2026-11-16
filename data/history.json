@@ -10443,6 +10443,14 @@
     "0ab6be7e5eaf9cdd": {
       "title": "Fralda Huggies Supreme Care P 48 fraldas",
       "posted_at": "2026-11-16T18:00:51.329386"
+    },
+    "2f68c5ee1f580fbb": {
+      "title": "Fraldas Pom Pom Protek Proteção de Mãe M com 48",
+      "posted_at": "2026-11-16T18:20:47.672590"
+    },
+    "1ad6c72ddc21eaa7": {
+      "title": "Fraldas Pom Pom Protek Proteção de Mãe XG com 38",
+      "posted_at": "2026-11-16T18:21:20.550364"
     }
   },
   "results": [
@@ -50877,6 +50885,30 @@
       "post_id": "2626",
       "error": null,
       "at": "2026-11-16T18:00:51.328601"
+    },
+    {
+      "offer_id": "2f68c5ee1f580fbb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2627",
+      "error": null,
+      "at": "2026-11-16T18:20:47.672010"
+    },
+    {
+      "offer_id": "49809f58cda8e3d7",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-16T18:21:10.820423"
+    },
+    {
+      "offer_id": "1ad6c72ddc21eaa7",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2628",
+      "error": null,
+      "at": "2026-11-16T18:21:20.549645"
     }
   ]
 }

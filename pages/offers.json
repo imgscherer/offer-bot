@@ -1,5 +1,29 @@
 [
   {
+    "id": "1ad6c72ddc21eaa7",
+    "title": "Fraldas Pom Pom Protek Proteção de Mãe XG com 38",
+    "price_now": 29.0,
+    "price_was": 50.29,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/276725451917948527583188702927.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T18:21:20.549918"
+  },
+  {
+    "id": "2f68c5ee1f580fbb",
+    "title": "Fraldas Pom Pom Protek Proteção de Mãe M com 48",
+    "price_now": 29.0,
+    "price_was": 50.29,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/435606441717948527688940379719.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T18:20:47.672334"
+  },
+  {
     "id": "0ab6be7e5eaf9cdd",
     "title": "Fralda Huggies Supreme Care P 48 fraldas",
     "price_now": 47.99,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-16T13:41:13.696735"
-  },
-  {
-    "id": "c7da55b210e63972",
-    "title": "Garrafa Infantil de Inox Dinossauro com Bebedor Silicone 350 ml Lillo",
-    "price_now": 47.0,
-    "price_was": 139.9,
-    "discount_pct": 66,
-    "url": "https://www.amazon.com.br/dp/B0F3Z73NTX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/743251122517948357645385321675.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T13:40:50.874738"
-  },
-  {
-    "id": "1600cf32455f42da",
-    "title": "Kit 10 Peças Roupinhas de Bebê Body Longo Liso ou Estampado e Mijão",
-    "price_now": 69.9,
-    "price_was": 104.33,
-    "discount_pct": 33,
-    "url": "https://s.shopee.com.br/2qW9SdQ9AX",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mpnsec8fwlj535",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T13:00:43.695156"
   }
 ]
