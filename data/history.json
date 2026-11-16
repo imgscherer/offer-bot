@@ -10347,6 +10347,14 @@
     "5ad46f3e24b24cbb": {
       "title": "Fralda Pampers Pants Ajuste Total M 108 Unidades",
       "posted_at": "2026-11-16T10:30:47.008011"
+    },
+    "4b74c37e8a952dde": {
+      "title": "Babysec Fralda Premium M 32 Unidades",
+      "posted_at": "2026-11-16T11:00:53.191494"
+    },
+    "7d0cf41d43c180c5": {
+      "title": "Personal Fralda Baby Premium Protection P, 40 Unidades",
+      "posted_at": "2026-11-16T11:01:04.472778"
     }
   },
   "results": [
@@ -50221,6 +50229,22 @@
       "post_id": "2600",
       "error": null,
       "at": "2026-11-16T10:30:47.007421"
+    },
+    {
+      "offer_id": "4b74c37e8a952dde",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2601",
+      "error": null,
+      "at": "2026-11-16T11:00:53.190991"
+    },
+    {
+      "offer_id": "7d0cf41d43c180c5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2602",
+      "error": null,
+      "at": "2026-11-16T11:01:04.472113"
     }
   ]
 }
