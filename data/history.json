@@ -10395,6 +10395,10 @@
     "f50d73eff60bfda9": {
       "title": "Cremer Fralda Luxo CBainha Patrulha Canina 5 Unidades",
       "posted_at": "2026-11-16T12:21:01.656288"
+    },
+    "1600cf32455f42da": {
+      "title": "Kit 10 Peças Roupinhas de Bebê Body Longo Liso ou Estampado e Mijão",
+      "posted_at": "2026-11-16T13:00:43.695414"
     }
   },
   "results": [
@@ -50381,6 +50385,14 @@
       "post_id": "2614",
       "error": null,
       "at": "2026-11-16T12:21:01.655746"
+    },
+    {
+      "offer_id": "1600cf32455f42da",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2615",
+      "error": null,
+      "at": "2026-11-16T13:00:43.694824"
     }
   ]
 }

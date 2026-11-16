@@ -1,5 +1,17 @@
 [
   {
+    "id": "1600cf32455f42da",
+    "title": "Kit 10 Peças Roupinhas de Bebê Body Longo Liso ou Estampado e Mijão",
+    "price_now": 69.9,
+    "price_was": 104.33,
+    "discount_pct": 33,
+    "url": "https://s.shopee.com.br/2qW9SdQ9AX",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mpnsec8fwlj535",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T13:00:43.695156"
+  },
+  {
     "id": "f50d73eff60bfda9",
     "title": "Cremer Fralda Luxo CBainha Patrulha Canina 5 Unidades",
     "price_now": 25.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-16T11:01:04.472351"
-  },
-  {
-    "id": "4b74c37e8a952dde",
-    "title": "Babysec Fralda Premium M 32 Unidades",
-    "price_now": 29.0,
-    "price_was": 54.39,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/865190278517948263409825095112.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T11:00:53.191243"
   }
 ]
