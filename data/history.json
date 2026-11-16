@@ -10387,6 +10387,10 @@
     "63606cc3b48f94ea": {
       "title": "Fralda Turma Da Mônica Baby Mega Xg 42 Unidades",
       "posted_at": "2026-11-16T11:50:43.805256"
+    },
+    "cc103304e26f39e6": {
+      "title": "Carrinho De Bebê EasyGo Com Cesto 3 Rodas Passeio Até 15kgs - KaBaby (4 Cores)",
+      "posted_at": "2026-11-16T12:00:55.863848"
     }
   },
   "results": [
@@ -50341,6 +50345,22 @@
       "post_id": "2612",
       "error": null,
       "at": "2026-11-16T11:50:43.804565"
+    },
+    {
+      "offer_id": "cc103304e26f39e6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2613",
+      "error": null,
+      "at": "2026-11-16T12:00:55.863256"
+    },
+    {
+      "offer_id": "c2469b37ca99a8db",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-16T12:00:56.907617"
     }
   ]
 }
