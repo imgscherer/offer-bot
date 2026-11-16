@@ -1,5 +1,29 @@
 [
   {
+    "id": "d304138cfc7332a5",
+    "title": "Fralda Pampers Pants Premium Care G 112 Unidades",
+    "price_now": 116.0,
+    "price_was": 182.48,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B08K4MXDVX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/715796637417948680948300473958.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T22:31:04.646568"
+  },
+  {
+    "id": "e88fb3c97e578b8d",
+    "title": "Fralda Pampers Pants Ajuste Total M com 108 Unidades",
+    "price_now": 80.0,
+    "price_was": 194.9,
+    "discount_pct": 59,
+    "url": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/257757145217948680389640898542.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T22:30:53.301528"
+  },
+  {
     "id": "5c12b6aa2b91e5ef",
     "title": "Fralda Pampers Confort Sec G 34 unidades",
     "price_now": 25.38,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-16T20:00:49.578378"
-  },
-  {
-    "id": "6ec34a19d5a28d82",
-    "title": "Personal Fralda Baby Total Protect Pants Média, 52 Unidades",
-    "price_now": 46.95,
-    "price_was": 69.42,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/913152953817948568263570382260.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T19:30:56.507820"
-  },
-  {
-    "id": "476f8db82a91202e",
-    "title": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
-    "price_now": 93.47,
-    "price_was": 194.9,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/777783867517948564955719060207.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T19:30:48.864872"
   }
 ]

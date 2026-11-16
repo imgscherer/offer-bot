@@ -10499,6 +10499,14 @@
     "5c12b6aa2b91e5ef": {
       "title": "Fralda Pampers Confort Sec G 34 unidades",
       "posted_at": "2026-11-16T21:51:13.666361"
+    },
+    "e88fb3c97e578b8d": {
+      "title": "Fralda Pampers Pants Ajuste Total M com 108 Unidades",
+      "posted_at": "2026-11-16T22:30:53.301958"
+    },
+    "d304138cfc7332a5": {
+      "title": "Fralda Pampers Pants Premium Care G 112 Unidades",
+      "posted_at": "2026-11-16T22:31:04.647027"
     }
   },
   "results": [
@@ -51165,6 +51173,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-16T22:20:56.560970"
+    },
+    {
+      "offer_id": "e88fb3c97e578b8d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2644",
+      "error": null,
+      "at": "2026-11-16T22:30:53.301233"
+    },
+    {
+      "offer_id": "d304138cfc7332a5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2645",
+      "error": null,
+      "at": "2026-11-16T22:31:04.646312"
     }
   ]
 }
