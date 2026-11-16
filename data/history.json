@@ -10343,6 +10343,10 @@
     "0d1352cdee77201b": {
       "title": "Kit vestido de malha para bebê de 3 meses à 3 anos com tapa fralda menina em malha 100% algodão kit com 6 peças",
       "posted_at": "2026-11-16T03:00:47.601849"
+    },
+    "5ad46f3e24b24cbb": {
+      "title": "Fralda Pampers Pants Ajuste Total M 108 Unidades",
+      "posted_at": "2026-11-16T10:30:47.008011"
     }
   },
   "results": [
@@ -50209,6 +50213,14 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-16T09:50:33.905437"
+    },
+    {
+      "offer_id": "5ad46f3e24b24cbb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2600",
+      "error": null,
+      "at": "2026-11-16T10:30:47.007421"
     }
   ]
 }

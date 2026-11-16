@@ -1,5 +1,17 @@
 [
   {
+    "id": "5ad46f3e24b24cbb",
+    "title": "Fralda Pampers Pants Ajuste Total M 108 Unidades",
+    "price_now": 93.0,
+    "price_was": 194.9,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/243906541817948245403629541483.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T10:30:47.007717"
+  },
+  {
     "id": "0d1352cdee77201b",
     "title": "Kit vestido de malha para bebê de 3 meses à 3 anos com tapa fralda menina em malha 100% algodão kit com 6 peças",
     "price_now": 93.24,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-15T12:40:47.585622"
-  },
-  {
-    "id": "f347ea14602b604d",
-    "title": "Fralda Pampers Confort Sec XG 116 unidades",
-    "price_now": 115.74,
-    "price_was": 181.64,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B084BNQ7PK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/961723425917947413788792641247.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-15T11:31:00.754405"
   }
 ]
