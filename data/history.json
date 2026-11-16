@@ -10335,6 +10335,14 @@
     "6504f4bd85643c78": {
       "title": "Fralda Mônica Baby Jumbo RN 36 Unidades",
       "posted_at": "2026-11-15T22:20:46.855913"
+    },
+    "ed656455b25df804": {
+      "title": "Vestido de malha para bebê de 3 meses à 3 anos com tapa fralda menina em malha 100% algodão",
+      "posted_at": "2026-11-16T03:00:46.467423"
+    },
+    "0d1352cdee77201b": {
+      "title": "Kit vestido de malha para bebê de 3 meses à 3 anos com tapa fralda menina em malha 100% algodão kit com 6 peças",
+      "posted_at": "2026-11-16T03:00:47.601849"
     }
   },
   "results": [
@@ -50057,6 +50065,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-16T02:30:43.644077"
+    },
+    {
+      "offer_id": "6e2032f6b89ce328",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-16T03:00:43.594367"
+    },
+    {
+      "offer_id": "ed656455b25df804",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2598",
+      "error": null,
+      "at": "2026-11-16T03:00:46.467048"
+    },
+    {
+      "offer_id": "0d1352cdee77201b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2599",
+      "error": null,
+      "at": "2026-11-16T03:00:47.600970"
     }
   ]
 }

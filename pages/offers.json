@@ -1,5 +1,29 @@
 [
   {
+    "id": "0d1352cdee77201b",
+    "title": "Kit vestido de malha para bebê de 3 meses à 3 anos com tapa fralda menina em malha 100% algodão kit com 6 peças",
+    "price_now": 93.24,
+    "price_was": 133.2,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/40i6ePWLvf",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820li-ms8ph0aq00ec00",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T03:00:47.601152"
+  },
+  {
+    "id": "ed656455b25df804",
+    "title": "Vestido de malha para bebê de 3 meses à 3 anos com tapa fralda menina em malha 100% algodão",
+    "price_now": 37.24,
+    "price_was": 53.2,
+    "discount_pct": 30,
+    "url": "https://s.shopee.com.br/5Au42YRuYu",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mvht92j2ebk3e6",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T03:00:46.467254"
+  },
+  {
     "id": "6504f4bd85643c78",
     "title": "Fralda Mônica Baby Jumbo RN 36 Unidades",
     "price_now": 18.9,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-15T11:31:00.754405"
-  },
-  {
-    "id": "f7e0b8d349d2fd5f",
-    "title": "Fralda Pampers Confort Sec Tamanho XG 116 Unidades",
-    "price_now": 121.83,
-    "price_was": 181.64,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B084BNQ7PK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/182265834517947357313460688224.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-15T09:50:56.836521"
-  },
-  {
-    "id": "fdec2c76793c17e7",
-    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
-    "price_now": 4.49,
-    "price_was": 9.42,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/213008173517946850935077448703.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-14T19:50:44.421744"
   }
 ]
