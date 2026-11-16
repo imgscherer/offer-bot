@@ -1,5 +1,17 @@
 [
   {
+    "id": "39af3b204f25cdd8",
+    "title": "Garrafa Térmica Infantil 350ml com Bico Antivazamento e Alça de Transporte (Off White)",
+    "price_now": 40.84,
+    "price_was": 59.99,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0GJFRLPFH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/391737576217948585927949776930.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T20:00:49.578378"
+  },
+  {
     "id": "6ec34a19d5a28d82",
     "title": "Personal Fralda Baby Total Protect Pants Média, 52 Unidades",
     "price_now": 46.95,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-16T14:40:51.186643"
-  },
-  {
-    "id": "f4552d579ecbc744",
-    "title": "Fralda Personal Baby Protect e Sec XG Mega 9x28pads Leve 28 pague 26 Unidades",
-    "price_now": 25.38,
-    "price_was": 37.02,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0BBHFXBTF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/711251913517948375015677395323.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T14:00:51.171056"
   }
 ]

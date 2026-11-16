@@ -10459,6 +10459,10 @@
     "6ec34a19d5a28d82": {
       "title": "Personal Fralda Baby Total Protect Pants Média, 52 Unidades",
       "posted_at": "2026-11-16T19:30:56.508404"
+    },
+    "39af3b204f25cdd8": {
+      "title": "Garrafa Térmica Infantil 350ml com Bico Antivazamento e Alça de Transporte (Off White)",
+      "posted_at": "2026-11-16T20:00:49.578635"
     }
   },
   "results": [
@@ -50989,6 +50993,14 @@
       "post_id": "2631",
       "error": null,
       "at": "2026-11-16T19:30:56.507510"
+    },
+    {
+      "offer_id": "39af3b204f25cdd8",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2632",
+      "error": null,
+      "at": "2026-11-16T20:00:49.578082"
     }
   ]
 }
