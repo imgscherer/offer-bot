@@ -1,5 +1,17 @@
 [
   {
+    "id": "1e2b89ca09995817",
+    "title": "Fralda Pants Huggies Supreme Care G 30 Unidades",
+    "price_now": 38.0,
+    "price_was": 65.29,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B07FN9FRVM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/507904535817948362424252028449.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T13:50:43.263390"
+  },
+  {
     "id": "ce4535f464284605",
     "title": "Fralda Cremer Econômica XXG 22 Unidades",
     "price_now": 22.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-16T11:40:46.902100"
-  },
-  {
-    "id": "68a984259a9b41a5",
-    "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
-    "price_now": 46.95,
-    "price_was": 69.42,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/304052576317948271137695840546.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T11:10:56.104982"
   }
 ]

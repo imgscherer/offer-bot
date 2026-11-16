@@ -10407,6 +10407,10 @@
     "ce4535f464284605": {
       "title": "Fralda Cremer Econômica XXG 22 Unidades",
       "posted_at": "2026-11-16T13:41:13.697312"
+    },
+    "1e2b89ca09995817": {
+      "title": "Fralda Pants Huggies Supreme Care G 30 Unidades",
+      "posted_at": "2026-11-16T13:50:43.263674"
     }
   },
   "results": [
@@ -50457,6 +50461,22 @@
       "post_id": "2617",
       "error": null,
       "at": "2026-11-16T13:41:13.696441"
+    },
+    {
+      "offer_id": "1e2b89ca09995817",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2618",
+      "error": null,
+      "at": "2026-11-16T13:50:43.263105"
+    },
+    {
+      "offer_id": "a4044b04c397ed0c",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-16T13:50:51.643050"
     }
   ]
 }
