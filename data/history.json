@@ -10419,6 +10419,14 @@
     "3a4835950233c506": {
       "title": "Fralda Personal Baby Premium Pants G 4 Pacotes c42 Unidades",
       "posted_at": "2026-11-16T14:40:51.186894"
+    },
+    "e8a4e58a47fa43cd": {
+      "title": "Fralda Pampers Pants Premium Care Jumbo G com 72",
+      "posted_at": "2026-11-16T15:51:28.752705"
+    },
+    "c87802b62586e894": {
+      "title": "MamyPoko Fralda-Calça Superproteção G 28 Unidades",
+      "posted_at": "2026-11-16T15:51:41.550474"
     }
   },
   "results": [
@@ -50589,6 +50597,38 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-16T15:40:44.694008"
+    },
+    {
+      "offer_id": "a0babc424df83f97",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-16T15:50:58.363451"
+    },
+    {
+      "offer_id": "866fa8df2937f0a3",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-16T15:51:15.563348"
+    },
+    {
+      "offer_id": "e8a4e58a47fa43cd",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2621",
+      "error": null,
+      "at": "2026-11-16T15:51:28.751922"
+    },
+    {
+      "offer_id": "c87802b62586e894",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2622",
+      "error": null,
+      "at": "2026-11-16T15:51:41.549664"
     }
   ]
 }
