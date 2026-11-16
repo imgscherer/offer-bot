@@ -10463,6 +10463,10 @@
     "39af3b204f25cdd8": {
       "title": "Garrafa Térmica Infantil 350ml com Bico Antivazamento e Alça de Transporte (Off White)",
       "posted_at": "2026-11-16T20:00:49.578635"
+    },
+    "9d553794a7a676d9": {
+      "title": "Kit 10 Peças Roupa Infantil",
+      "posted_at": "2026-11-16T20:10:47.684493"
     }
   },
   "results": [
@@ -51001,6 +51005,14 @@
       "post_id": "2632",
       "error": null,
       "at": "2026-11-16T20:00:49.578082"
+    },
+    {
+      "offer_id": "9d553794a7a676d9",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2633",
+      "error": null,
+      "at": "2026-11-16T20:10:47.683917"
     }
   ]
 }
