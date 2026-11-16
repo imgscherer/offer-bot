@@ -10451,6 +10451,14 @@
     "1ad6c72ddc21eaa7": {
       "title": "Fraldas Pom Pom Protek Proteção de Mãe XG com 38",
       "posted_at": "2026-11-16T18:21:20.550364"
+    },
+    "476f8db82a91202e": {
+      "title": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
+      "posted_at": "2026-11-16T19:30:48.865114"
+    },
+    "6ec34a19d5a28d82": {
+      "title": "Personal Fralda Baby Total Protect Pants Média, 52 Unidades",
+      "posted_at": "2026-11-16T19:30:56.508404"
     }
   },
   "results": [
@@ -50965,6 +50973,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-16T19:20:46.156924"
+    },
+    {
+      "offer_id": "476f8db82a91202e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2630",
+      "error": null,
+      "at": "2026-11-16T19:30:48.864528"
+    },
+    {
+      "offer_id": "6ec34a19d5a28d82",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2631",
+      "error": null,
+      "at": "2026-11-16T19:30:56.507510"
     }
   ]
 }
