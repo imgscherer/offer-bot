@@ -1,5 +1,29 @@
 [
   {
+    "id": "50ac34d6a8b57c0d",
+    "title": "Personal Fralda Baby Premium Protection G 30 Unidades",
+    "price_now": 27.0,
+    "price_was": 48.75,
+    "discount_pct": 45,
+    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/428449214717948627156802777830.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T21:11:31.348381"
+  },
+  {
+    "id": "e4eac3fc0460364e",
+    "title": "Tênis Infantil Masculino Led (Tam. 23 ao 34)",
+    "price_now": 67.9,
+    "price_was": 199.71,
+    "discount_pct": 66,
+    "url": "https://s.shopee.com.br/4fxqD2qmAK?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/276635626417948631921568614668.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T21:11:05.793799"
+  },
+  {
     "id": "257bf45232bd7e35",
     "title": "Kit 10 Peças Roupa Infantil",
     "price_now": 79.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-16T16:40:56.690265"
-  },
-  {
-    "id": "064c71c0e2f2a0c0",
-    "title": "Fralda Pampers Confort Sec Jumbo Plus XG com 116",
-    "price_now": 123.0,
-    "price_was": 217.25,
-    "discount_pct": 43,
-    "url": "https://s.shopee.com.br/8VAYRBTkHm?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/174513664517948449311993615342.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T16:11:21.333206"
-  },
-  {
-    "id": "c87802b62586e894",
-    "title": "MamyPoko Fralda-Calça Superproteção G 28 Unidades",
-    "price_now": 28.0,
-    "price_was": 42.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0D4363KSD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/915280416717948432688971820829.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T15:51:41.550043"
   }
 ]
