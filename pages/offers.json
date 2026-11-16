@@ -1,5 +1,29 @@
 [
   {
+    "id": "68a984259a9b41a5",
+    "title": "Fralda Personal Baby Total Protect Pants M 52 unidades",
+    "price_now": 46.95,
+    "price_was": 69.42,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/304052576317948271137695840546.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T11:10:56.104982"
+  },
+  {
+    "id": "c10618434bd8273c",
+    "title": "Personal Fralda Baby Total Protect Pants Média 52 Unidades",
+    "price_now": 46.0,
+    "price_was": 69.42,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/403498081217948272991993711537.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T11:10:46.319900"
+  },
+  {
     "id": "7d0cf41d43c180c5",
     "title": "Personal Fralda Baby Premium Protection P, 40 Unidades",
     "price_now": 25.5,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-15T14:40:51.565674"
-  },
-  {
-    "id": "658978304a636a17",
-    "title": "Quadro Para Recepção Chá de Fraldas Bebê Personalizado Com Nome Menina Passarinhos Rosas",
-    "price_now": 24.9,
-    "price_was": 59.29,
-    "discount_pct": 58,
-    "url": "https://s.shopee.com.br/AUvb4FVfsW",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mvb1it4kuadc1b",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-15T13:40:46.848281"
-  },
-  {
-    "id": "1aa45dcd785b209c",
-    "title": "Fralda Cremer Magic Care M 34 Unidades",
-    "price_now": 22.47,
-    "price_was": 32.79,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0D92MX4JM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/495260471717947481624434952245.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-15T13:21:00.670103"
   }
 ]
