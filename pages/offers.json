@@ -1,5 +1,29 @@
 [
   {
+    "id": "ce4535f464284605",
+    "title": "Fralda Cremer Econômica XXG 22 Unidades",
+    "price_now": 22.0,
+    "price_was": 32.79,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0D92MTQ8H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/965451827317948359374995406434.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T13:41:13.696735"
+  },
+  {
+    "id": "c7da55b210e63972",
+    "title": "Garrafa Infantil de Inox Dinossauro com Bebedor Silicone 350 ml Lillo",
+    "price_now": 47.0,
+    "price_was": 139.9,
+    "discount_pct": 66,
+    "url": "https://www.amazon.com.br/dp/B0F3Z73NTX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/743251122517948357645385321675.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T13:40:50.874738"
+  },
+  {
     "id": "1600cf32455f42da",
     "title": "Kit 10 Peças Roupinhas de Bebê Body Longo Liso ou Estampado e Mijão",
     "price_now": 69.9,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-16T11:10:56.104982"
-  },
-  {
-    "id": "c10618434bd8273c",
-    "title": "Personal Fralda Baby Total Protect Pants Média 52 Unidades",
-    "price_now": 46.0,
-    "price_was": 69.42,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/403498081217948272991993711537.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T11:10:46.319900"
-  },
-  {
-    "id": "7d0cf41d43c180c5",
-    "title": "Personal Fralda Baby Premium Protection P, 40 Unidades",
-    "price_now": 25.5,
-    "price_was": 46.38,
-    "discount_pct": 45,
-    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/616259893717948257351660258776.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T11:01:04.472351"
   }
 ]

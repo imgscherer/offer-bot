@@ -10399,6 +10399,14 @@
     "1600cf32455f42da": {
       "title": "Kit 10 Peças Roupinhas de Bebê Body Longo Liso ou Estampado e Mijão",
       "posted_at": "2026-11-16T13:00:43.695414"
+    },
+    "c7da55b210e63972": {
+      "title": "Garrafa Infantil de Inox Dinossauro com Bebedor Silicone 350 ml Lillo",
+      "posted_at": "2026-11-16T13:40:50.875013"
+    },
+    "ce4535f464284605": {
+      "title": "Fralda Cremer Econômica XXG 22 Unidades",
+      "posted_at": "2026-11-16T13:41:13.697312"
     }
   },
   "results": [
@@ -50417,6 +50425,38 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-16T13:30:49.706455"
+    },
+    {
+      "offer_id": "c7da55b210e63972",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2616",
+      "error": null,
+      "at": "2026-11-16T13:40:50.874429"
+    },
+    {
+      "offer_id": "c2469b37ca99a8db",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-16T13:40:52.209937"
+    },
+    {
+      "offer_id": "a4044b04c397ed0c",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-16T13:41:01.856225"
+    },
+    {
+      "offer_id": "ce4535f464284605",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2617",
+      "error": null,
+      "at": "2026-11-16T13:41:13.696441"
     }
   ]
 }
