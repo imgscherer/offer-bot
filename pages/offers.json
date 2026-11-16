@@ -1,5 +1,29 @@
 [
   {
+    "id": "5c12b6aa2b91e5ef",
+    "title": "Fralda Pampers Confort Sec G 34 unidades",
+    "price_now": 25.38,
+    "price_was": 37.02,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/369210582417948655295686419348.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T21:51:13.666081"
+  },
+  {
+    "id": "64b23b1b8c7dba35",
+    "title": "Fralda Pampers Confort Sec M 40 unidades",
+    "price_now": 25.38,
+    "price_was": 36.96,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/273316185017948655314773715155.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-16T21:51:00.555694"
+  },
+  {
     "id": "e93b4e69c45c846e",
     "title": "Kit Portátil Para Limpeza De Mamadeira - Buba",
     "price_now": 66.5,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-16T19:30:48.864872"
-  },
-  {
-    "id": "1ad6c72ddc21eaa7",
-    "title": "Fraldas Pom Pom Protek Proteção de Mãe XG com 38",
-    "price_now": 29.0,
-    "price_was": 50.29,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/276725451917948527583188702927.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T18:21:20.549918"
-  },
-  {
-    "id": "2f68c5ee1f580fbb",
-    "title": "Fraldas Pom Pom Protek Proteção de Mãe M com 48",
-    "price_now": 29.0,
-    "price_was": 50.29,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/435606441717948527688940379719.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T18:20:47.672334"
   }
 ]

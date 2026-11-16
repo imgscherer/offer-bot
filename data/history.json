@@ -10491,6 +10491,14 @@
     "e93b4e69c45c846e": {
       "title": "Kit Portátil Para Limpeza De Mamadeira - Buba",
       "posted_at": "2026-11-16T21:40:42.997751"
+    },
+    "64b23b1b8c7dba35": {
+      "title": "Fralda Pampers Confort Sec M 40 unidades",
+      "posted_at": "2026-11-16T21:51:00.555989"
+    },
+    "5c12b6aa2b91e5ef": {
+      "title": "Fralda Pampers Confort Sec G 34 unidades",
+      "posted_at": "2026-11-16T21:51:13.666361"
     }
   },
   "results": [
@@ -51133,6 +51141,22 @@
       "post_id": "2641",
       "error": null,
       "at": "2026-11-16T21:40:42.997188"
+    },
+    {
+      "offer_id": "64b23b1b8c7dba35",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2642",
+      "error": null,
+      "at": "2026-11-16T21:51:00.555425"
+    },
+    {
+      "offer_id": "5c12b6aa2b91e5ef",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2643",
+      "error": null,
+      "at": "2026-11-16T21:51:13.665779"
     }
   ]
 }
