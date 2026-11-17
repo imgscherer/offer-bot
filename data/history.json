@@ -10587,6 +10587,10 @@
     "9fae932f0e44f708": {
       "title": "Berço Co-bed Voyage Link Cinza Mescla",
       "posted_at": "2026-11-17T14:10:45.872430"
+    },
+    "c95b5d79d1f140b2": {
+      "title": "Fralda Pampers Premium Care G 136 unidades",
+      "posted_at": "2026-11-17T14:20:58.881538"
     }
   },
   "results": [
@@ -51829,6 +51833,14 @@
       "post_id": "2665",
       "error": null,
       "at": "2026-11-17T14:10:45.871770"
+    },
+    {
+      "offer_id": "c95b5d79d1f140b2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2666",
+      "error": null,
+      "at": "2026-11-17T14:20:58.880927"
     }
   ]
 }

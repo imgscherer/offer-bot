@@ -1,5 +1,17 @@
 [
   {
+    "id": "c95b5d79d1f140b2",
+    "title": "Fralda Pampers Premium Care G 136 unidades",
+    "price_now": 148.72,
+    "price_was": 242.27,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0DDTZD5BS?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/844895983417949247972206879782.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T14:20:58.881277"
+  },
+  {
     "id": "9fae932f0e44f708",
     "title": "Berço Co-bed Voyage Link Cinza Mescla",
     "price_now": 364.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T11:10:52.011526"
-  },
-  {
-    "id": "426b9bba0dfd1d25",
-    "title": "Fralda Pampers Confort Sec M 196 Unidades",
-    "price_now": 155.0,
-    "price_was": 235.87,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B09FFRMKNQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/435432489617949109359392645835.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T10:30:57.834064"
   }
 ]
