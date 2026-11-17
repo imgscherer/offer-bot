@@ -1,5 +1,17 @@
 [
   {
+    "id": "426b9bba0dfd1d25",
+    "title": "Fralda Pampers Confort Sec M 196 Unidades",
+    "price_now": 155.0,
+    "price_was": 235.87,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B09FFRMKNQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/435432489617949109359392645835.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T10:30:57.834064"
+  },
+  {
     "id": "9745773974b2dd73",
     "title": "Granado Talco Infantil Bebê 100g | Pele do bebê sequinha",
     "price_now": 13.2,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-16T21:51:13.666081"
-  },
-  {
-    "id": "64b23b1b8c7dba35",
-    "title": "Fralda Pampers Confort Sec M 40 unidades",
-    "price_now": 25.38,
-    "price_was": 36.96,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/273316185017948655314773715155.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T21:51:00.555694"
   }
 ]
