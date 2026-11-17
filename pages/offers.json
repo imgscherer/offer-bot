@@ -1,5 +1,17 @@
 [
   {
+    "id": "42ea828fc9ec7532",
+    "title": "Fralda Pampers Pants Ajuste Total G, 144 Unidades",
+    "price_now": 140.0,
+    "price_was": 229.49,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/991605892317949321198425028537.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T16:20:52.292742"
+  },
+  {
     "id": "474c6a8297e134bd",
     "title": "Carrinho de Bebê Cosco Kids Reverse Rosa Onda",
     "price_now": 510.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T12:10:56.558506"
-  },
-  {
-    "id": "43c4ed16d55290fe",
-    "title": "Huggies Fralda Pants Premium Natural Care G 60 Un",
-    "price_now": 82.0,
-    "price_was": 118.35,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/146674170217949158616321296771.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T12:01:09.412183"
   }
 ]

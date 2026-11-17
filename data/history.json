@@ -10611,6 +10611,10 @@
     "474c6a8297e134bd": {
       "title": "Carrinho de Bebê Cosco Kids Reverse Rosa Onda",
       "posted_at": "2026-11-17T16:11:34.953062"
+    },
+    "42ea828fc9ec7532": {
+      "title": "Fralda Pampers Pants Ajuste Total G, 144 Unidades",
+      "posted_at": "2026-11-17T16:20:52.293177"
     }
   },
   "results": [
@@ -51909,6 +51913,14 @@
       "post_id": "2671",
       "error": null,
       "at": "2026-11-17T16:11:34.952467"
+    },
+    {
+      "offer_id": "42ea828fc9ec7532",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2672",
+      "error": null,
+      "at": "2026-11-17T16:20:52.292459"
     }
   ]
 }
