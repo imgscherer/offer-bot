@@ -1,5 +1,17 @@
 [
   {
+    "id": "ed91004374515f22",
+    "title": "Fralda Cremer XG 24 Unidades",
+    "price_now": 20.0,
+    "price_was": 44.1,
+    "discount_pct": 55,
+    "url": "https://s.shopee.com.br/ql8zGIrEH?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/234093655417949374631146933808.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T17:51:00.359267"
+  },
+  {
     "id": "6ba78e4488064de6",
     "title": "Toalha Umedecida Meu Bebê Ultra 500 Folhas (10 pacotes 50 unidades cada)",
     "price_now": 37.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T14:40:43.339694"
-  },
-  {
-    "id": "c95b5d79d1f140b2",
-    "title": "Fralda Pampers Premium Care G 136 unidades",
-    "price_now": 148.72,
-    "price_was": 242.27,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0DDTZD5BS?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/844895983417949247972206879782.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T14:20:58.881277"
   }
 ]
