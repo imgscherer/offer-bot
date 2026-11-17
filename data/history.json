@@ -10591,6 +10591,10 @@
     "c95b5d79d1f140b2": {
       "title": "Fralda Pampers Premium Care G 136 unidades",
       "posted_at": "2026-11-17T14:20:58.881538"
+    },
+    "f1b2fb4c48153269": {
+      "title": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
+      "posted_at": "2026-11-17T14:40:43.339961"
     }
   },
   "results": [
@@ -51841,6 +51845,14 @@
       "post_id": "2666",
       "error": null,
       "at": "2026-11-17T14:20:58.880927"
+    },
+    {
+      "offer_id": "f1b2fb4c48153269",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2667",
+      "error": null,
+      "at": "2026-11-17T14:40:43.339438"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "f1b2fb4c48153269",
+    "title": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
+    "price_now": 28.0,
+    "price_was": 46.9,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/835890121117949263007122975405.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T14:40:43.339694"
+  },
+  {
     "id": "c95b5d79d1f140b2",
     "title": "Fralda Pampers Premium Care G 136 unidades",
     "price_now": 148.72,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T11:20:55.111786"
-  },
-  {
-    "id": "c6d5faf5a8372e5c",
-    "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148 Unidades",
-    "price_now": 118.0,
-    "price_was": 227.12,
-    "discount_pct": 48,
-    "url": "https://s.shopee.com.br/6L657DxVHJ?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/331393938517949130924494682966.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T11:10:52.011526"
   }
 ]
