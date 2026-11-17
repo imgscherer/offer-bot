@@ -1,5 +1,17 @@
 [
   {
+    "id": "c6d5faf5a8372e5c",
+    "title": "Fralda Pampers Confort Sec Jumbo Plus M com 148 Unidades",
+    "price_now": 118.0,
+    "price_was": 227.12,
+    "discount_pct": 48,
+    "url": "https://s.shopee.com.br/6L657DxVHJ?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/331393938517949130924494682966.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T11:10:52.011526"
+  },
+  {
     "id": "426b9bba0dfd1d25",
     "title": "Fralda Pampers Confort Sec M 196 Unidades",
     "price_now": 155.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-16T22:30:53.301528"
-  },
-  {
-    "id": "5c12b6aa2b91e5ef",
-    "title": "Fralda Pampers Confort Sec G 34 unidades",
-    "price_now": 25.38,
-    "price_was": 37.02,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/369210582417948655295686419348.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T21:51:13.666081"
   }
 ]
