@@ -1,5 +1,17 @@
 [
   {
+    "id": "16a56ec27103bc3d",
+    "title": "Mili Fralda Ultra Seca Jumbinho M 1x22",
+    "price_now": 18.99,
+    "price_was": 33.22,
+    "discount_pct": 43,
+    "url": "https://www.amazon.com.br/dp/B07G9RQHY7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/226576903117949470576405957944.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T20:30:51.198241"
+  },
+  {
     "id": "c9ba4069c1d9ce15",
     "title": "Fralda Turma Da Mônica Baby P Com 62 Unidades",
     "price_now": 33.98,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T17:31:21.647409"
-  },
-  {
-    "id": "65907af3cfc0d547",
-    "title": "Fralda Mili Love&Care Mega XG 44 Unidades",
-    "price_now": 52.0,
-    "price_was": 85.6,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B07GG1YT1F?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/497873616117949347635298874021.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T17:21:35.447481"
   }
 ]

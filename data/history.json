@@ -10663,6 +10663,10 @@
     "c9ba4069c1d9ce15": {
       "title": "Fralda Turma Da Mônica Baby P Com 62 Unidades",
       "posted_at": "2026-11-17T20:01:06.452627"
+    },
+    "16a56ec27103bc3d": {
+      "title": "Mili Fralda Ultra Seca Jumbinho M 1x22",
+      "posted_at": "2026-11-17T20:30:51.198446"
     }
   },
   "results": [
@@ -52161,6 +52165,14 @@
       "post_id": "2687",
       "error": null,
       "at": "2026-11-17T20:01:06.451896"
+    },
+    {
+      "offer_id": "16a56ec27103bc3d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2688",
+      "error": null,
+      "at": "2026-11-17T20:30:51.198010"
     }
   ]
 }
