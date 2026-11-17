@@ -10583,6 +10583,10 @@
     "39d34ca9d5780c72": {
       "title": "Calça infantil masculino jeans e esporte fino (2 a 16 anos, Diversas cores)",
       "posted_at": "2026-11-17T13:40:57.220880"
+    },
+    "9fae932f0e44f708": {
+      "title": "Berço Co-bed Voyage Link Cinza Mescla",
+      "posted_at": "2026-11-17T14:10:45.872430"
     }
   },
   "results": [
@@ -51817,6 +51821,14 @@
       "post_id": "2664",
       "error": null,
       "at": "2026-11-17T13:40:57.220035"
+    },
+    {
+      "offer_id": "9fae932f0e44f708",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2665",
+      "error": null,
+      "at": "2026-11-17T14:10:45.871770"
     }
   ]
 }
