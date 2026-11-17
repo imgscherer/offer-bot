@@ -10575,6 +10575,14 @@
     "1069f9b4dee103d3": {
       "title": "Huggies Fralda Pants Premium Natural Care XG 56 Un",
       "posted_at": "2026-11-17T12:11:12.069519"
+    },
+    "44c239a5a9c08901": {
+      "title": "Granado Condicionador Bebê, Erva-doce, 250ml",
+      "posted_at": "2026-11-17T13:40:44.712095"
+    },
+    "39d34ca9d5780c72": {
+      "title": "Calça infantil masculino jeans e esporte fino (2 a 16 anos, Diversas cores)",
+      "posted_at": "2026-11-17T13:40:57.220880"
     }
   },
   "results": [
@@ -51793,6 +51801,22 @@
       "post_id": "2662",
       "error": null,
       "at": "2026-11-17T12:11:12.069005"
+    },
+    {
+      "offer_id": "44c239a5a9c08901",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2663",
+      "error": null,
+      "at": "2026-11-17T13:40:44.711516"
+    },
+    {
+      "offer_id": "39d34ca9d5780c72",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2664",
+      "error": null,
+      "at": "2026-11-17T13:40:57.220035"
     }
   ]
 }

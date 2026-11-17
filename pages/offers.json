@@ -1,5 +1,29 @@
 [
   {
+    "id": "39d34ca9d5780c72",
+    "title": "Calça infantil masculino jeans e esporte fino (2 a 16 anos, Diversas cores)",
+    "price_now": 49.89,
+    "price_was": 90.71,
+    "discount_pct": 45,
+    "url": "https://s.shopee.com.br/5Au7trrM8w?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/356552711817949225185792351191.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T13:40:57.220332"
+  },
+  {
+    "id": "44c239a5a9c08901",
+    "title": "Granado Condicionador Bebê, Erva-doce, 250ml",
+    "price_now": 13.99,
+    "price_was": 27.0,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B00TAC044Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/949083609317949224083170401616.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T13:40:44.711831"
+  },
+  {
     "id": "1069f9b4dee103d3",
     "title": "Huggies Fralda Pants Premium Natural Care XG 56 Un",
     "price_now": 82.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T04:40:48.951526"
-  },
-  {
-    "id": "ed1e49fa35946c8c",
-    "title": "Fralda Turma da Mônica XG 168 Unidades 4 Pacotes com 42",
-    "price_now": 113.91,
-    "price_was": 172.3,
-    "discount_pct": 34,
-    "url": "https://s.shopee.com.br/2gCm0gNCc3?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/230969750217948730754831895961.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T00:00:53.885646"
-  },
-  {
-    "id": "42b9db3a98b5b83a",
-    "title": "Fralda Infantil Personal Baby Protect M 40 unidades",
-    "price_now": 25.0,
-    "price_was": 36.96,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/898878789017948710578504868795.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T23:31:37.561645"
   }
 ]
