@@ -10675,6 +10675,10 @@
     "a634495486c86995": {
       "title": "Kit 10 Peças Roupinhas de Bebê Body Longo Liso ou Estampado e Mijão",
       "posted_at": "2026-11-17T21:10:40.991359"
+    },
+    "4715f44ae6e78654": {
+      "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades | Conforto para recém-nascidos",
+      "posted_at": "2026-11-17T21:50:51.565014"
     }
   },
   "results": [
@@ -52197,6 +52201,14 @@
       "post_id": "2690",
       "error": null,
       "at": "2026-11-17T21:10:40.990595"
+    },
+    {
+      "offer_id": "4715f44ae6e78654",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2691",
+      "error": null,
+      "at": "2026-11-17T21:50:51.564310"
     }
   ]
 }
