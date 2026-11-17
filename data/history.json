@@ -10655,6 +10655,14 @@
     "cb22c082020273db": {
       "title": "Kit 2 Pares Sandália Infantil Papete (Tam. 19 ao 26, Diversas cores)",
       "posted_at": "2026-11-17T19:40:58.030957"
+    },
+    "34674835dd9a68cb": {
+      "title": "Fralda Pampers Confort Sec M Com 196 Unidades",
+      "posted_at": "2026-11-17T20:00:57.648614"
+    },
+    "c9ba4069c1d9ce15": {
+      "title": "Fralda Turma Da Mônica Baby P Com 62 Unidades",
+      "posted_at": "2026-11-17T20:01:06.452627"
     }
   },
   "results": [
@@ -52137,6 +52145,22 @@
       "post_id": "2685",
       "error": null,
       "at": "2026-11-17T19:40:58.030181"
+    },
+    {
+      "offer_id": "34674835dd9a68cb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2686",
+      "error": null,
+      "at": "2026-11-17T20:00:57.647857"
+    },
+    {
+      "offer_id": "c9ba4069c1d9ce15",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2687",
+      "error": null,
+      "at": "2026-11-17T20:01:06.451896"
     }
   ]
 }

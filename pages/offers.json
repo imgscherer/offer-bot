@@ -1,5 +1,29 @@
 [
   {
+    "id": "c9ba4069c1d9ce15",
+    "title": "Fralda Turma Da Mônica Baby P Com 62 Unidades",
+    "price_now": 33.98,
+    "price_was": 50.04,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/739578316717949451962970722853.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T20:01:06.452197"
+  },
+  {
+    "id": "34674835dd9a68cb",
+    "title": "Fralda Pampers Confort Sec M Com 196 Unidades",
+    "price_now": 155.44,
+    "price_was": 235.87,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B09FFRMKNQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/496369797217949451436336703813.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T20:00:57.648176"
+  },
+  {
     "id": "cb22c082020273db",
     "title": "Kit 2 Pares Sandália Infantil Papete (Tam. 19 ao 26, Diversas cores)",
     "price_now": 38.8,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T17:21:35.447481"
-  },
-  {
-    "id": "42ea828fc9ec7532",
-    "title": "Fralda Pampers Pants Ajuste Total G, 144 Unidades",
-    "price_now": 140.0,
-    "price_was": 229.49,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/991605892317949321198425028537.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T16:20:52.292742"
-  },
-  {
-    "id": "474c6a8297e134bd",
-    "title": "Carrinho de Bebê Cosco Kids Reverse Rosa Onda",
-    "price_now": 510.0,
-    "price_was": 759.0,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0FPD4M656?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/280210760517949311139491781181.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T16:11:34.952769"
   }
 ]
