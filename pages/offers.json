@@ -1,5 +1,17 @@
 [
   {
+    "id": "c6de3cbdbc65c9a7",
+    "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 Unidades",
+    "price_now": 45.0,
+    "price_was": 77.37,
+    "discount_pct": 42,
+    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/591136933017949477235738049729.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T20:50:54.559421"
+  },
+  {
     "id": "16a56ec27103bc3d",
     "title": "Mili Fralda Ultra Seca Jumbinho M 1x22",
     "price_now": 18.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T17:31:43.533442"
-  },
-  {
-    "id": "06127518e7a160f4",
-    "title": "Fralda Turma da Mônica Baby G 24 Unidades",
-    "price_now": 18.0,
-    "price_was": 39.85,
-    "discount_pct": 55,
-    "url": "https://s.shopee.com.br/3qOkYy308i?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/229926256517949361479753826418.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T17:31:21.647409"
   }
 ]
