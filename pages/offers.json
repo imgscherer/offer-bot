@@ -1,5 +1,41 @@
 [
   {
+    "id": "e72b5d5b3b65c947",
+    "title": "Toalha Umedecida Meu Bebê Ultra 500 Folhas",
+    "price_now": 37.67,
+    "price_was": 69.9,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/5Au89QX3TO?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/268367535517949361536547866680.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T17:32:06.715407"
+  },
+  {
+    "id": "150b7371b5269a7f",
+    "title": "Fralda Cremer XG 24 Unidades",
+    "price_now": 20.99,
+    "price_was": 44.1,
+    "discount_pct": 52,
+    "url": "https://s.shopee.com.br/ql8zGIrEH?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/815534473417949359609761307583.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T17:31:43.533442"
+  },
+  {
+    "id": "06127518e7a160f4",
+    "title": "Fralda Turma da Mônica Baby G 24 Unidades",
+    "price_now": 18.0,
+    "price_was": 39.85,
+    "discount_pct": 55,
+    "url": "https://s.shopee.com.br/3qOkYy308i?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/229926256517949361479753826418.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T17:31:21.647409"
+  },
+  {
     "id": "65907af3cfc0d547",
     "title": "Fralda Mili Love&Care Mega XG 44 Unidades",
     "price_now": 52.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T14:10:45.872035"
-  },
-  {
-    "id": "39d34ca9d5780c72",
-    "title": "Calça infantil masculino jeans e esporte fino (2 a 16 anos, Diversas cores)",
-    "price_now": 49.89,
-    "price_was": 90.71,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/5Au7trrM8w?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/356552711817949225185792351191.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T13:40:57.220332"
-  },
-  {
-    "id": "44c239a5a9c08901",
-    "title": "Granado Condicionador Bebê, Erva-doce, 250ml",
-    "price_now": 13.99,
-    "price_was": 27.0,
-    "discount_pct": 48,
-    "url": "https://www.amazon.com.br/dp/B00TAC044Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/949083609317949224083170401616.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T13:40:44.711831"
-  },
-  {
-    "id": "1069f9b4dee103d3",
-    "title": "Huggies Fralda Pants Premium Natural Care XG 56 Un",
-    "price_now": 82.0,
-    "price_was": 118.35,
-    "discount_pct": 31,
-    "url": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/238894692717949169362312004063.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T12:11:12.069248"
   }
 ]

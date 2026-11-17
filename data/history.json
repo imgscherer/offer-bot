@@ -10619,6 +10619,18 @@
     "65907af3cfc0d547": {
       "title": "Fralda Mili Love&Care Mega XG 44 Unidades",
       "posted_at": "2026-11-17T17:21:35.447926"
+    },
+    "06127518e7a160f4": {
+      "title": "Fralda Turma da Mônica Baby G 24 Unidades",
+      "posted_at": "2026-11-17T17:31:21.647828"
+    },
+    "150b7371b5269a7f": {
+      "title": "Fralda Cremer XG 24 Unidades",
+      "posted_at": "2026-11-17T17:31:43.533900"
+    },
+    "e72b5d5b3b65c947": {
+      "title": "Toalha Umedecida Meu Bebê Ultra 500 Folhas",
+      "posted_at": "2026-11-17T17:32:06.715871"
     }
   },
   "results": [
@@ -51941,6 +51953,38 @@
       "post_id": "2673",
       "error": null,
       "at": "2026-11-17T17:21:35.447187"
+    },
+    {
+      "offer_id": "06127518e7a160f4",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2675",
+      "error": null,
+      "at": "2026-11-17T17:31:21.647112"
+    },
+    {
+      "offer_id": "150b7371b5269a7f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2676",
+      "error": null,
+      "at": "2026-11-17T17:31:43.533173"
+    },
+    {
+      "offer_id": "ac978de5311877f0",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-17T17:31:51.928175"
+    },
+    {
+      "offer_id": "e72b5d5b3b65c947",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2677",
+      "error": null,
+      "at": "2026-11-17T17:32:06.715116"
     }
   ]
 }
