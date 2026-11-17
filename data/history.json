@@ -10671,6 +10671,10 @@
     "c6de3cbdbc65c9a7": {
       "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 Unidades",
       "posted_at": "2026-11-17T20:50:54.570457"
+    },
+    "a634495486c86995": {
+      "title": "Kit 10 Peças Roupinhas de Bebê Body Longo Liso ou Estampado e Mijão",
+      "posted_at": "2026-11-17T21:10:40.991359"
     }
   },
   "results": [
@@ -52185,6 +52189,14 @@
       "post_id": "2689",
       "error": null,
       "at": "2026-11-17T20:50:54.559102"
+    },
+    {
+      "offer_id": "a634495486c86995",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2690",
+      "error": null,
+      "at": "2026-11-17T21:10:40.990595"
     }
   ]
 }
