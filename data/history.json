@@ -10687,6 +10687,14 @@
     "89c6bd84d662d533": {
       "title": "Fralda Huggies Supreme Care M 196 Unidades",
       "posted_at": "2026-11-17T22:30:49.870271"
+    },
+    "d369b0deca0b39d1": {
+      "title": "Óleo Hidratante para Bebê Johnson's Baby Puro 200ml Soninho",
+      "posted_at": "2026-11-17T23:20:40.182574"
+    },
+    "d1f11d4868429822": {
+      "title": "Óleo Hidratante para Bebê Johnson's Baby Puro 200ml Puro",
+      "posted_at": "2026-11-17T23:20:46.066958"
     }
   },
   "results": [
@@ -52233,6 +52241,22 @@
       "post_id": "2693",
       "error": null,
       "at": "2026-11-17T22:30:49.869536"
+    },
+    {
+      "offer_id": "d369b0deca0b39d1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2694",
+      "error": null,
+      "at": "2026-11-17T23:20:40.182031"
+    },
+    {
+      "offer_id": "d1f11d4868429822",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2695",
+      "error": null,
+      "at": "2026-11-17T23:20:46.066311"
     }
   ]
 }

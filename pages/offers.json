@@ -1,5 +1,29 @@
 [
   {
+    "id": "d1f11d4868429822",
+    "title": "Óleo Hidratante para Bebê Johnson's Baby Puro 200ml Puro",
+    "price_now": 47.0,
+    "price_was": 72.99,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B07DHSHRMG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/665093250617949574462002892161.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T23:20:46.066569"
+  },
+  {
+    "id": "d369b0deca0b39d1",
+    "title": "Óleo Hidratante para Bebê Johnson's Baby Puro 200ml Soninho",
+    "price_now": 43.0,
+    "price_was": 72.99,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B077BY791C?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/900053410917949574455198622443.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T23:20:40.182308"
+  },
+  {
     "id": "89c6bd84d662d533",
     "title": "Fralda Huggies Supreme Care M 196 Unidades",
     "price_now": 161.12,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T19:11:12.816471"
-  },
-  {
-    "id": "83217eac8da5d378",
-    "title": "Fralda Pampers Pants Ajuste Total XXG",
-    "price_now": 86.0,
-    "price_was": 146.23,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B0865S7GVY?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/270587095917949393828816206944.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T18:31:36.451256"
-  },
-  {
-    "id": "af19626c7006a725",
-    "title": "Fralda Pampers Pants Ajuste Total XG",
-    "price_now": 86.0,
-    "price_was": 146.23,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B086GP4FW7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/179488926417949393835078072394.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T18:31:01.576274"
   }
 ]
