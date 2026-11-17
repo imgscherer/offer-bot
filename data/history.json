@@ -10559,6 +10559,14 @@
     "7ed71a02c79ccce2": {
       "title": "Shampoo Mamãe e Bebê 200ml - Natura",
       "posted_at": "2026-11-17T11:31:04.455839"
+    },
+    "43e9c94bb3a22183": {
+      "title": "Shampoo Mamãe e Bebê 200ml",
+      "posted_at": "2026-11-17T12:00:56.022623"
+    },
+    "43c4ed16d55290fe": {
+      "title": "Huggies Fralda Pants Premium Natural Care G 60 Un",
+      "posted_at": "2026-11-17T12:01:09.412620"
     }
   },
   "results": [
@@ -51745,6 +51753,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-17T11:40:36.681017"
+    },
+    {
+      "offer_id": "43e9c94bb3a22183",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2659",
+      "error": null,
+      "at": "2026-11-17T12:00:56.022040"
+    },
+    {
+      "offer_id": "43c4ed16d55290fe",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2660",
+      "error": null,
+      "at": "2026-11-17T12:01:09.411891"
     }
   ]
 }
