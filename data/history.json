@@ -10679,6 +10679,10 @@
     "4715f44ae6e78654": {
       "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades | Conforto para recém-nascidos",
       "posted_at": "2026-11-17T21:50:51.565014"
+    },
+    "78d7030394555a1c": {
+      "title": "Kit Calça Bebê 2 Peças Multicor Carter's",
+      "posted_at": "2026-11-17T22:20:59.557272"
     }
   },
   "results": [
@@ -52209,6 +52213,14 @@
       "post_id": "2691",
       "error": null,
       "at": "2026-11-17T21:50:51.564310"
+    },
+    {
+      "offer_id": "78d7030394555a1c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2692",
+      "error": null,
+      "at": "2026-11-17T22:20:59.556469"
     }
   ]
 }

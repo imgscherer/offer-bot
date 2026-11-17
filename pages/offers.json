@@ -1,5 +1,17 @@
 [
   {
+    "id": "78d7030394555a1c",
+    "title": "Kit Calça Bebê 2 Peças Multicor Carter's",
+    "price_now": 82.0,
+    "price_was": 131.08,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0FG46875Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/633657808817949533568773802496.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T22:20:59.556839"
+  },
+  {
     "id": "4715f44ae6e78654",
     "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades | Conforto para recém-nascidos",
     "price_now": 18.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T17:51:00.359267"
-  },
-  {
-    "id": "6ba78e4488064de6",
-    "title": "Toalha Umedecida Meu Bebê Ultra 500 Folhas (10 pacotes 50 unidades cada)",
-    "price_now": 37.0,
-    "price_was": 69.9,
-    "discount_pct": 47,
-    "url": "https://s.shopee.com.br/5Au89QX3TO?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/907630986917949370648173004313.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T17:41:02.985873"
   }
 ]
