@@ -1,5 +1,29 @@
 [
   {
+    "id": "b60d6b01674fa75c",
+    "title": "Personal Fralda Baby Premium Protection Grande 30pads",
+    "price_now": 28.9,
+    "price_was": 48.75,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/447219215017949286329119880055.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T15:21:07.890864"
+  },
+  {
+    "id": "df7a9dd7f0e85601",
+    "title": "Mili Fralda Baby Jumbinho G 20 Unidades",
+    "price_now": 17.0,
+    "price_was": 33.22,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B07GB34N8Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/639949315817949284678259283364.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T15:20:53.399393"
+  },
+  {
     "id": "f1b2fb4c48153269",
     "title": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
     "price_now": 28.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T11:31:04.455389"
-  },
-  {
-    "id": "e356330535212987",
-    "title": "Presente Natura Papai e Bebê Miniaturas",
-    "price_now": 37.0,
-    "price_was": 107.0,
-    "discount_pct": 65,
-    "url": "https://s.shopee.com.br/4LL0jz7Y1E?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/875607919517949142454809115077.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T11:30:47.737156"
-  },
-  {
-    "id": "2412dd06e2910400",
-    "title": "Kit 4 Peças Infantil Juvenil Menina (Tam. 1 ao 16)",
-    "price_now": 33.59,
-    "price_was": 119.97,
-    "discount_pct": 72,
-    "url": "https://s.shopee.com.br/3g5JwSdHLu?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/871338827517949132145428055432.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T11:20:55.111786"
   }
 ]

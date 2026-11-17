@@ -10595,6 +10595,14 @@
     "f1b2fb4c48153269": {
       "title": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
       "posted_at": "2026-11-17T14:40:43.339961"
+    },
+    "df7a9dd7f0e85601": {
+      "title": "Mili Fralda Baby Jumbinho G 20 Unidades",
+      "posted_at": "2026-11-17T15:20:53.400241"
+    },
+    "b60d6b01674fa75c": {
+      "title": "Personal Fralda Baby Premium Protection Grande 30pads",
+      "posted_at": "2026-11-17T15:21:07.891314"
     }
   },
   "results": [
@@ -51853,6 +51861,22 @@
       "post_id": "2667",
       "error": null,
       "at": "2026-11-17T14:40:43.339438"
+    },
+    {
+      "offer_id": "df7a9dd7f0e85601",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2668",
+      "error": null,
+      "at": "2026-11-17T15:20:53.399104"
+    },
+    {
+      "offer_id": "b60d6b01674fa75c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2669",
+      "error": null,
+      "at": "2026-11-17T15:21:07.890608"
     }
   ]
 }
