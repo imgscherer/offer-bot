@@ -1,5 +1,29 @@
 [
   {
+    "id": "7ed71a02c79ccce2",
+    "title": "Shampoo Mamãe e Bebê 200ml - Natura",
+    "price_now": 23.69,
+    "price_was": 43.4,
+    "discount_pct": 45,
+    "url": "https://s.shopee.com.br/20x5yfVeZF?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/400511873617949143233145791226.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T11:31:04.455389"
+  },
+  {
+    "id": "e356330535212987",
+    "title": "Presente Natura Papai e Bebê Miniaturas",
+    "price_now": 37.0,
+    "price_was": 107.0,
+    "discount_pct": 65,
+    "url": "https://s.shopee.com.br/4LL0jz7Y1E?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/875607919517949142454809115077.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T11:30:47.737156"
+  },
+  {
     "id": "2412dd06e2910400",
     "title": "Kit 4 Peças Infantil Juvenil Menina (Tam. 1 ao 16)",
     "price_now": 33.59,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-16T22:41:04.987111"
-  },
-  {
-    "id": "a86c32d89372f3d9",
-    "title": "Tênis Infantil Casual (Tam. 25 ao 43, Diversas cores)",
-    "price_now": 44.99,
-    "price_was": 89.98,
-    "discount_pct": 50,
-    "url": "https://s.shopee.com.br/80EIH7wDbx?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/996932503517948683957754596007.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T22:40:54.736732"
-  },
-  {
-    "id": "d304138cfc7332a5",
-    "title": "Fralda Pampers Pants Premium Care G 112 Unidades",
-    "price_now": 116.0,
-    "price_was": 182.48,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B08K4MXDVX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/715796637417948680948300473958.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T22:31:04.646568"
   }
 ]
