@@ -1,5 +1,17 @@
 [
   {
+    "id": "6ba78e4488064de6",
+    "title": "Toalha Umedecida Meu Bebê Ultra 500 Folhas (10 pacotes 50 unidades cada)",
+    "price_now": 37.0,
+    "price_was": 69.9,
+    "discount_pct": 47,
+    "url": "https://s.shopee.com.br/5Au89QX3TO?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/907630986917949370648173004313.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T17:41:02.985873"
+  },
+  {
     "id": "e72b5d5b3b65c947",
     "title": "Toalha Umedecida Meu Bebê Ultra 500 Folhas",
     "price_now": 37.67,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T14:20:58.881277"
-  },
-  {
-    "id": "9fae932f0e44f708",
-    "title": "Berço Co-bed Voyage Link Cinza Mescla",
-    "price_now": 364.0,
-    "price_was": 599.0,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B091DCHHCL?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/726801507717949243192075415166.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T14:10:45.872035"
   }
 ]
