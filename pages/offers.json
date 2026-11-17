@@ -1,5 +1,17 @@
 [
   {
+    "id": "89c6bd84d662d533",
+    "title": "Fralda Huggies Supreme Care M 196 Unidades",
+    "price_now": 161.12,
+    "price_was": 229.9,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/274045803817949535508997295835.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T22:30:49.869848"
+  },
+  {
     "id": "78d7030394555a1c",
     "title": "Kit Calça Bebê 2 Peças Multicor Carter's",
     "price_now": 82.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T18:31:01.576274"
-  },
-  {
-    "id": "ed91004374515f22",
-    "title": "Fralda Cremer XG 24 Unidades",
-    "price_now": 20.0,
-    "price_was": 44.1,
-    "discount_pct": 55,
-    "url": "https://s.shopee.com.br/ql8zGIrEH?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/234093655417949374631146933808.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T17:51:00.359267"
   }
 ]

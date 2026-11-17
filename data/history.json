@@ -10683,6 +10683,10 @@
     "78d7030394555a1c": {
       "title": "Kit Calça Bebê 2 Peças Multicor Carter's",
       "posted_at": "2026-11-17T22:20:59.557272"
+    },
+    "89c6bd84d662d533": {
+      "title": "Fralda Huggies Supreme Care M 196 Unidades",
+      "posted_at": "2026-11-17T22:30:49.870271"
     }
   },
   "results": [
@@ -52221,6 +52225,14 @@
       "post_id": "2692",
       "error": null,
       "at": "2026-11-17T22:20:59.556469"
+    },
+    {
+      "offer_id": "89c6bd84d662d533",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2693",
+      "error": null,
+      "at": "2026-11-17T22:30:49.869536"
     }
   ]
 }
