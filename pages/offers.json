@@ -1,5 +1,29 @@
 [
   {
+    "id": "83217eac8da5d378",
+    "title": "Fralda Pampers Pants Ajuste Total XXG",
+    "price_now": 86.0,
+    "price_was": 146.23,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B0865S7GVY?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/270587095917949393828816206944.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T18:31:36.451256"
+  },
+  {
+    "id": "af19626c7006a725",
+    "title": "Fralda Pampers Pants Ajuste Total XG",
+    "price_now": 86.0,
+    "price_was": 146.23,
+    "discount_pct": 41,
+    "url": "https://www.amazon.com.br/dp/B086GP4FW7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/179488926417949393835078072394.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T18:31:01.576274"
+  },
+  {
     "id": "ed91004374515f22",
     "title": "Fralda Cremer XG 24 Unidades",
     "price_now": 20.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T15:21:07.890864"
-  },
-  {
-    "id": "df7a9dd7f0e85601",
-    "title": "Mili Fralda Baby Jumbinho G 20 Unidades",
-    "price_now": 17.0,
-    "price_was": 33.22,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B07GB34N8Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/639949315817949284678259283364.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T15:20:53.399393"
-  },
-  {
-    "id": "f1b2fb4c48153269",
-    "title": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
-    "price_now": 28.0,
-    "price_was": 46.9,
-    "discount_pct": 40,
-    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/835890121117949263007122975405.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T14:40:43.339694"
   }
 ]
