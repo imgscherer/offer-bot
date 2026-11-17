@@ -10567,6 +10567,14 @@
     "43c4ed16d55290fe": {
       "title": "Huggies Fralda Pants Premium Natural Care G 60 Un",
       "posted_at": "2026-11-17T12:01:09.412620"
+    },
+    "97e89491c60cb77e": {
+      "title": "Babysec Fralda Premium Hiper G 60 Unidades",
+      "posted_at": "2026-11-17T12:10:56.558763"
+    },
+    "1069f9b4dee103d3": {
+      "title": "Huggies Fralda Pants Premium Natural Care XG 56 Un",
+      "posted_at": "2026-11-17T12:11:12.069519"
     }
   },
   "results": [
@@ -51769,6 +51777,22 @@
       "post_id": "2660",
       "error": null,
       "at": "2026-11-17T12:01:09.411891"
+    },
+    {
+      "offer_id": "97e89491c60cb77e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2661",
+      "error": null,
+      "at": "2026-11-17T12:10:56.558180"
+    },
+    {
+      "offer_id": "1069f9b4dee103d3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2662",
+      "error": null,
+      "at": "2026-11-17T12:11:12.069005"
     }
   ]
 }

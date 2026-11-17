@@ -1,5 +1,29 @@
 [
   {
+    "id": "1069f9b4dee103d3",
+    "title": "Huggies Fralda Pants Premium Natural Care XG 56 Un",
+    "price_now": 82.0,
+    "price_was": 118.35,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/238894692717949169362312004063.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T12:11:12.069248"
+  },
+  {
+    "id": "97e89491c60cb77e",
+    "title": "Babysec Fralda Premium Hiper G 60 Unidades",
+    "price_now": 57.0,
+    "price_was": 85.2,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0CCDZ9XBJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/380791100217949165754984764140.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T12:10:56.558506"
+  },
+  {
     "id": "43c4ed16d55290fe",
     "title": "Huggies Fralda Pants Premium Natural Care G 60 Un",
     "price_now": 82.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-16T23:31:37.561645"
-  },
-  {
-    "id": "821e4df8f2e2fa70",
-    "title": "Fralda Infantil Personal Baby Protect G 34 unidades",
-    "price_now": 25.0,
-    "price_was": 37.02,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/150538181717948710585423657127.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T23:31:27.058964"
-  },
-  {
-    "id": "2cb3567f6037fcb9",
-    "title": "Fralda Infantil Personal Baby Protect XG 28 unidades",
-    "price_now": 25.0,
-    "price_was": 37.02,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0BBHFXBTF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/681048009317948710617545328774.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T23:31:14.375079"
   }
 ]
