@@ -1,5 +1,29 @@
 [
   {
+    "id": "474c6a8297e134bd",
+    "title": "Carrinho de Bebê Cosco Kids Reverse Rosa Onda",
+    "price_now": 510.0,
+    "price_was": 759.0,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0FPD4M656?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/280210760517949311139491781181.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T16:11:34.952769"
+  },
+  {
+    "id": "1db4112296c74bb5",
+    "title": "Carrinho de Bebê Cosco Kids Reverse Azul Rajado",
+    "price_now": 510.0,
+    "price_was": 851.09,
+    "discount_pct": 40,
+    "url": "https://www.amazon.com.br/dp/B0B98T7L2N?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/706341496617949311152376866041.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T16:11:03.950914"
+  },
+  {
     "id": "b60d6b01674fa75c",
     "title": "Personal Fralda Baby Premium Protection Grande 30pads",
     "price_now": 28.9,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T12:01:09.412183"
-  },
-  {
-    "id": "43e9c94bb3a22183",
-    "title": "Shampoo Mamãe e Bebê 200ml",
-    "price_now": 23.0,
-    "price_was": 43.4,
-    "discount_pct": 47,
-    "url": "https://s.shopee.com.br/20x5yfVeZF?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/825412141917949165205391255984.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T12:00:56.022364"
-  },
-  {
-    "id": "7ed71a02c79ccce2",
-    "title": "Shampoo Mamãe e Bebê 200ml - Natura",
-    "price_now": 23.69,
-    "price_was": 43.4,
-    "discount_pct": 45,
-    "url": "https://s.shopee.com.br/20x5yfVeZF?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/400511873617949143233145791226.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T11:31:04.455389"
   }
 ]
