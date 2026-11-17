@@ -10531,6 +10531,10 @@
     "42b9db3a98b5b83a": {
       "title": "Fralda Infantil Personal Baby Protect M 40 unidades",
       "posted_at": "2026-11-16T23:31:37.562102"
+    },
+    "ed1e49fa35946c8c": {
+      "title": "Fralda Turma da Mônica XG 168 Unidades 4 Pacotes com 42",
+      "posted_at": "2026-11-17T00:00:53.885947"
     }
   },
   "results": [
@@ -51301,6 +51305,14 @@
       "post_id": "2651",
       "error": null,
       "at": "2026-11-16T23:31:37.561316"
+    },
+    {
+      "offer_id": "ed1e49fa35946c8c",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2652",
+      "error": null,
+      "at": "2026-11-17T00:00:53.885314"
     }
   ]
 }

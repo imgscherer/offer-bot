@@ -1,5 +1,17 @@
 [
   {
+    "id": "ed1e49fa35946c8c",
+    "title": "Fralda Turma da Mônica XG 168 Unidades 4 Pacotes com 42",
+    "price_now": 113.91,
+    "price_was": 172.3,
+    "discount_pct": 34,
+    "url": "https://s.shopee.com.br/2gCm0gNCc3?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/230969750217948730754831895961.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-17T00:00:53.885646"
+  },
+  {
     "id": "42b9db3a98b5b83a",
     "title": "Fralda Infantil Personal Baby Protect M 40 unidades",
     "price_now": 25.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-16T21:40:42.997484"
-  },
-  {
-    "id": "f7850de050d10d76",
-    "title": "Mamypoko Fralda-calça Superproteção G 28 Unidades",
-    "price_now": 29.9,
-    "price_was": 42.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0D4363KSD?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/678683683717948634779998309624.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-16T21:20:56.952681"
   }
 ]
