@@ -10747,6 +10747,14 @@
     "38f112ded5b35290": {
       "title": "Fralda Pampers Confort Sec P 50 Unidades",
       "posted_at": "2026-11-18T12:41:01.138996"
+    },
+    "35d6f86aeb00cba3": {
+      "title": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
+      "posted_at": "2026-11-18T13:30:55.149740"
+    },
+    "139542c4349ae035": {
+      "title": "Fralda Turma da Mônica Baby M 28 unidades",
+      "posted_at": "2026-11-18T13:31:06.925452"
     }
   },
   "results": [
@@ -52565,6 +52573,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-18T13:20:44.775439"
+    },
+    {
+      "offer_id": "35d6f86aeb00cba3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2709",
+      "error": null,
+      "at": "2026-11-18T13:30:55.149016"
+    },
+    {
+      "offer_id": "139542c4349ae035",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2710",
+      "error": null,
+      "at": "2026-11-18T13:31:06.924724"
     }
   ]
 }
