@@ -10839,6 +10839,10 @@
     "2e39c601eeb752ad": {
       "title": "Tênis Baby Infantil Slip On com Glitter Calce Fácil (18 ao 25 diversas cores)",
       "posted_at": "2026-11-18T23:30:54.058487"
+    },
+    "1f6224cd7fc322be": {
+      "title": "Fralda Descartável Babysec Galinha Pintadinha Ultrasec Giga XXXG 64 Unidades",
+      "posted_at": "2026-11-18T23:40:49.720390"
     }
   },
   "results": [
@@ -53201,6 +53205,14 @@
       "post_id": "2731",
       "error": null,
       "at": "2026-11-18T23:30:54.057629"
+    },
+    {
+      "offer_id": "1f6224cd7fc322be",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2732",
+      "error": null,
+      "at": "2026-11-18T23:40:49.719618"
     }
   ]
 }
