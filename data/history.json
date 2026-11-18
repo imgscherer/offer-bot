@@ -10811,6 +10811,14 @@
     "f3c93f5051583f82": {
       "title": "Carrinho de Bebê Toffy Cosco",
       "posted_at": "2026-11-18T19:01:10.229198"
+    },
+    "52fa919b9ff6e22a": {
+      "title": "Garrafa Infantil de Inox Sereia com bebedor silicone 350 ml Lillo",
+      "posted_at": "2026-11-18T21:10:44.916176"
+    },
+    "b22700e15930646f": {
+      "title": "Fralda-Calça Superproteção MamyPoko XG 24 Unidades",
+      "posted_at": "2026-11-18T21:11:25.125860"
     }
   },
   "results": [
@@ -53085,6 +53093,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-18T21:00:52.178598"
+    },
+    {
+      "offer_id": "52fa919b9ff6e22a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2725",
+      "error": null,
+      "at": "2026-11-18T21:10:44.915505"
+    },
+    {
+      "offer_id": "8ec09e4bb7161cc5",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-18T21:11:04.758099"
+    },
+    {
+      "offer_id": "b22700e15930646f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2726",
+      "error": null,
+      "at": "2026-11-18T21:11:25.124906"
     }
   ]
 }

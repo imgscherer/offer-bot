@@ -1,5 +1,29 @@
 [
   {
+    "id": "b22700e15930646f",
+    "title": "Fralda-Calça Superproteção MamyPoko XG 24 Unidades",
+    "price_now": 26.87,
+    "price_was": 42.9,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/226385756917950354324090277501.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T21:11:25.125188"
+  },
+  {
+    "id": "52fa919b9ff6e22a",
+    "title": "Garrafa Infantil de Inox Sereia com bebedor silicone 350 ml Lillo",
+    "price_now": 37.9,
+    "price_was": 139.9,
+    "discount_pct": 73,
+    "url": "https://www.amazon.com.br/dp/B0F3YXC3L7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/718884341017950353202532301726.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T21:10:44.915803"
+  },
+  {
     "id": "f3c93f5051583f82",
     "title": "Carrinho de Bebê Toffy Cosco",
     "price_now": 389.4,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T15:31:03.769995"
-  },
-  {
-    "id": "c3118615efdc1b7e",
-    "title": "Fralda-Calça MamyPoko Cuidado Real M 68 Unidades",
-    "price_now": 84.45,
-    "price_was": 129.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B08DJSPFFX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/671952998917950142027841319750.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T15:10:56.096701"
-  },
-  {
-    "id": "4e797d74b0a2db9d",
-    "title": "Carrinho de Bebê Bytes Grey Denin Safety 1st",
-    "price_now": 550.0,
-    "price_was": 900.29,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0D49X477W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/722035564217950118004404656890.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T14:31:05.589679"
   }
 ]
