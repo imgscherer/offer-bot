@@ -1,5 +1,17 @@
 [
   {
+    "id": "5b2a6b70c33c2deb",
+    "title": "Fralda Cremer Magic Care M 68 Unidades",
+    "price_now": 38.39,
+    "price_was": 73.83,
+    "discount_pct": 48,
+    "url": "https://s.shopee.com.br/9pfzAUSGau?af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/194248071217950151705261813362.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T15:31:03.769995"
+  },
+  {
     "id": "c3118615efdc1b7e",
     "title": "Fralda-Calça MamyPoko Cuidado Real M 68 Unidades",
     "price_now": 84.45,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T12:20:52.767952"
-  },
-  {
-    "id": "2ce116b9dc9f3ffe",
-    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
-    "price_now": 46.0,
-    "price_was": 72.65,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/951040707217950026241391500348.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T12:00:55.411372"
   }
 ]

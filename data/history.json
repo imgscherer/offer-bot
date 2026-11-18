@@ -10771,6 +10771,10 @@
     "c3118615efdc1b7e": {
       "title": "Fralda-Calça MamyPoko Cuidado Real M 68 Unidades",
       "posted_at": "2026-11-18T15:10:56.097148"
+    },
+    "5b2a6b70c33c2deb": {
+      "title": "Fralda Cremer Magic Care M 68 Unidades",
+      "posted_at": "2026-11-18T15:31:03.770237"
     }
   },
   "results": [
@@ -52677,6 +52681,30 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-18T15:10:59.873753"
+    },
+    {
+      "offer_id": "5b2a6b70c33c2deb",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2715",
+      "error": null,
+      "at": "2026-11-18T15:31:03.769683"
+    },
+    {
+      "offer_id": "838122f8aded3d5a",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-18T15:31:19.632436"
+    },
+    {
+      "offer_id": "96ccebb873e2daf6",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-18T15:31:35.872745"
     }
   ]
 }
