@@ -10723,6 +10723,10 @@
     "fb942375dc215611": {
       "title": "Fralda Pom Pom Protek Proteção De Mãe Mega G 42 Unidades",
       "posted_at": "2026-11-18T11:41:03.064226"
+    },
+    "2ce116b9dc9f3ffe": {
+      "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+      "posted_at": "2026-11-18T12:00:55.411822"
     }
   },
   "results": [
@@ -52397,6 +52401,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-18T11:50:46.947422"
+    },
+    {
+      "offer_id": "2ce116b9dc9f3ffe",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2703",
+      "error": null,
+      "at": "2026-11-18T12:00:55.411073"
+    },
+    {
+      "offer_id": "61e9c2d53389e257",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-18T12:01:03.423670"
     }
   ]
 }

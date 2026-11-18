@@ -1,5 +1,17 @@
 [
   {
+    "id": "2ce116b9dc9f3ffe",
+    "title": "Fralda Huggies Máxima Proteção P 48 unidades",
+    "price_now": 46.0,
+    "price_was": 72.65,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/951040707217950026241391500348.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T12:00:55.411372"
+  },
+  {
     "id": "fb942375dc215611",
     "title": "Fralda Pom Pom Protek Proteção De Mãe Mega G 42 Unidades",
     "price_now": 33.8,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T22:20:59.556839"
-  },
-  {
-    "id": "4715f44ae6e78654",
-    "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades | Conforto para recém-nascidos",
-    "price_now": 18.9,
-    "price_was": 28.68,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/840802069517949517392450886061.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T21:50:51.564601"
   }
 ]
