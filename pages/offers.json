@@ -1,5 +1,29 @@
 [
   {
+    "id": "57f45635bc44e66b",
+    "title": "Huggies Fralda Premium Natural Care M 78 Un",
+    "price_now": 84.0,
+    "price_was": 125.24,
+    "discount_pct": 33,
+    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/560204327717950042893634266990.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T12:31:50.069550"
+  },
+  {
+    "id": "715441a7eb0fb9ca",
+    "title": "Fralda Descartável Pampers Supersequinha Jumbo XG 70 Tiras",
+    "price_now": 78.32,
+    "price_was": 146.12,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/8pnRltcnqT?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/683893002917950040243443833253.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T12:31:12.240346"
+  },
+  {
     "id": "f815122b3b466da2",
     "title": "Fralda Infantil Personal Baby Protect e Sec M 40 Unidades",
     "price_now": 26.0,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-18T10:50:41.112846"
-  },
-  {
-    "id": "d1f11d4868429822",
-    "title": "Óleo Hidratante para Bebê Johnson's Baby Puro 200ml Puro",
-    "price_now": 47.0,
-    "price_was": 72.99,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B07DHSHRMG?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/665093250617949574462002892161.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T23:20:46.066569"
-  },
-  {
-    "id": "d369b0deca0b39d1",
-    "title": "Óleo Hidratante para Bebê Johnson's Baby Puro 200ml Soninho",
-    "price_now": 43.0,
-    "price_was": 72.99,
-    "discount_pct": 41,
-    "url": "https://www.amazon.com.br/dp/B077BY791C?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/900053410917949574455198622443.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T23:20:40.182308"
   }
 ]

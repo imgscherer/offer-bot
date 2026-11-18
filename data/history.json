@@ -10735,6 +10735,14 @@
     "f815122b3b466da2": {
       "title": "Fralda Infantil Personal Baby Protect e Sec M 40 Unidades",
       "posted_at": "2026-11-18T12:21:14.393596"
+    },
+    "715441a7eb0fb9ca": {
+      "title": "Fralda Descartável Pampers Supersequinha Jumbo XG 70 Tiras",
+      "posted_at": "2026-11-18T12:31:12.240660"
+    },
+    "57f45635bc44e66b": {
+      "title": "Huggies Fralda Premium Natural Care M 78 Un",
+      "posted_at": "2026-11-18T12:31:50.069826"
     }
   },
   "results": [
@@ -52473,6 +52481,38 @@
       "post_id": "2705",
       "error": null,
       "at": "2026-11-18T12:21:14.392847"
+    },
+    {
+      "offer_id": "715441a7eb0fb9ca",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2706",
+      "error": null,
+      "at": "2026-11-18T12:31:12.240054"
+    },
+    {
+      "offer_id": "497f716c9d52ba2f",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-18T12:31:25.526119"
+    },
+    {
+      "offer_id": "61e9c2d53389e257",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-18T12:31:34.342555"
+    },
+    {
+      "offer_id": "57f45635bc44e66b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2707",
+      "error": null,
+      "at": "2026-11-18T12:31:50.069264"
     }
   ]
 }
