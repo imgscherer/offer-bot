@@ -10835,6 +10835,10 @@
     "947a84ee773299f4": {
       "title": "Macacões Bebê Unissex Manga Curta 8un",
       "posted_at": "2026-11-18T23:00:54.673102"
+    },
+    "2e39c601eeb752ad": {
+      "title": "Tênis Baby Infantil Slip On com Glitter Calce Fácil (18 ao 25 diversas cores)",
+      "posted_at": "2026-11-18T23:30:54.058487"
     }
   },
   "results": [
@@ -53189,6 +53193,14 @@
       "post_id": "2730",
       "error": null,
       "at": "2026-11-18T23:00:54.672532"
+    },
+    {
+      "offer_id": "2e39c601eeb752ad",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2731",
+      "error": null,
+      "at": "2026-11-18T23:30:54.057629"
     }
   ]
 }
