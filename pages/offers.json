@@ -1,5 +1,17 @@
 [
   {
+    "id": "e8bda19201c100c2",
+    "title": "Carrinho de Bebê Passeio Com Alça Reversível YouGo Maxi Baby (Cinza)",
+    "price_now": 379.0,
+    "price_was": 899.9,
+    "discount_pct": 58,
+    "url": "https://www.amazon.com.br/dp/B0DS6HRGFF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/933934615517950179771597102367.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T16:11:01.784276"
+  },
+  {
     "id": "8b025b21b24d8f04",
     "title": "Almofada de Assento para Carrinho Buba",
     "price_now": 77.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T12:31:50.069550"
-  },
-  {
-    "id": "715441a7eb0fb9ca",
-    "title": "Fralda Descartável Pampers Supersequinha Jumbo XG 70 Tiras",
-    "price_now": 78.32,
-    "price_was": 146.12,
-    "discount_pct": 46,
-    "url": "https://s.shopee.com.br/8pnRltcnqT?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/683893002917950040243443833253.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T12:31:12.240346"
   }
 ]
