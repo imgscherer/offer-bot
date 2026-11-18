@@ -10803,6 +10803,10 @@
     "f4d2dabf71214f2a": {
       "title": "Fralda Pampers Pants Ajuste Total Tamanho G, 90 Unidades",
       "posted_at": "2026-11-18T17:40:59.620863"
+    },
+    "239c1cc7a3c28265": {
+      "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
+      "posted_at": "2026-11-18T18:50:54.999413"
     }
   },
   "results": [
@@ -52973,6 +52977,14 @@
       "post_id": "2722",
       "error": null,
       "at": "2026-11-18T17:40:59.620107"
+    },
+    {
+      "offer_id": "239c1cc7a3c28265",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2723",
+      "error": null,
+      "at": "2026-11-18T18:50:54.998465"
     }
   ]
 }
