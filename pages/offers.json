@@ -1,5 +1,17 @@
 [
   {
+    "id": "9bcf5dff8990b5c3",
+    "title": "Fralda Huggies Natural Care Roupinha XG 56 unidades",
+    "price_now": 72.72,
+    "price_was": 118.35,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/774714388317950004057466866962.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T11:30:49.902547"
+  },
+  {
     "id": "6a8c7156ab56f662",
     "title": "Brinquedo Educativo Infantil Carrinho de Montar com Engrenagens 6 Peças Interativo para Crianças a Partir de 3 Anos",
     "price_now": 22.45,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-17T21:10:40.991012"
-  },
-  {
-    "id": "c6de3cbdbc65c9a7",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe G 68 Unidades",
-    "price_now": 45.0,
-    "price_was": 77.37,
-    "discount_pct": 42,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/591136933017949477235738049729.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T20:50:54.559421"
   }
 ]
