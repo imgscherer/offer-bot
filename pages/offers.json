@@ -1,5 +1,17 @@
 [
   {
+    "id": "f3c93f5051583f82",
+    "title": "Carrinho de Bebê Toffy Cosco",
+    "price_now": 389.4,
+    "price_was": 589.83,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B0FWGGDH2X?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/220457807817950277806771452971.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T19:01:10.228754"
+  },
+  {
     "id": "239c1cc7a3c28265",
     "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
     "price_now": 47.9,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T14:31:05.589679"
-  },
-  {
-    "id": "4bc45bda94ac1507",
-    "title": "MamyPoko Fralda-Calça Cuidado Real M 68 Unidades",
-    "price_now": 84.0,
-    "price_was": 129.9,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B08DJSPFFX?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/502024893117950108618994150712.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T14:10:55.044742"
   }
 ]
