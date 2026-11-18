@@ -10719,6 +10719,10 @@
     "9bcf5dff8990b5c3": {
       "title": "Fralda Huggies Natural Care Roupinha XG 56 unidades",
       "posted_at": "2026-11-18T11:30:49.902809"
+    },
+    "fb942375dc215611": {
+      "title": "Fralda Pom Pom Protek Proteção De Mãe Mega G 42 Unidades",
+      "posted_at": "2026-11-18T11:41:03.064226"
     }
   },
   "results": [
@@ -52369,6 +52373,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-18T11:30:57.714360"
+    },
+    {
+      "offer_id": "61e9c2d53389e257",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-18T11:40:50.399749"
+    },
+    {
+      "offer_id": "fb942375dc215611",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2702",
+      "error": null,
+      "at": "2026-11-18T11:41:03.063518"
     }
   ]
 }
