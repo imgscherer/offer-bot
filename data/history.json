@@ -10763,6 +10763,10 @@
     "4bc45bda94ac1507": {
       "title": "MamyPoko Fralda-Calça Cuidado Real M 68 Unidades",
       "posted_at": "2026-11-18T14:10:55.054304"
+    },
+    "4e797d74b0a2db9d": {
+      "title": "Carrinho de Bebê Bytes Grey Denin Safety 1st",
+      "posted_at": "2026-11-18T14:31:05.590151"
     }
   },
   "results": [
@@ -52613,6 +52617,22 @@
       "post_id": "2712",
       "error": null,
       "at": "2026-11-18T14:10:55.044477"
+    },
+    {
+      "offer_id": "4e797d74b0a2db9d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2713",
+      "error": null,
+      "at": "2026-11-18T14:31:05.589308"
+    },
+    {
+      "offer_id": "fc68a8a08fb2b018",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-18T14:31:22.060481"
     }
   ]
 }

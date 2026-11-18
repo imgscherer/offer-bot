@@ -1,5 +1,17 @@
 [
   {
+    "id": "4e797d74b0a2db9d",
+    "title": "Carrinho de Bebê Bytes Grey Denin Safety 1st",
+    "price_now": 550.0,
+    "price_was": 900.29,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0D49X477W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/722035564217950118004404656890.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T14:31:05.589679"
+  },
+  {
     "id": "4bc45bda94ac1507",
     "title": "MamyPoko Fralda-Calça Cuidado Real M 68 Unidades",
     "price_now": 84.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T11:41:03.063787"
-  },
-  {
-    "id": "9bcf5dff8990b5c3",
-    "title": "Fralda Huggies Natural Care Roupinha XG 56 unidades",
-    "price_now": 72.72,
-    "price_was": 118.35,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/774714388317950004057466866962.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T11:30:49.902547"
   }
 ]
