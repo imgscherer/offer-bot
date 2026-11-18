@@ -1,5 +1,17 @@
 [
   {
+    "id": "c3118615efdc1b7e",
+    "title": "Fralda-Calça MamyPoko Cuidado Real M 68 Unidades",
+    "price_now": 84.45,
+    "price_was": 129.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B08DJSPFFX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/671952998917950142027841319750.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T15:10:56.096701"
+  },
+  {
     "id": "4e797d74b0a2db9d",
     "title": "Carrinho de Bebê Bytes Grey Denin Safety 1st",
     "price_now": 550.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T12:00:55.411372"
-  },
-  {
-    "id": "fb942375dc215611",
-    "title": "Fralda Pom Pom Protek Proteção De Mãe Mega G 42 Unidades",
-    "price_now": 33.8,
-    "price_was": 50.29,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/603187634017950008164677970452.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T11:41:03.063787"
   }
 ]
