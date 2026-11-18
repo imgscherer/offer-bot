@@ -10695,6 +10695,18 @@
     "d1f11d4868429822": {
       "title": "Óleo Hidratante para Bebê Johnson's Baby Puro 200ml Puro",
       "posted_at": "2026-11-17T23:20:46.066958"
+    },
+    "797b2eb1c1ee98b3": {
+      "title": "Quadro Decorativo Recepção Chá de Bebê Fraldas Personalizável Nome Data Ovelhinha Cristão",
+      "posted_at": "2026-11-18T10:50:41.113106"
+    },
+    "7e5dea7c2e159ece": {
+      "title": "Quadro Decorativo Recepção Chá de Bebê Fraldas Personalizado Com Nome Data Espírito Religioso",
+      "posted_at": "2026-11-18T10:50:44.233854"
+    },
+    "cc3ea061bed43167": {
+      "title": "Fralda Turma Da Mônica Baby Mega G 44 Unidades",
+      "posted_at": "2026-11-18T10:50:58.362339"
     }
   },
   "results": [
@@ -52257,6 +52269,46 @@
       "post_id": "2695",
       "error": null,
       "at": "2026-11-17T23:20:46.066311"
+    },
+    {
+      "offer_id": "c2469b37ca99a8db",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-18T10:50:38.016571"
+    },
+    {
+      "offer_id": "797b2eb1c1ee98b3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2696",
+      "error": null,
+      "at": "2026-11-18T10:50:41.112550"
+    },
+    {
+      "offer_id": "7e5dea7c2e159ece",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2697",
+      "error": null,
+      "at": "2026-11-18T10:50:44.233111"
+    },
+    {
+      "offer_id": "6e2032f6b89ce328",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-18T10:50:45.287089"
+    },
+    {
+      "offer_id": "cc3ea061bed43167",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2698",
+      "error": null,
+      "at": "2026-11-18T10:50:58.361656"
     }
   ]
 }

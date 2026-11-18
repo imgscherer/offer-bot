@@ -1,5 +1,41 @@
 [
   {
+    "id": "cc3ea061bed43167",
+    "title": "Fralda Turma Da Mônica Baby Mega G 44 Unidades",
+    "price_now": 33.0,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KWB62Y?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/709769602317949985977427423550.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T10:50:58.361913"
+  },
+  {
+    "id": "7e5dea7c2e159ece",
+    "title": "Quadro Decorativo Recepção Chá de Bebê Fraldas Personalizado Com Nome Data Espírito Religioso",
+    "price_now": 24.9,
+    "price_was": 59.29,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/5fqPuMDoLg",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mvb8kiu99ukg6c",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T10:50:44.233395"
+  },
+  {
+    "id": "797b2eb1c1ee98b3",
+    "title": "Quadro Decorativo Recepção Chá de Bebê Fraldas Personalizável Nome Data Ovelhinha Cristão",
+    "price_now": 24.9,
+    "price_was": 59.29,
+    "discount_pct": 58,
+    "url": "https://s.shopee.com.br/4fxsiWHcNT",
+    "image": "https://cf.shopee.com.br/file/br-11134207-820li-mvb8kiu9fgu8d8",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T10:50:41.112846"
+  },
+  {
     "id": "d1f11d4868429822",
     "title": "Óleo Hidratante para Bebê Johnson's Baby Puro 200ml Puro",
     "price_now": 47.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T20:01:06.452197"
-  },
-  {
-    "id": "34674835dd9a68cb",
-    "title": "Fralda Pampers Confort Sec M Com 196 Unidades",
-    "price_now": 155.44,
-    "price_was": 235.87,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B09FFRMKNQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/496369797217949451436336703813.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T20:00:57.648176"
-  },
-  {
-    "id": "cb22c082020273db",
-    "title": "Kit 2 Pares Sandália Infantil Papete (Tam. 19 ao 26, Diversas cores)",
-    "price_now": 38.8,
-    "price_was": 69.29,
-    "discount_pct": 44,
-    "url": "https://s.shopee.com.br/5fqOsl4jcz?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/145367769617949434638656435596.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T19:40:58.030547"
-  },
-  {
-    "id": "3eae2898f7081410",
-    "title": "Maxi Baby Carrinho de Bebê Guarda Chuva LINK Até 15kgs (Preto)",
-    "price_now": 215.68,
-    "price_was": 469.9,
-    "discount_pct": 54,
-    "url": "https://www.amazon.com.br/dp/B0CPN7TJ4F?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/632854655817949418643300975570.png",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T19:11:12.816471"
   }
 ]
