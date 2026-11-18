@@ -10787,6 +10787,10 @@
     "e8bda19201c100c2": {
       "title": "Carrinho de Bebê Passeio Com Alça Reversível YouGo Maxi Baby (Cinza)",
       "posted_at": "2026-11-18T16:11:01.784684"
+    },
+    "b2684155d2137b76": {
+      "title": "Graco Carrinho de Bebê Modes Pramette 2 em 1 Reversível Pierce Preto",
+      "posted_at": "2026-11-18T16:20:47.294960"
     }
   },
   "results": [
@@ -52853,6 +52857,38 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-18T16:11:38.066653"
+    },
+    {
+      "offer_id": "b2684155d2137b76",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2719",
+      "error": null,
+      "at": "2026-11-18T16:20:47.294276"
+    },
+    {
+      "offer_id": "c8721b5db3c219c1",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-18T16:20:54.749021"
+    },
+    {
+      "offer_id": "c302096cb5df94c6",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-18T16:21:00.839580"
+    },
+    {
+      "offer_id": "553e4fffece03258",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-18T16:21:09.435474"
     }
   ]
 }

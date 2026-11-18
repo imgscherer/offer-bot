@@ -1,5 +1,17 @@
 [
   {
+    "id": "b2684155d2137b76",
+    "title": "Graco Carrinho de Bebê Modes Pramette 2 em 1 Reversível Pierce Preto",
+    "price_now": 1544.0,
+    "price_was": 3690.0,
+    "discount_pct": 58,
+    "url": "https://www.amazon.com.br/dp/B07Y5X8G4B?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/281425722917950183424616731640.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T16:20:47.294655"
+  },
+  {
     "id": "e8bda19201c100c2",
     "title": "Carrinho de Bebê Passeio Com Alça Reversível YouGo Maxi Baby (Cinza)",
     "price_now": 379.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T12:41:01.138559"
-  },
-  {
-    "id": "57f45635bc44e66b",
-    "title": "Huggies Fralda Premium Natural Care M 78 Un",
-    "price_now": 84.0,
-    "price_was": 125.24,
-    "discount_pct": 33,
-    "url": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/560204327717950042893634266990.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T12:31:50.069550"
   }
 ]
