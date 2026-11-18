@@ -1,5 +1,17 @@
 [
   {
+    "id": "4a469983f993c973",
+    "title": "Huggies Fralda Pants Premium Natural Care XXG 52 Un",
+    "price_now": 72.0,
+    "price_was": 118.35,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0BKLM298N?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/752349991217949991351289004199.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T11:00:55.714910"
+  },
+  {
     "id": "cc3ea061bed43167",
     "title": "Fralda Turma Da Mônica Baby Mega G 44 Unidades",
     "price_now": 33.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T20:30:51.198241"
-  },
-  {
-    "id": "c9ba4069c1d9ce15",
-    "title": "Fralda Turma Da Mônica Baby P Com 62 Unidades",
-    "price_now": 33.98,
-    "price_was": 50.04,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/739578316717949451962970722853.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T20:01:06.452197"
   }
 ]

@@ -10707,6 +10707,10 @@
     "cc3ea061bed43167": {
       "title": "Fralda Turma Da Mônica Baby Mega G 44 Unidades",
       "posted_at": "2026-11-18T10:50:58.362339"
+    },
+    "4a469983f993c973": {
+      "title": "Huggies Fralda Pants Premium Natural Care XXG 52 Un",
+      "posted_at": "2026-11-18T11:00:55.715195"
     }
   },
   "results": [
@@ -52309,6 +52313,14 @@
       "post_id": "2698",
       "error": null,
       "at": "2026-11-18T10:50:58.361656"
+    },
+    {
+      "offer_id": "4a469983f993c973",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2699",
+      "error": null,
+      "at": "2026-11-18T11:00:55.714618"
     }
   ]
 }
