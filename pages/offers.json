@@ -1,5 +1,29 @@
 [
   {
+    "id": "4bc45bda94ac1507",
+    "title": "MamyPoko Fralda-Calça Cuidado Real M 68 Unidades",
+    "price_now": 84.0,
+    "price_was": 129.9,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B08DJSPFFX?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/502024893117950108618994150712.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T14:10:55.044742"
+  },
+  {
+    "id": "d91bb5733f3de533",
+    "title": "Maxi Baby Assento Redutor Infantil Dobrável Cescada Mcfrog (azul)",
+    "price_now": 61.0,
+    "price_was": 179.9,
+    "discount_pct": 66,
+    "url": "https://www.amazon.com.br/dp/B0D96N45LL?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/480783334917950106047879644187.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T14:10:42.245424"
+  },
+  {
     "id": "139542c4349ae035",
     "title": "Fralda Turma da Mônica Baby M 28 unidades",
     "price_now": 18.8,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T11:30:49.902547"
-  },
-  {
-    "id": "6a8c7156ab56f662",
-    "title": "Brinquedo Educativo Infantil Carrinho de Montar com Engrenagens 6 Peças Interativo para Crianças a Partir de 3 Anos",
-    "price_now": 22.45,
-    "price_was": 49.89,
-    "discount_pct": 55,
-    "url": "https://s.shopee.com.br/1W0qylUtzV",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820m6-muchip0n6aypf2",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T11:20:33.610042"
-  },
-  {
-    "id": "4a469983f993c973",
-    "title": "Huggies Fralda Pants Premium Natural Care XXG 52 Un",
-    "price_now": 72.0,
-    "price_was": 118.35,
-    "discount_pct": 39,
-    "url": "https://www.amazon.com.br/dp/B0BKLM298N?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/752349991217949991351289004199.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T11:00:55.714910"
   }
 ]

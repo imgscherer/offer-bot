@@ -10755,6 +10755,14 @@
     "139542c4349ae035": {
       "title": "Fralda Turma da Mônica Baby M 28 unidades",
       "posted_at": "2026-11-18T13:31:06.925452"
+    },
+    "d91bb5733f3de533": {
+      "title": "Maxi Baby Assento Redutor Infantil Dobrável Cescada Mcfrog (azul)",
+      "posted_at": "2026-11-18T14:10:42.245700"
+    },
+    "4bc45bda94ac1507": {
+      "title": "MamyPoko Fralda-Calça Cuidado Real M 68 Unidades",
+      "posted_at": "2026-11-18T14:10:55.054304"
     }
   },
   "results": [
@@ -52589,6 +52597,22 @@
       "post_id": "2710",
       "error": null,
       "at": "2026-11-18T13:31:06.924724"
+    },
+    {
+      "offer_id": "d91bb5733f3de533",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2711",
+      "error": null,
+      "at": "2026-11-18T14:10:42.245057"
+    },
+    {
+      "offer_id": "4bc45bda94ac1507",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2712",
+      "error": null,
+      "at": "2026-11-18T14:10:55.044477"
     }
   ]
 }
