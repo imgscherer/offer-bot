@@ -10727,6 +10727,14 @@
     "2ce116b9dc9f3ffe": {
       "title": "Fralda Huggies Máxima Proteção P 48 unidades",
       "posted_at": "2026-11-18T12:00:55.411822"
+    },
+    "3076c4b84bfd7227": {
+      "title": "Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras",
+      "posted_at": "2026-11-18T12:20:52.768386"
+    },
+    "f815122b3b466da2": {
+      "title": "Fralda Infantil Personal Baby Protect e Sec M 40 Unidades",
+      "posted_at": "2026-11-18T12:21:14.393596"
     }
   },
   "results": [
@@ -52433,6 +52441,38 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-18T12:10:56.045921"
+    },
+    {
+      "offer_id": "3076c4b84bfd7227",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2704",
+      "error": null,
+      "at": "2026-11-18T12:20:52.767632"
+    },
+    {
+      "offer_id": "497f716c9d52ba2f",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-18T12:20:58.297553"
+    },
+    {
+      "offer_id": "61e9c2d53389e257",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-18T12:21:04.809249"
+    },
+    {
+      "offer_id": "f815122b3b466da2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2705",
+      "error": null,
+      "at": "2026-11-18T12:21:14.392847"
     }
   ]
 }

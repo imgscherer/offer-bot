@@ -1,5 +1,29 @@
 [
   {
+    "id": "f815122b3b466da2",
+    "title": "Fralda Infantil Personal Baby Protect e Sec M 40 Unidades",
+    "price_now": 26.0,
+    "price_was": 36.96,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/755712432017950037532807944088.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T12:21:14.393119"
+  },
+  {
+    "id": "3076c4b84bfd7227",
+    "title": "Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras",
+    "price_now": 78.32,
+    "price_was": 146.12,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/1BO0dh4Pz0?lp=aff&af_id=18328861131",
+    "image": "https://i.promobit.com.br/1200/612018442317950039265570243969.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T12:20:52.767952"
+  },
+  {
     "id": "2ce116b9dc9f3ffe",
     "title": "Fralda Huggies Máxima Proteção P 48 unidades",
     "price_now": 46.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-17T23:20:40.182308"
-  },
-  {
-    "id": "89c6bd84d662d533",
-    "title": "Fralda Huggies Supreme Care M 196 Unidades",
-    "price_now": 161.12,
-    "price_was": 229.9,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/274045803817949535508997295835.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T22:30:49.869848"
-  },
-  {
-    "id": "78d7030394555a1c",
-    "title": "Kit Calça Bebê 2 Peças Multicor Carter's",
-    "price_now": 82.0,
-    "price_was": 131.08,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0FG46875Q?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/633657808817949533568773802496.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-17T22:20:59.556839"
   }
 ]
