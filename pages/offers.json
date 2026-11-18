@@ -1,5 +1,17 @@
 [
   {
+    "id": "38f112ded5b35290",
+    "title": "Fralda Pampers Confort Sec P 50 Unidades",
+    "price_now": 54.0,
+    "price_was": 77.27,
+    "discount_pct": 30,
+    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/920060416117950048429159569666.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T12:41:01.138559"
+  },
+  {
     "id": "57f45635bc44e66b",
     "title": "Huggies Fralda Premium Natural Care M 78 Un",
     "price_now": 84.0,
@@ -130,17 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-18T10:50:44.233395"
-  },
-  {
-    "id": "797b2eb1c1ee98b3",
-    "title": "Quadro Decorativo Recepção Chá de Bebê Fraldas Personalizável Nome Data Ovelhinha Cristão",
-    "price_now": 24.9,
-    "price_was": 59.29,
-    "discount_pct": 58,
-    "url": "https://s.shopee.com.br/4fxsiWHcNT",
-    "image": "https://cf.shopee.com.br/file/br-11134207-820li-mvb8kiu9fgu8d8",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T10:50:41.112846"
   }
 ]

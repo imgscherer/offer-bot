@@ -10743,6 +10743,10 @@
     "57f45635bc44e66b": {
       "title": "Huggies Fralda Premium Natural Care M 78 Un",
       "posted_at": "2026-11-18T12:31:50.069826"
+    },
+    "38f112ded5b35290": {
+      "title": "Fralda Pampers Confort Sec P 50 Unidades",
+      "posted_at": "2026-11-18T12:41:01.138996"
     }
   },
   "results": [
@@ -52513,6 +52517,22 @@
       "post_id": "2707",
       "error": null,
       "at": "2026-11-18T12:31:50.069264"
+    },
+    {
+      "offer_id": "497f716c9d52ba2f",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+      "at": "2026-11-18T12:40:47.490547"
+    },
+    {
+      "offer_id": "38f112ded5b35290",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2708",
+      "error": null,
+      "at": "2026-11-18T12:41:01.138265"
     }
   ]
 }
