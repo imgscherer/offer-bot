@@ -1,5 +1,17 @@
 [
   {
+    "id": "947a84ee773299f4",
+    "title": "Macacões Bebê Unissex Manga Curta 8un",
+    "price_now": 97.0,
+    "price_was": 219.37,
+    "discount_pct": 56,
+    "url": "https://www.amazon.com.br/dp/B07GG1P87H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/483934665017950422212900097463.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T23:00:54.672842"
+  },
+  {
     "id": "0b45fb3491693cbe",
     "title": "MamyPoko Fralda-Calça Superproteção XG 24 Unidades",
     "price_now": 26.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T16:20:47.294655"
-  },
-  {
-    "id": "e8bda19201c100c2",
-    "title": "Carrinho de Bebê Passeio Com Alça Reversível YouGo Maxi Baby (Cinza)",
-    "price_now": 379.0,
-    "price_was": 899.9,
-    "discount_pct": 58,
-    "url": "https://www.amazon.com.br/dp/B0DS6HRGFF?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/933934615517950179771597102367.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T16:11:01.784276"
   }
 ]
