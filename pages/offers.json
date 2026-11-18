@@ -1,5 +1,41 @@
 [
   {
+    "id": "0b45fb3491693cbe",
+    "title": "MamyPoko Fralda-Calça Superproteção XG 24 Unidades",
+    "price_now": 26.0,
+    "price_was": 42.9,
+    "discount_pct": 39,
+    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/613790412017950381398096099552.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T21:51:24.455731"
+  },
+  {
+    "id": "e262c572437e71db",
+    "title": "Kit 8 Bodies Gerber de Manga Curta para Bebê Menina",
+    "price_now": 104.0,
+    "price_was": 270.5,
+    "discount_pct": 62,
+    "url": "https://www.amazon.com.br/dp/B07GFP14RJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/223938618817950382585712650790.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T21:51:15.225357"
+  },
+  {
+    "id": "26ed0e5c6e10908a",
+    "title": "Kit 8 Bodies Gerber de Manga Curta para Bebê Menina",
+    "price_now": 98.0,
+    "price_was": 277.07,
+    "discount_pct": 65,
+    "url": "https://www.amazon.com.br/dp/B07GFNRP6H?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/150847420217950382057731926990.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T21:51:01.914153"
+  },
+  {
     "id": "b22700e15930646f",
     "title": "Fralda-Calça Superproteção MamyPoko XG 24 Unidades",
     "price_now": 26.87,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T16:11:01.784276"
-  },
-  {
-    "id": "8b025b21b24d8f04",
-    "title": "Almofada de Assento para Carrinho Buba",
-    "price_now": 77.0,
-    "price_was": 143.9,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B09WBTTXKK?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/901063945617950171529507399386.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T16:01:00.722081"
-  },
-  {
-    "id": "645084221143ba7b",
-    "title": "Graco Carrinho de Bebê Gêmeos Passeio Ready2Grow",
-    "price_now": 1898.0,
-    "price_was": 2990.0,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B08K2YFNDW?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/938942583517950159447528519865.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T15:41:21.626617"
-  },
-  {
-    "id": "5b2a6b70c33c2deb",
-    "title": "Fralda Cremer Magic Care M 68 Unidades",
-    "price_now": 38.39,
-    "price_was": 73.83,
-    "discount_pct": 48,
-    "url": "https://s.shopee.com.br/9pfzAUSGau?af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/194248071217950151705261813362.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T15:31:03.769995"
   }
 ]
