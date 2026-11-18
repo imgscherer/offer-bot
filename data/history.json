@@ -10791,6 +10791,14 @@
     "b2684155d2137b76": {
       "title": "Graco Carrinho de Bebê Modes Pramette 2 em 1 Reversível Pierce Preto",
       "posted_at": "2026-11-18T16:20:47.294960"
+    },
+    "2b8e4b051433e3bc": {
+      "title": "Tênis Infantil Cano Alto Menina e Menino Star Cano Baixo Antiderrapante",
+      "posted_at": "2026-11-18T17:30:51.316231"
+    },
+    "e327bfcd7e6e10d2": {
+      "title": "Tênis Infantil Menina e Menino Star Cano Baixo Antiderrapante",
+      "posted_at": "2026-11-18T17:30:53.463339"
     }
   },
   "results": [
@@ -52937,6 +52945,22 @@
       "post_id": null,
       "error": "Client error '400 Bad Request' for url 'https://api.telegram.org/bot8581081331:AAFj-29N3Qby4mY_wU4vg3S35NM8sk3eI-k/sendPhoto'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
       "at": "2026-11-18T16:50:48.825322"
+    },
+    {
+      "offer_id": "2b8e4b051433e3bc",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2720",
+      "error": null,
+      "at": "2026-11-18T17:30:51.315433"
+    },
+    {
+      "offer_id": "e327bfcd7e6e10d2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2721",
+      "error": null,
+      "at": "2026-11-18T17:30:53.458524"
     }
   ]
 }

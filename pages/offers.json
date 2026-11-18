@@ -1,5 +1,29 @@
 [
   {
+    "id": "e327bfcd7e6e10d2",
+    "title": "Tênis Infantil Menina e Menino Star Cano Baixo Antiderrapante",
+    "price_now": 49.09,
+    "price_was": 90.91,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/2qWEgldALY",
+    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0yip2j4z2l387",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T17:30:53.458827"
+  },
+  {
+    "id": "2b8e4b051433e3bc",
+    "title": "Tênis Infantil Cano Alto Menina e Menino Star Cano Baixo Antiderrapante",
+    "price_now": 49.09,
+    "price_was": 90.91,
+    "discount_pct": 46,
+    "url": "https://s.shopee.com.br/5Au9T3UHby",
+    "image": "https://cf.shopee.com.br/file/sg-11134201-7rdx0-m0t5nzg3z0u60a",
+    "source": "shopee",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T17:30:51.315763"
+  },
+  {
     "id": "b2684155d2137b76",
     "title": "Graco Carrinho de Bebê Modes Pramette 2 em 1 Reversível Pierce Preto",
     "price_now": 1544.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T13:31:06.925036"
-  },
-  {
-    "id": "35d6f86aeb00cba3",
-    "title": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
-    "price_now": 33.0,
-    "price_was": 50.04,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/718847372417950083767832982613.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T13:30:55.149290"
-  },
-  {
-    "id": "38f112ded5b35290",
-    "title": "Fralda Pampers Confort Sec P 50 Unidades",
-    "price_now": 54.0,
-    "price_was": 77.27,
-    "discount_pct": 30,
-    "url": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/920060416117950048429159569666.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T12:41:01.138559"
   }
 ]
