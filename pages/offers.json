@@ -1,5 +1,17 @@
 [
   {
+    "id": "f4d2dabf71214f2a",
+    "title": "Fralda Pampers Pants Ajuste Total Tamanho G, 90 Unidades",
+    "price_now": 98.89,
+    "price_was": 194.9,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/427739981717950226569300724663.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-18T17:40:59.620394"
+  },
+  {
     "id": "e327bfcd7e6e10d2",
     "title": "Tênis Infantil Menina e Menino Star Cano Baixo Antiderrapante",
     "price_now": 49.09,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T14:10:42.245424"
-  },
-  {
-    "id": "139542c4349ae035",
-    "title": "Fralda Turma da Mônica Baby M 28 unidades",
-    "price_now": 18.8,
-    "price_was": 28.68,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KXW911?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/438181076517950080568277421560.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T13:31:06.925036"
   }
 ]

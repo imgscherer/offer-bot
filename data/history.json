@@ -10799,6 +10799,10 @@
     "e327bfcd7e6e10d2": {
       "title": "Tênis Infantil Menina e Menino Star Cano Baixo Antiderrapante",
       "posted_at": "2026-11-18T17:30:53.463339"
+    },
+    "f4d2dabf71214f2a": {
+      "title": "Fralda Pampers Pants Ajuste Total Tamanho G, 90 Unidades",
+      "posted_at": "2026-11-18T17:40:59.620863"
     }
   },
   "results": [
@@ -52961,6 +52965,14 @@
       "post_id": "2721",
       "error": null,
       "at": "2026-11-18T17:30:53.458524"
+    },
+    {
+      "offer_id": "f4d2dabf71214f2a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2722",
+      "error": null,
+      "at": "2026-11-18T17:40:59.620107"
     }
   ]
 }
