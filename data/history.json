@@ -10887,6 +10887,10 @@
     "8e6ef35efd67653d": {
       "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
       "posted_at": "2026-11-19T11:50:43.825824"
+    },
+    "eb2c81672b68ace5": {
+      "title": "Fralda Cremer P Com 36 Unidades",
+      "posted_at": "2026-11-19T12:00:58.920499"
     }
   },
   "results": [
@@ -53353,6 +53357,14 @@
       "post_id": "2746",
       "error": null,
       "at": "2026-11-19T11:50:43.825118"
+    },
+    {
+      "offer_id": "eb2c81672b68ace5",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2747",
+      "error": null,
+      "at": "2026-11-19T12:00:58.919551"
     }
   ]
 }
