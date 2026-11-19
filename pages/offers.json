@@ -1,5 +1,17 @@
 [
   {
+    "id": "f42fcb70e09c4caa",
+    "title": "Fralda Pom Pom Protek Proteção Mãe Mega P",
+    "price_now": 32.58,
+    "price_was": 50.29,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B093GBK61Q?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/365233894617951196424003315866.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T20:30:58.860056"
+  },
+  {
     "id": "2939b4fb62188172",
     "title": "MamyPoko Fralda-Calça Premium Seca Xxg 44 Unidades",
     "price_now": 85.4,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-19T16:10:45.655419"
-  },
-  {
-    "id": "c2fc804fac032581",
-    "title": "Johnson's Baby Shampoo Infantil Cachos Dos Sonhos 200ml",
-    "price_now": 10.0,
-    "price_was": 24.79,
-    "discount_pct": 60,
-    "url": "https://www.amazon.com.br/dp/B0789TG4TQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/378323162017951014527566814162.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T15:31:34.249147"
   }
 ]
