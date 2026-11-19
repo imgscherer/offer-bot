@@ -1,5 +1,17 @@
 [
   {
+    "id": "ab866eb47dfc389f",
+    "title": "Escova para Mamadeiras e bico Philips Avent Azul",
+    "price_now": 29.85,
+    "price_was": 59.9,
+    "discount_pct": 50,
+    "url": "https://www.amazon.com.br/dp/B000MMOR46?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/317491049617951037952621089844.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T16:10:45.655419"
+  },
+  {
     "id": "c2fc804fac032581",
     "title": "Johnson's Baby Shampoo Infantil Cachos Dos Sonhos 200ml",
     "price_now": 10.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-19T13:01:19.933365"
-  },
-  {
-    "id": "0b56336e5a13966a",
-    "title": "Simple Joys by Carter's Body de manga comprida para bebês e meninos, pacote",
-    "price_now": 94.74,
-    "price_was": 148.69,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B079614MM6?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/636606922117950925813973726424.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T13:01:08.017769"
   }
 ]

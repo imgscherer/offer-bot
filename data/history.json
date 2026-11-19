@@ -10947,6 +10947,10 @@
     "c2fc804fac032581": {
       "title": "Johnson's Baby Shampoo Infantil Cachos Dos Sonhos 200ml",
       "posted_at": "2026-11-19T15:31:34.249645"
+    },
+    "ab866eb47dfc389f": {
+      "title": "Escova para Mamadeiras e bico Philips Avent Azul",
+      "posted_at": "2026-11-19T16:10:45.655659"
     }
   },
   "results": [
@@ -53589,6 +53593,14 @@
       "post_id": "2763",
       "error": null,
       "at": "2026-11-19T15:31:34.248798"
+    },
+    {
+      "offer_id": "ab866eb47dfc389f",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2764",
+      "error": null,
+      "at": "2026-11-19T16:10:45.655105"
     }
   ]
 }
