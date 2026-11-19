@@ -10951,6 +10951,14 @@
     "ab866eb47dfc389f": {
       "title": "Escova para Mamadeiras e bico Philips Avent Azul",
       "posted_at": "2026-11-19T16:10:45.655659"
+    },
+    "50bfd6a0f251783d": {
+      "title": "Oikos - Lixeira Antiodor Bebê para Fraldas 10L",
+      "posted_at": "2026-11-19T16:20:41.247623"
+    },
+    "e514f065f7e3212e": {
+      "title": "Kit 6 Pares Meia Bebê RN Cano Médio Algodão Punho Suave",
+      "posted_at": "2026-11-19T16:20:52.988685"
     }
   },
   "results": [
@@ -53601,6 +53609,22 @@
       "post_id": "2764",
       "error": null,
       "at": "2026-11-19T16:10:45.655105"
+    },
+    {
+      "offer_id": "50bfd6a0f251783d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2765",
+      "error": null,
+      "at": "2026-11-19T16:20:41.246922"
+    },
+    {
+      "offer_id": "e514f065f7e3212e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2766",
+      "error": null,
+      "at": "2026-11-19T16:20:52.986956"
     }
   ]
 }

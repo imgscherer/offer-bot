@@ -1,5 +1,29 @@
 [
   {
+    "id": "e514f065f7e3212e",
+    "title": "Kit 6 Pares Meia Bebê RN Cano Médio Algodão Punho Suave",
+    "price_now": 27.0,
+    "price_was": 49.99,
+    "discount_pct": 46,
+    "url": "https://www.amazon.com.br/dp/B0FX3FNVZ2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/910658715317951044457328110384.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T16:20:52.987247"
+  },
+  {
+    "id": "50bfd6a0f251783d",
+    "title": "Oikos - Lixeira Antiodor Bebê para Fraldas 10L",
+    "price_now": 78.81,
+    "price_was": 180.0,
+    "discount_pct": 56,
+    "url": "https://www.amazon.com.br/dp/B0GHP6DWBN?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/579739283117951049986493898177.png",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T16:20:41.247329"
+  },
+  {
     "id": "ab866eb47dfc389f",
     "title": "Escova para Mamadeiras e bico Philips Avent Azul",
     "price_now": 29.85,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-19T13:30:59.858183"
-  },
-  {
-    "id": "3f74f98ccd012ad6",
-    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
-    "price_now": 4.23,
-    "price_was": 9.42,
-    "discount_pct": 55,
-    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/143662078317950930366816061538.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T13:10:46.635268"
-  },
-  {
-    "id": "f41286da17e17250",
-    "title": "Simple Joys by Carter's Body de manga comprida para bebês meninas, pacote com 5",
-    "price_now": 99.0,
-    "price_was": 151.17,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B01M6C5TA4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/920030962817950924492710345995.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T13:01:19.933365"
   }
 ]
