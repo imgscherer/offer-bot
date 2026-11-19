@@ -1,5 +1,29 @@
 [
   {
+    "id": "ccce8477d69086c7",
+    "title": "Conjunto pijama bebê 3 peças algodão",
+    "price_now": 38.39,
+    "price_was": 93.11,
+    "discount_pct": 59,
+    "url": "https://www.amazon.com.br/dp/B083XK4NP4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/706577543517950949039518671498.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T13:41:22.526476"
+  },
+  {
+    "id": "9badb3bf6e4ec6f4",
+    "title": "Personal Fralda Baby Premium Pants M, 70 Unidades",
+    "price_now": 39.0,
+    "price_was": 116.89,
+    "discount_pct": 67,
+    "url": "https://www.amazon.com.br/dp/B0BGML4J44?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/732792799717950953853694649724.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T13:41:12.017418"
+  },
+  {
     "id": "5a574bec1eaf4eaa",
     "title": "Kit 6 Faixinhas para Bebê",
     "price_now": 24.53,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-19T11:20:51.133602"
-  },
-  {
-    "id": "45255292fabfc8e2",
-    "title": "Neslac Comfor Zero Lactose Composto Lácteo Fórmula infantil 700g",
-    "price_now": 50.0,
-    "price_was": 76.69,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B08K3PF8Q7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/682185711217950843332611805034.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T10:40:48.289971"
-  },
-  {
-    "id": "336567c1470adc58",
-    "title": "Fralda Pampers Pants Ajuste Total M com 108 Unidades",
-    "price_now": 109.0,
-    "price_was": 194.9,
-    "discount_pct": 44,
-    "url": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/446192001917950837407500993839.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T10:30:47.225689"
   }
 ]
