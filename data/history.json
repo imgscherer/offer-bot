@@ -10847,6 +10847,14 @@
     "db9af1fda6524641": {
       "title": "Fralda Pom Pom Protek XXG 50 Unidades",
       "posted_at": "2026-11-19T00:10:50.465416"
+    },
+    "16f324ca2943712e": {
+      "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
+      "posted_at": "2026-11-19T00:40:42.448141"
+    },
+    "3a6b4f7cdebc6982": {
+      "title": "Mamypoko Fralda-calça Superproteção Xxg 22 Unidades",
+      "posted_at": "2026-11-19T00:40:51.419694"
     }
   },
   "results": [
@@ -53225,6 +53233,22 @@
       "post_id": "2733",
       "error": null,
       "at": "2026-11-19T00:10:50.464726"
+    },
+    {
+      "offer_id": "16f324ca2943712e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2734",
+      "error": null,
+      "at": "2026-11-19T00:40:42.447438"
+    },
+    {
+      "offer_id": "3a6b4f7cdebc6982",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2735",
+      "error": null,
+      "at": "2026-11-19T00:40:51.418894"
     }
   ]
 }

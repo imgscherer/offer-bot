@@ -1,5 +1,29 @@
 [
   {
+    "id": "3a6b4f7cdebc6982",
+    "title": "Mamypoko Fralda-calça Superproteção Xxg 22 Unidades",
+    "price_now": 29.89,
+    "price_was": 46.9,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/630872649917950485758088464364.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T00:40:51.419272"
+  },
+  {
+    "id": "16f324ca2943712e",
+    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
+    "price_now": 30.0,
+    "price_was": 62.99,
+    "discount_pct": 52,
+    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/692398036317950477413819079199.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T00:40:42.447791"
+  },
+  {
     "id": "db9af1fda6524641",
     "title": "Fralda Pom Pom Protek XXG 50 Unidades",
     "price_now": 52.42,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T19:01:10.228754"
-  },
-  {
-    "id": "239c1cc7a3c28265",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
-    "price_now": 47.9,
-    "price_was": 77.37,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B0979VS2JH?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/789540331317950272492371897791.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T18:50:54.998804"
-  },
-  {
-    "id": "f4d2dabf71214f2a",
-    "title": "Fralda Pampers Pants Ajuste Total Tamanho G, 90 Unidades",
-    "price_now": 98.89,
-    "price_was": 194.9,
-    "discount_pct": 49,
-    "url": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/427739981717950226569300724663.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T17:40:59.620394"
   }
 ]
