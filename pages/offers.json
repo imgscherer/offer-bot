@@ -1,5 +1,17 @@
 [
   {
+    "id": "db9af1fda6524641",
+    "title": "Fralda Pom Pom Protek XXG 50 Unidades",
+    "price_now": 52.42,
+    "price_was": 77.37,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B0H1JV4DQ7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/809771373217950467191427007347.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T00:10:50.464997"
+  },
+  {
     "id": "1f6224cd7fc322be",
     "title": "Fralda Descartável Babysec Galinha Pintadinha Ultrasec Giga XXXG 64 Unidades",
     "price_now": 71.99,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T17:40:59.620394"
-  },
-  {
-    "id": "e327bfcd7e6e10d2",
-    "title": "Tênis Infantil Menina e Menino Star Cano Baixo Antiderrapante",
-    "price_now": 49.09,
-    "price_was": 90.91,
-    "discount_pct": 46,
-    "url": "https://s.shopee.com.br/2qWEgldALY",
-    "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0yip2j4z2l387",
-    "source": "shopee",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T17:30:53.458827"
   }
 ]

@@ -10843,6 +10843,10 @@
     "1f6224cd7fc322be": {
       "title": "Fralda Descartável Babysec Galinha Pintadinha Ultrasec Giga XXXG 64 Unidades",
       "posted_at": "2026-11-18T23:40:49.720390"
+    },
+    "db9af1fda6524641": {
+      "title": "Fralda Pom Pom Protek XXG 50 Unidades",
+      "posted_at": "2026-11-19T00:10:50.465416"
     }
   },
   "results": [
@@ -53213,6 +53217,14 @@
       "post_id": "2732",
       "error": null,
       "at": "2026-11-18T23:40:49.719618"
+    },
+    {
+      "offer_id": "db9af1fda6524641",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2733",
+      "error": null,
+      "at": "2026-11-19T00:10:50.464726"
     }
   ]
 }
