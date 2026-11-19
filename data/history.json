@@ -10855,6 +10855,10 @@
     "3a6b4f7cdebc6982": {
       "title": "Mamypoko Fralda-calça Superproteção Xxg 22 Unidades",
       "posted_at": "2026-11-19T00:40:51.419694"
+    },
+    "008c2be31b64e91d": {
+      "title": "Bepantol Baby Lenço Umedecido Hipoalergênico 192 Unidades",
+      "posted_at": "2026-11-19T04:32:04.641145"
     }
   },
   "results": [
@@ -53249,6 +53253,22 @@
       "post_id": "2735",
       "error": null,
       "at": "2026-11-19T00:40:51.418894"
+    },
+    {
+      "offer_id": "4e157f75a1eaedb2",
+      "platform": "telegram",
+      "success": false,
+      "post_id": null,
+      "error": "",
+      "at": "2026-11-19T04:31:47.622830"
+    },
+    {
+      "offer_id": "008c2be31b64e91d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2739",
+      "error": null,
+      "at": "2026-11-19T04:32:04.640318"
     }
   ]
 }

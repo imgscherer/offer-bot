@@ -1,5 +1,17 @@
 [
   {
+    "id": "008c2be31b64e91d",
+    "title": "Bepantol Baby Lenço Umedecido Hipoalergênico 192 Unidades",
+    "price_now": 37.91,
+    "price_was": 55.97,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B096KDKNNQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/363510701017950619584541225849.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T04:32:04.640675"
+  },
+  {
     "id": "3a6b4f7cdebc6982",
     "title": "Mamypoko Fralda-calça Superproteção Xxg 22 Unidades",
     "price_now": 29.89,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T21:10:44.915803"
-  },
-  {
-    "id": "f3c93f5051583f82",
-    "title": "Carrinho de Bebê Toffy Cosco",
-    "price_now": 389.4,
-    "price_was": 589.83,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B0FWGGDH2X?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/220457807817950277806771452971.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T19:01:10.228754"
   }
 ]
