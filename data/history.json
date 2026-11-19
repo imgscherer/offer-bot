@@ -11007,6 +11007,10 @@
     "58ba75977eaacb3b": {
       "title": "Kit Lenço Umedecido Pampers 4 Pacotes com 48 Unidades",
       "posted_at": "2026-11-19T21:20:54.970790"
+    },
+    "24d5547a2aa9a9b1": {
+      "title": "Kit Macacão Carter's Com Pezinho Bebê Menino Estampado 2 Peças",
+      "posted_at": "2026-11-19T22:20:54.667593"
     }
   },
   "results": [
@@ -53769,6 +53773,14 @@
       "post_id": "2778",
       "error": null,
       "at": "2026-11-19T21:20:54.968234"
+    },
+    {
+      "offer_id": "24d5547a2aa9a9b1",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2779",
+      "error": null,
+      "at": "2026-11-19T22:20:54.666847"
     }
   ]
 }
