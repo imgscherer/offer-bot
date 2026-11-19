@@ -10883,6 +10883,10 @@
     "16b84735df5c73ca": {
       "title": "Personal Fralda Baby Premium Protection P 40 Unidades",
       "posted_at": "2026-11-19T11:30:50.205387"
+    },
+    "8e6ef35efd67653d": {
+      "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
+      "posted_at": "2026-11-19T11:50:43.825824"
     }
   },
   "results": [
@@ -53341,6 +53345,14 @@
       "post_id": "2745",
       "error": null,
       "at": "2026-11-19T11:30:50.204584"
+    },
+    {
+      "offer_id": "8e6ef35efd67653d",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2746",
+      "error": null,
+      "at": "2026-11-19T11:50:43.825118"
     }
   ]
 }
