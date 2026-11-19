@@ -1,5 +1,17 @@
 [
   {
+    "id": "3f19ba7925075d82",
+    "title": "Fralda Turma da Mônica Baby M 50 unidades",
+    "price_now": 33.0,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KW58QQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/530680415817951156278564610442.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T19:20:43.107753"
+  },
+  {
     "id": "f630db284097f3d6",
     "title": "Fralda Turma da Mônica Baby XXG 36 unidades",
     "price_now": 33.14,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-19T15:10:41.760549"
-  },
-  {
-    "id": "4eb71c545702d348",
-    "title": "Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Azul - Premium Baby",
-    "price_now": 712.5,
-    "price_was": 1099.0,
-    "discount_pct": 35,
-    "url": "https://www.amazon.com.br/dp/B0F1G78D2J?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/833526956317950995262586862405.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T15:01:09.742630"
   }
 ]

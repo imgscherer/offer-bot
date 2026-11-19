@@ -10983,6 +10983,10 @@
     "f630db284097f3d6": {
       "title": "Fralda Turma da Mônica Baby XXG 36 unidades",
       "posted_at": "2026-11-19T18:51:04.905774"
+    },
+    "3f19ba7925075d82": {
+      "title": "Fralda Turma da Mônica Baby M 50 unidades",
+      "posted_at": "2026-11-19T19:20:43.108045"
     }
   },
   "results": [
@@ -53697,6 +53701,14 @@
       "post_id": "2772",
       "error": null,
       "at": "2026-11-19T18:51:04.905237"
+    },
+    {
+      "offer_id": "3f19ba7925075d82",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2773",
+      "error": null,
+      "at": "2026-11-19T19:20:43.107441"
     }
   ]
 }
