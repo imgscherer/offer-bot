@@ -1,5 +1,17 @@
 [
   {
+    "id": "a63b1916a0dc7eca",
+    "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
+    "price_now": 18.0,
+    "price_was": 28.68,
+    "discount_pct": 37,
+    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/734743986017950976552015519327.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T14:20:43.480006"
+  },
+  {
     "id": "ccce8477d69086c7",
     "title": "Conjunto pijama bebê 3 peças algodão",
     "price_now": 38.39,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-19T11:30:50.204961"
-  },
-  {
-    "id": "8e9878acd89974f3",
-    "title": "Bepantol Baby Lenço Umedecido Hipoalergênico 192 Unidades",
-    "price_now": 37.0,
-    "price_was": 55.97,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B096KDKNNQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/549544073817950865013530701241.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T11:20:51.133602"
   }
 ]
