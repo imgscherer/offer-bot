@@ -10931,6 +10931,14 @@
     "f1643af4caa79c9e": {
       "title": "Carrinho de Bebê KODI Dobrável com Capacho e Bolsa de Armazenamento (3 Cores)",
       "posted_at": "2026-11-19T14:30:54.060574"
+    },
+    "a126188aa4f34dd6": {
+      "title": "Pijama Bebê 3 Peças Algodão Confortável",
+      "posted_at": "2026-11-19T15:01:01.481252"
+    },
+    "4eb71c545702d348": {
+      "title": "Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Azul - Premium Baby",
+      "posted_at": "2026-11-19T15:01:09.743178"
     }
   },
   "results": [
@@ -53541,6 +53549,22 @@
       "post_id": "2757",
       "error": null,
       "at": "2026-11-19T14:30:54.059637"
+    },
+    {
+      "offer_id": "a126188aa4f34dd6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2758",
+      "error": null,
+      "at": "2026-11-19T15:01:01.480313"
+    },
+    {
+      "offer_id": "4eb71c545702d348",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2759",
+      "error": null,
+      "at": "2026-11-19T15:01:09.742275"
     }
   ]
 }

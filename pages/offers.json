@@ -1,5 +1,29 @@
 [
   {
+    "id": "4eb71c545702d348",
+    "title": "Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Azul - Premium Baby",
+    "price_now": 712.5,
+    "price_was": 1099.0,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B0F1G78D2J?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/833526956317950995262586862405.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T15:01:09.742630"
+  },
+  {
+    "id": "a126188aa4f34dd6",
+    "title": "Pijama Bebê 3 Peças Algodão Confortável",
+    "price_now": 27.0,
+    "price_was": 93.11,
+    "discount_pct": 71,
+    "url": "https://www.amazon.com.br/dp/B083XK4NP4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/835226394517950992274333641687.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T15:01:01.480728"
+  },
+  {
     "id": "f1643af4caa79c9e",
     "title": "Carrinho de Bebê KODI Dobrável com Capacho e Bolsa de Armazenamento (3 Cores)",
     "price_now": 517.33,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-19T12:30:51.582556"
-  },
-  {
-    "id": "eb2c81672b68ace5",
-    "title": "Fralda Cremer P Com 36 Unidades",
-    "price_now": 22.46,
-    "price_was": 32.79,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0D92N963G?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/404515063717950891377716955468.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T12:00:58.919941"
-  },
-  {
-    "id": "8e6ef35efd67653d",
-    "title": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
-    "price_now": 33.0,
-    "price_was": 50.04,
-    "discount_pct": 34,
-    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/134805865917950882399767096107.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T11:50:43.825467"
   }
 ]
