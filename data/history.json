@@ -10959,6 +10959,10 @@
     "e514f065f7e3212e": {
       "title": "Kit 6 Pares Meia Bebê RN Cano Médio Algodão Punho Suave",
       "posted_at": "2026-11-19T16:20:52.988685"
+    },
+    "e484def9cd84cc01": {
+      "title": "Bandeja Assento Carro Bebê Portátil Poliéster Impermeável Mesa Criança Carrinho Acessórios",
+      "posted_at": "2026-11-19T16:30:35.320926"
     }
   },
   "results": [
@@ -53625,6 +53629,14 @@
       "post_id": "2766",
       "error": null,
       "at": "2026-11-19T16:20:52.986956"
+    },
+    {
+      "offer_id": "e484def9cd84cc01",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2767",
+      "error": null,
+      "at": "2026-11-19T16:30:35.320308"
     }
   ]
 }
