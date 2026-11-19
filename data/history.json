@@ -10963,6 +10963,10 @@
     "e484def9cd84cc01": {
       "title": "Bandeja Assento Carro Bebê Portátil Poliéster Impermeável Mesa Criança Carrinho Acessórios",
       "posted_at": "2026-11-19T16:30:35.320926"
+    },
+    "4173928a74995601": {
+      "title": "Fraldas Pampers Pants Ajuste Total M 108 unidades",
+      "posted_at": "2026-11-19T17:10:56.587337"
     }
   },
   "results": [
@@ -53637,6 +53641,14 @@
       "post_id": "2767",
       "error": null,
       "at": "2026-11-19T16:30:35.320308"
+    },
+    {
+      "offer_id": "4173928a74995601",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2768",
+      "error": null,
+      "at": "2026-11-19T17:10:56.586471"
     }
   ]
 }

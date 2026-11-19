@@ -1,5 +1,17 @@
 [
   {
+    "id": "4173928a74995601",
+    "title": "Fraldas Pampers Pants Ajuste Total M 108 unidades",
+    "price_now": 99.99,
+    "price_was": 194.9,
+    "discount_pct": 49,
+    "url": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/935021838217951072524905225685.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T17:10:56.586819"
+  },
+  {
     "id": "e484def9cd84cc01",
     "title": "Bandeja Assento Carro Bebê Portátil Poliéster Impermeável Mesa Criança Carrinho Acessórios",
     "price_now": 72.27,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-19T13:41:22.526476"
-  },
-  {
-    "id": "9badb3bf6e4ec6f4",
-    "title": "Personal Fralda Baby Premium Pants M, 70 Unidades",
-    "price_now": 39.0,
-    "price_was": 116.89,
-    "discount_pct": 67,
-    "url": "https://www.amazon.com.br/dp/B0BGML4J44?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/732792799717950953853694649724.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T13:41:12.017418"
   }
 ]
