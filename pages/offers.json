@@ -1,5 +1,17 @@
 [
   {
+    "id": "3f74f98ccd012ad6",
+    "title": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera E Calêndula, Dermatologicamente Testadas, 50 Unidades",
+    "price_now": 4.23,
+    "price_was": 9.42,
+    "discount_pct": 55,
+    "url": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/143662078317950930366816061538.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T13:10:46.635268"
+  },
+  {
     "id": "f41286da17e17250",
     "title": "Simple Joys by Carter's Body de manga comprida para bebês meninas, pacote com 5",
     "price_now": 99.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-19T10:20:47.987361"
-  },
-  {
-    "id": "4e157f75a1eaedb2",
-    "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica 100g | 100g Com Pró-Vitamina B5 Hipoalergênico Dermatologicame",
-    "price_now": 31.5,
-    "price_was": 59.99,
-    "discount_pct": 47,
-    "url": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/423042789917950621326060333977.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T04:40:34.385169"
   }
 ]
