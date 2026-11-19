@@ -10863,6 +10863,10 @@
     "4e157f75a1eaedb2": {
       "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica 100g | 100g Com Pró-Vitamina B5 Hipoalergênico Dermatologicame",
       "posted_at": "2026-11-19T04:40:34.385733"
+    },
+    "2ce7a0a56c401eca": {
+      "title": "Bepantol Baby Lenço Umedecido Hipoalergênico, 192 Unidades",
+      "posted_at": "2026-11-19T10:20:47.987594"
     }
   },
   "results": [
@@ -53281,6 +53285,14 @@
       "post_id": "2740",
       "error": null,
       "at": "2026-11-19T04:40:34.384833"
+    },
+    {
+      "offer_id": "2ce7a0a56c401eca",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2741",
+      "error": null,
+      "at": "2026-11-19T10:20:47.987073"
     }
   ]
 }

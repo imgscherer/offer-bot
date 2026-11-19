@@ -1,5 +1,17 @@
 [
   {
+    "id": "2ce7a0a56c401eca",
+    "title": "Bepantol Baby Lenço Umedecido Hipoalergênico, 192 Unidades",
+    "price_now": 37.91,
+    "price_was": 55.97,
+    "discount_pct": 32,
+    "url": "https://www.amazon.com.br/dp/B096KDKNNQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/421263697917950827924684462861.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T10:20:47.987361"
+  },
+  {
     "id": "4e157f75a1eaedb2",
     "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica 100g | 100g Com Pró-Vitamina B5 Hipoalergênico Dermatologicame",
     "price_now": 31.5,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T21:51:01.914153"
-  },
-  {
-    "id": "b22700e15930646f",
-    "title": "Fralda-Calça Superproteção MamyPoko XG 24 Unidades",
-    "price_now": 26.87,
-    "price_was": 42.9,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/226385756917950354324090277501.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T21:11:25.125188"
   }
 ]
