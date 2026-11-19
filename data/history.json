@@ -10871,6 +10871,10 @@
     "336567c1470adc58": {
       "title": "Fralda Pampers Pants Ajuste Total M com 108 Unidades",
       "posted_at": "2026-11-19T10:30:47.226003"
+    },
+    "45255292fabfc8e2": {
+      "title": "Neslac Comfor Zero Lactose Composto Lácteo Fórmula infantil 700g",
+      "posted_at": "2026-11-19T10:40:48.290372"
     }
   },
   "results": [
@@ -53305,6 +53309,14 @@
       "post_id": "2742",
       "error": null,
       "at": "2026-11-19T10:30:47.225331"
+    },
+    {
+      "offer_id": "45255292fabfc8e2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2743",
+      "error": null,
+      "at": "2026-11-19T10:40:48.289641"
     }
   ]
 }

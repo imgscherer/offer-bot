@@ -1,5 +1,17 @@
 [
   {
+    "id": "45255292fabfc8e2",
+    "title": "Neslac Comfor Zero Lactose Composto Lácteo Fórmula infantil 700g",
+    "price_now": 50.0,
+    "price_was": 76.69,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B08K3PF8Q7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/682185711217950843332611805034.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T10:40:48.289971"
+  },
+  {
     "id": "336567c1470adc58",
     "title": "Fralda Pampers Pants Ajuste Total M com 108 Unidades",
     "price_now": 109.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T21:51:24.455731"
-  },
-  {
-    "id": "e262c572437e71db",
-    "title": "Kit 8 Bodies Gerber de Manga Curta para Bebê Menina",
-    "price_now": 104.0,
-    "price_was": 270.5,
-    "discount_pct": 62,
-    "url": "https://www.amazon.com.br/dp/B07GFP14RJ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/223938618817950382585712650790.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T21:51:15.225357"
   }
 ]
