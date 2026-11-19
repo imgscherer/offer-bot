@@ -1,5 +1,17 @@
 [
   {
+    "id": "f68cca7bd9344f52",
+    "title": "Fralda Personal Baby Premium Pants M 70 unidades",
+    "price_now": 41.55,
+    "price_was": 116.89,
+    "discount_pct": 64,
+    "url": "https://www.amazon.com.br/dp/B0BGML4J44?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/525448690717951001886636524003.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T15:10:41.760549"
+  },
+  {
     "id": "4eb71c545702d348",
     "title": "Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Azul - Premium Baby",
     "price_now": 712.5,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-19T13:00:56.500251"
-  },
-  {
-    "id": "daab56d037d2f765",
-    "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
-    "price_now": 21.0,
-    "price_was": 44.99,
-    "discount_pct": 53,
-    "url": "https://www.amazon.com.br/dp/B07F1Z7ZM2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/881233108417950905446215103971.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T12:30:51.582556"
   }
 ]

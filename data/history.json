@@ -10939,6 +10939,10 @@
     "4eb71c545702d348": {
       "title": "Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Azul - Premium Baby",
       "posted_at": "2026-11-19T15:01:09.743178"
+    },
+    "f68cca7bd9344f52": {
+      "title": "Fralda Personal Baby Premium Pants M 70 unidades",
+      "posted_at": "2026-11-19T15:10:41.760795"
     }
   },
   "results": [
@@ -53565,6 +53569,14 @@
       "post_id": "2759",
       "error": null,
       "at": "2026-11-19T15:01:09.742275"
+    },
+    {
+      "offer_id": "f68cca7bd9344f52",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2760",
+      "error": null,
+      "at": "2026-11-19T15:10:41.760259"
     }
   ]
 }
