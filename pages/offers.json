@@ -1,5 +1,17 @@
 [
   {
+    "id": "56c7c354309113fe",
+    "title": "Graco Cadeira Infantil para Carro Extend2Fit 2 em 1 com Sistema LATCH Redmond Preto e Cinza",
+    "price_now": 1399.0,
+    "price_was": 3328.0,
+    "discount_pct": 58,
+    "url": "https://www.amazon.com.br/dp/B0FK11RFQG?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/694021834617951124221143343958.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T18:30:47.601788"
+  },
+  {
     "id": "d5543794f1208c13",
     "title": "Cadeira Infantil para Carro Extend2Fit  2 em 1 com Sistema LATCH Redmond Graco",
     "price_now": 1399.92,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-19T14:30:54.060033"
-  },
-  {
-    "id": "a63b1916a0dc7eca",
-    "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
-    "price_now": 18.0,
-    "price_was": 28.68,
-    "discount_pct": 37,
-    "url": "https://www.amazon.com.br/dp/B09JVKRS42?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/734743986017950976552015519327.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T14:20:43.480006"
   }
 ]

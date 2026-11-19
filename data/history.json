@@ -10971,6 +10971,10 @@
     "d5543794f1208c13": {
       "title": "Cadeira Infantil para Carro Extend2Fit  2 em 1 com Sistema LATCH Redmond Graco",
       "posted_at": "2026-11-19T18:20:50.020927"
+    },
+    "56c7c354309113fe": {
+      "title": "Graco Cadeira Infantil para Carro Extend2Fit 2 em 1 com Sistema LATCH Redmond Preto e Cinza",
+      "posted_at": "2026-11-19T18:30:47.602062"
     }
   },
   "results": [
@@ -53661,6 +53665,14 @@
       "post_id": "2769",
       "error": null,
       "at": "2026-11-19T18:20:50.020307"
+    },
+    {
+      "offer_id": "56c7c354309113fe",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2770",
+      "error": null,
+      "at": "2026-11-19T18:30:47.601470"
     }
   ]
 }
