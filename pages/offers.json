@@ -1,5 +1,29 @@
 [
   {
+    "id": "f630db284097f3d6",
+    "title": "Fralda Turma da Mônica Baby XXG 36 unidades",
+    "price_now": 33.14,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KPQQWF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/196872384717951135661855941276.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T18:51:04.905502"
+  },
+  {
+    "id": "b7ff018544a4bc44",
+    "title": "Fralda Turma da Mônica Baby P 62 unidades",
+    "price_now": 33.14,
+    "price_was": 50.04,
+    "discount_pct": 34,
+    "url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/867122381617951135713307464884.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T18:50:54.358869"
+  },
+  {
     "id": "56c7c354309113fe",
     "title": "Graco Cadeira Infantil para Carro Extend2Fit 2 em 1 com Sistema LATCH Redmond Preto e Cinza",
     "price_now": 1399.0,
@@ -118,29 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-19T15:01:09.742630"
-  },
-  {
-    "id": "a126188aa4f34dd6",
-    "title": "Pijama Bebê 3 Peças Algodão Confortável",
-    "price_now": 27.0,
-    "price_was": 93.11,
-    "discount_pct": 71,
-    "url": "https://www.amazon.com.br/dp/B083XK4NP4?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/835226394517950992274333641687.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T15:01:01.480728"
-  },
-  {
-    "id": "f1643af4caa79c9e",
-    "title": "Carrinho de Bebê KODI Dobrável com Capacho e Bolsa de Armazenamento (3 Cores)",
-    "price_now": 517.33,
-    "price_was": 996.47,
-    "discount_pct": 48,
-    "url": "https://s.shopee.com.br/3Vlx9lxiyf?lp=aff&af_id=18328861131",
-    "image": "https://i.promobit.com.br/1200/237048717517950981034244863520.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T14:30:54.060033"
   }
 ]

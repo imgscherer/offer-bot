@@ -10975,6 +10975,14 @@
     "56c7c354309113fe": {
       "title": "Graco Cadeira Infantil para Carro Extend2Fit 2 em 1 com Sistema LATCH Redmond Preto e Cinza",
       "posted_at": "2026-11-19T18:30:47.602062"
+    },
+    "b7ff018544a4bc44": {
+      "title": "Fralda Turma da Mônica Baby P 62 unidades",
+      "posted_at": "2026-11-19T18:50:54.359174"
+    },
+    "f630db284097f3d6": {
+      "title": "Fralda Turma da Mônica Baby XXG 36 unidades",
+      "posted_at": "2026-11-19T18:51:04.905774"
     }
   },
   "results": [
@@ -53673,6 +53681,22 @@
       "post_id": "2770",
       "error": null,
       "at": "2026-11-19T18:30:47.601470"
+    },
+    {
+      "offer_id": "b7ff018544a4bc44",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2771",
+      "error": null,
+      "at": "2026-11-19T18:50:54.358543"
+    },
+    {
+      "offer_id": "f630db284097f3d6",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2772",
+      "error": null,
+      "at": "2026-11-19T18:51:04.905237"
     }
   ]
 }
