@@ -10927,6 +10927,10 @@
     "a63b1916a0dc7eca": {
       "title": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
       "posted_at": "2026-11-19T14:20:43.480254"
+    },
+    "f1643af4caa79c9e": {
+      "title": "Carrinho de Bebê KODI Dobrável com Capacho e Bolsa de Armazenamento (3 Cores)",
+      "posted_at": "2026-11-19T14:30:54.060574"
     }
   },
   "results": [
@@ -53529,6 +53533,14 @@
       "post_id": "2756",
       "error": null,
       "at": "2026-11-19T14:20:43.479751"
+    },
+    {
+      "offer_id": "f1643af4caa79c9e",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2757",
+      "error": null,
+      "at": "2026-11-19T14:30:54.059637"
     }
   ]
 }
