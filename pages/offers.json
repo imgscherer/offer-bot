@@ -1,5 +1,17 @@
 [
   {
+    "id": "c2fc804fac032581",
+    "title": "Johnson's Baby Shampoo Infantil Cachos Dos Sonhos 200ml",
+    "price_now": 10.0,
+    "price_was": 24.79,
+    "discount_pct": 60,
+    "url": "https://www.amazon.com.br/dp/B0789TG4TQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/378323162017951014527566814162.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T15:31:34.249147"
+  },
+  {
     "id": "f68cca7bd9344f52",
     "title": "Fralda Personal Baby Premium Pants M 70 unidades",
     "price_now": 41.55,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-19T13:01:08.017769"
-  },
-  {
-    "id": "d129fa1d71acf5e2",
-    "title": "Simple Joys by Carter's Meias de algodão para bebês meninas, para dormir e brincar",
-    "price_now": 88.26,
-    "price_was": 142.59,
-    "discount_pct": 38,
-    "url": "https://www.amazon.com.br/dp/B07ZPPYLN1?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/832433819317950925162542523171.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T13:00:56.500251"
   }
 ]

@@ -10943,6 +10943,10 @@
     "f68cca7bd9344f52": {
       "title": "Fralda Personal Baby Premium Pants M 70 unidades",
       "posted_at": "2026-11-19T15:10:41.760795"
+    },
+    "c2fc804fac032581": {
+      "title": "Johnson's Baby Shampoo Infantil Cachos Dos Sonhos 200ml",
+      "posted_at": "2026-11-19T15:31:34.249645"
     }
   },
   "results": [
@@ -53577,6 +53581,14 @@
       "post_id": "2760",
       "error": null,
       "at": "2026-11-19T15:10:41.760259"
+    },
+    {
+      "offer_id": "c2fc804fac032581",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2763",
+      "error": null,
+      "at": "2026-11-19T15:31:34.248798"
     }
   ]
 }
