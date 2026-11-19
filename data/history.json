@@ -10967,6 +10967,10 @@
     "4173928a74995601": {
       "title": "Fraldas Pampers Pants Ajuste Total M 108 unidades",
       "posted_at": "2026-11-19T17:10:56.587337"
+    },
+    "d5543794f1208c13": {
+      "title": "Cadeira Infantil para Carro Extend2Fit  2 em 1 com Sistema LATCH Redmond Graco",
+      "posted_at": "2026-11-19T18:20:50.020927"
     }
   },
   "results": [
@@ -53649,6 +53653,14 @@
       "post_id": "2768",
       "error": null,
       "at": "2026-11-19T17:10:56.586471"
+    },
+    {
+      "offer_id": "d5543794f1208c13",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2769",
+      "error": null,
+      "at": "2026-11-19T18:20:50.020307"
     }
   ]
 }
