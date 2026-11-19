@@ -10999,6 +10999,14 @@
     "1f10f0630e72ba6a": {
       "title": "Conjunto Bebê Fleece Natal 6-9 Meses",
       "posted_at": "2026-11-19T20:40:52.367621"
+    },
+    "744e5075cca8d112": {
+      "title": "Body unissex manga comprida bebê, 7 unidades",
+      "posted_at": "2026-11-19T21:20:43.810830"
+    },
+    "58ba75977eaacb3b": {
+      "title": "Kit Lenço Umedecido Pampers 4 Pacotes com 48 Unidades",
+      "posted_at": "2026-11-19T21:20:54.970790"
     }
   },
   "results": [
@@ -53745,6 +53753,22 @@
       "post_id": "2776",
       "error": null,
       "at": "2026-11-19T20:40:52.367088"
+    },
+    {
+      "offer_id": "744e5075cca8d112",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2777",
+      "error": null,
+      "at": "2026-11-19T21:20:43.810205"
+    },
+    {
+      "offer_id": "58ba75977eaacb3b",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2778",
+      "error": null,
+      "at": "2026-11-19T21:20:54.968234"
     }
   ]
 }

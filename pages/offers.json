@@ -1,5 +1,29 @@
 [
   {
+    "id": "58ba75977eaacb3b",
+    "title": "Kit Lenço Umedecido Pampers 4 Pacotes com 48 Unidades",
+    "price_now": 32.0,
+    "price_was": 46.7,
+    "discount_pct": 31,
+    "url": "https://www.amazon.com.br/dp/B082L13YPQ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/247303286617951226979220330533.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T21:20:54.968539"
+  },
+  {
+    "id": "744e5075cca8d112",
+    "title": "Body unissex manga comprida bebê, 7 unidades",
+    "price_now": 68.0,
+    "price_was": 122.28,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B07NH3R8DJ?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/914862080517951221244318303251.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T21:20:43.810531"
+  },
+  {
     "id": "1f10f0630e72ba6a",
     "title": "Conjunto Bebê Fleece Natal 6-9 Meses",
     "price_now": 66.0,
@@ -118,29 +142,5 @@
     "source": "shopee",
     "niche": "motherhood",
     "added_at": "2026-11-19T16:30:35.320676"
-  },
-  {
-    "id": "e514f065f7e3212e",
-    "title": "Kit 6 Pares Meia Bebê RN Cano Médio Algodão Punho Suave",
-    "price_now": 27.0,
-    "price_was": 49.99,
-    "discount_pct": 46,
-    "url": "https://www.amazon.com.br/dp/B0FX3FNVZ2?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/910658715317951044457328110384.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T16:20:52.987247"
-  },
-  {
-    "id": "50bfd6a0f251783d",
-    "title": "Oikos - Lixeira Antiodor Bebê para Fraldas 10L",
-    "price_now": 78.81,
-    "price_was": 180.0,
-    "discount_pct": 56,
-    "url": "https://www.amazon.com.br/dp/B0GHP6DWBN?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/579739283117951049986493898177.png",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T16:20:41.247329"
   }
 ]
