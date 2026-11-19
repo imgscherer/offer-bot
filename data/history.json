@@ -10995,6 +10995,10 @@
     "f42fcb70e09c4caa": {
       "title": "Fralda Pom Pom Protek Proteção Mãe Mega P",
       "posted_at": "2026-11-19T20:30:58.860521"
+    },
+    "1f10f0630e72ba6a": {
+      "title": "Conjunto Bebê Fleece Natal 6-9 Meses",
+      "posted_at": "2026-11-19T20:40:52.367621"
     }
   },
   "results": [
@@ -53733,6 +53737,14 @@
       "post_id": "2775",
       "error": null,
       "at": "2026-11-19T20:30:58.859730"
+    },
+    {
+      "offer_id": "1f10f0630e72ba6a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2776",
+      "error": null,
+      "at": "2026-11-19T20:40:52.367088"
     }
   ]
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "1f10f0630e72ba6a",
+    "title": "Conjunto Bebê Fleece Natal 6-9 Meses",
+    "price_now": 66.0,
+    "price_was": 126.32,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B09VVN34T9?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/226191968017951205286434439551.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T20:40:52.367379"
+  },
+  {
     "id": "f42fcb70e09c4caa",
     "title": "Fralda Pom Pom Protek Proteção Mãe Mega P",
     "price_now": 32.58,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-19T16:20:41.247329"
-  },
-  {
-    "id": "ab866eb47dfc389f",
-    "title": "Escova para Mamadeiras e bico Philips Avent Azul",
-    "price_now": 29.85,
-    "price_was": 59.9,
-    "discount_pct": 50,
-    "url": "https://www.amazon.com.br/dp/B000MMOR46?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/317491049617951037952621089844.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T16:10:45.655419"
   }
 ]
