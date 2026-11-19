@@ -1,5 +1,41 @@
 [
   {
+    "id": "f41286da17e17250",
+    "title": "Simple Joys by Carter's Body de manga comprida para bebês meninas, pacote com 5",
+    "price_now": 99.0,
+    "price_was": 151.17,
+    "discount_pct": 35,
+    "url": "https://www.amazon.com.br/dp/B01M6C5TA4?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/920030962817950924492710345995.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T13:01:19.933365"
+  },
+  {
+    "id": "0b56336e5a13966a",
+    "title": "Simple Joys by Carter's Body de manga comprida para bebês e meninos, pacote",
+    "price_now": 94.74,
+    "price_was": 148.69,
+    "discount_pct": 36,
+    "url": "https://www.amazon.com.br/dp/B079614MM6?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/636606922117950925813973726424.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T13:01:08.017769"
+  },
+  {
+    "id": "d129fa1d71acf5e2",
+    "title": "Simple Joys by Carter's Meias de algodão para bebês meninas, para dormir e brincar",
+    "price_now": 88.26,
+    "price_was": 142.59,
+    "discount_pct": 38,
+    "url": "https://www.amazon.com.br/dp/B07ZPPYLN1?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/832433819317950925162542523171.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T13:00:56.500251"
+  },
+  {
     "id": "daab56d037d2f765",
     "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
     "price_now": 21.0,
@@ -106,41 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-19T04:40:34.385169"
-  },
-  {
-    "id": "008c2be31b64e91d",
-    "title": "Bepantol Baby Lenço Umedecido Hipoalergênico 192 Unidades",
-    "price_now": 37.91,
-    "price_was": 55.97,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B096KDKNNQ?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/363510701017950619584541225849.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T04:32:04.640675"
-  },
-  {
-    "id": "3a6b4f7cdebc6982",
-    "title": "Mamypoko Fralda-calça Superproteção Xxg 22 Unidades",
-    "price_now": 29.89,
-    "price_was": 46.9,
-    "discount_pct": 36,
-    "url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/630872649917950485758088464364.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T00:40:51.419272"
-  },
-  {
-    "id": "16f324ca2943712e",
-    "title": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros 750ml",
-    "price_now": 30.0,
-    "price_was": 62.99,
-    "discount_pct": 52,
-    "url": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/692398036317950477413819079199.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T00:40:42.447791"
   }
 ]

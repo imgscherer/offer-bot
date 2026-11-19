@@ -10895,6 +10895,18 @@
     "daab56d037d2f765": {
       "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
       "posted_at": "2026-11-19T12:30:51.582804"
+    },
+    "d129fa1d71acf5e2": {
+      "title": "Simple Joys by Carter's Meias de algodão para bebês meninas, para dormir e brincar",
+      "posted_at": "2026-11-19T13:00:56.500526"
+    },
+    "0b56336e5a13966a": {
+      "title": "Simple Joys by Carter's Body de manga comprida para bebês e meninos, pacote",
+      "posted_at": "2026-11-19T13:01:08.018166"
+    },
+    "f41286da17e17250": {
+      "title": "Simple Joys by Carter's Body de manga comprida para bebês meninas, pacote com 5",
+      "posted_at": "2026-11-19T13:01:19.933801"
     }
   },
   "results": [
@@ -53377,6 +53389,30 @@
       "post_id": "2748",
       "error": null,
       "at": "2026-11-19T12:30:51.582262"
+    },
+    {
+      "offer_id": "d129fa1d71acf5e2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2749",
+      "error": null,
+      "at": "2026-11-19T13:00:56.499929"
+    },
+    {
+      "offer_id": "0b56336e5a13966a",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2750",
+      "error": null,
+      "at": "2026-11-19T13:01:08.017536"
+    },
+    {
+      "offer_id": "f41286da17e17250",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2751",
+      "error": null,
+      "at": "2026-11-19T13:01:19.933123"
     }
   ]
 }
