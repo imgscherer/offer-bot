@@ -1,5 +1,17 @@
 [
   {
+    "id": "336567c1470adc58",
+    "title": "Fralda Pampers Pants Ajuste Total M com 108 Unidades",
+    "price_now": 109.0,
+    "price_was": 194.9,
+    "discount_pct": 44,
+    "url": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/446192001917950837407500993839.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T10:30:47.225689"
+  },
+  {
     "id": "2ce7a0a56c401eca",
     "title": "Bepantol Baby Lenço Umedecido Hipoalergênico, 192 Unidades",
     "price_now": 37.91,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T21:51:15.225357"
-  },
-  {
-    "id": "26ed0e5c6e10908a",
-    "title": "Kit 8 Bodies Gerber de Manga Curta para Bebê Menina",
-    "price_now": 98.0,
-    "price_was": 277.07,
-    "discount_pct": 65,
-    "url": "https://www.amazon.com.br/dp/B07GFNRP6H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/150847420217950382057731926990.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T21:51:01.914153"
   }
 ]
