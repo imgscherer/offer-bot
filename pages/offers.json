@@ -1,5 +1,17 @@
 [
   {
+    "id": "daab56d037d2f765",
+    "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
+    "price_now": 21.0,
+    "price_was": 44.99,
+    "discount_pct": 53,
+    "url": "https://www.amazon.com.br/dp/B07F1Z7ZM2?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/881233108417950905446215103971.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T12:30:51.582556"
+  },
+  {
     "id": "eb2c81672b68ace5",
     "title": "Fralda Cremer P Com 36 Unidades",
     "price_now": 22.46,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-19T00:40:42.447791"
-  },
-  {
-    "id": "db9af1fda6524641",
-    "title": "Fralda Pom Pom Protek XXG 50 Unidades",
-    "price_now": 52.42,
-    "price_was": 77.37,
-    "discount_pct": 32,
-    "url": "https://www.amazon.com.br/dp/B0H1JV4DQ7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/809771373217950467191427007347.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-19T00:10:50.464997"
   }
 ]

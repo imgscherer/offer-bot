@@ -10891,6 +10891,10 @@
     "eb2c81672b68ace5": {
       "title": "Fralda Cremer P Com 36 Unidades",
       "posted_at": "2026-11-19T12:00:58.920499"
+    },
+    "daab56d037d2f765": {
+      "title": "Condicionador Infantil Johnson's Baby Regular 400ml Amarelo",
+      "posted_at": "2026-11-19T12:30:51.582804"
     }
   },
   "results": [
@@ -53365,6 +53369,14 @@
       "post_id": "2747",
       "error": null,
       "at": "2026-11-19T12:00:58.919551"
+    },
+    {
+      "offer_id": "daab56d037d2f765",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2748",
+      "error": null,
+      "at": "2026-11-19T12:30:51.582262"
     }
   ]
 }
