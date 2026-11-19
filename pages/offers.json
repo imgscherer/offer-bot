@@ -1,5 +1,17 @@
 [
   {
+    "id": "4e157f75a1eaedb2",
+    "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica 100g | 100g Com Pró-Vitamina B5 Hipoalergênico Dermatologicame",
+    "price_now": 31.5,
+    "price_was": 59.99,
+    "discount_pct": 47,
+    "url": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/423042789917950621326060333977.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T04:40:34.385169"
+  },
+  {
     "id": "008c2be31b64e91d",
     "title": "Bepantol Baby Lenço Umedecido Hipoalergênico 192 Unidades",
     "price_now": 37.91,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T21:11:25.125188"
-  },
-  {
-    "id": "52fa919b9ff6e22a",
-    "title": "Garrafa Infantil de Inox Sereia com bebedor silicone 350 ml Lillo",
-    "price_now": 37.9,
-    "price_was": 139.9,
-    "discount_pct": 73,
-    "url": "https://www.amazon.com.br/dp/B0F3YXC3L7?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/718884341017950353202532301726.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T21:10:44.915803"
   }
 ]

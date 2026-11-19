@@ -10859,6 +10859,10 @@
     "008c2be31b64e91d": {
       "title": "Bepantol Baby Lenço Umedecido Hipoalergênico 192 Unidades",
       "posted_at": "2026-11-19T04:32:04.641145"
+    },
+    "4e157f75a1eaedb2": {
+      "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica 100g | 100g Com Pró-Vitamina B5 Hipoalergênico Dermatologicame",
+      "posted_at": "2026-11-19T04:40:34.385733"
     }
   },
   "results": [
@@ -53269,6 +53273,14 @@
       "post_id": "2739",
       "error": null,
       "at": "2026-11-19T04:32:04.640318"
+    },
+    {
+      "offer_id": "4e157f75a1eaedb2",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2740",
+      "error": null,
+      "at": "2026-11-19T04:40:34.384833"
     }
   ]
 }
