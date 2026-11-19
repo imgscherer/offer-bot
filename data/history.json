@@ -10875,6 +10875,10 @@
     "45255292fabfc8e2": {
       "title": "Neslac Comfor Zero Lactose Composto Lácteo Fórmula infantil 700g",
       "posted_at": "2026-11-19T10:40:48.290372"
+    },
+    "8e9878acd89974f3": {
+      "title": "Bepantol Baby Lenço Umedecido Hipoalergênico 192 Unidades",
+      "posted_at": "2026-11-19T11:20:51.134003"
     }
   },
   "results": [
@@ -53317,6 +53321,14 @@
       "post_id": "2743",
       "error": null,
       "at": "2026-11-19T10:40:48.289641"
+    },
+    {
+      "offer_id": "8e9878acd89974f3",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2744",
+      "error": null,
+      "at": "2026-11-19T11:20:51.133295"
     }
   ]
 }
