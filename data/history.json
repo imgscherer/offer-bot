@@ -10987,6 +10987,10 @@
     "3f19ba7925075d82": {
       "title": "Fralda Turma da Mônica Baby M 50 unidades",
       "posted_at": "2026-11-19T19:20:43.108045"
+    },
+    "2939b4fb62188172": {
+      "title": "MamyPoko Fralda-Calça Premium Seca Xxg 44 Unidades",
+      "posted_at": "2026-11-19T19:50:49.324079"
     }
   },
   "results": [
@@ -53709,6 +53713,14 @@
       "post_id": "2773",
       "error": null,
       "at": "2026-11-19T19:20:43.107441"
+    },
+    {
+      "offer_id": "2939b4fb62188172",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2774",
+      "error": null,
+      "at": "2026-11-19T19:50:49.323385"
     }
   ]
 }
