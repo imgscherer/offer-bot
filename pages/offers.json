@@ -1,5 +1,17 @@
 [
   {
+    "id": "16b84735df5c73ca",
+    "title": "Personal Fralda Baby Premium Protection P 40 Unidades",
+    "price_now": 24.0,
+    "price_was": 46.38,
+    "discount_pct": 48,
+    "url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=amamaeencontr-20",
+    "image": "https://i.promobit.com.br/1200/425708144217950875739942711463.jpg",
+    "source": "promobit",
+    "niche": "motherhood",
+    "added_at": "2026-11-19T11:30:50.204961"
+  },
+  {
     "id": "8e9878acd89974f3",
     "title": "Bepantol Baby Lenço Umedecido Hipoalergênico 192 Unidades",
     "price_now": 37.0,
@@ -130,17 +142,5 @@
     "source": "promobit",
     "niche": "motherhood",
     "added_at": "2026-11-18T23:30:54.057896"
-  },
-  {
-    "id": "947a84ee773299f4",
-    "title": "Macacões Bebê Unissex Manga Curta 8un",
-    "price_now": 97.0,
-    "price_was": 219.37,
-    "discount_pct": 56,
-    "url": "https://www.amazon.com.br/dp/B07GG1P87H?tag=amamaeencontr-20",
-    "image": "https://i.promobit.com.br/1200/483934665017950422212900097463.jpg",
-    "source": "promobit",
-    "niche": "motherhood",
-    "added_at": "2026-11-18T23:00:54.672842"
   }
 ]

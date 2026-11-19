@@ -10879,6 +10879,10 @@
     "8e9878acd89974f3": {
       "title": "Bepantol Baby Lenço Umedecido Hipoalergênico 192 Unidades",
       "posted_at": "2026-11-19T11:20:51.134003"
+    },
+    "16b84735df5c73ca": {
+      "title": "Personal Fralda Baby Premium Protection P 40 Unidades",
+      "posted_at": "2026-11-19T11:30:50.205387"
     }
   },
   "results": [
@@ -53329,6 +53333,14 @@
       "post_id": "2744",
       "error": null,
       "at": "2026-11-19T11:20:51.133295"
+    },
+    {
+      "offer_id": "16b84735df5c73ca",
+      "platform": "telegram",
+      "success": true,
+      "post_id": "2745",
+      "error": null,
+      "at": "2026-11-19T11:30:50.204584"
     }
   ]
 }
